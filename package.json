@@ -1,0 +1,11 @@
+{
+  "name": "pelias-wof-admin-lookup",
+  "version": "1.0.0",
+  "description": "A fast, local, streaming Whos On First administrative hierarchy lookup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
