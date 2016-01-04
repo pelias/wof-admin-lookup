@@ -4,8 +4,28 @@
   "description": "A fast, local, streaming Whos On First administrative hierarchy lookup.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test | tap-dot",
+    "lint": "jshint .",
+    "validate": "npm ls"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^1.0.0",
+    "bluebird": "^3.1.1",
+    "event-stream": "^3.3.2",
+    "lodash": "^3.10.1",
+    "pelias-model": "^0.4.0",
+    "promise": "^7.1.1",
+    "request-promise": "^1.0.2",
+    "tap-dot": "^1.0.1",
+    "tape": "^4.2.2",
+    "through2": "^2.0.0",
+    "through2-map": "^2.0.0"
+  },
+  "pre-commit": [
+    "lint",
+    "validate",
+    "test"
+  ]
 }
