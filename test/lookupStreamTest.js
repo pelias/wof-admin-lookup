@@ -79,7 +79,7 @@ tape('tests', function(test) {
       new Document( 'whosonfirst', '1')
         .setCentroid({ lat: 13.131313, lon: 31.313131 })
         .setAdmin( 'admin0', 'Country')
-    ]
+    ];
 
     var resolver = function(centroid, callback) {
       if (_.isEqual(centroid, { lat: 12.121212, lon: 21.212121 } )) {
@@ -88,7 +88,7 @@ tape('tests', function(test) {
         setTimeout(callback, 0, { country: 'Country' });
       }
 
-    }
+    };
 
     var lookupStream = stream.createLookupStream(resolver);
 

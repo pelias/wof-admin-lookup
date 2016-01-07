@@ -37,7 +37,7 @@ tape('tests', function(test) {
     var centroid = {
       lat: 12.121212,
       lon: 21.212121
-    }
+    };
 
     var callback = function(result) {
       var expected = {

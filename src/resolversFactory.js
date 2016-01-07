@@ -15,7 +15,7 @@ function createWofPipResolver(url) {
       var result = {};
 
       response.setEncoding('utf8');
-      response.on('data', function(data) { contents += data } );
+      response.on('data', function(data) { contents += data; } );
       response.on('end', function() {
         JSON.parse(contents).forEach(function(row) {
           switch (row.Placetype) {
@@ -43,10 +43,10 @@ function createWofPipResolver(url) {
       });
     });
 
-  }
+  };
 
 }
 
 module.exports = {
   createWofPipResolver: createWofPipResolver
-}
+};
