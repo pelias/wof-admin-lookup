@@ -1,10 +1,8 @@
 var util = require('util');
 var http = require('http');
 
-var baseUrl;
-
 function createWofPipResolver(url) {
-  baseUrl = url;
+  var baseUrl = url;
 
   return function(centroid, callback) {
     var url = util.format('%s/?latitude=%d&longitude=%d', baseUrl, centroid.lat, centroid.lon);
