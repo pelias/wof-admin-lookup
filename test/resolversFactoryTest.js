@@ -1,7 +1,7 @@
 var tape = require('tape');
 var http = require('http');
 
-var resolvers = require('../src/resolvers');
+var resolvers = require('../src/resolversFactory');
 
 tape('tests', function(test) {
   test.test('return value should be parsed from server response', function(t) {

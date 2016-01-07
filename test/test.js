@@ -1,2 +1,2 @@
 require ('./lookupStreamTest.js');
-require ('./resolversTest.js');
+require ('./resolversFactoryTest.js');
