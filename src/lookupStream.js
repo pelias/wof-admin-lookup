@@ -1,7 +1,7 @@
 var through2 = require('through2');
 var _ = require('lodash');
 
-function createLookupStream(resolver) {
+function createLookupStream(resolver, stream) {
   return through2.obj(function(doc, enc, callback) {
     // don't do anything if there's no centroid
     if (Object.keys(doc.getCentroid()).length === 0) {
@@ -28,10 +28,10 @@ function createLookupStream(resolver) {
         doc.setAdmin( 'neighborhood', result.neighbourhood);
       }
 
-      that.push(doc);
-      callback();
-
+      stream.write(doc);
     });
+    that.push(doc);
+    callback();
 
   });
 

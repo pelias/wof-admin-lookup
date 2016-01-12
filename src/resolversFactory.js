@@ -1,6 +1,8 @@
 var util = require('util');
 var http = require('http');
 
+http.globalAgent.maxSockets = 1000;
+
 function createWofPipResolver(url) {
   var baseUrl = url;
 
