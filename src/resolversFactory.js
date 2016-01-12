@@ -27,6 +27,7 @@ function createWofPipResolver(url) {
               result.county = row.Name;
               break;
             case 'locality':
+            case 'localadmin':
               result.locality = row.Name;
               break;
             case 'neighbourhood':
