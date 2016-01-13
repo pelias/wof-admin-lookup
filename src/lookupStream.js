@@ -24,6 +24,9 @@ function createLookupStream(resolver) {
       if (!_.isUndefined(result.locality)) {
         doc.setAdmin( 'locality', result.locality);
       }
+      if (!_.isUndefined(result.localadmin)) {
+        doc.setAdmin( 'local_admin', result.localadmin);
+      }
       if (!_.isUndefined(result.neighbourhood)) {
         doc.setAdmin( 'neighborhood', result.neighbourhood);
       }

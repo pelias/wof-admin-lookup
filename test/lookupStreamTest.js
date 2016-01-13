@@ -39,6 +39,7 @@ tape('tests', function(test) {
         .setAdmin( 'admin1', 'Region')
         .setAdmin( 'admin2', 'County')
         .setAdmin( 'locality', 'Locality')
+        .setAdmin( 'local_admin', 'LocalAdmin')
         .setAdmin( 'neighborhood', 'Neighbourhood')
     ];
 
@@ -48,6 +49,7 @@ tape('tests', function(test) {
         region: 'Region',
         county: 'County',
         locality: 'Locality',
+        localadmin: 'LocalAdmin',
         neighbourhood: 'Neighbourhood'
       };
 

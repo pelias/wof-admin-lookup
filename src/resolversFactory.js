@@ -10,32 +10,14 @@ function createWofPipResolver(url) {
     http.get(url, function(response) {
       var contents = '';
 
-      var result = {};
-
       response.setEncoding('utf8');
       response.on('data', function(data) { contents += data; } );
       response.on('end', function() {
-        JSON.parse(contents).forEach(function(row) {
-          switch (row.Placetype) {
-            case 'country':
-              result.country = row.Name;
-              break;
-            case 'region':
-              result.region = row.Name;
-              break;
-            case 'county':
-              result.county = row.Name;
-              break;
-            case 'locality':
-            case 'localadmin':
-              result.locality = row.Name;
-              break;
-            case 'neighbourhood':
-              result.neighbourhood = row.Name;
-              break;
-          }
-
-        });
+        // convert the array to an object keyed on the array element's Placetype field
+        var result = JSON.parse(contents).reduce(function(obj, elem) {
+          obj[elem.Placetype] = elem.Name;
+          return obj;
+        }, {});
 
         return callback(result);
 
