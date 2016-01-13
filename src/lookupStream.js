@@ -5,11 +5,8 @@ function createLookupStream(resolver) {
   return through2.obj(function(doc, enc, callback) {
     // don't do anything if there's no centroid
     if (Object.keys(doc.getCentroid()).length === 0) {
-      this.push(doc);
-      return callback();
+      return callback(null, doc);
     }
-
-    var that = this;
 
     resolver(doc.getCentroid(), function(result) {
       if (!_.isUndefined(result.country)) {
@@ -31,8 +28,7 @@ function createLookupStream(resolver) {
         doc.setAdmin( 'neighborhood', result.neighbourhood);
       }
 
-      that.push(doc);
-      callback();
+      callback(null, doc);
 
     });
 
