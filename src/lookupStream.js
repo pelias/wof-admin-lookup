@@ -10,7 +10,6 @@ function createLookupStream(resolver) {
 
     resolver(doc.getCentroid(), function(err, result) {
       if (err) {
-        console.log(err);
         return callback(err, doc);
       }
 

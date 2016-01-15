@@ -101,34 +101,31 @@ tape('tests', function(test) {
 
   });
 
-  // test.test('resolver throwing error should push doc onto stream unmodified', function(t) {
-  //   var input = [
-  //     new Document( 'whosonfirst', '1')
-  //       .setCentroid({ lat: 12.121212, lon: 21.212121 })
-  //   ];
-  //
-  //   var expected = [
-  //     new Document( 'whosonfirst', '1')
-  //       .setCentroid({ lat: 12.121212, lon: 21.212121 })
-  //   ];
-  //
-  //   var resolver = function(centroid, callback) {
-  //     setTimeout(callback, 0, 'this is an error', { region: 'Region' } );
-  //   };
-  //
-  //   var lookupStream = stream.createLookupStream(resolver);
-  //
-  //   try {
-  //     test_stream(input, lookupStream, function(err, actual) {
-  //       t.deepEqual(actual, expected, 'nothing should have been set');
-  //       t.end();
-  //     });
-  //
-  //   }
-  //   catch (err) {
-  //     console.log(err);
-  //   }
-  //
-  // });
+  test.test('resolver throwing error should push doc onto stream unmodified', function(t) {
+    var input = new Document( 'whosonfirst', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+
+    var expected = new Document( 'whosonfirst', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+
+    var resolver = function(centroid, callback) {
+      setTimeout(callback, 0, 'this is an error', { region: 'Region' } );
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    var input_stream = event_stream.readArray([input]);
+    var destination_stream = event_stream.writeArray(function() {
+      t.fail('this stream should not have been called');
+      t.end();
+    });
+
+    input_stream.pipe(lookupStream).on('error', function(e) {
+      t.equal(e, 'this is an error');
+      t.deepEqual(input, expected, 'the document should not have been modified');
+      t.end();
+    }).pipe(destination_stream);
+
+  });
 
 });
