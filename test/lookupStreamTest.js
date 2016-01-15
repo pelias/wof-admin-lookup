@@ -53,7 +53,7 @@ tape('tests', function(test) {
         neighbourhood: 'Neighbourhood'
       };
 
-      setTimeout(callback, 0, result);
+      setTimeout(callback, 0, null, result);
 
     };
 
@@ -85,9 +85,9 @@ tape('tests', function(test) {
 
     var resolver = function(centroid, callback) {
       if (_.isEqual(centroid, { lat: 12.121212, lon: 21.212121 } )) {
-        setTimeout(callback, 0, { region: 'Region' });
+        setTimeout(callback, 0, null, { region: 'Region' });
       } else if (_.isEqual(centroid, { lat: 13.131313, lon: 31.313131 })) {
-        setTimeout(callback, 0, { country: 'Country' });
+        setTimeout(callback, 0, null, { country: 'Country' });
       }
 
     };
@@ -100,5 +100,35 @@ tape('tests', function(test) {
     });
 
   });
+
+  // test.test('resolver throwing error should push doc onto stream unmodified', function(t) {
+  //   var input = [
+  //     new Document( 'whosonfirst', '1')
+  //       .setCentroid({ lat: 12.121212, lon: 21.212121 })
+  //   ];
+  //
+  //   var expected = [
+  //     new Document( 'whosonfirst', '1')
+  //       .setCentroid({ lat: 12.121212, lon: 21.212121 })
+  //   ];
+  //
+  //   var resolver = function(centroid, callback) {
+  //     setTimeout(callback, 0, 'this is an error', { region: 'Region' } );
+  //   };
+  //
+  //   var lookupStream = stream.createLookupStream(resolver);
+  //
+  //   try {
+  //     test_stream(input, lookupStream, function(err, actual) {
+  //       t.deepEqual(actual, expected, 'nothing should have been set');
+  //       t.end();
+  //     });
+  //
+  //   }
+  //   catch (err) {
+  //     console.log(err);
+  //   }
+  //
+  // });
 
 });

@@ -8,7 +8,12 @@ function createLookupStream(resolver) {
       return callback(null, doc);
     }
 
-    resolver(doc.getCentroid(), function(result) {
+    resolver(doc.getCentroid(), function(err, result) {
+      if (err) {
+        console.log(err);
+        return callback(err, doc);
+      }
+
       if (!_.isUndefined(result.country)) {
         doc.setAdmin( 'admin0', result.country);
       }

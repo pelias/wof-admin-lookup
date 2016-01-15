@@ -19,9 +19,12 @@ function createWofPipResolver(url) {
           return obj;
         }, {});
 
-        return callback(result);
+        return callback(null, result);
 
       });
+
+    }).on('error', function(err) {
+      return callback(err, null);
     });
 
   };

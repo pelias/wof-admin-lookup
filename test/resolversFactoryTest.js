@@ -43,7 +43,7 @@ tape('tests', function(test) {
       lon: 21.212121
     };
 
-    var callback = function(result) {
+    var callback = function(err, result) {
       var expected = {
         country: 'Country',
         region: 'Region',
@@ -53,9 +53,29 @@ tape('tests', function(test) {
         neighbourhood: 'Neighbourhood'
       };
 
+      t.equal(err, null, 'there should be no error');
       t.deepEqual(result, expected);
       t.end();
       server.close();
+
+    };
+
+    resolver(centroid, callback);
+
+  });
+
+  test.test('error condition', function(t) {
+    var resolver = resolvers.createWofPipResolver('http://localhost:12345/?');
+
+    var centroid = {
+      lat: 12.121212,
+      lon: 21.212121
+    };
+
+    var callback = function(err, result) {
+      t.notEqual(err, null, 'there should have been an error');
+      t.equal(result, null, 'result should be null on error');
+      t.end();
 
     };
 
