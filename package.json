@@ -21,7 +21,7 @@
     "event-stream": "^3.3.2",
     "jshint": "^2.8.0",
     "lodash": "^3.10.1",
-    "pelias-model": "^0.4.0",
+    "pelias-model": "pelias/model#2125cbebd44e1e419831a5bb4405c37375618dde",
     "precommit-hook": "^3.0.0",
     "through2": "^2.0.0"
   },
