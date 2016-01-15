@@ -2,12 +2,10 @@ var util = require('util');
 var http = require('http');
 
 function createWofPipResolver(url) {
-  var baseUrl = url;
-
   return function(centroid, callback) {
-    var url = util.format('%s/?latitude=%d&longitude=%d', baseUrl, centroid.lat, centroid.lon);
+    var requestUrl = util.format('%s/?latitude=%d&longitude=%d', url, centroid.lat, centroid.lon);
 
-    http.get(url, function(response) {
+    http.get(requestUrl, function(response) {
       var contents = '';
 
       response.setEncoding('utf8');
