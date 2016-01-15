@@ -15,7 +15,13 @@ function createWofPipResolver(url) {
       response.on('end', function() {
         // convert the array to an object keyed on the array element's Placetype field
         var result = JSON.parse(contents).reduce(function(obj, elem) {
-          obj[elem.Placetype] = elem.Name;
+          if (!obj.hasOwnProperty(elem.Placetype)) {
+            obj[elem.Placetype] = [];
+          }
+          obj[elem.Placetype].push({
+            id: elem.Id,
+            name: elem.Name
+          });
           return obj;
         }, {});
 
