@@ -59,22 +59,30 @@ var regions = {
   }
 };
 
-regions.isSupportedCountry = function(country) {
-  return this.hasOwnProperty(country);
-};
-
 regions.isSupportedRegion = function(country, name) {
   return this.hasOwnProperty(country) && this[country].hasOwnProperty(name);
 };
 
-regions.getAbbreviation = function(country, name) {
-  return this[country][name];
+regions.getAbbreviation = function(countries, regions) {
+  if (_.isEmpty(countries) || _.isEmpty(regions)) {
+    return undefined;
+  }
+
+  var country = countries[0].name;
+  var region = regions[0].name;
+
+  if (this.isSupportedRegion(country, region)) {
+    return this[country][region];
+  }
+
+  return undefined;
+
 };
 
-function setFields(values, doc, qsFieldName, wofFieldName) {
+function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
   if (!_.isEmpty(values)) {
     doc.setAdmin( qsFieldName, values[0].name);
-    doc.addParent( wofFieldName, values[0].name, values[0].id.toString());
+    doc.addParent( wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
   }
 }
 
@@ -90,8 +98,10 @@ function createLookupStream(resolver) {
         return callback(err, doc);
       }
 
+      var regionAbbr = regions.getAbbreviation(result.country, result.region);
+
       setFields(result.country, doc, 'admin0', 'country');
-      setFields(result.region, doc, 'admin1', 'region');
+      setFields(result.region, doc, 'admin1', 'region', regionAbbr);
       setFields(result.county, doc, 'admin2', 'county');
       setFields(result.locality, doc, 'locality', 'locality');
       setFields(result.localadmin, doc, 'local_admin', 'localadmin');

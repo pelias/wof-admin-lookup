@@ -20,7 +20,7 @@
   "dependencies": {
     "event-stream": "^3.3.2",
     "lodash": "^3.10.1",
-    "pelias-model": "pelias/model#2125cbebd44e1e419831a5bb4405c37375618dde",
+    "pelias-model": "pelias/model#c97cf830d4fe9cb8333f714ee70a72b476779e9c",
     "through2": "^2.0.0"
   },
   "devDependencies": {
