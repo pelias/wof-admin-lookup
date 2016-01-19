@@ -37,22 +37,16 @@ tape('tests', function(test) {
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAdmin( 'admin0', 'Country 1')
         .addParent('country', 'Country 1', '1')
-        .addParent('country', 'Country 2', '2')
         .setAdmin( 'admin1', 'Region 1')
         .addParent('region', 'Region 1', '3')
-        .addParent('region', 'Region 2', '4')
         .setAdmin( 'admin2', 'County 1')
         .addParent('county', 'County 1', '5')
-        .addParent('county', 'County 2', '6')
         .setAdmin( 'locality', 'Locality 1')
         .addParent('locality', 'Locality 1', '7')
-        .addParent('locality', 'Locality 2', '8')
         .setAdmin( 'local_admin', 'LocalAdmin 1')
         .addParent('localadmin', 'LocalAdmin 1', '9')
-        .addParent('localadmin', 'LocalAdmin 2', '10')
         .setAdmin( 'neighborhood', 'Neighbourhood 1')
         .addParent('neighbourhood', 'Neighbourhood 1', '11')
-        .addParent('neighbourhood', 'Neighbourhood 2', '12')
     ];
 
     var resolver = function(centroid, callback) {
