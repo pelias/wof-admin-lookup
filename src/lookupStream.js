@@ -80,7 +80,7 @@ regions.getAbbreviation = function(country, name) {
 function createLookupStream(resolver) {
   return through2.obj(function(doc, enc, callback) {
     // don't do anything if there's no centroid
-    if (Object.keys(doc.getCentroid()).length === 0) {
+    if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
     }
 
