@@ -23,9 +23,7 @@
     "through2": "^2.0.0"
   },
   "devDependencies": {
-    "precommit-hook": "^3.0.0",
-    "event-stream": "^3.3.2",
-    "jshint": "^2.8.0",
+    "jshint": "^2.5.6",
     "pelias-model": "pelias/model#c97cf830d4fe9cb8333f714ee70a72b476779e9c",
     "precommit-hook": "^3.0.0",
     "tap-dot": "^1.0.1",
