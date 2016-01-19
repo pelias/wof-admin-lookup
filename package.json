@@ -33,5 +33,7 @@
     "lint",
     "validate",
     "test"
-  ]
+  ],
+  "author": "mapzen",
+  "license": "MIT"
 }
