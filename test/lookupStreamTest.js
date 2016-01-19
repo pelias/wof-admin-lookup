@@ -191,4 +191,78 @@ tape('tests', function(test) {
 
   });
 
+  test.test('supported country and unsupported region should not set region abbreviation', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin0', 'United States')
+        .addParent('country', 'United States', '1')
+        .setAdmin( 'admin1', 'unknown US state')
+        .addParent('region', 'unknown US state', '3')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'United States'}
+        ],
+        region: [
+          { id: 3, name: 'unknown US state'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('unsupported country and supported region should not set region abbreviation', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin0', 'unsupported country')
+        .addParent('country', 'unsupported country', '1')
+        .setAdmin( 'admin1', 'Pennsylvania')
+        .addParent('region', 'Pennsylvania', '3')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'unsupported country'}
+        ],
+        region: [
+          { id: 3, name: 'Pennsylvania'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.end();
+    });
+
+  });
+
 });
