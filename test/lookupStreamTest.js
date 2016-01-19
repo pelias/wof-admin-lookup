@@ -185,7 +185,7 @@ tape('tests', function(test) {
     var lookupStream = stream.createLookupStream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
-      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.deepEqual(actual, expected, 'region abbreviation should have been set');
       t.end();
     });
 
@@ -222,7 +222,7 @@ tape('tests', function(test) {
     var lookupStream = stream.createLookupStream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
-      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
       t.end();
     });
 
@@ -259,7 +259,39 @@ tape('tests', function(test) {
     var lookupStream = stream.createLookupStream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
-      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('no countries or regions should not set region abbreviation', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'locality', 'Locality')
+        .addParent( 'locality', 'Locality', '1')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        locality: [
+          { id: 1, name: 'Locality'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
       t.end();
     });
 
