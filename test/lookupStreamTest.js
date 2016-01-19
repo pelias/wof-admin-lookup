@@ -266,16 +266,13 @@ tape('tests', function(test) {
   });
 
   test.test('no countries or regions should not set region abbreviation', function(t) {
-    var input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
-    ];
+    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 });
 
-    var expected = [
-      new Document( 'whosonfirst', 'placetype', '1')
+    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAdmin( 'locality', 'Locality')
-        .addParent( 'locality', 'Locality', '1')
-    ];
+        .addParent( 'locality', 'Locality', '1');
 
     var resolver = function(centroid, callback) {
       var result = {
@@ -290,8 +287,8 @@ tape('tests', function(test) {
 
     var lookupStream = stream.createLookupStream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
-      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
+    test_stream([inputDoc], lookupStream, function(err, actual) {
+      t.deepEqual(actual, [expectedDoc], 'no region abbreviation should have been set');
       t.end();
     });
 
