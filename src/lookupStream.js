@@ -1,16 +1,115 @@
 var through2 = require('through2');
 var _ = require('lodash');
+var peliasLogger = require( 'pelias-logger' );
 
-function addAll(values, doc, placetype) {
-  values.forEach(function(value) {
-    doc.addParent(placetype, value.name, value.id.toString());
+// only US is currently supported
+// to support more countries, add them in a similar fashion
+var regions = {
+  'United States': {
+    'Alabama': 'AL',
+    'Alaska': 'AK',
+    'Arizona': 'AZ',
+    'Arkansas': 'AR',
+    'California': 'CA',
+    'Colorado': 'CO',
+    'Connecticut': 'CT',
+    'Delaware': 'DE',
+    'Florida': 'FL',
+    'Georgia': 'GA',
+    'Hawaii': 'HI',
+    'Idaho': 'ID',
+    'Illinois': 'IL',
+    'Indiana': 'IN',
+    'Iowa': 'IA',
+    'Kansas': 'KS',
+    'Kentucky': 'KY',
+    'Louisiana': 'LA',
+    'Maine': 'ME',
+    'Maryland': 'MD',
+    'Massachusetts': 'MA',
+    'Michigan': 'MI',
+    'Minnesota': 'MN',
+    'Mississippi': 'MS',
+    'Missouri': 'MO',
+    'Montana': 'MT',
+    'Nebraska': 'NE',
+    'Nevada': 'NV',
+    'New Hampshire': 'NH',
+    'New Jersey': 'NJ',
+    'New Mexico': 'NM',
+    'New York': 'NY',
+    'North Carolina': 'NC',
+    'North Dakota': 'ND',
+    'Ohio': 'OH',
+    'Oklahoma': 'OK',
+    'Oregon': 'OR',
+    'Pennsylvania': 'PA',
+    'Rhode Island': 'RI',
+    'South Carolina': 'SC',
+    'South Dakota': 'SD',
+    'Tennessee': 'TN',
+    'Texas': 'TX',
+    'Utah': 'UT',
+    'Vermont': 'VT',
+    'Virginia': 'VA',
+    'Washington': 'WA',
+    'Washington, D.C.': 'DC',
+    'West Virginia': 'WV',
+    'Wisconsin': 'WI',
+    'Wyoming': 'WY'
+  }
+};
+
+regions.isSupportedRegion = function(country, name) {
+  return this.hasOwnProperty(country) && this[country].hasOwnProperty(name);
+};
+
+regions.getAbbreviation = function(countries, regions) {
+  if (_.isEmpty(countries) || _.isEmpty(regions)) {
+    return undefined;
+  }
+
+  var country = countries[0].name;
+  var region = regions[0].name;
+
+  if (this.isSupportedRegion(country, region)) {
+    return this[country][region];
+  }
+
+  return undefined;
+
+};
+
+function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
+  if (!_.isEmpty(values)) {
+    doc.setAdmin( qsFieldName, values[0].name);
+    doc.addParent( wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+  }
+}
+
+function hasCountry(result) {
+  return _.isEmpty(result.country);
+}
+
+function hasAnyMultiples(result) {
+  return Object.keys(result).some(function(element) {
+    return result[element].length > 1;
   });
 }
 
 function createLookupStream(resolver) {
+  var logger = peliasLogger.get( 'whosonfirst', {
+    transports: [
+      new peliasLogger.winston.transports.File( {
+        filename: 'suspect_wof_records.log',
+        timestamp: false
+      })
+    ]
+  });
+
   return through2.obj(function(doc, enc, callback) {
     // don't do anything if there's no centroid
-    if (Object.keys(doc.getCentroid()).length === 0) {
+    if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
     }
 
@@ -19,30 +118,28 @@ function createLookupStream(resolver) {
         return callback(err, doc);
       }
 
-      if (!_.isUndefined(result.country)) {
-        doc.setAdmin( 'admin0', result.country[0].name);
-        addAll(result.country, doc, 'country');
+      // log results w/o country OR any multiples
+      if (hasCountry(result)) {
+        logger.info('no country', {
+          centroid: doc.getCentroid(),
+          result: result
+        });
       }
-      if (!_.isUndefined(result.region)) {
-        doc.setAdmin( 'admin1', result.region[0].name);
-        addAll(result.region, doc, 'region');
+      if (hasAnyMultiples(result)) {
+        logger.info('multiple values', {
+          centroid: doc.getCentroid(),
+          result: result
+        });
       }
-      if (!_.isUndefined(result.county)) {
-        doc.setAdmin( 'admin2', result.county[0].name);
-        addAll(result.county, doc, 'county');
-      }
-      if (!_.isUndefined(result.locality)) {
-        doc.setAdmin( 'locality', result.locality[0].name);
-        addAll(result.locality, doc, 'locality');
-      }
-      if (!_.isUndefined(result.localadmin)) {
-        doc.setAdmin( 'local_admin', result.localadmin[0].name);
-        addAll(result.localadmin, doc, 'localadmin');
-      }
-      if (!_.isUndefined(result.neighbourhood)) {
-        doc.setAdmin( 'neighborhood', result.neighbourhood[0].name);
-        addAll(result.neighbourhood, doc, 'neighbourhood');
-      }
+
+      var regionAbbr = regions.getAbbreviation(result.country, result.region);
+
+      setFields(result.country, doc, 'admin0', 'country');
+      setFields(result.region, doc, 'admin1', 'region', regionAbbr);
+      setFields(result.county, doc, 'admin2', 'county');
+      setFields(result.locality, doc, 'locality', 'locality');
+      setFields(result.localadmin, doc, 'local_admin', 'localadmin');
+      setFields(result.neighbourhood, doc, 'neighborhood', 'neighbourhood');
 
       callback(null, doc);
 

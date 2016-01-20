@@ -37,22 +37,16 @@ tape('tests', function(test) {
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAdmin( 'admin0', 'Country 1')
         .addParent('country', 'Country 1', '1')
-        .addParent('country', 'Country 2', '2')
         .setAdmin( 'admin1', 'Region 1')
         .addParent('region', 'Region 1', '3')
-        .addParent('region', 'Region 2', '4')
         .setAdmin( 'admin2', 'County 1')
         .addParent('county', 'County 1', '5')
-        .addParent('county', 'County 2', '6')
         .setAdmin( 'locality', 'Locality 1')
         .addParent('locality', 'Locality 1', '7')
-        .addParent('locality', 'Locality 2', '8')
         .setAdmin( 'local_admin', 'LocalAdmin 1')
         .addParent('localadmin', 'LocalAdmin 1', '9')
-        .addParent('localadmin', 'LocalAdmin 2', '10')
         .setAdmin( 'neighborhood', 'Neighbourhood 1')
         .addParent('neighbourhood', 'Neighbourhood 1', '11')
-        .addParent('neighbourhood', 'Neighbourhood 2', '12')
     ];
 
     var resolver = function(centroid, callback) {
@@ -157,6 +151,146 @@ tape('tests', function(test) {
       t.deepEqual(input, expected, 'the document should not have been modified');
       t.end();
     }).pipe(destination_stream);
+
+  });
+
+  test.test('abbreviation supporting country and region should set region abbreviation', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin0', 'United States')
+        .addParent('country', 'United States', '1')
+        .setAdmin( 'admin1', 'Pennsylvania')
+        .addParent('region', 'Pennsylvania', '3', 'PA')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'United States'}
+        ],
+        region: [
+          { id: 3, name: 'Pennsylvania'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'region abbreviation should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('supported country and unsupported region should not set region abbreviation', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin0', 'United States')
+        .addParent('country', 'United States', '1')
+        .setAdmin( 'admin1', 'unknown US state')
+        .addParent('region', 'unknown US state', '3')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'United States'}
+        ],
+        region: [
+          { id: 3, name: 'unknown US state'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('unsupported country and supported region should not set region abbreviation', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin0', 'unsupported country')
+        .addParent('country', 'unsupported country', '1')
+        .setAdmin( 'admin1', 'Pennsylvania')
+        .addParent('region', 'Pennsylvania', '3')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'unsupported country'}
+        ],
+        region: [
+          { id: 3, name: 'Pennsylvania'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('no countries or regions should not set region abbreviation', function(t) {
+    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+
+    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'locality', 'Locality')
+        .addParent( 'locality', 'Locality', '1');
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        locality: [
+          { id: 1, name: 'Locality'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream([inputDoc], lookupStream, function(err, actual) {
+      t.deepEqual(actual, [expectedDoc], 'no region abbreviation should have been set');
+      t.end();
+    });
 
   });
 
