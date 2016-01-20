@@ -87,6 +87,16 @@ function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
   }
 }
 
+function hasCountry(result) {
+  return _.isEmpty(result.country);
+}
+
+function hasAnyMultiples(result) {
+  return Object.keys(result).some(function(element) {
+    return result[element].length > 1;
+  });
+}
+
 function createLookupStream(resolver) {
   var logger = peliasLogger.get( 'whosonfirst', {
     transports: [
@@ -108,16 +118,18 @@ function createLookupStream(resolver) {
         return callback(err, doc);
       }
 
-      // log results w/o country
-      if (_.isEmpty(result.country)) {
-        logger.info(doc.getCentroid(), result);
+      // log results w/o country OR any multiples
+      if (hasCountry(result)) {
+        logger.info('no country', {
+          centroid: doc.getCentroid(),
+          result: result
+        });
       }
-
-      // log results with any multiples
-      if (Object.keys(result).some(function(element) {
-        return result[element].length > 1;
-      })) {
-        logger.info(doc.getCentroid(), result);
+      if (hasAnyMultiples(result)) {
+        logger.info('multiple values', {
+          centroid: doc.getCentroid(),
+          result: result
+        });
       }
 
       var regionAbbr = regions.getAbbreviation(result.country, result.region);
