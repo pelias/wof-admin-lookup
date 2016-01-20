@@ -15,8 +15,6 @@
   "keywords": [
     "who's on first"
   ],
-  "author": "mapzen",
-  "license": "MIT",
   "dependencies": {
     "event-stream": "^3.3.2",
     "lodash": "^3.10.1",
@@ -36,5 +34,7 @@
     "lint",
     "validate",
     "test"
-  ]
+  ],
+  "author": "mapzen",
+  "license": "MIT"
 }
