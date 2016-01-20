@@ -162,6 +162,7 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAlpha3('USA')
         .setAdmin( 'admin0', 'United States')
         .addParent('country', 'United States', '1')
         .setAdmin( 'admin1', 'Pennsylvania')
@@ -199,6 +200,7 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAlpha3('USA')
         .setAdmin( 'admin0', 'United States')
         .addParent('country', 'United States', '1')
         .setAdmin( 'admin1', 'unknown US state')
@@ -289,6 +291,36 @@ tape('tests', function(test) {
 
     test_stream([inputDoc], lookupStream, function(err, actual) {
       t.deepEqual(actual, [expectedDoc], 'no region abbreviation should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('supported country should have alpha3 set', function(t) {
+    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+
+    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+        .setAlpha3('DNK')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin0', 'Denmark')
+        .addParent( 'country', 'Denmark', '1');
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'Denmark'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream([inputDoc], lookupStream, function(err, actual) {
+      t.deepEqual(actual, [expectedDoc], 'alpha3 should have been set');
       t.end();
     });
 
