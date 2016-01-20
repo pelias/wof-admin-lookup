@@ -1,43 +1,68 @@
-var through2 = require('through2');
 var _ = require('lodash');
+var logger = require('pelias-logger').get('wof-admin-lookup');
+var parallelStream = require('pelias-parallel-stream');
+var peliasConfig = require( 'pelias-config' ).generate();
+
 
 function createLookupStream(resolver) {
-  return through2.obj(function(doc, enc, callback) {
-    // don't do anything if there's no centroid
-    if (Object.keys(doc.getCentroid()).length === 0) {
-      return callback(null, doc);
+
+  var maxConcurrentReqs = 100;
+  if (peliasConfig.adminLookup && peliasConfig.adminLookup.maxConcurrentReqs) {
+    maxConcurrentReqs = peliasConfig.adminLookup.maxConcurrentReqs;
+  }
+
+  return parallelStream(maxConcurrentReqs, function (doc, enc, next) {
+
+    // skip if there's no centroid
+    if (_.isEmpty(doc.getCentroid())) {
+      logger.error('No centroid, skipping admin-lookup / indexing');
+      return next(null, doc); // TBD: this might need to be called asynchronously
     }
 
-    resolver(doc.getCentroid(), function(err, result) {
+    resolver(doc.getCentroid(), function (err, pipResult) {
+
+      // assume errors at this point are fatal, so pass them upstream to kill stream
       if (err) {
-        return callback(err, doc);
+        logger.error(err);
+        return next(new Error('PIP server failed:' + err.message));
       }
 
-      if (!_.isUndefined(result.country)) {
-        doc.setAdmin( 'admin0', result.country);
-      }
-      if (!_.isUndefined(result.region)) {
-        doc.setAdmin( 'admin1', result.region);
-      }
-      if (!_.isUndefined(result.county)) {
-        doc.setAdmin( 'admin2', result.county);
-      }
-      if (!_.isUndefined(result.locality)) {
-        doc.setAdmin( 'locality', result.locality);
-      }
-      if (!_.isUndefined(result.localadmin)) {
-        doc.setAdmin( 'local_admin', result.localadmin);
-      }
-      if (!_.isUndefined(result.neighbourhood)) {
-        doc.setAdmin( 'neighborhood', result.neighbourhood);
-      }
+      var parentProperties = ['country', 'region', 'county', 'locality', 'localadmin', 'neighbourhood'];
 
-      callback(null, doc);
+      parentProperties.forEach(function (prop) {
+        addParent(pipResult, doc, prop);
+      });
 
+      next(null, doc);
     });
-
   });
+}
 
+/**
+ * Set parent property along with corresponding id and abbreviation
+ *
+ * @param {object} result
+ * @param {object} doc
+ * @param {string} propName
+ */
+function addParent(result, doc, propName) {
+  if (!_.isUndefined(result[propName])) {
+    if (!_.isUndefined(result[propName + '_abbr'])) {
+      doc.addParent(
+        propName,
+        result[propName],
+        result[propName + '_id'] || result[propName], // TBD: update this to throw an error when id doesn't exist
+        result[propName + '_abbr']
+      );
+    }
+    else {
+      doc.addParent(
+        propName,
+        result[propName],
+        result[propName + '_id'] || result[propName] // TBD: update this to throw an error when id doesn't exist
+      );
+    }
+  }
 }
 
 module.exports = {
