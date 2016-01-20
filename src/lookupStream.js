@@ -2,69 +2,31 @@ var through2 = require('through2');
 var _ = require('lodash');
 var peliasLogger = require( 'pelias-logger' );
 
-// only US is currently supported
-// to support more countries, add them in a similar fashion
-var regions = {
-  'United States': {
-    'Alabama': 'AL',
-    'Alaska': 'AK',
-    'Arizona': 'AZ',
-    'Arkansas': 'AR',
-    'California': 'CA',
-    'Colorado': 'CO',
-    'Connecticut': 'CT',
-    'Delaware': 'DE',
-    'Florida': 'FL',
-    'Georgia': 'GA',
-    'Hawaii': 'HI',
-    'Idaho': 'ID',
-    'Illinois': 'IL',
-    'Indiana': 'IN',
-    'Iowa': 'IA',
-    'Kansas': 'KS',
-    'Kentucky': 'KY',
-    'Louisiana': 'LA',
-    'Maine': 'ME',
-    'Maryland': 'MD',
-    'Massachusetts': 'MA',
-    'Michigan': 'MI',
-    'Minnesota': 'MN',
-    'Mississippi': 'MS',
-    'Missouri': 'MO',
-    'Montana': 'MT',
-    'Nebraska': 'NE',
-    'Nevada': 'NV',
-    'New Hampshire': 'NH',
-    'New Jersey': 'NJ',
-    'New Mexico': 'NM',
-    'New York': 'NY',
-    'North Carolina': 'NC',
-    'North Dakota': 'ND',
-    'Ohio': 'OH',
-    'Oklahoma': 'OK',
-    'Oregon': 'OR',
-    'Pennsylvania': 'PA',
-    'Rhode Island': 'RI',
-    'South Carolina': 'SC',
-    'South Dakota': 'SD',
-    'Tennessee': 'TN',
-    'Texas': 'TX',
-    'Utah': 'UT',
-    'Vermont': 'VT',
-    'Virginia': 'VA',
-    'Washington': 'WA',
-    'Washington, D.C.': 'DC',
-    'West Virginia': 'WV',
-    'Wisconsin': 'WI',
-    'Wyoming': 'WY'
-  }
+var countries = require('../data/countries');
+var regions = require('../data/regions');
+
+countries.isSupported = function(country) {
+  return this.hasOwnProperty(country);
 };
 
-regions.isSupportedRegion = function(country, name) {
+countries.getCode = function(countries) {
+  if (_.isEmpty(countries)) {
+    return undefined;
+  }
+
+  if (this.isSupported(countries[0].name)) {
+    return this[countries[0].name];
+  }
+
+  return undefined;
+
+};
+
+regions.isSupported = function(country, name) {
   return this.hasOwnProperty(country) && this[country].hasOwnProperty(name);
 };
 
-regions.getAbbreviation = function(countries, regions) {
+regions.getCode = function(countries, regions) {
   if (_.isEmpty(countries) || _.isEmpty(regions)) {
     return undefined;
   }
@@ -72,7 +34,7 @@ regions.getAbbreviation = function(countries, regions) {
   var country = countries[0].name;
   var region = regions[0].name;
 
-  if (this.isSupportedRegion(country, region)) {
+  if (this.isSupported(country, region)) {
     return this[country][region];
   }
 
@@ -132,10 +94,16 @@ function createLookupStream(resolver) {
         });
       }
 
-      var regionAbbr = regions.getAbbreviation(result.country, result.region);
+      var regionCode = regions.getCode(result.country, result.region);
+      var countryCode = countries.getCode(result.country);
+
+      // set code if available
+      if (!_.isUndefined(countryCode)) {
+        doc.setAlpha3(countryCode);
+      }
 
       setFields(result.country, doc, 'admin0', 'country');
-      setFields(result.region, doc, 'admin1', 'region', regionAbbr);
+      setFields(result.region, doc, 'admin1', 'region', regionCode);
       setFields(result.county, doc, 'admin2', 'county');
       setFields(result.locality, doc, 'locality', 'locality');
       setFields(result.localadmin, doc, 'local_admin', 'localadmin');
