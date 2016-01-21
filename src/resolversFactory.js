@@ -1,9 +1,18 @@
 var util = require('util');
 var http = require('http');
+var peliasConfig = require( 'pelias-config' ).generate();
 
-http.globalAgent.maxSockets = 10;
 
-function createWofPipResolver(url) {
+function createWofPipResolver(url, config) {
+  config = config || peliasConfig;
+
+  var maxConcurrentReqs = 1;
+  if (config.imports.adminLookup && config.imports.adminLookup.maxConcurrentReqs) {
+    maxConcurrentReqs = config.imports.adminLookup.maxConcurrentReqs;
+  }
+
+  http.globalAgent.maxSockets = maxConcurrentReqs;
+
   return function(centroid, callback) {
     var requestUrl = util.format('%s/?latitude=%d&longitude=%d', url, centroid.lat, centroid.lon);
 
