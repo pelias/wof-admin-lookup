@@ -8,27 +8,63 @@ tape('tests', function(test) {
     var server = http.createServer(function(req, res) {
       res.end(JSON.stringify([
         {
-          Name: 'Country',
+          Id: 1,
+          Name: 'Country 1',
           Placetype: 'country'
         },
         {
-          Name: 'Region',
+          Id: 2,
+          Name: 'Region 1',
           Placetype: 'region'
         },
         {
-          Name: 'County',
+          Id: 3,
+          Name: 'County 1',
           Placetype: 'county'
         },
         {
-          Name: 'Locality',
+          Id: 4,
+          Name: 'Locality 1',
           Placetype: 'locality'
         },
         {
-          Name: 'LocalAdmin',
+          Id: 5,
+          Name: 'LocalAdmin 1',
           Placetype: 'localadmin'
         },
         {
-          Name: 'Neighbourhood',
+          Id: 6,
+          Name: 'Neighbourhood 1',
+          Placetype: 'neighbourhood'
+        },
+        {
+          Id: 7,
+          Name: 'Country 2',
+          Placetype: 'country'
+        },
+        {
+          Id: 8,
+          Name: 'Region 2',
+          Placetype: 'region'
+        },
+        {
+          Id: 9,
+          Name: 'County 2',
+          Placetype: 'county'
+        },
+        {
+          Id: 10,
+          Name: 'Locality 2',
+          Placetype: 'locality'
+        },
+        {
+          Id: 11,
+          Name: 'LocalAdmin 2',
+          Placetype: 'localadmin'
+        },
+        {
+          Id: 12,
+          Name: 'Neighbourhood 2',
           Placetype: 'neighbourhood'
         }
       ]));
@@ -45,12 +81,30 @@ tape('tests', function(test) {
 
     var callback = function(err, result) {
       var expected = {
-        country: 'Country',
-        region: 'Region',
-        county: 'County',
-        locality: 'Locality',
-        localadmin: 'LocalAdmin',
-        neighbourhood: 'Neighbourhood'
+        country: [
+          { id: 1, name: 'Country 1'},
+          { id: 7, name: 'Country 2'},
+        ],
+        region: [
+          { id: 2, name: 'Region 1'},
+          { id: 8, name: 'Region 2'},
+        ],
+        county: [
+          { id: 3, name: 'County 1'},
+          { id: 9, name: 'County 2'},
+        ],
+        locality: [
+          { id: 4, name: 'Locality 1'},
+          { id: 10, name: 'Locality 2'},
+        ],
+        localadmin: [
+          { id: 5, name: 'LocalAdmin 1'},
+          { id: 11, name: 'LocalAdmin 2'},
+        ],
+        neighbourhood: [
+          { id: 6, name: 'Neighbourhood 1'},
+          { id: 12, name: 'Neighbourhood 2'},
+        ]
       };
 
       t.equal(err, null, 'there should be no error');
