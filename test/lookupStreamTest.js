@@ -138,7 +138,10 @@ tape('tests', function(test) {
       setTimeout(callback, 0, 'this is an error', { region: 'Region' } );
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var config = {
+      imports: { adminLookup: { maxConcurrentReqs: 1 } }
+    };
+    var lookupStream = stream.createLookupStream(resolver, config);
 
     var input_stream = event_stream.readArray([input]);
     var destination_stream = event_stream.writeArray(function() {
@@ -147,7 +150,7 @@ tape('tests', function(test) {
     });
 
     input_stream.pipe(lookupStream).on('error', function(e) {
-      t.equal(e, 'this is an error');
+      t.equal(e.message, 'PIP server failed: "this is an error"');
       t.deepEqual(input, expected, 'the document should not have been modified');
       t.end();
     }).pipe(destination_stream);
