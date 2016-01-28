@@ -1,9 +1,10 @@
-var through2 = require('through2');
 var _ = require('lodash');
-var peliasLogger = require( 'pelias-logger' );
-
+var parallelStream = require('pelias-parallel-stream');
+var peliasConfig = require( 'pelias-config' ).generate();
 var countries = require('../data/countries');
 var regions = require('../data/regions');
+var peliasLogger = require( 'pelias-logger' );
+
 
 countries.isSupported = function(country) {
   return this.hasOwnProperty(country);
@@ -59,8 +60,9 @@ function hasAnyMultiples(result) {
   });
 }
 
-function createLookupStream(resolver) {
-  var logger = peliasLogger.get( 'whosonfirst', {
+function createLookupStream(resolver, config) {
+
+  var logger = peliasLogger.get( 'wof-admin-lookup', {
     transports: [
       new peliasLogger.winston.transports.File( {
         filename: 'suspect_wof_records.log',
@@ -69,15 +71,26 @@ function createLookupStream(resolver) {
     ]
   });
 
-  return through2.obj(function(doc, enc, callback) {
+  config = config || peliasConfig;
+
+  var maxConcurrentReqs = 1;
+  if (config.imports.adminLookup && config.imports.adminLookup.maxConcurrentReqs) {
+    maxConcurrentReqs = config.imports.adminLookup.maxConcurrentReqs;
+  }
+
+  return parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
+
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
     }
 
-    resolver(doc.getCentroid(), function(err, result) {
+    resolver(doc.getCentroid(), function (err, result) {
+
+      // assume errors at this point are fatal, so pass them upstream to kill stream
       if (err) {
-        return callback(err, doc);
+        logger.error(err);
+        return callback(new Error('PIP server failed: ' + (err.message || JSON.stringify(err))));
       }
 
       // log results w/o country OR any multiples
@@ -110,11 +123,8 @@ function createLookupStream(resolver) {
       setFields(result.neighbourhood, doc, 'neighborhood', 'neighbourhood');
 
       callback(null, doc);
-
     });
-
   });
-
 }
 
 module.exports = {
