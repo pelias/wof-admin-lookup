@@ -329,4 +329,39 @@ tape('tests', function(test) {
 
   });
 
+  test.test('empty string in place name should not error', function(t) {
+    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 });
+
+    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+      .setAlpha3('DNK')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAdmin( 'admin0', 'Denmark')
+      .addParent( 'country', 'Denmark', '1');
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        country: [
+          { id: 1, name: 'Denmark'}
+        ],
+        county: [
+          { id: 2, name: '' }
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    t.doesNotThrow( function () {
+
+      test_stream([inputDoc], lookupStream, function (err, actual) {
+        t.deepEqual(actual, [expectedDoc], 'county should not be set');
+        t.end();
+      });
+    });
+
+  });
 });
