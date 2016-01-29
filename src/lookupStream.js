@@ -6,6 +6,16 @@ var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
 
 
+var logger = peliasLogger.get( 'wof-admin-lookup', {
+  transports: [
+    new peliasLogger.winston.transports.File( {
+      filename: 'suspect_wof_records.log',
+      timestamp: false
+    })
+  ]
+});
+
+
 countries.isSupported = function(country) {
   return this.hasOwnProperty(country);
 };
@@ -44,9 +54,21 @@ regions.getCode = function(countries, regions) {
 };
 
 function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
-  if (!_.isEmpty(values)) {
-    doc.setAdmin( qsFieldName, values[0].name);
-    doc.addParent( wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+  try {
+    if (!_.isEmpty(values)) {
+      doc.setAdmin(qsFieldName, values[0].name);
+      doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+    }
+  }
+  catch (err) {
+    logger.info('invalid value', {
+      centroid: doc.getCentroid(),
+      result: {
+        type: wofFieldName,
+        values: values,
+        abbreviation: abbreviation
+      }
+    });
   }
 }
 
@@ -61,15 +83,6 @@ function hasAnyMultiples(result) {
 }
 
 function createLookupStream(resolver, config) {
-
-  var logger = peliasLogger.get( 'wof-admin-lookup', {
-    transports: [
-      new peliasLogger.winston.transports.File( {
-        filename: 'suspect_wof_records.log',
-        timestamp: false
-      })
-    ]
-  });
 
   config = config || peliasConfig;
 
