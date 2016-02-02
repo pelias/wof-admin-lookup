@@ -27,9 +27,22 @@ function createWofPipResolver(url, config) {
     };
 
     request(options, function (err, res, body) {
+      // if an error occurred attempting to connect, handle it
       if (err) {
-        console.log(err.stack);
+        console.error(err.stack);
         return callback(err, null);
+      }
+
+      // handle condition where a non-200 was returned
+      if (res.statusCode !== 200) {
+        var error = {
+          centroid: centroid,
+          statusCode: res.statusCode,
+          text: body
+        };
+
+        console.error(JSON.stringify(error));
+        return callback(error, null);
       }
 
       // convert the array to an object keyed on the array element's Placetype field

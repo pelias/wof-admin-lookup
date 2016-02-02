@@ -1,5 +1,6 @@
 var tape = require('tape');
 var http = require('http');
+var intercept = require('intercept-stdout');
 
 var resolvers = require('../src/resolversFactory');
 
@@ -79,6 +80,13 @@ tape('tests', function(test) {
       lon: 21.212121
     };
 
+    // intercept/swallow stderr
+    var stderr = '';
+    var unhook_intercept = intercept(
+      function() { },
+      function(txt) { stderr += txt; return ''; }
+    );
+
     var callback = function(err, result) {
       var expected = {
         country: [
@@ -107,8 +115,12 @@ tape('tests', function(test) {
         ]
       };
 
+      // stop hijacking STDERR
+      unhook_intercept();
+
       t.equal(err, null, 'there should be no error');
       t.deepEqual(result, expected);
+      t.equal(stderr, '', 'nothing should have been written to stderr');
       t.end();
       server.close();
 
@@ -126,10 +138,72 @@ tape('tests', function(test) {
       lon: 21.212121
     };
 
+    // intercept/swallow stderr
+    var stderr = '';
+    var unhook_intercept = intercept(
+      function() { },
+      function(txt) { stderr += txt; return ''; }
+    );
+
     var callback = function(err, result) {
+      // stop hijacking STDERR
+      unhook_intercept();
+
       t.notEqual(err, null, 'there should have been an error');
       t.equal(result, null, 'result should be null on error');
+      t.notEqual(stderr, '', 'an error message should have been logged');
       t.end();
+
+    };
+
+    resolver(centroid, callback);
+
+  });
+
+  test.test('service returning non-200 status code should return error condition', function(t) {
+    var server = http.createServer(function(req, res) {
+      res.statusCode = 402;
+      res.end('Handing back a 402');
+    });
+
+    server.listen(0);
+
+    var resolver = resolvers.createWofPipResolver('http://localhost:' + server.address().port + '/?');
+
+    var centroid = {
+      lat: 12.121212,
+      lon: 21.212121
+    };
+
+    // intercept/swallow stderr
+    var stderr = '';
+    var unhook_intercept = intercept(
+      function() { },
+      function(txt) { stderr += txt; return ''; }
+    );
+
+    var callback = function(err, result) {
+      // stop hijacking STDERR
+      unhook_intercept();
+
+      t.deepEqual(err, {
+        centroid: { lat: 12.121212, lon: 21.212121},
+        statusCode: 402,
+        text: 'Handing back a 402'
+      }, 'there should have been an error');
+
+      t.equal(result, null, 'result should be null on error');
+
+      t.deepEqual(JSON.parse(stderr),
+        {
+          'centroid':{'lat':12.121212,'lon':21.212121},
+          'statusCode':402,
+          'text':'Handing back a 402'
+        },
+        'error message should have been written to stderr');
+
+      t.end();
+      server.close();
 
     };
 
