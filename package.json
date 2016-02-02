@@ -25,6 +25,7 @@
   },
   "devDependencies": {
     "event-stream": "^3.3.2",
+    "intercept-stdout": "^0.1.2",
     "jshint": "^2.8.0",
     "precommit-hook": "^3.0.0",
     "pelias-model": "1.0.0",
