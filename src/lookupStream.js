@@ -129,7 +129,11 @@ function createLookupStream(resolver, config) {
       }
 
       setFields(result.country, doc, 'admin0', 'country');
-      setFields(result.region, doc, 'admin1', 'region', regionCode);
+      if (!_.isEmpty(result.region)) { // if there are regions, use them
+        setFields(result.region, doc, 'admin1', 'region', regionCode);
+      } else { // go with dependency for region (eg - Puerto Rico is a dependency)
+        setFields(result.dependency, doc, 'admin1', 'region');
+      }
       setFields(result.county, doc, 'admin2', 'county');
       setFields(result.locality, doc, 'locality', 'locality');
       setFields(result.localadmin, doc, 'local_admin', 'localadmin');

@@ -364,4 +364,75 @@ tape('tests', function(test) {
     });
 
   });
+
+  test.test('first dependency should be used as region when there are no regions', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin1', 'Dependency 1')
+        .addParent('region', 'Dependency 1', '11')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        dependency: [
+          { id: 11, name: 'Dependency 1'},
+          { id: 12, name: 'Dependency 2'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.end();
+    });
+
+  });
+
+  test.test('region should be set to first region when regions and dependencies are both available', function(t) {
+    var input = [
+      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
+
+    var expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setAdmin( 'admin1', 'Region 1')
+        .addParent('region', 'Region 1', '11')
+    ];
+
+    var resolver = function(centroid, callback) {
+      var result = {
+        region: [
+          { id: 11, name: 'Region 1'},
+          { id: 12, name: 'Region 2'}
+        ],
+        dependency: [
+          { id: 13, name: 'Dependency 1'},
+          { id: 14, name: 'Dependency 2'}
+        ]
+      };
+
+      setTimeout(callback, 0, null, result);
+
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    test_stream(input, lookupStream, function(err, actual) {
+      t.deepEqual(actual, expected, 'all fields should have been set');
+      t.end();
+    });
+
+  });
+
 });
