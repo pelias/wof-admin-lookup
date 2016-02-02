@@ -2,9 +2,11 @@ var util = require('util');
 var http = require('http');
 var request = require('request');
 var peliasConfig = require( 'pelias-config' ).generate();
-
+var _ = require('lodash');
 
 function createWofPipResolver(url, config) {
+  // prepend url with 'http://' if not already
+  var normalizedUrl = _.startsWith(url, 'http://') ? url : 'http://' + url;
   config = config || peliasConfig;
 
   var maxConcurrentReqs = 1;
@@ -18,7 +20,7 @@ function createWofPipResolver(url, config) {
   });
 
   return function(centroid, callback) {
-    var urlPath = util.format('%s/?latitude=%d&longitude=%d', url, centroid.lat, centroid.lon);
+    var urlPath = util.format('%s/?latitude=%d&longitude=%d', normalizedUrl, centroid.lat, centroid.lon);
 
     var options = {
       method: 'GET',

@@ -130,6 +130,55 @@ tape('tests', function(test) {
 
   });
 
+  test.test('url not prefixed with http:// should have it prepended', function(t) {
+    var server = http.createServer(function(req, res) {
+      res.end(JSON.stringify([
+        {
+          Id: 1,
+          Name: 'Country 1',
+          Placetype: 'country'
+        }
+      ]));
+    });
+
+    server.listen(0);
+
+    var resolver = resolvers.createWofPipResolver('localhost:' + server.address().port + '/?');
+
+    var centroid = {
+      lat: 12.121212,
+      lon: 21.212121
+    };
+
+    // intercept/swallow stderr
+    var stderr = '';
+    var unhook_intercept = intercept(
+      function() { },
+      function(txt) { stderr += txt; return ''; }
+    );
+
+    var callback = function(err, result) {
+      var expected = {
+        country: [
+          { id: 1, name: 'Country 1'}
+        ]
+      };
+
+      // stop hijacking STDERR
+      unhook_intercept();
+
+      t.equal(err, null, 'there should be no error');
+      t.deepEqual(result, expected);
+      t.equal(stderr, '', 'nothing should have been written to stderr');
+      t.end();
+      server.close();
+
+    };
+
+    resolver(centroid, callback);
+
+  });
+
   test.test('error condition', function(t) {
     var resolver = resolvers.createWofPipResolver('http://localhost:12345/?');
 
