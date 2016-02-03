@@ -27,7 +27,7 @@ tape('tests', function(test) {
 
   });
 
-  test.test('country, region, county, locality, and neighborhood fields should be set into document', function(t) {
+  test.test('country, macroregion, region, macrocounty, county, locality, localadmin, and neighborhood fields should be set into document', function(t) {
     var input = [
       new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
@@ -37,16 +37,18 @@ tape('tests', function(test) {
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAdmin( 'admin0', 'Country 1')
         .addParent('country', 'Country 1', '1')
+        .addParent('macroregion', 'Macroregion 1', '3')
         .setAdmin( 'admin1', 'Region 1')
-        .addParent('region', 'Region 1', '3')
+        .addParent('region', 'Region 1', '5')
+        .addParent('macrocounty', 'Macrocounty 1', '7')
         .setAdmin( 'admin2', 'County 1')
-        .addParent('county', 'County 1', '5')
+        .addParent('county', 'County 1', '9')
         .setAdmin( 'locality', 'Locality 1')
-        .addParent('locality', 'Locality 1', '7')
+        .addParent('locality', 'Locality 1', '11')
         .setAdmin( 'local_admin', 'LocalAdmin 1')
-        .addParent('localadmin', 'LocalAdmin 1', '9')
+        .addParent('localadmin', 'LocalAdmin 1', '13')
         .setAdmin( 'neighborhood', 'Neighbourhood 1')
-        .addParent('neighbourhood', 'Neighbourhood 1', '11')
+        .addParent('neighbourhood', 'Neighbourhood 1', '15')
     ];
 
     var resolver = function(centroid, callback) {
@@ -55,25 +57,33 @@ tape('tests', function(test) {
           { id: 1, name: 'Country 1'},
           { id: 2, name: 'Country 2'}
         ],
+        macroregion: [
+          { id: 3, name: 'Macroregion 1'},
+          { id: 4, name: 'Macroregion 2'}
+        ],
         region: [
-          { id: 3, name: 'Region 1'},
-          { id: 4, name: 'Region 2'}
+          { id: 5, name: 'Region 1'},
+          { id: 6, name: 'Region 2'}
+        ],
+        macrocounty: [
+          { id: 7, name: 'Macrocounty 1'},
+          { id: 8, name: 'Macrocounty 2'}
         ],
         county: [
-          { id: 5, name: 'County 1'},
-          { id: 6, name: 'County 2'}
+          { id: 9, name: 'County 1'},
+          { id: 10, name: 'County 2'}
         ],
         locality: [
-          { id: 7, name: 'Locality 1'},
-          { id: 8, name: 'Locality 2'}
+          { id: 11, name: 'Locality 1'},
+          { id: 12, name: 'Locality 2'}
         ],
         localadmin: [
-          { id: 9, name: 'LocalAdmin 1'},
-          { id: 10, name: 'LocalAdmin 2'}
+          { id: 13, name: 'LocalAdmin 1'},
+          { id: 14, name: 'LocalAdmin 2'}
         ],
         neighbourhood: [
-          { id: 11, name: 'Neighbourhood 1'},
-          { id: 12, name: 'Neighbourhood 2'}
+          { id: 15, name: 'Neighbourhood 1'},
+          { id: 16, name: 'Neighbourhood 2'}
         ]
       };
 
