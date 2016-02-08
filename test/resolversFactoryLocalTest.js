@@ -1,0 +1,61 @@
+var tape = require('tape');
+
+var resolvers = require('../src/resolversFactory');
+
+tape('tests', function(test) {
+
+  function makeLookupMock(t, expected, err, res) {
+    return {
+      lookup: function (lat, lon, callback) {
+        t.equal(lat, expected.lat, 'correct latitude is passed');
+        t.equal(lon, expected.lon, 'correct longitude is passed');
+        callback(err, res);
+      }
+    };
+  }
+
+  test.test('return value should be parsed from server response', function(t) {
+    var centroid = {
+      longitude: -123.145257,
+      latitude: 49.270478
+    };
+
+    var expectedLookupParams = {
+      lat: centroid.latitude,
+      lon: centroid.longitude
+    };
+
+    var results = [
+      {
+        Id: 85633041,
+        Name: 'Canada',
+        Placetype: 'country',
+        Hierarchy: [
+          {
+            continent_id: 102191575,
+            country_id: 85633041
+          }
+        ]
+      }
+    ];
+
+    var lookupServiceMock = makeLookupMock(t, expectedLookupParams, null, results);
+
+    var resolver = resolvers.createLocalPipResolver(lookupServiceMock);
+
+    var callback = function(err, result) {
+      var expected = {
+        country: [
+          {id: 85633041, name: 'Canada'}
+        ]
+      };
+
+      t.deepEqual(result, expected);
+      t.end();
+    };
+
+    resolver(centroid, callback);
+
+  });
+
+});
