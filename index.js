@@ -3,5 +3,6 @@ var createWofPipResolver = require('./src/resolversFactory');
 
 module.exports = {
   createLookupStream: createLookupStream.createLookupStream,
-  createWofPipResolver: createWofPipResolver.createWofPipResolver
+  createWofPipResolver: createWofPipResolver.createWofPipResolver,
+  createLocalWofPipResolver: createWofPipResolver.createLocalPipResolver
 };
