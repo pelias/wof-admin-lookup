@@ -56,7 +56,9 @@ regions.getCode = function(countries, regions) {
 function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
   try {
     if (!_.isEmpty(values)) {
-      doc.setAdmin(qsFieldName, values[0].name);
+      if (qsFieldName) {
+        doc.setAdmin(qsFieldName, values[0].name);
+      }
       doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
     }
   }
@@ -129,11 +131,13 @@ function createLookupStream(resolver, config) {
       }
 
       setFields(result.country, doc, 'admin0', 'country');
+      setFields(result.macroregion, doc, undefined, 'macroregion');
       if (!_.isEmpty(result.region)) { // if there are regions, use them
         setFields(result.region, doc, 'admin1', 'region', regionCode);
       } else { // go with dependency for region (eg - Puerto Rico is a dependency)
         setFields(result.dependency, doc, 'admin1', 'region');
       }
+      setFields(result.macrocounty, doc, undefined, 'macrocounty');
       setFields(result.county, doc, 'admin2', 'county');
       setFields(result.locality, doc, 'locality', 'locality');
       setFields(result.localadmin, doc, 'local_admin', 'localadmin');
