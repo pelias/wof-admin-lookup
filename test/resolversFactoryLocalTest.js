@@ -16,13 +16,13 @@ tape('tests', function(test) {
 
   test.test('return value should be parsed from server response', function(t) {
     var centroid = {
-      longitude: -123.145257,
-      latitude: 49.270478
+      lon: -123.145257,
+      lat: 49.270478
     };
 
     var expectedLookupParams = {
-      lat: centroid.latitude,
-      lon: centroid.longitude
+      lat: centroid.lat,
+      lon: centroid.lon
     };
 
     var results = [
