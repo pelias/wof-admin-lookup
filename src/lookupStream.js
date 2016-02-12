@@ -93,7 +93,7 @@ function createLookupStream(resolver, config) {
     maxConcurrentReqs = config.imports.adminLookup.maxConcurrentReqs;
   }
 
-  return parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
+  var stream = parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
 
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
@@ -146,6 +146,15 @@ function createLookupStream(resolver, config) {
       callback(null, doc);
     });
   });
+
+  if (resolver && typeof resolver.end === 'function') {
+    logger.debug('Adding stream end handler to adminLookup stream');
+    stream.on('finish', function () {
+      resolver.end();
+    });
+  }
+
+  return stream;
 }
 
 module.exports = {

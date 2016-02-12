@@ -6,6 +6,9 @@ tape('tests', function(test) {
 
   function makeLookupMock(t, expected, err, res) {
     return {
+      end: function () {
+        t.assert(true, 'called end function');
+      },
       lookup: function (lat, lon, callback) {
         t.equal(lat, expected.lat, 'correct latitude is passed');
         t.equal(lon, expected.lon, 'correct longitude is passed');
@@ -15,6 +18,8 @@ tape('tests', function(test) {
   }
 
   test.test('return value should be parsed from server response', function(t) {
+    t.plan(3);
+
     var centroid = {
       lon: -123.145257,
       lat: 49.270478

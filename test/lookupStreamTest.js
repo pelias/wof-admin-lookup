@@ -445,4 +445,20 @@ tape('tests', function(test) {
 
   });
 
+  test.test('call end to stop child processes', function (t) {
+    t.plan(1);
+
+    var resolver = {
+      end: function () {
+        t.assert(true, 'called end function');
+      }
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+
+    lookupStream.end();
+
+    t.end();
+  });
+
 });
