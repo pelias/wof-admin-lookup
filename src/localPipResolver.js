@@ -19,7 +19,7 @@ function createLocalPipResolver(service) {
 }
 
 function lookup(service, centroid, callback) {
-  service.lookup(centroid.latitude, centroid.longitude, function (err, results) {
+  service.lookup(centroid.lat, centroid.lon, function (err, results) {
 
     // convert the array to an object keyed on the array element's Placetype field
     var result = results.reduce(function (obj, elem) {
