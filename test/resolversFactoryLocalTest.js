@@ -59,7 +59,7 @@ tape('tests', function(test) {
       t.end();
     };
 
-    resolver(centroid, callback);
+    resolver.lookup(centroid, callback);
 
   });
 

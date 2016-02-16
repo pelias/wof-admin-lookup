@@ -126,7 +126,7 @@ tape('tests', function(test) {
 
     };
 
-    resolver(centroid, callback);
+    resolver.lookup(centroid, callback);
 
   });
 
@@ -175,7 +175,7 @@ tape('tests', function(test) {
 
     };
 
-    resolver(centroid, callback);
+    resolver.lookup(centroid, callback);
 
   });
 
@@ -205,7 +205,7 @@ tape('tests', function(test) {
 
     };
 
-    resolver(centroid, callback);
+    resolver.lookup(centroid, callback);
 
   });
 
@@ -256,7 +256,7 @@ tape('tests', function(test) {
 
     };
 
-    resolver(centroid, callback);
+    resolver.lookup(centroid, callback);
 
   });
 

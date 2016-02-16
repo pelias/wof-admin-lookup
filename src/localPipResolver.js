@@ -1,25 +1,43 @@
+var logger = require('pelias-logger').get('wof-admin-lookup');
 var createPIPService = require('pelias-wof-pip-service').create;
 
-function createLocalPipResolver(service) {
+/**
+ * LocalPIPService class
+ *
+ * @param {object} [lookupService] optional, primarily used for testing
+ * @constructor
+ */
+function LocalPIPService(lookupService) {
 
-  var lookupService = service || null;
+  this.lookupService = lookupService || null;
 
-  return function (centroid, callback) {
-
-    if (!lookupService) {
-      createPIPService(function (err, service) {
-        lookupService = service;
-        lookup(lookupService, centroid, callback);
-      });
-    }
-    else {
-      lookup(lookupService, centroid, callback);
-    }
-  };
+  if (!this.lookupService) {
+    var self = this;
+    createPIPService(function (err, service) {
+      self.lookupService = service;
+    });
+  }
 }
 
-function lookup(service, centroid, callback) {
-  service.lookup(centroid.lat, centroid.lon, function (err, results) {
+/**
+ * @param {object} centroid
+ * @param {number} centroid.lat
+ * @param {number} centroid.lon
+ * @param callback
+ */
+LocalPIPService.prototype.lookup = function lookup(centroid, callback) {
+
+  var self = this;
+
+  // in the case that the lookup service hasn't loaded yet, sleep and come back in 30 seconds
+  if (!self.lookupService) {
+    setTimeout(function () {
+      self.lookup(centroid, callback);
+    }, 1000 * 30);
+    return;
+  }
+
+  self.lookupService.lookup(centroid.lat, centroid.lon, function (err, results) {
 
     // convert the array to an object keyed on the array element's Placetype field
     var result = results.reduce(function (obj, elem) {
@@ -35,6 +53,26 @@ function lookup(service, centroid, callback) {
 
     callback(err, result);
   });
+};
+
+/**
+ * Signal the underlying admin lookup child processes to shut down
+ */
+LocalPIPService.prototype.end = function end() {
+  if (this.lookupService) {
+    logger.debug('Shutting down admin lookup service');
+    this.lookupService.end();
+  }
+};
+
+/**
+ * Factory function
+ *
+ * @param {object} [service]
+ * @returns {LocalPIPService}
+ */
+function createLocalPipResolver(service) {
+  return new LocalPIPService(service);
 }
 
 module.exports = createLocalPipResolver;
