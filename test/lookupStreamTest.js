@@ -181,7 +181,7 @@ tape('tests', function(test) {
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAlpha3('USA')
         .setAdmin( 'admin0', 'United States')
-        .addParent('country', 'United States', '1')
+        .addParent('country', 'United States', '1', 'USA')
         .setAdmin( 'admin1', 'Pennsylvania')
         .addParent('region', 'Pennsylvania', '3', 'PA')
     ];
@@ -220,7 +220,7 @@ tape('tests', function(test) {
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAlpha3('USA')
         .setAdmin( 'admin0', 'United States')
-        .addParent('country', 'United States', '1')
+        .addParent('country', 'United States', '1', 'USA')
         .setAdmin( 'admin1', 'unknown US state')
         .addParent('region', 'unknown US state', '3')
     ];
@@ -325,7 +325,7 @@ tape('tests', function(test) {
         .setAlpha3('DNK')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAdmin( 'admin0', 'Denmark')
-        .addParent( 'country', 'Denmark', '1');
+        .addParent( 'country', 'Denmark', '1', 'DNK');
 
     var resolver = {
       lookup: function(centroid, callback) {
@@ -356,7 +356,7 @@ tape('tests', function(test) {
       .setAlpha3('DNK')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
       .setAdmin( 'admin0', 'Denmark')
-      .addParent( 'country', 'Denmark', '1');
+      .addParent( 'country', 'Denmark', '1', 'DNK');
 
     var resolver = {
       lookup: function(centroid, callback) {

@@ -59,7 +59,9 @@ function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
       if (qsFieldName) {
         doc.setAdmin(qsFieldName, values[0].name);
       }
+
       doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+
     }
   }
   catch (err) {
@@ -134,7 +136,7 @@ function createLookupStream(resolver, config) {
         doc.setAlpha3(countryCode);
       }
 
-      setFields(result.country, doc, 'admin0', 'country');
+      setFields(result.country, doc, 'admin0', 'country', countryCode);
       setFields(result.macroregion, doc, undefined, 'macroregion');
       if (!_.isEmpty(result.region)) { // if there are regions, use them
         setFields(result.region, doc, 'admin1', 'region', regionCode);
