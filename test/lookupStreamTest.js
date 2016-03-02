@@ -458,11 +458,12 @@ tape('tests', function(test) {
   });
 
   test.test('call end to stop child processes', function (t) {
-    t.plan(1);
+    t.plan(2);
 
     var resolver = {
       end: function () {
         t.assert(true, 'called end function');
+        t.equals(resolver, this, 'this is set to the correct object');
         t.end();
       }
     };

@@ -151,7 +151,12 @@ function createLookupStream(resolver, config) {
 
       callback(null, doc);
     });
-  }, resolver.end);
+  },
+  function end() {
+    if (typeof resolver.end === 'function') {
+      resolver.end();
+    }
+  });
 
   return stream;
 }
