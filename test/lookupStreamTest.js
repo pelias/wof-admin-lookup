@@ -18,7 +18,7 @@ tape('tests', function(test) {
       new Document( 'whosonfirst', 'placetype', '1')
     ];
 
-    var lookupStream = stream.createLookupStream();
+    var lookupStream = stream.createLookupStream({});
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, input, 'nothing should have changed');
@@ -51,44 +51,45 @@ tape('tests', function(test) {
         .addParent('neighbourhood', 'Neighbourhood 1', '15')
     ];
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        country: [
-          { id: 1, name: 'Country 1'},
-          { id: 2, name: 'Country 2'}
-        ],
-        macroregion: [
-          { id: 3, name: 'Macroregion 1'},
-          { id: 4, name: 'Macroregion 2'}
-        ],
-        region: [
-          { id: 5, name: 'Region 1'},
-          { id: 6, name: 'Region 2'}
-        ],
-        macrocounty: [
-          { id: 7, name: 'Macrocounty 1'},
-          { id: 8, name: 'Macrocounty 2'}
-        ],
-        county: [
-          { id: 9, name: 'County 1'},
-          { id: 10, name: 'County 2'}
-        ],
-        locality: [
-          { id: 11, name: 'Locality 1'},
-          { id: 12, name: 'Locality 2'}
-        ],
-        localadmin: [
-          { id: 13, name: 'LocalAdmin 1'},
-          { id: 14, name: 'LocalAdmin 2'}
-        ],
-        neighbourhood: [
-          { id: 15, name: 'Neighbourhood 1'},
-          { id: 16, name: 'Neighbourhood 2'}
-        ]
-      };
+    var resolver = {
+      lookup: function (centroid, callback) {
+        var result = {
+          country: [
+            {id: 1, name: 'Country 1'},
+            {id: 2, name: 'Country 2'}
+          ],
+          macroregion: [
+            {id: 3, name: 'Macroregion 1'},
+            {id: 4, name: 'Macroregion 2'}
+          ],
+          region: [
+            {id: 5, name: 'Region 1'},
+            {id: 6, name: 'Region 2'}
+          ],
+          macrocounty: [
+            {id: 7, name: 'Macrocounty 1'},
+            {id: 8, name: 'Macrocounty 2'}
+          ],
+          county: [
+            {id: 9, name: 'County 1'},
+            {id: 10, name: 'County 2'}
+          ],
+          locality: [
+            {id: 11, name: 'Locality 1'},
+            {id: 12, name: 'Locality 2'}
+          ],
+          localadmin: [
+            {id: 13, name: 'LocalAdmin 1'},
+            {id: 14, name: 'LocalAdmin 2'}
+          ],
+          neighbourhood: [
+            {id: 15, name: 'Neighbourhood 1'},
+            {id: 16, name: 'Neighbourhood 2'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -119,13 +120,14 @@ tape('tests', function(test) {
         .addParent('country', 'Country', '2')
     ];
 
-    var resolver = function(centroid, callback) {
-      if (_.isEqual(centroid, { lat: 12.121212, lon: 21.212121 } )) {
-        setTimeout(callback, 0, null, { region: [ { id: 1, name: 'Region' } ] });
-      } else if (_.isEqual(centroid, { lat: 13.131313, lon: 31.313131 })) {
-        setTimeout(callback, 0, null, { country: [ {id: 2, name: 'Country' } ] });
+    var resolver = {
+      lookup: function (centroid, callback) {
+        if (_.isEqual(centroid, {lat: 12.121212, lon: 21.212121})) {
+          setTimeout(callback, 0, null, {region: [{id: 1, name: 'Region'}]});
+        } else if (_.isEqual(centroid, {lat: 13.131313, lon: 31.313131})) {
+          setTimeout(callback, 0, null, {country: [{id: 2, name: 'Country'}]});
+        }
       }
-
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -144,8 +146,10 @@ tape('tests', function(test) {
     var expected = new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 });
 
-    var resolver = function(centroid, callback) {
-      setTimeout(callback, 0, 'this is an error', { region: 'Region' } );
+    var resolver = {
+      lookup: function (centroid, callback) {
+        setTimeout(callback, 0, 'this is an error', {region: 'Region'});
+      }
     };
 
     var config = {
@@ -182,18 +186,19 @@ tape('tests', function(test) {
         .addParent('region', 'Pennsylvania', '3', 'PA')
     ];
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        country: [
-          { id: 1, name: 'United States'}
-        ],
-        region: [
-          { id: 3, name: 'Pennsylvania'}
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          country: [
+            {id: 1, name: 'United States'}
+          ],
+          region: [
+            {id: 3, name: 'Pennsylvania'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -220,18 +225,19 @@ tape('tests', function(test) {
         .addParent('region', 'unknown US state', '3')
     ];
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        country: [
-          { id: 1, name: 'United States'}
-        ],
-        region: [
-          { id: 3, name: 'unknown US state'}
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          country: [
+            {id: 1, name: 'United States'}
+          ],
+          region: [
+            {id: 3, name: 'unknown US state'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -257,18 +263,19 @@ tape('tests', function(test) {
         .addParent('region', 'Pennsylvania', '3')
     ];
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        country: [
-          { id: 1, name: 'unsupported country'}
-        ],
-        region: [
-          { id: 3, name: 'Pennsylvania'}
-        ]
-      };
+    var resolver = {
+      lookup: function (centroid, callback) {
+        var result = {
+          country: [
+            {id: 1, name: 'unsupported country'}
+          ],
+          region: [
+            {id: 3, name: 'Pennsylvania'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -289,15 +296,16 @@ tape('tests', function(test) {
         .setAdmin( 'locality', 'Locality')
         .addParent( 'locality', 'Locality', '1');
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        locality: [
-          { id: 1, name: 'Locality'}
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          locality: [
+            {id: 1, name: 'Locality'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -319,15 +327,16 @@ tape('tests', function(test) {
         .setAdmin( 'admin0', 'Denmark')
         .addParent( 'country', 'Denmark', '1', 'DNK');
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        country: [
-          { id: 1, name: 'Denmark'}
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          country: [
+            {id: 1, name: 'Denmark'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -349,18 +358,19 @@ tape('tests', function(test) {
       .setAdmin( 'admin0', 'Denmark')
       .addParent( 'country', 'Denmark', '1', 'DNK');
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        country: [
-          { id: 1, name: 'Denmark'}
-        ],
-        county: [
-          { id: 2, name: '' }
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          country: [
+            {id: 1, name: 'Denmark'}
+          ],
+          county: [
+            {id: 2, name: ''}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -387,16 +397,17 @@ tape('tests', function(test) {
         .addParent('region', 'Dependency 1', '11')
     ];
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        dependency: [
-          { id: 11, name: 'Dependency 1'},
-          { id: 12, name: 'Dependency 2'}
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          dependency: [
+            {id: 11, name: 'Dependency 1'},
+            {id: 12, name: 'Dependency 2'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -420,20 +431,21 @@ tape('tests', function(test) {
         .addParent('region', 'Region 1', '11')
     ];
 
-    var resolver = function(centroid, callback) {
-      var result = {
-        region: [
-          { id: 11, name: 'Region 1'},
-          { id: 12, name: 'Region 2'}
-        ],
-        dependency: [
-          { id: 13, name: 'Dependency 1'},
-          { id: 14, name: 'Dependency 2'}
-        ]
-      };
+    var resolver = {
+      lookup: function(centroid, callback) {
+        var result = {
+          region: [
+            {id: 11, name: 'Region 1'},
+            {id: 12, name: 'Region 2'}
+          ],
+          dependency: [
+            {id: 13, name: 'Dependency 1'},
+            {id: 14, name: 'Dependency 2'}
+          ]
+        };
 
-      setTimeout(callback, 0, null, result);
-
+        setTimeout(callback, 0, null, result);
+      }
     };
 
     var lookupStream = stream.createLookupStream(resolver);
@@ -442,6 +454,22 @@ tape('tests', function(test) {
       t.deepEqual(actual, expected, 'all fields should have been set');
       t.end();
     });
+
+  });
+
+  test.test('call end to stop child processes', function (t) {
+    t.plan(2);
+
+    var resolver = {
+      end: function () {
+        t.assert(true, 'called end function');
+        t.equals(resolver, this, 'this is set to the correct object');
+        t.end();
+      }
+    };
+
+    var lookupStream = stream.createLookupStream(resolver);
+    lookupStream.end();
 
   });
 

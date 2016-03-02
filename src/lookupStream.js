@@ -88,6 +88,10 @@ function hasAnyMultiples(result) {
 
 function createLookupStream(resolver, config) {
 
+  if (!resolver) {
+    throw new Error('createLookupStream requires a valid resolver to be passed in as the first parameter');
+  }
+
   config = config || peliasConfig;
 
   var maxConcurrentReqs = 1;
@@ -95,14 +99,14 @@ function createLookupStream(resolver, config) {
     maxConcurrentReqs = config.imports.adminLookup.maxConcurrentReqs;
   }
 
-  return parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
+  var stream = parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
 
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
     }
 
-    resolver(doc.getCentroid(), function (err, result) {
+    resolver.lookup(doc.getCentroid(), function (err, result) {
 
       // assume errors at this point are fatal, so pass them upstream to kill stream
       if (err) {
@@ -147,7 +151,14 @@ function createLookupStream(resolver, config) {
 
       callback(null, doc);
     });
+  },
+  function end() {
+    if (typeof resolver.end === 'function') {
+      resolver.end();
+    }
   });
+
+  return stream;
 }
 
 module.exports = {
