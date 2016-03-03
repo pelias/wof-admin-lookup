@@ -4,7 +4,7 @@ var peliasConfig = require( 'pelias-config' ).generate();
 var countries = require('../data/countries');
 var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
-
+var getAdminLayers = require( './getAdminLayers' );
 
 var logger = peliasLogger.get( 'wof-admin-lookup', {
   transports: [
@@ -150,7 +150,7 @@ function createLookupStream(resolver, config) {
       setFields(result.neighbourhood, doc, 'neighborhood', 'neighbourhood');
 
       callback(null, doc);
-    });
+    }, getAdminLayers(doc.getLayer()));
   },
   function end() {
     if (typeof resolver.end === 'function') {

@@ -25,7 +25,7 @@ function LocalPIPService(lookupService) {
  * @param {number} centroid.lon
  * @param callback
  */
-LocalPIPService.prototype.lookup = function lookup(centroid, callback) {
+LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_layers) {
 
   var self = this;
 
@@ -52,7 +52,7 @@ LocalPIPService.prototype.lookup = function lookup(centroid, callback) {
     }, {});
 
     callback(err, result);
-  });
+  }, search_layers);
 };
 
 /**
