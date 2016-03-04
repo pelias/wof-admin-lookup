@@ -25,15 +25,15 @@ function LocalPIPService(lookupService) {
  * @param {number} centroid.lon
  * @param callback
  */
-LocalPIPService.prototype.lookup = function lookup(centroid, callback) {
+LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_layers) {
 
   var self = this;
 
-  // in the case that the lookup service hasn't loaded yet, sleep and come back in 30 seconds
+  // in the case that the lookup service hasn't loaded yet, sleep and come back in 5 seconds
   if (!self.lookupService) {
     setTimeout(function () {
       self.lookup(centroid, callback);
-    }, 1000 * 30);
+    }, 1000 * 5);
     return;
   }
 
@@ -52,7 +52,7 @@ LocalPIPService.prototype.lookup = function lookup(centroid, callback) {
     }, {});
 
     callback(err, result);
-  });
+  }, search_layers);
 };
 
 /**
