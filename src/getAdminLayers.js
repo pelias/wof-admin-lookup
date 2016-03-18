@@ -10,6 +10,8 @@
  */
 function getAdminLayers(layer) {
   switch (layer) {
+    case 'country':
+        return ['country'];
     case 'region':
         return ['country', 'macroregion', 'region'];
     case 'county':
