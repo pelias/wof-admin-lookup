@@ -53,15 +53,10 @@ regions.getCode = function(countries, regions) {
 
 };
 
-function setFields(values, doc, qsFieldName, wofFieldName, abbreviation) {
+function setFields(values, doc, wofFieldName, abbreviation) {
   try {
     if (!_.isEmpty(values)) {
-      if (qsFieldName) {
-        doc.setAdmin(qsFieldName, values[0].name);
-      }
-
       doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
-
     }
   }
   catch (err) {
@@ -136,19 +131,19 @@ function createLookupStream(resolver, config) {
         doc.setAlpha3(countryCode);
       }
 
-      setFields(result.country, doc, 'admin0', 'country', countryCode);
-      setFields(result.macroregion, doc, undefined, 'macroregion');
+      setFields(result.country, doc, 'country', countryCode);
+      setFields(result.macroregion, doc, 'macroregion');
       if (!_.isEmpty(result.region)) { // if there are regions, use them
-        setFields(result.region, doc, 'admin1', 'region', regionCode);
+        setFields(result.region, doc, 'region', regionCode);
       } else { // go with dependency for region (eg - Puerto Rico is a dependency)
-        setFields(result.dependency, doc, 'admin1', 'region');
+        setFields(result.dependency, doc, 'region');
       }
-      setFields(result.macrocounty, doc, undefined, 'macrocounty');
-      setFields(result.county, doc, 'admin2', 'county');
-      setFields(result.locality, doc, 'locality', 'locality');
-      setFields(result.localadmin, doc, 'local_admin', 'localadmin');
-      setFields(result.borough, doc, undefined, 'borough');
-      setFields(result.neighbourhood, doc, 'neighborhood', 'neighbourhood');
+      setFields(result.macrocounty, doc, 'macrocounty');
+      setFields(result.county, doc, 'county');
+      setFields(result.locality, doc, 'locality');
+      setFields(result.localadmin, doc, 'localadmin');
+      setFields(result.borough, doc, 'borough');
+      setFields(result.neighbourhood, doc, 'neighbourhood');
 
       callback(null, doc);
     }, getAdminLayers(doc.getLayer()));
