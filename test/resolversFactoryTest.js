@@ -35,36 +35,46 @@ tape('tests', function(test) {
         },
         {
           Id: 6,
+          Name: 'Borough 1',
+          Placetype: 'borough'
+        },
+        {
+          Id: 7,
           Name: 'Neighbourhood 1',
           Placetype: 'neighbourhood'
         },
         {
-          Id: 7,
+          Id: 8,
           Name: 'Country 2',
           Placetype: 'country'
         },
         {
-          Id: 8,
+          Id: 9,
           Name: 'Region 2',
           Placetype: 'region'
         },
         {
-          Id: 9,
+          Id: 10,
           Name: 'County 2',
           Placetype: 'county'
         },
         {
-          Id: 10,
+          Id: 11,
           Name: 'Locality 2',
           Placetype: 'locality'
         },
         {
-          Id: 11,
+          Id: 12,
           Name: 'LocalAdmin 2',
           Placetype: 'localadmin'
         },
         {
-          Id: 12,
+          Id: 13,
+          Name: 'Borough 2',
+          Placetype: 'borough'
+        },
+        {
+          Id: 14,
           Name: 'Neighbourhood 2',
           Placetype: 'neighbourhood'
         }
@@ -91,27 +101,31 @@ tape('tests', function(test) {
       var expected = {
         country: [
           { id: 1, name: 'Country 1'},
-          { id: 7, name: 'Country 2'},
+          { id: 8, name: 'Country 2'},
         ],
         region: [
           { id: 2, name: 'Region 1'},
-          { id: 8, name: 'Region 2'},
+          { id: 9, name: 'Region 2'},
         ],
         county: [
           { id: 3, name: 'County 1'},
-          { id: 9, name: 'County 2'},
+          { id: 10, name: 'County 2'},
         ],
         locality: [
           { id: 4, name: 'Locality 1'},
-          { id: 10, name: 'Locality 2'},
+          { id: 11, name: 'Locality 2'},
         ],
         localadmin: [
           { id: 5, name: 'LocalAdmin 1'},
-          { id: 11, name: 'LocalAdmin 2'},
+          { id: 12, name: 'LocalAdmin 2'},
+        ],
+        borough: [
+          { id: 6, name: 'Borough 1'},
+          { id: 13, name: 'Borough 2'},
         ],
         neighbourhood: [
-          { id: 6, name: 'Neighbourhood 1'},
-          { id: 12, name: 'Neighbourhood 2'},
+          { id: 7, name: 'Neighbourhood 1'},
+          { id: 14, name: 'Neighbourhood 2'},
         ]
       };
 
