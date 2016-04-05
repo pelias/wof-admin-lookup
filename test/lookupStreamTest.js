@@ -27,7 +27,7 @@ tape('tests', function(test) {
 
   });
 
-  test.test('country, macroregion, region, macrocounty, county, locality, localadmin, and neighborhood fields should be set into document', function(t) {
+  test.test('country, macroregion, region, macrocounty, county, locality, localadmin, borough, and neighborhood fields should be set into document', function(t) {
     var input = [
       new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
@@ -47,8 +47,9 @@ tape('tests', function(test) {
         .addParent('locality', 'Locality 1', '11')
         .setAdmin( 'local_admin', 'LocalAdmin 1')
         .addParent('localadmin', 'LocalAdmin 1', '13')
+        .addParent('borough', 'Borough 1', '15')
         .setAdmin( 'neighborhood', 'Neighbourhood 1')
-        .addParent('neighbourhood', 'Neighbourhood 1', '15')
+        .addParent('neighbourhood', 'Neighbourhood 1', '17')
     ];
 
     var resolver = {
@@ -82,9 +83,13 @@ tape('tests', function(test) {
             {id: 13, name: 'LocalAdmin 1'},
             {id: 14, name: 'LocalAdmin 2'}
           ],
+          borough: [
+            {id: 15, name: 'Borough 1'},
+            {id: 16, name: 'Borough 2'},
+          ],
           neighbourhood: [
-            {id: 15, name: 'Neighbourhood 1'},
-            {id: 16, name: 'Neighbourhood 2'}
+            {id: 17, name: 'Neighbourhood 1'},
+            {id: 18, name: 'Neighbourhood 2'}
           ]
         };
 

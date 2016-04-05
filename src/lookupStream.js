@@ -147,6 +147,7 @@ function createLookupStream(resolver, config) {
       setFields(result.county, doc, 'admin2', 'county');
       setFields(result.locality, doc, 'locality', 'locality');
       setFields(result.localadmin, doc, 'local_admin', 'localadmin');
+      setFields(result.borough, doc, undefined, 'borough');
       setFields(result.neighbourhood, doc, 'neighborhood', 'neighbourhood');
 
       callback(null, doc);
