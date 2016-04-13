@@ -35,20 +35,14 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'admin0', 'Country 1')
         .addParent('country', 'Country 1', '1')
         .addParent('macroregion', 'Macroregion 1', '3')
-        .setAdmin( 'admin1', 'Region 1')
         .addParent('region', 'Region 1', '5')
         .addParent('macrocounty', 'Macrocounty 1', '7')
-        .setAdmin( 'admin2', 'County 1')
         .addParent('county', 'County 1', '9')
-        .setAdmin( 'locality', 'Locality 1')
         .addParent('locality', 'Locality 1', '11')
-        .setAdmin( 'local_admin', 'LocalAdmin 1')
         .addParent('localadmin', 'LocalAdmin 1', '13')
         .addParent('borough', 'Borough 1', '15')
-        .setAdmin( 'neighborhood', 'Neighbourhood 1')
         .addParent('neighbourhood', 'Neighbourhood 1', '17')
     ];
 
@@ -117,11 +111,9 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'admin1', 'Region')
         .addParent('region', 'Region', '1'),
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 13.131313, lon: 31.313131 })
-        .setAdmin( 'admin0', 'Country')
         .addParent('country', 'Country', '2')
     ];
 
@@ -185,9 +177,7 @@ tape('tests', function(test) {
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAlpha3('USA')
-        .setAdmin( 'admin0', 'United States')
         .addParent('country', 'United States', '1', 'USA')
-        .setAdmin( 'admin1', 'Pennsylvania')
         .addParent('region', 'Pennsylvania', '3', 'PA')
     ];
 
@@ -224,9 +214,7 @@ tape('tests', function(test) {
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAlpha3('USA')
-        .setAdmin( 'admin0', 'United States')
         .addParent('country', 'United States', '1', 'USA')
-        .setAdmin( 'admin1', 'unknown US state')
         .addParent('region', 'unknown US state', '3')
     ];
 
@@ -262,9 +250,7 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'admin0', 'unsupported country')
         .addParent('country', 'unsupported country', '1')
-        .setAdmin( 'admin1', 'Pennsylvania')
         .addParent('region', 'Pennsylvania', '3')
     ];
 
@@ -298,7 +284,6 @@ tape('tests', function(test) {
 
     var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'locality', 'Locality')
         .addParent( 'locality', 'Locality', '1');
 
     var resolver = {
@@ -329,7 +314,6 @@ tape('tests', function(test) {
     var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
         .setAlpha3('DNK')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'admin0', 'Denmark')
         .addParent( 'country', 'Denmark', '1', 'DNK');
 
     var resolver = {
@@ -360,7 +344,6 @@ tape('tests', function(test) {
     var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
       .setAlpha3('DNK')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
-      .setAdmin( 'admin0', 'Denmark')
       .addParent( 'country', 'Denmark', '1', 'DNK');
 
     var resolver = {
@@ -398,7 +381,6 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'admin1', 'Dependency 1')
         .addParent('region', 'Dependency 1', '11')
     ];
 
@@ -432,7 +414,6 @@ tape('tests', function(test) {
     var expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAdmin( 'admin1', 'Region 1')
         .addParent('region', 'Region 1', '11')
     ];
 
