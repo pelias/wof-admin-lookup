@@ -29,7 +29,7 @@
     "intercept-stdout": "^0.1.2",
     "jshint": "^2.8.0",
     "precommit-hook": "^3.0.0",
-    "pelias-model": "3.1.0",
+    "pelias-model": "4.0.0",
     "tap-dot": "^1.0.1",
     "tape": "^4.2.2"
   },
