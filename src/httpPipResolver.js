@@ -68,7 +68,7 @@ RemotePIPResolver.prototype.lookup = function lookup(centroid, callback) {
 };
 
 RemotePIPResolver.prototype.end = function end() {
-  // nothing to do here
+  this.httpAgent.destroy();
 };
 
 function createWofPipResolver(url, config) {
