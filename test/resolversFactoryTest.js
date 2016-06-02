@@ -136,6 +136,7 @@ tape('tests', function(test) {
       t.deepEqual(result, expected);
       t.equal(stderr, '', 'nothing should have been written to stderr');
       t.end();
+      resolver.end();
       server.close();
 
     };
@@ -185,6 +186,7 @@ tape('tests', function(test) {
       t.deepEqual(result, expected);
       t.equal(stderr, '', 'nothing should have been written to stderr');
       t.end();
+      resolver.end();
       server.close();
 
     };
@@ -267,6 +269,7 @@ tape('tests', function(test) {
 
       t.end();
       server.close();
+      resolver.end();
 
     };
 
