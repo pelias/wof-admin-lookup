@@ -18,8 +18,10 @@ function getAdminLayers(layer) {
         return ['country', 'macroregion'];
     case 'county':
         return ['country', 'macroregion', 'region', 'macrocounty'];
-    case 'locality':
+    case 'localadmin':
         return ['country', 'macroregion', 'region', 'macrocounty', 'county'];
+    case 'locality':
+        return ['country', 'macroregion', 'region', 'macrocounty', 'county', 'localadmin'];
     default:
         return undefined;//undefined means use all layers as normal
   }
