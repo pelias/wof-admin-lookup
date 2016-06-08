@@ -11,15 +11,17 @@
 function getAdminLayers(layer) {
   switch (layer) {
     case 'country':
-        return ['country'];
+        return []; // No admin lookup needed for countries!
     case 'macroregion':
-        return ['country', 'macroregion'];
+        return ['country'];
     case 'region':
-        return ['country', 'macroregion', 'region'];
+        return ['country', 'macroregion'];
     case 'county':
+        return ['country', 'macroregion', 'region', 'macrocounty'];
+    case 'localadmin':
         return ['country', 'macroregion', 'region', 'macrocounty', 'county'];
     case 'locality':
-        return ['country', 'macroregion', 'region', 'macrocounty', 'county', 'locality'];
+        return ['country', 'macroregion', 'region', 'macrocounty', 'county', 'localadmin'];
     default:
         return undefined;//undefined means use all layers as normal
   }
