@@ -18,10 +18,10 @@
   ],
   "dependencies": {
     "lodash": "^4.6.0",
-    "pelias-config": "^2.0.0",
+    "pelias-config": "2.0.0",
     "pelias-logger": "0.0.8",
     "pelias-parallel-stream": "0.0.2",
-    "pelias-wof-pip-service": "^1.2.0",
+    "pelias-wof-pip-service": "1.6.1",
     "request": "^2.67.0",
     "through2": "^2.0.0"
   },
