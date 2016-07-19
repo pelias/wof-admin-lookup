@@ -4,7 +4,7 @@
   "description": "A fast, local, streaming Who's On First administrative hierarchy lookup.",
   "main": "index.js",
   "scripts": {
-    "test": "node test/test | tap-dot",
+    "test": "./bin/units",
     "lint": "jshint .",
     "validate": "npm ls",
     "travis": "npm run test"
