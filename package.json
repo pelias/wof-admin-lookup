@@ -1,17 +1,18 @@
 {
   "name": "pelias-wof-admin-lookup",
-  "version": "2.1.0",
+  "version": "0.0.0-semantic-release",
   "description": "A fast, local, streaming Who's On First administrative hierarchy lookup.",
   "main": "index.js",
   "scripts": {
     "test": "./bin/units",
     "lint": "jshint .",
     "validate": "npm ls",
-    "travis": "npm run test"
+    "travis": "npm run test",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
     "type": "git",
-    "url": "github.com:pelias/wof-admin-lookup.git"
+    "url": "https://github.com/pelias/wof-admin-lookup.git"
   },
   "keywords": [
     "who's on first"
@@ -32,7 +33,8 @@
     "precommit-hook": "^3.0.0",
     "pelias-model": "4.1.0",
     "tap-dot": "^1.0.1",
-    "tape": "^4.2.2"
+    "tape": "^4.2.2",
+    "semantic-release": "^4.3.5"
   },
   "pre-commit": [
     "lint",
