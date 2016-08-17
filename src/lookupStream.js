@@ -57,7 +57,7 @@ function setFields(values, doc, wofFieldName, abbreviation) {
   try {
     if (!_.isEmpty(values)) {
       var name = values[0].name;
-      if (Array.isArray(name)) {
+      if (Array.isArray(name)) { // can now be an array
         for(var i=0; i<name.length; i++) {
           doc.addParent(wofFieldName, name[i], values[0].id.toString(), abbreviation);
         }
