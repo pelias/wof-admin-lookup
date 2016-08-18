@@ -6,15 +6,19 @@ var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
 var getAdminLayers = require( './getAdminLayers' );
 
-var logger = peliasLogger.get( 'wof-admin-lookup', {
-  transports: [
-    new peliasLogger.winston.transports.File( {
-      filename: 'suspect_wof_records.log',
-      timestamp: false
-    })
-  ]
-});
+//defaults to nowhere
+var optsArg = {
+  transports: []
+};
+//only prints to suspect records log if flag is set
+if (peliasConfig.logger.suspectFile === true){
+  optsArg.transports.push(new peliasLogger.winston.transports.File( {
+    filename: 'suspect_wof_records.log',
+    timestamp: false
+  }));
+}
 
+var logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
 
 countries.isSupported = function(country) {
   return this.hasOwnProperty(country);
