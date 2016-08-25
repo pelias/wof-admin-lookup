@@ -152,6 +152,21 @@ function createLookupStream(resolver, config) {
       setFields(result.borough, doc, 'borough');
       setFields(result.neighbourhood, doc, 'neighbourhood');
 
+      if ( result.postalcode ) {
+        var postalcode = result.postalcode[0].name;
+        if (postalcode && postalcode !== '') {
+          var zip = doc.getAddress('zip');
+          if (zip && zip !== '') {
+            if( postalcode !== zip ) {
+              logger.error(doc.getAddress('street')+' '+doc.getAddress('number')+', '+zip+' '+result.localadmin + '#' +
+                           doc.getCentroid());
+            }
+          } else {
+            doc.setAddress('zip', postalcode);
+          }
+        }
+      }
+
       callback(null, doc);
     }, getAdminLayers(doc.getLayer()));
   },
