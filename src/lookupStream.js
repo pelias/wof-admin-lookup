@@ -160,12 +160,7 @@ function createLookupStream(resolver, config) {
         var postalcode = result.postalcode[0].name;
         if (postalcode && postalcode !== '') {
           var zip = doc.getAddress('zip');
-          if (zip && zip !== '') {
-            if( postalcode !== zip ) {
-              logger.error(doc.getAddress('street')+' '+doc.getAddress('number')+', '+zip+' '+result.localadmin + '#' +
-                           doc.getCentroid());
-            }
-          } else {
+          if (!zip || zip === '') {
             doc.setAddress('zip', postalcode);
           }
         }
