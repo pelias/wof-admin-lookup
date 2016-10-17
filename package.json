@@ -23,7 +23,7 @@
   "dependencies": {
     "lodash": "^4.6.0",
     "pelias-config": "2.1.0",
-    "pelias-logger": "0.0.8",
+    "pelias-logger": "0.1.0",
     "pelias-parallel-stream": "0.0.2",
     "pelias-wof-pip-service": "1.7.0",
     "request": "^2.67.0",
