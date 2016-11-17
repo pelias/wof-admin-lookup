@@ -35,6 +35,7 @@ tape('tests', function(test) {
         Id: 85633041,
         Name: 'Canada',
         Placetype: 'country',
+        Abbrev: 'CAN',
         Hierarchy: [
           {
             continent_id: 102191575,
@@ -51,7 +52,7 @@ tape('tests', function(test) {
     var callback = function(err, result) {
       var expected = {
         country: [
-          {id: 85633041, name: 'Canada'}
+          {id: 85633041, name: 'Canada', abbr: 'CAN'}
         ]
       };
 

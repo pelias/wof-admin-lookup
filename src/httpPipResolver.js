@@ -1,3 +1,5 @@
+'use strict';
+
 var util = require('util');
 var http = require('http');
 var request = require('request');
@@ -55,10 +57,17 @@ RemotePIPResolver.prototype.lookup = function lookup(centroid, callback) {
       if (!obj.hasOwnProperty(elem.Placetype)) {
         obj[elem.Placetype] = [];
       }
-      obj[elem.Placetype].push({
+
+      const parent = {
         id: elem.Id,
         name: elem.Name
-      });
+      };
+
+      if (elem.hasOwnProperty('Abbrev')) {
+        parent.abbr = elem.Abbrev;
+      }
+
+      obj[elem.Placetype].push(parent);
       return obj;
     }, {});
 

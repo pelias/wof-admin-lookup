@@ -1,3 +1,5 @@
+'use strict';
+
 var logger = require('pelias-logger').get('wof-admin-lookup');
 var createPIPService = require('pelias-wof-pip-service').create;
 
@@ -44,10 +46,17 @@ LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_la
       if (!obj.hasOwnProperty(elem.Placetype)) {
         obj[elem.Placetype] = [];
       }
-      obj[elem.Placetype].push({
+
+      const parent = {
         id: elem.Id,
         name: elem.Name
-      });
+      };
+
+      if (elem.hasOwnProperty('Abbrev')) {
+        parent.abbr = elem.Abbrev;
+      }
+
+      obj[elem.Placetype].push(parent);
       return obj;
     }, {});
 
