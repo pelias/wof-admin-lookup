@@ -11,7 +11,8 @@ tape('tests', function(test) {
         {
           Id: 1,
           Name: 'Country 1',
-          Placetype: 'country'
+          Placetype: 'country',
+          Abbrev: 'ABC'
         },
         {
           Id: 2,
@@ -46,7 +47,8 @@ tape('tests', function(test) {
         {
           Id: 8,
           Name: 'Country 2',
-          Placetype: 'country'
+          Placetype: 'country',
+          Abbrev: 'DEF'
         },
         {
           Id: 9,
@@ -100,8 +102,8 @@ tape('tests', function(test) {
     var callback = function(err, result) {
       var expected = {
         country: [
-          { id: 1, name: 'Country 1'},
-          { id: 8, name: 'Country 2'},
+          { id: 1, name: 'Country 1', abbr: 'ABC'},
+          { id: 8, name: 'Country 2', abbr: 'DEF'},
         ],
         region: [
           { id: 2, name: 'Region 1'},
@@ -151,7 +153,8 @@ tape('tests', function(test) {
         {
           Id: 1,
           Name: 'Country 1',
-          Placetype: 'country'
+          Placetype: 'country',
+          Abbrev: 'ABC'
         }
       ]));
     });
@@ -175,7 +178,7 @@ tape('tests', function(test) {
     var callback = function(err, result) {
       var expected = {
         country: [
-          { id: 1, name: 'Country 1'}
+          { id: 1, name: 'Country 1', abbr: 'ABC'}
         ]
       };
 

@@ -1,7 +1,6 @@
 var _ = require('lodash');
 var parallelStream = require('pelias-parallel-stream');
 var peliasConfig = require( 'pelias-config' ).generate();
-var countries = require('../data/countries');
 var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
 var getAdminLayers = require( './getAdminLayers' );
@@ -19,23 +18,6 @@ if (peliasConfig.logger.suspectFile === true){
 }
 
 var logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
-
-countries.isSupported = function(country) {
-  return this.hasOwnProperty(country);
-};
-
-countries.getCode = function(countries) {
-  if (_.isEmpty(countries)) {
-    return undefined;
-  }
-
-  if (this.isSupported(countries[0].name)) {
-    return this[countries[0].name];
-  }
-
-  return undefined;
-
-};
 
 regions.isSupported = function(country, name) {
   return this.hasOwnProperty(country) && this[country].hasOwnProperty(name);
@@ -128,7 +110,7 @@ function createLookupStream(resolver, config) {
       }
 
       var regionCode = regions.getCode(result.country, result.region);
-      var countryCode = countries.getCode(result.country);
+      var countryCode = getCountryCode(result);
 
       // set code if available
       if (!_.isUndefined(countryCode)) {
@@ -159,6 +141,13 @@ function createLookupStream(resolver, config) {
   });
 
   return stream;
+}
+
+function getCountryCode(result) {
+  if (result.country && result.country.length > 0 && result.country[0].hasOwnProperty('abbr')) {
+    return result.country[0].abbr;
+  }
+  return undefined;
 }
 
 module.exports = {

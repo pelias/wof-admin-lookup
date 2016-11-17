@@ -27,7 +27,9 @@ tape('tests', function(test) {
 
   });
 
-  test.test('country, macroregion, region, macrocounty, county, locality, localadmin, borough, and neighborhood fields should be set into document', function(t) {
+  test.test('country, macroregion, region, macrocounty, ' +
+    'county, locality, localadmin, borough, and neighborhood ' +
+    'fields should be set into document', function(t) {
     var input = [
       new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
@@ -185,7 +187,7 @@ tape('tests', function(test) {
       lookup: function(centroid, callback) {
         var result = {
           country: [
-            {id: 1, name: 'United States'}
+            {id: 1, name: 'United States', abbr: 'USA'}
           ],
           region: [
             {id: 3, name: 'Pennsylvania'}
@@ -222,7 +224,7 @@ tape('tests', function(test) {
       lookup: function(centroid, callback) {
         var result = {
           country: [
-            {id: 1, name: 'United States'}
+            {id: 1, name: 'United States', abbr: 'USA'}
           ],
           region: [
             {id: 3, name: 'unknown US state'}
@@ -320,7 +322,7 @@ tape('tests', function(test) {
       lookup: function(centroid, callback) {
         var result = {
           country: [
-            {id: 1, name: 'Denmark'}
+            {id: 1, name: 'Denmark', abbr: 'DNK'}
           ]
         };
 
@@ -350,7 +352,7 @@ tape('tests', function(test) {
       lookup: function(centroid, callback) {
         var result = {
           country: [
-            {id: 1, name: 'Denmark'}
+            {id: 1, name: 'Denmark', abbr: 'DNK'}
           ],
           county: [
             {id: 2, name: ''}
