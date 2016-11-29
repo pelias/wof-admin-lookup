@@ -116,6 +116,10 @@ function createLookupStream(resolver, config) {
       if (!_.isEmpty(countryCode)) {
         doc.setAlpha3(countryCode);
       }
+      else {
+        // TBD: remove this after debugging is done!!!
+        logger.error('no country code', result);
+      }
 
       setFields(result.country, doc, 'country', countryCode);
       setFields(result.macroregion, doc, 'macroregion');
