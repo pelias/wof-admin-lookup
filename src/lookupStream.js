@@ -113,8 +113,12 @@ function createLookupStream(resolver, config) {
       var countryCode = getCountryCode(result);
 
       // set code if available
-      if (!_.isUndefined(countryCode)) {
+      if (!_.isEmpty(countryCode)) {
         doc.setAlpha3(countryCode);
+      }
+      else {
+        // TBD: remove this after debugging is done!!!
+        logger.error('no country code', result);
       }
 
       setFields(result.country, doc, 'country', countryCode);
