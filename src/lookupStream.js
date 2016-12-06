@@ -42,7 +42,14 @@ regions.getCode = function(countries, regions) {
 function setFields(values, doc, wofFieldName, abbreviation) {
   try {
     if (!_.isEmpty(values)) {
-      doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+      var name = values[0].name;
+      if (Array.isArray(name)) { // can now be an array
+        for(var i=0; i<name.length; i++) {
+          doc.addParent(wofFieldName, name[i], values[0].id.toString(), abbreviation);
+        }
+      } else {
+        doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+      }
     }
   }
   catch (err) {
@@ -134,6 +141,16 @@ function createLookupStream(resolver, config) {
       setFields(result.localadmin, doc, 'localadmin');
       setFields(result.borough, doc, 'borough');
       setFields(result.neighbourhood, doc, 'neighbourhood');
+
+      if ( result.postalcode ) {
+        var postalcode = result.postalcode[0].name;
+        if (postalcode && postalcode !== '') {
+          var zip = doc.getAddress('zip');
+          if (!zip || zip === '') {
+            doc.setAddress('zip', postalcode);
+          }
+        }
+      }
 
       callback(null, doc);
     }, getAdminLayers(doc.getLayer()));
