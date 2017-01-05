@@ -1,3 +1,6 @@
+const peliasConfig = require('pelias-config').generate();
+require('./src/configValidation').validate(peliasConfig);
+
 var createLookupStream = require('./src/lookupStream');
 var createWofPipResolver = require('./src/resolversFactory');
 
