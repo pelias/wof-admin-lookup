@@ -2,14 +2,18 @@
 
 const Joi = require('joi');
 
-// requires just `maxConcurrentReqs`
+// requires just `imports.whosonfirst.datapath`
+// `imports.adminLookup.maxConcurrentReqs` is optional
 const schema = Joi.object().keys({
-  imports: {
-    adminLookup: {
+  imports: Joi.object().keys({
+    adminLookup: Joi.object().keys({
       maxConcurrentReqs: Joi.number().integer()
-    }
-  }
-}).unknown(true);
+    }),
+    whosonfirst: Joi.object().keys({
+      datapath: Joi.string()
+    }).requiredKeys('datapath').unknown(true)
+  }).requiredKeys('whosonfirst').unknown(true)
+}).requiredKeys('imports').unknown(true);
 
 module.exports = {
   validate: function validate(config) {

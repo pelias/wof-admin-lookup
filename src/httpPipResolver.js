@@ -3,19 +3,13 @@
 var util = require('util');
 var http = require('http');
 var request = require('request');
-var peliasConfig = require( 'pelias-config' ).generate();
 var _ = require('lodash');
 
+let maxConcurrentReqs;
 
-function RemotePIPResolver(url, config) {
+function RemotePIPResolver(url) {
   // prepend url with 'http://' if not already
   this.normalizedUrl = _.startsWith(url, 'http://') ? url : 'http://' + url;
-  this.config = config || peliasConfig;
-
-  this.maxConcurrentReqs = 1;
-  if (this.config.imports.adminLookup && this.config.imports.adminLookup.maxConcurrentReqs) {
-    this.maxConcurrentReqs = this.config.imports.adminLookup.maxConcurrentReqs;
-  }
 
   this.httpAgent = new http.Agent({
     keepAlive: true,
@@ -80,8 +74,9 @@ RemotePIPResolver.prototype.end = function end() {
   this.httpAgent.destroy();
 };
 
-function createWofPipResolver(url, config) {
-  return new RemotePIPResolver(url, config);
-}
-
-module.exports = createWofPipResolver;
+module.exports = function(options) {
+  maxConcurrentReqs = _.get(options, 'maxConcurrentReqs', 1);
+  return (url) => {
+    return new RemotePIPResolver(url);
+  };
+};

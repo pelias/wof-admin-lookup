@@ -1,16 +1,20 @@
+'use strict';
+
 var _ = require('lodash');
 var parallelStream = require('pelias-parallel-stream');
-var peliasConfig = require( 'pelias-config' ).generate();
 var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
 var getAdminLayers = require( './getAdminLayers' );
+
+let maxConcurrentReqs;
+let suspectFile;
 
 //defaults to nowhere
 var optsArg = {
   transports: []
 };
 //only prints to suspect records log if flag is set
-if (peliasConfig.logger.suspectFile === true){
+if (suspectFile){
   optsArg.transports.push(new peliasLogger.winston.transports.File( {
     filename: 'suspect_wof_records.log',
     timestamp: false
@@ -67,21 +71,12 @@ function hasAnyMultiples(result) {
   });
 }
 
-function createLookupStream(resolver, config) {
-
+function createLookupStream(resolver) {
   if (!resolver) {
     throw new Error('createLookupStream requires a valid resolver to be passed in as the first parameter');
   }
 
-  config = config || peliasConfig;
-
-  var maxConcurrentReqs = 1;
-  if (config.imports.adminLookup && config.imports.adminLookup.maxConcurrentReqs) {
-    maxConcurrentReqs = config.imports.adminLookup.maxConcurrentReqs;
-  }
-
   var stream = parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
-
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
@@ -154,6 +149,8 @@ function getCountryCode(result) {
   return undefined;
 }
 
-module.exports = {
-  createLookupStream: createLookupStream
+module.exports = (options) => {
+  maxConcurrentReqs = _.get(options, 'maxConcurrentReqs', 1);
+  suspectFile = _.get(options, 'suspectFile', false);
+  return createLookupStream;
 };

@@ -3,7 +3,7 @@ var event_stream = require('event-stream');
 var Document = require('pelias-model').Document;
 var _ = require('lodash');
 
-var stream = require('../src/lookupStream');
+var stream = require('../src/lookupStream')();
 
 function test_stream(input, testedStream, callback) {
     var input_stream = event_stream.readArray(input);
@@ -14,11 +14,17 @@ function test_stream(input, testedStream, callback) {
 
 tape('tests', function(test) {
   test.test('doc without centroid should not modify input', function(t) {
-    var input = [
+    const input = [
       new Document( 'whosonfirst', 'placetype', '1')
     ];
 
-    var lookupStream = stream.createLookupStream({});
+    const resolver = {
+      lookup: () => {
+        throw new Error('lookup should not have been called');
+      }
+    };
+
+    const lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, input, 'nothing should have changed');
@@ -93,7 +99,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'all fields should have been set');
@@ -129,7 +135,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'result with missing fields should not set anything in doc');
@@ -151,10 +157,7 @@ tape('tests', function(test) {
       }
     };
 
-    var config = {
-      imports: { adminLookup: { maxConcurrentReqs: 1 } }
-    };
-    var lookupStream = stream.createLookupStream(resolver, config);
+    var lookupStream = stream(resolver);
 
     var input_stream = event_stream.readArray([input]);
     var destination_stream = event_stream.writeArray(function() {
@@ -198,7 +201,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'region abbreviation should have been set');
@@ -235,7 +238,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'no region abbreviation should have been set');
@@ -271,7 +274,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'no region abbreviation should have been set');
@@ -300,7 +303,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream([inputDoc], lookupStream, function(err, actual) {
       t.deepEqual(actual, [expectedDoc], 'no region abbreviation should have been set');
@@ -330,7 +333,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream([inputDoc], lookupStream, function(err, actual) {
       t.deepEqual(actual, [expectedDoc], 'alpha3 should have been set');
@@ -363,7 +366,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     t.doesNotThrow( function () {
 
@@ -399,7 +402,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'all fields should have been set');
@@ -436,7 +439,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
 
     test_stream(input, lookupStream, function(err, actual) {
       t.deepEqual(actual, expected, 'all fields should have been set');
@@ -456,7 +459,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream.createLookupStream(resolver);
+    var lookupStream = stream(resolver);
     lookupStream.end();
 
   });

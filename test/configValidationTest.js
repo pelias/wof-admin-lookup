@@ -6,12 +6,12 @@ const configValidation = require('../src/configValidation');
 const proxyquire = require('proxyquire').noCallThru();
 
 tape('tests configuration scenarios', function(test) {
-  test.test('missing imports should not throw error', function(t) {
+  test.test('missing imports should throw error', function(t) {
     const config = {};
 
-    t.doesNotThrow(function() {
+    t.throws(function() {
       configValidation.validate(config);
-    });
+    }, /"imports" is required/);
     t.end();
 
   });
@@ -29,9 +29,38 @@ tape('tests configuration scenarios', function(test) {
 
   });
 
+  test.test('missing imports.whosonfirst should throw error', function(t) {
+    const config = {
+      imports: {}
+    };
+
+    t.throws(function() {
+      configValidation.validate(config);
+    }, /"whosonfirst" is required/);
+    t.end();
+
+  });
+
+  test.test('missing imports.whosonfirst.datapath should throw error', function(t) {
+    const config = {
+      imports: {
+        whosonfirst: {}
+      }
+    };
+
+    t.throws(function() {
+      configValidation.validate(config);
+    }, /"datapath" is required/);
+    t.end();
+
+  });
+
   test.test('missing imports.adminLookup should not throw error', function(t) {
     const config = {
       imports: {
+        whosonfirst: {
+          datapath: 'datapath value'
+        }
       }
     };
 
@@ -46,7 +75,10 @@ tape('tests configuration scenarios', function(test) {
     [null, 17, 'string', [], true].forEach((value) => {
       const config = {
         imports: {
-          adminLookup: value
+          adminLookup: value,
+          whosonfirst: {
+            datapath: 'datapath value'
+          }
         }
       };
 
@@ -65,6 +97,9 @@ tape('tests configuration scenarios', function(test) {
         imports: {
           adminLookup: {
             maxConcurrentReqs: value
+          },
+          whosonfirst: {
+            datapath: 'datapath value'
           }
         }
       };
@@ -84,6 +119,9 @@ tape('tests configuration scenarios', function(test) {
       imports: {
         adminLookup: {
           maxConcurrentReqs: 17.3
+        },
+        whosonfirst: {
+          datapath: 'datapath value'
         }
       }
     };
@@ -100,6 +138,9 @@ tape('tests configuration scenarios', function(test) {
     const config = {
       imports: {
         adminLookup: {
+        },
+        whosonfirst: {
+          datapath: 'datapath value'
         }
       }
     };
@@ -117,6 +158,9 @@ tape('tests configuration scenarios', function(test) {
       imports: {
         adminLookup: {
           maxConcurrentReqs: 17
+        },
+        whosonfirst: {
+          datapath: 'datapath value'
         }
       }
     };
@@ -129,14 +173,39 @@ tape('tests configuration scenarios', function(test) {
 
   });
 
+  test.test('non-string imports.whosonfirst.datapath should throw error', function(t) {
+    [null, 17, {}, [], true].forEach((value) => {
+      const config = {
+        imports: {
+          whosonfirst: {
+            datapath: value
+          }
+        }
+      };
+
+      t.throws(function() {
+        configValidation.validate(config);
+      }, /"datapath" must be a string/);
+    });
+
+    t.end();
+
+  });
+
   test.test('unknown properties should not throw errors', function(t) {
     const config = {
       imports: {
         adminLookup: {
           maxConcurrentReqs: 17,
           unknown_property: 'property value'
-        }
-      }
+        },
+        whosonfirst: {
+          datapath: 'datapath value',
+          unknown_property: 'property value'
+        },
+        unknown_property: 'property value'
+      },
+      unknown_property: 'property value'
     };
 
     t.doesNotThrow(function() {
