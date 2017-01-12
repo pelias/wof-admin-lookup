@@ -3,15 +3,13 @@
 var logger = require('pelias-logger').get('wof-admin-lookup');
 var createPIPService = require('pelias-wof-pip-service').create;
 
-let datapath;
-
 /**
  * LocalPIPService class
  *
  * @param {object} [lookupService] optional, primarily used for testing
  * @constructor
  */
-function LocalPIPService(lookupService) {
+function LocalPIPService(lookupService, datapath) {
 
   this.lookupService = lookupService || null;
 
@@ -80,13 +78,11 @@ LocalPIPService.prototype.end = function end() {
  * Factory function
  *
  * @param {object} [service]
+ * @param {string} [datapath]
  * @returns {LocalPIPService}
  */
-function createLocalPipResolver(service) {
-  return new LocalPIPService(service);
-}
-
-module.exports = function(_datapath) {
-  datapath = _datapath;
-  return createLocalPipResolver;
+module.exports = function(datapath) {
+  return function(service) {
+    return new LocalPIPService(service, datapath);
+  };
 };
