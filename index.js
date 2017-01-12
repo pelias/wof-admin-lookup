@@ -1,8 +1,13 @@
-var createLookupStream = require('./src/lookupStream');
-var createWofPipResolver = require('./src/resolversFactory');
+const peliasConfig = require('pelias-config').generate();
+require('./src/configValidation').validate(peliasConfig);
+
+const _ = require('lodash');
+
+const maxConcurrentReqs = _.get(peliasConfig, 'imports.adminLookup.maxConcurrentReqs', 1);
+const datapath = peliasConfig.imports.whosonfirst.datapath;
 
 module.exports = {
-  createLookupStream: createLookupStream.createLookupStream,
-  createWofPipResolver: createWofPipResolver.createWofPipResolver,
-  createLocalWofPipResolver: createWofPipResolver.createLocalPipResolver
+  createLookupStream: require('./src/lookupStream')(maxConcurrentReqs),
+  createWofPipResolver: require('./src/httpPipResolver')(maxConcurrentReqs),
+  createLocalWofPipResolver: require('./src/localPipResolver')(datapath)
 };

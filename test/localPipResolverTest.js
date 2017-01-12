@@ -1,6 +1,6 @@
 var tape = require('tape');
 
-var resolvers = require('../src/resolversFactory');
+var localPipResolver = require('../src/localPipResolver');
 
 tape('tests', function(test) {
 
@@ -47,7 +47,7 @@ tape('tests', function(test) {
 
     var lookupServiceMock = makeLookupMock(t, expectedLookupParams, null, results);
 
-    var resolver = resolvers.createLocalPipResolver(lookupServiceMock);
+    var resolver = localPipResolver()(lookupServiceMock);
 
     var callback = function(err, result) {
       var expected = {

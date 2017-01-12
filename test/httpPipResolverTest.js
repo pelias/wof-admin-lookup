@@ -2,7 +2,7 @@ var tape = require('tape');
 var http = require('http');
 var intercept = require('intercept-stdout');
 
-var resolvers = require('../src/resolversFactory');
+var httpPipResolver = require('../src/httpPipResolver')(1);
 
 tape('tests', function(test) {
   test.test('return value should be parsed from server response', function(t) {
@@ -85,7 +85,7 @@ tape('tests', function(test) {
 
     server.listen(0);
 
-    var resolver = resolvers.createWofPipResolver('http://localhost:' + server.address().port + '/?');
+    var resolver = httpPipResolver('http://localhost:' + server.address().port + '/?');
 
     var centroid = {
       lat: 12.121212,
@@ -161,7 +161,7 @@ tape('tests', function(test) {
 
     server.listen(0);
 
-    var resolver = resolvers.createWofPipResolver('localhost:' + server.address().port + '/?');
+    var resolver = httpPipResolver('localhost:' + server.address().port + '/?');
 
     var centroid = {
       lat: 12.121212,
@@ -199,7 +199,7 @@ tape('tests', function(test) {
   });
 
   test.test('error condition', function(t) {
-    var resolver = resolvers.createWofPipResolver('http://localhost:12345/?');
+    var resolver = httpPipResolver('http://localhost:12345/?');
 
     var centroid = {
       lat: 12.121212,
@@ -236,7 +236,7 @@ tape('tests', function(test) {
 
     server.listen(0);
 
-    var resolver = resolvers.createWofPipResolver('http://localhost:' + server.address().port + '/?');
+    var resolver = httpPipResolver('http://localhost:' + server.address().port + '/?');
 
     var centroid = {
       lat: 12.121212,

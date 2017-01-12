@@ -1,3 +1,4 @@
+require ('./configValidationTest.js');
 require ('./lookupStreamTest.js');
-require ('./resolversFactoryTest.js');
-require ('./resolversFactoryLocalTest.js');
+require ('./httpPipResolverTest.js');
+require ('./localPipResolverTest.js');
