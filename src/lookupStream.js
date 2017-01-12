@@ -6,20 +6,15 @@ var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
 var getAdminLayers = require( './getAdminLayers' );
 
-let maxConcurrentReqs;
-let suspectFile;
-
 //defaults to nowhere
 var optsArg = {
   transports: []
 };
 //only prints to suspect records log if flag is set
-if (suspectFile){
-  optsArg.transports.push(new peliasLogger.winston.transports.File( {
-    filename: 'suspect_wof_records.log',
-    timestamp: false
-  }));
-}
+optsArg.transports.push(new peliasLogger.winston.transports.File( {
+  filename: 'suspect_wof_records.log',
+  timestamp: false
+}));
 
 var logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
 
@@ -71,7 +66,7 @@ function hasAnyMultiples(result) {
   });
 }
 
-function createLookupStream(resolver) {
+function createLookupStream(resolver, maxConcurrentReqs) {
   if (!resolver) {
     throw new Error('createLookupStream requires a valid resolver to be passed in as the first parameter');
   }
@@ -149,8 +144,8 @@ function getCountryCode(result) {
   return undefined;
 }
 
-module.exports = (options) => {
-  maxConcurrentReqs = _.get(options, 'maxConcurrentReqs', 1);
-  suspectFile = _.get(options, 'suspectFile', false);
-  return createLookupStream;
+module.exports = function(maxConcurrentReqs) {
+  return function(resolver) {
+    return createLookupStream(resolver, maxConcurrentReqs || 1);
+  };
 };

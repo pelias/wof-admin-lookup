@@ -3,13 +3,11 @@ require('./src/configValidation').validate(peliasConfig);
 
 const _ = require('lodash');
 
-const options = {
-  maxConcurrentReqs: _.get(peliasConfig, 'imports.adminLookup.maxConcurrentReqs', 1),
-  suspectFile: _.get(peliasConfig, 'logger.suspectFile', false)
-};
+const maxConcurrentReqs = _.get(peliasConfig, 'imports.adminLookup.maxConcurrentReqs', 1);
+const datapath = peliasConfig.imports.whosonfirst.datapath;
 
 module.exports = {
-  createLookupStream: require('./src/lookupStream')(options),
-  createWofPipResolver: require('./src/httpPipResolver')(options),
-  createLocalWofPipResolver: require('./src/localPipResolver')(peliasConfig.imports.whosonfirst.datapath)
+  createLookupStream: require('./src/lookupStream')(maxConcurrentReqs),
+  createWofPipResolver: require('./src/httpPipResolver')(maxConcurrentReqs),
+  createLocalWofPipResolver: require('./src/localPipResolver')(datapath)
 };
