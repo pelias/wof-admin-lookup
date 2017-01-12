@@ -2,7 +2,7 @@ var tape = require('tape');
 var http = require('http');
 var intercept = require('intercept-stdout');
 
-var httpPipResolver = require('../src/httpPipResolver')({ maxConcurrentReqs: 1 });
+var httpPipResolver = require('../src/httpPipResolver')(1);
 
 tape('tests', function(test) {
   test.test('return value should be parsed from server response', function(t) {

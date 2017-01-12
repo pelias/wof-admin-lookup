@@ -5,15 +5,13 @@ var http = require('http');
 var request = require('request');
 var _ = require('lodash');
 
-let maxConcurrentReqs;
-
-function RemotePIPResolver(url) {
+function RemotePIPResolver(url, maxConcurrentReqs) {
   // prepend url with 'http://' if not already
   this.normalizedUrl = _.startsWith(url, 'http://') ? url : 'http://' + url;
 
   this.httpAgent = new http.Agent({
     keepAlive: true,
-    maxSockets: this.maxConcurrentReqs
+    maxSockets: maxConcurrentReqs
   });
 }
 
@@ -74,9 +72,8 @@ RemotePIPResolver.prototype.end = function end() {
   this.httpAgent.destroy();
 };
 
-module.exports = function(options) {
-  maxConcurrentReqs = _.get(options, 'maxConcurrentReqs', 1);
+module.exports = function(maxConcurrentReqs) {
   return (url) => {
-    return new RemotePIPResolver(url);
+    return new RemotePIPResolver(url, maxConcurrentReqs);
   };
 };
