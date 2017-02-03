@@ -1,7 +1,7 @@
 'use strict';
 
 var logger = require('pelias-logger').get('wof-admin-lookup');
-var createPIPService = require('pelias-wof-pip-service').create;
+var createPIPService = require('./pip/index').create;
 
 /**
  * LocalPIPService class
@@ -9,16 +9,12 @@ var createPIPService = require('pelias-wof-pip-service').create;
  * @param {object} [lookupService] optional, primarily used for testing
  * @constructor
  */
-function LocalPIPService(lookupService, datapath) {
+function LocalPIPService(datapath) {
+  var self = this;
+  createPIPService(datapath, function (err, service) {
+     self.lookupService = service;
+  });
 
-  this.lookupService = lookupService || null;
-
-  if (!this.lookupService) {
-    var self = this;
-    createPIPService(datapath, function (err, service) {
-      self.lookupService = service;
-    });
-  }
 }
 
 /**
@@ -28,7 +24,6 @@ function LocalPIPService(lookupService, datapath) {
  * @param callback
  */
 LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_layers) {
-
   var self = this;
 
   // in the case that the lookup service hasn't loaded yet, sleep and come back in 5 seconds
@@ -69,7 +64,7 @@ LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_la
  */
 LocalPIPService.prototype.end = function end() {
   if (this.lookupService) {
-    logger.debug('Shutting down admin lookup service');
+    logger.info('Shutting down admin lookup service');
     this.lookupService.end();
   }
 };
@@ -82,7 +77,5 @@ LocalPIPService.prototype.end = function end() {
  * @returns {LocalPIPService}
  */
 module.exports = function(datapath) {
-  return function(service) {
-    return new LocalPIPService(service, datapath);
-  };
+  return new LocalPIPService(datapath);
 };

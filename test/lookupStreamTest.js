@@ -3,7 +3,7 @@ var event_stream = require('event-stream');
 var Document = require('pelias-model').Document;
 var _ = require('lodash');
 
-var stream = require('../src/lookupStream')();
+var stream = require('../src/lookupStream');
 
 function test_stream(input, testedStream, callback) {
     var input_stream = event_stream.readArray(input);

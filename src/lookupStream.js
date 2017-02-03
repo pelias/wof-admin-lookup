@@ -66,12 +66,9 @@ function hasAnyMultiples(result) {
   });
 }
 
-function createLookupStream(resolver, maxConcurrentReqs) {
-  if (!resolver) {
-    throw new Error('createLookupStream requires a valid resolver to be passed in as the first parameter');
-  }
-
-  var stream = parallelStream(maxConcurrentReqs, function (doc, enc, callback) {
+function createResolverStream(resolver) {
+  return function (doc, enc, callback) {
+    // console.error(`doc queued`);
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
@@ -127,14 +124,7 @@ function createLookupStream(resolver, maxConcurrentReqs) {
 
       callback(null, doc);
     }, getAdminLayers(doc.getLayer()));
-  },
-  function end() {
-    if (typeof resolver.end === 'function') {
-      resolver.end();
-    }
-  });
-
-  return stream;
+  };
 }
 
 function getCountryCode(result) {
@@ -144,8 +134,16 @@ function getCountryCode(result) {
   return undefined;
 }
 
-module.exports = function(maxConcurrentReqs) {
-  return function(resolver) {
-    return createLookupStream(resolver, maxConcurrentReqs || 1);
+module.exports = function(resolver, maxConcurrentReqs) {
+  if (!resolver) {
+    throw new Error('createLookupStream requires a valid resolver to be passed in as the first parameter');
+  }
+
+  const resolverStream = createResolverStream(resolver);
+  const end = (resolver) => {
+    return () => { resolver.end(); };
   };
+
+  return parallelStream(maxConcurrentReqs, resolverStream, end(resolver));
+
 };
