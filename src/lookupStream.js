@@ -56,25 +56,27 @@ function setFields(values, doc, wofFieldName, abbreviation) {
   }
 }
 
-function hasCountry(result) {
-  return _.isEmpty(result.country);
-}
-
 function hasAnyMultiples(result) {
-  return Object.keys(result).some(function(element) {
+  return Object.keys(result).some((element) => {
     return result[element].length > 1;
   });
 }
 
-function createResolverStream(resolver) {
+function getCountryCode(result) {
+  // return the abbreviation for the first country in the result
+  if (_.get(result, 'country', []).length > 0) {
+    return result.country[0].abbr;
+  }
+}
+
+function createPipResolverStream(pipResolver) {
   return function (doc, enc, callback) {
-    // console.error(`doc queued`);
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
     }
 
-    resolver.lookup(doc.getCentroid(), function (err, result) {
+    pipResolver.lookup(doc.getCentroid(), (err, result) => {
 
       // assume errors at this point are fatal, so pass them upstream to kill stream
       if (err) {
@@ -83,7 +85,7 @@ function createResolverStream(resolver) {
       }
 
       // log results w/o country OR any multiples
-      if (hasCountry(result)) {
+      if (_.isEmpty(result.country)) {
         logger.info('no country', {
           centroid: doc.getCentroid(),
           result: result
@@ -100,7 +102,7 @@ function createResolverStream(resolver) {
       var countryCode = getCountryCode(result);
 
       // set code if available
-      if (!_.isEmpty(countryCode)) {
+      if (countryCode) {
         doc.setAlpha3(countryCode);
       }
       else {
@@ -127,27 +129,22 @@ function createResolverStream(resolver) {
   };
 }
 
-function getCountryCode(result) {
-  if (result.country && result.country.length > 0 && result.country[0].hasOwnProperty('abbr')) {
-    return result.country[0].abbr;
-  }
-  return undefined;
+function createPipResolverEnd(pipResolver) {
+  return () => {
+    if (typeof pipResolver.end === 'function') {
+      pipResolver.end();
+    }
+  };
 }
 
-module.exports = function(resolver, maxConcurrentReqs) {
-  if (!resolver) {
-    throw new Error('createLookupStream requires a valid resolver to be passed in as the first parameter');
+module.exports = function(pipResolver, maxConcurrentReqs) {
+  if (!pipResolver) {
+    throw new Error('valid pipResolver required to be passed in as the first parameter');
   }
 
-  const resolverStream = createResolverStream(resolver);
-  const end = (resolver) => {
-    return () => {
-      if (typeof resolver.end === 'function') {
-        resolver.end();
-      }
-    };
-  };
+  const pipResolverStream = createPipResolverStream(pipResolver);
+  const end = createPipResolverEnd(pipResolver);
 
-  return parallelStream(maxConcurrentReqs || 1, resolverStream, end(resolver));
+  return parallelStream(maxConcurrentReqs || 1, pipResolverStream, end);
 
 };
