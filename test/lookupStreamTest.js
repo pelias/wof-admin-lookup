@@ -1,46 +1,45 @@
-var tape = require('tape');
-var event_stream = require('event-stream');
-var Document = require('pelias-model').Document;
-var _ = require('lodash');
+const tape = require('tape');
+const event_stream = require('event-stream');
+const Document = require('pelias-model').Document;
+const _ = require('lodash');
 
-var stream = require('../src/lookupStream');
+const stream = require('../src/lookupStream');
 
 function test_stream(input, testedStream, callback) {
-    var input_stream = event_stream.readArray(input);
-    var destination_stream = event_stream.writeArray(callback);
+    const input_stream = event_stream.readArray(input);
+    const destination_stream = event_stream.writeArray(callback);
 
     input_stream.pipe(testedStream).pipe(destination_stream);
 }
 
-tape('tests', function(test) {
-  test.test('doc without centroid should not modify input', function(t) {
+tape('tests', (test) => {
+  test.test('doc without centroid should not modify input', (t) => {
     const input = [
       new Document( 'whosonfirst', 'placetype', '1')
     ];
 
     const resolver = {
-      lookup: () => {
+      lookup: (centroid, callback) => {
         throw new Error('lookup should not have been called');
       }
     };
 
     const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, input, 'nothing should have changed');
       t.end();
     });
 
   });
 
-  test.test('country, macroregion, region, macrocounty, ' +
-    'county, locality, localadmin, borough, and neighborhood ' +
-    'fields should be set into document', function(t) {
-    var input = [
+  test.test('country, macroregion, region, macrocounty, county, locality, ' +
+    'localadmin, borough, and neighborhood fields should be set into document', (t) => {
+    const input = [
       new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .addParent('country', 'Country 1', '1')
@@ -54,9 +53,9 @@ tape('tests', function(test) {
         .addParent('neighbourhood', 'Neighbourhood 1', '17')
     ];
 
-    var resolver = {
-      lookup: function (centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           country: [
             {id: 1, name: 'Country 1'},
             {id: 2, name: 'Country 2'}
@@ -99,24 +98,24 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'all fields should have been set');
       t.end();
     });
 
   });
 
-  test.test('resolver with field-less result should only set fields that are present', function(t) {
-    var input = [
+  test.test('resolver with field-less result should only set fields that are present', (t) => {
+    const input = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 }),
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 13.131313, lon: 31.313131 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .addParent('region', 'Region', '1'),
@@ -125,8 +124,8 @@ tape('tests', function(test) {
         .addParent('country', 'Country', '2')
     ];
 
-    var resolver = {
-      lookup: function (centroid, callback) {
+    const resolver = {
+      lookup: (centroid, callback) => {
         if (_.isEqual(centroid, {lat: 12.121212, lon: 21.212121})) {
           setTimeout(callback, 0, null, {region: [{id: 1, name: 'Region'}]});
         } else if (_.isEqual(centroid, {lat: 13.131313, lon: 31.313131})) {
@@ -135,37 +134,41 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'result with missing fields should not set anything in doc');
       t.end();
     });
 
   });
 
-  test.test('resolver throwing error should push doc onto stream unmodified', function(t) {
-    var input = new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+  test.test('resolver throwing error should push doc onto stream unmodified', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
 
-    var expected = new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+    const expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
 
-    var resolver = {
-      lookup: function (centroid, callback) {
+    const resolver = {
+      lookup: (centroid, callback) => {
         setTimeout(callback, 0, 'this is an error', {region: 'Region'});
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    var input_stream = event_stream.readArray([input]);
-    var destination_stream = event_stream.writeArray(function() {
+    const input_stream = event_stream.readArray(input);
+    const destination_stream = event_stream.writeArray(() => {
       t.fail('this stream should not have been called');
       t.end();
     });
 
-    input_stream.pipe(lookupStream).on('error', function(e) {
+    input_stream.pipe(lookupStream).on('error', (e) => {
       t.equal(e.message, 'PIP server failed: "this is an error"');
       t.deepEqual(input, expected, 'the document should not have been modified');
       t.end();
@@ -173,12 +176,13 @@ tape('tests', function(test) {
 
   });
 
-  test.test('abbreviation supporting country and region should set region abbreviation', function(t) {
-    var input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+  test.test('abbreviation supporting country and region should set region abbreviation', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAlpha3('USA')
@@ -186,9 +190,9 @@ tape('tests', function(test) {
         .addParent('region', 'Pennsylvania', '3', 'PA')
     ];
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           country: [
             {id: 1, name: 'United States', abbr: 'USA'}
           ],
@@ -201,21 +205,22 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'region abbreviation should have been set');
       t.end();
     });
 
   });
 
-  test.test('supported country and unsupported region should not set region abbreviation', function(t) {
-    var input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+  test.test('supported country and unsupported region should not set region abbreviation', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .setAlpha3('USA')
@@ -223,9 +228,9 @@ tape('tests', function(test) {
         .addParent('region', 'unknown US state', '3')
     ];
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           country: [
             {id: 1, name: 'United States', abbr: 'USA'}
           ],
@@ -238,30 +243,31 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'no region abbreviation should have been set');
       t.end();
     });
 
   });
 
-  test.test('unsupported country and supported region should not set region abbreviation', function(t) {
-    var input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+  test.test('unsupported country and supported region should not set region abbreviation', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .addParent('country', 'unsupported country', '1')
         .addParent('region', 'Pennsylvania', '3')
     ];
 
-    var resolver = {
-      lookup: function (centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           country: [
             {id: 1, name: 'unsupported country'}
           ],
@@ -274,26 +280,30 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'no region abbreviation should have been set');
       t.end();
     });
 
   });
 
-  test.test('no countries or regions should not set region abbreviation', function(t) {
-    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 });
-
-    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+  test.test('no countries or regions should not set region abbreviation', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent( 'locality', 'Locality', '1');
+    ];
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .addParent( 'locality', 'Locality', '1')
+    ];
+
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           locality: [
             {id: 1, name: 'Locality'}
           ]
@@ -303,27 +313,31 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream([inputDoc], lookupStream, function(err, actual) {
-      t.deepEqual(actual, [expectedDoc], 'no region abbreviation should have been set');
+    test_stream(input, lookupStream, (err, actual) => {
+      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
       t.end();
     });
 
   });
 
-  test.test('supported country should have alpha3 set', function(t) {
-    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 });
+  test.test('supported country should have alpha3 set', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+    ];
 
-    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+    const expected = [
+      new Document( 'whosonfirst', 'placetype', '1')
         .setAlpha3('DNK')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent( 'country', 'Denmark', '1', 'DNK');
+        .addParent( 'country', 'Denmark', '1', 'DNK')
+    ];
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           country: [
             {id: 1, name: 'Denmark', abbr: 'DNK'}
           ]
@@ -333,27 +347,27 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream([inputDoc], lookupStream, function(err, actual) {
-      t.deepEqual(actual, [expectedDoc], 'alpha3 should have been set');
+    test_stream(input, lookupStream, (err, actual) => {
+      t.deepEqual(actual, expected, 'alpha3 should have been set');
       t.end();
     });
 
   });
 
-  test.test('empty string in place name should not error', function(t) {
-    var inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+  test.test('empty string in place name should not error', (t) => {
+    const inputDoc = new Document( 'whosonfirst', 'placetype', '1')
       .setCentroid({ lat: 12.121212, lon: 21.212121 });
 
-    var expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+    const expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
       .setAlpha3('DNK')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
       .addParent( 'country', 'Denmark', '1', 'DNK');
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           country: [
             {id: 1, name: 'Denmark', abbr: 'DNK'}
           ],
@@ -366,11 +380,10 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    t.doesNotThrow( function () {
-
-      test_stream([inputDoc], lookupStream, function (err, actual) {
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'county should not be set');
         t.end();
       });
@@ -378,20 +391,21 @@ tape('tests', function(test) {
 
   });
 
-  test.test('first dependency should be used as region when there are no regions', function(t) {
-    var input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+  test.test('first dependency should be used as region when there are no regions', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .addParent('region', 'Dependency 1', '11')
     ];
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           dependency: [
             {id: 11, name: 'Dependency 1'},
             {id: 12, name: 'Dependency 2'}
@@ -402,29 +416,30 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'all fields should have been set');
       t.end();
     });
 
   });
 
-  test.test('region should be set to first region when regions and dependencies are both available', function(t) {
-    var input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+  test.test('region should be set to first region when regions and dependencies are both available', (t) => {
+    const input = [
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
-    var expected = [
+    const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
         .addParent('region', 'Region 1', '11')
     ];
 
-    var resolver = {
-      lookup: function(centroid, callback) {
-        var result = {
+    const resolver = {
+      lookup: (centroid, callback) => {
+        const result = {
           region: [
             {id: 11, name: 'Region 1'},
             {id: 12, name: 'Region 2'}
@@ -439,19 +454,17 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
+    const lookupStream = stream(resolver);
 
-    test_stream(input, lookupStream, function(err, actual) {
+    test_stream(input, lookupStream, (err, actual) => {
       t.deepEqual(actual, expected, 'all fields should have been set');
       t.end();
     });
 
   });
 
-  test.test('call end to stop child processes', function (t) {
-    t.plan(2);
-
-    var resolver = {
+  test.test('call end to stop child processes', (t) => {
+    const resolver = {
       end: function () {
         t.assert(true, 'called end function');
         t.equals(resolver, this, 'this is set to the correct object');
@@ -459,8 +472,7 @@ tape('tests', function(test) {
       }
     };
 
-    var lookupStream = stream(resolver);
-    lookupStream.end();
+    stream(resolver).end();
 
   });
 

@@ -141,9 +141,13 @@ module.exports = function(resolver, maxConcurrentReqs) {
 
   const resolverStream = createResolverStream(resolver);
   const end = (resolver) => {
-    return () => { resolver.end(); };
+    return () => {
+      if (typeof resolver.end === 'function') {
+        resolver.end();
+      }
+    };
   };
 
-  return parallelStream(maxConcurrentReqs, resolverStream, end(resolver));
+  return parallelStream(maxConcurrentReqs || 1, resolverStream, end(resolver));
 
 };

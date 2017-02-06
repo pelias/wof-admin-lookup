@@ -1,5 +1,5 @@
-require ('./configValidationTest.js');
-// require ('./lookupStreamTest.js');
+// require ('./configValidationTest.js');
+require ('./lookupStreamTest.js');
 // require ('./localPipResolverTest.js');
 // require ('./pip/components/extractFieldsTest.js');
 // require ('./pip/components/loadJSONTest.js');
