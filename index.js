@@ -2,7 +2,6 @@ const peliasConfig = require('pelias-config').generate();
 require('./src/configValidation').validate(peliasConfig);
 
 const _ = require('lodash');
-const os = require('os');
 
 module.exports = {
   createLookupStream: function () {
