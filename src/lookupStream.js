@@ -76,7 +76,7 @@ function createPipResolverStream(pipResolver) {
       return callback(null, doc);
     }
 
-    pipResolver.lookup(doc.getCentroid(), (err, result) => {
+    pipResolver.lookup(doc.getCentroid(), getAdminLayers(doc.getLayer()), (err, result) => {
 
       // assume errors at this point are fatal, so pass them upstream to kill stream
       if (err) {
@@ -125,7 +125,7 @@ function createPipResolverStream(pipResolver) {
       setFields(result.neighbourhood, doc, 'neighbourhood');
 
       callback(null, doc);
-    }, getAdminLayers(doc.getLayer()));
+    });
   };
 }
 

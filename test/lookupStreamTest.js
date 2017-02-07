@@ -19,7 +19,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         throw new Error('lookup should not have been called');
       }
     };
@@ -54,7 +54,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
             {id: 1, name: 'Country 1'},
@@ -125,7 +125,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         if (_.isEqual(centroid, {lat: 12.121212, lon: 21.212121})) {
           setTimeout(callback, 0, null, {region: [{id: 1, name: 'Region'}]});
         } else if (_.isEqual(centroid, {lat: 13.131313, lon: 31.313131})) {
@@ -155,7 +155,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         setTimeout(callback, 0, 'this is an error', {region: 'Region'});
       }
     };
@@ -191,7 +191,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
             {id: 1, name: 'United States', abbr: 'USA'}
@@ -229,7 +229,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
             {id: 1, name: 'United States', abbr: 'USA'}
@@ -266,7 +266,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
             {id: 1, name: 'unsupported country'}
@@ -302,7 +302,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           locality: [
             {id: 1, name: 'Locality'}
@@ -336,7 +336,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
             {id: 1, name: 'Denmark', abbr: 'DNK'}
@@ -366,7 +366,7 @@ tape('tests', (test) => {
       .addParent( 'country', 'Denmark', '1', 'DNK');
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
             {id: 1, name: 'Denmark', abbr: 'DNK'}
@@ -404,7 +404,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           dependency: [
             {id: 11, name: 'Dependency 1'},
@@ -438,7 +438,7 @@ tape('tests', (test) => {
     ];
 
     const resolver = {
-      lookup: (centroid, callback) => {
+      lookup: (centroid, search_layers, callback) => {
         const result = {
           region: [
             {id: 11, name: 'Region 1'},

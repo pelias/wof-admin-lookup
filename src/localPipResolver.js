@@ -1,43 +1,43 @@
 'use strict';
 
-var logger = require('pelias-logger').get('wof-admin-lookup');
-var createPIPService = require('./pip/index').create;
+const logger = require('pelias-logger').get('wof-admin-lookup');
+const createPipService = require('./pip/index').create;
 
 /**
  * LocalPIPService class
  *
- * @param {object} [lookupService] optional, primarily used for testing
+ * @param {object} [pipService] optional, primarily used for testing
  * @constructor
  */
-function LocalPIPService(datapath) {
-  var self = this;
-  createPIPService(datapath, function (err, service) {
-     self.lookupService = service;
+function LocalPipService(datapath) {
+  const self = this;
+
+  createPipService(datapath, (err, service) => {
+     self.pipService = service;
   });
 
 }
 
 /**
  * @param {object} centroid
- * @param {number} centroid.lat
- * @param {number} centroid.lon
+ * @param {array} search_layers
  * @param callback
  */
-LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_layers) {
-  var self = this;
+LocalPipService.prototype.lookup = function lookup(centroid, search_layers, callback) {
+  const self = this;
 
   // in the case that the lookup service hasn't loaded yet, sleep and come back in 5 seconds
-  if (!self.lookupService) {
-    setTimeout(function () {
-      self.lookup(centroid, callback);
+  if (!self.pipService) {
+    setTimeout(() => {
+      self.lookup(centroid, search_layers, callback);
     }, 1000 * 5);
     return;
   }
 
-  self.lookupService.lookup(centroid.lat, centroid.lon, function (err, results) {
+  self.pipService.lookup(centroid.lat, centroid.lon, search_layers, (err, results) => {
 
     // convert the array to an object keyed on the array element's Placetype field
-    var result = results.reduce(function (obj, elem) {
+    const result = results.reduce((obj, elem) => {
       if (!obj.hasOwnProperty(elem.Placetype)) {
         obj[elem.Placetype] = [];
       }
@@ -56,16 +56,16 @@ LocalPIPService.prototype.lookup = function lookup(centroid, callback, search_la
     }, {});
 
     callback(err, result);
-  }, search_layers);
+  });
 };
 
 /**
  * Signal the underlying admin lookup child processes to shut down
  */
-LocalPIPService.prototype.end = function end() {
-  if (this.lookupService) {
+LocalPipService.prototype.end = function end() {
+  if (this.pipService) {
     logger.info('Shutting down admin lookup service');
-    this.lookupService.end();
+    this.pipService.end();
   }
 };
 
@@ -76,6 +76,6 @@ LocalPIPService.prototype.end = function end() {
  * @param {string} [datapath]
  * @returns {LocalPIPService}
  */
-module.exports = function(datapath) {
-  return new LocalPIPService(datapath);
+module.exports = (datapath) => {
+  return new LocalPipService(datapath);
 };

@@ -55,7 +55,7 @@ module.exports.create = function createPIPService(datapath, layers, callback) {
 
       callback(null, {
         end: killAllWorkers,
-        lookup: function (latitude, longitude, responseCallback, search_layers) {
+        lookup: function (latitude, longitude, search_layers, responseCallback) {
           if (search_layers === undefined) {
             search_layers = layers;
           } else if (_.isEqual(search_layers, ['country']) && workers.country) {
