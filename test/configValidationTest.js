@@ -153,6 +153,54 @@ tape('tests configuration scenarios', function(test) {
 
   });
 
+  test.test('non-boolean imports.adminLookup.enabled should throw error', function(t) {
+    [null, 'string', {}, [], 17].forEach((value) => {
+      const config = {
+        imports: {
+          adminLookup: {
+            maxConcurrentReqs: 17,
+            enabled: value
+          },
+          whosonfirst: {
+            datapath: 'datapath value'
+          }
+        }
+      };
+
+      t.throws(function() {
+        configValidation.validate(config);
+      }, /"enabled" must be a boolean/);
+
+    });
+
+    t.end();
+
+  });
+
+  test.test('boolean imports.adminLookup.enabled should not throw error', function(t) {
+    [true, false].forEach((value) => {
+      const config = {
+        imports: {
+          adminLookup: {
+            maxConcurrentReqs: 17,
+            enabled: value
+          },
+          whosonfirst: {
+            datapath: 'datapath value'
+          }
+        }
+      };
+
+      t.doesNotThrow(function() {
+        configValidation.validate(config);
+      });
+
+    });
+
+    t.end();
+
+  });
+
   test.test('integer imports.adminLookup.maxConcurrentReqs should not throw error', function(t) {
     const config = {
       imports: {

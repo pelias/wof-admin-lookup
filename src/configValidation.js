@@ -7,7 +7,8 @@ const Joi = require('joi');
 const schema = Joi.object().keys({
   imports: Joi.object().keys({
     adminLookup: Joi.object().keys({
-      maxConcurrentReqs: Joi.number().integer()
+      maxConcurrentReqs: Joi.number().integer(),
+      enabled: Joi.boolean()
     }),
     whosonfirst: Joi.object().keys({
       datapath: Joi.string()
