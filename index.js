@@ -5,7 +5,7 @@ const _ = require('lodash');
 const os = require('os');
 
 module.exports = {
-  createLookupStream: () => {
+  create: () => {
     if (_.get(peliasConfig, 'imports.adminLookup.enabled', true)) {
       const datapath = peliasConfig.imports.whosonfirst.datapath;
       const resolver = require('./src/localPipResolver')(datapath);

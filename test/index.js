@@ -72,7 +72,7 @@ tape('tests for main entry point', (test) => {
 
         }
 
-      }).createLookupStream();
+      }).create();
 
       const input = [
         { field1: 'value 1' }
@@ -137,7 +137,7 @@ tape('tests for main entry point', (test) => {
         }
       }
 
-    }).createLookupStream();
+    }).create();
 
     const input = [
       { field1: 'value 1' }
@@ -180,7 +180,7 @@ tape('tests for main entry point', (test) => {
         throw Error('lookupStream should not have been called');
       },
 
-    }).createLookupStream();
+    }).create();
 
     const input = [
       { field1: 'value 1'}
