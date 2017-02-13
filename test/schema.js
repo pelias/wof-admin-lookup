@@ -1,17 +1,22 @@
 'use strict';
 
-const tape = require('tape');
+const tape = require( 'tape' );
+const Joi = require('joi');
+const schema = require( '../schema' );
 
-const configValidation = require('../src/configValidation');
-const proxyquire = require('proxyquire').noCallThru();
+function validate(config) {
+  Joi.validate(config, schema, (err) => {
+    if (err) {
+      throw new Error(err.details[0].message);
+    }
+  });
+}
 
-tape('tests configuration scenarios', function(test) {
+tape('test configuration scenarios', function(test) {
   test.test('missing imports should throw error', function(t) {
     const config = {};
 
-    t.throws(function() {
-      configValidation.validate(config);
-    }, /"imports" is required/);
+    t.throws(validate.bind(null, config), /"imports" is required/);
     t.end();
 
   });
@@ -20,9 +25,7 @@ tape('tests configuration scenarios', function(test) {
     [null, 17, 'string', [], true].forEach((value) => {
       const config = { imports: value };
 
-      t.throws(function() {
-        configValidation.validate(config);
-      }, /"imports" must be an object/);
+      t.throws(validate.bind(null, config), /"imports" must be an object/);
     });
 
     t.end();
@@ -34,9 +37,7 @@ tape('tests configuration scenarios', function(test) {
       imports: {}
     };
 
-    t.throws(function() {
-      configValidation.validate(config);
-    }, /"whosonfirst" is required/);
+    t.throws(validate.bind(null, config), /"whosonfirst" is required/);
     t.end();
 
   });
@@ -48,9 +49,7 @@ tape('tests configuration scenarios', function(test) {
       }
     };
 
-    t.throws(function() {
-      configValidation.validate(config);
-    }, /"datapath" is required/);
+    t.throws(validate.bind(null, config), /"datapath" is required/);
     t.end();
 
   });
@@ -64,9 +63,7 @@ tape('tests configuration scenarios', function(test) {
       }
     };
 
-    t.doesNotThrow(function() {
-      configValidation.validate(config);
-    });
+    t.doesNotThrow(validate.bind(null, config));
     t.end();
 
   });
@@ -82,9 +79,7 @@ tape('tests configuration scenarios', function(test) {
         }
       };
 
-      t.throws(function() {
-        configValidation.validate(config);
-      }, /"adminLookup" must be an object/);
+      t.throws(validate.bind(null, config), /"adminLookup" must be an object/);
     });
 
     t.end();
@@ -104,9 +99,7 @@ tape('tests configuration scenarios', function(test) {
         }
       };
 
-      t.throws(function() {
-        configValidation.validate(config);
-      }, /"maxConcurrentReqs" must be a number/);
+      t.throws(validate.bind(null, config), /"maxConcurrentReqs" must be a number/);
 
     });
 
@@ -126,10 +119,7 @@ tape('tests configuration scenarios', function(test) {
       }
     };
 
-    t.throws(function() {
-      configValidation.validate(config);
-    }, /"maxConcurrentReqs" must be an integer/);
-
+    t.throws(validate.bind(null, config), /"maxConcurrentReqs" must be an integer/);
     t.end();
 
   });
@@ -145,8 +135,49 @@ tape('tests configuration scenarios', function(test) {
       }
     };
 
-    t.doesNotThrow(function() {
-      configValidation.validate(config);
+    t.doesNotThrow(validate.bind(null, config));
+    t.end();
+
+  });
+
+  test.test('non-boolean imports.adminLookup.enabled should throw error', function(t) {
+    [null, 'string', {}, [], 17].forEach((value) => {
+      const config = {
+        imports: {
+          adminLookup: {
+            maxConcurrentReqs: 17,
+            enabled: value
+          },
+          whosonfirst: {
+            datapath: 'datapath value'
+          }
+        }
+      };
+
+      t.throws(validate.bind(null, config), /"enabled" must be a boolean/);
+
+    });
+
+    t.end();
+
+  });
+
+  test.test('boolean imports.adminLookup.enabled should not throw error', function(t) {
+    [true, false].forEach((value) => {
+      const config = {
+        imports: {
+          adminLookup: {
+            maxConcurrentReqs: 17,
+            enabled: value
+          },
+          whosonfirst: {
+            datapath: 'datapath value'
+          }
+        }
+      };
+
+      t.doesNotThrow(validate.bind(null, config));
+
     });
 
     t.end();
@@ -165,10 +196,7 @@ tape('tests configuration scenarios', function(test) {
       }
     };
 
-    t.doesNotThrow(function() {
-      configValidation.validate(config);
-    });
-
+    t.doesNotThrow(validate.bind(null, config));
     t.end();
 
   });
@@ -183,9 +211,7 @@ tape('tests configuration scenarios', function(test) {
         }
       };
 
-      t.throws(function() {
-        configValidation.validate(config);
-      }, /"datapath" must be a string/);
+      t.throws(validate.bind(null, config), /"datapath" must be a string/);
     });
 
     t.end();
@@ -208,32 +234,9 @@ tape('tests configuration scenarios', function(test) {
       unknown_property: 'property value'
     };
 
-    t.doesNotThrow(function() {
-      configValidation.validate(config);
-    });
-
+    t.doesNotThrow(validate.bind(null, config));
     t.end();
 
   });
 
-});
-
-tape('tests for main entry point', function(test) {
-  test.test('configValidation throwing error should rethrow', function(t) {
-    const config = {};
-
-    t.throws(function() {
-      proxyquire('../index', {
-        './src/configValidation': {
-          validate: () => {
-            throw Error('config is not valid');
-          }
-        }
-      });
-
-      configValidation.validate(config);
-    }, /config is not valid/);
-    t.end();
-
-  });
 });

@@ -9,7 +9,7 @@
   "latedef": false,
   "newcap": true,
   "noarg": true,
-  "noempty": true,
+  "noempty": false,
   "nonbsp": true,
   "nonew": true,
   "plusplus": false,
