@@ -1,0 +1,145 @@
+[
+  [
+    {
+      "Id": 85688161,
+      "Name": "Московская область",
+      "Placetype": "region",
+      "Hierarchy": [
+        {
+          "continent_id": "102191581",
+          "country_id": "85632685",
+          "region_id": 85688161
+        }
+      ]
+    },
+    {
+      "Id": 85632685,
+      "Name": "Россия",
+      "Placetype": "country",
+      "Hierarchy": [
+        {
+          "continent_id": "102191581",
+          "country_id": 85632685,
+          "empire_id": "874393555"
+        }
+      ],
+      "Abbrev": "RUS"
+    }
+  ],
+  [
+    {
+      "Id": 85682499,
+      "Name": "Berlin",
+      "Placetype": "region",
+      "Hierarchy": [
+        {
+          "continent_id": 102191581,
+          "country_id": 85633111,
+          "region_id": 85682499
+        }
+      ]
+    },
+    {
+      "Id": 85633111,
+      "Name": "Deutschland",
+      "Placetype": "country",
+      "Hierarchy": [
+        {
+          "continent_id": 102191581,
+          "country_id": 85633111
+        }
+      ],
+      "Abbrev": "DEU"
+    }
+  ],
+  [
+    {
+      "Id": 85669521,
+      "Name": "Gasa",
+      "Placetype": "region",
+      "Hierarchy": [
+        {
+          "continent_id": 102191569,
+          "country_id": 85632171,
+          "region_id": 85669521
+        }
+      ]
+    },
+    {
+      "Id": 85632719,
+      "Name": "Bhutan claimed by China",
+      "Placetype": "disputed",
+      "Hierarchy": [
+        {
+          "continent_id": 102191569,
+          "country_id": 85632695,
+          "disputed_id": 85632719
+        },
+        {
+          "continent_id": 102191569,
+          "country_id": 85632171,
+          "disputed_id": 85632719
+        }
+      ]
+    },
+    {
+      "Id": 85632695,
+      "Name": "中國",
+      "Placetype": "country",
+      "Hierarchy": [
+        {
+          "continent_id": 102191569,
+          "country_id": 85632695,
+          "empire_id": 136253041
+        }
+      ],
+      "Abbrev": "CHN"
+    }
+  ],
+  [
+    {
+      "Id": 85633041,
+      "Name": "Canada",
+      "Placetype": "country",
+      "Hierarchy": [
+        {
+          "continent_id": 102191575,
+          "country_id": 85633041
+        }
+      ],
+      "Abbrev": "CAN"
+    }
+  ],
+  [
+    {
+      "Id": 85632719,
+      "Name": "Bhutan claimed by China",
+      "Placetype": "disputed",
+      "Hierarchy": [
+        {
+          "continent_id": 102191569,
+          "country_id": 85632695,
+          "disputed_id": 85632719
+        },
+        {
+          "continent_id": 102191569,
+          "country_id": 85632171,
+          "disputed_id": 85632719
+        }
+      ]
+    },
+    {
+      "Id": 85632695,
+      "Name": "中國",
+      "Placetype": "country",
+      "Hierarchy": [
+        {
+          "continent_id": 102191569,
+          "country_id": 85632695,
+          "empire_id": 136253041
+        }
+      ],
+      "Abbrev": "CHN"
+    }
+  ]
+]
