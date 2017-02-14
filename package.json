@@ -45,7 +45,7 @@
     "event-stream": "^3.3.2",
     "intercept-stdout": "^0.1.2",
     "jshint": "^2.8.0",
-    "pelias-model": "4.4.0",
+    "pelias-model": "4.5.0",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^1.7.10",
     "semantic-release": "^6.3.2",
