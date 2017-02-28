@@ -48,8 +48,10 @@ tape('tests', (test) => {
 
     const resolver = proxyquire('../src/localPipResolver', {
       './pip/index': {
-        create: (datapath, callback) => {
+        create: (datapath, layers, localizedAdminNames, callback) => {
           t.equals(datapath, 'this is the datapath');
+          t.deepEqual(layers, []);
+          t.equals(localizedAdminNames, false);
 
           callback(null, service);
 

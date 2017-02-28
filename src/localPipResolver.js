@@ -12,7 +12,7 @@ const createPipService = require('./pip/index').create;
 function LocalPipService(datapath) {
   const self = this;
 
-  createPipService(datapath, (err, service) => {
+  createPipService(datapath, [], false, (err, service) => {
      self.pipService = service;
   });
 

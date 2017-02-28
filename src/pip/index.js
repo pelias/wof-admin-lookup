@@ -34,18 +34,14 @@ var defaultLayers = module.exports.defaultLayers = [
   'region' // 4698
 ];
 
-module.exports.create = function createPIPService(datapath, layers, callback) {
-  // if layers is a function then it's the callback so use the default layers
-  if (_.isFunction(layers)) {
-    callback = layers;
-    layers = defaultLayers;
-  } else if (!layers) {
+module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
+  if (_.isEmpty(layers)) {
     layers = defaultLayers;
   }
 
   // load all workers, including country, which is a special case
   async.forEach(layers.concat('country'), function (layer, done) {
-      startWorker(datapath, layer, function (err, worker) {
+      startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
         workers[layer] = worker;
         done();
       });
@@ -109,7 +105,7 @@ function killAllWorkers() {
   });
 }
 
-function startWorker(datapath, layer, callback) {
+function startWorker(datapath, layer, localizedAdminNames, callback) {
   var worker = childProcess.fork(path.join(__dirname, 'worker'));
 
   worker.on('message', function (msg) {
@@ -126,7 +122,8 @@ function startWorker(datapath, layer, callback) {
   worker.send({
     type: 'load',
     layer: layer,
-    datapath: datapath
+    datapath: datapath,
+    localizedAdminNames: localizedAdminNames
   });
 }
 
