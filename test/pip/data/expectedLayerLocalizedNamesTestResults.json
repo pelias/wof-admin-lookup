@@ -14,7 +14,7 @@
     },
     {
       "Id": 85632685,
-      "Name": "Russia",
+      "Name": "Россия",
       "Placetype": "country",
       "Hierarchy": [
         {
@@ -41,7 +41,7 @@
     },
     {
       "Id": 85633111,
-      "Name": "Germany",
+      "Name": "Deutschland",
       "Placetype": "country",
       "Hierarchy": [
         {
@@ -84,7 +84,7 @@
     },
     {
       "Id": 85632695,
-      "Name": "China",
+      "Name": "中國",
       "Placetype": "country",
       "Hierarchy": [
         {
@@ -130,7 +130,7 @@
     },
     {
       "Id": 85632695,
-      "Name": "China",
+      "Name": "中國",
       "Placetype": "country",
       "Hierarchy": [
         {

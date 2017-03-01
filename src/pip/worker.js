@@ -40,7 +40,7 @@ function handleLoadMsg(msg) {
   process.title = context.layer;
   context.startTime = Date.now();
 
-  readStream(msg.datapath, msg.layer, function(features) {
+  readStream(msg.datapath, msg.layer, msg.localizedAdminNames, function(features) {
     context.featureCollection.features = features;
     context.adminLookup = new PolygonLookup( context.featureCollection );
 

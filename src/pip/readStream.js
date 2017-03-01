@@ -11,11 +11,16 @@ var isActiveRecord = require('./components/isActiveRecord');
 var filterOutNamelessRecords = require('./components/filterOutNamelessRecords');
 var filterOutUnimportantRecords = require('./components/filterOutUnimportantRecords');
 
-/*
-  This function finds all the `latest` files in `meta/`, CSV parses them,
-  pushes the ids onto an array and calls the callback
-*/
-function readData(datapath, layer, callback) {
+/**
+ * This function finds all the `latest` files in `meta/`, CSV parses them,
+ * pushes the ids onto an array and calls the callback
+ *
+ * @param {string} datapath
+ * @param {string} layer
+ * @param {boolean} localizedAdminNames
+ * @param {function} callback
+ */
+function readData(datapath, layer, localizedAdminNames, callback) {
   var features = [];
 
   var options = {
@@ -29,7 +34,7 @@ function readData(datapath, layer, callback) {
     .pipe(isActiveRecord.create())
     .pipe(filterOutNamelessRecords.create())
     .pipe(filterOutUnimportantRecords.create())
-    .pipe(extractFields.create())
+    .pipe(extractFields.create(localizedAdminNames))
     .pipe(simplifyGeometry.create())
     .pipe(sink.obj(function(feature) {
       features.push(feature);

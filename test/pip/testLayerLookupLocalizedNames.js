@@ -28,12 +28,12 @@ const layers = [
 ];
 
 function test(callback) {
-  createPIPService(config.imports.whosonfirst.datapath, layers, false, (err, pipService) => {
+  createPIPService(config.imports.whosonfirst.datapath, layers, true, (err, pipService) => {
     const basePath = path.resolve(__dirname);
     const inputDataPath = path.join(basePath, 'data', 'layerTestData.json');
     const inputData = require( inputDataPath );
     const results = [];
-    const expectedPath = path.join(basePath, 'data', 'expectedLayerTestResults.json');
+    const expectedPath = path.join(basePath, 'data', 'expectedLayerLocalizedNamesTestResults.json');
 
     async.forEach(inputData, (location, done) => {
         pipService.lookup(location.latitude, location.longitude, location.layers, (err, result) => {
