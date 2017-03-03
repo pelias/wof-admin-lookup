@@ -16,15 +16,25 @@ tape('extractFields tests', function(test) {
     };
     input.properties['wof:id'] = 17;
     input.properties['wof:name'] = 'Feature name';
+    input.properties['wof:abbreviation'] = 'Feature abbreviation';
     input.properties['wof:placetype'] = 'Feature placetype';
     input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['geom:latitude'] = 12.121212;
+    input.properties['geom:longitude'] = 21.212121;
+    input.properties['geom:bbox'] = 'Feature boundingbox';
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: 'Feature abbreviation',
         Placetype: 'Feature placetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: 12.121212,
+          lon: 21.212121
+        },
+        BoundingBox: 'Feature boundingbox'
       },
       geometry: 'Geometry'
     };
@@ -53,8 +63,14 @@ tape('extractFields tests', function(test) {
       properties: {
         Id: 17,
         Name: 'a2_alt value',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -83,8 +99,14 @@ tape('extractFields tests', function(test) {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -113,8 +135,14 @@ tape('extractFields tests', function(test) {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: undefined,
         Placetype: 'non-county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -142,8 +170,14 @@ tape('extractFields tests', function(test) {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -172,8 +206,14 @@ tape('extractFields tests', function(test) {
       properties: {
         Id: 17,
         Name: 'wof:label value',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -203,6 +243,11 @@ tape('extractFields tests', function(test) {
         Placetype: 'country',
         Abbrev: 'USA',
         Hierarchy: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -232,6 +277,11 @@ tape('extractFields tests', function(test) {
         Placetype: 'country',
         Abbrev: null,
         Hierarchy: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };

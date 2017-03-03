@@ -25,14 +25,21 @@ module.exports.create = function(enableLocalizedNames) {
         Id: wofData.properties['wof:id'],
         Name: getName(wofData, enableLocalizedNames),
         Placetype: wofData.properties['wof:placetype'],
-        Hierarchy: wofData.properties['wof:hierarchy']
+        Hierarchy: wofData.properties['wof:hierarchy'],
+        Centroid: {
+          lat: wofData.properties['geom:latitude'],
+          lon: wofData.properties['geom:longitude']
+        },
+        BoundingBox: wofData.properties['geom:bbox']
       },
       geometry: wofData.geometry
     };
 
     // only add abbreviation if it is a country
     if (res.properties.Placetype === 'country') {
-      res.properties.Abbrev = getAbbr(wofData);
+      res.properties.Abbrev = getCountryAbbr(wofData);
+    } else {
+      res.properties.Abbrev = wofData.properties['wof:abbreviation'];
     }
 
     return res;
@@ -45,7 +52,7 @@ module.exports.create = function(enableLocalizedNames) {
  * @param {object} wofData
  * @returns {null|string}
  */
-function getAbbr(wofData) {
+function getCountryAbbr(wofData) {
   const iso2 = getPropertyValue(wofData, 'wof:country');
 
   // sometimes there are codes set to XX which cause an exception so check if it's a valid ISO2 code

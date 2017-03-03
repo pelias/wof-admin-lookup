@@ -50,6 +50,12 @@ LocalPipService.prototype.lookup = function lookup(centroid, search_layers, call
       if (elem.hasOwnProperty('Abbrev')) {
         parent.abbr = elem.Abbrev;
       }
+      if (elem.hasOwnProperty('Centroid')) {
+        parent.centroid = elem.Centroid;
+      }
+      if (elem.hasOwnProperty('BoundingBox')) {
+        parent.bounding_box = elem.BoundingBox;
+      }
 
       obj[elem.Placetype].push(parent);
       return obj;
