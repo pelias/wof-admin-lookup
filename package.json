@@ -27,7 +27,6 @@
   "dependencies": {
     "async": "^2.1.4",
     "csv-parse": "^1.2.0",
-    "iso3166-1": "^0.3.0",
     "joi": "^10.1.0",
     "lodash": "^4.6.0",
     "pelias-config": "2.8.0",
