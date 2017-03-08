@@ -22,15 +22,15 @@ var responseQueue = {};
 
 // don't include `country` here, it makes the bookkeeping more difficult later
 var defaultLayers = module.exports.defaultLayers = [
-  'borough', // 5
-  'county', // 18166
-  'dependency', // 39
-  'disputed', // 39
-  'localadmin', // 106880
-  'locality', // 160372
-  'macrocounty', // 350
-  'macroregion', // 82
-  'neighbourhood', // 62936
+  // 'borough', // 5
+  // 'county', // 18166
+  // 'dependency', // 39
+  // 'disputed', // 39
+  // 'localadmin', // 106880
+  // 'locality', // 160372
+  // 'macrocounty', // 350
+  // 'macroregion', // 82
+  // 'neighbourhood', // 62936
   'region' // 4698
 ];
 
@@ -41,6 +41,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
   // load all workers, including country, which is a special case
   async.forEach(layers.concat('country'), function (layer, done) {
+      logger.info(`starting load for ${layer}`);
       startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
         workers[layer] = worker;
         done();

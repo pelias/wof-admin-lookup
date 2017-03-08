@@ -29,7 +29,7 @@ LocalPipService.prototype.lookup = function lookup(centroid, search_layers, call
   // in the case that the lookup service hasn't loaded yet, sleep and come back in 5 seconds
   if (!self.pipService) {
     setTimeout(() => {
-      logger.error(`performing lookup on ${JSON.stringify(centroid)}`);
+      logger.info(`performing lookup on ${JSON.stringify(centroid)}`);
       self.lookup(centroid, search_layers, callback);
     }, 1000 * 5);
     return;
