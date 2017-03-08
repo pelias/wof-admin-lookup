@@ -20,9 +20,9 @@ module.exports = {
     }
 
   },
-  resolver: () => {
-    const datapath = peliasConfig.imports.whosonfirst.datapath;
-    const resolver = require('./src/localPipResolver')(datapath);
+  resolver: (datapath) => {
+    const resolver = require('./src/localPipResolver')(
+      datapath || peliasConfig.imports.whosonfirst.datapath);
     return resolver;
   }
 
