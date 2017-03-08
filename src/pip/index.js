@@ -27,7 +27,7 @@ var defaultLayers = module.exports.defaultLayers = [
   // 'dependency', // 39
   // 'disputed', // 39
   // 'localadmin', // 106880
-  // 'locality', // 160372
+  'locality', // 160372
   // 'macrocounty', // 350
   // 'macroregion', // 82
   // 'neighbourhood', // 62936
