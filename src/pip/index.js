@@ -41,7 +41,6 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
   // load all workers, including country, which is a special case
   async.forEach(layers.concat('country'), function (layer, done) {
-      logger.info(`starting load for ${layer}`);
       startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
         workers[layer] = worker;
         done();
