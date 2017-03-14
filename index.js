@@ -19,5 +19,11 @@ module.exports = {
       return through.obj();
     }
 
+  },
+  resolver: (datapath) => {
+    const resolver = require('./src/localPipResolver')(
+      datapath || peliasConfig.imports.whosonfirst.datapath);
+    return resolver;
   }
+
 };

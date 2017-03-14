@@ -193,4 +193,41 @@ tape('tests for main entry point', (test) => {
 
   });
 
+  test.test('resolver() should return the resolver regardless of adminLookup value', (t) => {
+    [true, false].forEach((enabled) => {
+      const resolver = proxyquire('../index', {
+        // verify the schema
+        './schema': 'this is the schema',
+        'pelias-config': {
+          generate: (schema) => {
+            t.equals(schema, 'this is the schema');
+
+            return {
+              imports: {
+                adminLookup: {
+                  enabled: enabled
+                },
+                whosonfirst: {
+                  datapath: 'this is the wof datapath'
+                }
+              }
+            };
+
+          }
+        },
+        './src/localPipResolver': (datapath) => {
+          t.equals(datapath, 'this is the wof datapath');
+          return 'this is the resolver';
+        }
+
+      }).resolver();
+
+      t.equals(resolver, 'this is the resolver');
+
+    });
+
+    t.end();
+
+  });
+
 });

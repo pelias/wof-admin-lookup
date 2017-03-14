@@ -29,7 +29,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -58,7 +64,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -87,7 +99,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -116,7 +134,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -145,7 +169,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -175,7 +205,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -204,7 +240,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -234,7 +276,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Label name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -263,7 +311,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -291,7 +345,13 @@ tape('extractFields localized name tests', function(test) {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Abbrev: undefined,
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };

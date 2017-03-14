@@ -2,7 +2,6 @@
 
 var map = require('through2-map');
 var _ = require('lodash');
-var iso3166 = require('iso3166-1');
 
 const getDefaultName = require('./getDefaultName');
 const getLocalizedName = require('./getLocalizedName');
@@ -25,36 +24,26 @@ module.exports.create = function(enableLocalizedNames) {
         Id: wofData.properties['wof:id'],
         Name: getName(wofData, enableLocalizedNames),
         Placetype: wofData.properties['wof:placetype'],
-        Hierarchy: wofData.properties['wof:hierarchy']
+        Hierarchy: wofData.properties['wof:hierarchy'],
+        Centroid: {
+          lat: wofData.properties['geom:latitude'],
+          lon: wofData.properties['geom:longitude']
+        },
+        BoundingBox: wofData.properties['geom:bbox']
       },
       geometry: wofData.geometry
     };
 
-    // only add abbreviation if it is a country
+    // use different abbreviation field for country
     if (res.properties.Placetype === 'country') {
-      res.properties.Abbrev = getAbbr(wofData);
+      res.properties.Abbrev = wofData.properties['wof:country_alpha3'];
+    } else {
+      res.properties.Abbrev = wofData.properties['wof:abbreviation'];
     }
 
     return res;
   });
 };
-
-/**
- * Return the ISO3 country code where available
- *
- * @param {object} wofData
- * @returns {null|string}
- */
-function getAbbr(wofData) {
-  const iso2 = getPropertyValue(wofData, 'wof:country');
-
-  // sometimes there are codes set to XX which cause an exception so check if it's a valid ISO2 code
-  if (iso2 !== false && iso3166.is2(iso2)) {
-    return iso3166.to3(iso2);
-  }
-
-  return null;
-}
 
 /**
  * Return the name of the record based on which extraction strategy is preferred.

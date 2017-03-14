@@ -16,15 +16,25 @@ tape('extractFields tests', function(test) {
     };
     input.properties['wof:id'] = 17;
     input.properties['wof:name'] = 'Feature name';
+    input.properties['wof:abbreviation'] = 'Feature abbreviation';
     input.properties['wof:placetype'] = 'Feature placetype';
     input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['geom:latitude'] = 12.121212;
+    input.properties['geom:longitude'] = 21.212121;
+    input.properties['geom:bbox'] = 'Feature boundingbox';
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: 'Feature abbreviation',
         Placetype: 'Feature placetype',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: 12.121212,
+          lon: 21.212121
+        },
+        BoundingBox: 'Feature boundingbox'
       },
       geometry: 'Geometry'
     };
@@ -48,13 +58,20 @@ tape('extractFields tests', function(test) {
     input.properties['wof:placetype'] = 'county';
     input.properties['wof:hierarchy'] = 'Feature hierarchy';
     input.properties['qs:a2_alt'] = 'a2_alt value';
+    input.properties['wof:country_alpha3'] = 'USA';
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'a2_alt value',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -78,13 +95,20 @@ tape('extractFields tests', function(test) {
     input.properties['wof:placetype'] = 'county';
     input.properties['wof:hierarchy'] = 'Feature hierarchy';
     input.properties['qs:a2_alt'] = 'a2_alt value';
+    input.properties['wof:country_alpha3'] = 'USA';
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -108,13 +132,20 @@ tape('extractFields tests', function(test) {
     input.properties['wof:placetype'] = 'non-county';
     input.properties['wof:hierarchy'] = 'Feature hierarchy';
     input.properties['qs:a2_alt'] = 'a2_alt value';
+    input.properties['wof:country_alpha3'] = 'USA';
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: undefined,
         Placetype: 'non-county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -142,8 +173,14 @@ tape('extractFields tests', function(test) {
       properties: {
         Id: 17,
         Name: 'Feature name',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };
@@ -167,71 +204,20 @@ tape('extractFields tests', function(test) {
     input.properties['iso:country'] = 'US';
     input.properties['wof:placetype'] = 'county';
     input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:country_alpha3'] = 'USA';
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'wof:label value',
+        Abbrev: undefined,
         Placetype: 'county',
-        Hierarchy: 'Feature hierarchy'
-      },
-      geometry: undefined
-    };
-
-    var extractFields = require('../../../src/pip/components/extractFields').create();
-
-    test_stream([input], extractFields, function(err, actual) {
-      t.deepEqual(actual, [expected], 'should be equal');
-      t.end();
-    });
-
-  });
-
-  test.test('store wof:country converted to ISO3 for country placetypes', function(t) {
-    var input = {
-      properties: {}
-    };
-    input.properties['wof:id'] = 17;
-    input.properties['wof:name'] = 'wof:name value';
-    input.properties['wof:country'] = 'US';
-    input.properties['wof:placetype'] = 'country';
-
-    var expected = {
-      properties: {
-        Id: 17,
-        Name: 'wof:name value',
-        Placetype: 'country',
-        Abbrev: 'USA',
-        Hierarchy: undefined,
-      },
-      geometry: undefined
-    };
-
-    var extractFields = require('../../../src/pip/components/extractFields').create();
-
-    test_stream([input], extractFields, function(err, actual) {
-      t.deepEqual(actual, [expected], 'should be equal');
-      t.end();
-    });
-
-  });
-
-  test.test('Ignore XX country coodes', function(t) {
-    var input = {
-      properties: {}
-    };
-    input.properties['wof:id'] = 17;
-    input.properties['wof:name'] = 'wof:name value';
-    input.properties['wof:country'] = 'XX';
-    input.properties['wof:placetype'] = 'country';
-
-    var expected = {
-      properties: {
-        Id: 17,
-        Name: 'wof:name value',
-        Placetype: 'country',
-        Abbrev: null,
-        Hierarchy: undefined,
+        Hierarchy: 'Feature hierarchy',
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
       },
       geometry: undefined
     };

@@ -2,7 +2,6 @@
 
 var _ = require('lodash');
 var parallelStream = require('pelias-parallel-stream');
-var regions = require('../data/regions');
 var peliasLogger = require( 'pelias-logger' );
 var getAdminLayers = require( './getAdminLayers' );
 
@@ -18,30 +17,10 @@ optsArg.transports.push(new peliasLogger.winston.transports.File( {
 
 var logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
 
-regions.isSupported = function(country, name) {
-  return this.hasOwnProperty(country) && this[country].hasOwnProperty(name);
-};
-
-regions.getCode = function(countries, regions) {
-  if (_.isEmpty(countries) || _.isEmpty(regions)) {
-    return undefined;
-  }
-
-  var country = countries[0].name;
-  var region = regions[0].name;
-
-  if (this.isSupported(country, region)) {
-    return this[country][region];
-  }
-
-  return undefined;
-
-};
-
-function setFields(values, doc, wofFieldName, abbreviation) {
+function setFields(values, doc, wofFieldName) {
   try {
     if (!_.isEmpty(values)) {
-      doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), abbreviation);
+      doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), values[0].abbr);
     }
   }
   catch (err) {
@@ -49,8 +28,7 @@ function setFields(values, doc, wofFieldName, abbreviation) {
       centroid: doc.getCentroid(),
       result: {
         type: wofFieldName,
-        values: values,
-        abbreviation: abbreviation
+        values: values
       }
     });
   }
@@ -98,7 +76,6 @@ function createPipResolverStream(pipResolver) {
         });
       }
 
-      var regionCode = regions.getCode(result.country, result.region);
       var countryCode = getCountryCode(result);
 
       // set code if available
@@ -106,14 +83,13 @@ function createPipResolverStream(pipResolver) {
         doc.setAlpha3(countryCode);
       }
       else {
-        // TBD: remove this after debugging is done!!!
         logger.error('no country code', result);
       }
 
-      setFields(result.country, doc, 'country', countryCode);
+      setFields(result.country, doc, 'country');
       setFields(result.macroregion, doc, 'macroregion');
       if (!_.isEmpty(result.region)) { // if there are regions, use them
-        setFields(result.region, doc, 'region', regionCode);
+        setFields(result.region, doc, 'region');
       } else { // go with dependency for region (eg - Puerto Rico is a dependency)
         setFields(result.dependency, doc, 'region');
       }

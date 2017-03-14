@@ -36,15 +36,17 @@ tape('tests', (test) => {
   test.test('country, macroregion, region, macrocounty, county, locality, ' +
     'localadmin, borough, and neighborhood fields should be set into document', (t) => {
     const input = [
-      new Document( 'whosonfirst', 'placetype', '1').setCentroid({ lat: 12.121212, lon: 21.212121 })
+      new Document( 'whosonfirst', 'placetype', '1')
+        .setCentroid({ lat: 12.121212, lon: 21.212121 })
     ];
 
     const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent('country', 'Country 1', '1')
+        .setAlpha3('XYZ')
+        .addParent('country', 'Country 1', '1', 'XYZ')
         .addParent('macroregion', 'Macroregion 1', '3')
-        .addParent('region', 'Region 1', '5')
+        .addParent('region', 'Region 1', '5', 'Region 1 Abbr')
         .addParent('macrocounty', 'Macrocounty 1', '7')
         .addParent('county', 'County 1', '9')
         .addParent('locality', 'Locality 1', '11')
@@ -57,7 +59,7 @@ tape('tests', (test) => {
       lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
-            {id: 1, name: 'Country 1'},
+            {id: 1, name: 'Country 1', abbr: 'XYZ'},
             {id: 2, name: 'Country 2'}
           ],
           macroregion: [
@@ -65,8 +67,8 @@ tape('tests', (test) => {
             {id: 4, name: 'Macroregion 2'}
           ],
           region: [
-            {id: 5, name: 'Region 1'},
-            {id: 6, name: 'Region 2'}
+            {id: 5, name: 'Region 1', abbr: 'Region 1 Abbr'},
+            {id: 6, name: 'Region 2', abbr: 'Region 2 Abbr'}
           ],
           macrocounty: [
             {id: 7, name: 'Macrocounty 1'},
@@ -176,200 +178,20 @@ tape('tests', (test) => {
 
   });
 
-  test.test('abbreviation supporting country and region should set region abbreviation', (t) => {
-    const input = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-    ];
-
-    const expected = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAlpha3('USA')
-        .addParent('country', 'United States', '1', 'USA')
-        .addParent('region', 'Pennsylvania', '3', 'PA')
-    ];
-
-    const resolver = {
-      lookup: (centroid, search_layers, callback) => {
-        const result = {
-          country: [
-            {id: 1, name: 'United States', abbr: 'USA'}
-          ],
-          region: [
-            {id: 3, name: 'Pennsylvania'}
-          ]
-        };
-
-        setTimeout(callback, 0, null, result);
-      }
-    };
-
-    const lookupStream = stream(resolver);
-
-    test_stream(input, lookupStream, (err, actual) => {
-      t.deepEqual(actual, expected, 'region abbreviation should have been set');
-      t.end();
-    });
-
-  });
-
-  test.test('supported country and unsupported region should not set region abbreviation', (t) => {
-    const input = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-    ];
-
-    const expected = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAlpha3('USA')
-        .addParent('country', 'United States', '1', 'USA')
-        .addParent('region', 'unknown US state', '3')
-    ];
-
-    const resolver = {
-      lookup: (centroid, search_layers, callback) => {
-        const result = {
-          country: [
-            {id: 1, name: 'United States', abbr: 'USA'}
-          ],
-          region: [
-            {id: 3, name: 'unknown US state'}
-          ]
-        };
-
-        setTimeout(callback, 0, null, result);
-      }
-    };
-
-    const lookupStream = stream(resolver);
-
-    test_stream(input, lookupStream, (err, actual) => {
-      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
-      t.end();
-    });
-
-  });
-
-  test.test('unsupported country and supported region should not set region abbreviation', (t) => {
-    const input = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-    ];
-
-    const expected = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent('country', 'unsupported country', '1')
-        .addParent('region', 'Pennsylvania', '3')
-    ];
-
-    const resolver = {
-      lookup: (centroid, search_layers, callback) => {
-        const result = {
-          country: [
-            {id: 1, name: 'unsupported country'}
-          ],
-          region: [
-            {id: 3, name: 'Pennsylvania'}
-          ]
-        };
-
-        setTimeout(callback, 0, null, result);
-      }
-    };
-
-    const lookupStream = stream(resolver);
-
-    test_stream(input, lookupStream, (err, actual) => {
-      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
-      t.end();
-    });
-
-  });
-
-  test.test('no countries or regions should not set region abbreviation', (t) => {
-    const input = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-    ];
-
-    const expected = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent( 'locality', 'Locality', '1')
-    ];
-
-    const resolver = {
-      lookup: (centroid, search_layers, callback) => {
-        const result = {
-          locality: [
-            {id: 1, name: 'Locality'}
-          ]
-        };
-
-        setTimeout(callback, 0, null, result);
-      }
-    };
-
-    const lookupStream = stream(resolver);
-
-    test_stream(input, lookupStream, (err, actual) => {
-      t.deepEqual(actual, expected, 'no region abbreviation should have been set');
-      t.end();
-    });
-
-  });
-
-  test.test('supported country should have alpha3 set', (t) => {
-    const input = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-    ];
-
-    const expected = [
-      new Document( 'whosonfirst', 'placetype', '1')
-        .setAlpha3('DNK')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent( 'country', 'Denmark', '1', 'DNK')
-    ];
-
-    const resolver = {
-      lookup: (centroid, search_layers, callback) => {
-        const result = {
-          country: [
-            {id: 1, name: 'Denmark', abbr: 'DNK'}
-          ]
-        };
-
-        setTimeout(callback, 0, null, result);
-      }
-    };
-
-    const lookupStream = stream(resolver);
-
-    test_stream(input, lookupStream, (err, actual) => {
-      t.deepEqual(actual, expected, 'alpha3 should have been set');
-      t.end();
-    });
-
-  });
-
   test.test('empty string in place name should not error', (t) => {
     const inputDoc = new Document( 'whosonfirst', 'placetype', '1')
       .setCentroid({ lat: 12.121212, lon: 21.212121 });
 
     const expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
-      .setAlpha3('DNK')
+      .setAlpha3('XYZ')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
-      .addParent( 'country', 'Denmark', '1', 'DNK');
+      .addParent( 'country', 'Country 1', '1', 'XYZ');
 
     const resolver = {
       lookup: (centroid, search_layers, callback) => {
         const result = {
           country: [
-            {id: 1, name: 'Denmark', abbr: 'DNK'}
+            {id: 1, name: 'Country 1', abbr: 'XYZ'}
           ],
           county: [
             {id: 2, name: ''}
@@ -400,15 +222,15 @@ tape('tests', (test) => {
     const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .addParent('region', 'Dependency 1', '11')
+        .addParent('region', 'Dependency 1', '11', 'Dependency 1 Abbr')
     ];
 
     const resolver = {
       lookup: (centroid, search_layers, callback) => {
         const result = {
           dependency: [
-            {id: 11, name: 'Dependency 1'},
-            {id: 12, name: 'Dependency 2'}
+            {id: 11, name: 'Dependency 1', abbr: 'Dependency 1 Abbr'},
+            {id: 12, name: 'Dependency 2', abbr: 'Dependency 2 Abbr'}
           ]
         };
 
