@@ -10,7 +10,12 @@
           "country_id": "85632685",
           "region_id": 85688161
         }
-      ]
+      ],
+      "Centroid": {
+        "lat": 55.661893,
+        "lon": 37.645064
+      },
+      "BoundingBox": "35.1436343294,54.2551915472,40.2055817652,56.9616854907"
     },
     {
       "Id": 85632685,
@@ -23,6 +28,11 @@
           "empire_id": "874393555"
         }
       ],
+      "Centroid": {
+        "lat": 61.996728,
+        "lon": 96.665965
+      },
+      "BoundingBox": "-179.999983092,41.185353,179.999983111,81.86164093",
       "Abbrev": "RUS"
     }
   ],
@@ -37,7 +47,12 @@
           "country_id": 85633111,
           "region_id": 85682499
         }
-      ]
+      ],
+      "Centroid": {
+        "lat": 52.501535,
+        "lon": 13.40184
+      },
+      "BoundingBox": "13.088333,52.338242,13.7604695,52.674917"
     },
     {
       "Id": 85633111,
@@ -49,6 +64,11 @@
           "country_id": 85633111
         }
       ],
+      "Centroid": {
+        "lat": 51.112876,
+        "lon": 10.391873
+      },
+      "BoundingBox": "5.866003,47.2703515,15.0414895,55.0573745",
       "Abbrev": "DEU"
     }
   ],
@@ -63,37 +83,29 @@
           "country_id": 85632171,
           "region_id": 85669521
         }
-      ]
+      ],
+      "Centroid": {
+        "lat": 28.058568,
+        "lon": 89.972312
+      },
+      "BoundingBox": "89.4173636779,27.7152853465,90.5976019387,28.3583989315"
     },
     {
-      "Id": 85632719,
-      "Name": "Bhutan claimed by China",
-      "Placetype": "disputed",
-      "Hierarchy": [
-        {
-          "continent_id": 102191569,
-          "country_id": 85632695,
-          "disputed_id": 85632719
-        },
-        {
-          "continent_id": 102191569,
-          "country_id": 85632171,
-          "disputed_id": 85632719
-        }
-      ]
-    },
-    {
-      "Id": 85632695,
-      "Name": "中國",
+      "Id": 85632171,
+      "Name": "འབྲུག་ཡུལ་",
       "Placetype": "country",
       "Hierarchy": [
         {
           "continent_id": 102191569,
-          "country_id": 85632695,
-          "empire_id": 136253041
+          "country_id": 85632171
         }
       ],
-      "Abbrev": "CHN"
+      "Centroid": {
+        "lat": 27.395689,
+        "lon": 90.432033
+      },
+      "BoundingBox": "88.746474,26.702016,92.1251268,28.246987",
+      "Abbrev": "BTN"
     }
   ],
   [
@@ -107,39 +119,12 @@
           "country_id": 85633041
         }
       ],
+      "Centroid": {
+        "lat": 61.373126,
+        "lon": -98.316063
+      },
+      "BoundingBox": "-141.005549,41.669086,-52.615931,83.116116",
       "Abbrev": "CAN"
-    }
-  ],
-  [
-    {
-      "Id": 85632719,
-      "Name": "Bhutan claimed by China",
-      "Placetype": "disputed",
-      "Hierarchy": [
-        {
-          "continent_id": 102191569,
-          "country_id": 85632695,
-          "disputed_id": 85632719
-        },
-        {
-          "continent_id": 102191569,
-          "country_id": 85632171,
-          "disputed_id": 85632719
-        }
-      ]
-    },
-    {
-      "Id": 85632695,
-      "Name": "中國",
-      "Placetype": "country",
-      "Hierarchy": [
-        {
-          "continent_id": 102191569,
-          "country_id": 85632695,
-          "empire_id": 136253041
-        }
-      ],
-      "Abbrev": "CHN"
     }
   ]
 ]

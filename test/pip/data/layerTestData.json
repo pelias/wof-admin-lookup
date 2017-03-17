@@ -1,7 +1,6 @@
 [
   { "longitude": -123.12019, "latitude": 49.274507, "layers": [ "country" ] },
   { "longitude": 90.051874, "latitude": 28.2479, "notes": "Canada" },
-  { "longitude": 90.051874, "latitude": 28.2479, "layers": [ "disputed" ] },
   { "longitude": 37.076846, "latitude": 56.063863, "notes": "Moscow, Russia"},
   { "longitude": 13.407003, "latitude": 52.524961, "notes": "Berlin, Germany" }
 ]
