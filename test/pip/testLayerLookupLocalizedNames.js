@@ -18,7 +18,6 @@ const layers = [
   'country', // 216
   //'county', // 18166
   'dependency', // 39
-  'disputed', // 39
   //'localadmin', // 106880
   //'locality', // 160372
   'macrocounty', // 350
