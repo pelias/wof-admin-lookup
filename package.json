@@ -14,8 +14,9 @@
     "functional": "npm run testDependencyMode && npm run testLayerLookup && npm run testLayerLookupLocalizedNames",
     "lint": "jshint .",
     "validate": "npm ls",
-    "travis": "npm run test",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "travis": "npm run check-dependencies && npm run test",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "check-dependencies": "node_modules/.bin/npm-check --production"
   },
   "repository": {
     "type": "git",
@@ -57,7 +58,8 @@
   "pre-commit": [
     "lint",
     "validate",
-    "test"
+    "test",
+    "check-dependencies"
   ],
   "author": "mapzen",
   "license": "MIT"
