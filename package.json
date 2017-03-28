@@ -29,7 +29,7 @@
     "csv-parse": "^1.2.0",
     "joi": "^10.1.0",
     "lodash": "^4.6.0",
-    "pelias-config": "2.8.0",
+    "pelias-config": "2.9.0",
     "pelias-logger": "0.1.0",
     "pelias-parallel-stream": "0.0.2",
     "polygon-lookup": "^2.1.0",
