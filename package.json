@@ -14,8 +14,9 @@
     "functional": "npm run testDependencyMode && npm run testLayerLookup && npm run testLayerLookupLocalizedNames",
     "lint": "jshint .",
     "validate": "npm ls",
-    "travis": "npm run test",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "travis": "npm run check-dependencies && npm run test",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "check-dependencies": "node_modules/.bin/npm-check --production"
   },
   "repository": {
     "type": "git",
@@ -34,7 +35,6 @@
     "pelias-parallel-stream": "0.0.2",
     "polygon-lookup": "^2.1.0",
     "simplify-js": "^1.2.1",
-    "suspend": "^0.7.0",
     "through2": "^2.0.0",
     "through2-filter": "^2.0.0",
     "through2-map": "^3.0.0",
@@ -45,6 +45,7 @@
     "event-stream": "^3.3.2",
     "intercept-stdout": "^0.1.2",
     "jshint": "^2.8.0",
+    "npm-check": "^5.4.0",
     "pelias-mock-logger": "^1.0.1",
     "pelias-model": "4.5.1",
     "precommit-hook": "^3.0.0",
@@ -57,7 +58,8 @@
   "pre-commit": [
     "lint",
     "validate",
-    "test"
+    "test",
+    "check-dependencies"
   ],
   "author": "mapzen",
   "license": "MIT"
