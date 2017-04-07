@@ -9,8 +9,8 @@ module.exports.create = (datapath) => {
     const filename = [ datapath, 'data', record.path ].join(path.sep);
     fs.readFile(filename, (err, data) => {
       if (err) {
-        console.error(`exception reading file ${filename}`);
-        next(err);
+        console.error(err.message);
+        next(null);
       } else {
         try {
           const object = JSON.parse(data);
