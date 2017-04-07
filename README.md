@@ -5,6 +5,8 @@ project. Pelias is an open-source, open-data geocoder built by
 [Mapzen](https://www.mapzen.com/) that also powers [Mapzen Search](https://mapzen.com/projects/search). Our
 official user documentation is [here](https://mapzen.com/documentation/search/).
 
+![Travis CI Status](https://travis-ci.org/pelias/wof-admin-lookup.svg)
+
 ## Overview
 
 ### What is admin lookup?
