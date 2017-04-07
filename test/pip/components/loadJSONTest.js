@@ -82,4 +82,46 @@ tape('loadJSON tests', (test) => {
 
   });
 
+  test.test('missing file should be non-fatal', (t) => {
+    let stderr = '';
+
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync([temp_dir, 'data'].join(path.sep));
+
+      const loadJSON = require('../../../src/pip/components/loadJSON').create(temp_dir);
+
+      // intercept/swallow stderr
+      var unhook_intercept = intercept(
+        function() { },
+        function(txt) { stderr += txt; return ''; }
+      );
+
+      // non-existent file
+      const filename1 = [temp_dir, 'data', 'datafile1.geojson'].join(path.sep);
+
+      // write the contents to a file
+      const filename2 = [temp_dir, 'data', 'datafile2.geojson'].join(path.sep);
+      fs.writeFileSync(filename2, JSON.stringify({ a: 1 }) + '\n');
+
+      const input = [
+        {
+          path: path.basename(filename1)
+        },
+        {
+          path: path.basename(filename2)
+        }
+      ];
+
+      test_stream(input, loadJSON, (err, actual) => {
+        unhook_intercept();
+        temp.cleanupSync();
+        t.deepEqual(actual, [{ a: 1 }], 'should be equal');
+        t.ok(stderr.match(/ENOENT: no such file or directory/), 'error output present');
+        t.end();
+      });
+
+    });
+
+  });
+
 });
