@@ -6,14 +6,12 @@ const os = require('os');
 
 module.exports = {
   create: () => {
-    if (_.get(peliasConfig, 'imports.adminLookup.enabled', true)) {
+    if (peliasConfig.imports.adminLookup.enabled) {
       const datapath = peliasConfig.imports.whosonfirst.datapath;
       const resolver = require('./src/localPipResolver')(datapath);
 
-      // default maxConcurrentReqs to the number of cpus/cores * 10
-      const maxConcurrentReqs = _.get(peliasConfig, 'imports.adminLookup.maxConcurrentReqs', os.cpus().length*10);
-
-      return require('./src/lookupStream')(resolver, maxConcurrentReqs);
+      return require('./src/lookupStream')(resolver,
+        peliasConfig.imports.adminLookup.maxConcurrentReqs);
 
     } else {
       return through.obj();
