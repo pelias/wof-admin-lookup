@@ -34,77 +34,19 @@ tape('tests for main entry point', (test) => {
 
   });
 
-  test.test('adminLookup enabled scenarios should return a lookupStream', (t) => {
-    const config_import_scenarios = [
-      { imports: { adminLookup: {} } },
-      { imports: { adminLookup: { enabled: true } } }
-    ];
-
-    config_import_scenarios.forEach((scenario) => {
-      const stream = proxyquire('../index', {
-        // verify the schema
-        './schema': 'this is the schema',
-        'pelias-config': {
-          generate: (schema) => {
-            t.equals(schema, 'this is the schema');
-
-            scenario.imports.adminLookup.maxConcurrentReqs = 17;
-            scenario.imports.whosonfirst = {
-              datapath: 'this is the wof datapath'
-            };
-
-            return scenario;
-
-          }
-        },
-        './src/localPipResolver': (datapath) => {
-          t.equals(datapath, 'this is the wof datapath');
-          return 'this is the resolver';
-        },
-        './src/lookupStream': (resolver, maxConcurrentReqs) => {
-          t.equals(resolver, 'this is the resolver');
-          t.equals(maxConcurrentReqs, 17, 'maxConcurrentReqs should be from config');
-
-          return through.obj(function(record, enc, next) {
-            record.field2 = 'value 2';
-            next(null, record);
-          });
-
-        }
-
-      }).create();
-
-      const input = [
-        { field1: 'value 1' }
-      ];
-
-      const expected = [
-        { field1: 'value 1', field2: 'value 2' }
-      ];
-
-      test_stream(input, stream, (err, actual) => {
-        t.deepEqual(actual, expected, 'something should have changed');
-      });
-
-    });
-
-    t.end();
-
-  });
-
-  test.test('maxConcurrentReqs should default to # cpus * 10 when not specified', (t) => {
+  test.test('adminLookup enabled should return a lookupStream', (t) => {
     const stream = proxyquire('../index', {
+      // verify the schema
       './schema': 'this is the schema',
       'pelias-config': {
-        // the mock config
         generate: (schema) => {
-          // verify the schema
           t.equals(schema, 'this is the schema');
 
           return {
             imports: {
               adminLookup: {
-                enabled: true
+                enabled: true,
+                maxConcurrentReqs: 17
               },
               whosonfirst: {
                 datapath: 'this is the wof datapath'
@@ -115,42 +57,35 @@ tape('tests for main entry point', (test) => {
         }
       },
       './src/localPipResolver': (datapath) => {
-        // mock out the resolver
         t.equals(datapath, 'this is the wof datapath');
         return 'this is the resolver';
       },
       './src/lookupStream': (resolver, maxConcurrentReqs) => {
-        // verify what was passed to the stream constructor, returns a stream that modifies
         t.equals(resolver, 'this is the resolver');
-        t.equals(maxConcurrentReqs, 70, 'maxConcurrentReqs should be # cpus * 10');
+        t.equals(maxConcurrentReqs, 17, 'maxConcurrentReqs should be from config');
 
         return through.obj(function(record, enc, next) {
-          record.field2 = 'value 2';
+          record.field1 = 'new value';
           next(null, record);
         });
 
-      },
-      'os': {
-        // determines default for maxConcurrentReqs
-        cpus: () => {
-          return new Array(7);
-        }
       }
 
     }).create();
 
     const input = [
-      { field1: 'value 1' }
+      { field1: 'old value' }
     ];
 
     const expected = [
-      { field1: 'value 1', field2: 'value 2' }
+      { field1: 'new value' }
     ];
 
     test_stream(input, stream, (err, actual) => {
       t.deepEqual(actual, expected, 'something should have changed');
       t.end();
     });
+
 
   });
 

@@ -1,60 +1,63 @@
-'use strict';
-
 const tape = require( 'tape' );
 const Joi = require('joi');
 const schema = require( '../schema' );
+const os = require('os');
 
-function validate(config) {
-  Joi.validate(config, schema, (err) => {
-    if (err) {
-      throw new Error(err.details[0].message);
-    }
-  });
-}
-
-tape('test configuration scenarios', function(test) {
-  test.test('missing imports should throw error', function(t) {
+tape('test configuration scenarios', (test) =>  {
+  test.test('missing imports should throw error', (t) =>  {
     const config = {};
 
-    t.throws(validate.bind(null, config), /"imports" is required/);
+    const result = Joi.validate(config, schema);
+
+    t.equals(result.error.details.length, 1);
+    t.equals(result.error.details[0].message, '"imports" is required');
     t.end();
 
   });
 
-  test.test('non-object imports should throw error', function(t) {
+  test.test('non-object imports should throw error', (t) =>  {
     [null, 17, 'string', [], true].forEach((value) => {
       const config = { imports: value };
 
-      t.throws(validate.bind(null, config), /"imports" must be an object/);
+      const result = Joi.validate(config, schema);
+
+      t.equals(result.error.details.length, 1);
+      t.equals(result.error.details[0].message, '"imports" must be an object');
     });
 
     t.end();
 
   });
 
-  test.test('missing imports.whosonfirst should throw error', function(t) {
+  test.test('missing imports.whosonfirst should throw error', (t) =>  {
     const config = {
       imports: {}
     };
 
-    t.throws(validate.bind(null, config), /"whosonfirst" is required/);
+    const result = Joi.validate(config, schema);
+
+    t.equals(result.error.details.length, 1);
+    t.equals(result.error.details[0].message, '"whosonfirst" is required');
     t.end();
 
   });
 
-  test.test('missing imports.whosonfirst.datapath should throw error', function(t) {
+  test.test('missing imports.whosonfirst.datapath should throw error', (t) =>  {
     const config = {
       imports: {
         whosonfirst: {}
       }
     };
 
-    t.throws(validate.bind(null, config), /"datapath" is required/);
+    const result = Joi.validate(config, schema);
+
+    t.equals(result.error.details.length, 1);
+    t.equals(result.error.details[0].message, '"datapath" is required');
     t.end();
 
   });
 
-  test.test('missing imports.adminLookup should not throw error', function(t) {
+  test.test('missing imports.adminLookup should not throw error', (t) =>  {
     const config = {
       imports: {
         whosonfirst: {
@@ -63,12 +66,14 @@ tape('test configuration scenarios', function(test) {
       }
     };
 
-    t.doesNotThrow(validate.bind(null, config));
+    const result = Joi.validate(config, schema);
+
+    t.notOk(result.error);
     t.end();
 
   });
 
-  test.test('non-object imports.adminLookup should throw error', function(t) {
+  test.test('non-object imports.adminLookup should throw error', (t) =>  {
     [null, 17, 'string', [], true].forEach((value) => {
       const config = {
         imports: {
@@ -79,14 +84,17 @@ tape('test configuration scenarios', function(test) {
         }
       };
 
-      t.throws(validate.bind(null, config), /"adminLookup" must be an object/);
+      const result = Joi.validate(config, schema);
+
+      t.equals(result.error.details.length, 1);
+      t.equals(result.error.details[0].message, '"adminLookup" must be an object');
     });
 
     t.end();
 
   });
 
-  test.test('non-number imports.adminLookup.maxConcurrentReqs should throw error', function(t) {
+  test.test('non-number imports.adminLookup.maxConcurrentReqs should throw error', (t) =>  {
     [null, 'string', {}, [], true].forEach((value) => {
       const config = {
         imports: {
@@ -99,7 +107,10 @@ tape('test configuration scenarios', function(test) {
         }
       };
 
-      t.throws(validate.bind(null, config), /"maxConcurrentReqs" must be a number/);
+      const result = Joi.validate(config, schema);
+
+      t.equals(result.error.details.length, 1);
+      t.equals(result.error.details[0].message, '"maxConcurrentReqs" must be a number');
 
     });
 
@@ -107,7 +118,7 @@ tape('test configuration scenarios', function(test) {
 
   });
 
-  test.test('non-integer imports.adminLookup.maxConcurrentReqs should throw error', function(t) {
+  test.test('non-integer imports.adminLookup.maxConcurrentReqs should throw error', (t) =>  {
     const config = {
       imports: {
         adminLookup: {
@@ -119,12 +130,15 @@ tape('test configuration scenarios', function(test) {
       }
     };
 
-    t.throws(validate.bind(null, config), /"maxConcurrentReqs" must be an integer/);
+    const result = Joi.validate(config, schema);
+
+    t.equals(result.error.details.length, 1);
+    t.equals(result.error.details[0].message, '"maxConcurrentReqs" must be an integer');
     t.end();
 
   });
 
-  test.test('missing imports.adminLookup.maxConcurrentReqs should not throw error', function(t) {
+  test.test('missing imports.adminLookup.maxConcurrentReqs should default to number of cpus * 10', (t) =>  {
     const config = {
       imports: {
         adminLookup: {
@@ -135,12 +149,15 @@ tape('test configuration scenarios', function(test) {
       }
     };
 
-    t.doesNotThrow(validate.bind(null, config));
+    const result = Joi.validate(config, schema);
+
+    t.equals(result.value.imports.adminLookup.maxConcurrentReqs, os.cpus().length*10);
+    t.notOk(result.error);
     t.end();
 
   });
 
-  test.test('non-boolean imports.adminLookup.enabled should throw error', function(t) {
+  test.test('non-boolean imports.adminLookup.enabled should throw error', (t) =>  {
     [null, 'string', {}, [], 17].forEach((value) => {
       const config = {
         imports: {
@@ -154,7 +171,10 @@ tape('test configuration scenarios', function(test) {
         }
       };
 
-      t.throws(validate.bind(null, config), /"enabled" must be a boolean/);
+      const result = Joi.validate(config, schema);
+
+      t.equals(result.error.details.length, 1);
+      t.equals(result.error.details[0].message, '"enabled" must be a boolean');
 
     });
 
@@ -162,7 +182,7 @@ tape('test configuration scenarios', function(test) {
 
   });
 
-  test.test('boolean imports.adminLookup.enabled should not throw error', function(t) {
+  test.test('boolean imports.adminLookup.enabled should not throw error', (t) =>  {
     [true, false].forEach((value) => {
       const config = {
         imports: {
@@ -176,7 +196,9 @@ tape('test configuration scenarios', function(test) {
         }
       };
 
-      t.doesNotThrow(validate.bind(null, config));
+      const result = Joi.validate(config, schema);
+
+      t.notOk(result.error);
 
     });
 
@@ -184,7 +206,7 @@ tape('test configuration scenarios', function(test) {
 
   });
 
-  test.test('integer imports.adminLookup.maxConcurrentReqs should not throw error', function(t) {
+  test.test('missing imports.adminLookup.enabled should default to true', (t) =>  {
     const config = {
       imports: {
         adminLookup: {
@@ -196,12 +218,34 @@ tape('test configuration scenarios', function(test) {
       }
     };
 
-    t.doesNotThrow(validate.bind(null, config));
+    const result = Joi.validate(config, schema);
+
+    t.notOk(result.error);
+    t.equals(result.value.imports.adminLookup.enabled, true);
     t.end();
 
   });
 
-  test.test('non-string imports.whosonfirst.datapath should throw error', function(t) {
+  test.test('integer imports.adminLookup.maxConcurrentReqs should not throw error', (t) =>  {
+    const config = {
+      imports: {
+        adminLookup: {
+          maxConcurrentReqs: 17
+        },
+        whosonfirst: {
+          datapath: 'datapath value'
+        }
+      }
+    };
+
+    const result = Joi.validate(config, schema);
+
+    t.notOk(result.error);
+    t.end();
+
+  });
+
+  test.test('non-string imports.whosonfirst.datapath should throw error', (t) =>  {
     [null, 17, {}, [], true].forEach((value) => {
       const config = {
         imports: {
@@ -211,14 +255,17 @@ tape('test configuration scenarios', function(test) {
         }
       };
 
-      t.throws(validate.bind(null, config), /"datapath" must be a string/);
+      const result = Joi.validate(config, schema);
+
+      t.equals(result.error.details.length, 1);
+      t.equals(result.error.details[0].message, '"datapath" must be a string');
     });
 
     t.end();
 
   });
 
-  test.test('unknown properties should not throw errors', function(t) {
+  test.test('unknown properties should not throw errors', (t) =>  {
     const config = {
       imports: {
         adminLookup: {
@@ -234,7 +281,9 @@ tape('test configuration scenarios', function(test) {
       unknown_property: 'property value'
     };
 
-    t.doesNotThrow(validate.bind(null, config));
+    const result = Joi.validate(config, schema);
+
+    t.notOk(result.error);
     t.end();
 
   });

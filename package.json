@@ -27,12 +27,12 @@
   ],
   "dependencies": {
     "async": "^2.1.4",
-    "csv-parse": "^1.2.0",
     "joi": "^10.1.0",
     "lodash": "^4.6.0",
     "pelias-config": "2.10.0",
     "pelias-logger": "0.2.0",
     "pelias-parallel-stream": "0.1.0",
+    "pelias-whosonfirst": "2.14.0",
     "polygon-lookup": "^2.1.0",
     "simplify-js": "^1.2.1",
     "through2": "^2.0.0",

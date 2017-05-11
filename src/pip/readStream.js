@@ -1,14 +1,9 @@
-'use strict';
-
-var parse = require('csv-parse');
 var fs = require('fs');
 var path = require('path');
 var sink = require('through2-sink');
-var loadJSON = require('./components/loadJSON');
+const whosonfirst = require('pelias-whosonfirst');
 var extractFields = require('./components/extractFields');
 var simplifyGeometry = require('./components/simplifyGeometry');
-var isActiveRecord = require('./components/isActiveRecord');
-var filterOutNamelessRecords = require('./components/filterOutNamelessRecords');
 var filterOutUnimportantRecords = require('./components/filterOutUnimportantRecords');
 
 /**
@@ -23,16 +18,13 @@ var filterOutUnimportantRecords = require('./components/filterOutUnimportantReco
 function readData(datapath, layer, localizedAdminNames, callback) {
   var features = [];
 
-  var options = {
-    delimiter: ',',
-    columns: true
-  };
-
   fs.createReadStream(path.join(datapath, 'meta', `wof-${layer}-latest.csv`))
-    .pipe(parse(options))
-    .pipe(loadJSON.create(datapath))
-    .pipe(isActiveRecord.create())
-    .pipe(filterOutNamelessRecords.create())
+    .pipe(whosonfirst.parseMetaFiles())
+    .pipe(whosonfirst.isNotNullIslandRelated())
+    .pipe(whosonfirst.recordHasName())
+    .pipe(whosonfirst.loadJSON(datapath, false))
+    .pipe(whosonfirst.recordHasIdAndProperties())
+    .pipe(whosonfirst.isActiveRecord())
     .pipe(filterOutUnimportantRecords.create())
     .pipe(extractFields.create(localizedAdminNames))
     .pipe(simplifyGeometry.create())
