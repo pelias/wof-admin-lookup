@@ -1,12 +1,12 @@
 'use strict';
 
-var _ = require('lodash');
-var parallelStream = require('pelias-parallel-stream');
-var peliasLogger = require( 'pelias-logger' );
-var getAdminLayers = require( './getAdminLayers' );
+const _ = require('lodash');
+const parallelStream = require('pelias-parallel-stream');
+const peliasLogger = require( 'pelias-logger' );
+const getAdminLayers = require( './getAdminLayers' );
 
 //defaults to nowhere
-var optsArg = {
+const optsArg = {
   transports: []
 };
 //only prints to suspect records log if flag is set
@@ -15,36 +15,12 @@ optsArg.transports.push(new peliasLogger.winston.transports.File( {
   timestamp: false
 }));
 
-var logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
-
-function setFields(values, doc, wofFieldName) {
-  try {
-    if (!_.isEmpty(values)) {
-      doc.addParent(wofFieldName, values[0].name, values[0].id.toString(), values[0].abbr);
-    }
-  }
-  catch (err) {
-    logger.info('invalid value', {
-      centroid: doc.getCentroid(),
-      result: {
-        type: wofFieldName,
-        values: values
-      }
-    });
-  }
-}
+const logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
 
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
     return result[element].length > 1;
   });
-}
-
-function getCountryCode(result) {
-  // return the abbreviation for the first country in the result
-  if (_.get(result, 'country', []).length > 0) {
-    return result.country[0].abbr;
-  }
 }
 
 function createPipResolverStream(pipResolver) {
@@ -76,31 +52,36 @@ function createPipResolverStream(pipResolver) {
         });
       }
 
-      var countryCode = getCountryCode(result);
+      doc.getParentFields()
+        // filter out placetypes for which there are no values
+        .filter((placetype) => { return !_.isEmpty(result[placetype]); } )
+        // assign parents into the doc
+        .forEach((placetype) => {
+          const values = result[placetype];
 
-      // set code if available
-      if (countryCode) {
-        doc.setAlpha3(countryCode);
-      }
-      else {
-        logger.error('no country code', result);
-      }
+          try {
+            // addParent can throw an error if, for example, name is an empty string
+            doc.addParent(placetype, values[0].name, values[0].id.toString(), values[0].abbr);
+            if ('country' === placetype && values[0].abbr) {
+              doc.setAlpha3(values[0].abbr);
+            }
 
-      setFields(result.country, doc, 'country');
-      setFields(result.macroregion, doc, 'macroregion');
-      if (!_.isEmpty(result.region)) { // if there are regions, use them
-        setFields(result.region, doc, 'region');
-      } else { // go with dependency for region (eg - Puerto Rico is a dependency)
-        setFields(result.dependency, doc, 'region');
-      }
-      setFields(result.macrocounty, doc, 'macrocounty');
-      setFields(result.county, doc, 'county');
-      setFields(result.locality, doc, 'locality');
-      setFields(result.localadmin, doc, 'localadmin');
-      setFields(result.borough, doc, 'borough');
-      setFields(result.neighbourhood, doc, 'neighbourhood');
+          }
+          catch (err) {
+            logger.info('invalid value', {
+              centroid: doc.getCentroid(),
+              result: {
+                type: placetype,
+                values: values
+              }
+            });
+          }
+
+        }
+      );
 
       callback(null, doc);
+
     });
   };
 }
