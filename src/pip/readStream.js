@@ -1,14 +1,12 @@
-var fs = require('fs');
-var path = require('path');
-var sink = require('through2-sink');
+const sink = require('through2-sink');
 const whosonfirst = require('pelias-whosonfirst');
-var extractFields = require('./components/extractFields');
-var simplifyGeometry = require('./components/simplifyGeometry');
-var filterOutUnimportantRecords = require('./components/filterOutUnimportantRecords');
+const extractFields = require('./components/extractFields');
+const simplifyGeometry = require('./components/simplifyGeometry');
+const filterOutUnimportantRecords = require('./components/filterOutUnimportantRecords');
 
 /**
- * This function finds all the `latest` files in `meta/`, CSV parses them,
- * pushes the ids onto an array and calls the callback
+ * This function loads a WOF metadata file, CSV parses it, extracts fields,
+ * pushes the ids onto an array, and calls the callback
  *
  * @param {string} datapath
  * @param {string} layer
@@ -16,9 +14,9 @@ var filterOutUnimportantRecords = require('./components/filterOutUnimportantReco
  * @param {function} callback
  */
 function readData(datapath, layer, localizedAdminNames, callback) {
-  var features = [];
+  const features = [];
 
-  fs.createReadStream(path.join(datapath, 'meta', `wof-${layer}-latest.csv`))
+  whosonfirst.metadataStream(datapath).create(layer)
     .pipe(whosonfirst.parseMetaFiles())
     .pipe(whosonfirst.isNotNullIslandRelated())
     .pipe(whosonfirst.recordHasName())
@@ -28,7 +26,7 @@ function readData(datapath, layer, localizedAdminNames, callback) {
     .pipe(filterOutUnimportantRecords.create())
     .pipe(extractFields.create(localizedAdminNames))
     .pipe(simplifyGeometry.create())
-    .pipe(sink.obj(function(feature) {
+    .pipe(sink.obj((feature) => {
       features.push(feature);
     }))
     .on('finish', function() {
