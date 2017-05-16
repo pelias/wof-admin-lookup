@@ -43,7 +43,6 @@ tape('tests', (test) => {
     const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
-        .setAlpha3('XYZ')
         .addParent('country', 'Country 1', '1', 'XYZ')
         .addParent('dependency', 'Dependency 1', '3', 'Dependency 1 Abbr')
         .addParent('macroregion', 'Macroregion 1', '5', 'Macroregion 1 Abbr')
@@ -193,7 +192,6 @@ tape('tests', (test) => {
       .setCentroid({ lat: 12.121212, lon: 21.212121 });
 
     const expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
-      .setAlpha3('XYZ')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
       .addParent( 'country', 'Country 1', '1', 'XYZ');
 
