@@ -62,9 +62,6 @@ function createPipResolverStream(pipResolver) {
           try {
             // addParent can throw an error if, for example, name is an empty string
             doc.addParent(placetype, values[0].name, values[0].id.toString(), values[0].abbr);
-            if ('country' === placetype && values[0].abbr) {
-              doc.setAlpha3(values[0].abbr);
-            }
 
           }
           catch (err) {
