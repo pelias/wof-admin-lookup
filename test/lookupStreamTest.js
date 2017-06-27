@@ -2,6 +2,7 @@ const tape = require('tape');
 const event_stream = require('event-stream');
 const Document = require('pelias-model').Document;
 const _ = require('lodash');
+const proxyquire = require('proxyquire').noCallThru();
 
 const stream = require('../src/lookupStream');
 
@@ -155,35 +156,67 @@ tape('tests', (test) => {
   });
 
   test.test('resolver throwing error should push doc onto stream unmodified', (t) => {
+    t.plan(3);
+
     const input = [
       new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setCentroid({ lat: 12.121212, lon: 21.212121 }),
+      new Document( 'whosonfirst', 'placetype', '2')
+        .setCentroid({ lat: 13.131313, lon: 31.313131 }),
+      new Document( 'whosonfirst', 'placetype', '3')
+        .setCentroid({ lat: 14.141414, lon: 41.414141 })
     ];
 
     const expected = [
       new Document( 'whosonfirst', 'placetype', '1')
-        .setCentroid({ lat: 12.121212, lon: 21.212121 })
+        .setCentroid({ lat: 12.121212, lon: 21.212121 }),
+      new Document( 'whosonfirst', 'placetype', '3')
+        .setCentroid({ lat: 14.141414, lon: 41.414141 })
     ];
 
     const resolver = {
       lookup: (centroid, search_layers, callback) => {
-        setTimeout(callback, 0, 'this is an error', {region: 'Region'});
+        // return an error only for the second doc
+        if (centroid.lat === 13.131313) {
+          setTimeout(callback, 0, 'this is a resolver error');
+        } else {
+          setTimeout(callback, 0, null, {});
+        }
       }
     };
 
-    const lookupStream = stream(resolver);
+    const errorMessages = [];
 
-    const input_stream = event_stream.readArray(input);
-    const destination_stream = event_stream.writeArray(() => {
-      t.fail('this stream should not have been called');
+    const lookupStream = proxyquire('../src/lookupStream', {
+      'pelias-logger': {
+        winston: {
+          transports: {
+            File: function() {
+
+            }
+          }
+        },
+        get: (layer, opts) => {
+          return {
+            error: (message, additional) => {
+              t.equals(message, 'PIP server failed: "this is a resolver error"');
+              t.deepEquals(additional, {
+                id: 'whosonfirst:placetype:2',
+                lat: 13.131313,
+                lon: 31.313131
+              });
+            },
+            info: (message) => {}
+          };
+        }
+      }
+
+    })(resolver);
+
+    test_stream(input, lookupStream, (err, actual) => {
+      t.deepEquals(actual, expected, 'only error-free records should pass through');
       t.end();
     });
-
-    input_stream.pipe(lookupStream).on('error', (e) => {
-      t.equal(e.message, 'PIP server failed: "this is an error"');
-      t.deepEqual(input, expected, 'the document should not have been modified');
-      t.end();
-    }).pipe(destination_stream);
 
   });
 

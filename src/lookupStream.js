@@ -31,11 +31,15 @@ function createPipResolverStream(pipResolver) {
     }
 
     pipResolver.lookup(doc.getCentroid(), getAdminLayers(doc.getLayer()), (err, result) => {
-
-      // assume errors at this point are fatal, so pass them upstream to kill stream
       if (err) {
-        logger.error(err);
-        return callback(new Error('PIP server failed: ' + (err.message || JSON.stringify(err))));
+        // if there's an error, just log it and move on
+        logger.error(`PIP server failed: ${(err.message || JSON.stringify(err))}`, {
+          id: doc.getGid(),
+          lat: doc.getCentroid().lat,
+          lon: doc.getCentroid().lon
+        });
+        // don't pass the unmodified doc along
+        return callback();
       }
 
       // log results w/o country OR any multiples
