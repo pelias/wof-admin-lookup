@@ -156,6 +156,8 @@ tape('tests', (test) => {
   });
 
   test.test('resolver throwing error should push doc onto stream unmodified', (t) => {
+    t.plan(3);
+
     const input = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 }),
@@ -196,8 +198,13 @@ tape('tests', (test) => {
         },
         get: (layer, opts) => {
           return {
-            error: (message) => {
-              errorMessages.push(message);
+            error: (message, additional) => {
+              t.equals(message, 'PIP server failed: "this is a resolver error"');
+              t.deepEquals(additional, {
+                id: 'whosonfirst:placetype:2',
+                lat: 13.131313,
+                lon: 31.313131
+              });
             },
             info: (message) => {}
           };
@@ -208,11 +215,6 @@ tape('tests', (test) => {
 
     test_stream(input, lookupStream, (err, actual) => {
       t.deepEquals(actual, expected, 'only error-free records should pass through');
-      t.deepEquals(errorMessages, [
-        'id:whosonfirst:placetype:2|' +
-        'lat:13.131313|' +
-        'lon:31.313131|' +
-        'PIP server failed: "this is a resolver error"']);
       t.end();
     });
 

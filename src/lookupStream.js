@@ -33,14 +33,11 @@ function createPipResolverStream(pipResolver) {
     pipResolver.lookup(doc.getCentroid(), getAdminLayers(doc.getLayer()), (err, result) => {
       if (err) {
         // if there's an error, just log it and move on
-        const parts = [
-          `id:${doc.getGid()}`,
-          `lat:${doc.getCentroid().lat}`,
-          `lon:${doc.getCentroid().lon}`,
-          `PIP server failed: ${(err.message || JSON.stringify(err))}`
-        ];
-
-        logger.error(parts.join('|'));
+        logger.error(`PIP server failed: ${(err.message || JSON.stringify(err))}`, {
+          id: doc.getGid(),
+          lat: doc.getCentroid().lat,
+          lon: doc.getCentroid().lon
+        });
         // don't pass the unmodified doc along
         return callback();
       }
