@@ -13,18 +13,18 @@ official user documentation is [here](https://mapzen.com/documentation/search/).
 
 When collecting data for use in a [geocoder](https://en.wikipedia.org/wiki/Geocoding),
 it's obviously important to know which city, country, etc each record belongs
-to. Collectively we call these fields the admin heirarchy.
+to. Collectively we call these fields the admin hierarchy.
 
 Not every data source contains this information, and even those that do don't
 always have it consistently. So, for Pelias we actually ignore _all_ admin
-heirarchy information from individual records, and generate it ourselves from
+hierarchy information from individual records, and generate it ourselves from
 the polygon data in [Who's on First](http://whosonfirst.mapzen.com/). This
 process is called admin lookup.
 
 ### How does admin lookup work?
 
 Admin lookup is essentially [reverse geocoding](https://en.wikipedia.org/wiki/Reverse_geocoding):
-given the latitude and longitude of a point, populate the admin heiarchy by
+given the latitude and longitude of a point, populate the admin hierarchy by
 finding all the polygons for countries, cities, neighborhoods, and other admin
 fields that contain the point.
 
