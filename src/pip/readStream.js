@@ -3,6 +3,7 @@ const whosonfirst = require('pelias-whosonfirst');
 const extractFields = require('./components/extractFields');
 const simplifyGeometry = require('./components/simplifyGeometry');
 const filterOutUnimportantRecords = require('./components/filterOutUnimportantRecords');
+const filterOutPointRecords = require('./components/filterOutPointRecords');
 
 /**
  * This function loads a WOF metadata file, CSV parses it, extracts fields,
@@ -23,6 +24,7 @@ function readData(datapath, layer, localizedAdminNames, callback) {
     .pipe(whosonfirst.loadJSON(datapath, false))
     .pipe(whosonfirst.recordHasIdAndProperties())
     .pipe(whosonfirst.isActiveRecord())
+    .pipe(filterOutPointRecords.create())
     .pipe(filterOutUnimportantRecords.create())
     .pipe(extractFields.create(localizedAdminNames))
     .pipe(simplifyGeometry.create())
