@@ -33,9 +33,8 @@ var defaultLayers = [
 ];
 
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
-  if (_.isEmpty(layers)) {
-    layers = defaultLayers;
-  }
+  // take the intersection to keep order in decreasing granularity
+  layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
   // load all workers
   async.forEach(function (layer, done) {
@@ -57,7 +56,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
             // so that if any layers are manually disabled for development
             // everything still works. this also means invalid layers
             // are silently ignored
-            search_layers = _.intersection(search_layers, layers);
+            search_layers = _.intersection(layers, search_layers);
           }
 
           var id = requestCount;
