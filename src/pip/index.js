@@ -19,17 +19,17 @@ var workers = {};
 
 var responseQueue = {};
 
-var defaultLayers = module.exports.defaultLayers = [
-  'borough', // 5
-  'county', // 18166
-  'country', // 232
-  'dependency', // 39
-  'localadmin', // 106880
-  'locality', // 160372
-  'macrocounty', // 350
-  'macroregion', // 82
-  'neighbourhood', // 62936
-  'region' // 4698
+var defaultLayers = [
+  'neighbourhood',
+  'borough',
+  'locality',
+  'localadmin',
+  'county',
+  'macrocounty',
+  'macroregion',
+  'region',
+  'dependency',
+  'country'
 ];
 
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
