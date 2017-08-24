@@ -85,7 +85,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
           search_layers.forEach(function(layer) {
             searchWorker(id, workers[layer], {latitude: latitude, longitude: longitude});
           });
-          
+
         }
       });
     }
@@ -125,14 +125,6 @@ function searchWorker(id, worker, coords) {
     type: 'search',
     id: id,
     coords: coords
-  });
-}
-
-function lookupCountryById(id, countryId) {
-  workers.country.send({
-    type: 'lookupById',
-    id: id,
-    countryId: countryId
   });
 }
 
