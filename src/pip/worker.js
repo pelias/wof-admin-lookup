@@ -24,7 +24,6 @@ function messageHandler( msg ) {
   switch (msg.type) {
     case 'load'   : return handleLoadMsg(msg);
     case 'search' : return handleSearch(msg);
-    case 'lookupById': return handleLookupById(msg);
     default       : logger.error('Unknown message:', msg);
   }
 }
@@ -43,14 +42,6 @@ function handleLoadMsg(msg) {
   readStream(msg.datapath, msg.layer, msg.localizedAdminNames, function(features) {
     context.featureCollection.features = features;
     context.adminLookup = new PolygonLookup( context.featureCollection );
-
-    // load countries up into an object keyed on id
-    if ('country' === context.layer) {
-      context.byId = features.reduce(function(cumulative, feature) {
-        cumulative[feature.properties.Id] = feature.properties;
-        return cumulative;
-      }, {});
-    }
 
     process.send( {
       type: 'loaded',
@@ -79,21 +70,4 @@ function search( latLon ){
   var poly = context.adminLookup.search( latLon.longitude, latLon.latitude );
 
   return (poly === undefined) ? {} : poly.properties;
-}
-
-function handleLookupById(msg) {
-  process.send({
-    layer: context.layer,
-    type: 'results',
-    id: msg.id,
-    results: lookupById(msg.countryId)
-  });
-}
-
-// return a country layer or an empty object (country not found)
-// only process if this is the country worker
-function lookupById(id) {
-  if ('country' === context.layer) {
-    return context.byId[id] || {};
-  }
 }
