@@ -7,19 +7,19 @@
 
 'use strict';
 
-var path = require('path');
-var childProcess = require( 'child_process' );
-var logger = require( 'pelias-logger' ).get( 'wof-pip-service:master' );
-var async = require('async');
-var _ = require('lodash');
+const path = require('path');
+const childProcess = require( 'child_process' );
+const logger = require( 'pelias-logger' ).get( 'wof-pip-service:master' );
+const async = require('async');
+const _ = require('lodash');
 
-var requestCount = 0;
+let requestCount = 0;
 // worker processes keyed on layer
-var workers = {};
+const workers = {};
 
-var responseQueue = {};
+const responseQueue = {};
 
-var defaultLayers = [
+const defaultLayers = [
   'neighbourhood',
   'borough',
   'locality',
@@ -59,15 +59,14 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
             search_layers = _.intersection(layers, search_layers);
           }
 
-          var id = requestCount;
-          requestCount++;
+          const id = requestCount++;
 
           if (search_layers.length === 0) {
             return responseCallback(null, []);
           }
 
           if (responseQueue.hasOwnProperty(id)) {
-            var msg = `Tried to create responseQueue item with id ${id} that is already present`;
+            const msg = `Tried to create responseQueue item with id ${id} that is already present`;
             logger.error(msg);
             return responseCallback(null, []);
           }
@@ -98,7 +97,7 @@ function killAllWorkers() {
 }
 
 function startWorker(datapath, layer, localizedAdminNames, callback) {
-  var worker = childProcess.fork(path.join(__dirname, 'worker'));
+  const worker = childProcess.fork(path.join(__dirname, 'worker'));
 
   worker.on('message', function (msg) {
     if (msg.type === 'loaded') {
