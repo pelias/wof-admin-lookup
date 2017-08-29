@@ -8,6 +8,7 @@ var logger = require( 'pelias-logger').get('admin-lookup:worker');
 var PolygonLookup = require('polygon-lookup');
 
 var readStream = require('./readStream');
+const fs = require('fs');
 
 var context = {
   adminLookup: null,// This worker's `PolygonLookup`.
@@ -39,14 +40,23 @@ function handleLoadMsg(msg) {
   process.title = context.layer;
   context.startTime = Date.now();
 
-  readStream(msg.datapath, msg.layer, msg.localizedAdminNames, function(features) {
+  readStream(msg.datapath, msg.layer, msg.localizedAdminNames, (features) => {
+    const data = features.reduce((acc, feature) => {
+      acc[feature.properties.Id] = feature.properties;
+      feature.properties = {
+        Id: feature.properties.Id
+      };
+      return acc;
+    }, {});
+
+    fs.writeFileSync(`wof-${context.layer}-data.json`, JSON.stringify(data));
+
     context.featureCollection.features = features;
     context.adminLookup = new PolygonLookup( context.featureCollection );
 
     process.send( {
       type: 'loaded',
       layer: context.layer,
-      size: features.length,
       seconds: elapsedTime()
     });
 
@@ -55,6 +65,7 @@ function handleLoadMsg(msg) {
 }
 
 function handleSearch(msg) {
+  console.log(`${context.layer} received request for ${JSON.stringify(msg.coords)}`);
   process.send({
     layer: context.layer,
     type: 'results',

@@ -12,12 +12,14 @@ const childProcess = require( 'child_process' );
 const logger = require( 'pelias-logger' ).get( 'wof-pip-service:master' );
 const async = require('async');
 const _ = require('lodash');
+const fs = require('fs');
 
 let requestCount = 0;
 // worker processes keyed on layer
 const workers = {};
 
 const responseQueue = {};
+const wofData = {};
 
 const defaultLayers = [
   'neighbourhood',
@@ -29,7 +31,9 @@ const defaultLayers = [
   'macroregion',
   'region',
   'dependency',
-  'country'
+  'country',
+  'marinearea',
+  'ocean'
 ];
 
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
@@ -37,7 +41,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
   // load all workers
-  async.forEach(function (layer, done) {
+  async.forEach(layers, (layer, done) => {
       startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
         workers[layer] = worker;
         done();
@@ -75,14 +79,16 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
           responseQueue[id] = {
             results: [],
             latLon: {latitude: latitude, longitude: longitude},
-            search_layers: search_layers,
-            numberOfLayersCalled: 0,
+            // copy of layers to search
+            search_layers: search_layers.slice(),
             responseCallback: responseCallback
           };
 
-          search_layers.forEach(function(layer) {
-            searchWorker(id, workers[layer], {latitude: latitude, longitude: longitude});
-          });
+          // call the worker for the first layer
+          searchWorker(
+            id,
+            workers[responseQueue[id].search_layers.shift()],
+            responseQueue[id].latLon);
 
         }
       });
@@ -99,9 +105,14 @@ function killAllWorkers() {
 function startWorker(datapath, layer, localizedAdminNames, callback) {
   const worker = childProcess.fork(path.join(__dirname, 'worker'));
 
-  worker.on('message', function (msg) {
+  worker.on('message', msg => {
     if (msg.type === 'loaded') {
-      logger.info(`${msg.layer} worker loaded ${msg.size} features in ${msg.seconds} seconds`);
+      const layerSpecificWofData = JSON.parse(fs.readFileSync(`wof-${layer}-data.json`));
+      fs.unlinkSync(`wof-${layer}-data.json`);
+
+      logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
+
+      _.assign(wofData, layerSpecificWofData);
       callback(null, worker);
     }
 
@@ -134,24 +145,34 @@ function handleResults(msg) {
     return;
   }
 
-  if (!_.isEmpty(msg.results) ) {
-    responseQueue[msg.id].results.push(msg.results);
+  // console.log(JSON.stringify(msg.results));
+
+  // first, handle the case where there was a miss
+  if (_.isEmpty(msg.results)) {
+    if (!_.isEmpty(responseQueue[msg.id].search_layers)) {
+      // if there are no results, then call the next layer but only if there are more layer to call
+      searchWorker(msg.id, workers[responseQueue[msg.id].search_layers.shift()], responseQueue[msg.id].latLon);
+    } else {
+      // no layers left to search, so return an empty array
+      responseQueue[msg.id].responseCallback(null, []);
+    }
+
+  } else {
+    // there was a hit, so find the hierachy and assemble all the pieces
+    const hierarchy = wofData[msg.results.Id].Hierarchy;
+
+    if (!_.isEmpty(hierarchy)) {
+      const results = _.compact(_.values(hierarchy[0]).map(id => wofData[id]));
+
+      responseQueue[msg.id].responseCallback(null, results);
+
+    } else {
+      // some records like oceans and marine areas don't have hierarchies, so use the raw WOF record
+      responseQueue[msg.id].responseCallback(null, [wofData[msg.results.Id]]);
+
+    }
+
+    delete responseQueue[msg.id];
   }
-  responseQueue[msg.id].numberOfLayersCalled++;
 
-  // early exit if we're still waiting on layers to return
-  if (!allLayersHaveBeenCalled(responseQueue[msg.id])) {
-    return;
-  }
-
-  // all info has been gathered, so return
-  responseQueue[msg.id].responseCallback(null, responseQueue[msg.id].results);
-  delete responseQueue[msg.id];
-
-}
-
-// helper to determine if all requested layers have been called
-// need to check `>=` since country is initially excluded but counted when the worker returns
-function allLayersHaveBeenCalled(q) {
-  return q.numberOfLayersCalled >= q.search_layers.length;
 }
