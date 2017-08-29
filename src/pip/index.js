@@ -113,6 +113,7 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
 
       logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
 
+      // add all layer-specific WOF data to the big WOF data
       _.assign(wofData, layerSpecificWofData);
       callback(null, worker);
     }
