@@ -41,6 +41,8 @@ function handleLoadMsg(msg) {
   context.startTime = Date.now();
 
   readStream(msg.datapath, msg.layer, msg.localizedAdminNames, (features) => {
+    // find all the properties of all features and write them to a file
+    // at the same time, limit the feature.properties to just Id since it's all that's needed in the worker
     const data = features.reduce((acc, feature) => {
       acc[feature.properties.Id] = feature.properties;
       feature.properties = {
