@@ -38,6 +38,7 @@ const defaultLayers = [
 
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
   // take the intersection to keep order in decreasing granularity
+  // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
   // load all workers
