@@ -64,11 +64,11 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
             search_layers = _.intersection(layers, search_layers);
           }
 
-          const id = requestCount++;
-
           if (search_layers.length === 0) {
             return responseCallback(null, []);
           }
+
+          const id = requestCount++;
 
           if (responseQueue.hasOwnProperty(id)) {
             const msg = `Tried to create responseQueue item with id ${id} that is already present`;
