@@ -78,7 +78,6 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
           // bookkeeping object that tracks the progress of the request
           responseQueue[id] = {
-            results: [],
             latLon: {latitude: latitude, longitude: longitude},
             // copy of layers to search
             search_layers: search_layers.slice(),
