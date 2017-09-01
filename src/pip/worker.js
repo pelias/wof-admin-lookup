@@ -46,7 +46,7 @@ function handleLoadMsg(msg) {
     const data = features.reduce((acc, feature) => {
       acc[feature.properties.Id] = feature.properties;
       feature.properties = {
-        Id: feature.properties.Id
+        Hierarchy: feature.properties.Hierarchy
       };
       return acc;
     }, {});
@@ -67,7 +67,7 @@ function handleLoadMsg(msg) {
 }
 
 function handleSearch(msg) {
-  console.log(`${context.layer} received request for ${JSON.stringify(msg.coords)}`);
+  // console.log(`${context.layer} received request for ${JSON.stringify(msg.coords)}`);
   process.send({
     layer: context.layer,
     type: 'results',

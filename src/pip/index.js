@@ -160,18 +160,9 @@ function handleResults(msg) {
 
   } else {
     // there was a hit, so find the hierachy and assemble all the pieces
-    const hierarchy = wofData[msg.results.Id].Hierarchy;
+    const results = _.compact(msg.results.Hierarchy[0].map(id => wofData[id]));
 
-    if (!_.isEmpty(hierarchy)) {
-      const results = _.compact(_.values(hierarchy[0]).map(id => wofData[id]));
-
-      responseQueue[msg.id].responseCallback(null, results);
-
-    } else {
-      // some records like oceans and marine areas don't have hierarchies, so use the raw WOF record
-      responseQueue[msg.id].responseCallback(null, [wofData[msg.results.Id]]);
-
-    }
+    responseQueue[msg.id].responseCallback(null, results);
 
     delete responseQueue[msg.id];
   }
