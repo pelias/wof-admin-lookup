@@ -139,14 +139,10 @@ function searchWorker(id, worker, coords) {
 }
 
 function handleResults(msg) {
-  // logger.info('RESULTS:', JSON.stringify(msg, null, 2));
-
   if (!responseQueue.hasOwnProperty(msg.id)) {
     logger.error(`tried to handle results for missing id ${msg.id}`);
     return;
   }
-
-  // console.log(JSON.stringify(msg.results));
 
   // first, handle the case where there was a miss
   if (_.isEmpty(msg.results)) {
