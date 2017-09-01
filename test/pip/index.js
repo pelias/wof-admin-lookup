@@ -1,0 +1,457 @@
+const tape = require('tape');
+const path = require('path');
+const temp = require('temp');
+const fs = require('fs');
+const EOL = require('os').EOL;
+const _ = require('lodash');
+
+const pip = require('../../src/pip/index');
+
+tape('PiP tests', (test) => {
+  test.test('empty array should be returned when search_layers is empty even if lat/lon is in a polygon', t => {
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta files with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
+
+      // setup a neighbourhood WOF record
+      const neighbourhood_record = {
+        id: 123,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer1_id: 123,
+              layer2_id: 456
+            }
+          ],
+          'wof:id': 123,
+          'wof:name': 'neighbourhood name',
+          'wof:placetype': 'neighbourhood'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write it to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), JSON.stringify(neighbourhood_record));
+
+      const service = pip.create(temp_dir, ['neighbourhood'], false, (err, o) => {
+        // do a lookup that specifies empty layers
+        o.lookup(0.5, 0.5, [], (err, results) => {
+          t.deepEquals(results, [], 'no results should have been returned');
+          // must be explicitly ended or the test hangs
+          o.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+  test.test('requested lat/lon inside a polygon should return that record\'s hierarchy', t => {
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta files with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a neighbourhood WOF record
+      const neighbourhood_record = {
+        id: 123,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer1_id: 123,
+              layer2_id: 456
+            }
+          ],
+          'wof:id': 123,
+          'wof:name': 'neighbourhood name',
+          'wof:placetype': 'neighbourhood'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // setup a borough WOF record that doesn't contain the lookup point to
+      // show that hierarchy is used to establish the response
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '3,3,4,4',
+          'geom:latitude': 3.5,
+          'geom:longitude': 3.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [3,3],[3,4],[4,4],[4,3],[3,3]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), JSON.stringify(neighbourhood_record));
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      const service = pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, o) => {
+        o.lookup(1.5, 1.5, undefined, (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 123,
+              Name: 'neighbourhood name',
+              Placetype: 'neighbourhood',
+              Centroid: {
+                lat: 1.5,
+                lon: 1.5
+              },
+              BoundingBox: '1,1,2,2',
+              Hierarchy: [ [ 123, 456 ] ]
+            },
+            {
+              Id: 456,
+              Name: 'borough name',
+              Placetype: 'borough',
+              Centroid: {
+                lat: 3.5,
+                lon: 3.5
+              },
+              BoundingBox: '3,3,4,4',
+              Hierarchy: [ [ 456 ] ]
+            }
+          ]);
+          // must be explicitly ended or the test hangs
+          o.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+  test.test('first layer not containing the point should fallback to other layers', t => {
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta files with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a neighbourhood WOF record
+      const neighbourhood_record = {
+        id: 123,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer1_id: 123,
+              layer2_id: 456
+            }
+          ],
+          'wof:id': 123,
+          'wof:name': 'neighbourhood name',
+          'wof:placetype': 'neighbourhood'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // setup a borough WOF record that doesn't contain the lookup point to
+      // show that hierarchy is used to establish the response
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '3,3,4,4',
+          'geom:latitude': 3.5,
+          'geom:longitude': 3.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [3,3],[3,4],[4,4],[4,3],[3,3]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), JSON.stringify(neighbourhood_record));
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      const service = pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, o) => {
+        o.lookup(3.5, 3.5, undefined, (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 456,
+              Name: 'borough name',
+              Placetype: 'borough',
+              Centroid: {
+                lat: 3.5,
+                lon: 3.5
+              },
+              BoundingBox: '3,3,4,4',
+              Hierarchy: [ [ 456 ] ]
+            }
+          ]);
+          // must be explicitly ended or the test hangs
+          o.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+  test.test('no layer containing the point should return an empty array', t => {
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta file with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a neighbourhood WOF record
+      const neighbourhood_record = {
+        id: 123,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer1_id: 123,
+              layer2_id: 456
+            }
+          ],
+          'wof:id': 123,
+          'wof:name': 'neighbourhood name',
+          'wof:placetype': 'neighbourhood'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // setup a borough WOF record that doesn't contain the lookup point
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '3,3,4,4',
+          'geom:latitude': 3.5,
+          'geom:longitude': 3.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [3,3],[3,4],[4,4],[4,3],[3,3]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), JSON.stringify(neighbourhood_record));
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, service) => {
+        service.lookup(10, 10, undefined, (err, results) => {
+          t.deepEquals(results, []);
+          // must be explicitly ended or the test hangs
+          service.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+  test.test('explicit layers should skip unincluded layers', t => {
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta file with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a neighbourhood WOF record
+      // this has the same geometry as the borough record to show that it will be skipped
+      const neighbourhood_record = {
+        id: 123,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer1_id: 123
+            }
+          ],
+          'wof:id': 123,
+          'wof:name': 'neighbourhood name',
+          'wof:placetype': 'neighbourhood'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // setup a borough WOF record that's the exact same geometry as neighbourhood
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer2_id: 456
+            }
+          ],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), JSON.stringify(neighbourhood_record));
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, service) => {
+        service.lookup(1.5, 1.5, ['borough'], (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 456,
+              Name: 'borough name',
+              Placetype: 'borough',
+              Centroid: {
+                lat: 1.5,
+                lon: 1.5
+              },
+              BoundingBox: '1,1,2,2',
+              Hierarchy: [ [ 456 ] ]
+            }
+          ]);
+          // must be explicitly ended or the test hangs
+          service.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+});
