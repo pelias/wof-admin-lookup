@@ -4,10 +4,11 @@ const temp = require('temp');
 const fs = require('fs');
 const EOL = require('os').EOL;
 const _ = require('lodash');
+const proxyquire = require('proxyquire').noCallThru();
 
 const pip = require('../../src/pip/index');
 
-tape('PiP tests', (test) => {
+tape('PiP tests', test => {
   test.test('empty array should be returned when search_layers is empty even if lat/lon is in a polygon', t => {
     temp.mkdir('tmp_wof_data', (err, temp_dir) => {
       fs.mkdirSync(path.join(temp_dir, 'data'));
@@ -447,6 +448,135 @@ tape('PiP tests', (test) => {
           service.end();
           t.end();
         });
+
+      });
+
+    });
+
+  });
+
+  test.test('only layers specified by create should be loaded and should not be checked', t => {
+    const logger = require('pelias-mock-logger')();
+
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta file with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        'this is not a valid WOF meta file');
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a borough WOF record that's the exact same geometry as neighbourhood
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              layer2_id: 456
+            }
+          ],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), 'this isn\'t JSON');
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      const pip = proxyquire('../../src/pip/index', {
+        'pelias-logger': logger
+      });
+
+      // load only the neighbourhood layer
+      pip.create(temp_dir, ['borough'], false, (err, service) => {
+        t.notOk(logger.isInfoMessage(/neighbourhood worker loaded .+/));
+        t.ok(logger.isInfoMessage(/borough worker loaded 1 features in \d+\.\d+ seconds/));
+
+        // but request both neighbourhood and borough layers
+        service.lookup(1.5, 1.5, ['neighbourhood', 'borough'], (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 456,
+              Name: 'borough name',
+              Placetype: 'borough',
+              Centroid: {
+                lat: 1.5,
+                lon: 1.5
+              },
+              BoundingBox: '1,1,2,2',
+              Hierarchy: [ [ 456 ] ]
+            }
+          ]);
+          // must be explicitly ended or the test hangs
+          service.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+  test.test('no layers specified for create should load all layers', t => {
+    const logger = require('pelias-mock-logger')();
+
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta file with the minimum required fields
+      [
+        'neighbourhood', 'borough', 'locality', 'localadmin', 'county',
+        'macrocounty', 'region', 'macroregion', 'dependency', 'country',
+        'continent', 'marinearea', 'ocean'].forEach(layer => {
+          fs.writeFileSync(
+            path.join(temp_dir, 'meta', `wof-${layer}-latest.csv`), `id,name,path${EOL}`);
+        });
+
+      const pip = proxyquire('../../src/pip/index', {
+        'pelias-logger': logger
+      });
+
+      // don't specify layers so all are loaded
+      pip.create(temp_dir, undefined, false, (err, service) => {
+        t.ok(logger.isInfoMessage(/neighbourhood worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/borough worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/locality worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/localadmin worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/county worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/macrocounty worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/region worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/macroregion worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/dependency worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/country worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/continent worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/marinearea worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/ocean worker loaded 0 features in \d+\.\d+ seconds/));
+
+        t.equals(logger.getInfoMessages().pop(), 'PIP Service Loading Completed!!!');
+
+        service.end();
+        t.end();
 
       });
 
