@@ -569,9 +569,9 @@ tape('PiP tests', test => {
         t.ok(logger.isInfoMessage(/macroregion worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/dependency worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/country worker loaded 0 features in \d+\.\d+ seconds/));
-        // t.ok(logger.isInfoMessage(/continent worker loaded 0 features in \d+\.\d+ seconds/));
-        // t.ok(logger.isInfoMessage(/marinearea worker loaded 0 features in \d+\.\d+ seconds/));
-        // t.ok(logger.isInfoMessage(/ocean worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/continent worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/marinearea worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/ocean worker loaded 0 features in \d+\.\d+ seconds/));
 
         t.equals(logger.getInfoMessages().pop(), 'PIP Service Loading Completed!!!');
 
