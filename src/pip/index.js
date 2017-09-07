@@ -106,7 +106,6 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
       const layerSpecificWofData = JSON.parse(fs.readFileSync(`wof-${layer}-data.json`));
-      fs.unlinkSync(`wof-${layer}-data.json`);
 
       logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
 
