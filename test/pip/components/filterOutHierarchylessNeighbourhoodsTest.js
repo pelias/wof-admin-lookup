@@ -100,7 +100,7 @@ tape('neighbourhood tests', test => {
 
     test_stream(input, filter, (err, actual) => {
       t.deepEquals(actual, [], 'should have returned true');
-      t.ok(logger.isDebugMessage('wof id 17 is neighbourhood with empty hierarchy'));
+      t.ok(logger.isDebugMessage('skipping 17: neighbourhood with empty hierarchy'));
       t.end();
     });
 
@@ -125,7 +125,7 @@ tape('neighbourhood tests', test => {
 
     test_stream(input, filter, (err, actual) => {
       t.deepEquals(actual, [], 'should have returned true');
-      t.ok(logger.isDebugMessage('wof id 17 is neighbourhood with empty hierarchy'));
+      t.ok(logger.isDebugMessage('skipping 17: neighbourhood with empty hierarchy'));
       t.end();
     });
 

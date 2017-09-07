@@ -15,7 +15,7 @@ module.exports.create = function create() {
       'wof:placetype': placetype => placetype === 'neighbourhood',
       'wof:hierarchy': hierarchy => _.isEmpty(hierarchy)
     })) {
-      logger.debug(`wof id ${wofData.properties['wof:id']} is neighbourhood with empty hierarchy`);
+      logger.debug(`skipping ${wofData.properties['wof:id']}: neighbourhood with empty hierarchy`);
       return false;
     }
 
