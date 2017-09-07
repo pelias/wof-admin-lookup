@@ -31,10 +31,10 @@ const defaultLayers = [
   'macroregion',
   'region',
   'dependency',
-  'country'/*,
+  'country',
   'continent',
   'marinearea',
-  'ocean'*/
+  'ocean'
 ];
 
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
@@ -85,11 +85,8 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
             responseCallback: responseCallback
           };
 
-          // call the worker for the first layer
-          searchWorker(
-            id,
-            workers[responseQueue[id].search_layers.shift()],
-            responseQueue[id].latLon);
+          // start the chain of worker calls
+          searchWorker(id);
 
         }
       });
@@ -131,11 +128,13 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
   });
 }
 
-function searchWorker(id, worker, coords) {
+function searchWorker(id) {
+  const worker = workers[responseQueue[id].search_layers.shift()];
+
   worker.send({
     type: 'search',
     id: id,
-    coords: coords
+    coords: responseQueue[id].latLon
   });
 }
 
@@ -149,7 +148,7 @@ function handleResults(msg) {
   if (_.isEmpty(msg.results)) {
     if (!_.isEmpty(responseQueue[msg.id].search_layers)) {
       // if there are no results, then call the next layer but only if there are more layer to call
-      searchWorker(msg.id, workers[responseQueue[msg.id].search_layers.shift()], responseQueue[msg.id].latLon);
+      searchWorker(msg.id);
     } else {
       // no layers left to search, so return an empty array
       responseQueue[msg.id].responseCallback(null, []);
