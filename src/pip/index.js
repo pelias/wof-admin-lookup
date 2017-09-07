@@ -31,10 +31,10 @@ const defaultLayers = [
   'macroregion',
   'region',
   'dependency',
-  'country',
+  'country'/*,
   'continent',
   'marinearea',
-  'ocean'
+  'ocean'*/
 ];
 
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
