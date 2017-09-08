@@ -1,46 +1,39 @@
+'use strict';
+
 /**
- * A worker processes intended to be launched by the `./master.js` module.
+ * A worker processes intended to be launched by the `./index.js` module.
  * Loads one polygon layer into memory, builds a `PolygonLookup` for it, and
  * then returns intersection results for `search` queries.
  */
 
-var logger = require( 'pelias-logger').get('admin-lookup:worker');
-var PolygonLookup = require('polygon-lookup');
+const logger = require( 'pelias-logger').get('admin-lookup:worker');
+const PolygonLookup = require('polygon-lookup');
 
-var readStream = require('./readStream');
+const readStream = require('./readStream');
 const fs = require('fs');
+const path = require('path');
+const temp = require('temp').track();
 
-var context = {
-  adminLookup: null,// This worker's `PolygonLookup`.
-  layer: '', // The name of this layer (eg, 'country', 'neighborhood').
-  featureCollection: {
-    features: []
-  }
+const layer = process.title = process.argv[2];
+const datapath = process.argv[3];
+const localizedAdminNames = process.argv[4];
+const startTime = Date.now();
+
+const results = {
+  calls: 0,
+  hits: 0,
+  misses: 0
 };
 
-/**
- * Respond to messages from the parent process
- */
-function messageHandler( msg ) {
-  switch (msg.type) {
-    case 'load'   : return handleLoadMsg(msg);
-    case 'search' : return handleSearch(msg);
-    default       : logger.error('Unknown message:', msg);
-  }
-}
+let adminLookup;
 
-process.on( 'message', messageHandler );
+process.on('SIGTERM', () => {
+  logger.info(`${layer} worker process exiting, stats: ${JSON.stringify(results)}`);
+  process.exit(0);
+});
 
-function elapsedTime() {
-  return ((Date.now() - context.startTime)/1000);
-}
-
-function handleLoadMsg(msg) {
-  context.layer = msg.layer;
-  process.title = context.layer;
-  context.startTime = Date.now();
-
-  readStream(msg.datapath, msg.layer, msg.localizedAdminNames, (features) => {
+readStream(datapath, layer, localizedAdminNames, (features) => {
+  temp.mkdir('wof_cache', (err, temp_dir) => {
     // find all the properties of all features and write them to a file
     // at the same time, limit the feature.properties to just Id since it's all that's needed in the worker
     const data = features.reduce((acc, feature) => {
@@ -51,26 +44,37 @@ function handleLoadMsg(msg) {
       return acc;
     }, {});
 
-    fs.writeFileSync(`wof-${context.layer}-data.json`, JSON.stringify(data));
+    adminLookup = new PolygonLookup( { features: features } );
 
-    context.featureCollection.features = features;
-    context.adminLookup = new PolygonLookup( context.featureCollection );
+    const file = path.join(temp_dir, `wof-${layer}-data.json`);
 
-    process.send( {
-      type: 'loaded',
-      layer: context.layer,
-      seconds: elapsedTime()
+    fs.writeFile(file, JSON.stringify(data), err => {
+      // respond to messages from the parent process
+      process.on('message', msg => {
+        switch (msg.type) {
+          case 'search' : return handleSearch(msg);
+          default       : logger.error('Unknown message:', msg);
+        }
+      });
+
+      // alert the master thread that this worker has been loaded and is ready for requests
+      process.send( {
+        type: 'loaded',
+        layer: layer,
+        file: file,
+        seconds: ((Date.now() - startTime)/1000)
+      });
+
     });
 
   });
 
-}
+});
 
 function handleSearch(msg) {
-  // console.log(`${context.layer} received request for ${JSON.stringify(msg.coords)}`);
   process.send({
-    layer: context.layer,
     type: 'results',
+    layer: layer,
     id: msg.id,
     results: search( msg.coords )
   });
@@ -80,7 +84,14 @@ function handleSearch(msg) {
  * Search `adminLookup` for `latLon`.
  */
 function search( latLon ){
-  var poly = context.adminLookup.search( latLon.longitude, latLon.latitude );
+  const poly = adminLookup.search( latLon.longitude, latLon.latitude );
+
+  results.calls++;
+  if (poly) {
+    results.hits++;
+  } else {
+    results.misses++;
+  }
 
   return (poly === undefined) ? {} : poly.properties;
 }

@@ -42,6 +42,8 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
+  logger.info(`starting with layers ${layers}`);
+
   // load all workers
   async.forEach(layers, (layer, done) => {
       startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
@@ -95,36 +97,33 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 };
 
 function killAllWorkers() {
-  Object.keys(workers).forEach(function (layer) {
-    workers[layer].kill();
-  });
+  _.values(workers).forEach(worker => worker.kill());
 }
 
 function startWorker(datapath, layer, localizedAdminNames, callback) {
-  const worker = childProcess.fork(path.join(__dirname, 'worker'));
+  const worker = childProcess.fork(path.join(__dirname, 'worker'), [layer, datapath, localizedAdminNames]);
 
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
-      const layerSpecificWofData = JSON.parse(fs.readFileSync(`wof-${layer}-data.json`));
+      // read the WOF cache for this layer and add to the big ball o' WOF
+      fs.readFile(msg.file, (err, data) => {
+        const layerSpecificWofData = JSON.parse(data);
 
-      logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
+        logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
 
-      // add all layer-specific WOF data to the big WOF data
-      _.assign(wofData, layerSpecificWofData);
-      callback(null, worker);
-    }
+        // add all layer-specific WOF data to the big WOF data
+        _.assign(wofData, layerSpecificWofData);
+        callback(null, worker);
 
-    if (msg.type === 'results') {
+      });
+
+    } else if (msg.type === 'results') {
+      // a worker responded with results, so process
       handleResults(msg);
     }
+
   });
 
-  worker.send({
-    type: 'load',
-    layer: layer,
-    datapath: datapath,
-    localizedAdminNames: localizedAdminNames
-  });
 }
 
 function searchWorker(id) {

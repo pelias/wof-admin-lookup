@@ -1,7 +1,7 @@
 const tape = require('tape');
 const childProcess = require( 'child_process' );
 const path = require('path');
-const temp = require('temp');
+const temp = require('temp').track();
 const fs = require('fs');
 const EOL = require('os').EOL;
 const _ = require('lodash');
@@ -50,7 +50,7 @@ tape('worker tests', (test) => {
       fs.writeFileSync(path.join(temp_dir, 'data', 'record.geojson'), JSON.stringify(record));
 
       // for a worker process
-      const worker = childProcess.fork(path.join('src', 'pip', 'worker'));
+      const worker = childProcess.fork(path.join('src', 'pip', 'worker'), ['test_layer', temp_dir]);
 
       worker.on('message', msg => {
         // when a 'loaded' message is received, send a 'search' request for a lat/lon
@@ -58,9 +58,9 @@ tape('worker tests', (test) => {
           t.equals(msg.layer, 'test_layer', 'the worker should respond with its requested layer');
           t.ok(_.isFinite(msg.seconds), 'time to load should have been returned');
 
-          t.ok(fs.existsSync('wof-test_layer-data.json'), 'the wof data should be written to file');
+          t.ok(fs.existsSync(msg.file), 'the wof data should be written to file');
           // remove it since it's unimportant for our tests
-          fs.unlinkSync('wof-test_layer-data.json');
+          // fs.unlinkSync('wof-test_layer-data.json');
 
           // in this case the lat/lon is inside the known polygon
           worker.send({
@@ -90,13 +90,6 @@ tape('worker tests', (test) => {
 
         }
 
-      });
-
-      // tell the worker to load the data
-      worker.send({
-        type: 'load',
-        layer: 'test_layer',
-        datapath: temp_dir
       });
 
     });
@@ -145,7 +138,7 @@ tape('worker tests', (test) => {
       // and write it to file
       fs.writeFileSync(path.join(temp_dir, 'data', 'record.geojson'), JSON.stringify(record));
 
-      const worker = childProcess.fork(path.join('src', 'pip', 'worker'));
+      const worker = childProcess.fork(path.join('src', 'pip', 'worker'), ['test_layer', temp_dir]);
 
       worker.on('message', msg => {
         // when a 'loaded' message is received, send a 'search' request for a lat/lon
@@ -153,9 +146,9 @@ tape('worker tests', (test) => {
           t.equals(msg.layer, 'test_layer', 'the worker should respond with its requested layer');
           t.ok(_.isFinite(msg.seconds), 'time to load should have been returned');
 
-          t.ok(fs.existsSync('wof-test_layer-data.json'), 'the wof data should be written to file');
+          t.ok(fs.existsSync(msg.file), 'the wof data should be written to file');
           // remove it since it's unimportant for our tests
-          fs.unlinkSync('wof-test_layer-data.json');
+          // fs.unlinkSync('wof-test_layer-data.json');
 
           // in this case the lat/lon is outside of any known polygons
           worker.send({
@@ -183,13 +176,6 @@ tape('worker tests', (test) => {
 
         }
 
-      });
-
-      // tell the worker to load the data
-      worker.send({
-        type: 'load',
-        layer: 'test_layer',
-        datapath: temp_dir
       });
 
     });
