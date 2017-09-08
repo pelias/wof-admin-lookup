@@ -30,8 +30,8 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer1_id: 123,
-              layer2_id: 456
+              locality_id: 123,
+              region_id: 456
             }
           ],
           'wof:id': 123,
@@ -90,8 +90,8 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer1_id: 123,
-              layer2_id: 456
+              locality_id: 123,
+              region_id: 456
             }
           ],
           'wof:id': 123,
@@ -198,8 +198,8 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer1_id: 123,
-              layer2_id: 456
+              locality_id: 123,
+              region_id: 456
             }
           ],
           'wof:id': 123,
@@ -295,8 +295,8 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer1_id: 123,
-              layer2_id: 456
+              locality_id: 123,
+              region_id: 456
             }
           ],
           'wof:id': 123,
@@ -380,7 +380,8 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer1_id: 123
+              locality_id: 123,
+              region_id: 456
             }
           ],
           'wof:id': 123,
@@ -408,7 +409,7 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer2_id: 456
+              borough_id: 456
             }
           ],
           'wof:id': 456,
@@ -481,7 +482,8 @@ tape('PiP tests', test => {
           'mz:hierarchy_label': 1,
           'wof:hierarchy': [
             {
-              layer2_id: 456
+              locality_id: 123,
+              region_id: 456
             }
           ],
           'wof:id': 456,
@@ -523,7 +525,7 @@ tape('PiP tests', test => {
                 lon: 1.5
               },
               BoundingBox: '1,1,2,2',
-              Hierarchy: [ [ 456 ] ]
+              Hierarchy: [ [ 123, 456 ] ]
             }
           ]);
           // must be explicitly ended or the test hangs

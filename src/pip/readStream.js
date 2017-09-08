@@ -2,6 +2,7 @@ const sink = require('through2-sink');
 const whosonfirst = require('pelias-whosonfirst');
 const extractFields = require('./components/extractFields');
 const simplifyGeometry = require('./components/simplifyGeometry');
+const filterOutCitylessNeighbourhoods = require('./components/filterOutCitylessNeighbourhoods');
 const filterOutHierarchylessNeighbourhoods = require('./components/filterOutHierarchylessNeighbourhoods');
 const filterOutUnimportantRecords = require('./components/filterOutUnimportantRecords');
 const filterOutPointRecords = require('./components/filterOutPointRecords');
@@ -28,6 +29,7 @@ function readData(datapath, layer, localizedAdminNames, callback) {
     .pipe(filterOutPointRecords.create())
     .pipe(filterOutUnimportantRecords.create())
     .pipe(filterOutHierarchylessNeighbourhoods.create())
+    .pipe(filterOutCitylessNeighbourhoods.create())
     .pipe(extractFields.create(localizedAdminNames))
     .pipe(simplifyGeometry.create())
     .pipe(sink.obj((feature) => {
