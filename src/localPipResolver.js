@@ -2,6 +2,7 @@
 
 const logger = require('pelias-logger').get('wof-admin-lookup');
 const createPipService = require('./pip/index').create;
+const _ = require('lodash');
 
 /**
  * LocalPIPService class
@@ -9,10 +10,10 @@ const createPipService = require('./pip/index').create;
  * @param {object} [pipService] optional, primarily used for testing
  * @constructor
  */
-function LocalPipService(datapath) {
+function LocalPipService(datapath, layers) {
   const self = this;
 
-  createPipService(datapath, [], false, (err, service) => {
+  createPipService(datapath, _.defaultTo(layers, []), false, (err, service) => {
      self.pipService = service;
   });
 
@@ -82,6 +83,6 @@ LocalPipService.prototype.end = function end() {
  * @param {string} [datapath]
  * @returns {LocalPIPService}
  */
-module.exports = (datapath) => {
-  return new LocalPipService(datapath);
+module.exports = (datapath, layers) => {
+  return new LocalPipService(datapath, layers);
 };

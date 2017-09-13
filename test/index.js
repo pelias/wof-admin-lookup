@@ -56,8 +56,9 @@ tape('tests for main entry point', (test) => {
 
         }
       },
-      './src/localPipResolver': (datapath) => {
+      './src/localPipResolver': (datapath, layers) => {
         t.equals(datapath, 'this is the wof datapath');
+        t.deepEquals(layers, ['layer 1', 'layer 2']);
         return 'this is the resolver';
       },
       './src/lookupStream': (resolver, maxConcurrentReqs) => {
@@ -71,7 +72,7 @@ tape('tests for main entry point', (test) => {
 
       }
 
-    }).create();
+    }).create(['layer 1', 'layer 2']);
 
     const input = [
       { field1: 'old value' }
