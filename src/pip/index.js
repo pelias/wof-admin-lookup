@@ -32,6 +32,7 @@ const defaultLayers = [
   'region',
   'dependency',
   'country',
+  'empire',
   'continent',
   'marinearea',
   'ocean'

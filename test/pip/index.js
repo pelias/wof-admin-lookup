@@ -549,7 +549,7 @@ tape('PiP tests', test => {
       // write out the WOF meta file with the minimum required fields
       [
         'neighbourhood', 'borough', 'locality', 'localadmin', 'county',
-        'macrocounty', 'region', 'macroregion', 'dependency', 'country',
+        'macrocounty', 'region', 'macroregion', 'dependency', 'country', 'empire',
         'continent', 'marinearea', 'ocean'].forEach(layer => {
           fs.writeFileSync(
             path.join(temp_dir, 'meta', `wof-${layer}-latest.csv`), `id,name,path${EOL}`);
@@ -571,6 +571,7 @@ tape('PiP tests', test => {
         t.ok(logger.isInfoMessage(/macroregion worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/dependency worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/country worker loaded 0 features in \d+\.\d+ seconds/));
+        t.ok(logger.isInfoMessage(/empire worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/continent worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/marinearea worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/ocean worker loaded 0 features in \d+\.\d+ seconds/));
