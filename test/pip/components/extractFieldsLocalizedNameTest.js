@@ -22,14 +22,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = ['Russian name'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -57,14 +61,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = 'Russian name'; // <--- note that the name could be a single string
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -92,14 +100,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = ['Russian name'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -127,14 +139,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = ['Russian name'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -162,14 +178,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = ['Russian name'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -198,14 +218,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = ['Russian name'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -233,14 +257,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['name:rus_x_preferred'] = ['Russian name'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Russian name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -269,14 +297,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['wof:lang_x_official'] = ['rus'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Label name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -304,14 +336,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['wof:lang_x_official'] = ['rus'];
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,
@@ -338,14 +374,18 @@ tape('extractFields localized name tests', function(test) {
     input.properties['wof:label'] = '';
     input.properties['iso:country'] = 'RU';
     input.properties['wof:placetype'] = 'someplacetype';
-    input.properties['wof:hierarchy'] = 'Feature hierarchy';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12
+      }
+    ];
 
     var expected = {
       properties: {
         Id: 17,
         Name: 'Feature name',
         Placetype: 'someplacetype',
-        Hierarchy: 'Feature hierarchy',
+        Hierarchy: [ [ 12 ] ],
         Abbrev: undefined,
         Centroid: {
           lat: undefined,

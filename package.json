@@ -28,13 +28,14 @@
   "dependencies": {
     "async": "^2.1.4",
     "joi": "^11.0.1",
-    "lodash": "^4.6.0",
+    "lodash": "^4.17.4",
     "pelias-config": "2.12.1",
     "pelias-logger": "0.2.0",
     "pelias-parallel-stream": "0.1.0",
-    "pelias-whosonfirst": "2.19.10",
+    "pelias-whosonfirst": "2.20.0",
     "polygon-lookup": "^2.1.0",
     "simplify-js": "^1.2.1",
+    "temp": "^0.8.3",
     "through2": "^2.0.0",
     "through2-filter": "^2.0.0",
     "through2-map": "^3.0.0",
@@ -52,8 +53,7 @@
     "proxyquire": "^1.7.10",
     "semantic-release": "^8.0.0",
     "tap-dot": "^1.0.1",
-    "tape": "^4.2.2",
-    "temp": "^0.8.3"
+    "tape": "^4.2.2"
   },
   "pre-commit": [
     "lint",
