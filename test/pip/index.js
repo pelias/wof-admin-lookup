@@ -586,7 +586,7 @@ tape('PiP tests', test => {
     });
 
   });
-  
+
   test.test('layers missing metafiles should not load and skip lookup at those layers', t => {
     const logger = require('pelias-mock-logger')();
 
@@ -636,7 +636,7 @@ tape('PiP tests', test => {
 
       // initialize PiP with neighbourhood/locality (that don't exist) and borough (which does exist)
       pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, service) => {
-        t.deepEquals(logger.getWarnMessages(), [
+        t.deepEquals(logger.getErrorMessages(), [
           'unable to locate ' + path.join(temp_dir, 'meta', `wof-neighbourhood-latest.csv`)
         ]);
 

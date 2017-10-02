@@ -48,7 +48,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
     const filename = path.join(datapath, 'meta', `wof-${layer}-latest.csv`);
 
     if (!fs.existsSync(filename)) {
-      logger.warn(`unable to locate ${filename}`);
+      logger.error(`unable to locate ${filename}`);
       return false;
     }
     return true;
