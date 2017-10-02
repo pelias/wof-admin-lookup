@@ -43,6 +43,17 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
+  // further refine the layers by filtering out layers for which there is not metafile
+  layers = layers.filter(layer => {
+    const filename = path.join(datapath, 'meta', `wof-${layer}-latest.csv`);
+
+    if (!fs.existsSync(filename)) {
+      logger.warn(`unable to locate ${filename}`);
+      return false;
+    }
+    return true;
+  });
+
   logger.info(`starting with layers ${layers}`);
 
   // load all workers

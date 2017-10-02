@@ -586,5 +586,83 @@ tape('PiP tests', test => {
     });
 
   });
+  
+  test.test('layers missing metafiles should not load and skip lookup at those layers', t => {
+    const logger = require('pelias-mock-logger')();
+
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta file with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a borough WOF record that's the exact same geometry as neighbourhood
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,2,2',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              borough_id: 456
+            }
+          ],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[2,1],[2,2],[1,2],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      const pip = proxyquire('../../src/pip/index', {
+        'pelias-logger': logger
+      });
+
+      // initialize PiP with neighbourhood/locality (that don't exist) and borough (which does exist)
+      pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, service) => {
+        t.deepEquals(logger.getWarnMessages(), [
+          'unable to locate ' + path.join(temp_dir, 'meta', `wof-neighbourhood-latest.csv`)
+        ]);
+
+        service.lookup(1.5, 1.5, undefined, (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 456,
+              Name: 'borough name',
+              Placetype: 'borough',
+              Centroid: {
+                lat: 1.5,
+                lon: 1.5
+              },
+              BoundingBox: '1,1,2,2',
+              Hierarchy: [ [ 456 ] ]
+            }
+          ]);
+          // must be explicitly ended or the test hangs
+          service.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
 
 });
