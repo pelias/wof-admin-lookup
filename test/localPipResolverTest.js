@@ -131,4 +131,18 @@ tape('tests', (test) => {
 
   });
 
+  test.test('createPipService returning error should throw exception', t => {
+    const resolver = proxyquire('../src/localPipResolver', {
+      './pip/index': {
+        create: (datapath, layers, localizedAdminNames, callback) => {
+          callback('this is a localPipResolver error');
+        }
+      }
+    });
+
+    t.throws(resolver.bind('this is the datapath', ['layer 1', 'layer 2']), /this is a localPipResolver error/);
+    t.end();
+
+  });
+
 });

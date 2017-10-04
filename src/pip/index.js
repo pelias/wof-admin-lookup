@@ -13,6 +13,7 @@ const logger = require( 'pelias-logger' ).get( 'wof-pip-service:master' );
 const async = require('async');
 const _ = require('lodash');
 const fs = require('fs');
+const missingMetafilesAreFatal = require('pelias-config').generate(require('../../schema')).imports.adminLookup.missingMetafilesAreFatal;
 
 let requestCount = 0;
 // worker processes keyed on layer
@@ -42,6 +43,26 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // take the intersection to keep order in decreasing granularity
   // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
+
+  // keep track of any missing metafiles for later reporting and error conditions
+  const missingMetafiles = [];
+
+  // further refine the layers by filtering out layers for which there is no metafile
+  layers = layers.filter(layer => {
+    const filename = path.join(datapath, 'meta', `wof-${layer}-latest.csv`);
+
+    if (!fs.existsSync(filename)) {
+      logger.error(`unable to locate ${filename}`);
+      missingMetafiles.push(`wof-${layer}-latest.csv`);
+      return false;
+    }
+    return true;
+  });
+
+  // if there are missing metafiles and this is fatal, then return an error
+  if (!_.isEmpty(missingMetafiles) && missingMetafilesAreFatal) {
+    return callback(`unable to locate meta files in ${path.join(datapath, 'meta')}: ${missingMetafiles.join(', ')}`);
+  }
 
   logger.info(`starting with layers ${layers}`);
 

@@ -6,7 +6,8 @@ module.exports = Joi.object().keys({
     adminLookup: Joi.object().keys({
       // default maxConcurrentReqs to # of cpus/cores * 10
       maxConcurrentReqs: Joi.number().integer().default(cpus().length*10),
-      enabled: Joi.boolean().default(true)
+      enabled: Joi.boolean().default(true),
+      missingMetafilesAreFatal: Joi.boolean().default(false)
     }).unknown(true),
     whosonfirst: Joi.object().keys({
       datapath: Joi.string()
