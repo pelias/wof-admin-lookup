@@ -14,7 +14,10 @@ function LocalPipService(datapath, layers) {
   const self = this;
 
   createPipService(datapath, _.defaultTo(layers, []), false, (err, service) => {
-     self.pipService = service;
+    if (err) {
+      throw err;
+    }
+    self.pipService = service;
   });
 
 }
