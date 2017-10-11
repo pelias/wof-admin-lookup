@@ -32,7 +32,7 @@
     "pelias-config": "2.12.1",
     "pelias-logger": "0.2.0",
     "pelias-parallel-stream": "0.1.0",
-    "pelias-whosonfirst": "2.20.0",
+    "pelias-whosonfirst": "2.20.1",
     "polygon-lookup": "^2.1.0",
     "simplify-js": "^1.2.1",
     "temp": "^0.8.3",
