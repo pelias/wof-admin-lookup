@@ -9,8 +9,8 @@ const os = require('os');
 module.exports = {
   create: (layers) => {
     if (peliasConfig.imports.adminLookup.enabled) {
-      if (_.has(peliasConfig, 'services.pip.url')) {
-        const resolver = require('./src/remotePipResolver')(peliasConfig.services.pip.url);
+      if (_.has(peliasConfig, 'imports.services.pip.url')) {
+        const resolver = require('./src/remotePipResolver')(peliasConfig.imports.services.pip.url);
 
         return require('./src/lookupStream')(resolver,
           peliasConfig.imports.adminLookup.maxConcurrentReqs);

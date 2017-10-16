@@ -29,7 +29,7 @@ tape('test configuration scenarios', (test) =>  {
 
   });
 
-  test.test('missing imports.whosonfirst and imports.services.pip should throw error', (t) =>  {
+  test.test('if imports.whosonfirst is missing services.pip should be required', (t) =>  {
     const config = {
       imports: {}
     };
@@ -361,7 +361,7 @@ tape('test configuration scenarios', (test) =>  {
     const config = {
       imports: {
         services: { interpolation: {} }
-      }
+      },
     };
 
     const result = Joi.validate(config, schema);
@@ -376,7 +376,7 @@ tape('test configuration scenarios', (test) =>  {
     const config = {
       imports: {
         services: { pip: {} }
-      }
+      },
     };
 
     const result = Joi.validate(config, schema);
@@ -394,7 +394,7 @@ tape('test configuration scenarios', (test) =>  {
           services: {
             pip: { url: value }
           }
-        }
+        },
       };
 
       const result = Joi.validate(config, schema);
