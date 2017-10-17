@@ -48,7 +48,7 @@
     "jshint": "^2.8.0",
     "npm-check": "git://github.com/orangejulius/npm-check.git#disable-update-check",
     "pelias-mock-logger": "^1.0.1",
-    "pelias-model": "5.1.0",
+    "pelias-model": "5.2.0",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^1.7.10",
     "semantic-release": "^8.0.0",
