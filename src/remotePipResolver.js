@@ -3,6 +3,10 @@
 const logger = require('pelias-logger').get('wof-admin-lookup');
 const _ = require('lodash');
 const request = require('request');
+const http = require('http');
+
+// Use one HTTP agent with HTTP keep alive enabled across all requests
+const keepAliveAgent = new http.Agent({ keepAlive: true });
 
 /**
  * RemotePIPService class
@@ -24,6 +28,7 @@ RemotePIPService.prototype.lookup = function lookup(centroid, _, callback) {
   const options = {
     uri: `${this.pipServiceURL}/${centroid.lon}/${centroid.lat}`,
     method: 'GET',
+    agent: keepAliveAgent,
     json: true
   };
 
