@@ -11,6 +11,11 @@ module.exports = Joi.object().keys({
     }).unknown(true),
     whosonfirst: Joi.object().keys({
       datapath: Joi.string()
-    }).requiredKeys('datapath').unknown(true)
-  }).requiredKeys('whosonfirst').unknown(true)
+    }).requiredKeys('datapath').unknown(true),
+    services: Joi.object().keys({
+      pip: Joi.object().keys({
+        url: Joi.string()
+      }).requiredKeys('url').unknown(true)
+    }).unknown(true)
+  }).or('whosonfirst', 'services.pip').unknown(true)
 }).requiredKeys('imports').unknown(true);

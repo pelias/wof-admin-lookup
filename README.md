@@ -28,12 +28,39 @@ given the latitude and longitude of a point, populate the admin hierarchy by
 finding all the polygons for countries, cities, neighborhoods, and other admin
 fields that contain the point.
 
-### Are there any downsides?
+### Usage
+
+There are two possible ways to retrieve admin hierarchy: using remote 
+[pip service](https://github.com/pelias/pip-service) or load data into memory. It's recommended to use
+remote service in all cases (see downsides section bellow).
+ 
+### Configuration
+
+Who's On First Admin Lookup module recognizes the following top-level properties in your pelias.json config file:
+
+```
+{
+  "imports": {
+    "adminLookup": {
+      "enabled": true
+    },
+    // NOT RECOMMENDED: getting data from folder
+    "whosonfirst": {
+      "datapath": "/path/to/wof-data"
+    },
+    "services": {
+      // getting data from remote pip service
+      "pip": {
+        "url": "https://mypipservice.com"
+      }
+    }
+  }
+}
+```
+
+### What are there downsides of storing data in memory?
 
 There are two: admin lookup slows down the process of loading data into Pelias,
 and it takes quite a bit of memory. Based on the current amount of data in Who's
 on First, count on using at least 4 or 5 GB of memory _just_ for admin lookup
 while importing.
-
-For these reasons, each of our importers has a configuration option to enable or
-disable admin lookup.
