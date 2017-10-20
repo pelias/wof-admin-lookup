@@ -24,6 +24,7 @@ RemotePIPService.prototype.lookup = function lookup(centroid, _, callback) {
   const options = {
     uri: `${this.pipServiceURL}/${centroid.lon}/${centroid.lat}`,
     method: 'GET',
+    forever: true, // use keepalive
     json: true
   };
 
