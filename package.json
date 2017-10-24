@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "async": "^2.1.4",
-    "joi": "^12.0.0",
+    "joi": "^13.0.1",
     "lodash": "^4.17.4",
     "pelias-config": "2.13.0",
     "pelias-logger": "0.3.0",
