@@ -1,8 +1,23 @@
 'use strict';
 
+const url = require('url');
 const logger = require('pelias-logger').get('wof-admin-lookup');
 const _ = require('lodash');
 const request = require('request');
+
+const ServiceConfiguration = require('pelias-microservice-wrapper').ServiceConfiguration;
+const service = require('pelias-microservice-wrapper').service;
+
+class PointInPolygon extends ServiceConfiguration {
+  constructor(o) {
+    super('pip', o);
+  }
+
+  getUrl(params) {
+    // use resolve to eliminate possibility of duplicate /'s in URL
+    return url.resolve(this.baseUrl, `${params.lon}/${params.lat}`);
+  }
+}
 
 /**
  * RemotePIPService class
@@ -11,7 +26,7 @@ const request = require('request');
  * @constructor
  */
 function RemotePIPService(url) {
-  this.pipServiceURL = url;
+  this.pipService = service(new PointInPolygon({ url: url, timeout: 5000, retries: 5}));
 }
 
 /**
@@ -21,23 +36,13 @@ function RemotePIPService(url) {
  */
 RemotePIPService.prototype.lookup = function lookup(centroid, _, callback) {
 
-  const options = {
-    uri: `${this.pipServiceURL}/${centroid.lon}/${centroid.lat}`,
-    method: 'GET',
-    forever: true, // use keepalive
-    json: true
-  };
-
-  request(options, (err, response, results) => {
+  this.pipService(centroid, (err, response, results) => {
     if (err) {
+      console.log(err);
       return callback(err.message);
     }
 
-    if (response.statusCode !== 200) {
-      return callback(results);
-    }
-
-    callback(null, results);
+    callback(null, response);
   });
 };
 
