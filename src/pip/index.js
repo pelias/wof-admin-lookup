@@ -146,7 +146,7 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
 
   });
 
-  worker.on('close', (code, signal)  => {
+  worker.on('exit', (code, signal)  => {
     // the `.killed` property will be true if a kill signal was previously sent to this worker
     // in that case, the worker shutting down is not an error
     // if the worker _was not_ told to shut down, it's a big problem
