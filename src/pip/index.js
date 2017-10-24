@@ -69,7 +69,6 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // load all workers
   async.forEach(layers, (layer, done) => {
       startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
-        workers[layer] = worker;
         done();
       });
     },
@@ -124,6 +123,7 @@ function killAllWorkers() {
 
 function startWorker(datapath, layer, localizedAdminNames, callback) {
   const worker = childProcess.fork(path.join(__dirname, 'worker'), [layer, datapath, localizedAdminNames]);
+  workers[layer] = worker;
 
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
