@@ -49,7 +49,7 @@
     "jshint": "^2.8.0",
     "nock": "^9.0.22",
     "npm-check": "git://github.com/orangejulius/npm-check.git#disable-update-check",
-    "pelias-mock-logger": "1.0.1",
+    "pelias-mock-logger": "1.2.0",
     "pelias-model": "5.2.0",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^1.7.10",
