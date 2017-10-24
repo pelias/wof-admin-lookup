@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "async": "^2.1.4",
-    "joi": "^12.0.0",
+    "joi": "^13.0.1",
     "lodash": "^4.17.4",
     "pelias-config": "2.13.0",
     "pelias-logger": "0.3.0",
@@ -49,7 +49,7 @@
     "jshint": "^2.8.0",
     "nock": "^9.0.22",
     "npm-check": "git://github.com/orangejulius/npm-check.git#disable-update-check",
-    "pelias-mock-logger": "1.0.1",
+    "pelias-mock-logger": "1.2.0",
     "pelias-model": "5.2.0",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^1.7.10",
