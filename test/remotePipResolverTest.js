@@ -5,13 +5,18 @@ const nock = require('nock');
 
 const remotePipResolver = require('../src/remotePipResolver');
 
+// helper var for enumberating all the layer parameters sent in all queries
+const layers = [ 'neighbourhood', 'borough', 'locality', 'localadmin', 'county',
+                        'macrocounty', 'region', 'macroregion', 'dependency', 'country' ].join(',');
+
 tape('tests', (test) => {
 
   test.test('proxying results from remote pip service', (t) => {
     t.plan(1);
 
     const scope = nock('http://pipservice.com')
-      .get('/21.212121/12.121212')
+      .get(`/21.212121/12.121212`)
+      .query({ layers: layers })
       .reply(200, {
         country: [{
           id: 'country id 1',
@@ -81,11 +86,12 @@ tape('tests', (test) => {
 
     const scope = nock('http://pipservice.com')
       .get('/undefined/undefined')
+      .query({ layers: layers })
       .reply(400, 'Cannot parse input');
 
     // the callback used to process the response from the PiP service
     const lookupCallback = function(err, result) {
-      t.equals(err, 'http://pipservice.com/undefined/undefined returned status 400: Cannot parse input');
+      t.equals(err, `http://pipservice.com/undefined/undefined?layers=${layers} returned status 400: Cannot parse input`);
       scope.done();
       t.end();
 
