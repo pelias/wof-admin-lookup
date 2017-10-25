@@ -69,7 +69,6 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // load all workers
   async.forEach(layers, (layer, done) => {
       startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
-        workers[layer] = worker;
         done();
       });
     },
@@ -124,6 +123,7 @@ function killAllWorkers() {
 
 function startWorker(datapath, layer, localizedAdminNames, callback) {
   const worker = childProcess.fork(path.join(__dirname, 'worker'), [layer, datapath, localizedAdminNames]);
+  workers[layer] = worker;
 
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
@@ -146,6 +146,30 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
 
   });
 
+  worker.on('exit', (code, signal)  => {
+    // the `.killed` property will be true if a kill signal was previously sent to this worker
+    // in that case, the worker shutting down is not an error
+    // if the worker _was not_ told to shut down, it's a big problem
+    if (!worker.killed) {
+      logger.error(`${layer} worker exited unexpectedly with code ${code}, signal ${signal}`);
+      killAllWorkers();
+
+      // throw after a slight delay so that the exception message is the last thing on the screen
+      setTimeout(() => {
+        throw `${layer} worker shutdown unexpectedly`;
+      }, 300);
+    }
+  });
+
+  // a worker emitting the `error` event is always bad
+  worker.on('error', (err)  => {
+    killAllWorkers();
+
+    // throw after a slight delay so that the exception message is the last thing on the screen
+    setTimeout(() => {
+      throw `${layer} worker connection errored: ${err}`;
+    }, 300);
+  });
 }
 
 function searchWorker(id) {
