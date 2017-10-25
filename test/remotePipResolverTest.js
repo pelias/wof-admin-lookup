@@ -85,7 +85,7 @@ tape('tests', (test) => {
 
     // the callback used to process the response from the PiP service
     const lookupCallback = function(err, result) {
-      t.equals(err, 'Cannot parse input');
+      t.equals(err, 'http://pipservice.com/undefined/undefined returned status 400: Cannot parse input');
       scope.done();
       t.end();
 
