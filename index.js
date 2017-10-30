@@ -16,15 +16,12 @@ function create(layers) {
 }
 
 function resolver(layers) {
-  let resolver;
   if (_.has(peliasConfig, 'imports.services.pip.url')) {
-    resolver = require('./src/remotePipResolver')(peliasConfig.imports.services.pip.url);
+    return require('./src/remotePipResolver')(peliasConfig.imports.services.pip.url);
   } else {
     const datapath = peliasConfig.imports.whosonfirst.datapath;
-    resolver = require('./src/localPipResolver')(datapath, layers);
+    return require('./src/localPipResolver')(datapath, layers);
   }
-
-  return resolver;
 }
 
 module.exports = {
