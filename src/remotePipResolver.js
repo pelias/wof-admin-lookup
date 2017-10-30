@@ -13,8 +13,8 @@ const PointInPolygon = require('./service/PointInPolygon');
  * @param {string} [url] url to pip service
  * @constructor
  */
-function RemotePIPService(url) {
-  this.pipService = service(new PointInPolygon({ url: url, timeout: 5000, retries: 5}));
+function RemotePIPService(configuration) {
+  this.pipService = service(new PointInPolygon(configuration));
 }
 
 /**
@@ -39,6 +39,6 @@ RemotePIPService.prototype.lookup = function lookup(centroid, _, callback) {
  * @param {string} [url]
  * @returns {RemotePIPService}
  */
-module.exports = (url) => {
-  return new RemotePIPService(url);
+module.exports = (configuration) => {
+  return new RemotePIPService(configuration);
 };

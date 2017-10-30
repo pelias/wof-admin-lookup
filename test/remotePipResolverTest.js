@@ -75,7 +75,7 @@ tape('tests', (test) => {
 
     };
 
-    const resolver = remotePipResolver('http://pipservice.com');
+    const resolver = remotePipResolver({ url: 'http://pipservice.com' });
 
     resolver.lookup({ lat: 12.121212, lon: 21.212121}, [], lookupCallback);
 
@@ -97,7 +97,7 @@ tape('tests', (test) => {
 
     };
 
-    const resolver = remotePipResolver('http://pipservice.com');
+    const resolver = remotePipResolver({ url: 'http://pipservice.com'});
 
     resolver.lookup({}, [], lookupCallback);
 

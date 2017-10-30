@@ -129,6 +129,39 @@ tape('tests for main entry point', (test) => {
 
   });
 
+  test.test('adminLookup.enabled with PIP service config section should return HTTP PIP', (t) => {
+    const stream = proxyquire('../index', {
+      // the mock config
+      'pelias-config': {
+        generate: (schema) => {
+          return {
+            imports: {
+              adminLookup: {
+                enabled: true
+              },
+              services: {
+                pip: {
+                  url: 'this is the url'
+                }
+              }
+            }
+          };
+        }
+      },
+      './src/localPipResolver': (datapath) => {
+        throw Error('localPipResolver should not have been called');
+      },
+      './src/remotePipResolver': (config) => {
+        t.equals(config.url, 'this is the url');
+        return 'this is the resolver';
+      },
+      './src/lookupStream': (resolver) => {
+        t.equals(resolver, 'this is the resolver');
+        t.end();
+      }
+    }).create();
+  });
+
   test.test('resolver() should return the resolver regardless of adminLookup value', (t) => {
     [true, false].forEach((enabled) => {
       const resolver = proxyquire('../index', {
