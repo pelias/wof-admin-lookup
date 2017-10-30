@@ -114,8 +114,7 @@ tape('tests for main entry point', (test) => {
       },
       './src/lookupStream': (resolver, maxConcurrentReqs) => {
         throw Error('lookupStream should not have been called');
-      },
-
+      }
     }).create();
 
     const input = [
