@@ -9,19 +9,16 @@ const os = require('os');
 module.exports = {
   create: (layers) => {
     if (peliasConfig.imports.adminLookup.enabled) {
+      let resolver;
       if (_.has(peliasConfig, 'imports.services.pip.url')) {
-        const resolver = require('./src/remotePipResolver')(peliasConfig.imports.services.pip.url);
-
-        return require('./src/lookupStream')(resolver,
-          peliasConfig.imports.adminLookup.maxConcurrentReqs);
-
+        resolver = require('./src/remotePipResolver')(peliasConfig.imports.services.pip.url);
       } else {
         const datapath = peliasConfig.imports.whosonfirst.datapath;
-        const resolver = require('./src/localPipResolver')(datapath, layers);
-
-        return require('./src/lookupStream')(resolver,
-          peliasConfig.imports.adminLookup.maxConcurrentReqs);
+       resolver = require('./src/localPipResolver')(datapath, layers);
       }
+
+      return require('./src/lookupStream')(resolver,
+        peliasConfig.imports.adminLookup.maxConcurrentReqs);
     } else {
       return through.obj();
     }
