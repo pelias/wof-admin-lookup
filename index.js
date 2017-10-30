@@ -29,5 +29,4 @@ module.exports = {
       datapath || peliasConfig.imports.whosonfirst.datapath);
     return resolver;
   }
-
 };
