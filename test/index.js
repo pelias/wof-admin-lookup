@@ -150,15 +150,16 @@ tape('tests for main entry point', (test) => {
       './src/localPipResolver': (datapath) => {
         throw Error('localPipResolver should not have been called');
       },
-      './src/remotePipResolver': (config) => {
+      './src/remotePipResolver': (config, layers) => {
         t.equals(config.url, 'this is the url');
+        t.deepEquals(layers, ['layer 1', 'layer 2'], 'layers should be passed into resolver');
         return 'this is the resolver';
       },
       './src/lookupStream': (resolver) => {
         t.equals(resolver, 'this is the resolver');
         t.end();
       }
-    }).create();
+    }).create(['layer 1', 'layer 2']);
   });
 
   test.test('resolver() should return the resolver regardless of adminLookup value', (t) => {

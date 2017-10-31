@@ -13,8 +13,8 @@ const PointInPolygon = require('./service/PointInPolygon');
  * @param {string} [url] url to pip service
  * @constructor
  */
-function RemotePIPService(configuration) {
-  this.pipService = service(new PointInPolygon(configuration));
+function RemotePIPService(configuration, layers) {
+  this.pipService = service(new PointInPolygon(configuration, layers));
 }
 
 /**
