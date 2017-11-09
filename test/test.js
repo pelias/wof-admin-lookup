@@ -12,3 +12,4 @@ require ('./pip/components/filterOutUnimportantRecordsTest.js');
 require ('./pip/components/filterOutPointRecordsTest.js');
 require ('./pip/components/filterOutCitylessNeighbourhoodsTest.js');
 require ('./pip/components/filterOutHierarchylessNeighbourhoodsTest.js');
+require ('./service/PointInPolygon.js');

@@ -4,14 +4,17 @@ const logger = require('pelias-logger').get('wof-admin-lookup');
 const _ = require('lodash');
 const request = require('request');
 
+const service = require('pelias-microservice-wrapper').service;
+const PointInPolygon = require('./service/PointInPolygon');
+
 /**
  * RemotePIPService class
  *
  * @param {string} [url] url to pip service
  * @constructor
  */
-function RemotePIPService(url) {
-  this.pipServiceURL = url;
+function RemotePIPService(configuration, layers) {
+  this.pipService = service(new PointInPolygon(configuration, layers));
 }
 
 /**
@@ -21,23 +24,12 @@ function RemotePIPService(url) {
  */
 RemotePIPService.prototype.lookup = function lookup(centroid, _, callback) {
 
-  const options = {
-    uri: `${this.pipServiceURL}/${centroid.lon}/${centroid.lat}`,
-    method: 'GET',
-    forever: true, // use keepalive
-    json: true
-  };
-
-  request(options, (err, response, results) => {
+  this.pipService(centroid, (err, response, results) => {
     if (err) {
-      return callback(err.message);
+      return callback(err);
     }
 
-    if (response.statusCode !== 200) {
-      return callback(results);
-    }
-
-    callback(null, results);
+    callback(null, response);
   });
 };
 
@@ -47,6 +39,6 @@ RemotePIPService.prototype.lookup = function lookup(centroid, _, callback) {
  * @param {string} [url]
  * @returns {RemotePIPService}
  */
-module.exports = (url) => {
-  return new RemotePIPService(url);
+module.exports = (configuration) => {
+  return new RemotePIPService(configuration);
 };

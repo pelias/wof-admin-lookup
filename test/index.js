@@ -114,8 +114,7 @@ tape('tests for main entry point', (test) => {
       },
       './src/lookupStream': (resolver, maxConcurrentReqs) => {
         throw Error('lookupStream should not have been called');
-      },
-
+      }
     }).create();
 
     const input = [
@@ -127,6 +126,40 @@ tape('tests for main entry point', (test) => {
       t.end();
     });
 
+  });
+
+  test.test('adminLookup.enabled with PIP service config section should return HTTP PIP', (t) => {
+    const stream = proxyquire('../index', {
+      // the mock config
+      'pelias-config': {
+        generate: (schema) => {
+          return {
+            imports: {
+              adminLookup: {
+                enabled: true
+              },
+              services: {
+                pip: {
+                  url: 'this is the url'
+                }
+              }
+            }
+          };
+        }
+      },
+      './src/localPipResolver': (datapath) => {
+        throw Error('localPipResolver should not have been called');
+      },
+      './src/remotePipResolver': (config, layers) => {
+        t.equals(config.url, 'this is the url');
+        t.deepEquals(layers, ['layer 1', 'layer 2'], 'layers should be passed into resolver');
+        return 'this is the resolver';
+      },
+      './src/lookupStream': (resolver) => {
+        t.equals(resolver, 'this is the resolver');
+        t.end();
+      }
+    }).create(['layer 1', 'layer 2']);
   });
 
   test.test('resolver() should return the resolver regardless of adminLookup value', (t) => {
