@@ -199,4 +199,40 @@ tape('tests for main entry point', (test) => {
 
   });
 
+  test.test('localResolver function should return local resolver even if resolver would return a remote resolver', (t) => {
+    const resolver = proxyquire('../index', {
+      // verify the schema
+      './schema': 'this is the schema',
+      'pelias-config': {
+        generate: (schema) => {
+          t.equals(schema, 'this is the schema');
+
+          return {
+            imports: {
+              adminLookup: {
+                enabled: true,
+                maxConcurrentReqs: 21
+              },
+              whosonfirst: {
+                datapath: 'this is the wof datapath'
+              },
+              services: {
+                pip: {
+                  url: 'this is the url'
+                }
+              }
+            }
+          };
+
+        }
+      },
+      './src/localPipResolver': (datapath, layers) => {
+        t.equals(datapath, 'this is the wof datapath');
+        t.deepEquals(layers, ['layer 1', 'layer 2']);
+        return 'this is the resolver';
+      }
+    }).localResolver(['layer 1', 'layer 2']);
+    t.equal(resolver, 'this is the resolver');
+    t.end();
+  });
 });

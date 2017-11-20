@@ -19,12 +19,17 @@ function resolver(layers) {
   if (_.has(peliasConfig, 'imports.services.pip')) {
     return require('./src/remotePipResolver')(peliasConfig.imports.services.pip, layers);
   } else {
-    const datapath = peliasConfig.imports.whosonfirst.datapath;
-    return require('./src/localPipResolver')(datapath, layers);
+    return localResolver(layers);
   }
+}
+
+function localResolver(layers) {
+  const datapath = peliasConfig.imports.whosonfirst.datapath;
+  return require('./src/localPipResolver')(datapath, layers);
 }
 
 module.exports = {
   create: create,
-  resolver: resolver
+  resolver: resolver,
+  localResolver: localResolver
 };
