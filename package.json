@@ -31,7 +31,7 @@
     "pelias-logger": "0.4.1",
     "pelias-microservice-wrapper": "^1.2.1",
     "pelias-parallel-stream": "0.1.0",
-    "pelias-whosonfirst": "2.22.3",
+    "pelias-whosonfirst": "2.22.4",
     "polygon-lookup": "^2.1.0",
     "request": "^2.83.0",
     "simplify-js": "^1.2.1",
