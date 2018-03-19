@@ -196,6 +196,8 @@ function handleResults(msg) {
     } else {
       // no layers left to search, so return an empty array
       responseQueue[msg.id].responseCallback(null, []);
+
+      delete responseQueue[msg.id];
     }
 
   } else {
