@@ -636,7 +636,7 @@ tape('PiP tests', test => {
 
       // initialize PiP with neighbourhood/locality (that don't exist) and borough (which does exist)
       pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, service) => {
-        t.deepEquals(logger.getErrorMessages(), [
+        t.deepEquals(logger.getWarnMessages(), [
           'unable to locate ' + path.join(temp_dir, 'meta', `wof-neighbourhood-latest.csv`)
         ]);
 

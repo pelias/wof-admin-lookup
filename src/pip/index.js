@@ -52,7 +52,12 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
     const filename = path.join(datapath, 'meta', `wof-${layer}-latest.csv`);
 
     if (!fs.existsSync(filename)) {
-      logger.error(`unable to locate ${filename}`);
+      const message = `unable to locate ${filename}`;
+      if (missingMetafilesAreFatal) {
+        logger.error(message);
+      } else {
+        logger.warn(message);
+      }
       missingMetafiles.push(`wof-${layer}-latest.csv`);
       return false;
     }
