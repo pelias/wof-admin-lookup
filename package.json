@@ -61,5 +61,8 @@
     "test"
   ],
   "author": "mapzen",
-  "license": "MIT"
+  "license": "MIT",
+  "release": {
+    "success": []
+  }
 }
