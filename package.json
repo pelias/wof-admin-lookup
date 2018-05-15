@@ -3,7 +3,7 @@
   "version": "0.0.0-semantic-release",
   "description": "A fast, local, streaming Who's On First administrative hierarchy lookup.",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
   "main": "index.js",
   "scripts": {
