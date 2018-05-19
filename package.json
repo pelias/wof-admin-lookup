@@ -1,9 +1,9 @@
 {
   "name": "pelias-wof-admin-lookup",
-  "version": "0.0.0-semantic-release",
+  "version": "0.0.0-development",
   "description": "A fast, local, streaming Who's On First administrative hierarchy lookup.",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,7 @@
     "functional": "npm run testDependencyMode && npm run testLayerLookup && npm run testLayerLookupLocalizedNames",
     "lint": "jshint .",
     "validate": "npm ls",
-    "travis": "npm run check-dependencies && npm run test",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
-    "check-dependencies": "node_modules/.bin/npm-check --production"
+    "travis": "npm run test"
   },
   "repository": {
     "type": "git",
@@ -49,7 +47,6 @@
     "intercept-stdout": "^0.1.2",
     "jshint": "^2.8.0",
     "nock": "^9.0.22",
-    "npm-check": "git://github.com/orangejulius/npm-check.git#disable-update-check",
     "pelias-mock-logger": "1.2.0",
     "pelias-model": "5.3.2",
     "precommit-hook": "^3.0.0",
@@ -61,9 +58,11 @@
   "pre-commit": [
     "lint",
     "validate",
-    "test",
-    "check-dependencies"
+    "test"
   ],
   "author": "mapzen",
-  "license": "MIT"
+  "license": "MIT",
+  "release": {
+    "success": []
+  }
 }
