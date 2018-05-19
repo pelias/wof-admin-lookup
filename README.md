@@ -1,12 +1,11 @@
-# Who's On First Admin Lookup
+>This repository is part of the [Pelias](https://github.com/pelias/pelias)
+>project. Pelias is an open-source, open-data geocoder originally sponsored by
+>[Mapzen](https://www.mapzen.com/). Our official user documentation is
+>[here](https://github.com/pelias/documentation).
+
+# Pelias Who's On First Admin Lookup
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/pelias/wof-admin-lookup.svg)](https://greenkeeper.io/)
-
-This repository is part of the [Pelias](https://github.com/pelias/pelias)
-project. Pelias is an open-source, open-data geocoder built by
-[Mapzen](https://www.mapzen.com/) that also powers [Mapzen Search](https://mapzen.com/projects/search). Our
-official user documentation is [here](https://mapzen.com/documentation/search/).
-
 ![Travis CI Status](https://travis-ci.org/pelias/wof-admin-lookup.svg)
 
 ## Overview
