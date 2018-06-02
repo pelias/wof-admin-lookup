@@ -42,7 +42,7 @@
     "through2-sink": "^1.0.0"
   },
   "devDependencies": {
-    "deep-diff": "^0.3.4",
+    "deep-diff": "^1.0.0",
     "event-stream": "^3.3.2",
     "intercept-stdout": "^0.1.2",
     "jshint": "^2.8.0",
