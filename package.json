@@ -24,6 +24,7 @@
     "who's on first"
   ],
   "dependencies": {
+    "@turf/buffer": "^5.1.5",
     "async": "^2.1.4",
     "joi": "^13.1.2",
     "lodash": "^4.17.4",
