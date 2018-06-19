@@ -1,6 +1,7 @@
 const _ = require('lodash');
 const through2 = require('through2');
 const buffer = require('@turf/buffer');
+const meta = require('@turf/meta');
 const logger = require('pelias-logger').get('wof-pip-service:bufferPointRecords');
 const options = { units: 'degrees', steps: 64 };
 const defaultRadius = 0.02;
@@ -13,6 +14,14 @@ module.exports.create = function create( radius ) {
     if( wofData.geometry.type === 'Point' && isInUK(wofData) ){
       try {
         var buf = buffer( wofData.geometry, radius || defaultRadius, options );
+
+        // truncate coordinate precision
+        // https://github.com/Turfjs/turf/issues/357
+        meta.coordEach(buf.geometry, function (p) {
+          p[0] = Math.round(p[0] * 1e7) / 1e7;
+          p[1] = Math.round(p[1] * 1e7) / 1e7;
+        });
+
         wofData.geometry = buf.geometry;
       }
       catch( err ){
