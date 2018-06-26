@@ -44,7 +44,21 @@ module.exports.create = function(enableLocalizedNames) {
     // use different abbreviation field for country
     if (res.properties.Placetype === 'country') {
       res.properties.Abbrev = wofData.properties['wof:country_alpha3'];
-    } else {
+
+    // use different abbreviation field for postalcode
+    } else if (res.properties.Placetype === 'postalcode') {
+
+      // index a version of postcode which doesn't contain whitespace
+      if (typeof res.properties.Name === 'string') {
+        var sans_whitespace = res.properties.Name.replace(/\s/g, '');
+        if (sans_whitespace !== res.properties.Name) {
+          res.properties.Abbrev = sans_whitespace;
+        }
+      }
+    }
+
+    // abbreviations for all other placetypes
+    if (!res.properties.Abbrev) {
       res.properties.Abbrev = wofData.properties['wof:abbreviation'];
     }
 
