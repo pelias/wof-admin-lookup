@@ -360,4 +360,131 @@ tape('extractFields tests', function(test) {
 
   });
 
+  test.test('abbreviations: country records should prefer wof:country_alpha3', t => {
+    const input = {
+      properties: {
+        'wof:id': 17,
+        'wof:name': 'Feature name',
+        'wof:abbreviation': 'Feature abbreviation',
+        'wof:placetype': 'country',
+        'wof:country_alpha3': 'ABC',
+        'wof:hierarchy': [],
+        'geom:latitude': 12.121212,
+        'geom:longitude': 21.212121,
+        'geom:bbox': 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    const expected = {
+      properties: {
+        Id: 17,
+        Name: 'Feature name',
+        Abbrev: 'ABC',
+        Placetype: 'country',
+        Hierarchy: [
+          [ 17 ]
+        ],
+        Centroid: {
+          lat: 12.121212,
+          lon: 21.212121
+        },
+        BoundingBox: 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    const extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, (err, actual) => {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('abbreviations: postalcode records should prefer sans-whitespace name when name contains whitespace', t => {
+    const input = {
+      properties: {
+        'wof:id': 17,
+        'wof:name': 'E8 1DN',
+        'wof:abbreviation': 'Feature abbreviation',
+        'wof:placetype': 'postalcode',
+        'wof:hierarchy': [],
+        'geom:latitude': 12.121212,
+        'geom:longitude': 21.212121,
+        'geom:bbox': 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    const expected = {
+      properties: {
+        Id: 17,
+        Name: 'E8 1DN',
+        Abbrev: 'E81DN',
+        Placetype: 'postalcode',
+        Hierarchy: [
+          [ 17 ]
+        ],
+        Centroid: {
+          lat: 12.121212,
+          lon: 21.212121
+        },
+        BoundingBox: 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    const extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, (err, actual) => {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('abbreviations: postalcode records should use wof:abbreviation otherwise', t => {
+    const input = {
+      properties: {
+        'wof:id': 17,
+        'wof:name': 'E81DN',
+        'wof:abbreviation': 'Feature abbreviation',
+        'wof:placetype': 'postalcode',
+        'wof:hierarchy': [],
+        'geom:latitude': 12.121212,
+        'geom:longitude': 21.212121,
+        'geom:bbox': 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    const expected = {
+      properties: {
+        Id: 17,
+        Name: 'E81DN',
+        Abbrev: 'Feature abbreviation',
+        Placetype: 'postalcode',
+        Hierarchy: [
+          [ 17 ]
+        ],
+        Centroid: {
+          lat: 12.121212,
+          lon: 21.212121
+        },
+        BoundingBox: 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    const extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, (err, actual) => {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
 });
