@@ -1,7 +1,7 @@
 'use strict';
 
 const _ = require('lodash');
-const parallelStream = require('pelias-parallel-stream');
+const parallelTransform = require('parallel-transform');
 const peliasLogger = require( 'pelias-logger' );
 const getAdminLayers = require( './getAdminLayers' );
 
@@ -24,7 +24,7 @@ function hasAnyMultiples(result) {
 }
 
 function createPipResolverStream(pipResolver) {
-  return function (doc, enc, callback) {
+  return function (doc, callback) {
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
       return callback(null, doc);
@@ -103,6 +103,8 @@ module.exports = function(pipResolver, maxConcurrentReqs) {
   const pipResolverStream = createPipResolverStream(pipResolver);
   const end = createPipResolverEnd(pipResolver);
 
-  return parallelStream(maxConcurrentReqs || 1, pipResolverStream, end);
+  const stream = parallelTransform(maxConcurrentReqs || 1, pipResolverStream);
+  stream.on('finish', end);
 
+  return stream;
 };
