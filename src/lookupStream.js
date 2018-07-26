@@ -4,6 +4,7 @@ const _ = require('lodash');
 const parallelTransform = require('parallel-transform');
 const peliasLogger = require( 'pelias-logger' );
 const getAdminLayers = require( './getAdminLayers' );
+const usePostalCity = require( './usePostalCity' );
 
 //defaults to nowhere
 const optsArg = {
@@ -80,6 +81,9 @@ function createPipResolverStream(pipResolver) {
 
         }
       );
+
+      // prefer a 'postal city' locality when a valid postal code is available
+      usePostalCity( result, doc );
 
       callback(null, doc);
 
