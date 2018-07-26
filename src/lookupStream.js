@@ -4,6 +4,7 @@ const _ = require('lodash');
 const parallelTransform = require('parallel-transform');
 const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
 const getAdminLayers = require( './getAdminLayers' );
+const usePostalCity = require( './usePostalCity' );
 
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
@@ -68,6 +69,9 @@ function createPipResolverStream(pipResolver) {
 
         }
       );
+
+      // prefer a 'postal city' locality when a valid postal code is available
+      usePostalCity( result, doc );
 
       callback(null, doc);
 
