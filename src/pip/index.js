@@ -49,7 +49,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
   // further refine the layers by filtering out layers for which there is no metafile
   layers = layers.filter(layer => {
-    const filename = path.join(datapath, 'meta', `wof-${layer}-latest.csv`);
+    const filename = path.join(datapath, 'meta', `whosonfirst-data-${layer}-latest.csv`);
 
     if (!fs.existsSync(filename)) {
       const message = `unable to locate ${filename}`;
@@ -58,7 +58,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
       } else {
         logger.warn(message);
       }
-      missingMetafiles.push(`wof-${layer}-latest.csv`);
+      missingMetafiles.push(`whosonfirst-data-${layer}-latest.csv`);
       return false;
     }
     return true;
@@ -133,7 +133,7 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
       // read the WOF cache for this layer and add to the big ball o' WOF
-      fs.readFile(msg.file, (err, data) => {
+      fs.readFile(msg.file, (err, data) => {        
         const layerSpecificWofData = JSON.parse(data);
 
         logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);

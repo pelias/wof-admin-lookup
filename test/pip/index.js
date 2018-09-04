@@ -16,7 +16,7 @@ tape('PiP tests', test => {
 
       // write out the WOF meta files with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
         `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
 
       // setup a neighbourhood WOF record
@@ -73,10 +73,10 @@ tape('PiP tests', test => {
 
       // write out the WOF meta files with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
         `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a neighbourhood WOF record
@@ -181,10 +181,10 @@ tape('PiP tests', test => {
 
       // write out the WOF meta files with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
         `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a neighbourhood WOF record
@@ -278,10 +278,10 @@ tape('PiP tests', test => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
         `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a neighbourhood WOF record
@@ -362,10 +362,10 @@ tape('PiP tests', test => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
         `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a neighbourhood WOF record
@@ -465,10 +465,10 @@ tape('PiP tests', test => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-neighbourhood-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
         'this is not a valid WOF meta file');
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a borough WOF record that's the exact same geometry as neighbourhood
@@ -552,7 +552,7 @@ tape('PiP tests', test => {
         'macrocounty', 'region', 'macroregion', 'dependency', 'country', 'empire',
         'continent', 'marinearea', 'ocean'].forEach(layer => {
           fs.writeFileSync(
-            path.join(temp_dir, 'meta', `wof-${layer}-latest.csv`), `id,name,path${EOL}`);
+            path.join(temp_dir, 'meta', `whosonfirst-data-${layer}-latest.csv`), `id,name,path${EOL}`);
         });
 
       const pip = proxyquire('../../src/pip/index', {
@@ -596,7 +596,7 @@ tape('PiP tests', test => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a borough WOF record that's the exact same geometry as neighbourhood
@@ -637,7 +637,7 @@ tape('PiP tests', test => {
       // initialize PiP with neighbourhood/locality (that don't exist) and borough (which does exist)
       pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, service) => {
         t.deepEquals(logger.getWarnMessages(), [
-          'unable to locate ' + path.join(temp_dir, 'meta', `wof-neighbourhood-latest.csv`)
+          'unable to locate ' + path.join(temp_dir, 'meta', `whosonfirst-data-neighbourhood-latest.csv`)
         ]);
 
         service.lookup(1.5, 1.5, undefined, (err, results) => {
@@ -674,7 +674,7 @@ tape('PiP tests', test => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-borough-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
         `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
 
       // setup a borough WOF record that's the exact same geometry as neighbourhood
@@ -726,12 +726,12 @@ tape('PiP tests', test => {
       // initialize PiP with neighbourhood (that doesn't exist) and borough (which does exist)
       pip.create(temp_dir, ['neighbourhood', 'borough', 'locality'], false, (err, service) => {
         t.deepEquals(logger.getErrorMessages(), [
-          'unable to locate ' + path.join(temp_dir, 'meta', `wof-neighbourhood-latest.csv`),
-          'unable to locate ' + path.join(temp_dir, 'meta', `wof-locality-latest.csv`)
+          'unable to locate ' + path.join(temp_dir, 'meta', `whosonfirst-data-neighbourhood-latest.csv`),
+          'unable to locate ' + path.join(temp_dir, 'meta', `whosonfirst-data-locality-latest.csv`)
         ], 'should have an error message');
 
         t.deepEquals(err, `unable to locate meta files in ${path.join(temp_dir, 'meta')}` +
-          ': wof-neighbourhood-latest.csv, wof-locality-latest.csv');
+          ': whosonfirst-data-neighbourhood-latest.csv, whosonfirst-data-locality-latest.csv');
         t.notOk(service);
         t.end();
 

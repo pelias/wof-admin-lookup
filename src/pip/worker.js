@@ -46,7 +46,7 @@ readStream(datapath, layer, localizedAdminNames, (features) => {
 
     adminLookup = new PolygonLookup( { features: features } );
 
-    const file = path.join(temp_dir, `wof-${layer}-data.json`);
+    const file = path.join(temp_dir, `whosonfirst-data-${layer}-data.json`);
 
     fs.writeFile(file, JSON.stringify(data), err => {
       // respond to messages from the parent process
