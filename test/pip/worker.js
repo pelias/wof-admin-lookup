@@ -14,7 +14,7 @@ tape('worker tests', (test) => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-test_layer-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-test_layer-latest.csv'),
         `id,name,path${EOL}123,place name,record.geojson${EOL}`);
 
       // setup a WOF record
@@ -103,7 +103,7 @@ tape('worker tests', (test) => {
 
       // write out the WOF meta file with the minimum required fields
       fs.writeFileSync(
-        path.join(temp_dir, 'meta', 'wof-test_layer-latest.csv'),
+        path.join(temp_dir, 'meta', 'whosonfirst-data-test_layer-latest.csv'),
         `id,name,path${EOL}123,place name,record.geojson${EOL}`);
 
       // setup a WOF record
