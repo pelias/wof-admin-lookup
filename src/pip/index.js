@@ -49,7 +49,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
   // further refine the layers by filtering out layers for which there is no metafile
   layers = layers.filter(layer => {
-    const filename = path.join(datapath, 'meta', `wof-${layer}-latest.csv`);
+    const filename = path.join(datapath, 'meta', `whosonfirst-data-${layer}-latest.csv`);
 
     if (!fs.existsSync(filename)) {
       const message = `unable to locate ${filename}`;
@@ -58,7 +58,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
       } else {
         logger.warn(message);
       }
-      missingMetafiles.push(`wof-${layer}-latest.csv`);
+      missingMetafiles.push(`whosonfirst-data-${layer}-latest.csv`);
       return false;
     }
     return true;
