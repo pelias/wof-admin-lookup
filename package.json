@@ -51,7 +51,6 @@
     "pelias-model": "^5.5.2",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^2.0.0",
-    "semantic-release": "^15.0.0",
     "tap-dot": "^2.0.0",
     "tape": "^4.2.2"
   },
