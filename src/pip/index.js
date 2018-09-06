@@ -133,7 +133,7 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
       // read the WOF cache for this layer and add to the big ball o' WOF
-      fs.readFile(msg.file, (err, data) => {
+      fs.readFile(msg.file, (err, data) => {        
         const layerSpecificWofData = JSON.parse(data);
 
         logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
