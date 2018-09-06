@@ -255,16 +255,31 @@ tape('tests', (test) => {
   });
 
   test.test('call end to stop child processes', (t) => {
+    // create a stubbed resolver that implements all required methods
     const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        setTimeout(callback, 0, null, []);
+      },
       end: function () {
         t.assert(true, 'called end function');
         t.equals(resolver, this, 'this is set to the correct object');
         t.end();
       }
     };
+    // create one document to pass through the stream
+    const inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 });
 
-    stream(resolver).end();
+    // create the stream to test
+    const tested_stream = stream(resolver);
 
+    // consume the stream so that all data is processed
+    tested_stream.on('data', function() {});
+
+    // write document to stream
+    tested_stream.write(inputDoc, null, function() {});
+
+    // call end to trigger cleanup
+    tested_stream.end();
   });
-
 });

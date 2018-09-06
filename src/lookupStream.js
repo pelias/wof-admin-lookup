@@ -104,7 +104,7 @@ module.exports = function(pipResolver, maxConcurrentReqs) {
   const end = createPipResolverEnd(pipResolver);
 
   const stream = parallelTransform(maxConcurrentReqs || 1, pipResolverStream);
-  stream.on('finish', end);
+  stream.on('end', end);
 
   return stream;
 };
