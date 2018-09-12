@@ -2,20 +2,8 @@
 
 const _ = require('lodash');
 const parallelTransform = require('parallel-transform');
-const peliasLogger = require( 'pelias-logger' );
+const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
 const getAdminLayers = require( './getAdminLayers' );
-
-//defaults to nowhere
-const optsArg = {
-  transports: []
-};
-//only prints to suspect records log if flag is set
-optsArg.transports.push(new peliasLogger.winston.transports.File( {
-  filename: 'suspect_wof_records.log',
-  timestamp: false
-}));
-
-const logger = peliasLogger.get( 'wof-admin-lookup', optsArg );
 
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
