@@ -46,29 +46,21 @@ readStream(datapath, layer, localizedAdminNames, (features) => {
 
     adminLookup = new PolygonLookup( { features: features } );
 
-    const file = path.join(temp_dir, `whosonfirst-data-${layer}-data.json`);
-
-    fs.writeFile(file, JSON.stringify(data), err => {
-      // respond to messages from the parent process
-      process.on('message', msg => {
-        switch (msg.type) {
-          case 'search' : return handleSearch(msg);
-          default       : logger.error('Unknown message:', msg);
-        }
-      });
-
-      // alert the master thread that this worker has been loaded and is ready for requests
-      process.send( {
-        type: 'loaded',
-        layer: layer,
-        file: file,
-        seconds: ((Date.now() - startTime)/1000)
-      });
-
+    process.on('message', msg => {
+      switch (msg.type) {
+        case 'search' : return handleSearch(msg);
+        default       : logger.error('Unknown message:', msg);
+      }
     });
 
+    // alert the master thread that this worker has been loaded and is ready for requests
+    process.send( {
+      type: 'loaded',
+      layer: layer,
+      data: data,
+      seconds: ((Date.now() - startTime)/1000)
+    });
   });
-
 });
 
 function handleSearch(msg) {
