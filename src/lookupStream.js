@@ -32,13 +32,13 @@ function createPipResolverStream(pipResolver) {
 
       // log results w/o country OR any multiples
       if (_.isEmpty(result.country)) {
-        logger.info('no country', {
+        logger.debug('no country', {
           centroid: doc.getCentroid(),
           result: result
         });
       }
       if (hasAnyMultiples(result)) {
-        logger.info('multiple values', {
+        logger.debug('multiple values', {
           centroid: doc.getCentroid(),
           result: result
         });

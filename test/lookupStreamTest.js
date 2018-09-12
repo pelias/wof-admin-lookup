@@ -206,7 +206,8 @@ tape('tests', (test) => {
                 lon: 31.313131
               });
             },
-            info: (message) => {}
+            info: (message) => {},
+            debug: (message) => {}
           };
         }
       }
