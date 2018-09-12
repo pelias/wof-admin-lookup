@@ -132,18 +132,11 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
 
   worker.on('message', msg => {
     if (msg.type === 'loaded') {
-      // read the WOF cache for this layer and add to the big ball o' WOF
-      fs.readFile(msg.file, (err, data) => {
-        const layerSpecificWofData = JSON.parse(data);
+      logger.info(`${msg.layer} worker loaded ${_.size(msg.data)} features in ${msg.seconds} seconds`);
 
-        logger.info(`${msg.layer} worker loaded ${_.size(layerSpecificWofData)} features in ${msg.seconds} seconds`);
-
-        // add all layer-specific WOF data to the big WOF data
-        _.assign(wofData, layerSpecificWofData);
-        callback(null, worker);
-
-      });
-
+      // add all layer-specific WOF data to the big WOF data
+      _.assign(wofData, msg.data);
+      callback(null, worker);
     } else if (msg.type === 'results') {
       // a worker responded with results, so process
       handleResults(msg);

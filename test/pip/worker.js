@@ -57,10 +57,7 @@ tape('worker tests', (test) => {
         if (msg.type === 'loaded') {
           t.equals(msg.layer, 'test_layer', 'the worker should respond with its requested layer');
           t.ok(_.isFinite(msg.seconds), 'time to load should have been returned');
-
-          t.ok(fs.existsSync(msg.file), 'the wof data should be written to file');
-          // remove it since it's unimportant for our tests
-          // fs.unlinkSync('wof-test_layer-data.json');
+          t.equals(_.size(msg.data), 1, 'a summary of the WOF data should be returned in the message');
 
           // in this case the lat/lon is inside the known polygon
           worker.send({
@@ -144,11 +141,8 @@ tape('worker tests', (test) => {
         // when a 'loaded' message is received, send a 'search' request for a lat/lon
         if (msg.type === 'loaded') {
           t.equals(msg.layer, 'test_layer', 'the worker should respond with its requested layer');
+          t.equals(_.size(msg.data), 1, 'a summary of the WOF data should be returned in the message');
           t.ok(_.isFinite(msg.seconds), 'time to load should have been returned');
-
-          t.ok(fs.existsSync(msg.file), 'the wof data should be written to file');
-          // remove it since it's unimportant for our tests
-          // fs.unlinkSync('wof-test_layer-data.json');
 
           // in this case the lat/lon is outside of any known polygons
           worker.send({
