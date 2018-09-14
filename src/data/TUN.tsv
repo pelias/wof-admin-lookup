@@ -1,0 +1,127 @@
+6	421197967	Sfax		locality	1
+1000	421195703	Tunis		locality	5
+1001	421195703	Tunis		locality	16
+1002	421195703	Tunis		locality	31
+1003	421195703	Tunis		locality	11
+1004	421195703	Tunis		locality	5
+1006	421195703	Tunis		locality	10
+1008	421195703	Tunis		locality	1
+1013	421195703	Tunis		locality	1
+1017	421195703	Tunis		locality	3
+1020	421195703	Tunis		locality	1
+1030	421195703	Tunis		locality	1
+1053	421195703	Tunis		locality	23
+1057	421176075	Gammarth		locality	22
+1059	421195703	Tunis		locality	2
+1062	421195703	Tunis		locality	1
+1073	421195703	Tunis		locality	6
+1074	421195703	Tunis		locality	34
+1080	421195703	Tunis		locality	8
+1082	421195703	Tunis		locality	36
+1100	421187053	Zaghouan		locality	2
+1151	421195703	Tunis		locality	1
+1200	421175987	Kasserine		locality	6
+2000	421195703	Tunis		locality	1
+2010	890434643	Manouba		locality	1
+2011	890434643	Manouba		locality	1
+2013	421200581	Ben Arous		locality	8
+2014	421200577	Mégrine		locality	4
+2026	890435971	Sidi Bou Saïd		locality	4
+2033	421200577	Mégrine		locality	21
+2035	421195703	Tunis		locality	7
+2035	421201009	Aryanah		locality	4
+2036	421174087	La Soukra		locality	13
+2037	421201009	Aryanah		locality	2
+2037	421174941	La Marsa		locality	1
+2040	421178249	Radès		locality	6
+2040	421200581	Ben Arous		locality	1
+2041	421201009	Aryanah		locality	2
+2045	421187053	Zaghouan		locality	5
+2045	421195703	Tunis		locality	1
+2046	421174941	La Marsa		locality	1
+2050	421203059	Hammam-Lif		locality	2
+2052	421195703	Tunis		locality	1
+2058	421201009	Aryanah		locality	1
+2060	421173179	La Goulette		locality	6
+2060	421195703	Tunis		locality	1
+2070	421174941	La Marsa		locality	898
+2070	421176075	Gammarth		locality	2
+2074	421195703	Tunis		locality	2
+2076	421174941	La Marsa		locality	2
+2078	421174941	La Marsa		locality	15
+2078	421176075	Gammarth		locality	1
+2080	421201009	Aryanah		locality	2
+2083	421201009	Aryanah		locality	32
+2083	421195703	Tunis		locality	1
+2087	421195703	Tunis		locality	14
+2091	421201009	Aryanah		locality	1
+2092	421201009	Aryanah		locality	2
+2092	421195703	Tunis		locality	1
+2190	421178255	Sened		locality	20
+2240	421197973	Nafta		locality	1
+3000	421197967	Sfax		locality	2
+3002	421197967	Sfax		locality	4
+3003	421197967	Sfax		locality	1
+3041	421197967	Sfax		locality	1
+3054	421197967	Sfax		locality	1
+3060	421195963	Mahares		locality	1
+3100	421178873	Kairouan		locality	1
+3172	421178873	Kairouan		locality	1
+3200	421178871	Tataouine		locality	2
+3220	421183753	Ghomrassen		locality	2
+3263	421178871	Tataouine		locality	2
+4000	890444461	Sousse		locality	7
+4001	890444461	Sousse		locality	1
+4011	421178855	Hammam Sousse		locality	2
+4011	890444461	Sousse		locality	1
+4012	890438295	Hergla		locality	1
+4022	890436899	Akouda		locality	2
+4054	890444461	Sousse		locality	1
+4061	890444461	Sousse		locality	2
+4071	890444461	Sousse		locality	2
+4100	421173175	Medenine		locality	14
+4116	421173177	Midoun		locality	2
+4160	421170757	Ben Gardane		locality	1
+4170	421174943	Zarzis		locality	1
+4173	421174943	Zarzis		locality	2
+4180	421178853	Houmt Souk		locality	4
+4215	421181461	Douz		locality	2
+4260	421181461	Douz		locality	6
+5000	421174939	Monastir		locality	63
+5013	421200291	Menzel Kamel		locality	1
+5035	421178253	Sayada		locality	4
+5070	421192785	Qasr Hallal		locality	39
+5080	421192317	Téboulba		locality	15
+5099	421182769	Leptis Parva		locality	4
+5100	421203061	Mahdia		locality	7
+5130	421194595	Chorbane		locality	4
+05150	421203061	Mahdia		locality	1
+5160	421199771	El Jem		locality	2
+5170	421172885	Chebba		locality	1
+6000	421197969	Gabès		locality	6
+6001	421197969	Gabès		locality	3
+6011	421197969	Gabès		locality	1
+6032	421197969	Gabès		locality	2
+6033	421197969	Gabès		locality	1
+6070	421199635	Matmata		locality	2
+6100	421169017	Siliana		locality	4
+6180	890438303	Bou Arada		locality	1
+7000	421200583	Bizerta		locality	2
+7016	1125988293	El Alia		locality	6
+7041	421200583	Bizerta		locality	2
+7060	421200583	Bizerta		locality	1
+7080	421181853	Menzel Jemil		locality	2
+8000	421169021	Nabeul		locality	3
+8020	421173529	Soliman		locality	1
+8045	1125896947	El Haouaria		locality	8
+8050	421195929	Hammamet		locality	14
+8060	890438305	Béni Khiar		locality	4
+8070	1125988277	Korba		locality	1
+8090	421182193	Kelibia		locality	8
+8099	421196807	Zaouiet Djedidi		locality	2
+9000	421175985	Béja		locality	2
+9040	421178847	Téboursouk		locality	3
+9060	890444463	Testour		locality	3
+9070	1125869451	Majaz al Bab		locality	13
+9100	421169019	Sidi Bouzid		locality	1
+9170	421193237	Regueb		locality	1
