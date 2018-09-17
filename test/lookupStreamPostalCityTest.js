@@ -34,7 +34,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -67,7 +67,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -98,7 +98,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -130,7 +130,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -159,7 +159,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -189,7 +189,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -221,7 +221,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
@@ -253,7 +253,7 @@ tape('tests', (test) => {
       }
     };
 
-    const lookupStream = stream(resolver);
+    const lookupStream = stream(resolver, {usePostalCities: true});
     t.doesNotThrow(() => {
       test_stream([inputDoc], lookupStream, (err, actual) => {
         t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
