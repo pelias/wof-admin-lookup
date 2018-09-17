@@ -12,7 +12,7 @@ function hasAnyMultiples(result) {
   });
 }
 
-function createPipResolverStream(pipResolver) {
+function createPipResolverStream(pipResolver, config) {
   return function (doc, callback) {
     // don't do anything if there's no centroid
     if (_.isEmpty(doc.getCentroid())) {
@@ -71,7 +71,10 @@ function createPipResolverStream(pipResolver) {
       );
 
       // prefer a 'postal city' locality when a valid postal code is available
-      usePostalCity( result, doc );
+      // optionally enable/disable this functionality using config variable.
+      if( config && true === config.usePostalCities ){
+        usePostalCity( result, doc );
+      }
 
       callback(null, doc);
 
@@ -87,15 +90,18 @@ function createPipResolverEnd(pipResolver) {
   };
 }
 
-module.exports = function(pipResolver, maxConcurrentReqs) {
+module.exports = function(pipResolver, config) {
   if (!pipResolver) {
     throw new Error('valid pipResolver required to be passed in as the first parameter');
   }
 
-  const pipResolverStream = createPipResolverStream(pipResolver);
+  // pelias 'imports.adminLookup' config section
+  config = config || {};
+
+  const pipResolverStream = createPipResolverStream(pipResolver, config);
   const end = createPipResolverEnd(pipResolver);
 
-  const stream = parallelTransform(maxConcurrentReqs || 1, pipResolverStream);
+  const stream = parallelTransform(config.maxConcurrentReqs || 1, pipResolverStream);
   stream.on('end', end);
 
   return stream;

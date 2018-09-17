@@ -9,7 +9,7 @@ const os = require('os');
 function create(layers) {
   if (peliasConfig.imports.adminLookup.enabled) {
     return require('./src/lookupStream')(resolver(layers),
-      peliasConfig.imports.adminLookup.maxConcurrentReqs);
+      peliasConfig.imports.adminLookup);
   } else {
     return through.obj();
   }
