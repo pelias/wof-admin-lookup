@@ -2,6 +2,15 @@
 const fs = require('fs');
 const path = require('path');
 const stable = require('stable');
+const csv = require('csv-parse/lib/sync');
+const tsvOptions = {
+  trim: true,
+  skip_empty_lines: true,
+  relax_column_count: true,
+  relax: true,
+  columns: [ 'postalcode', 'wofid', 'name', 'abbr', 'placetype', 'weight' ],
+  delimiter: '\t'
+};
 
 // ISO country codes using the USA 'zip' system
 const USA_ISO_CODES = ['USA','ASM','GUM','MNP','PRI','VIR'];
@@ -61,15 +70,15 @@ function loadTable(cc){
   }
 
   // generate map
-  rows.forEach(row =>{
-    const postalcode = normalizePostcode(row[0]);
+  rows.forEach(row => {
+    const postalcode = normalizePostcode(row.postalcode);
     if( !m.hasOwnProperty(postalcode) ){ m[postalcode] = []; }
     m[postalcode].push({
-      wofid: row[1].replace(/\s/g, ''),
-      name: row[2].trim(),
-      abbr: row[3] && row[3].length ? row[3].trim() : undefined,
-      placetype: row[4] && row[4].length ? row[4].trim() : undefined,
-      weight: row[5] ? parseInt(row[5], 10) : 0
+      wofid: row.wofid.replace(/\s/g, ''),
+      name: row.name.trim(),
+      abbr: row.abbr && row.abbr.length ? row.abbr.trim() : undefined,
+      placetype: row.placetype && row.placetype.length ? row.placetype.trim() : undefined,
+      weight: row.weight ? parseInt(row.weight, 10) : 0
     });
   });
 
@@ -92,26 +101,22 @@ function loadTable(cc){
 
 // TSV file parser
 function parse(filepath, defaultWeight){
-  const lines = fs.readFileSync(filepath, 'UTF8').trim().split('\n');
-  var rows = [];
-  lines.forEach(line => {
+  const contents = fs.readFileSync(filepath, 'UTF8');
+  const lines = csv(contents, tsvOptions);
 
-    // split each row by tabs
-    var split = line.split('\t');
-
-    // ensure at least 3 columns are present
+  return lines.filter(line => {
+    // ensure the 3 mandatory columns are present
     // note: some editors convert tabs to spaces
-    if( split.length < 3 ){
-      console.error(`postal city config: invalid TSV line, must use tabs!`, split);
-      return;
+    if( !line.postalcode.length || !line.wofid.length || !line.name.length ){
+      console.error(`postal city config: invalid TSV line, must use tabs!`, line);
+      return false;
     }
-
+    return true;
+  }).map(line => {
     // optionally assign a default 'weight' for rows which do how have a weight assigned.
-    if( !split[5] && defaultWeight ){ split[5] = defaultWeight; }
-
-    rows.push(split);
+    if( !line.weight && defaultWeight ){ line.weight = defaultWeight; }
+    return line;
   });
-  return rows;
 }
 
 // perform some normalization in order to match records where only a trivial difference exists
