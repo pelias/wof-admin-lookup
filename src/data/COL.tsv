@@ -1,0 +1,376 @@
+la meseta	421171099	Sativanorte		locality	50
+San Antonio	421169145	Santiago de Cali		locality	3
++57	890445001	Barranquilla		locality	1
++57	421176361	Soacha		locality	1
++57	890439981	Leticia		locality	1
+0000	421186687	Bogotá		locality	1
+00000	890444993	Bucaramanga		locality	1
+00000	421181367	Cartagena		locality	1
+00000	421186691	Medellín		locality	1
+00000	421194437	Mosquera		locality	1
+Bolívar	421181367	Cartagena		locality	1
+CYtAXe	1141908623	Ibagué		locality	1
+no	421176401	La Virginia		locality	1
+1	421169143	Chiquinquirá		locality	2
+19	421194325	Monguí		locality	1
+042	421200569	Buga		locality	1
+047	421181365	Cúcuta		locality	1
+47	421181365	Cúcuta		locality	1
+50-05	421197729	Rionegro		locality	1
+50-59	421197729	Rionegro		locality	1
+57	1125861121	Socha		locality	37
+057	421198789	Armenia		locality	22
+057	421179501	Mutatá		locality	17
+057	890442155	Medellín		locality	11
+057	421173475	Peque		locality	11
+057	421179459	San Jerónimo		locality	11
+057	421170815	Sopetrán		locality	10
+057	421192315	Valdivia		locality	9
+057	421180753	Arboletes		locality	6
+057	421185639	Yarumal		locality	6
+057	421200129	La Pintada		locality	4
+057	421173103	Necoclí		locality	4
+057	421179487	Pensilvania		locality	4
+057	421198823	Angostura		locality	3
+057	421176539	San Andrés		locality	3
+057	421185883	Apartadó		locality	2
+057	421181375	Barbosa		locality	2
+057	421193913	San Francisco		locality	2
+057	421200053	Vegachi		locality	2
+57	421179527	Envigado		locality	2
+057	421199591	Amalfi		locality	1
+057	421169673	Belmira		locality	1
+057	421187345	Girardota		locality	1
+057	890441579	Granada		locality	1
+057	421185409	Ituango		locality	1
+057	421181371	La Ceja del Tambo		locality	1
+057	890441951	Maripí		locality	1
+057	421173443	San José de la Montaña		locality	1
+057	421173095	Valledupar		locality	1
+57	421186691	Medellín		locality	1
+123	890442151	San Andrés		locality	1
+472	421169145	Santiago de Cali		locality	1
+00501	421186691	Medellín		locality	1
+0572	421169145	Santiago de Cali		locality	1
+575	421187335	Santa Marta		locality	1
+3110	421181367	Cartagena		locality	1
+5001	421170091	Villavicencio		locality	2
+05001	890442155	Medellín		locality	1
+005004	890442155	Medellín		locality	1
+5017	421183643	Paramo		locality	1
+6600	421204345	Pereira		locality	11
+11001	421186687	Bogotá		locality	1
+15001	421170089	Tunja		locality	2
+18001	1141907595	Florencia		locality	1
+25001	421185805	Chía		locality	1
+40001	421192147	Taganga		locality	1
+47001	421187335	Santa Marta		locality	1
+050001	421186691	Medellín		locality	1
+50003	421204343	Pasto		locality	1
+050012	890442155	Medellín		locality	2
+050015	421186691	Medellín		locality	1
+050016	421186691	Medellín		locality	2
+050020	421186691	Medellín		locality	4
+050020	890442155	Medellín		locality	1
+050021	421186691	Medellín		locality	11
+50021	421186691	Medellín		locality	1
+050022	421186691	Medellín		locality	19
+50022	421186691	Medellín		locality	1
+050023	421186691	Medellín		locality	4
+50026	890442155	Medellín		locality	2
+050026	421186691	Medellín		locality	1
+050031	421186691	Medellín		locality	1
+050032	421186691	Medellín		locality	2
+00050032	421186691	Medellín		locality	1
+050034	890442155	Medellín		locality	1
+050035	421186691	Medellín		locality	1
+050041	890442155	Medellín		locality	1
+051037	421187345	Girardota		locality	3
+52001	890444953	Pasto		locality	2
+053840	421187327	Guatapé		locality	1
+054040	890442155	Medellín		locality	1
+054422	421197749	Itagüí		locality	1
+055010	421181371	La Ceja del Tambo		locality	14
+055030	421177799	Abejorral		locality	15
+055411	421197749	Itagüí		locality	2
+055411	421186691	Medellín		locality	1
+055413	421197749	Itagüí		locality	3
+055420	421179527	Envigado		locality	8
+055421	421179527	Envigado		locality	1
+055422	421179527	Envigado		locality	3
+055450	421176793	Sabaneta		locality	1
+55555	890441941	Santa Marta		locality	1
+057010	421173475	Peque		locality	5
+057117	890444921	Tunja		locality	1
+057840	421185883	Apartadó		locality	1
+63001	421169147	Armenia		locality	1
+64004	421169147	Armenia		locality	1
+68006	890444993	Bucaramanga		locality	1
+73001	1141908623	Ibagué		locality	2
+76026	421169145	Santiago de Cali		locality	4
+76520	421173089	Palmira		locality	1
+080001	890445001	Barranquilla		locality	3
+080004	421186685	Barranquilla		locality	1
+080020	890445001	Barranquilla		locality	3
+081007	890445001	Barranquilla		locality	1
+083001	421201245	Soledad		locality	2
+083002	421201245	Soledad		locality	1
+083010	421201245	Soledad		locality	4
+85001	421173139	Yopal		locality	5
+085020	421169809	Manatí		locality	7
+95001	1126016497	San José del Guaviare		locality	1
+110010	421186687	Bogotá		locality	1
+110011	421186687	Bogotá		locality	1
+110111	421186687	Bogotá		locality	5
+110111	421189823	Usaquén		locality	2
+110221	421186687	Bogotá		locality	2
+110541	890444995	Bogotá		locality	1
+110721	421186687	Bogotá		locality	1
+110731	421186687	Bogotá		locality	3
+110741	421186687	Bogotá		locality	1
+110821	421186687	Bogotá		locality	1
+110921	421186687	Bogotá		locality	1
+111041	421186687	Bogotá		locality	1
+111111	421186687	Bogotá		locality	3
+111121	421186687	Bogotá		locality	1
+111156	421186687	Bogotá		locality	2
+111166	421186687	Bogotá		locality	15
+111211	421186687	Bogotá		locality	1
+111221	421186687	Bogotá		locality	1
+111311	421186687	Bogotá		locality	9
+111321	421186687	Bogotá		locality	4
+111411	890444995	Bogotá		locality	1
+111511	890444995	Bogotá		locality	1
+111931	890444995	Bogotá		locality	1
+121164	421173087	Salento		locality	1
+130001	421181367	Cartagena		locality	5
+130002	421181367	Cartagena		locality	1
+130013	421181367	Cartagena		locality	1
+130015	421181367	Cartagena		locality	1
+131020	421176487	Arjona		locality	1
+150002	890444921	Tunja		locality	7
+150003	890444921	Tunja		locality	9
+150461	421195667	Duitama		locality	1036
+150640	421168259	Belén		locality	71
+151001	421204989	Soatá		locality	2
+151620	421193125	Socotá		locality	6
+151640	1125861121	Socha		locality	4
+151647	1125861121	Socha		locality	1
+152001	421204989	Soatá		locality	1
+152020	421198851	Gámeza		locality	63
+152210	421182545	Sogamoso		locality	1
+152420	890422269	Aquitania		locality	3
+153601	421192745	Jenesano		locality	9
+154001	421179907	Villa de Leyva		locality	1
+154102	421176479	Arcabuco		locality	5
+154201	421176479	Arcabuco		locality	25
+154260	421176391	Moniquirá		locality	39
+154290	421176391	Moniquirá		locality	100
+154640	421169143	Chiquinquirá		locality	42
+154820	890441951	Maripí		locality	1
+156120	421193125	Socotá		locality	1
+170001	421170509	Manizales		locality	31
+170002	421170509	Manizales		locality	11
+170003	421170509	Manizales		locality	16
+170004	421170509	Manizales		locality	34
+170006	421170509	Manizales		locality	9
+171001	421204975	Neira		locality	1
+172001	421181097	Salamina		locality	1
+176001	421181359	Villamaría		locality	2
+176002	421181359	Villamaría		locality	1
+176020	421173091	Chinchiná		locality	1
+190001	421191721	Popayán		locality	1
+190002	421191721	Popayán		locality	1
+191520	890430855	Miranda		locality	1
+200003	421173095	Valledupar		locality	1
+210008	421204339	Montería		locality	1
+230002	421204339	Montería		locality	1
+230003	421204339	Montería		locality	1
+230004	421204339	Montería		locality	2
+250002	421185805	Chía		locality	2
+250010	421173011	Cota		locality	1
+250051	421176361	Soacha		locality	4
+250070	421179445	Sibaté		locality	5
+251001	1125940531	Sopó		locality	1
+251048	890444931	Suesca		locality	1
+252211	421176421	Fusagasugá		locality	1
+252431	421198123	Girardot		locality	58
+252432	421198123	Girardot		locality	146
+252601	421202911	La Mesa		locality	1
+253051	421179523	Facatativá		locality	1
+253480	421201249	La Dorada		locality	1
+253601	421167787	San Francisco		locality	1
+272040	890433145	El Cantón de San Pablo		locality	13
+274010	421169815	Istmina		locality	1
+414020	421195475	Garzón		locality	1
+440001	1141907583	Riohacha		locality	3
+470001	421192147	Taganga		locality	1
+470002	421187335	Santa Marta		locality	1
+470003	890441941	Santa Marta		locality	1
+470004	890441941	Santa Marta		locality	4
+470008	421176791	Minca		locality	2
+500001	421170091	Villavicencio		locality	9
+500003	890444953	Pasto		locality	1
+500005	890440337	Villavicencio		locality	1
+520000	421204343	Pasto		locality	1
+524060	421172789	Ipiales		locality	1
+540001	421181365	Cúcuta		locality	1
+540004	421181365	Cúcuta		locality	2
+540006	421181365	Cúcuta		locality	15
+544510	421193137	Durania		locality	3
+630001-025	421169147	Armenia		locality	23
+630001-077	421169147	Armenia		locality	16
+630001-076	421169147	Armenia		locality	14
+630001	421169147	Armenia		locality	1
+630001-087	421169147	Armenia		locality	1
+630002	421169147	Armenia		locality	1
+630003	421169147	Armenia		locality	88
+630003-196	421169147	Armenia		locality	22
+630003-047	421169147	Armenia		locality	21
+630003-199	421169147	Armenia		locality	20
+630003-197	421169147	Armenia		locality	13
+630003-200	421169147	Armenia		locality	13
+630003-179	421169147	Armenia		locality	12
+630003-353	421169147	Armenia		locality	12
+630003-350	421169147	Armenia		locality	10
+630003-048	421169147	Armenia		locality	9
+630003-178	421169147	Armenia		locality	9
+630003-181	421169147	Armenia		locality	9
+630003-185	421169147	Armenia		locality	7
+630003-327	421169147	Armenia		locality	6
+630003-341	421169147	Armenia		locality	5
+630003-349	421169147	Armenia		locality	4
+630003-198	421169147	Armenia		locality	3
+630003-342	421169147	Armenia		locality	2
+630003-093	421169147	Armenia		locality	1
+630003-344	421169147	Armenia		locality	1
+630003-378	421169147	Armenia		locality	1
+630003-465	421169147	Armenia		locality	1
+630004	421169147	Armenia		locality	598
+630004-044	421169147	Armenia		locality	26
+630004-046	421169147	Armenia		locality	9
+630004-058	421169147	Armenia		locality	8
+630004-404	421169147	Armenia		locality	4
+630004-400	421169147	Armenia		locality	2
+631001	421181373	Circasia		locality	5
+632001	421173093	Calarcá		locality	36
+634001	421197965	Filandia		locality	2
+660002	890440193	Pereira		locality	2
+660003	890440193	Pereira		locality	3
+661001	421197773	Dosquebradas		locality	1
+661002	421197773	Dosquebradas		locality	2
+680001	890444993	Bucaramanga		locality	1
+680002	890444993	Bucaramanga		locality	3
+680003	890444993	Bucaramanga		locality	1
+680005	890444993	Bucaramanga		locality	1
+684041	421179551	Barichara		locality	1
+687031	421176475	Barrancabermeja		locality	1
+700020	421172785	Sincelejo		locality	1
+720025	421169145	Santiago de Cali		locality	1
+730001	421172939	Ibagué		locality	1
+730002	1141908623	Ibagué		locality	1
+730003	1141908623	Ibagué		locality	1
+730005	1141908623	Ibagué		locality	1
+733520	421166411	El Espinal		locality	1
+734001	421181385	Melgar		locality	1
+750004	421169145	Santiago de Cali		locality	1
+760001	421169145	Santiago de Cali		locality	16
+760006	421169145	Santiago de Cali		locality	1
+760020	421169145	Santiago de Cali		locality	1
+760021	421169145	Santiago de Cali		locality	1
+760026	421169145	Santiago de Cali		locality	2
+760032	421169145	Santiago de Cali		locality	1
+760033	421169145	Santiago de Cali		locality	1
+760035	421169145	Santiago de Cali		locality	3
+760040	421169145	Santiago de Cali		locality	4
+760043	421169145	Santiago de Cali		locality	3
+760044	421169145	Santiago de Cali		locality	1
+760045	421169145	Santiago de Cali		locality	5
+760046	421169145	Santiago de Cali		locality	1
+760050	421169145	Santiago de Cali		locality	1
+760101	421169145	Santiago de Cali		locality	1
+760517	890435215	La Cumbre		locality	2
+761550	421187351	Roldanillo		locality	1
+763531	421173089	Palmira		locality	1
+763532	421173089	Palmira		locality	1
+763533	421173089	Palmira		locality	11
+0764001	890433265	Jamundí		locality	1
+850001	421173139	Yopal		locality	1
+855010	890431007	Monterrey		locality	1
+860001	1125940673	Mocoa		locality	1
+1100111	421186687	Bogotá		locality	5
+1166087	421186687	Bogotá		locality	3
+1166090	421186687	Bogotá		locality	1
+3549090	421179527	Envigado		locality	1
+05001000	421186691	Medellín		locality	1
+7451506	421169147	Armenia		locality	1
+15001000	890444921	Tunja		locality	1
+053080002	421187345	Girardota		locality	1
+76001000	421176795	Tuluá		locality	1
+111166087	421186687	Bogotá		locality	1
+111211139	421186687	Bogotá		locality	1
+111311091	421186687	Bogotá		locality	1
+154640331	421169143	Chiquinquirá		locality	1
+252432434	421198123	Girardot		locality	2
+630002001	421169147	Armenia		locality	7
+630002003	421169147	Armenia		locality	7
+630002009	421169147	Armenia		locality	11
+630002010	421169147	Armenia		locality	14
+630002011	421169147	Armenia		locality	18
+630002012	421169147	Armenia		locality	25
+630002014	421169147	Armenia		locality	13
+630002544	421169147	Armenia		locality	8
+630003002	421169147	Armenia		locality	2
+630003004	421169147	Armenia		locality	5
+630003005	421169147	Armenia		locality	1
+630003013	421169147	Armenia		locality	9
+630003014	421169147	Armenia		locality	4
+630003015	421169147	Armenia		locality	4
+630003016	421169147	Armenia		locality	4
+630003063	421169147	Armenia		locality	2
+630003064	421169147	Armenia		locality	18
+630003065	421169147	Armenia		locality	19
+630003079	421169147	Armenia		locality	10
+630003080	421169147	Armenia		locality	1
+630003084	421169147	Armenia		locality	13
+630004008	421169147	Armenia		locality	21
+630004056	421169147	Armenia		locality	15
+630004060	421169147	Armenia		locality	13
+630004062	421169147	Armenia		locality	14
+630004064	421169147	Armenia		locality	10
+630004066	421169147	Armenia		locality	2
+630004068	421169147	Armenia		locality	2
+630004070	421169147	Armenia		locality	28
+630004072	421169147	Armenia		locality	23
+630004074	421169147	Armenia		locality	13
+630004076	421169147	Armenia		locality	24
+630004078	421169147	Armenia		locality	16
+630004080	421169147	Armenia		locality	11
+630004086	421169147	Armenia		locality	21
+630004088	421169147	Armenia		locality	13
+630004090	421169147	Armenia		locality	33
+630004092	421169147	Armenia		locality	17
+630004094	421169147	Armenia		locality	25
+630004096	421169147	Armenia		locality	22
+630004098	421169147	Armenia		locality	17
+630004100	421169147	Armenia		locality	14
+630004102	421169147	Armenia		locality	3
+630004104	421169147	Armenia		locality	1
+630004106	421169147	Armenia		locality	33
+630004108	421169147	Armenia		locality	9
+630004126	421169147	Armenia		locality	26
+630004140	421169147	Armenia		locality	21
+630004142	421169147	Armenia		locality	10
+630004238	421169147	Armenia		locality	16
+630004246	421169147	Armenia		locality	22
+630004248	421169147	Armenia		locality	26
+630004288	421169147	Armenia		locality	22
+630004300	421169147	Armenia		locality	15
+630004500	421169147	Armenia		locality	1
+630004506	421169147	Armenia		locality	2
+630004510	421169147	Armenia		locality	3
+630004514	421169147	Armenia		locality	3
+630004516	421169147	Armenia		locality	5
+630004518	421169147	Armenia		locality	1
+630004624	421169147	Armenia		locality	2
+760026351	421169145	Santiago de Cali		locality	1
