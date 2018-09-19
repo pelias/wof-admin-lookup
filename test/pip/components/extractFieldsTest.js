@@ -17,6 +17,57 @@ tape('extractFields tests', function(test) {
     input.properties['wof:id'] = 17;
     input.properties['wof:name'] = 'Feature name';
     input.properties['wof:abbreviation'] = 'Feature abbreviation';
+    input.properties['wof:shortcode'] = 'Feature shortcode, preferred';
+    input.properties['wof:placetype'] = 'Feature placetype';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      },
+      {
+        placetype3: 56
+      }
+    ];
+    input.properties['geom:latitude'] = 12.121212;
+    input.properties['geom:longitude'] = 21.212121;
+    input.properties['geom:bbox'] = 'Feature boundingbox';
+
+    var expected = {
+      properties: {
+        Id: 17,
+        Name: 'Feature name',
+        Abbrev: 'Feature shortcode, preferred',
+        Placetype: 'Feature placetype',
+        Hierarchy: [
+          [ 12, 34 ],
+          [ 56 ]
+        ],
+        Centroid: {
+          lat: 12.121212,
+          lon: 21.212121
+        },
+        BoundingBox: 'Feature boundingbox'
+      },
+      geometry: 'Geometry'
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('wof:abbreviation is used if wof:shortcode is not found', function(t) {
+    var input = {
+      properties: {},
+      geometry: 'Geometry'
+    };
+    input.properties['wof:id'] = 17;
+    input.properties['wof:name'] = 'Feature name';
+    input.properties['wof:abbreviation'] = 'Feature abbreviation';
     input.properties['wof:placetype'] = 'Feature placetype';
     input.properties['wof:hierarchy'] = [
       {

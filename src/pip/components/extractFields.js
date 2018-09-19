@@ -44,6 +44,8 @@ module.exports.create = function(enableLocalizedNames) {
     // use different abbreviation field for country
     if (res.properties.Placetype === 'country') {
       res.properties.Abbrev = wofData.properties['wof:country_alpha3'];
+    } else if(wofData.properties['wof:shortcode']) {
+      res.properties.Abbrev = wofData.properties['wof:shortcode'];
     } else {
       res.properties.Abbrev = wofData.properties['wof:abbreviation'];
     }
