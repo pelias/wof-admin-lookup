@@ -1,0 +1,121 @@
+BRG 1721	1125859999	Birgu		locality	5
+STJ 1043	101752435	St. Julian's		locality	5
+GSR1250	101847391	Għasri		locality	4
+SGN 1751	101752429	Saint John		locality	4
+STJ 1041	101752435	St. Julian's		locality	3
+DGL 1942	101752369	Dingli		locality	2
+GRB 1506	101752465	Għarb		locality	2
+LJA 9012	101752415	Lija		locality	2
+MFN 1050	1125875635	Marsalforn		locality	2
+MLH1022	1125916553	Mellieħa		locality	2
+SLM 1807	101752431	Sliema		locality	2
+STJ3103	101752435	St. Julian's		locality	2
+VLT 1060	101752423	Valletta		locality	2
+ATD 1301	101752401	Attard		locality	1
+BBG 3011	1125885661	Kalafrana		locality	1
+BKR1474	101752419	Birkirkara		locality	1
+BKR1810	101752419	Birkirkara		locality	1
+BKR3000	101752419	Birkirkara		locality	1
+BML 2064	101752469	Cospicua		locality	1
+BRG 1105	1125859999	Birgu		locality	1
+BRG 1425	1125859999	Birgu		locality	1
+BZN 1708	101752405	Balzan		locality	1
+CSP 10	1125859999	Birgu		locality	1
+DGL 1834	101752369	Dingli		locality	1
+FGR	101752377	Fgura		locality	1
+FGR1017	101752391	Paola		locality	1
+FGR1202	101752377	Fgura		locality	1
+FRN 1941	101752403	Floriana		locality	1
+FRN1810	101752403	Floriana		locality	1
+GRB 104	101752465	Għarb		locality	1
+GZR 1663	101752411	Gzira		locality	1
+GZR1071	1125782099	Gżira		locality	1
+HMR 1760	101752395	Ħamrun		locality	1
+IKL 9022	101752427	Iklin		locality	1
+KKR 1513	101752409	Kalkara		locality	1
+LQA 3290	101756771	Luqa		locality	1
+LQA 3301	101756771	Luqa		locality	1
+LQA1511	101756773	Luqa		locality	1
+MDN 1011	101756777	Mdina		locality	1
+MDN 1191	101756777	Mdina		locality	1
+MRS9064	101752383	Marsa		locality	1
+MSD 1050	101752421	Msida		locality	1
+MSD 1080	101752421	Msida		locality	1
+MSD 1369	101752421	Msida		locality	1
+MSK 301	101752379	Marsascala		locality	1
+MXK1472	101752361	Marsaxlokk		locality	1
+NDR 1011	101752459	Nadur		locality	1
+NXR 1700	101752441	Naxxar		locality	1
+NXR 9038	1125895807	Baħar iċ-Ċagħaq		locality	1
+NXR9027	101752441	Naxxar		locality	1
+PLA1411	101752391	Paola		locality	1
+PLA1962	101752391	Paola		locality	1
+PTA 1042	101752399	Tal-Pietà		locality	1
+PTA 1117	101752399	Tal-Pietà		locality	1
+PTM 01	101752435	St. Julian's		locality	1
+QLA 1914	101752457	Qala		locality	1
+QLA 1930	101752457	Qala		locality	1
+QRM 2503	101752385	Qormi		locality	1
+QRM 9030	101752385	Qormi		locality	1
+QRM03	101752385	Qormi		locality	1
+RBT 1528	101752417	Rabat		locality	1
+RBT 2705	101752417	Rabat		locality	1
+SGN 1331	101752429	Saint John		locality	1
+SGN 1750	101752429	Saint John		locality	1
+SGN 9020	101756791	Saint John		locality	1
+SGN3000	101752429	Saint John		locality	1
+SGW	1125979905	Siġġiewi		locality	1
+SLM 10	101752431	Sliema		locality	1
+SLM 1000	101752431	Sliema		locality	1
+SLM 12	101752431	Sliema		locality	1
+SLM 1540	101752431	Sliema		locality	1
+SLM 1542	101752431	Sliema		locality	1
+SLM 1604	101752431	Sliema		locality	1
+SLM 2010	101752431	Sliema		locality	1
+SLM1549	101752431	Sliema		locality	1
+SNT 9020	101752449	Sannat		locality	1
+SPB 1746	1125992393	Qawra		locality	1
+SPB15	101846481	Xemxija		locality	1
+SPB3035	101752445	Buġibba		locality	1
+STJ 1017	101752435	St. Julian's		locality	1
+STJ 1040	101752435	St. Julian's		locality	1
+STJ 1052	101752435	St. Julian's		locality	1
+STJ 1100	101752435	St. Julian's		locality	1
+STJ 15	101752435	St. Julian's		locality	1
+STJ 3019	101752435	St. Julian's		locality	1
+STJ 3063	101752435	St. Julian's		locality	1
+STJ 3143	101752435	St. Julian's		locality	1
+STJ1963	1125871657	St. Julian's		locality	1
+STJ3013	101752435	St. Julian's		locality	1
+STJ3070	101752435	St. Julian's		locality	1
+STJ3081	101752435	St. Julian's		locality	1
+STJ3141	101752435	St. Julian's		locality	1
+SVR 9034	101752397	Saint Venera		locality	1
+SVR 9035	101752397	Saint Venera		locality	1
+VCT 112	101752449	Sannat		locality	1
+VCT 1440	1125881411	Victoria		locality	1
+VCT 1860	1125881411	Victoria		locality	1
+VCT 1883	1125881411	Victoria		locality	1
+VCT 2520	101752455	Victoria		locality	1
+VLT 0004	101752423	Valletta		locality	1
+VLT 05	101752423	Valletta		locality	1
+VLT 10	101752423	Valletta		locality	1
+VLT 1165	101752423	Valletta		locality	1
+VLT 1426	101752423	Valletta		locality	1
+VLT 1455	101752423	Valletta		locality	1
+VLT1112	101752423	Valletta		locality	1
+VLT1129	101752423	Valletta		locality	1
+VLT1186	101752423	Valletta		locality	1
+XRA 1703	1125824561	Xagħra		locality	1
+XWK 1028	101752453	Xewkija		locality	1
+ZBR 3103	1125881387	Żabbar		locality	1
+ZBR1453	101752387	Żabbar		locality	1
+ZBR1503	1125881387	Żabbar		locality	1
+ZRQ 1089	101752351	Zurrieq		locality	1
+ZTN 1342	101752373	Żejtun		locality	1
+fgr2131	101752377	Fgura		locality	1
+1026	101752431	Sliema		locality	2
+1111	101752423	Valletta		locality	1
+1112	101752423	Valletta		locality	1
+1121	101752467	Haz-Zebbug		locality	1
+1776	101752439	Pembroke		locality	1

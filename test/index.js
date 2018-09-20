@@ -61,7 +61,7 @@ tape('tests for main entry point', (test) => {
         t.deepEquals(layers, ['layer 1', 'layer 2']);
         return 'this is the resolver';
       },
-      './src/lookupStream': (resolver, maxConcurrentReqs) => {
+      './src/lookupStream': (resolver, {maxConcurrentReqs: maxConcurrentReqs}) => {
         t.equals(resolver, 'this is the resolver');
         t.equals(maxConcurrentReqs, 17, 'maxConcurrentReqs should be from config');
 

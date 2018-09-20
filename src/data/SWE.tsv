@@ -1,0 +1,4365 @@
+Pimpelvägen	1125850749	Sörberge		locality	18
+Dalgatan	1125850749	Sörberge		locality	17
+Dragvägen	1125850749	Sörberge		locality	17
+Haspelvägen	1125850749	Sörberge		locality	15
+Berglundavägen	1125850749	Sörberge		locality	13
+Färjvägen	1125850749	Sörberge		locality	13
+Revvägen	1125850749	Sörberge		locality	13
+Lärkvägen	1125850749	Sörberge		locality	12
+Spövägen	1125850749	Sörberge		locality	12
+Krokvägen	1125850749	Sörberge		locality	11
+Musterigatan	1125850749	Sörberge		locality	11
+Solbackavägen	1125850749	Sörberge		locality	10
+Sörbergevägen	1125850749	Sörberge		locality	9
+Hjortvägen	1125850749	Sörberge		locality	6
+Renvägen	1125850749	Sörberge		locality	6
+SE-18135	101839523	Lidingö		locality	6
+FIXME	101814871	Kiruna		locality	4
+<olika>	101817847	Södra Sandby		locality	3
+Brunnsgatan	1125850749	Sörberge		locality	2
+Grangatan	1125850749	Sörberge		locality	2
+Mogatan	1125850749	Sörberge		locality	2
+Rälsvägen	1125850749	Sörberge		locality	2
+Gränsgatan	1125850749	Sörberge		locality	1
+SE-605 80	101752289	Norrköping		locality	1
+Sandhult	1125942955	Sandhult		locality	1
+Strömgatan	1125850749	Sörberge		locality	1
+Tjärngatan	1125850749	Sörberge		locality	1
+4	1125843503	Nacka		locality	1
+26 132	101817823	Landskrona		locality	1
+45 746	1125809985	Hamburgsund		locality	2
+46 170	101847325	Trollhattan		locality	1
+100 44	101752307	Stockholm		locality	7
+100 26	101752307	Stockholm		locality	1
+100 31	101752307	Stockholm		locality	1
+100 41	101752307	Stockholm		locality	1
+100 54	101752307	Stockholm		locality	1
+101 23	101752307	Stockholm		locality	1
+102 44	101752307	Stockholm		locality	4
+102 41	101752307	Stockholm		locality	2
+102 43	101752307	Stockholm		locality	1
+103 27	101752307	Stockholm		locality	2
+103 15	101752307	Stockholm		locality	1
+103 21	101752307	Stockholm		locality	1
+104 65	101752307	Stockholm		locality	2
+104 40	101752307	Stockholm		locality	1
+106 91	101752307	Stockholm		locality	17
+106 63	101752307	Stockholm		locality	1
+106 68	101752307	Stockholm		locality	1
+111 57	101752307	Stockholm		locality	26
+111 29	101752307	Stockholm		locality	21
+111 20	101752307	Stockholm		locality	18
+111 51	101752307	Stockholm		locality	16
+111 21	101752307	Stockholm		locality	15
+111 30	101752307	Stockholm		locality	12
+111 43	101752307	Stockholm		locality	12
+111 27	101752307	Stockholm		locality	11
+111 36	101752307	Stockholm		locality	9
+111 37	101752307	Stockholm		locality	9
+111 45	101752307	Stockholm		locality	9
+111 46	101752307	Stockholm		locality	9
+111 44	101752307	Stockholm		locality	8
+111 60	101752307	Stockholm		locality	8
+111 31	101752307	Stockholm		locality	7
+111 34	101752307	Stockholm		locality	7
+111 35	101752307	Stockholm		locality	7
+111 56	101752307	Stockholm		locality	7
+111 52	101752307	Stockholm		locality	6
+111 39	101752307	Stockholm		locality	5
+111 40	101752307	Stockholm		locality	5
+111 47	101752307	Stockholm		locality	5
+111 64	101752307	Stockholm		locality	5
+111 49	101752307	Stockholm		locality	3
+111 53	101752307	Stockholm		locality	3
+111 24	101752307	Stockholm		locality	2
+111 38	101752307	Stockholm		locality	2
+111 48	101752307	Stockholm		locality	2
+111 28	101752307	Stockholm		locality	1
+111 42	101752307	Stockholm		locality	1
+112 65	101752307	Stockholm		locality	30
+112 43	101752307	Stockholm		locality	20
+112 21	101752307	Stockholm		locality	12
+112 18	101752307	Stockholm		locality	9
+112 67	101752307	Stockholm		locality	6
+112 34	101752307	Stockholm		locality	5
+112 27	101752307	Stockholm		locality	4
+112 45	101752307	Stockholm		locality	4
+112 51	101752307	Stockholm		locality	4
+112 26	101752307	Stockholm		locality	3
+112 31	101752307	Stockholm		locality	3
+112 33	101752307	Stockholm		locality	3
+112 47	101752307	Stockholm		locality	3
+112 49	101752307	Stockholm		locality	3
+112 19	101752307	Stockholm		locality	2
+112 20	101752307	Stockholm		locality	2
+112 35	101752307	Stockholm		locality	2
+112 40	101752307	Stockholm		locality	2
+112 15	101752307	Stockholm		locality	1
+112 16	101752307	Stockholm		locality	1
+112 22	101752307	Stockholm		locality	1
+112 23	101752307	Stockholm		locality	1
+112 24	101752307	Stockholm		locality	1
+112 28	101752307	Stockholm		locality	1
+112 30	101752307	Stockholm		locality	1
+112 32	101752307	Stockholm		locality	1
+112 37	101752307	Stockholm		locality	1
+112 42	101752307	Stockholm		locality	1
+112 46	101752307	Stockholm		locality	1
+112 48	101752307	Stockholm		locality	1
+112 54	101752307	Stockholm		locality	1
+112 56	101752307	Stockholm		locality	1
+112 61	101752307	Stockholm		locality	1
+112 64	101752307	Stockholm		locality	1
+112 66	101752307	Stockholm		locality	1
+112 69	101752307	Stockholm		locality	1
+113 59	101752307	Stockholm		locality	10
+113 27	101752307	Stockholm		locality	9
+113 30	101752307	Stockholm		locality	9
+113 51	101752307	Stockholm		locality	9
+113 65	101752307	Stockholm		locality	8
+113 22	101752307	Stockholm		locality	6
+113 31	101752307	Stockholm		locality	6
+113 61	101752307	Stockholm		locality	6
+113 20	101752307	Stockholm		locality	5
+113 48	101752307	Stockholm		locality	5
+113 28	101752307	Stockholm		locality	4
+113 29	101752307	Stockholm		locality	4
+113 56	101752307	Stockholm		locality	4
+113 33	101752307	Stockholm		locality	3
+113 46	101752307	Stockholm		locality	3
+113 50	101752307	Stockholm		locality	3
+113 60	101752307	Stockholm		locality	3
+113 32	101752307	Stockholm		locality	2
+113 36	101752307	Stockholm		locality	2
+113 37	101752307	Stockholm		locality	2
+113 57	101752307	Stockholm		locality	2
+113 58	101752307	Stockholm		locality	2
+113 21	101752307	Stockholm		locality	1
+113 34	101752307	Stockholm		locality	1
+113 38	101752307	Stockholm		locality	1
+113 40	101752307	Stockholm		locality	1
+113 41	101752307	Stockholm		locality	1
+113 43	101752307	Stockholm		locality	1
+113 44	101752307	Stockholm		locality	1
+113 45	101752307	Stockholm		locality	1
+113 52	101752307	Stockholm		locality	1
+113 53	101752307	Stockholm		locality	1
+113 54	101752307	Stockholm		locality	1
+113 55	101752307	Stockholm		locality	1
+114 60	101752307	Stockholm		locality	62
+114 55	101752307	Stockholm		locality	52
+114 56	101752307	Stockholm		locality	44
+114 57	101752307	Stockholm		locality	30
+114 54	101752307	Stockholm		locality	22
+114 28	101752307	Stockholm		locality	17
+114 18	101752307	Stockholm		locality	12
+114 15	101752307	Stockholm		locality	11
+114 16	101752307	Stockholm		locality	6
+114 19	101752307	Stockholm		locality	6
+114 46	101752307	Stockholm		locality	6
+114 34	101752307	Stockholm		locality	5
+114 86	101752307	Stockholm		locality	5
+114 20	101752307	Stockholm		locality	2
+114 21	101752307	Stockholm		locality	2
+114 24	101752307	Stockholm		locality	2
+114 31	101752307	Stockholm		locality	2
+114 33	101752307	Stockholm		locality	2
+114 35	101752307	Stockholm		locality	2
+114 36	101752307	Stockholm		locality	2
+114 39	101752307	Stockholm		locality	2
+114 52	101752307	Stockholm		locality	2
+114 17	101752307	Stockholm		locality	1
+114 26	101752307	Stockholm		locality	1
+114 27	101752307	Stockholm		locality	1
+114 30	101752307	Stockholm		locality	1
+114 32	101752307	Stockholm		locality	1
+114 37	101752307	Stockholm		locality	1
+114 38	101752307	Stockholm		locality	1
+114 42	101752307	Stockholm		locality	1
+114 47	101752307	Stockholm		locality	1
+114 48	101752307	Stockholm		locality	1
+114 51	101752307	Stockholm		locality	1
+115 22	101752307	Stockholm		locality	73
+115 23	101752307	Stockholm		locality	68
+115 20	101752307	Stockholm		locality	43
+115 24	101752307	Stockholm		locality	42
+115 26	101752307	Stockholm		locality	30
+115 27	101752307	Stockholm		locality	29
+115 21	101752307	Stockholm		locality	23
+115 43	101752307	Stockholm		locality	21
+115 45	101752307	Stockholm		locality	11
+115 25	101752307	Stockholm		locality	6
+115 31	101752307	Stockholm		locality	4
+115 47	101752307	Stockholm		locality	4
+115 35	101752307	Stockholm		locality	3
+115 53	101752307	Stockholm		locality	3
+115 28	101752307	Stockholm		locality	2
+115 30	101752307	Stockholm		locality	1
+115 39	101752307	Stockholm		locality	1
+115 41	101752307	Stockholm		locality	1
+115 42	101752307	Stockholm		locality	1
+115 50	101752307	Stockholm		locality	1
+115 56	101752307	Stockholm		locality	1
+115 57	101752307	Stockholm		locality	1
+115 59	101752307	Stockholm		locality	1
+115 74	101752307	Stockholm		locality	1
+115 83	101752307	Stockholm		locality	1
+115 93	101752307	Stockholm		locality	1
+116 63	101752307	Stockholm		locality	13
+116 21	101752307	Stockholm		locality	5
+116 31	101752307	Stockholm		locality	5
+116 46	101752307	Stockholm		locality	5
+116 28	101752307	Stockholm		locality	4
+116 39	101752307	Stockholm		locality	4
+116 45	101752307	Stockholm		locality	4
+116 22	101752307	Stockholm		locality	3
+116 30	101752307	Stockholm		locality	3
+116 37	101752307	Stockholm		locality	3
+116 62	101752307	Stockholm		locality	3
+116 24	101752307	Stockholm		locality	2
+116 33	101752307	Stockholm		locality	2
+116 35	101752307	Stockholm		locality	2
+116 61	101752307	Stockholm		locality	2
+116 25	101752307	Stockholm		locality	1
+117 62	101752307	Stockholm		locality	18
+117 33	101752307	Stockholm		locality	13
+117 34	101752307	Stockholm		locality	7
+117 43	101752307	Stockholm		locality	6
+117 60	101752307	Stockholm		locality	6
+117 30	101752307	Stockholm		locality	4
+117 38	101752307	Stockholm		locality	3
+117 63	101752307	Stockholm		locality	3
+117 26	101752307	Stockholm		locality	2
+117 28	101752307	Stockholm		locality	2
+117 61	101752307	Stockholm		locality	2
+117 29	101752307	Stockholm		locality	1
+117 32	101752307	Stockholm		locality	1
+117 36	101752307	Stockholm		locality	1
+117 37	101752307	Stockholm		locality	1
+117 40	101752307	Stockholm		locality	1
+117 58	101752307	Stockholm		locality	1
+117 66	101752307	Stockholm		locality	1
+118 46	101752307	Stockholm		locality	8
+118 20	101752307	Stockholm		locality	7
+118 26	101752307	Stockholm		locality	7
+118 21	101752307	Stockholm		locality	5
+118 52	101752307	Stockholm		locality	5
+118 60	101752307	Stockholm		locality	5
+118 51	101752307	Stockholm		locality	4
+118 53	101752307	Stockholm		locality	4
+118 49	101752307	Stockholm		locality	3
+118 23	101752307	Stockholm		locality	2
+118 27	101752307	Stockholm		locality	2
+118 47	101752307	Stockholm		locality	2
+118 55	101752307	Stockholm		locality	2
+118 30	101752307	Stockholm		locality	1
+118 48	101752307	Stockholm		locality	1
+118 56	101752307	Stockholm		locality	1
+118 62	101752307	Stockholm		locality	1
+118 63	101752307	Stockholm		locality	1
+118 67	101752307	Stockholm		locality	1
+118 72	101752307	Stockholm		locality	1
+120 66	101752307	Stockholm		locality	65
+120 68	101752307	Stockholm		locality	61
+120 71	101752307	Stockholm		locality	55
+120 70	101752307	Stockholm		locality	46
+120 67	101752307	Stockholm		locality	44
+120 30	101752307	Stockholm		locality	23
+120 69	101752307	Stockholm		locality	23
+120 65	101752307	Stockholm		locality	9
+120 79	101752307	Stockholm		locality	8
+120 31	101752307	Stockholm		locality	6
+120 61	101752307	Stockholm		locality	5
+120 64	101752307	Stockholm		locality	3
+120 62	101752307	Stockholm		locality	1
+126 48	101752307	Stockholm		locality	49
+129 44	101752307	Stockholm		locality	273
+129 41	101752307	Stockholm		locality	46
+129 47	101752307	Stockholm		locality	1
+130 55	1125857157	Ornö		locality	1
+131 46	1125843503	Nacka		locality	639
+131 47	1125843503	Nacka		locality	575
+131 41	1125843503	Nacka		locality	500
+131 42	1125843503	Nacka		locality	428
+131 33	1125843503	Nacka		locality	323
+131 31	1125843503	Nacka		locality	183
+131 48	1125843503	Nacka		locality	160
+131 49	1125843503	Nacka		locality	107
+131 44	1125843503	Nacka		locality	90
+131 37	1125843503	Nacka		locality	85
+131 54	1125843503	Nacka		locality	76
+131 34	1125843503	Nacka		locality	73
+131 36	1125843503	Nacka		locality	54
+131 38	1125843503	Nacka		locality	50
+131 32	1125843503	Nacka		locality	49
+131 60	1125843503	Nacka		locality	49
+131 53	1125843503	Nacka		locality	42
+131 39	1125843503	Nacka		locality	41
+131 61	1125843503	Nacka		locality	35
+131 65	1125843503	Nacka		locality	32
+131 35	1125843503	Nacka		locality	30
+131 73	1125843503	Nacka		locality	29
+131 45	1125843503	Nacka		locality	22
+131 50	101754075	Saltsjöbaden		locality	20
+131 72	1125843503	Nacka		locality	20
+131 71	1125843503	Nacka		locality	19
+131 52	1125843503	Nacka		locality	10
+131 55	1125843503	Nacka		locality	10
+131 26	101752307	Stockholm		locality	1
+132 36	1125796231	Saltsjö Boo		locality	1027
+132 35	1125796231	Saltsjö Boo		locality	840
+132 46	1125796231	Saltsjö Boo		locality	617
+132 45	1125796231	Saltsjö Boo		locality	518
+132 34	1125796231	Saltsjö Boo		locality	489
+132 47	1125796231	Saltsjö Boo		locality	478
+132 48	1125796231	Saltsjö Boo		locality	446
+132 44	1125796231	Saltsjö Boo		locality	401
+132 37	1125796231	Saltsjö Boo		locality	351
+132 41	1125796231	Saltsjö Boo		locality	250
+132 43	1125796231	Saltsjö Boo		locality	214
+132 42	1125796231	Saltsjö Boo		locality	198
+132 33	1125796231	Saltsjö Boo		locality	132
+132 40	1125796231	Saltsjö Boo		locality	97
+132 39	1125796231	Saltsjö Boo		locality	89
+132 30	1125796231	Saltsjö Boo		locality	66
+132 32	1125796231	Saltsjö Boo		locality	39
+133 38	101754075	Saltsjöbaden		locality	392
+133 43	101754075	Saltsjöbaden		locality	296
+133 34	101754075	Saltsjöbaden		locality	267
+133 44	101754075	Saltsjöbaden		locality	235
+133 41	101754075	Saltsjöbaden		locality	129
+133 35	101754075	Saltsjöbaden		locality	93
+133 42	101754075	Saltsjöbaden		locality	51
+133 32	101754075	Saltsjöbaden		locality	40
+133 36	101754075	Saltsjöbaden		locality	5
+133 21	101754075	Saltsjöbaden		locality	2
+133 31	101754075	Saltsjöbaden		locality	1
+134 64	1125880747	Ingarö		locality	573
+134 32	101815909	Gustarsberg		locality	499
+134 67	1125880747	Ingarö		locality	495
+134 31	101815909	Gustarsberg		locality	426
+134 42	101815909	Gustarsberg		locality	392
+134 60	1125880747	Ingarö		locality	383
+134 62	1125880747	Ingarö		locality	359
+134 40	101815909	Gustarsberg		locality	357
+134 65	1125880747	Ingarö		locality	292
+134 66	1125880747	Ingarö		locality	292
+134 61	1125880747	Ingarö		locality	273
+134 43	101815909	Gustarsberg		locality	234
+134 41	101815909	Gustarsberg		locality	218
+134 38	101815909	Gustarsberg		locality	206
+134 34	101815909	Gustarsberg		locality	190
+134 35	101815909	Gustarsberg		locality	183
+134 39	101815909	Gustarsberg		locality	164
+134 37	101815909	Gustarsberg		locality	126
+134 33	101815909	Gustarsberg		locality	123
+134 63	1125880747	Ingarö		locality	108
+134 69	1125880747	Ingarö		locality	49
+134 36	101815909	Gustarsberg		locality	38
+134 30	101815909	Gustarsberg		locality	10
+134 45	1125880747	Ingarö		locality	8
+134 50	101815909	Gustarsberg		locality	4
+134 44	101815909	Gustarsberg		locality	2
+134 64	101815909	Gustarsberg		locality	1
+135 52	1125793903	Tyresö		locality	864
+135 35	1125793903	Tyresö		locality	449
+135 42	1125793903	Tyresö		locality	400
+135 33	1125793903	Tyresö		locality	57
+135 43	1125793903	Tyresö		locality	45
+135 47	1125793903	Tyresö		locality	25
+135 45	1125793903	Tyresö		locality	19
+135 63	1125793903	Tyresö		locality	12
+135 36	1125793903	Tyresö		locality	9
+135 38	1125793903	Tyresö		locality	4
+135 40	1125793903	Tyresö		locality	3
+136 49	1126017525	Haninge		locality	172
+136 70	1125855483	Vendelsomalm		locality	11
+136 48	1125808053	Handen		locality	6
+136 50	101754083	Jordbro		locality	3
+136 50	1126017525	Haninge		locality	2
+136 68	1125855483	Vendelsomalm		locality	1
+137 32	101754085	Västerhaninge		locality	93
+137 31	101754085	Västerhaninge		locality	70
+137 70	101815949	Dalarö		locality	2
+137 70	1125855483	Vendelsomalm		locality	1
+138 34	101754077	Älta		locality	498
+138 36	101754077	Älta		locality	489
+138 33	101754077	Älta		locality	422
+138 37	101754077	Älta		locality	419
+138 31	101754077	Älta		locality	100
+138 39	101754077	Älta		locality	61
+138 32	101754077	Älta		locality	53
+138 35	101754077	Älta		locality	28
+138 30	101754077	Älta		locality	4
+139 69	1125880747	Ingarö		locality	103
+139 34	101815909	Gustarsberg		locality	8
+141 34	1125988755	Huddinge		locality	144
+141 75	1125973415	Kungens Kurva		locality	6
+141 44	1125988755	Huddinge		locality	4
+141 35	1125988755	Huddinge		locality	3
+141 47	1125988755	Huddinge		locality	2
+141 75	1125988755	Huddinge		locality	1
+143 33	1125827863	Tullinge		locality	1
+144 33	1125970273	Rönninge		locality	436
+144 40	1125970273	Rönninge		locality	407
+144 37	1125970273	Rönninge		locality	378
+144 42	1125970273	Rönninge		locality	349
+144 44	1125970273	Rönninge		locality	344
+144 62	1125970273	Rönninge		locality	116
+144 31	1125970273	Rönninge		locality	87
+144 52	1125970273	Rönninge		locality	82
+144 32	1125970273	Rönninge		locality	80
+144 61	1125970273	Rönninge		locality	17
+144 30	1125970273	Rönninge		locality	12
+147 40	101847351	Tumba		locality	162
+147 43	101847351	Tumba		locality	101
+147 51	101847351	Tumba		locality	62
+147 53	101847351	Tumba		locality	41
+147 42	101847351	Tumba		locality	32
+147 54	101847351	Tumba		locality	30
+147 50	101847351	Tumba		locality	24
+147 30	101847351	Tumba		locality	2
+147 63	1125990637	Uttran		locality	2
+147 34	101847351	Tumba		locality	1
+148 96	101815931	Sorunda		locality	20
+149 41	101815935	Nynäshamn		locality	26
+151 72	101752305	Södertälje		locality	1
+152 70	101752305	Södertälje		locality	358
+152 40	101752305	Södertälje		locality	157
+152 31	101752305	Södertälje		locality	133
+152 30	101752305	Södertälje		locality	35
+152 58	101752305	Södertälje		locality	1
+153 31	101815927	Järna		locality	113
+153 30	101815927	Järna		locality	57
+153 35	101815927	Järna		locality	39
+153 38	101815927	Järna		locality	22
+153 37	101815927	Järna		locality	21
+153 36	101815927	Järna		locality	20
+153 60	101815945	Mölnbo		locality	1
+155 91	101815923	Nykvarn		locality	1
+155 93	101815923	Nykvarn		locality	1
+164 94	1125772423	Sollentuna		locality	1
+165 47	101752307	Stockholm		locality	1
+167 58	101752307	Stockholm		locality	1
+168 52	101752307	Stockholm		locality	1
+172 65	1125861961	Sundbyberg		locality	22
+172 38	1125861961	Sundbyberg		locality	20
+172 64	1125861961	Sundbyberg		locality	12
+172 39	1125861961	Sundbyberg		locality	8
+172 40	1125861961	Sundbyberg		locality	2
+172 41	1125861961	Sundbyberg		locality	1
+174 41	1125861961	Sundbyberg		locality	74
+174 52	1125861961	Sundbyberg		locality	1
+174 53	1125861961	Sundbyberg		locality	1
+174 55	1125861961	Sundbyberg		locality	1
+178 92	1125939741	Adelsö		locality	48
+178 30	101815921	Ekerö		locality	1
+179 65	101815907	Stenhamra		locality	1
+181 31	101839523	Lidingö		locality	4
+181 55	101839523	Lidingö		locality	4
+181 30	101839523	Lidingö		locality	3
+181 34	101839523	Lidingö		locality	3
+181 44	101839523	Lidingö		locality	3
+181 33	101839523	Lidingö		locality	2
+181 60	101839523	Lidingö		locality	2
+181 61	101839523	Lidingö		locality	2
+181 90	101839523	Lidingö		locality	2
+181 35	101839523	Lidingö		locality	1
+181 50	101839523	Lidingö		locality	1
+181 57	101839523	Lidingö		locality	1
+182 63	1125821213	Djursholm		locality	5
+182 05	1125821213	Djursholm		locality	2
+182 32	101839523	Lidingö		locality	1
+182 61	1125821213	Djursholm		locality	1
+182 89	1125821213	Djursholm		locality	1
+183 51	101752307	Stockholm		locality	83
+183 57	101752309	Täby		locality	16
+183 68	101752309	Täby		locality	3
+183 80	101752309	Täby		locality	3
+183 34	101752309	Täby		locality	2
+183 66	101752309	Täby		locality	2
+183 54	101752309	Täby		locality	1
+183 63	101752309	Täby		locality	1
+184 40	101815899	Åkersberga		locality	10
+184 30	101815899	Åkersberga		locality	9
+184 44	101815899	Åkersberga		locality	2
+184 50	101815899	Åkersberga		locality	2
+184 95	1125920741	Ljusterö		locality	2
+184 21	101815899	Åkersberga		locality	1
+184 26	101815899	Åkersberga		locality	1
+184 33	101815899	Åkersberga		locality	1
+185 34	101815905	Vaxholm		locality	28
+185 38	101815905	Vaxholm		locality	28
+185 21	101815905	Vaxholm		locality	3
+185 32	101815905	Vaxholm		locality	3
+185 31	101815905	Vaxholm		locality	1
+185 41	101815905	Vaxholm		locality	1
+186 31	101815889	Vallentuna		locality	2
+186 36	101815889	Vallentuna		locality	1
+186 40	101815889	Vallentuna		locality	1
+187 33	101752309	Täby		locality	228
+187 32	101752309	Täby		locality	197
+187 53	101752309	Täby		locality	191
+187 50	101752309	Täby		locality	152
+187 34	101752309	Täby		locality	138
+187 66	101752309	Täby		locality	10
+187 70	101752309	Täby		locality	5
+187 40	101752309	Täby		locality	2
+191 41	1125772423	Sollentuna		locality	6
+191 35	1125772423	Sollentuna		locality	5
+191 47	1125772423	Sollentuna		locality	3
+191 62	1125772423	Sollentuna		locality	3
+191 60	1125772423	Sollentuna		locality	2
+191 31	1125772423	Sollentuna		locality	1
+191 42	1125772423	Sollentuna		locality	1
+192 74	1125772423	Sollentuna		locality	610
+192 71	1125772423	Sollentuna		locality	543
+192 56	1125772423	Sollentuna		locality	301
+192 57	1125772423	Sollentuna		locality	29
+192 55	1125772423	Sollentuna		locality	11
+192 79	1125772423	Sollentuna		locality	3
+192 76	1125772423	Sollentuna		locality	2
+192 07	1125772423	Sollentuna		locality	1
+193 30	101815917	Sigtuna		locality	4
+194 34	1126016161	Upplands Vasby		locality	125
+194 75	1126016161	Upplands Vasby		locality	96
+194 73	1126016161	Upplands Vasby		locality	95
+194 31	101815895	Upplands Vasby		locality	84
+194 76	1126016161	Upplands Vasby		locality	65
+194 33	1126016161	Upplands Vasby		locality	47
+194 51	101815895	Upplands Vasby		locality	34
+194 32	1126016161	Upplands Vasby		locality	30
+194 63	101815895	Upplands Vasby		locality	18
+194 61	101815895	Upplands Vasby		locality	16
+194 78	1126016161	Upplands Vasby		locality	16
+194 74	1126016161	Upplands Vasby		locality	6
+194 77	1126016161	Upplands Vasby		locality	6
+194 68	101815895	Upplands Vasby		locality	3
+194 54	101815895	Upplands Vasby		locality	2
+194 04	1126016161	Upplands Vasby		locality	1
+194 21	1126016161	Upplands Vasby		locality	1
+194 22	1126016161	Upplands Vasby		locality	1
+194 42	1126016161	Upplands Vasby		locality	1
+194 43	1126016161	Upplands Vasby		locality	1
+194 45	101815895	Upplands Vasby		locality	1
+194 71	1126016161	Upplands Vasby		locality	1
+194 80	1126016161	Upplands Vasby		locality	1
+194 91	1126016161	Upplands Vasby		locality	1
+194 92	1126016161	Upplands Vasby		locality	1
+195 58	101815919	Märsta		locality	108
+195 60	1126005827	Arlandastad		locality	2
+195-93	101815919	Märsta		locality	1
+196 38	101839519	Kungsängen		locality	635
+196 37	101839519	Kungsängen		locality	385
+196 31	101839519	Kungsängen		locality	182
+196 32	101839519	Kungsängen		locality	156
+196 30	101839519	Kungsängen		locality	56
+196 39	101839519	Kungsängen		locality	6
+196 93	101839519	Kungsängen		locality	6
+196 34	101839519	Kungsängen		locality	5
+196 92	101839519	Kungsängen		locality	2
+197 36	101815891	Bro		locality	14
+197 30	101815891	Bro		locality	1
+197 93	101815891	Bro		locality	1
+204 78	1125942955	Sandhult		locality	1
+211 34	101752283	Malmo		locality	9
+211 33	101752283	Malmo		locality	7
+211 55	101752283	Malmo		locality	7
+211 57	101752283	Malmo		locality	5
+211 18	101752283	Malmo		locality	4
+211 36	101752283	Malmo		locality	4
+211 20	101752283	Malmo		locality	3
+211 22	101752283	Malmo		locality	3
+211 38	101752283	Malmo		locality	2
+211 39	101752283	Malmo		locality	2
+211 43 Malmö	101752283	Malmo		locality	2
+211 46	101752283	Malmo		locality	2
+211 52	101752283	Malmo		locality	2
+211 35	101752283	Malmo		locality	1
+211 51	101752283	Malmo		locality	1
+211 53	101752283	Malmo		locality	1
+212 31	101752283	Malmo		locality	763
+212 36	101752283	Malmo		locality	705
+212 30	101752283	Malmo		locality	502
+212 35	101752283	Malmo		locality	333
+212 29	101752283	Malmo		locality	309
+212 32	101752283	Malmo		locality	298
+212 33	101752283	Malmo		locality	190
+212 23	101752283	Malmo		locality	159
+212 34	101752283	Malmo		locality	119
+212 28	101752283	Malmo		locality	81
+212 37	101752283	Malmo		locality	3
+212 11	101752283	Malmo		locality	2
+212 15	101752283	Malmo		locality	1
+212 43	101752283	Malmo		locality	1
+213 74	101752283	Malmo		locality	518
+213 63	101752283	Malmo		locality	504
+213 62	101752283	Malmo		locality	380
+213 61	101752283	Malmo		locality	30
+214 20	101752283	Malmo		locality	20
+214 22	101752283	Malmo		locality	8
+214 33	101752283	Malmo		locality	8
+214 46	101752283	Malmo		locality	8
+214 25	101752283	Malmo		locality	1
+214 27	101752283	Malmo		locality	1
+214 29	101752283	Malmo		locality	1
+214 35	101752283	Malmo		locality	1
+215 79	101752283	Malmo		locality	467
+215 74	101752283	Malmo		locality	72
+215 86	101752283	Malmo		locality	7
+215 67	101752283	Malmo		locality	1
+215 71	101752283	Malmo		locality	1
+215 78	101752283	Malmo		locality	1
+216 20	101752283	Malmo		locality	437
+216 19	101752283	Malmo		locality	281
+216 21	101752283	Malmo		locality	33
+216 16	101752283	Malmo		locality	1
+216 25	101752283	Malmo		locality	1
+217 74	101752283	Malmo		locality	209
+217 64	101752283	Malmo		locality	171
+217 63	101752283	Malmo		locality	150
+217 75	101752283	Malmo		locality	6
+217 62	101752283	Malmo		locality	5
+217 71	101752283	Malmo		locality	5
+217 58	101752283	Malmo		locality	2
+217 59	101752283	Malmo		locality	2
+218 36	101754051	Bunkeflostrand		locality	170
+218 31	101754051	Bunkeflostrand		locality	131
+218 53	1126044503	Klagshamn		locality	75
+218 32	101754051	Bunkeflostrand		locality	23
+222 21	1126035975	Lund		locality	26
+222 22	1126035975	Lund		locality	21
+222 28	1126035975	Lund		locality	13
+222 29	1126035975	Lund		locality	5
+222 20	1126035975	Lund		locality	3
+222 40	101752279	Lund		locality	2
+223 63	101752279	Lund		locality	22
+223 50	1126035975	Lund		locality	14
+223 51	1126035975	Lund		locality	4
+223 58	1126035975	Lund		locality	1
+223 62 LUND	101752279	Lund		locality	1
+224 56	1126035975	Lund		locality	3
+224 60	101752279	Lund		locality	2
+224 65	101752279	Lund		locality	2
+224 57	1126035975	Lund		locality	1
+224 71	101752279	Lund		locality	1
+224 76	101752279	Lund		locality	1
+224 77	101752279	Lund		locality	1
+225 94	101752279	Lund		locality	1
+226 44	101752279	Lund		locality	39
+226 54	101752279	Lund		locality	7
+226 42	101752279	Lund		locality	1
+226 60	1126035975	Lund		locality	1
+227 32	1126035975	Lund		locality	16
+227 36	1126035975	Lund		locality	3
+227 33	1126035975	Lund		locality	1
+227 61	1126035975	Lund		locality	1
+231 44	101840151	Trelleborg		locality	1
+232 34	1125807097	Arlöv		locality	225
+232 38	1125807097	Arlöv		locality	70
+232 33	1125807097	Arlöv		locality	1
+232 53	101873005	Åkarp		locality	1
+233 38	101817879	Svedala		locality	8
+234 39	101754049	Lomma		locality	5
+234 31	101754049	Lomma		locality	1
+234 37	101754049	Lomma		locality	1
+234 41	101754049	Lomma		locality	1
+235 91	101817883	Vellinge		locality	3
+235 41	101817883	Vellinge		locality	2
+236 41	101840147	Höllviken		locality	684
+236 42	101840147	Höllviken		locality	650
+237 91	101817845	Bjärred		locality	1
+239 30	1108980173	Skanör		locality	2
+240 10	101817853	Dalby		locality	1
+240 14	101817861	Veberöd		locality	1
+241 35	101817833	Eslöv		locality	1004
+241 31	101817833	Eslöv		locality	433
+241 36	101817833	Eslöv		locality	344
+241 34	101817833	Eslöv		locality	262
+241 32	101817833	Eslöv		locality	243
+241 37	101817833	Eslöv		locality	195
+241 30	101817833	Eslöv		locality	42
+241 40	101817833	Eslöv		locality	15
+241 38	101817833	Eslöv		locality	7
+241 39	101817833	Eslöv		locality	6
+241 33	101817833	Eslöv		locality	4
+241 23	101816709	Ljungby		locality	1
+241 80	101817833	Eslöv		locality	1
+241 93	101817833	Eslöv		locality	1
+242 31	101817829	Hörby		locality	65
+242 94	101817829	Hörby		locality	3
+242 93	101817829	Hörby		locality	1
+243 30	101840133	Höör		locality	190
+243 31	101840133	Höör		locality	20
+243 35	101840133	Höör		locality	1
+243 95	101840133	Höör		locality	1
+245 42	101817857	Staffanstorp		locality	122
+245 65	101817851	Hjärup		locality	2
+245 35	101817857	Staffanstorp		locality	1
+245 44	101817857	Staffanstorp		locality	1
+247 62	101817861	Veberöd		locality	14
+247 70	101817863	Genarp		locality	3
+251 89	101752277	Helsingborg		locality	1
+252 86	101752277	Helsingborg		locality	638
+252 84	101752277	Helsingborg		locality	564
+252 52	101752277	Helsingborg		locality	554
+252 70	1108980303	Råå		locality	540
+252 51	101752277	Helsingborg		locality	448
+252 50	101752277	Helsingborg		locality	424
+252 76	101752277	Helsingborg		locality	374
+252 85	101752277	Helsingborg		locality	347
+252 71	1108980303	Råå		locality	342
+252 30	101752277	Helsingborg		locality	324
+252 69	1108980303	Råå		locality	312
+252 87	101752277	Helsingborg		locality	257
+252 23	101752277	Helsingborg		locality	255
+252 29	101752277	Helsingborg		locality	237
+252 32	101752277	Helsingborg		locality	237
+252 20	101752277	Helsingborg		locality	218
+252 25	101752277	Helsingborg		locality	217
+252 47	101752277	Helsingborg		locality	204
+252 27	101752277	Helsingborg		locality	195
+252 31	101752277	Helsingborg		locality	176
+252 21	101752277	Helsingborg		locality	162
+252 46	101752277	Helsingborg		locality	151
+252 34	101752277	Helsingborg		locality	135
+252 49	101752277	Helsingborg		locality	120
+252 28	101752277	Helsingborg		locality	104
+252 63	101752277	Helsingborg		locality	103
+252 24	101752277	Helsingborg		locality	99
+252 67	101752277	Helsingborg		locality	91
+252 48	101752277	Helsingborg		locality	90
+252 22	101752277	Helsingborg		locality	89
+252 77	101752277	Helsingborg		locality	89
+252 26	101752277	Helsingborg		locality	68
+252 75	101752277	Helsingborg		locality	62
+252 68	101752277	Helsingborg		locality	59
+252 45	101752277	Helsingborg		locality	50
+252 78	101752277	Helsingborg		locality	14
+252 66	101752277	Helsingborg		locality	7
+252 70	101752277	Helsingborg		locality	1
+253 62	101752277	Helsingborg		locality	664
+253 73	101817807	Ganntofta		locality	557
+253 52	101816635	Påarp		locality	547
+253 74	101752277	Helsingborg		locality	524
+253 56	101816623	Mörarp		locality	433
+253 53	101816635	Påarp		locality	426
+253 75	101752277	Helsingborg		locality	403
+253 41	1125924053	Vallåkra		locality	399
+253 54	101816623	Mörarp		locality	361
+253 51	101816635	Påarp		locality	352
+253 42	1125924053	Vallåkra		locality	347
+253 55	101816623	Mörarp		locality	334
+253 61	101752277	Helsingborg		locality	289
+253 68	101752277	Helsingborg		locality	99
+253 51	101752277	Helsingborg		locality	6
+254 50	101752277	Helsingborg		locality	714
+254 76	1125915789	Allerum		locality	558
+254 75	101754047	Ödåkra		locality	543
+254 72	101754047	Ödåkra		locality	520
+254 54	101752277	Helsingborg		locality	514
+254 49	101752277	Helsingborg		locality	494
+254 70	1125997483	Kattarp		locality	448
+254 74	101754047	Ödåkra		locality	429
+254 40	101752277	Helsingborg		locality	413
+254 73	101754047	Ödåkra		locality	392
+254 78	1125807351	Domsten		locality	312
+254 56	101752277	Helsingborg		locality	305
+254 77	1125923111	Fleninge		locality	289
+254 51	101752277	Helsingborg		locality	264
+254 33	101752277	Helsingborg		locality	253
+254 58	101752277	Helsingborg		locality	238
+254 48	101752277	Helsingborg		locality	234
+254 65	101752277	Helsingborg		locality	234
+254 71	1125820043	Hasslarp		locality	209
+254 43	101752277	Helsingborg		locality	190
+254 59	101752277	Helsingborg		locality	181
+254 39	101752277	Helsingborg		locality	177
+254 37	101752277	Helsingborg		locality	175
+254 38	101752277	Helsingborg		locality	159
+254 41	101752277	Helsingborg		locality	159
+254 55	101752277	Helsingborg		locality	148
+254 66	101752277	Helsingborg		locality	139
+254 57	101752277	Helsingborg		locality	138
+254 68	101752277	Helsingborg		locality	136
+254 62	101752277	Helsingborg		locality	123
+254 64	101752277	Helsingborg		locality	119
+254 44	101752277	Helsingborg		locality	111
+254 60	101752277	Helsingborg		locality	108
+254 63	101752277	Helsingborg		locality	108
+254 36	101752277	Helsingborg		locality	107
+254 67	101752277	Helsingborg		locality	101
+254 53	101752277	Helsingborg		locality	94
+254 35	101752277	Helsingborg		locality	75
+254 61	101752277	Helsingborg		locality	74
+254 52	101752277	Helsingborg		locality	71
+254 42	101752277	Helsingborg		locality	70
+255 92	101752277	Helsingborg		locality	285
+256 61	101752277	Helsingborg		locality	640
+256 55	101752277	Helsingborg		locality	636
+256 56	101752277	Helsingborg		locality	628
+256 67	101752277	Helsingborg		locality	532
+256 64	101752277	Helsingborg		locality	349
+256 65	101752277	Helsingborg		locality	202
+256 62	101752277	Helsingborg		locality	157
+256 68	101752277	Helsingborg		locality	138
+256 59	101752277	Helsingborg		locality	131
+256 69	101752277	Helsingborg		locality	75
+256 63	101752277	Helsingborg		locality	60
+256 71	101752277	Helsingborg		locality	56
+256 58	101752277	Helsingborg		locality	50
+256 66	101752277	Helsingborg		locality	15
+256 54	101752277	Helsingborg		locality	10
+256 57	101752277	Helsingborg		locality	1
+257 33	101817809	Rydebäck		locality	529
+257 32	101817809	Rydebäck		locality	505
+257 31	101817809	Rydebäck		locality	474
+257 30	101817809	Rydebäck		locality	380
+257 34	101817809	Rydebäck		locality	190
+260	101752313	Uppsala		locality	32
+260 36	1125773533	Väla		locality	19
+260 40	101816597	Viken		locality	7
+260 35	101754047	Ödåkra		locality	3
+260 24	1125846095	Röstånga		locality	2
+260 33	101816635	Påarp		locality	2
+260 36	101752277	Helsingborg		locality	1
+260 50	101816625	Billesholm		locality	1
+260 51	101817805	Ekeby		locality	1
+261 46	101817823	Landskrona		locality	424
+261 61	101817823	Landskrona		locality	422
+261 36	101817823	Landskrona		locality	1
+261 76	101817821	Assmundtorp		locality	1
+262 94	101816583	Ängelholm		locality	316
+262 92	101816583	Ängelholm		locality	63
+262 32	101816583	Ängelholm		locality	19
+262 52	101816583	Ängelholm		locality	9
+262 71	101816583	Ängelholm		locality	6
+262 31	101816583	Ängelholm		locality	5
+262 73	101816583	Ängelholm		locality	5
+262 80	101816583	Ängelholm		locality	5
+262 22	101816583	Ängelholm		locality	2
+262 72	101816583	Ängelholm		locality	2
+262 96	101816583	Ängelholm		locality	2
+262 41	101816583	Ängelholm		locality	1
+262 43	101816583	Ängelholm		locality	1
+262 51	101816583	Ängelholm		locality	1
+262 57	101816583	Ängelholm		locality	1
+262 58	101816583	Ängelholm		locality	1
+262 63	101816583	Ängelholm		locality	1
+262 64	101816583	Ängelholm		locality	1
+262 70	101873003	Strövelstorp		locality	1
+262 74	101816583	Ängelholm		locality	1
+263 65	101816597	Viken		locality	117
+263 62	101816597	Viken		locality	41
+263 61	101816597	Viken		locality	4
+263 39	101816585	Höganäs		locality	3
+263 76	1125965429	Nyhamnsläge		locality	2
+264 52	101816619	Ljungbyhed		locality	3
+264 51	101816619	Ljungbyhed		locality	2
+267 77	101817805	Ekeby		locality	23
+267 90	101816617	Bjuv		locality	9
+268 75	1125869651	Tågarp		locality	106
+269 33	101816553	Båstad		locality	1
+269 91	101816553	Båstad		locality	1
+270 33	1125990651	Vollsjö		locality	1
+271 34	101817893	Ystad		locality	2
+271 39	101817893	Ystad		locality	2
+271 41	101817893	Ystad		locality	2
+271 43	101817893	Ystad		locality	1
+272 36	101817871	Simrishamn		locality	1
+272 61	1125875091	Gärsnäs		locality	1
+273 50	1125825843	Brösarp		locality	2
+273 34	101817875	Tomelilla		locality	1
+274 34	101817881	Skurup		locality	2
+275 30	101817859	Sjöbo		locality	6
+275 39	101817859	Sjöbo		locality	2
+275 80	101817859	Sjöbo		locality	2
+275 64	101817867	Blentarp		locality	1
+275 92	101817859	Sjöbo		locality	1
+277 30	101817849	Kivik		locality	4
+277 32	101817849	Kivik		locality	1
+280 22	101816563	Vittsjö		locality	13
+280 40	1126037183	Skånes-Fagerhult		locality	1
+282 95	101816593	Tyringe		locality	168
+286 33	101816573	Örkelljunga		locality	1
+286 92	101816573	Örkelljunga		locality	1
+287 72	1125920105	Traryd		locality	1
+290 60	1125940051	Kyrkhult		locality	3
+291 31	101840131	Kristianstad		locality	10
+291 35	101840131	Kristianstad		locality	3
+291 50	101840131	Kristianstad		locality	1
+291 54	101840131	Kristianstad		locality	1
+291 94	101840131	Kristianstad		locality	1
+295 74	101816589	Näsum		locality	190
+295 38	101816621	Bromölla		locality	32
+295 39	101816621	Bromölla		locality	1
+296 62	1125816377	Yngsjö		locality	2
+296 92	1125816377	Yngsjö		locality	2
+296 32	101817815	Åhus		locality	1
+296 72	1125816377	Yngsjö		locality	1
+297 94	101817835	Degeberga		locality	3
+297 72	1125765319	Everöd		locality	1
+297 95	101817835	Degeberga		locality	1
+302 59	101752285	Halmstad		locality	488
+302 53	101752285	Halmstad		locality	390
+302 47	101752285	Halmstad		locality	154
+302 52	101752285	Halmstad		locality	84
+302 68	101752285	Halmstad		locality	67
+302 54	101752285	Halmstad		locality	54
+302 69	101752285	Halmstad		locality	32
+302 31	101752285	Halmstad		locality	15
+302 61	101752285	Halmstad		locality	12
+302 33	101752285	Halmstad		locality	11
+302 32	101752285	Halmstad		locality	6
+302 58	101752285	Halmstad		locality	6
+302 41	101752285	Halmstad		locality	2
+302 55	101752285	Halmstad		locality	2
+302 64	101752285	Halmstad		locality	2
+302 21	101752285	Halmstad		locality	1
+302 22	101752285	Halmstad		locality	1
+302 24	101752285	Halmstad		locality	1
+302 26	101752285	Halmstad		locality	1
+302 27	101752285	Halmstad		locality	1
+302 30	101752285	Halmstad		locality	1
+302 40	101752285	Halmstad		locality	1
+302 46	101752285	Halmstad		locality	1
+302 50	101752285	Halmstad		locality	1
+302 51	101752285	Halmstad		locality	1
+302 65	101752285	Halmstad		locality	1
+302 90	101752285	Halmstad		locality	1
+302 96	101752285	Halmstad		locality	1
+305 64	101816727	Gullbrandstorp		locality	29
+305 76	101816751	Getinge		locality	22
+305 94	101752285	Halmstad		locality	2
+305 92	1125988495	Holm		locality	1
+310 60	1125893239	Ullared		locality	4
+310 38	1125960727	Simlångsdalen		locality	2
+310 42	101816725	Haverdal		locality	1
+310 83	1125956791	Unnaryd		locality	1
+311 63	1125893581	Älvsered		locality	11
+311 32	101840159	Falkenberg		locality	4
+311 39	101840159	Falkenberg		locality	2
+311 41	101840159	Falkenberg		locality	2
+311 45	101840159	Falkenberg		locality	1
+311 93	1126018623	Morup		locality	1
+311 94	101840159	Falkenberg		locality	1
+312 30	101816735	Laholm		locality	1
+312 45	101816731	Veinge		locality	1
+313 50	101816723	Åled		locality	1
+314 81	101816747	Hyltebruk		locality	1
+330 21	101816855	Reftele		locality	15
+331 42	101816851	Värnamo		locality	1
+332 36	101816845	Gislaved		locality	4
+333 31	101816785	Smålandsstenar		locality	1
+334 33	101816849	Anderstorp		locality	1
+335 93	1125974857	Åsenhöga		locality	1
+341 30	101816709	Ljungby		locality	16
+341 35	101816709	Ljungby		locality	7
+341 32	101816709	Ljungby		locality	6
+341 36	101816709	Ljungby		locality	4
+341 33	101816709	Ljungby		locality	3
+341 34	101816709	Ljungby		locality	2
+341 37	101816709	Ljungby		locality	2
+341 55	1125764839	Vittaryd		locality	2
+341 60	101816709	Ljungby		locality	2
+341 83	101816709	Ljungby		locality	2
+341 21	101816709	Ljungby		locality	1
+341 26	101816709	Ljungby		locality	1
+341 42	101816709	Ljungby		locality	1
+341 51	101816699	Lagan		locality	1
+342 30	101816701	Alvesta		locality	1
+343 33	101816679	Älmhult		locality	5
+343 30	101816679	Älmhult		locality	3
+343 72	1125907855	Eneryda		locality	2
+343 21	101816679	Älmhult		locality	1
+351 04	101816705	Vaxjo		locality	1
+352 51	101816705	Vaxjo		locality	702
+352 53	101816705	Vaxjo		locality	398
+352 55	101816705	Vaxjo		locality	166
+352 50	101816705	Vaxjo		locality	56
+352 36	101816705	Vaxjo		locality	23
+352 46	101816705	Vaxjo		locality	9
+352 49	101816705	Vaxjo		locality	7
+352 30	101816705	Vaxjo		locality	4
+352 44	101816705	Vaxjo		locality	4
+352 33	101816705	Vaxjo		locality	3
+352 35	101816705	Vaxjo		locality	1
+352 39	101816705	Vaxjo		locality	1
+352 61s	101816705	Vaxjo		locality	1
+360 10	101816687	Ryd		locality	3
+360 50	101816715	Lessebo		locality	2
+360 42	101816693	Braås		locality	1
+360 44	101816677	Ingelstad		locality	1
+360 51	101816713	Hovmantorp		locality	1
+361 51	1125806317	Väckelsång		locality	1
+362 50	1125806317	Väckelsång		locality	58
+363 35	1125808835	Tolg		locality	1
+372 32	101817031	Svanesund		locality	13
+400 22	101752295	Gothenburg		locality	3
+401 26	101752295	Gothenburg		locality	2
+401 24	101752295	Gothenburg		locality	1
+401 25	101752295	Gothenburg		locality	1
+402 22	101752295	Gothenburg		locality	5
+402 23	101752295	Gothenburg		locality	1
+402 29	101752295	Gothenburg		locality	1
+404 22	101752295	Gothenburg		locality	1
+405 08	101752295	Gothenburg		locality	3
+411 31	101752295	Gothenburg		locality	52
+411 02	101752295	Gothenburg		locality	24
+411 36	101752295	Gothenburg		locality	24
+411 01	101752295	Gothenburg		locality	17
+411 04	101752295	Gothenburg		locality	9
+411 18	101752295	Gothenburg		locality	8
+411 37	101752295	Gothenburg		locality	6
+411 38	101752295	Gothenburg		locality	6
+411 05	101752295	Gothenburg		locality	5
+411 21	101752295	Gothenburg		locality	4
+411 06	101752295	Gothenburg		locality	3
+411 08	101752295	Gothenburg		locality	3
+411 32	101752295	Gothenburg		locality	1
+411 90	101752295	Gothenburg		locality	1
+412 80	101752295	Gothenburg		locality	65
+412 49	101752295	Gothenburg		locality	61
+412 63	101752295	Gothenburg		locality	40
+412 52	101752295	Gothenburg		locality	37
+412 53	101752295	Gothenburg		locality	21
+412 79	101752295	Gothenburg		locality	11
+412 58	101752295	Gothenburg		locality	6
+412 51	101752295	Gothenburg		locality	5
+412 60	101752295	Gothenburg		locality	5
+412 50	101752295	Gothenburg		locality	1
+412 55	101752295	Gothenburg		locality	1
+412 66	101752295	Gothenburg		locality	1
+412 85	101752295	Gothenburg		locality	1
+413 24	101752295	Gothenburg		locality	113
+413 08	101752295	Gothenburg		locality	97
+413 26	101752295	Gothenburg		locality	51
+413 04	101752295	Gothenburg		locality	40
+413 07	101752295	Gothenburg		locality	30
+413 25	101752295	Gothenburg		locality	27
+413 46	101752295	Gothenburg		locality	25
+413 01	101752295	Gothenburg		locality	23
+413 05	101752295	Gothenburg		locality	22
+413 06	101752295	Gothenburg		locality	19
+413 02	101752295	Gothenburg		locality	8
+413 22	101752295	Gothenburg		locality	7
+413 45	101752295	Gothenburg		locality	6
+413 19	101752295	Gothenburg		locality	4
+413 23	101752295	Gothenburg		locality	4
+414 69	101752295	Gothenburg		locality	40
+414 71	101752295	Gothenburg		locality	25
+414 55	101752295	Gothenburg		locality	16
+414 70	101752295	Gothenburg		locality	16
+414 41	101752295	Gothenburg		locality	3
+414 73	101752295	Gothenburg		locality	3
+414 72	101752295	Gothenburg		locality	2
+414 81	101752295	Gothenburg		locality	2
+414 53	101752295	Gothenburg		locality	1
+414 77	101752295	Gothenburg		locality	1
+414 78	101752295	Gothenburg		locality	1
+415 15	101752295	Gothenburg		locality	39
+415 20	101752295	Gothenburg		locality	29
+415 02	101752295	Gothenburg		locality	18
+415 03	101752295	Gothenburg		locality	12
+415 50	101752295	Gothenburg		locality	7
+415 19	101752295	Gothenburg		locality	6
+415 05	101752295	Gothenburg		locality	5
+415 01	101752295	Gothenburg		locality	3
+415 13	101752295	Gothenburg		locality	2
+415 26	101752295	Gothenburg		locality	1
+416 64	101752295	Gothenburg		locality	14
+416 72	101752295	Gothenburg		locality	7
+416 49	101752295	Gothenburg		locality	6
+416 73	101752295	Gothenburg		locality	5
+416 63	101752295	Gothenburg		locality	3
+416 65	101752295	Gothenburg		locality	2
+416 48	101752295	Gothenburg		locality	1
+416 55	101752295	Gothenburg		locality	1
+416 60	101752295	Gothenburg		locality	1
+417 20	101752295	Gothenburg		locality	319
+417 47	101752295	Gothenburg		locality	150
+417 67	101752295	Gothenburg		locality	123
+417 05	101752295	Gothenburg		locality	90
+417 60	101752295	Gothenburg		locality	72
+417 21	101752295	Gothenburg		locality	54
+417 44	101752295	Gothenburg		locality	50
+417 02	101752295	Gothenburg		locality	36
+417 46	101752295	Gothenburg		locality	15
+417 55	101752295	Gothenburg		locality	14
+417 08	101752295	Gothenburg		locality	13
+417 07	101752295	Gothenburg		locality	11
+417 62	101752295	Gothenburg		locality	11
+417 64	101752295	Gothenburg		locality	10
+417 29	101752295	Gothenburg		locality	7
+417 56	101752295	Gothenburg		locality	7
+417 26	101752295	Gothenburg		locality	6
+417 01	101752295	Gothenburg		locality	4
+417 48	101752295	Gothenburg		locality	4
+417 03	101752295	Gothenburg		locality	3
+417 49	101752295	Gothenburg		locality	3
+417 15	101752295	Gothenburg		locality	1
+417 17	101752295	Gothenburg		locality	1
+417 23	101752295	Gothenburg		locality	1
+417 57	101752295	Gothenburg		locality	1
+417 58	101752295	Gothenburg		locality	1
+418 78	101752295	Gothenburg		locality	7
+418 33	101752295	Gothenburg		locality	3
+418 38	101752295	Gothenburg		locality	2
+418 79	101752295	Gothenburg		locality	2
+418 72	101752295	Gothenburg		locality	1
+418 75	101752295	Gothenburg		locality	1
+418 77	101752295	Gothenburg		locality	1
+422 63	101840179	Torslanda		locality	2
+423 56	101840179	Torslanda		locality	50
+423 44	101840179	Torslanda		locality	39
+423 36	101840179	Torslanda		locality	31
+423 63	101840179	Torslanda		locality	22
+423 37	101840179	Torslanda		locality	17
+423 32	101840179	Torslanda		locality	3
+423 55	101840179	Torslanda		locality	3
+423 39	101840179	Torslanda		locality	2
+423 59	101840179	Torslanda		locality	2
+423 73	1125840737	Säve		locality	2
+423 00	101840179	Torslanda		locality	1
+423 38	101840179	Torslanda		locality	1
+423 61	101840179	Torslanda		locality	1
+424 37	1125818859	Angered		locality	78
+424 55	1125818859	Angered		locality	69
+424 91	101817079	Olofstorp		locality	3
+424 72	101817079	Olofstorp		locality	2
+424 31	1125818859	Angered		locality	1
+424 33	1125818859	Angered		locality	1
+424 50	1125818859	Angered		locality	1
+424 65	1125818859	Angered		locality	1
+424 67	1125818859	Angered		locality	1
+425 37	1125997475	Kärra		locality	14
+425 36	1125997475	Kärra		locality	1
+425 65	1125997475	Kärra		locality	1
+428 36	101840187	Kållered		locality	6
+428 32	101840187	Kållered		locality	1
+429 31	1125841899	Kullavik		locality	1
+430 83	1126050253	Vrångö		locality	3
+430 81	1125934203	Köpstadsö		locality	2
+430 16	1125846111	Rolfstorp		locality	1
+431 66	1126016183	Mölndal		locality	39
+431 36	1126016183	Mölndal		locality	35
+431 31	1126016183	Mölndal		locality	30
+431 37	1126016183	Mölndal		locality	27
+431 35	1126016183	Mölndal		locality	11
+431 44	1126016183	Mölndal		locality	10
+431 30	1126016183	Mölndal		locality	5
+431 50	1126016183	Mölndal		locality	2
+431 33	1126016183	Mölndal		locality	1
+431 60	1126016183	Mölndal		locality	1
+432 95	101816741	Varberg		locality	10
+432 97	1125846111	Rolfstorp		locality	2
+432 52	101816741	Varberg		locality	1
+432 53	101816741	Varberg		locality	1
+432 68	1125942823	Derome		locality	1
+432 74	101817013	Skara		locality	1
+432 85	1126011037	Väröbacka		locality	1
+433 34	1125809291	Partille		locality	37
+433 31	1125809291	Partille		locality	15
+433 30	1125809291	Partille		locality	3
+433 47	1125809291	Partille		locality	2
+433 38	1125809291	Partille		locality	1
+433 44	1125809291	Partille		locality	1
+433 82	1125809291	Partille		locality	1
+434 00	101816765	Kungsbacka		locality	2
+434 39	101816765	Kungsbacka		locality	1
+434 99	101816765	Kungsbacka		locality	1
+436 58	1125768099	Hovås		locality	151
+437 40	101840189	Lindome		locality	143
+437 35	101840189	Lindome		locality	52
+437 34	101840189	Lindome		locality	30
+437 33	101840189	Lindome		locality	1
+438 36	101817139	Landvetter		locality	68
+438 93	101817139	Landvetter		locality	32
+438 92	1125842161	Härryda		locality	4
+438 34	101817139	Landvetter		locality	2
+438 53	101817133	Hindås		locality	1
+438 80	1125842161	Härryda		locality	1
+439 93	101817139	Landvetter		locality	4
+439 93	101816773	Onsala		locality	1
+440 30	101817067	Marstrand		locality	1
+441 56	101817061	Alingsås		locality	126
+441 93	101817061	Alingsås		locality	87
+441 63	101817061	Alingsås		locality	24
+441 65	101817061	Alingsås		locality	12
+441 39	101817061	Alingsås		locality	4
+441 30	101817061	Alingsås		locality	3
+441 38	101817061	Alingsås		locality	1
+441 50	101817061	Alingsås		locality	1
+442 39	101840173	Kungälv		locality	194
+442 38	101840173	Kungälv		locality	69
+442 93	1125863269	Rishammar		locality	9
+442 49	101840173	Kungälv		locality	2
+442 60	101817059	Kode		locality	2
+442 75	1125773549	Lycke		locality	2
+442 32	101840173	Kungälv		locality	1
+442 35	101840173	Kungälv		locality	1
+442 37	101840173	Kungälv		locality	1
+442 40	101840173	Kungälv		locality	1
+442 98	101817059	Kode		locality	1
+443 60	1125819917	Stenkullen		locality	2
+444 92	1125954535	Jörlanda		locality	4
+444 60	101817049	Stora Höga		locality	2
+444 32	101817041	Stenungsund		locality	1
+444 48	101817041	Stenungsund		locality	1
+444 97	1125968943	Svenshögen		locality	1
+447 31	101817047	Vårgårda		locality	14
+448 36	101817075	Floda		locality	239
+450 34	1125978153	Fiskebäckskil		locality	2
+450 45	101817001	Hunnebostrand		locality	1
+450 61	101817001	Hunnebostrand		locality	1
+450 70	1125809985	Hamburgsund		locality	1
+450 71	1125957225	Fjällbacka		locality	1
+451 30	101840169	Uddevalla		locality	15
+451 31	101840169	Uddevalla		locality	10
+451 50	101840169	Uddevalla		locality	10
+451 76	101840169	Uddevalla		locality	7
+451 55	101840169	Uddevalla		locality	2
+451 42	101840169	Uddevalla		locality	1
+451 43	101840169	Uddevalla		locality	1
+451 54	101840169	Uddevalla		locality	1
+452 35	101817087	Strömstad		locality	4
+452 04	1125968849	Nordkoster		locality	2
+452 05	1125986793	Syd-Koster		locality	2
+452 94	101817087	Strömstad		locality	2
+452 97	101817087	Strömstad		locality	2
+452 31	101817087	Strömstad		locality	1
+452 35	101817101	Mariestad		locality	1
+452 82	101817087	Strömstad		locality	1
+452 92	101817087	Strömstad		locality	1
+453 35	101816989	Lysekil		locality	1
+453 91	101816989	Lysekil		locality	1
+454 94	101817011	Brastad		locality	7
+454 95	101817011	Brastad		locality	3
+456 32	101817017	Kungshamn		locality	537
+456 55	1125995473	Bohus-malmön		locality	1
+457 34	101817095	Tanumshede		locality	39
+457 95	101817105	Grebbestad		locality	19
+457 31	101817095	Tanumshede		locality	13
+457 91	101817095	Tanumshede		locality	9
+457 30	101817095	Tanumshede		locality	4
+457 40	1125957225	Fjällbacka		locality	2
+457 39	101817095	Tanumshede		locality	1
+457 95	101817095	Tanumshede		locality	1
+458 30	101817107	Färgelanda		locality	1
+459 30	101817019	Ljungskile		locality	2
+461 91	101847325	Trollhattan		locality	20
+461 30	101847325	Trollhattan		locality	3
+461 32	101847325	Trollhattan		locality	3
+461 00	101847325	Trollhattan		locality	1
+461 38	101847325	Trollhattan		locality	1
+461 60	101847325	Trollhattan		locality	1
+462 20	101817015	Vänersborg		locality	1
+462 80	101817015	Vänersborg		locality	1
+463 61	101816597	Viken		locality	10
+464 34	101817103	Mellerud		locality	1
+467 91	101816983	Grästorp		locality	2
+470 32	101817051	Skärhamn		locality	1
+471 51	1125862025	Klädesholmen		locality	394
+471 93	1125915701	Kållekärr		locality	27
+471 95	101817051	Skärhamn		locality	26
+471 62	101847329	Höviksnäs		locality	24
+471 94	1125915701	Kållekärr		locality	2
+471 43	1126020557	Dyrön		locality	1
+471 70	101847329	Höviksnäs		locality	1
+471 80	101817051	Skärhamn		locality	1
+471 90	1125989715	Klövedal		locality	1
+471 90	1125791815	Kyrkesund		locality	1
+472 95	1125774703	Varekil		locality	4
+473 34	101816997	Henån		locality	2
+473 95	101816997	Henån		locality	2
+473 31	101816997	Henån		locality	1
+473 97	101816997	Henån		locality	1
+474 71	1125771761	Gullholmen		locality	1
+474 94	1126024405	Hälleviksstrand		locality	1
+475 36	1125895357	Kalvsund		locality	126
+475 42	101840185	Hönö		locality	123
+475 37	101817127	Bohus-Björkö		locality	106
+475 53	1125766427	Rörö		locality	15
+502 34	101752293	Borås		locality	1
+503 30	101752293	Borås		locality	1
+503 31	101752293	Borås		locality	1
+503 34	101752293	Borås		locality	1
+503 35	101752293	Borås		locality	1
+503 37	101752293	Borås		locality	1
+503 38	101752293	Borås		locality	1
+503 60	101752293	Borås		locality	1
+504 46	101752293	Borås		locality	20
+504 37	101752293	Borås		locality	1
+504 62	101752293	Borås		locality	1
+505 59	101752283	Malmo		locality	1
+507 31	101752293	Borås		locality	2
+507 52	101752293	Borås		locality	1
+511 54	101847333	Kinna		locality	2
+511 61	1125827479	Skene		locality	2
+511 69	1125978069	Sätila		locality	2
+511 56	101847333	Kinna		locality	1
+511 57	101847333	Kinna		locality	1
+513 34	101817073	Fristad		locality	1
+513 35	101817073	Fristad		locality	1
+514 91	101817161	Tranemo		locality	1
+514 94	1125915541	Sjötofta		locality	1
+517 70	1125964741	Töllsjö		locality	4
+517 34	101817141	Bollebygd		locality	1
+520 24	1125922661	Blidsberg		locality	1
+521 92	101817029	Falköping		locality	55
+521 56	101817033	Floby		locality	27
+521 75	1125865013	Vartofta		locality	18
+521 32	101817029	Falköping		locality	15
+521 96	101817029	Falköping		locality	14
+521 94	101817029	Falköping		locality	13
+521 93	101817029	Falköping		locality	9
+521 91	101817029	Falköping		locality	8
+521 42	101817029	Falköping		locality	5
+521 35	101817029	Falköping		locality	4
+521 30	101817029	Falköping		locality	3
+521 70	1125890817	Åsarp		locality	3
+521 71	1125890817	Åsarp		locality	3
+521 85	101817029	Falköping		locality	3
+521 53	101817033	Floby		locality	2
+521 55	101817033	Floby		locality	2
+521 60	101816993	Stenstorp		locality	2
+521 81	101817029	Falköping		locality	2
+521 98	1125920489	Broddetorp		locality	2
+521 43	101817029	Falköping		locality	1
+521 44	101817029	Falköping		locality	1
+521 51	101817033	Floby		locality	1
+521 61	101816993	Stenstorp		locality	1
+521 63	101816993	Stenstorp		locality	1
+521 73	1125843901	Kinnarp		locality	1
+521 95	1126018511	Kättilstorp		locality	1
+522 91	101817025	Tidaholm		locality	1
+523 97	101817077	Ulricehamn		locality	4
+523 30	101817077	Ulricehamn		locality	1
+524 30	101817039	Herrljunga		locality	6
+524 93	101817039	Herrljunga		locality	2
+524 95	1125997499	Ljung		locality	1
+524 96	1125997499	Ljung		locality	1
+530 10	1125920971	Vedum		locality	1
+531 54	101817119	Lidköping		locality	128
+531 53	101817119	Lidköping		locality	27
+531 50	101817119	Lidköping		locality	20
+531 73	101817115	Källby		locality	11
+531 52	101817119	Lidköping		locality	10
+531 30	101817119	Lidköping		locality	8
+531 31	101817119	Lidköping		locality	7
+531 51	101817119	Lidköping		locality	1
+533 94	1125921693	Hällekis		locality	1
+534 92	1125809767	Tråvad		locality	49
+534 62	1126018551	Larv		locality	4
+534 60	1125920971	Vedum		locality	1
+534 61	1125920971	Vedum		locality	1
+534 95	101816995	Vara		locality	1
+541 41	101817005	Skövde		locality	2
+541 32	101817005	Skövde		locality	1
+542 33	101817101	Mariestad		locality	2
+543 35	101817003	Tibro		locality	25
+543 31	101817003	Tibro		locality	6
+544 31	101816985	Hjo		locality	2
+544 94	101816985	Hjo		locality	1
+545 30	101817097	Töreboda		locality	8
+546 31	101817111	Karlsborg		locality	1
+549 93	1125942875	Moholm		locality	1
+553 18	101752287	Jönköping		locality	9
+553 13	101752287	Jönköping		locality	2
+553 20	101752287	Jönköping		locality	2
+553 16	101752287	Jönköping		locality	1
+553 17	101752287	Jönköping		locality	1
+554 54	101752287	Jönköping		locality	4
+560 25	1125895075	Bottnaryd		locality	1
+561 32	1125808437	Huskvarna		locality	3
+563 31	101816795	Gränna		locality	4
+563 32	101816795	Gränna		locality	2
+563 46	101752311	Karlstad		locality	1
+563 91	101816795	Gränna		locality	1
+563 93	101816795	Gränna		locality	1
+564 35	101840161	Bankeryd		locality	1
+566 31	101816799	Habo		locality	101
+566 33	101816799	Habo		locality	6
+566 24	101816799	Habo		locality	1
+566 35	101816799	Habo		locality	1
+570 12	101816837	Landsbro		locality	649
+570 10	1126038595	Korsberga		locality	5
+570 30	101816817	Mariannelund		locality	1
+571 66	101816821	Bodafors		locality	11
+571 97	101816807	Forserum		locality	1
+573 40	101816791	Tranås		locality	1
+573 42	101816791	Tranås		locality	1
+574 39	101816833	Vetlanda		locality	566
+574 76	1126038595	Korsberga		locality	1
+574 96	101816833	Vetlanda		locality	1
+575 95	101816813	Eksjö		locality	2
+575 32	101816813	Eksjö		locality	1
+576 31	101816835	Sävsjö		locality	265
+576 32	101816835	Sävsjö		locality	216
+580 10	101752291	Linköping		locality	3
+581 81	101752291	Linköping		locality	71
+581 17	101752291	Linköping		locality	3
+581 11	101752291	Linköping		locality	1
+581 28	101752291	Linköping		locality	1
+582 72	101752291	Linköping		locality	252
+582 74	101752291	Linköping		locality	134
+582 78	101752291	Linköping		locality	29
+582 14	101752291	Linköping		locality	13
+582 38	101752291	Linköping		locality	10
+582 32	101752291	Linköping		locality	9
+582 22	101752291	Linköping		locality	5
+582 34	101752291	Linköping		locality	5
+582 42	101752291	Linköping		locality	5
+582 25	101752291	Linköping		locality	4
+582 28	101752291	Linköping		locality	2
+582 26	101752291	Linköping		locality	1
+582 52	101752291	Linköping		locality	1
+583 33	101752291	Linköping		locality	124
+583 32	101752291	Linköping		locality	106
+583 30	101752291	Linköping		locality	17
+583 38	101752291	Linköping		locality	4
+583 28	101752291	Linköping		locality	1
+584 37	101752291	Linköping		locality	233
+584 32	101752291	Linköping		locality	6
+584 34	101752291	Linköping		locality	3
+585 93	101752291	Linköping		locality	1
+586 43	101752291	Linköping		locality	102
+586 47	101752291	Linköping		locality	62
+586 44	101752291	Linköping		locality	11
+586 63	101752291	Linköping		locality	3
+587 39	101752291	Linköping		locality	528
+587 35	101752291	Linköping		locality	183
+587 50	101752291	Linköping		locality	97
+587 58	101752291	Linköping		locality	93
+587 26	101752291	Linköping		locality	1
+589 55	101752291	Linköping		locality	323
+589 53	101752291	Linköping		locality	132
+589 57	101752291	Linköping		locality	99
+589 41	101752291	Linköping		locality	11
+589 25	101752291	Linköping		locality	2
+589 97	101816817	Mariannelund		locality	2
+589 37	101752291	Linköping		locality	1
+589 65	1125879869	Bestorp		locality	1
+590 31	101847323	Borensberg		locality	4
+590 17	101816925	Mantorp		locality	2
+590 42	1125819211	Horn		locality	1
+590 77	101816969	Berg		locality	1
+590 77	1125920977	Vreta Kloster		locality	1
+591 72	101816965	Motala		locality	243
+592 30	101816933	Vadstena		locality	421
+592 41	101816933	Vadstena		locality	368
+592 32	101816933	Vadstena		locality	290
+592 40	101816933	Vadstena		locality	172
+592 31	101816933	Vadstena		locality	163
+592 21	101816933	Vadstena		locality	1
+592 23	101816933	Vadstena		locality	1
+592 42	101816933	Vadstena		locality	1
+592 91	101816933	Vadstena		locality	1
+596 34	101816939	Skänninge		locality	1
+598 97	101816817	Mariannelund		locality	4
+600 07	101752289	Norrköping		locality	1
+600 43	101752289	Norrköping		locality	1
+602 10	101752289	Norrköping		locality	371
+602 12	101752289	Norrköping		locality	132
+602 35	101752289	Norrköping		locality	126
+602 13	101752289	Norrköping		locality	113
+602 08	101752289	Norrköping		locality	105
+602 46	101752289	Norrköping		locality	99
+602 14	101752289	Norrköping		locality	93
+602 41	101752289	Norrköping		locality	87
+602 15	101752289	Norrköping		locality	85
+602 09	101752289	Norrköping		locality	77
+602 28	101752289	Norrköping		locality	44
+602 16	101752289	Norrköping		locality	38
+602 11	101752289	Norrköping		locality	32
+602 17	101752289	Norrköping		locality	28
+602 23	101752289	Norrköping		locality	28
+602 33	101752289	Norrköping		locality	26
+602 25	101752289	Norrköping		locality	21
+602 26	101752289	Norrköping		locality	21
+602 27	101752289	Norrköping		locality	21
+602 29	101752289	Norrköping		locality	21
+602 34	101752289	Norrköping		locality	20
+602 31	101752289	Norrköping		locality	18
+602 30	101752289	Norrköping		locality	15
+602 21	101752289	Norrköping		locality	14
+602 32	101752289	Norrköping		locality	11
+602 45	101752289	Norrköping		locality	11
+602 19	101752289	Norrköping		locality	10
+602 40	101752289	Norrköping		locality	10
+602 20	101752289	Norrköping		locality	8
+602 24	101752289	Norrköping		locality	3
+602 18	101752289	Norrköping		locality	2
+602 22	101752289	Norrköping		locality	2
+602 36	101752289	Norrköping		locality	2
+602 37	101752289	Norrköping		locality	1
+602 44	101752289	Norrköping		locality	1
+603 81	101752289	Norrköping		locality	364
+603 79	101752289	Norrköping		locality	298
+603 76	101752289	Norrköping		locality	220
+603 60	101752289	Norrköping		locality	203
+603 70	101752289	Norrköping		locality	187
+603 61	101752289	Norrköping		locality	145
+603 52	101752289	Norrköping		locality	124
+603 71	101752289	Norrköping		locality	99
+603 36	101752289	Norrköping		locality	84
+603 53	101752289	Norrköping		locality	81
+603 51	101752289	Norrköping		locality	61
+603 54	101752289	Norrköping		locality	55
+603 59	101752289	Norrköping		locality	24
+603 47	101752289	Norrköping		locality	23
+603 58	101752289	Norrköping		locality	15
+603 63	101752289	Norrköping		locality	11
+603 87	101752289	Norrköping		locality	10
+603 55	101752289	Norrköping		locality	8
+603 45	101752289	Norrköping		locality	4
+603 35	101752289	Norrköping		locality	3
+603 37	101752289	Norrköping		locality	2
+603 50	101752289	Norrköping		locality	2
+603 62	101752289	Norrköping		locality	1
+605 92	101752289	Norrköping		locality	1
+610 71	101815811	Vagnhärad		locality	13
+610 70	101815811	Vagnhärad		locality	2
+610 72	101815811	Vagnhärad		locality	2
+611 72	101817169	Stigtomta		locality	611
+611 38	101817173	Nyköping		locality	3
+612 34	101816953	Finspång		locality	338
+612 36	101816953	Finspång		locality	300
+612 37	101816953	Finspång		locality	260
+612 43	101816953	Finspång		locality	186
+612 40	101816953	Finspång		locality	172
+612 30	101816953	Finspång		locality	121
+612 35	101816953	Finspång		locality	41
+612 44	101816953	Finspång		locality	21
+612 31	101816953	Finspång		locality	5
+612 41	101816953	Finspång		locality	1
+613 36	101817179	Oxelösund		locality	641
+613 35	101817179	Oxelösund		locality	352
+613 37	101817179	Oxelösund		locality	224
+614 30	101816971	Söderköping		locality	1
+618 93	1125826637	Kolmården		locality	2
+619 30	101815813	Trosa		locality	1
+621 50	101847317	Visby		locality	484
+621 52	101847317	Visby		locality	236
+621 54	101847317	Visby		locality	148
+621 49	101847317	Visby		locality	112
+621 53	101847317	Visby		locality	102
+621 57	101847317	Visby		locality	59
+621 56	101847317	Visby		locality	12
+621 58	101847317	Visby		locality	6
+621 45	101847317	Visby		locality	5
+621 46	101847317	Visby		locality	3
+621 55	101847317	Visby		locality	3
+621 40	101847317	Visby		locality	1
+621 84	101847317	Visby		locality	1
+623 41	1126018427	Havdhem		locality	58
+623 55	101816921	Klintehamn		locality	22
+623 76	101816921	Klintehamn		locality	8
+623 46	101752311	Karlstad		locality	1
+623 47	101816923	Hemse		locality	1
+624 66	1125945353	Fårö		locality	3
+624 48	101816915	Slite		locality	2
+624 30	101816915	Slite		locality	1
+624 58	1125882683	Lärbro		locality	1
+631 86	101752297	Eskilstuna		locality	1
+631 88	101752297	Eskilstuna		locality	1
+632 20	101752297	Eskilstuna		locality	29
+633 47	101752297	Eskilstuna		locality	931
+633 48	101752297	Eskilstuna		locality	115
+633 46	101752297	Eskilstuna		locality	21
+633 50	101752297	Eskilstuna		locality	1
+633 52	101752297	Eskilstuna		locality	1
+641 92	101815809	Katrineholm		locality	9
+641 46	101815809	Katrineholm		locality	2
+641 30	101815809	Katrineholm		locality	1
+641 62	101815807	Valla		locality	1
+645 91	101815783	Strängnäs		locality	2
+645 50	101815783	Strängnäs		locality	1
+646 50	1125818927	Björnlunda		locality	4
+646 33	101815801	Gnesta		locality	3
+646 30	101815801	Gnesta		locality	2
+646 34	101815801	Gnesta		locality	2
+646 92	101815801	Gnesta		locality	2
+646 32	101815801	Gnesta		locality	1
+646 35	101815801	Gnesta		locality	1
+646 94	1125818927	Björnlunda		locality	1
+646 94	1125764783	Stjärnhov		locality	1
+647 93	101815791	Mariefred		locality	1
+651 09	101752311	Karlstad		locality	2
+651 82	101752311	Karlstad		locality	1
+651 86	101752311	Karlstad		locality	1
+652 22	101752311	Karlstad		locality	285
+652 24	101752311	Karlstad		locality	137
+652 27	101752311	Karlstad		locality	45
+652 29	101752311	Karlstad		locality	39
+652 21	101752311	Karlstad		locality	18
+652 28	101752311	Karlstad		locality	17
+652 30	101752311	Karlstad		locality	9
+652 20	101752311	Karlstad		locality	5
+652 16	101752311	Karlstad		locality	2
+652 14	101752311	Karlstad		locality	1
+652 46	101752311	Karlstad		locality	1
+653 46	101752311	Karlstad		locality	569
+653 45	101752311	Karlstad		locality	387
+653 40	101752311	Karlstad		locality	37
+653 42	101752311	Karlstad		locality	8
+653 39	101752311	Karlstad		locality	5
+653 44	101752311	Karlstad		locality	3
+653 47	101752311	Karlstad		locality	2
+653 48	101752311	Karlstad		locality	2
+653 49	101752311	Karlstad		locality	1
+653 58	101752311	Karlstad		locality	1
+654 65	101752311	Karlstad		locality	512
+654 55	101752311	Karlstad		locality	176
+654 69	101752311	Karlstad		locality	73
+654 64	101752311	Karlstad		locality	10
+654 68	101752311	Karlstad		locality	3
+654 63	101752311	Karlstad		locality	2
+654 61	101752311	Karlstad		locality	1
+656 32	101752311	Karlstad		locality	66
+656 35	101752311	Karlstad		locality	41
+656 31	101752311	Karlstad		locality	24
+656 37	101752311	Karlstad		locality	5
+656 71	101815963	Skattkärr		locality	1
+660 10	101817089	Dals Långed		locality	2
+660 50	101847353	Vålberg		locality	1
+661 95	101913037	Värmlands Nysäter		locality	6
+661 96	1125907403	Langserud		locality	2
+662 21	101752311	Karlstad		locality	1
+662 97	101815771	Åmål		locality	1
+665 32	101815957	Kil		locality	81
+665 94	1125871655	Fagerås		locality	1
+666 30	101815773	Bengtsfors		locality	1
+667 32	101815955	Forshaga		locality	4
+670 10	101815999	Töcksfors		locality	3
+670 40	101815979	Åmotfors		locality	1
+671 31	101815985	Arvika		locality	1
+671 31	1125955779	Sulvik		locality	1
+671 94	1125772849	Brunskog		locality	1
+672 31	101815967	Årjäng		locality	2
+672 91	101815967	Årjäng		locality	1
+672 95	1125988699	Sillerud		locality	1
+673 22	101815973	Charlottenberg		locality	1
+673 92	101815973	Charlottenberg		locality	1
+680 96	101815993	Lesjöfors		locality	4
+680 60	1125956549	Sysslebäck		locality	3
+680 60	101815989	Ekshärad		locality	2
+680 65	1125947743	Höljes		locality	1
+681 95	101815971	Kristinehamn		locality	2
+681 30	101815971	Kristinehamn		locality	1
+681 54	101815971	Kristinehamn		locality	1
+682 34	101815981	Filipstad		locality	2
+683 93	1125923687	Råda		locality	84
+683 30	101815991	Hagfors		locality	1
+683 32	101815991	Hagfors		locality	1
+683 61	101815989	Ekshärad		locality	1
+686 93	101815975	Sunne		locality	6
+686 92	101815975	Sunne		locality	2
+686 23	101815975	Sunne		locality	1
+686 35	101815975	Sunne		locality	1
+686 94	1125779213	Rottneros		locality	1
+686 95	1125887637	Västra Ämtervik		locality	1
+686 98	1125867633	Gräsmark		locality	1
+688 91	101815953	Storfors		locality	4
+691 47	101815827	Karlskoga		locality	570
+691 48	101815827	Karlskoga		locality	341
+691 45	101815827	Karlskoga		locality	196
+691 42	101815827	Karlskoga		locality	126
+691 91	101815827	Karlskoga		locality	107
+691 37	101815827	Karlskoga		locality	9
+691 41	101815827	Karlskoga		locality	2
+691 52	101815827	Karlskoga		locality	1
+692 30	101815843	Kumla		locality	8
+692 71	101815843	Kumla		locality	4
+692 38	101815843	Kumla		locality	3
+692 31	101815843	Kumla		locality	1
+692 37	101815843	Kumla		locality	1
+695 91	101815849	Laxå		locality	1
+700 02	101752301	Örebro		locality	1
+701 16	101752301	Örebro		locality	1
+702 10	101752301	Örebro		locality	105
+702 11	101752301	Örebro		locality	100
+702 32	101752301	Örebro		locality	75
+702 19	101752301	Örebro		locality	65
+702 23	101752301	Örebro		locality	49
+702 25	101752301	Örebro		locality	37
+702 24	101752301	Örebro		locality	26
+702 12	101752301	Örebro		locality	25
+702 22	101752301	Örebro		locality	12
+702 26	101752301	Örebro		locality	6
+702 30	101752301	Örebro		locality	6
+702 21	101752301	Örebro		locality	4
+702 27	101752301	Örebro		locality	4
+702 54	101752301	Örebro		locality	2
+702 18	101752301	Örebro		locality	1
+702 31	101752301	Örebro		locality	1
+703 43	101752301	Örebro		locality	183
+703 45	101752301	Örebro		locality	166
+703 61	101752301	Örebro		locality	136
+703 47	101752301	Örebro		locality	110
+703 32	101752301	Örebro		locality	74
+703 44	101752301	Örebro		locality	73
+703 41	101752301	Örebro		locality	47
+703 40	101752301	Örebro		locality	39
+703 62	101752301	Örebro		locality	30
+703 42	101752301	Örebro		locality	26
+703 63	101752301	Örebro		locality	25
+703 46	101752301	Örebro		locality	16
+703 54	101752301	Örebro		locality	6
+703 65	101752301	Örebro		locality	5
+703 48	101752301	Örebro		locality	2
+703 49	101752301	Örebro		locality	1
+704 31	101752301	Örebro		locality	1
+710 41	101815823	Fellingsbro		locality	1
+711 34	101815815	Lindesberg		locality	260
+711 31	101815815	Lindesberg		locality	92
+711 72	1125776027	Vedevåg		locality	6
+711 32	101815815	Lindesberg		locality	5
+711 30	101815815	Lindesberg		locality	1
+711 89	1125783701	Ramsberg		locality	1
+712 34	101815831	Hällefors		locality	2
+712 32	101815831	Hällefors		locality	1
+714 31	101847335	Kopparsberg		locality	1
+714 32	101847335	Kopparsberg		locality	1
+714 94	101847335	Kopparsberg		locality	1
+715 92	1126043605	Stora Mellösa		locality	6
+718 95	1125784549	Ervalla		locality	1
+719 41	101815829	Garphyttan		locality	1
+719 93	101815833	Vintrosa		locality	1
+721 30	101752303	Västerås		locality	6
+721 01	101752303	Västerås		locality	1
+721 09	101752303	Västerås		locality	1
+721 33	101752303	Västerås		locality	1
+722 13	101752303	Västerås		locality	7
+722 15	101752303	Västerås		locality	5
+722 14	101752303	Västerås		locality	2
+722 17	101752303	Västerås		locality	2
+722 10	101752303	Västerås		locality	1
+722 16	101752303	Västerås		locality	1
+722 19	101752303	Västerås		locality	1
+723 44	101752303	Västerås		locality	1
+724 61	101752303	Västerås		locality	3
+724 70	101752303	Västerås		locality	3
+724 65	101752303	Västerås		locality	2
+724 60	101752303	Västerås		locality	1
+724 76	101752303	Västerås		locality	1
+724 80	101752303	Västerås		locality	1
+725 91	101752303	Västerås		locality	2
+725 94	101752303	Västerås		locality	1
+725 97	101752303	Västerås		locality	1
+731 37	101815855	Köping		locality	1
+732 71	101815823	Fellingsbro		locality	374
+732 48	101815861	Arboga		locality	22
+732 72	101815823	Fellingsbro		locality	5
+733 21	101815863	Sala		locality	1
+733 40	101815863	Sala		locality	1
+733 95	101815863	Sala		locality	1
+733 96	101815863	Sala		locality	1
+734 94	1125890335	Strömsholm		locality	4
+735 37	101815873	Surahammar		locality	1
+736 36	101815859	Kungsör		locality	1
+737 30	101815885	Fagersta		locality	1
+737 32	101815885	Fagersta		locality	1
+740 21	1125988995	Järlåsa		locality	1
+741 40	101816013	Knivsta		locality	8
+741 42	101816013	Knivsta		locality	2
+742 31	101816035	Östhammar		locality	1
+742 43	101816033	Öregrund		locality	1
+743 30	101816057	Storvreld		locality	1
+744 96	1125988995	Järlåsa		locality	2
+744 32	101816185	Heby		locality	1
+744 50	101816005	Morgongåva		locality	1
+745 36	101816017	Enköping		locality	105
+745 39	101816017	Enköping		locality	105
+745 33	101816017	Enköping		locality	80
+745 32	101816017	Enköping		locality	56
+745 60	101816017	Enköping		locality	51
+745 62	101816017	Enköping		locality	46
+745 34	101816017	Enköping		locality	11
+745 35	101816017	Enköping		locality	4
+745 37	101816017	Enköping		locality	2
+745 95	101816017	Enköping		locality	1
+746 31	101816003	Bålsta		locality	2
+746 34	101816003	Bålsta		locality	1
+747 31	101816049	Alunda		locality	2
+749 60	101816011	Orundsbro		locality	7
+749 41	101816017	Enköping		locality	3
+749 35	101816017	Enköping		locality	1
+749 52	101816063	Grillby		locality	1
+751 89	101752313	Uppsala		locality	1
+752 31	101752313	Uppsala		locality	5
+752 63	101752313	Uppsala		locality	5
+752 36	101752313	Uppsala		locality	3
+752 22	101752313	Uppsala		locality	1
+752 64	101752313	Uppsala		locality	1
+753 26	101752313	Uppsala		locality	85
+753 30	101752313	Uppsala		locality	13
+753 22	101752313	Uppsala		locality	8
+753 11	101752313	Uppsala		locality	6
+753 10	101752313	Uppsala		locality	3
+753 75	101752313	Uppsala		locality	3
+753 12	101752313	Uppsala		locality	1
+754 46	101752313	Uppsala		locality	112
+754 47	101752313	Uppsala		locality	65
+754 27	101752313	Uppsala		locality	1
+755 97	1126009001	Gunsta		locality	1
+756 22	101816003	Bålsta		locality	1
+760 45	1125826349	Grisslehamn		locality	14
+760 40	1125775185	Älmsta		locality	2
+760 49	1125826413	Herräng		locality	2
+761 40	101815913	Norrtälje		locality	182
+761 62	101815913	Norrtälje		locality	149
+761 60	101815913	Norrtälje		locality	132
+761 64	101815913	Norrtälje		locality	63
+761 61	101815913	Norrtälje		locality	56
+761 42	101815913	Norrtälje		locality	55
+761 63	101815913	Norrtälje		locality	44
+761 32	101815913	Norrtälje		locality	25
+761 46	101815913	Norrtälje		locality	15
+761 93	101815913	Norrtälje		locality	13
+761 50	101815913	Norrtälje		locality	10
+761 30	101815913	Norrtälje		locality	8
+761 31	101815913	Norrtälje		locality	3
+761 43	101815913	Norrtälje		locality	2
+761 12	1125921543	Bergshamra		locality	1
+761 22	101815913	Norrtälje		locality	1
+761 41	101815913	Norrtälje		locality	1
+762 51	101815915	Rimbo		locality	4
+762 93	101815915	Rimbo		locality	2
+762 95	101815915	Rimbo		locality	2
+762 22	101815915	Rimbo		locality	1
+763 21	101847349	Hallstavik		locality	1
+763 43	101847349	Hallstavik		locality	1
+764 56	1125826349	Grisslehamn		locality	2
+0767	101816689	Markaryd		locality	1
+770 70	101816101	Långshyttan		locality	14
+770 13	1125869143	Grangärde		locality	12
+770 10	1125807631	Fredriksberg		locality	1
+771 31	101816111	Ludvika		locality	6
+771 92	101816111	Ludvika		locality	3
+771 33	101816111	Ludvika		locality	2
+771 53	101816111	Ludvika		locality	2
+771 24	101816111	Ludvika		locality	1
+771 25	101816111	Ludvika		locality	1
+771 90	101816111	Ludvika		locality	1
+772 94	101847365	Grängesberg		locality	2
+772 30	101847365	Grängesberg		locality	1
+774 97	1125953367	Fors		locality	3
+774 92	101816115	Avesta		locality	1
+776 70	1126019039	Vikmanshyttan		locality	24
+776 33	101816107	Hedemora		locality	13
+776 90	101816107	Hedemora		locality	3
+776 92	101816107	Hedemora		locality	2
+776 93	101816107	Hedemora		locality	1
+776 95	1126019039	Vikmanshyttan		locality	1
+777 22	101816113	Smedjebacken		locality	1
+777 50	101816113	Smedjebacken		locality	1
+777 60	1125792761	Söderbärke		locality	1
+780 64	1125901867	Lima		locality	3
+780 67	1125827405	Sälen		locality	2
+780 45	1125768625	Björbo		locality	1
+780 50	101816095	Vansbro		locality	1
+780 51	101816089	Järna		locality	1
+781 70	101816099	Borlänge		locality	34
+781 68	101816099	Borlänge		locality	19
+781 72	101816099	Borlänge		locality	10
+781 71	101816099	Borlänge		locality	8
+781 91	101816099	Borlänge		locality	4
+781 92	101816099	Borlänge		locality	3
+781 73	101816099	Borlänge		locality	2
+781 81	101816099	Borlänge		locality	2
+781 90	101816099	Borlänge		locality	2
+781 98	101816099	Borlänge		locality	2
+781 05	101816099	Borlänge		locality	1
+781 24	101816099	Borlänge		locality	1
+781 27	101816099	Borlänge		locality	1
+781 28	101816099	Borlänge		locality	1
+781 29	101816099	Borlänge		locality	1
+781 94	101816099	Borlänge		locality	1
+781 94	1125772739	Torsång		locality	1
+781 96	101816099	Borlänge		locality	1
+782 33	101816083	Malung		locality	1
+782 91	101816083	Malung		locality	1
+783 50	1125997455	Gustafs		locality	470
+783 95	1125997455	Gustafs		locality	11
+783 31	101816103	Säter		locality	5
+783 30	101816103	Säter		locality	3
+783 34	101816103	Säter		locality	3
+783 90	101816103	Säter		locality	2
+783 22	101816103	Säter		locality	1
+783 35	101816103	Säter		locality	1
+784 33	101816099	Borlänge		locality	29
+784 76	101816099	Borlänge		locality	17
+784 31	101816099	Borlänge		locality	4
+784 34	101816099	Borlänge		locality	4
+784 35	101816099	Borlänge		locality	4
+784 60	101816099	Borlänge		locality	4
+784 37	101816099	Borlänge		locality	3
+784 40	101816099	Borlänge		locality	3
+784 61	101816099	Borlänge		locality	3
+784 68	101816099	Borlänge		locality	3
+784 78	101816099	Borlänge		locality	3
+784 54	101816099	Borlänge		locality	2
+784 66	101816099	Borlänge		locality	2
+784 36	101816099	Borlänge		locality	1
+784 51	101816099	Borlänge		locality	1
+784 62	101816099	Borlänge		locality	1
+784 65	101816099	Borlänge		locality	1
+784 73	101816099	Borlänge		locality	1
+784 77	101816099	Borlänge		locality	1
+785 30	101847361	Gagnef		locality	3
+785 44	1125851943	Dala-Floda		locality	2
+790 20	101816081	Grycksbo		locality	9
+790 26	1125773783	Enviken		locality	7
+790 90	1125766533	Särna		locality	7
+790 91	1125882695	Idre		locality	7
+790 15	1125810407	Sundborn		locality	3
+790 25	1125877025	Linghed		locality	1
+791 74	101847359	Falun		locality	312
+791 45	101847359	Falun		locality	117
+791 51	101847359	Falun		locality	42
+791 91	101847359	Falun		locality	32
+791 62	101847359	Falun		locality	12
+791 31	101847359	Falun		locality	6
+791 71	101847359	Falun		locality	6
+791 60	101847359	Falun		locality	3
+791 38	101847359	Falun		locality	2
+791 61	101847359	Falun		locality	2
+791 18	101847359	Falun		locality	1
+791 19	101847359	Falun		locality	1
+791 29	101847359	Falun		locality	1
+791 30	101847359	Falun		locality	1
+791 42	101847359	Falun		locality	1
+791 46	101847359	Falun		locality	1
+791 73	101847359	Falun		locality	1
+792 75	1125793775	Färnäs		locality	20
+792 32	1126037893	Mora		locality	16
+792 25	1126037893	Mora		locality	2
+792 37	1126037893	Mora		locality	1
+792 93	1126024711	Venjan		locality	1
+793 60	101816077	Siljansnäs		locality	2
+793 22	101816187	Leksand		locality	1
+793 41	101816085	Insjön		locality	1
+793 90	101816187	Leksand		locality	1
+793 97	101816077	Siljansnäs		locality	1
+794 34	101816067	Orsa		locality	5
+794 32	101816067	Orsa		locality	1
+795 32	101816075	Rättvik		locality	9
+795 30	101816075	Rättvik		locality	6
+795 70	101816071	Vikarbyn		locality	2
+795 33	101816075	Rättvik		locality	1
+795 35	101816075	Rättvik		locality	1
+795 91	101816075	Rättvik		locality	1
+796 31	101816065	Älvdalen		locality	370
+796 30	101816065	Älvdalen		locality	360
+796 91	101816065	Älvdalen		locality	216
+796 90	101816065	Älvdalen		locality	12
+800 06	101752315	Gävle		locality	1
+801 03	101752315	Gävle		locality	1
+802 64	101752315	Gävle		locality	3
+802 93	101752315	Gävle		locality	3
+802 57	101752315	Gävle		locality	2
+802 84	101752315	Gävle		locality	1
+804 34	101752315	Gävle		locality	1
+806 33	101752315	Gävle		locality	7
+806 28	101752315	Gävle		locality	2
+806 46	101752315	Gävle		locality	1
+811 40	101816155	Sandviken		locality	2
+811 31	101816155	Sandviken		locality	1
+811 80	101816155	Sandviken		locality	1
+811 92	101816155	Sandviken		locality	1
+812 30	101847369	Storvik		locality	2
+813 31	101816157	Hofors		locality	73
+814 70	101816025	Älvkarleby		locality	587
+814 42	101816023	Skutskär		locality	5
+815 38	101816031	Tierp		locality	14
+815 36	101816031	Tierp		locality	10
+815 76	101816029	Söderfors		locality	1
+820 76	1125775531	Jättendal		locality	447
+820 70	101814755	Bergsjö		locality	112
+820 62	1126013295	Bjuråker		locality	23
+820 74	1125839793	Stocka		locality	1
+824 92	101847367	Hudiksvall		locality	36
+824 94	101847367	Hudiksvall		locality	11
+824 91	101847367	Hudiksvall		locality	5
+824 30	101847367	Hudiksvall		locality	4
+824 40	101847367	Hudiksvall		locality	3
+824 32	101847367	Hudiksvall		locality	1
+824 41	101847367	Hudiksvall		locality	1
+824 43	101847367	Hudiksvall		locality	1
+824 50	101847367	Hudiksvall		locality	1
+824 93	101847367	Hudiksvall		locality	1
+826 70	101816137	Söderhamn		locality	1
+830 13	101814797	Åre		locality	64
+830 80	1125873825	Hoting		locality	2
+831 62	101839543	Östersund		locality	553
+831 52	101839541	Östersund		locality	394
+831 51	101839541	Östersund		locality	154
+831 80	101839543	Östersund		locality	1
+833 35	101814793	Strömsund		locality	21
+833 32	101814793	Strömsund		locality	19
+833 31	101814793	Strömsund		locality	10
+833 34	101814793	Strömsund		locality	1
+834 98	101814809	Brunflo		locality	2
+836 92	101814803	Lit		locality	1
+837 97	101814797	Åre		locality	4
+837 71	1125963317	Duved		locality	1
+840 85	1125790925	Lofsdalen		locality	150
+840 70	101814807	Hammarstrand		locality	27
+840 98	1125772391	Tänndalen		locality	1
+841 44	1126018227	Alby		locality	296
+841 93	1125843497	Östavall		locality	75
+841 94	1126018227	Alby		locality	38
+841 32	101814783	Ånge		locality	2
+841 91	1126018227	Alby		locality	2
+842 91	101814811	Sveg		locality	27
+842 92	101814811	Sveg		locality	2
+845 91	1125827221	Hallen		locality	2
+851 96	101814789	Sundsvall		locality	1
+852 39	101814789	Sundsvall		locality	501
+852 38	101814789	Sundsvall		locality	433
+852 35	101814789	Sundsvall		locality	276
+852 37	101814789	Sundsvall		locality	249
+852 36	101814789	Sundsvall		locality	189
+852 34	101814789	Sundsvall		locality	184
+852 32	101814789	Sundsvall		locality	158
+852 31	101814789	Sundsvall		locality	123
+852 40	101814789	Sundsvall		locality	114
+852 29	101814789	Sundsvall		locality	81
+853 57	101814789	Sundsvall		locality	546
+853 56	101814789	Sundsvall		locality	240
+853 53	101814789	Sundsvall		locality	157
+854 60	101814789	Sundsvall		locality	544
+854 62	101814789	Sundsvall		locality	223
+854 61	101814789	Sundsvall		locality	206
+854 63	101814789	Sundsvall		locality	188
+855 90	101814789	Sundsvall		locality	243
+856 53	101814789	Sundsvall		locality	629
+856 34	101814789	Sundsvall		locality	366
+856 51	101814789	Sundsvall		locality	353
+856 31	101814789	Sundsvall		locality	302
+856 52	101814789	Sundsvall		locality	284
+856 44	101814789	Sundsvall		locality	185
+856 41	101814789	Sundsvall		locality	147
+856 30	101814789	Sundsvall		locality	125
+856 40	101814789	Sundsvall		locality	115
+856 33	101814789	Sundsvall		locality	79
+856 50	101814789	Sundsvall		locality	76
+856 45	101814789	Sundsvall		locality	75
+856 32	101814789	Sundsvall		locality	53
+856 42	101814789	Sundsvall		locality	27
+856 37	101814789	Sundsvall		locality	1
+857 31	101814789	Sundsvall		locality	604
+857 52	101814789	Sundsvall		locality	412
+857 51	101814789	Sundsvall		locality	403
+857 30	101814789	Sundsvall		locality	400
+857 41	101814789	Sundsvall		locality	296
+857 33	101814789	Sundsvall		locality	277
+857 40	101814789	Sundsvall		locality	252
+857 50	101814789	Sundsvall		locality	201
+857 34	101814789	Sundsvall		locality	158
+857 32	101814789	Sundsvall		locality	123
+857 53	101814789	Sundsvall		locality	78
+857 42	101814789	Sundsvall		locality	68
+857 35	101814789	Sundsvall		locality	17
+860 30	1125850749	Sörberge		locality	915
+860 40	1125864535	Indal		locality	168
+860 35	101814785	Söråker		locality	167
+860 30	101814785	Söråker		locality	1
+861 34	101875083	Timrå		locality	555
+861 33	101875083	Timrå		locality	416
+861 39	101839531	Bergeforsen		locality	348
+861 92	101839531	Bergeforsen		locality	323
+861 38	101839531	Bergeforsen		locality	273
+861 91	101875083	Timrå		locality	251
+861 32	101875083	Timrå		locality	192
+861 31	101875083	Timrå		locality	127
+861 36	101875083	Timrå		locality	75
+861 35	101875083	Timrå		locality	72
+861 95	101814785	Söråker		locality	16
+861 52	101814785	Söråker		locality	3
+861 93	1125974987	Ljustorp		locality	3
+862 34	101839535	Kvissle		locality	58
+862 94	101839539	Njurundabommen		locality	26
+862 96	101839539	Njurundabommen		locality	4
+863 35	101839533	Sund		locality	477
+863 34	101839533	Sund		locality	438
+863 32	101839533	Sund		locality	221
+863 33	101839533	Sund		locality	219
+863 36	101839533	Sund		locality	106
+863 37	101814789	Sundsvall		locality	79
+863 31	101839533	Sund		locality	68
+863 32	101814789	Sundsvall		locality	17
+864 33	101814791	Matfors		locality	380
+865 92	1126012983	Alnö		locality	1365
+865 91	1126012983	Alnö		locality	730
+865 32	1126012983	Alnö		locality	570
+865 31	1126012983	Alnö		locality	393
+865 51	1126014393	Ankarsvik		locality	391
+865 33	1126012983	Alnö		locality	283
+865 32	101814789	Sundsvall		locality	1
+870 32	1125774645	Ullånger		locality	108
+872 36	101814779	Kramfors		locality	66
+872 32	101814779	Kramfors		locality	30
+872 34	101814779	Kramfors		locality	11
+872 80	101814779	Kramfors		locality	5
+872 43	101814779	Kramfors		locality	1
+881 32	101814771	Sollefteå		locality	289
+881 33	101814771	Sollefteå		locality	126
+881 40	101814771	Sollefteå		locality	15
+881 31	101814771	Sollefteå		locality	10
+881 60	101814771	Sollefteå		locality	1
+890 51	1126018541	Långviksmon		locality	1
+892 51	1125960657	Domsjö		locality	1
+901 30	101752319	Umeå		locality	1
+901 37	101752319	Umeå		locality	1
+901 84	101752319	Umeå		locality	1
+903 31	101752319	Umeå		locality	13
+903 22	101752319	Umeå		locality	5
+903 25	101752319	Umeå		locality	5
+903 29	101752319	Umeå		locality	4
+903 21	101752319	Umeå		locality	1
+904 22	101752319	Umeå		locality	8
+904 32	101752319	Umeå		locality	2
+904 31	101752319	Umeå		locality	1
+905 71	101814865	Hörnefors		locality	5
+905 96	101752319	Umeå		locality	2
+906 53	101752319	Umeå		locality	40
+906 55	101752319	Umeå		locality	32
+907 50	101752319	Umeå		locality	147
+907 30	101752319	Umeå		locality	32
+907 28	101752319	Umeå		locality	26
+910 60	101814847	Åsele		locality	2
+911 33	101814853	Vännäs		locality	336
+911 34	101814853	Vännäs		locality	222
+911 32	101814853	Vännäs		locality	90
+911 30	101814853	Vännäs		locality	11
+911 21	101814853	Vännäs		locality	1
+911 31	101814853	Vännäs		locality	1
+912 99	101814833	Vilhelmina		locality	36
+912 32	101814833	Vilhelmina		locality	3
+912 34	101814833	Vilhelmina		locality	2
+912 31	101814833	Vilhelmina		locality	1
+915 97	1125989299	Bygdeå		locality	1
+917 31	101814841	Dorotea		locality	1
+920 70	101814815	Sorsele		locality	4
+920 66	1125920615	Hemavan		locality	3
+921 31	101814837	Lycksele		locality	1
+923 32	101847379	Storuman		locality	21
+930 70	101814817	Malå		locality	1
+931 32	101814827	Skellefteå		locality	5
+931 36	101814827	Skellefteå		locality	3
+931 57	101814827	Skellefteå		locality	2
+933 33	101814897	Arvidsjaur		locality	1
+934 31	101814825	Kåge		locality	10
+934 41	101814825	Kåge		locality	2
+934 96	101814825	Kåge		locality	1
+938 21	101814879	Arjeplog		locality	1
+941 52 PITEÅ	101814911	Piteå		locality	1
+942 41	101814893	Sunderbyn		locality	26
+942 34	101814891	Älvsbyn		locality	1
+942 82	101814891	Älvsbyn		locality	1
+942 93	101814891	Älvsbyn		locality	1
+942 94	1126038679	Sikfors		locality	1
+943 32	1125983477	Öjebyn		locality	1
+944 72	101814911	Piteå		locality	2
+952 32	101814887	Kalix		locality	1
+952 33	101814887	Kalix		locality	1
+953 24	101839555	Haparanda		locality	1
+954 41	101814893	Sunderbyn		locality	101
+957 32	101814877	Övertorneå		locality	24
+961 39	101847383	Boden		locality	41
+961 00	101847383	Boden		locality	1
+961 35	101847383	Boden		locality	1
+961 36	101847383	Boden		locality	1
+962 05	1125885241	Kåbdalis		locality	1
+962 32	101814875	Jokkmokk		locality	1
+971 26	101814899	Luleå		locality	1
+971 28	101814899	Luleå		locality	1
+971 79	101814899	Luleå		locality	1
+972 31	101814899	Luleå		locality	57
+972 33	101814899	Luleå		locality	43
+973 46	101814899	Luleå		locality	3
+974 55	101814899	Luleå		locality	141
+975 94	101814899	Luleå		locality	3
+976 33	101814899	Luleå		locality	8
+976 32	101814899	Luleå		locality	3
+977 51	101814899	Luleå		locality	15
+977 52	101814899	Luleå		locality	15
+980 62	1126045207	Junosuando		locality	29
+980 16	1126024531	Karesuando		locality	1
+981 42	101814871	Kiruna		locality	138
+981 41	101814871	Kiruna		locality	39
+981 38	101814871	Kiruna		locality	35
+981 36	101814871	Kiruna		locality	17
+981 43	101814871	Kiruna		locality	14
+981 44	101814871	Kiruna		locality	6
+982 38	101839553	Gällivare		locality	4
+982 36	101839553	Gällivare		locality	1
+982 60	1125809277	Porjus		locality	1
+984 31	101814873	Pajala		locality	252
+984 32	101814873	Pajala		locality	43
+1481	101815935	Nynäshamn		locality	1
+1875	1125899227	Otteid		locality	134
+11122	101752307	Stockholm		locality	6
+11123	101752307	Stockholm		locality	4
+11238	101752307	Stockholm		locality	6
+11324	101752307	Stockholm		locality	6
+12032	101752307	Stockholm		locality	1
+12404	1125988755	Huddinge		locality	1
+12677	1125768867	Solberga		locality	1
+13038	1125999809	Runmarö		locality	1
+13140	1125843503	Nacka		locality	171
+13141	1125988755	Huddinge		locality	8
+13333	101754075	Saltsjöbaden		locality	94
+13537	1125793903	Tyresö		locality	3
+13539	1125793903	Tyresö		locality	1
+13546	1125793903	Tyresö		locality	23
+13551	1125793903	Tyresö		locality	1
+13553	1125793903	Tyresö		locality	3
+13637	1125808053	Handen		locality	35
+13640	1125808053	Handen		locality	1
+13641	1125808053	Handen		locality	74
+13644	1125808053	Handen		locality	1
+13644	1126017525	Haninge		locality	1
+13647	1126017525	Haninge		locality	2
+13659	1125855483	Vendelsomalm		locality	384
+13660	1125857369	Brandbergen		locality	67
+13661	1125857369	Brandbergen		locality	97
+13662	1125857369	Brandbergen		locality	73
+13663	1125857369	Brandbergen		locality	101
+13664	1126017525	Haninge		locality	688
+13665	1125860675	Söderby		locality	17
+13666	1125855483	Vendelsomalm		locality	181
+13667	1125855483	Vendelsomalm		locality	424
+13669	1125855483	Vendelsomalm		locality	7
+13670	1125855483	Vendelsomalm		locality	230
+13671	1125855483	Vendelsomalm		locality	155
+13672	1125855483	Vendelsomalm		locality	4
+13681	1125808053	Handen		locality	1
+13734	101754085	Västerhaninge		locality	18
+13736	101754085	Västerhaninge		locality	12
+13738	101754085	Västerhaninge		locality	22
+13740	101754085	Västerhaninge		locality	15
+13756	1125809785	Tungelsta		locality	4
+13757	1125809785	Tungelsta		locality	18
+13769	1125810267	Österhaninge		locality	5
+13771	101815949	Dalarö		locality	1
+13794	101815931	Sorunda		locality	17
+13840	101754077	Älta		locality	1
+13973	1125819007	Djurhamn		locality	1
+13975	1125819007	Djurhamn		locality	1
+14127	1125988755	Huddinge		locality	1
+14130	1125988755	Huddinge		locality	25
+14131	1125988755	Huddinge		locality	79
+14132	1125988755	Huddinge		locality	2
+14137	1125988755	Huddinge		locality	8
+14140	1125988755	Huddinge		locality	2
+14142	1125988755	Huddinge		locality	24
+14143	1125988755	Huddinge		locality	1
+14145	1125988755	Huddinge		locality	9
+14146	1125988755	Huddinge		locality	1
+14152	1125988755	Huddinge		locality	4
+14156	1125988755	Huddinge		locality	3
+14159	1125988755	Huddinge		locality	12
+14162	1125988755	Huddinge		locality	9
+14192	1125988755	Huddinge		locality	1
+14463	1125970273	Rönninge		locality	1
+14557	1125766265	Norsborg		locality	2
+14590	1125766265	Norsborg		locality	1
+14634	1125827863	Tullinge		locality	47
+14637	1125827863	Tullinge		locality	3
+14650	1125827863	Tullinge		locality	2
+14746	101847351	Tumba		locality	34
+14770	1125792935	Grödinge		locality	1
+14771	1125792935	Grödinge		locality	1
+14791	1125792935	Grödinge		locality	64
+14831	101815933	Ösmo		locality	13
+14934	101815935	Nynäshamn		locality	1
+14940	101815935	Nynäshamn		locality	2
+14945	101815935	Nynäshamn		locality	5
+14950	101815935	Nynäshamn		locality	63
+14951	101815935	Nynäshamn		locality	3
+14991	101815935	Nynäshamn		locality	1
+14992	101815935	Nynäshamn		locality	47
+15121	101752305	Södertälje		locality	1
+15132	101752305	Södertälje		locality	3
+15134	101752305	Södertälje		locality	31
+15135	101752305	Södertälje		locality	22
+15136	101752305	Södertälje		locality	24
+15138	101752305	Södertälje		locality	18
+15139	101752305	Södertälje		locality	1
+15143	101752305	Södertälje		locality	5
+15150	1125868663	Enhörna		locality	29
+15152	101752305	Södertälje		locality	6
+15163	101752305	Södertälje		locality	89
+15165	101752305	Södertälje		locality	1
+15187	101752305	Södertälje		locality	1
+15189	101815927	Järna		locality	1
+15242	101752305	Södertälje		locality	82
+15243	101752305	Södertälje		locality	1
+15257	101752305	Södertälje		locality	372
+15259	101752305	Södertälje		locality	50
+15295	101752305	Södertälje		locality	1
+15332	101815927	Järna		locality	1
+15391	101815927	Järna		locality	7
+15392	101815943	Hölö		locality	11
+15393	1125768341	Morko		locality	1
+15395	101815927	Järna		locality	4
+15531	101815923	Nykvarn		locality	336
+16440	101752307	Stockholm		locality	1
+17235	1125861961	Sundbyberg		locality	1
+17263	1125861961	Sundbyberg		locality	12
+17266	1125861961	Sundbyberg		locality	17
+17276	1125861961	Sundbyberg		locality	1
+17277	1125861961	Sundbyberg		locality	2
+17278	1125861961	Sundbyberg		locality	3
+17449	1125861961	Sundbyberg		locality	1
+17459	1125861961	Sundbyberg		locality	1
+17461	1125861961	Sundbyberg		locality	3
+17462	1125861961	Sundbyberg		locality	2
+17831	101815921	Ekerö		locality	1
+17837	101815921	Ekerö		locality	1
+17838	101815921	Ekerö		locality	1
+17851	101815921	Ekerö		locality	1
+17852	101815921	Ekerö		locality	19
+17893	1125807367	Drottningholm		locality	10
+18104	101839523	Lidingö		locality	1
+18129	101839521	Sticklinge udde		locality	1
+18132	101839523	Lidingö		locality	5
+18141	101839523	Lidingö		locality	10
+18165	101839523	Lidingö		locality	3
+18260	1125821213	Djursholm		locality	1
+18264	1125821213	Djursholm		locality	41
+18268	1125821213	Djursholm		locality	1
+18302	101752309	Täby		locality	1
+18331	101752309	Täby		locality	7
+18332	101752309	Täby		locality	1
+18335	101752309	Täby		locality	11
+18336	101752309	Täby		locality	3
+18337	101752309	Täby		locality	1
+18338	101752309	Täby		locality	1
+18349	101752309	Täby		locality	1
+18352	101752307	Stockholm		locality	1
+18352	101752309	Täby		locality	1
+18354	101752307	Stockholm		locality	2
+18361	101752309	Täby		locality	1
+18370	101752307	Stockholm		locality	1
+18371	101752309	Täby		locality	1
+18379	101752309	Täby		locality	1
+18431	101815899	Åkersberga		locality	16
+18432	1125920741	Ljusterö		locality	1
+18432	101815899	Åkersberga		locality	1
+18438	101815899	Åkersberga		locality	45
+18452	1126013041	Österskär		locality	2
+18460	101815899	Åkersberga		locality	1
+18491	101815899	Åkersberga		locality	12
+18497	1125920741	Ljusterö		locality	1
+18533	101815905	Vaxholm		locality	9
+18537	101815905	Vaxholm		locality	3
+18594	101815905	Vaxholm		locality	1
+18595	101815905	Vaxholm		locality	66
+18599	101815905	Vaxholm		locality	45
+18650	101815889	Vallentuna		locality	27
+18651	101815889	Vallentuna		locality	70
+18653	101815889	Vallentuna		locality	1
+18655	101815889	Vallentuna		locality	8
+18660	101815889	Vallentuna		locality	2
+18690	101815889	Vallentuna		locality	41
+18691	101815889	Vallentuna		locality	4
+18696	101815889	Vallentuna		locality	2
+18729	101752309	Täby		locality	1
+18730	101752309	Täby		locality	25
+18731	101752309	Täby		locality	12
+18737	101752309	Täby		locality	21
+18738	101752309	Täby		locality	22
+18742	101752309	Täby		locality	2
+18743	101752309	Täby		locality	2
+18745	101752309	Täby		locality	12
+18754	101752309	Täby		locality	6
+18769	101752309	Täby		locality	36
+18773	101752309	Täby		locality	12
+18773	1125987941	Täby kyrkby		locality	1
+18774	101752309	Täby		locality	2
+18775	101752309	Täby		locality	20
+19060	101752307	Stockholm		locality	1
+19134	1125772423	Sollentuna		locality	5
+19138	1125772423	Sollentuna		locality	1
+19140	1125772423	Sollentuna		locality	3
+19144	1125772423	Sollentuna		locality	2
+19146	1125772423	Sollentuna		locality	2
+19149	1125772423	Sollentuna		locality	6
+19150	1125772423	Sollentuna		locality	9
+19161	1125772423	Sollentuna		locality	2
+19251	1125772423	Sollentuna		locality	1
+19254	1125772423	Sollentuna		locality	1
+19258	1125772423	Sollentuna		locality	3
+19266	1125772423	Sollentuna		locality	12
+19266	1125989871	Norrviken		locality	2
+19267	1125772423	Sollentuna		locality	2
+19268	1125772423	Sollentuna		locality	12
+19270	1125772423	Sollentuna		locality	9
+19273	1125772423	Sollentuna		locality	3
+19275	1125772423	Sollentuna		locality	1
+19278	1125772423	Sollentuna		locality	2
+19331	101815917	Sigtuna		locality	34
+19332	101815917	Sigtuna		locality	328
+19333	101815917	Sigtuna		locality	92
+19336	101815917	Sigtuna		locality	29
+19391	101815917	Sigtuna		locality	5
+19436	1126016161	Upplands Vasby		locality	2
+19437	1126016161	Upplands Vasby		locality	2
+19440	1126016161	Upplands Vasby		locality	8
+19444	1126016161	Upplands Vasby		locality	6
+19447	1126016161	Upplands Vasby		locality	8
+19452	101815895	Upplands Vasby		locality	1
+19453	101815895	Upplands Vasby		locality	1
+19461	101752307	Stockholm		locality	1
+19464	101815895	Upplands Vasby		locality	1
+19470	1126016161	Upplands Vasby		locality	1
+19532	101815919	Märsta		locality	1
+19533	101815919	Märsta		locality	31
+19546	101815919	Märsta		locality	1
+19550	101815919	Märsta		locality	20
+19553	101815919	Märsta		locality	5
+19554	101815919	Märsta		locality	20
+19557	101815919	Märsta		locality	48
+19572	101815887	Rosersberg		locality	2
+19591	101815919	Märsta		locality	1
+19595	101815887	Rosersberg		locality	3
+19596	101815895	Upplands Vasby		locality	1
+19636	101839519	Kungsängen		locality	1
+19731	101815891	Bro		locality	8
+19734	101815891	Bro		locality	1
+19791	101815891	Bro		locality	2
+20010	101752283	Malmo		locality	1
+20502	101752283	Malmo		locality	1
+20505	101752283	Malmo		locality	1
+20560	101752283	Malmo		locality	1
+21111	101752283	Malmo		locality	1
+21117	101752283	Malmo		locality	2
+21119	101752283	Malmo		locality	12
+21121	101752283	Malmo		locality	5
+21124	101752283	Malmo		locality	11
+21125	101752283	Malmo		locality	2
+21127	101752283	Malmo		locality	1
+21128	101752283	Malmo		locality	11
+21130	101752283	Malmo		locality	5
+21131	101752283	Malmo		locality	2
+21137	101752283	Malmo		locality	7
+21141	101752283	Malmo		locality	5
+21142	101752283	Malmo		locality	3
+21143	101752283	Malmo		locality	6
+21144	101752283	Malmo		locality	2
+21145	101752283	Malmo		locality	3
+21147	101752283	Malmo		locality	4
+21148	101752283	Malmo		locality	2
+21149	101752283	Malmo		locality	8
+21158	101752283	Malmo		locality	2
+21160	101752283	Malmo		locality	1
+21172	101817827	Marieholm		locality	1
+21212	101752283	Malmo		locality	11
+21214	101752283	Malmo		locality	7
+21216	101752283	Malmo		locality	2
+21217	101752283	Malmo		locality	32
+21218	101752283	Malmo		locality	21
+21220	101752283	Malmo		locality	1
+21224	101752283	Malmo		locality	3
+21225	101752283	Malmo		locality	1
+21227	101752283	Malmo		locality	1
+21238	101752283	Malmo		locality	7
+21291	101752283	Malmo		locality	1
+21376	101752283	Malmo		locality	2
+21421	101752283	Malmo		locality	1
+21423	101752283	Malmo		locality	1
+21424	101752283	Malmo		locality	3
+21428	101752283	Malmo		locality	1
+21431	101752283	Malmo		locality	1
+21432	101752283	Malmo		locality	2
+21434	101752283	Malmo		locality	1
+21436	101752283	Malmo		locality	3
+21437	101752283	Malmo		locality	2
+21440	101752283	Malmo		locality	1
+21444	101752283	Malmo		locality	3
+21449	101752283	Malmo		locality	1
+21466	101752283	Malmo		locality	1
+21526	101752283	Malmo		locality	4
+21532	101752283	Malmo		locality	2
+21535	101752283	Malmo		locality	2
+21536	101752283	Malmo		locality	3
+21612	101752283	Malmo		locality	1
+21741	101752283	Malmo		locality	37
+21742	101752283	Malmo		locality	34
+21743	101752283	Malmo		locality	22
+21744	101752283	Malmo		locality	5
+21745	101752283	Malmo		locality	28
+21746	101752283	Malmo		locality	1
+21747	101752283	Malmo		locality	4
+21748	101752283	Malmo		locality	18
+21749	101752283	Malmo		locality	13
+21751	101752283	Malmo		locality	3
+21753	101752283	Malmo		locality	2
+21765	101752283	Malmo		locality	1
+21766	101752283	Malmo		locality	2
+21772	101752283	Malmo		locality	4
+21773	101752283	Malmo		locality	1
+21871	101817877	Tygelsjö		locality	97
+22007	101752279	Lund		locality	3
+22010	101752279	Lund		locality	1
+22100	101752279	Lund		locality	12
+22185	1126035975	Lund		locality	1
+22223	1126035975	Lund		locality	8
+22225	1126035975	Lund		locality	14
+22241	101752279	Lund		locality	1
+22263	1126035975	Lund		locality	1
+22270	1126035975	Lund		locality	48
+22352	1126035975	Lund		locality	2
+22353	1126035975	Lund		locality	1
+22355	1126035975	Lund		locality	5
+22359	1126035975	Lund		locality	25
+22361	1126035975	Lund		locality	2
+22362	101752279	Lund		locality	57
+22369	101752279	Lund		locality	2
+22370	101752279	Lund		locality	1
+22458	1126035975	Lund		locality	2
+22466	101752279	Lund		locality	22
+22467	101752279	Lund		locality	4
+22468	101752279	Lund		locality	4
+22472	101752279	Lund		locality	2
+22473	101752279	Lund		locality	5
+22474	101752279	Lund		locality	1
+22478	1126035975	Lund		locality	18
+22479	101752279	Lund		locality	4
+22480	101752279	Lund		locality	16
+22591	101752279	Lund		locality	5
+22592	1126035975	Lund		locality	4
+22639	101752279	Lund		locality	2
+22643	101752279	Lund		locality	2
+22646	101752279	Lund		locality	1
+22647	101752279	Lund		locality	23
+22649	101752279	Lund		locality	1
+22655	101752279	Lund		locality	2
+22657	101752279	Lund		locality	1
+22730	1126035975	Lund		locality	1
+22731	1126035975	Lund		locality	17
+22735	1126035975	Lund		locality	2
+22762	1126035975	Lund		locality	34
+22764	1126035975	Lund		locality	5
+23122	101840151	Trelleborg		locality	1
+23132	101840151	Trelleborg		locality	1
+23133	101840151	Trelleborg		locality	1
+23138	101840151	Trelleborg		locality	12
+23142	101840151	Trelleborg		locality	4
+23154	101840151	Trelleborg		locality	1
+23162	101840151	Trelleborg		locality	3
+23166	101840151	Trelleborg		locality	1
+23168	101840151	Trelleborg		locality	1
+23178	101847301	Smygehamn		locality	1
+23224	1125807097	Arlöv		locality	1
+23235	1125807097	Arlöv		locality	1
+23261	1125807097	Arlöv		locality	2
+23261	101752283	Malmo		locality	1
+23291	1125807097	Arlöv		locality	2
+23351	101817879	Svedala		locality	1
+23433	101754049	Lomma		locality	1
+23434	101754049	Lomma		locality	1
+23440	101754049	Lomma		locality	1
+23533	101817883	Vellinge		locality	1
+23633	101840147	Höllviken		locality	1
+23635	101840147	Höllviken		locality	2
+23651	101840147	Höllviken		locality	1
+23691	101840147	Höllviken		locality	2
+23841	101840145	Oxie		locality	1
+23932	1108980173	Skanör		locality	1
+24036	101817899	Stehag		locality	1
+24175	101817899	Stehag		locality	2
+24192	101817833	Eslöv		locality	8
+24196	1125791873	Stockamöllan		locality	86
+24334	101840133	Höör		locality	1
+24393	101840133	Höör		locality	4
+24430	101840137	Kävlinge		locality	1
+24436	101840137	Kävlinge		locality	1
+24438	101840137	Kävlinge		locality	2
+24439	101840137	Kävlinge		locality	1
+24460	101840141	Furulund		locality	1
+24462	101840141	Furulund		locality	1
+24465	101840141	Furulund		locality	2
+24466	101840141	Furulund		locality	19
+24471	1125969369	Dösjebro		locality	1
+24493	101840137	Kävlinge		locality	1
+24494	101840141	Furulund		locality	1
+24531	101817857	Staffanstorp		locality	1
+24533	101817857	Staffanstorp		locality	49
+24543	101817857	Staffanstorp		locality	3
+24545	101817857	Staffanstorp		locality	1
+24563	101817851	Hjärup		locality	49
+24564	101817851	Hjärup		locality	32
+24593	101817857	Staffanstorp		locality	2
+24630	101817843	Löddeköpinge		locality	4
+24631	101817843	Löddeköpinge		locality	1
+24632	101817843	Löddeköpinge		locality	1
+24635	101817843	Löddeköpinge		locality	1
+24636	101817843	Löddeköpinge		locality	1
+24642	101817843	Löddeköpinge		locality	1
+24651	101817843	Löddeköpinge		locality	2
+24655	101817843	Löddeköpinge		locality	1
+24729	1125972505	Flyinge		locality	1
+24731	101817847	Södra Sandby		locality	5
+24734	101817847	Södra Sandby		locality	25
+24736	101817847	Södra Sandby		locality	8
+24741	101817847	Södra Sandby		locality	1
+24745	1126055347	Torna Hällestad		locality	1
+24747	1125972505	Flyinge		locality	353
+24749	101752283	Malmo		locality	1
+24750	101817853	Dalby		locality	1
+24751	101817853	Dalby		locality	2
+24754	101817853	Dalby		locality	2
+24755	101817853	Dalby		locality	47
+24756	101817853	Dalby		locality	15
+24796	101817861	Veberöd		locality	2
+24797	1125972505	Flyinge		locality	115
+24798	101817863	Genarp		locality	1
+25183	101752277	Helsingborg		locality	1
+25244	101752277	Helsingborg		locality	72
+25435	101817857	Staffanstorp		locality	7
+26061	101816609	Hyllinge		locality	1
+26070	101816619	Ljungbyhed		locality	2
+26131	101817823	Landskrona		locality	2
+26135	101817823	Landskrona		locality	1
+26144	101817823	Landskrona		locality	1
+26163	101817811	Glumslöv		locality	1
+26192	1126058361	Härslöv		locality	2
+26194	1126024433	Annelöv		locality	3
+26233	101816583	Ängelholm		locality	8
+26235	101816583	Ängelholm		locality	12
+26253	101816583	Ängelholm		locality	90
+26254	101816583	Ängelholm		locality	140
+26261	101816583	Ängelholm		locality	4
+26262	101816583	Ängelholm		locality	1
+26265	101816583	Ängelholm		locality	1
+26377	1125843515	Mölle		locality	1
+26392	1125946873	Jonstorp		locality	1
+26493	101816603	Klippan		locality	12
+26534	101816605	Åstorp		locality	1
+26538	101816605	Åstorp		locality	2
+26539	101816605	Åstorp		locality	1
+26572	101816599	Kvidinge		locality	1
+26575	101816609	Hyllinge		locality	1
+26631	101816579	Munka-Ljungby		locality	2
+26632	101816579	Munka-Ljungby		locality	2
+26652	101816565	Vejbystrand		locality	1
+26654	101816565	Vejbystrand		locality	45
+26695	101816579	Munka-Ljungby		locality	1
+26737	101816617	Bjuv		locality	1
+26832	101817817	Svalöv		locality	1
+26868	1125846095	Röstånga		locality	1
+26872	101817825	Teckomatorp		locality	1
+26876	101816639	Kågeröd		locality	4
+26890	101817817	Svalöv		locality	7
+26937	101816553	Båstad		locality	1
+26938	101816553	Båstad		locality	1
+26942	101816553	Båstad		locality	2
+27021	1125819133	Glemmingebro		locality	1
+27022	101817887	Köpingebro		locality	1
+27035	101817867	Blentarp		locality	1
+27122	101817893	Ystad		locality	1
+27151	101817893	Ystad		locality	1
+27155	101817893	Ystad		locality	1
+27172	101817887	Köpingebro		locality	2
+27173	101817887	Köpingebro		locality	1
+27175	1125819133	Glemmingebro		locality	1
+27180	101817893	Ystad		locality	1
+27191	101817893	Ystad		locality	3
+27193	101817893	Ystad		locality	1
+27194	101817893	Ystad		locality	1
+27231	101817871	Simrishamn		locality	2
+27261	1125875091	Gärsnäs		locality	1
+27297	1125875091	Gärsnäs		locality	2
+27355	1125825843	Brösarp		locality	4
+27357	1125825843	Brösarp		locality	1
+27397	101817875	Tomelilla		locality	1
+27436	101817881	Skurup		locality	1
+27453	101817895	Skivarp		locality	1
+27533	101817859	Sjöbo		locality	1
+27561	101817867	Blentarp		locality	1
+27562	101817867	Blentarp		locality	89
+27591	101817859	Sjöbo		locality	1
+27596	101817867	Blentarp		locality	1
+27736	1125872743	Vitaby		locality	9
+27737	101817849	Kivik		locality	1
+27740	1126012255	Sankt Olof		locality	98
+28133	101847299	Hässleholm		locality	2
+28141	101847299	Hässleholm		locality	1
+28146	101816607	Tormastorp		locality	1
+28331	101816557	Osby		locality	6
+28332	101816557	Osby		locality	1
+28341	101816557	Osby		locality	1
+28436	101816601	Perstorp		locality	1
+28591	101816689	Markaryd		locality	1
+28621	101816573	Örkelljunga		locality	1
+28636	101816573	Örkelljunga		locality	1
+28950	101816591	Hanaskog		locality	6
+29034	101816629	Fjälkinge		locality	1
+29132	101840131	Kristianstad		locality	7
+29133	101840131	Kristianstad		locality	2
+29167	101816629	Fjälkinge		locality	1
+29176	1125883939	Rinkaby		locality	1
+29197	1126024377	Gärds Köpinge		locality	1
+29521	101816621	Bromölla		locality	1
+29573	101911353	Nymölla		locality	1
+29631	101817815	Åhus		locality	1
+29721	101817835	Degeberga		locality	1
+29831	101817813	Tollarp		locality	3
+29832	101817813	Tollarp		locality	1
+29893	1125914761	Huaröd		locality	1
+29894	1125989771	Linderöd		locality	2
+29896	1125923647	Östra Sönnarslöv		locality	7
+30218	101752289	Norrköping		locality	1
+30234	101752285	Halmstad		locality	1
+30235	101752285	Halmstad		locality	1
+30239	101752285	Halmstad		locality	3
+30242	101752285	Halmstad		locality	2
+30243	101752285	Halmstad		locality	11
+30248	101752285	Halmstad		locality	2
+30260	101752285	Halmstad		locality	40
+30263	101752285	Halmstad		locality	2
+30265	101816729	Trönninge		locality	19
+30414	101816699	Lagan		locality	1
+30591	101752285	Halmstad		locality	2
+30597	1125995343	Eldsberga		locality	1
+31020	101816733	Knäred		locality	1
+31021	1125826563	Hishult		locality	1
+31063	1125893581	Älvsered		locality	1
+31121	101840159	Falkenberg		locality	1
+31131	101840159	Falkenberg		locality	3
+31134	101840159	Falkenberg		locality	1
+31136	101840159	Falkenberg		locality	1
+31140	101840159	Falkenberg		locality	2
+31150	101840159	Falkenberg		locality	2
+31160	1125893239	Ullared		locality	201
+31164	1125830959	Vessigebro		locality	3
+31196	1125960711	Heberg		locality	2
+31198	1125960679	Glommen		locality	1
+31234	101816735	Laholm		locality	1
+31292	101816735	Laholm		locality	26
+31298	1125902035	Våxtorp		locality	2
+31302	1126038673	Sennan		locality	1
+31392	101816753	Oskarström		locality	1
+33010	101816853	Bredaryd		locality	1
+33012	101816857	Forsheda		locality	1
+33015	101816787	Bor		locality	3
+33018	1125808671	Horda		locality	1
+33026	1125972457	Burseryd		locality	1
+33027	101816827	Hestra		locality	2
+33033	101847311	Hillerstorp		locality	2
+33141	101816851	Värnamo		locality	1
+33153	101816851	Värnamo		locality	6
+33192	101816851	Värnamo		locality	1
+33193	101816851	Värnamo		locality	1
+33201	101816845	Gislaved		locality	1
+33230	101816845	Gislaved		locality	3
+33374	101816853	Bredaryd		locality	1
+33391	101816785	Smålandsstenar		locality	1
+33530	101816839	Gnosjö		locality	11
+33531	101816839	Gnosjö		locality	17
+33532	101816839	Gnosjö		locality	4
+33580	101816839	Gnosjö		locality	1
+33592	1125949075	Nissafors		locality	1
+34013	1125923295	Hamneda		locality	3
+34032	1125920669	Grimslöv		locality	1
+34131	101816709	Ljungby		locality	7
+34138	101816709	Ljungby		locality	2
+34140	101816709	Ljungby		locality	1
+34176	1125923779	Ryssby		locality	1
+34193	1126042279	Bolmsö		locality	1
+34252	101816711	Vislanda		locality	7
+34262	101816697	Moheda		locality	1
+34300	101816679	Älmhult		locality	1
+34331	101816679	Älmhult		locality	2
+34336	101816679	Älmhult		locality	3
+34342	1125907855	Eneryda		locality	1
+34371	101816679	Älmhult		locality	2
+34371	1125819037	Diö		locality	1
+34393	101816679	Älmhult		locality	1
+35231	101816705	Vaxjo		locality	2
+35232	101816705	Vaxjo		locality	2
+35234	101816705	Vaxjo		locality	3
+35237	101816705	Vaxjo		locality	1
+35245	101816705	Vaxjo		locality	10
+35246	101816705	Vaxjo		locality	1
+35247	101816705	Vaxjo		locality	4
+35252	101816705	Vaxjo		locality	21
+35257	101816705	Vaxjo		locality	1
+35261	101816705	Vaxjo		locality	387
+35262	101816705	Vaxjo		locality	373
+35263	101816705	Vaxjo		locality	315
+35264	101816705	Vaxjo		locality	258
+35571	101816677	Ingelstad		locality	1
+36030	101816719	Lamhult		locality	51
+36052	1125810105	Kosta		locality	2
+36072	1125801505	Klavreström		locality	1
+36073	101847307	Lenhovda		locality	434
+36221	101816683	Tingsryd		locality	1
+36254	1125956755	Urshult		locality	1
+36330	101816695	Rottne		locality	1
+40015	101752295	Gothenburg		locality	2
+40043	101752295	Gothenburg		locality	1
+40072	101752295	Gothenburg		locality	1
+40241	101752295	Gothenburg		locality	1
+40273	101752295	Gothenburg		locality	1
+40439	101752295	Gothenburg		locality	1
+40530	101752295	Gothenburg		locality	6
+41103	101752295	Gothenburg		locality	10
+41107	101752295	Gothenburg		locality	4
+41109	101752295	Gothenburg		locality	17
+41110	101752295	Gothenburg		locality	27
+41113	101752295	Gothenburg		locality	4
+41114	101752295	Gothenburg		locality	3
+41115	101752295	Gothenburg		locality	1
+41116	101752295	Gothenburg		locality	7
+41117	101752295	Gothenburg		locality	3
+41119	101752295	Gothenburg		locality	4
+41120	101752295	Gothenburg		locality	9
+41122	101752295	Gothenburg		locality	19
+41123	101752295	Gothenburg		locality	11
+41124	101752295	Gothenburg		locality	2
+41125	101752295	Gothenburg		locality	5
+41126	101752295	Gothenburg		locality	2
+41127	101752295	Gothenburg		locality	6
+41128	101752295	Gothenburg		locality	1
+41130	101752295	Gothenburg		locality	1
+41133	101752295	Gothenburg		locality	2
+41134	101752295	Gothenburg		locality	2
+41135	101752295	Gothenburg		locality	1
+41139	101752295	Gothenburg		locality	5
+41140	101752295	Gothenburg		locality	4
+41142	101752295	Gothenburg		locality	38
+41254	101752295	Gothenburg		locality	10
+41256	101752295	Gothenburg		locality	3
+41261	101752295	Gothenburg		locality	2
+41262	101752295	Gothenburg		locality	8
+41263	101752295	Gothenburg		locality	2
+41264	101752295	Gothenburg		locality	2
+41265	101752295	Gothenburg		locality	5
+41267	101752295	Gothenburg		locality	1
+41269	101752295	Gothenburg		locality	1
+41270	101752295	Gothenburg		locality	1
+41271	101752295	Gothenburg		locality	1
+41272	101752295	Gothenburg		locality	1
+41274	101752295	Gothenburg		locality	38
+41281	101752295	Gothenburg		locality	1
+41288	101752295	Gothenburg		locality	2
+41296	101752295	Gothenburg		locality	2
+41303	101752295	Gothenburg		locality	4
+41309	101752295	Gothenburg		locality	75
+41310	101752295	Gothenburg		locality	15
+41311	101752295	Gothenburg		locality	80
+41312	101752295	Gothenburg		locality	3
+41313	101752295	Gothenburg		locality	28
+41314	101752295	Gothenburg		locality	82
+41316	101752295	Gothenburg		locality	1
+41317	101752295	Gothenburg		locality	8
+41320	101752295	Gothenburg		locality	8
+41327	101752295	Gothenburg		locality	16
+41328	101752295	Gothenburg		locality	5
+41451	101752295	Gothenburg		locality	4
+41454	101752295	Gothenburg		locality	4
+41456	101752295	Gothenburg		locality	1
+41457	101752295	Gothenburg		locality	17
+41459	101752295	Gothenburg		locality	4
+41460	101752295	Gothenburg		locality	5
+41462	101752295	Gothenburg		locality	6
+41463	101752295	Gothenburg		locality	7
+41464	101752295	Gothenburg		locality	1
+41465	101752295	Gothenburg		locality	2
+41475	101752295	Gothenburg		locality	89
+41479	101752295	Gothenburg		locality	1
+41507	101752295	Gothenburg		locality	35
+41508	101752295	Gothenburg		locality	15
+41509	101752295	Gothenburg		locality	3
+41510	101752295	Gothenburg		locality	4
+41511	101752295	Gothenburg		locality	51
+41516	101752295	Gothenburg		locality	2
+41517	101752295	Gothenburg		locality	2
+41518	101752295	Gothenburg		locality	6
+41527	101752295	Gothenburg		locality	7
+41528	101752295	Gothenburg		locality	6
+41647	101752295	Gothenburg		locality	1
+41652	101752295	Gothenburg		locality	1
+41653	101752295	Gothenburg		locality	1
+41656	101752295	Gothenburg		locality	48
+41659	101752295	Gothenburg		locality	6
+41661	101752295	Gothenburg		locality	3
+41666	101752295	Gothenburg		locality	3
+41669	101752295	Gothenburg		locality	1
+41671	101752295	Gothenburg		locality	6
+41704	101752295	Gothenburg		locality	4
+41706	101752295	Gothenburg		locality	2
+41714	101752295	Gothenburg		locality	2
+41716	101752295	Gothenburg		locality	1
+41718	101752295	Gothenburg		locality	1
+41719	101752295	Gothenburg		locality	19
+41724	101752295	Gothenburg		locality	16
+41727	101752295	Gothenburg		locality	19
+41745	101752295	Gothenburg		locality	9
+41761	101752295	Gothenburg		locality	1
+41763	101752295	Gothenburg		locality	8
+41832	101752295	Gothenburg		locality	6
+41837	101752295	Gothenburg		locality	1
+41871	101752295	Gothenburg		locality	1
+41871	101840173	Kungälv		locality	1
+41873	101752295	Gothenburg		locality	2
+41874	101752295	Gothenburg		locality	1
+42139	101752295	Gothenburg		locality	1
+42211	101752295	Gothenburg		locality	2
+42242	101752295	Gothenburg		locality	1
+42349	101840179	Torslanda		locality	11
+42351	101840179	Torslanda		locality	83
+42352	101840179	Torslanda		locality	1
+42353	101840179	Torslanda		locality	4
+42469	1125818859	Angered		locality	2
+42469	101752295	Gothenburg		locality	1
+42471	101817079	Olofstorp		locality	1
+42671	101752295	Gothenburg		locality	2
+42736	101816759	Billdal		locality	1
+42737	101816759	Billdal		locality	1
+42739	101816759	Billdal		locality	1
+42834	101840187	Kållered		locality	80
+42941	101816763	Särö		locality	3
+43082	101817155	Donsö		locality	585
+43084	101817149	Styrsö		locality	575
+43091	101840185	Hönö		locality	1
+43134	1126016183	Mölndal		locality	3
+43145	1126016183	Mölndal		locality	14
+43147	1126016183	Mölndal		locality	1
+43153	1126016183	Mölndal		locality	2
+43162	1126016183	Mölndal		locality	3
+43190	1126016183	Mölndal		locality	4
+43232	101816741	Varberg		locality	2
+43233	101816741	Varberg		locality	2
+43240	101816741	Varberg		locality	4
+43241	101816741	Varberg		locality	2
+43242	101816741	Varberg		locality	4
+43245	101816741	Varberg		locality	2
+43246	101816741	Varberg		locality	1
+43254	101816741	Varberg		locality	2
+43265	1126011037	Väröbacka		locality	2
+43266	101816781	Veddige		locality	13
+43268	101816781	Veddige		locality	21
+43276	101816745	Tvååker		locality	3
+43278	101816745	Tvååker		locality	1
+43280	101816741	Varberg		locality	1
+43293	101816741	Varberg		locality	1
+43333	1125809291	Partille		locality	2
+43336	1125809291	Partille		locality	1
+43350	101817131	Öjersjö		locality	2
+43375	1125946851	Jonsered		locality	1
+43376	1125809291	Partille		locality	50
+43376	1125946851	Jonsered		locality	2
+43430	101816765	Kungsbacka		locality	1
+43432	101816765	Kungsbacka		locality	1
+43436	101816765	Kungsbacka		locality	1
+43437	101816765	Kungsbacka		locality	39
+43533	101817145	Mölnlycke		locality	4
+43535	101817145	Mölnlycke		locality	2
+43539	101817145	Mölnlycke		locality	11
+43832	101817139	Landvetter		locality	1
+43835	101817139	Landvetter		locality	10
+43838	101817139	Landvetter		locality	1
+43854	101817133	Hindås		locality	1
+43891	101817139	Landvetter		locality	2
+43951	101816777	Åsa		locality	1
+43953	101816777	Åsa		locality	1
+43962	101816779	Frillesås		locality	21
+43991	101816773	Onsala		locality	1
+44115	101752295	Gothenburg		locality	1
+44131	101817061	Alingsås		locality	1
+44134	101817061	Alingsås		locality	1
+44144	101817061	Alingsås		locality	1
+44146	101817061	Alingsås		locality	4
+44151	101817061	Alingsås		locality	4
+44155	101817061	Alingsås		locality	1
+44158	101817061	Alingsås		locality	4
+44160	101817061	Alingsås		locality	2
+44170	101817037	Sollebrunn		locality	1
+44191	101817061	Alingsås		locality	1
+44192	101817061	Alingsås		locality	3
+44192	1125926959	Östadkulle		locality	1
+44195	101817061	Alingsås		locality	1
+44196	101817061	Alingsås		locality	1
+44218	101840173	Kungälv		locality	1
+44231	101840173	Kungälv		locality	4
+44234	101840173	Kungälv		locality	4
+44241	101840173	Kungälv		locality	12
+44242	101840173	Kungälv		locality	4
+44243	101840173	Kungälv		locality	1
+44244	101840173	Kungälv		locality	1
+44250	1125820057	Ytterby		locality	3
+44254	1125820057	Ytterby		locality	11
+44290	101840173	Kungälv		locality	1
+44291	1125816005	Romelanda		locality	1
+44292	1125816005	Romelanda		locality	1
+44295	1125885487	Hålta		locality	3
+44296	101817059	Kode		locality	1
+44330	101817083	Lerum		locality	3
+44331	101817083	Lerum		locality	49
+44332	101817083	Lerum		locality	120
+44333	101817083	Lerum		locality	12
+44335	101817083	Lerum		locality	31
+44338	101817083	Lerum		locality	1
+44339	101817083	Lerum		locality	9
+44340	101817071	Gråbo		locality	1
+44342	101817071	Gråbo		locality	1
+44343	101817071	Gråbo		locality	7
+44350	101817083	Lerum		locality	41
+44351	101817083	Lerum		locality	55
+44361	1125819917	Stenkullen		locality	2
+44371	101817071	Gråbo		locality	1
+44373	101817071	Gråbo		locality	1
+44430	101817041	Stenungsund		locality	2
+44431	101817041	Stenungsund		locality	5
+44445	101817041	Stenungsund		locality	13
+44447	101817041	Stenungsund		locality	2
+44493	1125887627	Spekeröd		locality	12
+44536	1125938903	Bohus		locality	34
+44552	101840177	Surte		locality	2
+44555	101840177	Surte		locality	13
+44556	101840177	Surte		locality	3
+44557	101840177	Surte		locality	15
+44623	101817055	Älvängen		locality	1
+44695	101817055	Älvängen		locality	1
+44730	101817047	Vårgårda		locality	48
+44732	101817047	Vårgårda		locality	2
+44733	101817047	Vårgårda		locality	2
+44734	101817047	Vårgårda		locality	26
+44735	101817047	Vårgårda		locality	5
+44737	101817047	Vårgårda		locality	4
+44739	101817047	Vårgårda		locality	1
+44780	101817047	Vårgårda		locality	1
+44791	101817047	Vårgårda		locality	6
+44833	101817075	Floda		locality	5
+44837	101817075	Floda		locality	535
+44850	1125963557	Tollered		locality	1
+44931	1125821129	Nödinge		locality	10
+44932	1125821129	Nödinge		locality	1
+44934	1125821129	Nödinge		locality	6
+44940	1125850829	Nol		locality	2
+44940	1125821129	Nödinge		locality	1
+44944	1125850829	Nol		locality	3
+45043	101816979	Smögen		locality	1
+45053	1126046729	Hällevadsholm		locality	6
+45173	101840169	Uddevalla		locality	31
+45178	1125978153	Fiskebäckskil		locality	1
+45196	101840169	Uddevalla		locality	2
+45197	101840169	Uddevalla		locality	2
+45198	101840169	Uddevalla		locality	1
+45233	101817087	Strömstad		locality	2
+45290	101817087	Strömstad		locality	4
+45293	101817087	Strömstad		locality	5
+45296	101817087	Strömstad		locality	2
+45330	101816989	Lysekil		locality	2
+45336	101816989	Lysekil		locality	10
+45350	101816989	Lysekil		locality	1
+45432	101817011	Brastad		locality	6
+45493	101817011	Brastad		locality	4
+45531	101817125	Munkedal		locality	1
+45535	101817125	Munkedal		locality	1
+45541	1125873733	Hedekas		locality	1
+45561	1125907831	Dingle		locality	196
+45591	101817125	Munkedal		locality	1
+45597	1125907831	Dingle		locality	2
+45626	101817001	Hunnebostrand		locality	1
+45631	101817017	Kungshamn		locality	392
+45631	1125956829	Väjern		locality	2
+45633	101817017	Kungshamn		locality	237
+45634	101817017	Kungshamn		locality	162
+45643	1125956829	Väjern		locality	1
+45650	101816979	Smögen		locality	125
+45651	101816979	Smögen		locality	15
+45660	101817001	Hunnebostrand		locality	1
+45661	101817001	Hunnebostrand		locality	4
+45702	101817105	Grebbestad		locality	2
+45732	101817095	Tanumshede		locality	4
+45740	101817105	Grebbestad		locality	1
+45745	1125809985	Hamburgsund		locality	1
+45747	1125809985	Hamburgsund		locality	2
+45748	1125809985	Hamburgsund		locality	4
+45750	1125896187	Bullaren		locality	1
+45751	1125896187	Bullaren		locality	1
+45772	101817105	Grebbestad		locality	18
+45773	1125810013	Havstenssund		locality	1
+45793	101817095	Tanumshede		locality	3
+45870	1125825279	Högsäter		locality	1
+45894	1126006127	Stigen		locality	1
+45994	101817019	Ljungskile		locality	9
+46133	101847325	Trollhattan		locality	9
+46134	101847325	Trollhattan		locality	1
+46139	101847325	Trollhattan		locality	3
+46143	101847325	Trollhattan		locality	1
+46150	101847325	Trollhattan		locality	19
+46151	101847325	Trollhattan		locality	28
+46155	101847325	Trollhattan		locality	13
+46159	101847325	Trollhattan		locality	181
+46170	101847325	Trollhattan		locality	68
+46171	101847325	Trollhattan		locality	80
+46173	101847325	Trollhattan		locality	59
+46183	101847325	Trollhattan		locality	1
+46222	101817015	Vänersborg		locality	1
+46230	101817015	Vänersborg		locality	171
+46231	101817015	Vänersborg		locality	160
+46232	101817015	Vänersborg		locality	3
+46233	101817015	Vänersborg		locality	94
+46234	101817015	Vänersborg		locality	89
+46236	101817015	Vänersborg		locality	13
+46238	101817015	Vänersborg		locality	1
+46241	101817015	Vänersborg		locality	2
+46261	101817015	Vänersborg		locality	1
+46293	101817015	Vänersborg		locality	5
+46330	101817035	Lilla Edet		locality	36
+46331	101817035	Lilla Edet		locality	44
+46332	101817035	Lilla Edet		locality	1
+46333	101817035	Lilla Edet		locality	24
+46334	101817035	Lilla Edet		locality	1
+46421	101817103	Mellerud		locality	1
+46430	101817103	Mellerud		locality	220
+46431	101817103	Mellerud		locality	217
+46432	101817103	Mellerud		locality	410
+46433	101817103	Mellerud		locality	226
+46440	1125989103	Åsensbruk		locality	176
+46450	1125819019	Dals Rostock		locality	317
+46461	101817109	Brålanda		locality	238
+46462	101817109	Brålanda		locality	201
+46463	101817109	Brålanda		locality	21
+46471	1125974649	Köpmannebro		locality	1
+46472	1125914741	Håverud		locality	92
+46493	101817103	Mellerud		locality	1
+46593	101817023	Nossebro		locality	1
+46732	101816983	Grästorp		locality	1
+46740	101816983	Grästorp		locality	1
+46795	101816983	Grästorp		locality	1
+46830	101816977	Varagons		locality	1
+46833	101816977	Varagons		locality	5
+47132	101817051	Skärhamn		locality	1
+47172	1126024437	Hjälteby		locality	1
+47196	1125914605	Bleket		locality	176
+47197	101817057	Rönnäng		locality	1
+47198	1125861333	Fagerfjäll		locality	69
+47231	101817031	Svanesund		locality	1
+47232	101817031	Svanesund		locality	226
+47292	1125947135	Stillingsön		locality	1
+47296	1125774703	Varekil		locality	2
+47431	1125779169	Ellös		locality	33
+47432	1125779169	Ellös		locality	59
+47492	1125779169	Ellös		locality	179
+47496	1125939345	Nösund		locality	2
+47531	101840181	Öckerö		locality	7
+47540	101840185	Hönö		locality	184
+47541	101840185	Hönö		locality	182
+47550	1125924161	Hälsö		locality	17
+47580	101840181	Öckerö		locality	2
+50172	101816965	Motala		locality	1
+50336	101752293	Borås		locality	1
+50435	101752293	Borås		locality	1
+50444	101752293	Borås		locality	1
+50461	101752293	Borås		locality	21
+50464	101752293	Borås		locality	2
+50470	101752293	Borås		locality	19
+50471	101752293	Borås		locality	2
+50630	101752293	Borås		locality	7
+50638	101752293	Borås		locality	1
+50639	101752293	Borås		locality	1
+50730	101752293	Borås		locality	1
+50741	101752293	Borås		locality	1
+50760	101752293	Borås		locality	2
+50771	101817137	Gånghester och Målsryd		locality	3
+51131	1125777293	Örby		locality	2
+51168	1125952163	Hyssna		locality	78
+51192	1125777293	Örby		locality	4
+51193	1125952557	Torestorp		locality	1
+51198	1125952163	Hyssna		locality	58
+51250	101817159	Svenljunga		locality	1
+51253	101817159	Svenljunga		locality	1
+51265	1125942841	Mjöbäck		locality	1
+51370	1126018265	Borgstena		locality	1
+51391	101817073	Fristad		locality	1
+51393	101817073	Fristad		locality	1
+51432	101817161	Tranemo		locality	1
+51433	101817161	Tranemo		locality	3
+51441	101872777	Limmared		locality	1
+51493	1126018237	Ambjörnarp		locality	1
+51560	1125943077	Svaneholm		locality	1
+51631	101817129	Dalsjöfors		locality	1
+51693	1125888071	Rångedala		locality	3
+51722	101817141	Bollebygd		locality	1
+51733	101817141	Bollebygd		locality	1
+51781	101817141	Bollebygd		locality	1
+51792	101817141	Bollebygd		locality	3
+51840	101754061	Sjömarken		locality	9
+51930	101817163	Horred		locality	1
+51992	1125858903	Kungsäter		locality	1
+51993	1125858903	Kungsäter		locality	2
+51994	1125796719	Björketorp		locality	1
+52134	101817029	Falköping		locality	6
+52140	101817029	Falköping		locality	1
+52141	101817029	Falköping		locality	5
+52154	101817033	Floby		locality	2
+52162	101816993	Stenstorp		locality	1
+52230	101817025	Tidaholm		locality	3
+52231	101817025	Tidaholm		locality	1
+52292	101817025	Tidaholm		locality	1
+52293	101817025	Tidaholm		locality	40
+52333	101817077	Ulricehamn		locality	2
+52337	101817077	Ulricehamn		locality	3
+52338	101817077	Ulricehamn		locality	3
+52400	101817039	Herrljunga		locality	1
+52432	101817039	Herrljunga		locality	23
+52442	1125997499	Ljung		locality	1
+52492	101817039	Herrljunga		locality	6
+52816	101752291	Linköping		locality	5
+53030	1125920963	Tun		locality	2
+53133	101817119	Lidköping		locality	5
+53140	101817119	Lidköping		locality	41
+53155	101817119	Lidköping		locality	1
+53182	101817115	Källby		locality	1
+53192	101817119	Lidköping		locality	1
+53193	101817119	Lidköping		locality	1
+53194	1125942613	Järpås		locality	2
+53196	101817119	Lidköping		locality	2
+53197	101817119	Lidköping		locality	4
+53199	101817119	Lidköping		locality	2
+53235	101817013	Skara		locality	4
+53237	101817013	Skara		locality	1
+53274	101817013	Skara		locality	1
+53292	101817007	Axvall		locality	1
+53294	101817013	Skara		locality	5
+53295	101817013	Skara		locality	1
+53332	101817113	Götene		locality	1
+53374	1125921693	Hällekis		locality	9
+53382	101817113	Götene		locality	1
+53391	101817113	Götene		locality	2
+53450	101816995	Vara		locality	2
+53460	101816995	Vara		locality	1
+53473	1126033609	Stora Levene		locality	1
+53530	101816987	Kvänum		locality	3
+53592	1125898869	Jung		locality	1
+53593	101816987	Kvänum		locality	3
+54017	1125804833	Lerdala		locality	1
+54124	101817005	Skövde		locality	1
+54130	101817005	Skövde		locality	9
+54131	101817005	Skövde		locality	86
+54134	101817005	Skövde		locality	125
+54135	101817005	Skövde		locality	1
+54137	101817005	Skövde		locality	2
+54138	101817005	Skövde		locality	106
+54139	101817005	Skövde		locality	141
+54140	101817005	Skövde		locality	106
+54142	101817005	Skövde		locality	4
+54144	101817005	Skövde		locality	34
+54145	101817005	Skövde		locality	15
+54146	101817005	Skövde		locality	12
+54150	101817005	Skövde		locality	18
+54151	101817005	Skövde		locality	29
+54152	101817005	Skövde		locality	77
+54154	101817005	Skövde		locality	310
+54155	101817005	Skövde		locality	89
+54161	101817005	Skövde		locality	2
+54163	101817005	Skövde		locality	2
+54164	101817005	Skövde		locality	2
+54165	101817005	Skövde		locality	8
+54166	101817005	Skövde		locality	107
+54170	101817005	Skövde		locality	11
+54191	101817005	Skövde		locality	2
+54192	101817005	Skövde		locality	1
+54196	1125943219	Väring		locality	1
+54230	101817101	Mariestad		locality	1
+54231	101817101	Mariestad		locality	10
+54232	101817101	Mariestad		locality	1
+54234	101817101	Mariestad		locality	1
+54235	101817101	Mariestad		locality	4
+54240	101817101	Mariestad		locality	1
+54242	101817101	Mariestad		locality	1
+54244	101817101	Mariestad		locality	2
+54274	101817101	Mariestad		locality	1
+54293	101817101	Mariestad		locality	1
+54330	101817003	Tibro		locality	20
+54332	101817003	Tibro		locality	3
+54334	101817003	Tibro		locality	5
+54336	101817003	Tibro		locality	70
+54347	101817003	Tibro		locality	9
+54350	101817003	Tibro		locality	41
+54351	101817003	Tibro		locality	36
+54432	101816985	Hjo		locality	1
+54450	101816985	Hjo		locality	2
+54630	101817111	Karlsborg		locality	5
+54633	101817111	Karlsborg		locality	1
+54832	101817093	Hofva		locality	1
+54891	101817093	Hofva		locality	15
+54893	1125852513	Lyrestad		locality	2
+55302	101752287	Jönköping		locality	22
+55303	101752287	Jönköping		locality	24
+55305	101752287	Jönköping		locality	1
+55315	101752287	Jönköping		locality	2
+55321	101752287	Jönköping		locality	1
+55330	101752287	Jönköping		locality	1
+55448	101752287	Jönköping		locality	2
+55453	101752287	Jönköping		locality	4
+55474	101752287	Jönköping		locality	2
+55592	101752287	Jönköping		locality	8
+55614	101752287	Jönköping		locality	1
+55652	101752287	Jönköping		locality	3
+56013	1125875951	Hok		locality	1
+56029	101816805	Tenhult		locality	2
+56030	101816805	Tenhult		locality	1
+56034	1125773713	Visingsö		locality	1
+56134	1125808437	Huskvarna		locality	1
+56136	1125808437	Huskvarna		locality	1
+56140	1125808437	Huskvarna		locality	1
+56191	1125808437	Huskvarna		locality	2
+56192	1125808437	Huskvarna		locality	2
+56230	1125914831	Norrahammar		locality	1
+56231	1125914831	Norrahammar		locality	1
+56232	1125914831	Norrahammar		locality	13
+56241	101816809	Taberg		locality	7
+56242	101816809	Taberg		locality	5
+56392	101816795	Gränna		locality	1
+56491	101840161	Bankeryd		locality	3
+56533	101816797	Mullsjö		locality	1
+56593	101816797	Mullsjö		locality	1
+56597	1125895075	Bottnaryd		locality	3
+56632	101816799	Habo		locality	3
+56634	101816799	Habo		locality	416
+56636	101816799	Habo		locality	41
+56680	101816799	Habo		locality	1
+56692	101816799	Habo		locality	70
+56831	101816831	Skillingaryd		locality	1
+56891	101816831	Skillingaryd		locality	6
+56892	101816831	Skillingaryd		locality	1
+57001	1126006109	Rörvik		locality	2
+57002	101816843	Stockaryd		locality	1
+57003	101816841	Vrigstad		locality	25
+57013	1125955333	Myresjö		locality	278
+57015	1126020387	Holsbybrunn		locality	112
+57015	1126000129	Ädelfors		locality	1
+57016	1126018531	Kvillsfors		locality	1
+57019	1126030467	Pauliström		locality	1
+57031	1125826611	Ingatorp		locality	56
+57061	1126038651	Rydsnäs		locality	4
+57103	101816807	Forserum		locality	2
+57131	101816815	Nässjö		locality	2
+57134	101816815	Nässjö		locality	11
+57138	101816815	Nässjö		locality	3
+57139	101816815	Nässjö		locality	4
+57141	101816815	Nässjö		locality	2
+57142	101816815	Nässjö		locality	26
+57161	101816821	Bodafors		locality	10
+57162	101816821	Bodafors		locality	5
+57163	101816821	Bodafors		locality	39
+57164	1125819755	Sandsjöfors		locality	20
+57165	1125923167	Grimstorp		locality	167
+57173	1126055345	Stensjön		locality	39
+57178	101816807	Forserum		locality	2
+57193	101816815	Nässjö		locality	1
+57332	101816791	Tranås		locality	1
+57341	101816791	Tranås		locality	1
+57392	101816791	Tranås		locality	53
+57397	101816791	Tranås		locality	3
+57398	101816791	Tranås		locality	6
+57431	101816833	Vetlanda		locality	100
+57432	101816833	Vetlanda		locality	74
+57433	101816833	Vetlanda		locality	20
+57434	101816833	Vetlanda		locality	431
+57435	101816833	Vetlanda		locality	145
+57436	101816833	Vetlanda		locality	329
+57437	101816833	Vetlanda		locality	281
+57438	101816833	Vetlanda		locality	215
+57440	101816833	Vetlanda		locality	35
+57441	101816833	Vetlanda		locality	342
+57442	101816833	Vetlanda		locality	1
+57450	101816825	Ekenässjön		locality	182
+57455	1126018531	Kvillsfors		locality	3
+57472	101816837	Landsbro		locality	1
+57481	101816833	Vetlanda		locality	1
+57491	101816833	Vetlanda		locality	8
+57492	101816833	Vetlanda		locality	3
+57493	1125864861	Sjunnen		locality	1
+57494	101816833	Vetlanda		locality	2
+57531	101816813	Eksjö		locality	2
+57536	101816813	Eksjö		locality	34
+57537	101816813	Eksjö		locality	165
+57633	101816835	Sävsjö		locality	3
+57635	101816835	Sävsjö		locality	6
+57691	101816835	Sävsjö		locality	2
+57791	101816833	Vetlanda		locality	1
+57831	101816803	Aneby		locality	1
+57832	101816803	Aneby		locality	11
+57833	101816803	Aneby		locality	16
+57875	1125773319	Flisby		locality	1
+57892	101816803	Aneby		locality	3
+57893	101816803	Aneby		locality	6
+57894	101816803	Aneby		locality	19
+58103	101752291	Linköping		locality	2
+58185	101752291	Linköping		locality	2
+58187	101752291	Linköping		locality	5
+58212	101752291	Linköping		locality	28
+58215	101752291	Linköping		locality	8
+58216	101752291	Linköping		locality	6
+58217	101752291	Linköping		locality	13
+58218	101752291	Linköping		locality	3
+58219	101752291	Linköping		locality	6
+58220	101752291	Linköping		locality	6
+58223	101752291	Linköping		locality	21
+58224	101752291	Linköping		locality	18
+58227	101752291	Linköping		locality	14
+58229	101752291	Linköping		locality	20
+58231	101752291	Linköping		locality	2
+58233	101752291	Linköping		locality	3
+58235	101752291	Linköping		locality	70
+58236	101752291	Linköping		locality	2
+58237	101752291	Linköping		locality	40
+58239	101752291	Linköping		locality	5
+58246	101752291	Linköping		locality	6
+58247	101752291	Linköping		locality	5
+58248	101752291	Linköping		locality	3
+58254	101752291	Linköping		locality	13
+58255	101752291	Linköping		locality	1
+58273	101752291	Linköping		locality	95
+58276	101752291	Linköping		locality	1
+58329	101752291	Linköping		locality	10
+58331	101816839	Gnosjö		locality	1
+58331	101752291	Linköping		locality	1
+58422	101752291	Linköping		locality	82
+58431	101752291	Linköping		locality	1
+58564	101816935	Linghem		locality	1
+58592	101752291	Linköping		locality	2
+58597	101752291	Linköping		locality	26
+58662	101752291	Linköping		locality	1
+58723	101752291	Linköping		locality	36
+58729	101752291	Linköping		locality	57
+58732	101752291	Linköping		locality	1
+58737	101752291	Linköping		locality	1
+58921	101752291	Linköping		locality	4
+58933	101752291	Linköping		locality	1
+58943	101752291	Linköping		locality	1
+59012	101816947	Boxholm		locality	1
+59013	101816947	Boxholm		locality	1
+59033	1125837121	Fornåsa		locality	1
+59037	101816951	Kisa		locality	1
+59039	101816951	Kisa		locality	2
+59045	1125952907	Brokind		locality	5
+59046	101816949	Rimforsa		locality	3
+59047	101816941	Vikingstad		locality	1
+59049	101816941	Vikingstad		locality	2
+59075	101816967	Ljugsbro		locality	1
+59130	101816965	Motala		locality	1
+59132	101816965	Motala		locality	3
+59136	101816965	Motala		locality	59
+59145	101816965	Motala		locality	7
+59146	101816965	Motala		locality	1
+59151	101816965	Motala		locality	4
+59160	101816965	Motala		locality	1
+59162	101816965	Motala		locality	3
+59197	101816965	Motala		locality	2
+59293	1125920605	Borghamn		locality	5
+59534	101816929	Mjölby		locality	1
+59535	101816929	Mjölby		locality	3
+59550	101816929	Mjölby		locality	1
+59551	101816929	Mjölby		locality	1
+59592	101816929	Mjölby		locality	1
+59631	101816939	Skänninge		locality	1
+59632	101816939	Skänninge		locality	2
+59730	101816945	Åtvidaberg		locality	1
+59731	101816945	Åtvidaberg		locality	1
+59931	101847319	Ödeshög		locality	3
+60014	101752289	Norrköping		locality	1
+60119	101752289	Norrköping		locality	1
+60138	101752289	Norrköping		locality	1
+60176	101752289	Norrköping		locality	18
+60182	101752289	Norrköping		locality	1
+60186	101752289	Norrköping		locality	2
+60238	101752289	Norrköping		locality	5
+60365	101752289	Norrköping		locality	25
+60366	101752289	Norrköping		locality	4
+60372	101752289	Norrköping		locality	116
+60380	101752289	Norrköping		locality	177
+60570	101816959	Svärtinge		locality	1
+60591	101752289	Norrköping		locality	190
+60597	101752289	Norrköping		locality	1
+61025	101913103	Bridgeville		locality	1
+61040	101816931	Gusum		locality	1
+61042	1126026493	Gryt		locality	2
+61075	1125769717	Västerljung		locality	6
+61130	101817173	Nyköping		locality	1
+61131	101817173	Nyköping		locality	4
+61132	101817173	Nyköping		locality	7
+61133	101817173	Nyköping		locality	2
+61134	101817173	Nyköping		locality	5
+61137	101817173	Nyköping		locality	29
+61139	101817173	Nyköping		locality	1
+61145	101817173	Nyköping		locality	8
+61157	101817173	Nyköping		locality	28
+61160	101817173	Nyköping		locality	1
+61167	101817173	Nyköping		locality	10
+61174	1126015913	Tystberga		locality	15
+61176	1125939319	Nävekvarn		locality	1
+61190	1126012307	Ålberga		locality	1
+61195	101817173	Nyköping		locality	1
+61199	1126015913	Tystberga		locality	11
+61283	101816953	Finspång		locality	1
+61330	101817179	Oxelösund		locality	7
+61331	101817179	Oxelösund		locality	5
+61341	101817179	Oxelösund		locality	10
+61381	101817179	Oxelösund		locality	1
+61431	101816971	Söderköping		locality	3
+61434	101840165	Åby		locality	1
+61630	101840165	Åby		locality	23
+61632	101840165	Åby		locality	24
+61633	101840165	Åby		locality	146
+61634	101840165	Åby		locality	154
+61690	101840165	Åby		locality	2
+61935	101815813	Trosa		locality	23
+62012	101816923	Hemse		locality	1
+62141	101847317	Visby		locality	1
+62170	101847317	Visby		locality	1
+62178	101847317	Visby		locality	1
+62258	1125845635	Roma		locality	3
+62325	1125826687	Ljugarn		locality	1
+62348	1125810363	Stånga		locality	4
+62365	1125826687	Ljugarn		locality	3
+62377	101816921	Klintehamn		locality	1
+62455	1125882683	Lärbro		locality	1
+62467	1125945353	Fårö		locality	4
+62467	1125771371	Sudersand		locality	1
+63130	101817179	Oxelösund		locality	5
+63133	101817119	Lidköping		locality	1
+63222	101752297	Eskilstuna		locality	2
+63227	101752297	Eskilstuna		locality	1
+63234	101752297	Eskilstuna		locality	38
+63340	101752297	Eskilstuna		locality	1
+63349	101752297	Eskilstuna		locality	4
+63355	101752297	Eskilstuna		locality	11
+63356	101752297	Eskilstuna		locality	1
+63531	101815777	Kvieksund		locality	4
+64024	1125836025	Sköldinge		locality	3
+64033	1126000237	Bettna		locality	94
+64132	101815809	Katrineholm		locality	1
+64136	101815809	Katrineholm		locality	1
+64145	101815809	Katrineholm		locality	1
+64149	101815809	Katrineholm		locality	3
+64194	101815809	Katrineholm		locality	1
+64196	101815809	Katrineholm		locality	1
+64197	101815809	Katrineholm		locality	1
+64232	101815799	Flen		locality	8
+64260	101815797	Malmköping		locality	5
+64430	101815779	Torshälla		locality	4
+64432	101815779	Torshälla		locality	1
+64433	101815779	Torshälla		locality	1
+64532	101815783	Strängnäs		locality	1
+64533	101815783	Strängnäs		locality	1
+64534	101815783	Strängnäs		locality	6
+64540	101815783	Strängnäs		locality	1
+64542	101815783	Strängnäs		locality	1
+64543	101815783	Strängnäs		locality	55
+64547	101815783	Strängnäs		locality	2
+64594	101815783	Strängnäs		locality	12
+64596	101815787	Stallarholmen		locality	1
+64651	1125764783	Stjärnhov		locality	2
+64695	1125818927	Björnlunda		locality	1
+64751	101815793	Åkers styckebruk		locality	8
+64752	101815793	Åkers styckebruk		locality	40
+64831	101815795	Hälleforsnäs		locality	1
+65181	101752311	Karlstad		locality	1
+65225	101752311	Karlstad		locality	93
+65226	101752311	Karlstad		locality	39
+65341	101752311	Karlstad		locality	10
+65343	101752311	Karlstad		locality	1
+65350	101752311	Karlstad		locality	27
+65592	101752311	Karlstad		locality	1
+65593	101752311	Karlstad		locality	4
+65634	101752311	Karlstad		locality	134
+65636	101752311	Karlstad		locality	1
+65638	101752311	Karlstad		locality	25
+65672	101815963	Skattkärr		locality	1
+66011	101817085	Billingsfors		locality	1
+66052	101815959	Edsvalla		locality	1
+66057	1126008299	Väse		locality	1
+66060	101815951	Molkom		locality	4
+66130	101815997	Säffle		locality	3
+66132	101815997	Säffle		locality	2
+66140	101815997	Säffle		locality	2
+66141	101815997	Säffle		locality	1
+66142	101815997	Säffle		locality	1
+66192	101815997	Säffle		locality	1
+66231	101815771	Åmål		locality	1
+66237	101815771	Åmål		locality	1
+66291	101815771	Åmål		locality	1
+66341	1125939191	Hammarö Municipality		locality	1
+66495	1125809839	Borgvik		locality	1
+66535	101815957	Kil		locality	86
+66592	101815957	Kil		locality	17
+66691	101815773	Bengtsfors		locality	2
+66730	101815955	Forshaga		locality	4
+66830	101817091	Ed		locality	1
+66832	101817091	Ed		locality	2
+66932	101815987	Deje		locality	2
+67020	1125797305	Glava		locality	13
+67131	101815913	Norrtälje		locality	8
+67151	101815985	Arvika		locality	2
+67160	101815985	Arvika		locality	1
+67195	1125954673	Stömne		locality	1
+67331	101815973	Charlottenberg		locality	1
+68050	101815989	Ekshärad		locality	1
+68051	1125935705	Stöllet		locality	4
+68052	1125871631	Ambjörby		locality	1
+68071	101815995	Björneborg		locality	1
+68134	101815971	Kristinehamn		locality	2
+68137	101815971	Kristinehamn		locality	5
+68143	101815971	Kristinehamn		locality	164
+68152	101815971	Kristinehamn		locality	2
+68193	101815971	Kristinehamn		locality	1
+68194	101815971	Kristinehamn		locality	1
+68233	101815981	Filipstad		locality	38
+68333	101815991	Hagfors		locality	2
+68334	101815991	Hagfors		locality	1
+68360	101815989	Ekshärad		locality	1
+68391	101815991	Hagfors		locality	2
+68395	1126029099	Sunnemo		locality	1
+68421	101815977	Munkfors		locality	2
+68430	101815977	Munkfors		locality	43
+68431	101815977	Munkfors		locality	4
+68432	101815977	Munkfors		locality	1
+68433	101815977	Munkfors		locality	2
+68492	101815977	Munkfors		locality	4
+68493	1125988681	Ransäter		locality	2
+68530	101816183	Torsby		locality	24
+68691	101815975	Sunne		locality	1
+69131	101815827	Karlskoga		locality	1
+69150	101815827	Karlskoga		locality	1
+69153	101815827	Karlskoga		locality	12
+69233	101815843	Kumla		locality	5
+69291	101815843	Kumla		locality	1
+69293	101815843	Kumla		locality	2
+69392	101815835	Degerfors		locality	1
+69434	101815845	Hallsberg		locality	1
+69435	101815845	Hallsberg		locality	2
+69460	101847345	Åsbro		locality	1
+69491	101815845	Hallsberg		locality	1
+69492	101815845	Hallsberg		locality	2
+69494	1125820069	Vretstorp		locality	1
+69496	101847345	Åsbro		locality	1
+69597	1125908839	Tived		locality	2
+69630	101817181	Askersund		locality	1
+69774	101847341	Sköllersta		locality	219
+69794	101847341	Sköllersta		locality	1
+70216	101752301	Örebro		locality	5
+70227	101752301	Örebro		locality	1
+70228	101752301	Örebro		locality	8
+70235	101752301	Örebro		locality	1
+70236	101752301	Örebro		locality	11
+70281	101752301	Örebro		locality	1
+70285	101752301	Örebro		locality	1
+70330	101752301	Örebro		locality	1
+70355	101752301	Örebro		locality	1
+70358	101752301	Örebro		locality	2
+70363	101752301	Örebro		locality	1
+70369	101752301	Örebro		locality	12
+70374	101752301	Örebro		locality	5
+70375	101752301	Örebro		locality	12
+70376	101752301	Örebro		locality	1
+70510	101752301	Örebro		locality	17
+70593	101752301	Örebro		locality	3
+70594	101752301	Örebro		locality	5
+70595	101752301	Örebro		locality	4
+71101	101815815	Lindesberg		locality	1
+71176	101847337	Storå		locality	1
+71260	1125803165	Grythyttan		locality	2
+71291	101815831	Hällefors		locality	1
+71331	101815817	Nora		locality	191
+71332	101815817	Nora		locality	379
+71333	101815817	Nora		locality	50
+71391	101815817	Nora		locality	1
+71472	1125909795	Ställdalen		locality	20
+71691	101815837	Fjugesta		locality	2
+71693	101815837	Fjugesta		locality	1
+71694	1125888757	Mullhyttan		locality	5
+71894	1125784549	Ervalla		locality	13
+71931	101815833	Vintrosa		locality	2
+72131	101752303	Västerås		locality	1
+72132	101752303	Västerås		locality	4
+72134	101752303	Västerås		locality	2
+72136	101752303	Västerås		locality	1
+72137	101752303	Västerås		locality	1
+72138	101752303	Västerås		locality	4
+72187	101752303	Västerås		locality	2
+72211	101752303	Västerås		locality	4
+72212	101752303	Västerås		locality	11
+72226	101752303	Västerås		locality	6
+72227	101752303	Västerås		locality	2
+72231	101752303	Västerås		locality	20
+72233	101752303	Västerås		locality	3
+72241	101752303	Västerås		locality	11
+72341	101752303	Västerås		locality	1
+72351	101752303	Västerås		locality	4
+72353	101752303	Västerås		locality	1
+72355	101752303	Västerås		locality	1
+72471	101752303	Västerås		locality	2
+72475	101752303	Västerås		locality	10
+72479	101752303	Västerås		locality	2
+72595	101752303	Västerås		locality	2
+73030	101815851	Kolsva		locality	4
+73101	101815855	Köping		locality	1
+73136	101815855	Köping		locality	1
+73191	101815817	Nora		locality	1
+73231	101815861	Arboga		locality	53
+73233	101815861	Arboga		locality	2
+73234	101815861	Arboga		locality	5
+73245	101815861	Arboga		locality	4
+73249	101815861	Arboga		locality	6
+73295	101815861	Arboga		locality	1
+73330	101815863	Sala		locality	2
+73331	101815863	Sala		locality	1
+73333	101815863	Sala		locality	1
+73336	101815863	Sala		locality	1
+73338	101815863	Sala		locality	4
+73360	1125956905	Västerfärnebo		locality	1
+73363	1125765685	Salbohed		locality	1
+73491	101815881	Hallstahammar		locality	3
+73523	101752313	Uppsala		locality	1
+73524	101752313	Uppsala		locality	11
+73741	101815885	Fagersta		locality	1
+73742	101815885	Fagersta		locality	2
+73790	1125807071	Ängelsberg		locality	1
+73931	101815867	Skinnskatteberg		locality	1
+74010	1126046953	Almunge		locality	4
+74010	1126038433	Knutby		locality	1
+74020	101816007	Vänge		locality	1
+74046	101816043	Östervåla		locality	1
+74131	101816013	Knivsta		locality	20
+74139	101816013	Knivsta		locality	2
+74171	101816013	Knivsta		locality	1
+74191	101816013	Knivsta		locality	5
+74192	101816013	Knivsta		locality	1
+74234	101816035	Östhammar		locality	1
+74242	101816033	Öregrund		locality	4
+74297	1125773345	Gräsö		locality	1
+74335	101816057	Storvreld		locality	1
+74372	101816051	Björklinge		locality	3
+74374	101816051	Björklinge		locality	1
+74386	101816059	Bälinge		locality	4
+74481	101816005	Morgongåva		locality	1
+74497	1125988995	Järlåsa		locality	3
+74538	101816017	Enköping		locality	21
+74549	101816017	Enköping		locality	1
+74563	101816017	Enköping		locality	62
+74592	101816017	Enköping		locality	3
+74594	101816017	Enköping		locality	22
+74596	101816017	Enköping		locality	2
+74598	101816017	Enköping		locality	1
+74599	101816017	Enköping		locality	32
+74624	101816003	Bålsta		locality	1
+74632	101816003	Bålsta		locality	2
+74633	101816003	Bålsta		locality	2
+74635	101816003	Bålsta		locality	50
+74651	101816003	Bålsta		locality	1
+74652	101816003	Bålsta		locality	1
+74680	101816003	Bålsta		locality	1
+74693	101816003	Bålsta		locality	21
+74744	101816045	Gimo		locality	1
+74841	101816039	Örbyhus		locality	1
+74948	101816017	Enköping		locality	25
+74949	101816017	Enköping		locality	4
+74950	1125915485	Ekolsund		locality	1
+74951	101816063	Grillby		locality	1
+74961	101816011	Orundsbro		locality	94
+74972	1125908585	Fjärdhundra		locality	2
+75217	101752313	Uppsala		locality	27
+75220	101752313	Uppsala		locality	8
+75221	101752313	Uppsala		locality	3
+75223	101752313	Uppsala		locality	2
+75224	101752313	Uppsala		locality	6
+75226	101752313	Uppsala		locality	2
+75227	101752313	Uppsala		locality	10
+75228	101752313	Uppsala		locality	26
+75229	101752313	Uppsala		locality	5
+75230	101752313	Uppsala		locality	5
+75232	101752313	Uppsala		locality	2
+75237	101752313	Uppsala		locality	17
+75238	101752313	Uppsala		locality	16
+75239	101752313	Uppsala		locality	2
+75243	101752313	Uppsala		locality	2
+75260	101752313	Uppsala		locality	1
+75267	101752313	Uppsala		locality	5
+75268	101752313	Uppsala		locality	3
+75290	101752313	Uppsala		locality	1
+75309	101752313	Uppsala		locality	9
+75318	101752313	Uppsala		locality	4
+75319	101752313	Uppsala		locality	2
+75320	101752313	Uppsala		locality	11
+75321	101752313	Uppsala		locality	17
+75323	101752313	Uppsala		locality	10
+75324	101752313	Uppsala		locality	468
+75325	101752313	Uppsala		locality	92
+75327	101752313	Uppsala		locality	115
+75328	101752313	Uppsala		locality	183
+75329	101752313	Uppsala		locality	76
+75331	101752313	Uppsala		locality	24
+75332	101752313	Uppsala		locality	7
+75333	101752313	Uppsala		locality	4
+75334	101752313	Uppsala		locality	5
+75335	101752313	Uppsala		locality	4
+75336	101752313	Uppsala		locality	1
+75340	101752313	Uppsala		locality	2
+75419	101752313	Uppsala		locality	2
+75421	101752313	Uppsala		locality	2
+75422	101752313	Uppsala		locality	38
+75423	101752313	Uppsala		locality	16
+75424	101752313	Uppsala		locality	28
+75425	101752313	Uppsala		locality	81
+75426	101752313	Uppsala		locality	55
+75429	101752313	Uppsala		locality	1
+75430	101752313	Uppsala		locality	1
+75433	101752313	Uppsala		locality	9
+75434	101752313	Uppsala		locality	77
+75436	101752313	Uppsala		locality	37
+75440	101752313	Uppsala		locality	1
+75448	101752313	Uppsala		locality	1
+75449	101752313	Uppsala		locality	1
+75450	101752313	Uppsala		locality	4
+75452	101752313	Uppsala		locality	17
+75460	101752313	Uppsala		locality	7
+75591	101752313	Uppsala		locality	209
+75592	101752313	Uppsala		locality	103
+75593	101752313	Uppsala		locality	17
+75594	101752313	Uppsala		locality	18
+75597	101752313	Uppsala		locality	34
+75642	101752313	Uppsala		locality	7
+75643	101752313	Uppsala		locality	28
+75644	101752313	Uppsala		locality	1
+75646	101752313	Uppsala		locality	1
+75647	101752313	Uppsala		locality	2
+75648	101752313	Uppsala		locality	43
+75650	101752313	Uppsala		locality	4
+75651	101752313	Uppsala		locality	2
+75653	101752313	Uppsala		locality	4
+75655	101752313	Uppsala		locality	61
+75754	101752313	Uppsala		locality	155
+75756	101752313	Uppsala		locality	3
+75758	101752313	Uppsala		locality	19
+75759	101752313	Uppsala		locality	72
+76010	1125921543	Bergshamra		locality	22
+76015	1125988473	Gräddö		locality	3
+76017	1125989175	Blidö		locality	1
+76019	1125819091	Furusund		locality	1
+76021	1125978357	Vätö		locality	6
+76040	1125988265	Väddö		locality	1
+76128	101815913	Norrtälje		locality	1
+76136	101814871	Kiruna		locality	1
+76145	101815913	Norrtälje		locality	34
+76151	101815913	Norrtälje		locality	1
+76152	101815913	Norrtälje		locality	1
+76154	101815913	Norrtälje		locality	20
+76165	101815913	Norrtälje		locality	1
+76171	101815913	Norrtälje		locality	1
+76172	101815913	Norrtälje		locality	1
+76174	101815913	Norrtälje		locality	19
+76175	101815913	Norrtälje		locality	3
+76197	101815913	Norrtälje		locality	1
+76291	101815915	Rimbo		locality	3
+76296	1125897631	Rånäs		locality	61
+76323	101847349	Hallstavik		locality	1
+76335	101847349	Hallstavik		locality	1
+76340	101847349	Hallstavik		locality	1
+77014	1126018649	Nyhammar		locality	37
+77071	1125787129	Stjärnsund		locality	3
+77130	101816111	Ludvika		locality	7
+77141	101816111	Ludvika		locality	1
+77142	101816111	Ludvika		locality	2
+77151	101816111	Ludvika		locality	4
+77290	101847365	Grängesberg		locality	1
+77435	101816115	Avesta		locality	3
+77461	101816115	Avesta		locality	1
+77462	101816115	Avesta		locality	1
+77468	101816105	Horndals Bruk		locality	1
+77498	101816105	Horndals Bruk		locality	24
+77499	1125996589	Näs Bruk		locality	1
+77596	1125845609	Krylbo		locality	1
+77630	101816107	Hedemora		locality	8
+77691	101816107	Hedemora		locality	1
+77698	1126037793	Garpenberg		locality	9
+77791	101816113	Smedjebacken		locality	1
+77793	1125792761	Söderbärke		locality	2
+78122	101816099	Borlänge		locality	1
+78171	101816099	Borlänge		locality	1
+78197	101816099	Borlänge		locality	3
+78199	1125875977	Idkerberget		locality	6
+78231	101816083	Malung		locality	3
+78275	1126026821	Malungsfors		locality	2
+78290	101816083	Malung		locality	1
+78441	101816099	Borlänge		locality	3
+78450	101816099	Borlänge		locality	3
+78456	101816099	Borlänge		locality	46
+78463	101816099	Borlänge		locality	5
+78474	101816099	Borlänge		locality	5
+78560	101816087	Djurås		locality	4
+78561	101816087	Djurås		locality	116
+78563	1125819787	Sifferbo		locality	3
+79021	101847355	Bjursås		locality	1
+79070	1125819073	Furudal		locality	3
+79136	101847359	Falun		locality	2
+79137	101847359	Falun		locality	18
+79140	101847359	Falun		locality	3
+79144	101847359	Falun		locality	5
+79150	101847359	Falun		locality	83
+79152	101847359	Falun		locality	88
+79153	101847359	Falun		locality	8
+79155	101847359	Falun		locality	97
+79170	101847359	Falun		locality	1
+79175	101847359	Falun		locality	28
+79176	101847359	Falun		locality	80
+79177	101847359	Falun		locality	3
+79192	101847359	Falun		locality	24
+79194	101847359	Falun		locality	63
+79195	101847359	Falun		locality	1
+79202	1126037893	Mora		locality	1
+79227	1126037893	Mora		locality	1
+79230	1126037893	Mora		locality	8
+79231	1126037893	Mora		locality	1
+79250	1126037893	Mora		locality	2
+79280	1126037893	Mora		locality	1
+79290	1125777441	Sollerön		locality	2
+79292	101816069	Mora		locality	13
+79295	101816069	Mora		locality	5
+79297	1126037893	Mora		locality	4
+79330	101816187	Leksand		locality	104
+79331	101816187	Leksand		locality	58
+79332	101816187	Leksand		locality	4
+79336	101816187	Leksand		locality	34
+79350	101816187	Leksand		locality	1
+79370	1125970399	Tällberg		locality	2
+79421	101816067	Orsa		locality	4
+79430	101816067	Orsa		locality	18
+79431	101816067	Orsa		locality	58
+79433	101816067	Orsa		locality	10
+79490	101816067	Orsa		locality	3
+79491	101816067	Orsa		locality	1
+79492	101816067	Orsa		locality	2
+79493	101816067	Orsa		locality	1
+79495	1125827187	Skattungbyn		locality	6
+79498	101816067	Orsa		locality	1
+80126	101752315	Gävle		locality	5
+80128	101752315	Gävle		locality	1
+80129	101752315	Gävle		locality	1
+80130	101752315	Gävle		locality	1
+80138	101752315	Gävle		locality	2
+80250	101752315	Gävle		locality	1
+80251	101752315	Gävle		locality	11
+80252	101752315	Gävle		locality	6
+80253	101752315	Gävle		locality	1
+80255	101752315	Gävle		locality	10
+80257	101752315	Gävle		locality	1
+80266	101752315	Gävle		locality	2
+80267	101752315	Gävle		locality	28
+80269	101752315	Gävle		locality	1
+80272	101752315	Gävle		locality	1
+80275	101752315	Gävle		locality	5
+80286	101752315	Gävle		locality	2
+80291	101752315	Gävle		locality	2
+80302	101752315	Gävle		locality	1
+80309	101752315	Gävle		locality	4
+80310	101752315	Gävle		locality	2
+80311	101752315	Gävle		locality	7
+80320	101752315	Gävle		locality	2
+80321	101752315	Gävle		locality	1
+80323	101752315	Gävle		locality	2
+80324	101752315	Gävle		locality	4
+80545	101752315	Gävle		locality	1
+80591	101752315	Gävle		locality	2
+80596	101752315	Gävle		locality	2
+80631	101752315	Gävle		locality	8
+80632	101752315	Gävle		locality	1
+80634	101752315	Gävle		locality	2
+80636	101752315	Gävle		locality	45
+80641	101752315	Gävle		locality	1
+81022	101816159	Årsunda		locality	2
+81132	101816155	Sandviken		locality	3
+81162	101816155	Sandviken		locality	1
+81171	101816151	Järbo		locality	1
+81300	101816157	Hofors		locality	1
+81330	101816157	Hofors		locality	3
+81334	101816157	Hofors		locality	1
+81340	1125997549	Torsåker		locality	1
+81391	101816157	Hofors		locality	1
+81430	101816023	Skutskär		locality	1
+81432	101816023	Skutskär		locality	1
+81493	101816023	Skutskär		locality	1
+81494	101816025	Älvkarleby		locality	31
+81494	1126014377	Älvkarleö		locality	1
+81593	101816031	Tierp		locality	15
+81631	101816149	Ockelbo		locality	1
+81692	1125828853	Lingbo		locality	67
+81730	101816147	Norrsundedet		locality	16
+81740	1126029487	Bergby		locality	4
+81830	101754087	Valbo		locality	1
+81832	101754087	Valbo		locality	11
+81834	101754087	Valbo		locality	1
+81892	101754087	Valbo		locality	1
+82020	101816143	Ljusne		locality	2
+82026	1126029577	Marmaverken		locality	1
+82040	101816123	Järvsö		locality	1
+82041	101816117	Färila		locality	2
+82050	1126026835	Los		locality	2
+82060	101816119	Delsbo		locality	1
+82065	101814789	Sundsvall		locality	6
+82072	1126057463	Strömsbruk		locality	1
+82077	1125957089	Gnarp		locality	17
+82150	101816135	Bollnäs		locality	18
+82151	101816135	Bollnäs		locality	7
+82292	101816133	Alfta		locality	1
+82422	101847367	Hudiksvall		locality	1
+82434	101847367	Hudiksvall		locality	5
+82442	101847367	Hudiksvall		locality	4
+82450	101814789	Sundsvall		locality	8
+82452	101847367	Hudiksvall		locality	1
+82532	101816125	Iggesunds Bruk		locality	6
+82595	1125889397	Enånger		locality	1
+82632	101816137	Söderhamn		locality	1
+82640	101816137	Söderhamn		locality	1
+82691	101816137	Söderhamn		locality	17
+82700	101814757	Ljusdal		locality	1
+82731	101814757	Ljusdal		locality	2
+82732	101814757	Ljusdal		locality	11
+82733	101814757	Ljusdal		locality	7
+82734	101814757	Ljusdal		locality	15
+82735	101814757	Ljusdal		locality	5
+82760	101816117	Färila		locality	1
+82831	101816131	Edsbyn		locality	5
+82834	101816131	Edsbyn		locality	1
+82895	1126019049	Viksjöfors		locality	13
+83015	1125963317	Duved		locality	7
+83060	1125939763	Föllinge		locality	2
+83070	1125964153	Hammerdal		locality	1
+83084	101817149	Styrsö		locality	83
+83130	101839541	Östersund		locality	72
+83131	101839543	Östersund		locality	58
+83132	101839543	Östersund		locality	45
+83133	101839541	Östersund		locality	73
+83134	101839543	Östersund		locality	36
+83135	101839543	Östersund		locality	51
+83136	101839543	Östersund		locality	99
+83137	101839543	Östersund		locality	107
+83138	101839543	Östersund		locality	203
+83140	101839543	Östersund		locality	38
+83141	101839543	Östersund		locality	41
+83141	1125826203	Frösön		locality	8
+83142	101839543	Östersund		locality	436
+83142	1125826203	Frösön		locality	1
+83143	101839543	Östersund		locality	372
+83145	101839543	Östersund		locality	387
+83146	101839543	Östersund		locality	392
+83147	101839543	Östersund		locality	209
+83148	101839543	Östersund		locality	395
+83161	101839543	Östersund		locality	661
+83171	101839543	Östersund		locality	88
+83172	101839543	Östersund		locality	223
+83173	101839543	Östersund		locality	62
+83174	101839543	Östersund		locality	117
+83175	101839543	Östersund		locality	72
+83176	101839543	Östersund		locality	40
+83177	101839543	Östersund		locality	7
+83192	101839543	Östersund		locality	77
+83241	1125826203	Frösön		locality	6
+83241	101839541	Östersund		locality	2
+83296	1125826203	Frösön		locality	6
+83361	1125964043	Gäddede		locality	1
+83532	101814801	Krokom		locality	1
+83693	1126057417	Häggenås		locality	2
+83694	101814805	Ås		locality	1
+83695	101814805	Ås		locality	19
+83772	1125963317	Duved		locality	2
+84030	1125999883	Rätan		locality	1
+84032	1125796187	Klövsjö		locality	1
+84040	1125897413	Svenstavik		locality	2
+84060	101847377	Bräcke		locality	274
+84092	1125918941	Vemdalen		locality	8
+84093	1125989497	Hede		locality	3
+84094	1125772401	Tännäs		locality	1
+84095	1125795381	Funäsdalen		locality	1
+84097	1125776877	Bruksvallarna		locality	1
+84191	101814783	Ånge		locality	2
+84232	101814811	Sveg		locality	225
+84233	101814811	Sveg		locality	1
+85223	101752291	Linköping		locality	1
+85230	101814789	Sundsvall		locality	126
+85350	101814789	Sundsvall		locality	109
+85351	101814789	Sundsvall		locality	35
+85352	101814789	Sundsvall		locality	59
+85643	101814789	Sundsvall		locality	321
+86231	101839535	Kvissle		locality	4
+86240	101839539	Njurundabommen		locality	104
+86295	101839539	Njurundabommen		locality	21
+86491	101814791	Matfors		locality	93
+86492	101814791	Matfors		locality	26
+87030	1125848373	Nordingrå		locality	9
+87033	1125927901	Docksta		locality	2
+87130	101814781	Härnösand		locality	2
+87131	101814781	Härnösand		locality	3
+87140	101814781	Härnösand		locality	1
+87145	101814781	Härnösand		locality	5
+87153	101814781	Härnösand		locality	1
+87160	101814781	Härnösand		locality	4
+87161	101814781	Härnösand		locality	1
+87224	101814779	Kramfors		locality	1
+87230	101814779	Kramfors		locality	6
+87231	101814779	Kramfors		locality	26
+87264	1125798895	Sandöverken		locality	4
+87294	1125798895	Sandöverken		locality	26
+88030	1125947085	Näsåker		locality	1
+88130	101814771	Sollefteå		locality	2
+88135	101814771	Sollefteå		locality	97
+89050	1126036039	Björna		locality	14
+89131	101814765	Örnsköldsvik		locality	1
+89133	101814765	Örnsköldsvik		locality	13
+89134	101814765	Örnsköldsvik		locality	1
+89139	101814765	Örnsköldsvik		locality	10
+89161	101814765	Örnsköldsvik		locality	8
+89188	101814765	Örnsköldsvik		locality	1
+89195	1125807085	Arnäsvall		locality	1
+89196	1125807085	Arnäsvall		locality	1
+89292	1125960657	Domsjö		locality	1
+89395	1125848437	Sidensjö		locality	3
+89396	1125848437	Sidensjö		locality	4
+89631	101814763	Husum		locality	17
+89632	101814763	Husum		locality	39
+90132	101752319	Umeå		locality	4
+90133	101752319	Umeå		locality	1
+90304	101752319	Umeå		locality	2
+90326	101752319	Umeå		locality	24
+90327	101752319	Umeå		locality	3
+90328	101752319	Umeå		locality	12
+90330	101752319	Umeå		locality	11
+90332	101752319	Umeå		locality	1
+90333	101752319	Umeå		locality	8
+90334	101752319	Umeå		locality	20
+90336	101752319	Umeå		locality	3
+90337	101752319	Umeå		locality	25
+90338	101752319	Umeå		locality	8
+90339	101752319	Umeå		locality	1
+90342	101752319	Umeå		locality	8
+90343	101752319	Umeå		locality	1
+90347	101752319	Umeå		locality	5
+90351	101752319	Umeå		locality	5
+90353	101752319	Umeå		locality	113
+90354	101752319	Umeå		locality	8
+90355	101752319	Umeå		locality	3
+90360	101752319	Umeå		locality	1
+90361	101752319	Umeå		locality	2
+90362	101752319	Umeå		locality	19
+90363	101752319	Umeå		locality	3
+90364	101752319	Umeå		locality	8
+90365	101752319	Umeå		locality	1
+90420	101752319	Umeå		locality	1
+90421	101752319	Umeå		locality	414
+90426	101752319	Umeå		locality	1
+90434	101752319	Umeå		locality	1
+90436	101752319	Umeå		locality	1
+90440	101814859	Röbäck		locality	1
+90532	101814865	Hörnefors		locality	3
+90592	101752319	Umeå		locality	1
+90593	101752319	Umeå		locality	10
+90620	101752319	Umeå		locality	1
+90621	101752319	Umeå		locality	7
+90622	101752319	Umeå		locality	1
+90625	101752319	Umeå		locality	22
+90628	101752319	Umeå		locality	34
+90637	101752319	Umeå		locality	47
+90640	101752319	Umeå		locality	5
+90642	101752319	Umeå		locality	1
+90643	101752319	Umeå		locality	4
+90651	101752319	Umeå		locality	268
+90652	101752319	Umeå		locality	17
+90654	101752319	Umeå		locality	90
+90656	101752319	Umeå		locality	4
+90727	101752319	Umeå		locality	1
+90729	101752319	Umeå		locality	24
+90731	101752319	Umeå		locality	14
+90732	101752319	Umeå		locality	45
+90733	101752319	Umeå		locality	66
+90734	101752319	Umeå		locality	30
+90735	101752319	Umeå		locality	8
+90736	101752319	Umeå		locality	3
+90737	101752319	Umeå		locality	3
+90738	101752319	Umeå		locality	36
+90740	101752319	Umeå		locality	35
+90742	101752319	Umeå		locality	16
+90743	101752319	Umeå		locality	1
+90751	101752319	Umeå		locality	60
+90752	101752319	Umeå		locality	3
+90753	101752319	Umeå		locality	6
+91088	1125863211	Marsfjäll		locality	1
+91192	101814853	Vännäs		locality	1
+91331	101814861	Holmsund		locality	9
+91441	1125906663	Rundvik		locality	1
+91594	1125896983	Ånäset		locality	7
+91598	1125989299	Bygdeå		locality	236
+91722	101814841	Dorotea		locality	1
+91732	101814841	Dorotea		locality	1
+91831	101814855	Sävar		locality	3
+91832	101814855	Sävar		locality	1
+91993	1126036787	Fredrika		locality	2
+92064	1125890167	Tärnaby		locality	2
+92137	101814837	Lycksele		locality	2
+92145	101814837	Lycksele		locality	6
+92146	101814837	Lycksele		locality	1
+92191	101814837	Lycksele		locality	1
+92192	101814837	Lycksele		locality	2
+92199	101814837	Lycksele		locality	1
+92231	101814843	Vindeln		locality	5
+92263	1125920845	Tavelsjö		locality	1
+92267	1125920845	Tavelsjö		locality	4
+92273	1126013325	Hällnäs		locality	1
+92275	1126018245	Åmsele		locality	4
+92291	101814843	Vindeln		locality	8
+92293	101814843	Vindeln		locality	1
+92331	101847379	Storuman		locality	7
+92398	101847379	Storuman		locality	1
+92399	101847379	Storuman		locality	1
+92492	1125843123	Blattnicksele		locality	2
+92494	101814815	Sorsele		locality	12
+93047	101814819	Byske		locality	32
+93055	1125910517	Jörn		locality	1
+93090	101814879	Arjeplog		locality	2
+93130	101814827	Skellefteå		locality	4
+93131	101814827	Skellefteå		locality	2
+93133	101814827	Skellefteå		locality	1
+93137	101814827	Skellefteå		locality	2
+93140	101814827	Skellefteå		locality	1
+93150	101814827	Skellefteå		locality	1
+93154	101814827	Skellefteå		locality	1
+93162	101814827	Skellefteå		locality	2
+93191	101814827	Skellefteå		locality	41
+93198	101814827	Skellefteå		locality	2
+93233	101814829	Skelleftehamn		locality	16
+93234	1125781377	Örviken		locality	3
+93235	101814827	Skellefteå		locality	1
+93235	101839549	Ursvik		locality	1
+93331	101814897	Arvidsjaur		locality	1
+93334	101814897	Arvidsjaur		locality	1
+93391	101814897	Arvidsjaur		locality	2
+93399	101814897	Arvidsjaur		locality	19
+93491	101814825	Kåge		locality	22
+93693	101814823	Boliden		locality	1
+93694	1125910517	Jörn		locality	1
+93832	101814879	Arjeplog		locality	1
+94131	101814911	Piteå		locality	1
+94133	101814911	Piteå		locality	1
+94135	101814911	Piteå		locality	48
+94139	101814911	Piteå		locality	1
+94142	101814911	Piteå		locality	30
+94143	101814911	Piteå		locality	1
+94163	101814911	Piteå		locality	3
+94191	101814911	Piteå		locality	1
+94331	1125983477	Öjebyn		locality	2
+95042	1126025917	Morjärv		locality	6
+95231	101814887	Kalix		locality	1
+95291	101814887	Kalix		locality	5
+95292	101814887	Kalix		locality	1
+95293	101814887	Kalix		locality	3
+95295	1125974713	Båtskärsnäs		locality	5
+95331	101839555	Haparanda		locality	4
+95332	101839555	Haparanda		locality	7
+95335	101839555	Haparanda		locality	29
+95336	101839555	Haparanda		locality	4
+95392	101839555	Haparanda		locality	4
+95393	1125920687	Karungi		locality	15
+95395	1125839501	Nikkala		locality	1
+95431	101814895	Gammelstaden		locality	4
+95432	101814895	Gammelstaden		locality	12
+95433	101814895	Gammelstaden		locality	4
+95435	101814895	Gammelstaden		locality	35
+95442	101814893	Sunderbyn		locality	29
+95531	101814883	Råneå		locality	12
+95532	101814883	Råneå		locality	6
+95591	101814883	Råneå		locality	5
+95631	1125989909	Överkalix		locality	3
+95692	1125989909	Överkalix		locality	3
+95723	1126005873	Juoksengi		locality	1
+95731	101814877	Övertorneå		locality	30
+95792	101814877	Övertorneå		locality	1
+95793	1125923849	Pello		locality	4
+95794	101814877	Övertorneå		locality	73
+96030	1125865079	Vuollerim		locality	1
+96137	101847383	Boden		locality	4
+96138	101847383	Boden		locality	1
+96144	101847383	Boden		locality	1
+96145	101847383	Boden		locality	1
+96147	101847383	Boden		locality	1
+96173	101847383	Boden		locality	1
+96299	101814875	Jokkmokk		locality	3
+97232	101814899	Luleå		locality	61
+97234	101814899	Luleå		locality	21
+97235	101814899	Luleå		locality	5
+97236	101814899	Luleå		locality	26
+97238	101814899	Luleå		locality	64
+97239	101814899	Luleå		locality	121
+97241	101814899	Luleå		locality	24
+97242	101814899	Luleå		locality	168
+97245	101814899	Luleå		locality	7
+97251	101814899	Luleå		locality	11
+97252	101814899	Luleå		locality	2
+97253	101814899	Luleå		locality	1
+97254	101814899	Luleå		locality	18
+97323	101814899	Luleå		locality	1
+97331	101814899	Luleå		locality	30
+97332	101814899	Luleå		locality	6
+97333	101814899	Luleå		locality	2
+97334	101814899	Luleå		locality	10
+97341	101814899	Luleå		locality	9
+97342	101814899	Luleå		locality	51
+97343	101814899	Luleå		locality	2
+97344	101814899	Luleå		locality	3
+97345	101814899	Luleå		locality	15
+97432	101814899	Luleå		locality	34
+97433	101814899	Luleå		locality	73
+97434	101814899	Luleå		locality	61
+97435	101814899	Luleå		locality	56
+97436	101814899	Luleå		locality	26
+97437	101814899	Luleå		locality	20
+97438	101814899	Luleå		locality	112
+97439	101814899	Luleå		locality	161
+97441	101814899	Luleå		locality	287
+97442	101814899	Luleå		locality	1
+97451	101814899	Luleå		locality	381
+97452	101814899	Luleå		locality	12
+97454	101814899	Luleå		locality	125
+97498	101814899	Luleå		locality	1
+97561	101814899	Luleå		locality	3
+97596	101814899	Luleå		locality	1
+97597	101814899	Luleå		locality	6
+97631	101814899	Luleå		locality	38
+97651	101814899	Luleå		locality	1
+98010	1125836223	Vittangi		locality	2
+98020	1125964703	Svappavaara		locality	1
+98107	1125899077	Abisko		locality	24
+98130	101814871	Kiruna		locality	1
+98131	101814871	Kiruna		locality	13
+98132	101814871	Kiruna		locality	6
+98133	101814871	Kiruna		locality	10
+98134	101814871	Kiruna		locality	16
+98135	101814871	Kiruna		locality	6
+98137	101814871	Kiruna		locality	4
+98139	101814871	Kiruna		locality	8
+98191	1125826739	Jukkasjärvi		locality	33
+98192	101814871	Kiruna		locality	43
+98194	1125766491	Riksgränsen		locality	1
+98195	101814871	Kiruna		locality	34
+98199	101814871	Kiruna		locality	5
+98231	101839553	Gällivare		locality	4
+98232	101839553	Gällivare		locality	1
+98234	101839553	Gällivare		locality	2
+98235	101839553	Gällivare		locality	77
+98239	101839553	Gällivare		locality	4
+98491	101814873	Pajala		locality	2
+98492	101814873	Pajala		locality	28
+352623	101816705	Vaxjo		locality	6
+355262	101816705	Vaxjo		locality	1
+417631	101752295	Gothenburg		locality	1
+464272	1125914741	Håverud		locality	4
