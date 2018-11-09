@@ -66,7 +66,7 @@ tape('PiP tests', test => {
 
   });
 
-  test.test('requested lat/lon inside a polygon should return that record\'s hierarchy', t => {
+  test.test('requested lat/lon inside a neighbourhood polygon should return only neighbourhood', t => {
     temp.mkdir('tmp_wof_data', (err, temp_dir) => {
       fs.mkdirSync(path.join(temp_dir, 'data'));
       fs.mkdirSync(path.join(temp_dir, 'meta'));
@@ -138,6 +138,7 @@ tape('PiP tests', test => {
       fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
 
       const service = pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, o) => {
+        // lookup of point that only hits neighbourhood will NOT return borough
         o.lookup(1.5, 1.5, undefined, (err, results) => {
           t.deepEquals(results, [
             {
@@ -149,6 +150,104 @@ tape('PiP tests', test => {
                 lon: 1.5
               },
               BoundingBox: '1,1,2,2',
+              Hierarchy: [ [ 123, 456 ] ]
+            }
+          ]);
+          // must be explicitly ended or the test hangs
+          o.end();
+          t.end();
+        });
+
+      });
+
+    });
+
+  });
+
+  test.test('requested lat/lon inside a neighbourhood and parent borough should return full hierarchy', t => {
+    temp.mkdir('tmp_wof_data', (err, temp_dir) => {
+      fs.mkdirSync(path.join(temp_dir, 'data'));
+      fs.mkdirSync(path.join(temp_dir, 'meta'));
+
+      // write out the WOF meta files with the minimum required fields
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'whosonfirst-data-neighbourhood-latest.csv'),
+        `id,name,path${EOL}123,place name,neighbourhood_record.geojson${EOL}`);
+      fs.writeFileSync(
+        path.join(temp_dir, 'meta', 'whosonfirst-data-borough-latest.csv'),
+        `id,name,path${EOL}456,borough name,borough_record.geojson${EOL}`);
+
+      // setup a neighbourhood WOF record
+      const neighbourhood_record = {
+        id: 123,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '1,1,4,4',
+          'geom:latitude': 1.5,
+          'geom:longitude': 1.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [
+            {
+              locality_id: 123,
+              region_id: 456
+            }
+          ],
+          'wof:id': 123,
+          'wof:name': 'neighbourhood name',
+          'wof:placetype': 'neighbourhood'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [1,1],[4,1],[4,4],[1,4],[1,1]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // setup a borough WOF record that doesn't contain the lookup point to
+      // show that hierarchy is used to establish the response
+      const borough_record = {
+        id: 456,
+        type: 'Feature',
+        properties: {
+          'geom:bbox': '3,3,4,4',
+          'geom:latitude': 3.5,
+          'geom:longitude': 3.5,
+          'mz:hierarchy_label': 1,
+          'wof:hierarchy': [],
+          'wof:id': 456,
+          'wof:name': 'borough name',
+          'wof:placetype': 'borough'
+        },
+        geometry: {
+          coordinates: [
+            [
+              [3,3],[3,4],[4,4],[4,3],[3,3]
+            ]
+          ],
+          type: 'Polygon'
+        }
+      };
+
+      // and write the records to file
+      fs.writeFileSync(path.join(temp_dir, 'data', 'neighbourhood_record.geojson'), JSON.stringify(neighbourhood_record));
+      fs.writeFileSync(path.join(temp_dir, 'data', 'borough_record.geojson'), JSON.stringify(borough_record));
+
+      const service = pip.create(temp_dir, ['neighbourhood', 'borough'], false, (err, o) => {
+        // lookup of point that only hits neighbourhood will NOT return borough
+        o.lookup(3.5, 3.5, undefined, (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 123,
+              Name: 'neighbourhood name',
+              Placetype: 'neighbourhood',
+              Centroid: {
+                lat: 1.5,
+                lon: 1.5
+              },
+              BoundingBox: '1,1,4,4',
               Hierarchy: [ [ 123, 456 ] ]
             },
             {

@@ -108,6 +108,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
           // bookkeeping object that tracks the progress of the request
           responseQueue[id] = {
             latLon: {latitude: latitude, longitude: longitude},
+            hierarchy: [],
             // copy of layers to search
             search_layers: search_layers.slice(),
             responseCallback: responseCallback
@@ -192,19 +193,47 @@ function handleResults(msg) {
       // if there are no results, then call the next layer but only if there are more layer to call
       searchWorker(msg.id);
     } else {
-      // no layers left to search, so return an empty array
-      responseQueue[msg.id].responseCallback(null, []);
+      // no layers left to search, check if there is a partial hierarchy from an untrusted layer
+      if (responseQueue[msg.id].hierarchy.length > 0) {
+        responseQueue[msg.id].responseCallback(null, responseQueue[msg.id].hierarchy);
+      } else {
+        //respond with empty aresult
+        responseQueue[msg.id].responseCallback(null, []);
+      }
 
       delete responseQueue[msg.id];
     }
 
   } else {
     // there was a hit, so find the hierachy and assemble all the pieces
-    const results = _.compact(msg.results.Hierarchy[0].map(id => wofData[id]));
+    const untrustedLayers = ['neighbourhood'];
 
-    responseQueue[msg.id].responseCallback(null, results);
+    if (untrustedLayers.includes(msg.layer)) {
+      // push _only_ the first layers results onto the hierarchy
+      const this_layer_id = msg.results.Id;
+      if (this_layer_id) {
+        responseQueue[msg.id].hierarchy.push(wofData[this_layer_id]);
+      }
 
-    delete responseQueue[msg.id];
+      // continue search if there are more layers. Otherwise return full hierarchy
+      if (responseQueue[msg.id].search_layers !== 0) {
+        searchWorker(msg.id);
+      } else {
+        // assemble full hierarchy and return
+        const results = _.compact(msg.results.Hierarchy[0].map(id => wofData[id]));
+
+        responseQueue[msg.id].responseCallback(null, results);
+
+        delete responseQueue[msg.id];
+      }
+
+    } else {
+      // assemble full hierarchy and return
+      const results = responseQueue[msg.id].hierarchy.concat(_.compact(msg.results.Hierarchy[0].map(id => wofData[id])));
+
+      responseQueue[msg.id].responseCallback(null, results);
+
+      delete responseQueue[msg.id];
+    }
   }
-
 }
