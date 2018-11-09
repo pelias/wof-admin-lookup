@@ -37,7 +37,6 @@
     "request": "^2.83.0",
     "simplify-js": "^1.2.1",
     "stable": "^0.1.8",
-    "temp": "^0.8.3",
     "through2": "^3.0.0",
     "through2-filter": "^3.0.0",
     "through2-map": "^3.0.0",
@@ -54,7 +53,8 @@
     "precommit-hook": "^3.0.0",
     "proxyquire": "^2.0.0",
     "tap-dot": "^2.0.0",
-    "tape": "^4.2.2"
+    "tape": "^4.2.2",
+    "temp": "^0.8.3"
   },
   "pre-commit": [
     "lint",
