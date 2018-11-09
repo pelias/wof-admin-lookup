@@ -12,7 +12,6 @@ const PolygonLookup = require('polygon-lookup');
 const readStream = require('./readStream');
 const fs = require('fs');
 const path = require('path');
-const temp = require('temp').track();
 
 const layer = process.title = process.argv[2];
 const datapath = process.argv[3];
@@ -33,33 +32,31 @@ process.on('SIGTERM', () => {
 });
 
 readStream(datapath, layer, localizedAdminNames, (features) => {
-  temp.mkdir('wof_cache', (err, temp_dir) => {
-    // find all the properties of all features and write them to a file
-    // at the same time, limit the feature.properties to just Id since it's all that's needed in the worker
-    const data = features.reduce((acc, feature) => {
-      acc[feature.properties.Id] = feature.properties;
-      feature.properties = {
-        Hierarchy: feature.properties.Hierarchy
-      };
-      return acc;
-    }, {});
+  // find all the properties of all features and write them to a file
+  // at the same time, limit the feature.properties to just Id since it's all that's needed in the worker
+  const data = features.reduce((acc, feature) => {
+    acc[feature.properties.Id] = feature.properties;
+    feature.properties = {
+      Hierarchy: feature.properties.Hierarchy
+    };
+    return acc;
+  }, {});
 
-    adminLookup = new PolygonLookup( { features: features } );
+  adminLookup = new PolygonLookup( { features: features } );
 
-    process.on('message', msg => {
-      switch (msg.type) {
-        case 'search' : return handleSearch(msg);
-        default       : logger.error('Unknown message:', msg);
-      }
-    });
+  process.on('message', msg => {
+    switch (msg.type) {
+      case 'search' : return handleSearch(msg);
+      default       : logger.error('Unknown message:', msg);
+    }
+  });
 
-    // alert the master thread that this worker has been loaded and is ready for requests
-    process.send( {
-      type: 'loaded',
-      layer: layer,
-      data: data,
-      seconds: ((Date.now() - startTime)/1000)
-    });
+  // alert the master thread that this worker has been loaded and is ready for requests
+  process.send( {
+    type: 'loaded',
+    layer: layer,
+    data: data,
+    seconds: ((Date.now() - startTime)/1000)
   });
 });
 
