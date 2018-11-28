@@ -78,6 +78,7 @@ tape('worker tests', (test) => {
             type: 'results',
             layer: 'test_layer',
             results: {
+              Id: 17,
               Hierarchy: [ [11, 13] ]
             }
           }, 'the hierarchy of the WOF record should be returned');
