@@ -59,7 +59,7 @@ Who's On First Admin Lookup module recognizes the following top-level properties
 }
 ```
 
-### What are there downsides of storing data in memory?
+### What are the downsides of storing data in memory?
 
 There are two: admin lookup slows down the process of loading data into Pelias,
 and it takes quite a bit of memory. Based on the current amount of data in Who's
