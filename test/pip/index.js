@@ -5,6 +5,7 @@ const fs = require('fs');
 const EOL = require('os').EOL;
 const _ = require('lodash');
 const proxyquire = require('proxyquire').noCallThru();
+const generateWOFDB = require('whosonfirst/test/generateWOFDB');
 
 const pip = require('../../src/pip/index');
 
@@ -924,7 +925,8 @@ tape('PiP tests', test => {
               imports: {
                 adminLookup: {
                   missingMetafilesAreFatal: true
-                }
+                },
+                whosonfirst: { }
               }
             };
           }
@@ -947,6 +949,109 @@ tape('PiP tests', test => {
 
     });
 
+  });
+
+  test.test('Should load SQLite when option is activated', t => {
+    const logger = require('pelias-mock-logger')();
+    const defaultGeom = {
+      coordinates: [
+        [
+          [1,1],[2,1],[2,2],[1,2],[1,1]
+        ]
+      ],
+      type: 'Polygon'
+    };
+    temp.mkdir('tmp_wof_sqlite', (err, temp_dir) => {
+      generateWOFDB(path.join(temp_dir, 'sqlite', 'whosonfirst-data-latest.db'), [
+        {
+          id: 0,
+          properties: {
+            'wof:id': 0,
+            'wof:name': 'null island',
+            'wof:placetype': 'country',
+            'geom:latitude': 0,
+            'geom:longitude': 0,
+            'edtf:deprecated': 0,
+            'wof:superseded_by': []
+          },
+          geometry: defaultGeom
+        },
+        {
+          id: 421302191,
+          'wof:placetype': 'region',
+          properties: {
+            'wof:id': 421302191,
+            'wof:name': 'name 421302191',
+            'wof:placetype': 'region',
+            'geom:latitude': 1.5,
+            'geom:longitude': 1.5,
+            'wof:superseded_by': []
+          },
+          geometry: defaultGeom
+        },
+        {
+          id: 421302147,
+          properties: {
+            'wof:id': 421302147,
+            'wof:name': 'name 421302147',
+            'wof:placetype': 'region',
+            'geom:latitude': 1.5,
+            'geom:longitude': 1.5,
+            'wof:superseded_by': ['421302191']
+          },
+          geometry: defaultGeom
+        },
+        {
+          id: 421302897,
+          properties: {
+            'wof:id': 421302897,
+            'wof:placetype': 'locality',
+            'geom:latitude': 1.5,
+            'geom:longitude': 1.5,
+            'wof:superseded_by': []
+          },
+          geometry: defaultGeom
+        }
+      ]);
+
+      const pip = proxyquire('../../src/pip/index', {
+        'pelias-logger': logger,
+        'pelias-config': {
+          generate: () => {
+            return {
+              imports: {
+                adminLookup: {
+                  missingMetafilesAreFatal: true
+                },
+                whosonfirst: {
+                  sqlite: true
+                }
+              }
+            };
+          }
+        }
+      });
+
+      pip.create(temp_dir, ['country', 'region', 'locality'], false, (err, service) => {
+        t.ok(service);
+        service.lookup(1.5, 1.5, undefined, (err, results) => {
+          t.deepEquals(results, [
+            {
+              Id: 421302191,
+              Name: 'name 421302191',
+              Placetype: 'region',
+              Centroid: {
+                lat: 1.5,
+                lon: 1.5
+              },
+              Hierarchy: [ [ 421302191 ] ]
+            }
+          ]);
+          service.end();
+          t.end();
+        });
+      });
+    });
   });
 
 });

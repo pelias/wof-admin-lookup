@@ -16,6 +16,7 @@ const path = require('path');
 const layer = process.title = process.argv[2];
 const datapath = process.argv[3];
 const localizedAdminNames = process.argv[4];
+const dataType = process.argv[5] || 'bundle'; // Can be `sqlite` or `bundle`
 const startTime = Date.now();
 
 const results = {
@@ -31,7 +32,7 @@ process.on('SIGTERM', () => {
   process.exit(0);
 });
 
-readStream(datapath, layer, localizedAdminNames, (features) => {
+readStream({datapath: datapath, type: dataType }, layer, localizedAdminNames, (features) => {
   // find all the properties of all features and write them to a file
   // at the same time, limit the feature.properties to just Id and Hierarchy since it's all that's needed in the worker
   const data = features.reduce((acc, feature) => {

@@ -11,7 +11,8 @@ module.exports = Joi.object().keys({
       usePostalCities: Joi.boolean().default(false)
     }).unknown(true),
     whosonfirst: Joi.object().keys({
-      datapath: Joi.string()
+      datapath: Joi.string(),
+      sqlite: Joi.boolean().default(false).truthy('yes').falsy('no').insensitive(true)
     }).requiredKeys('datapath').unknown(true),
     services: Joi.object().keys({
       pip: Joi.object().keys({
