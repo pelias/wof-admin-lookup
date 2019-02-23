@@ -216,7 +216,7 @@ function handleResults(msg) {
       }
 
       // continue search if there are more layers. Otherwise return full hierarchy
-      if (responseQueue[msg.id].search_layers !== 0) {
+      if (responseQueue[msg.id].search_layers.length !== 0) {
         searchWorker(msg.id);
       } else {
         // assemble full hierarchy and return
