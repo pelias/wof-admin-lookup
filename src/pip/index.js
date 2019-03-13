@@ -14,7 +14,7 @@ const async = require('async');
 const _ = require('lodash');
 const fs = require('fs');
 const missingMetafilesAreFatal = require('pelias-config').generate(require('../../schema')).imports.adminLookup.missingMetafilesAreFatal;
-const dataType = require('pelias-config').generate(require('../../schema')).imports.whosonfirst.sqlite ? 'sqlite' : 'bundle';
+const isSqlite = require('pelias-config').generate(require('../../schema')).imports.whosonfirst.sqlite;
 
 let requestCount = 0;
 // worker processes keyed on layer
@@ -45,10 +45,10 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
-  if (dataType === 'sqlite') {
+  if (isSqlite === true) {
     const filename = path.join(datapath, 'sqlite', 'whosonfirst-data-latest.db');
     if (!fs.existsSync(filename)) {
-      return callback(`unable to locate sqlite file ${path.join(datapath, 'sqlite')}/whosonfirst-data-latest.db`);
+      return callback(`unable to locate sqlite file ${filename}`);
     }
   } else {
     // keep track of any missing metafiles for later reporting and error conditions
@@ -136,7 +136,7 @@ function killAllWorkers() {
 }
 
 function startWorker(datapath, layer, localizedAdminNames, callback) {
-  const worker = childProcess.fork(path.join(__dirname, 'worker'), [layer, datapath, localizedAdminNames, dataType]);
+  const worker = childProcess.fork(path.join(__dirname, 'worker'), [layer, datapath, localizedAdminNames]);
   workers[layer] = worker;
 
   worker.on('message', msg => {

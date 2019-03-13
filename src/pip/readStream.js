@@ -1,5 +1,6 @@
 const path = require('path');
 const sink = require('through2-sink');
+const config = require('pelias-config').generate(require('../../schema')).imports.whosonfirst;
 const whosonfirst = require('pelias-whosonfirst');
 const extractFields = require('./components/extractFields');
 const simplifyGeometry = require('./components/simplifyGeometry');
@@ -19,6 +20,8 @@ function readBundleRecords(datapath, layer) {
 function readSqliteRecords(datapath, layer) {
   return new SQLiteStream(
     path.join(datapath, 'sqlite', 'whosonfirst-data-latest.db'),
+    config.importPlace ?
+    SQLiteStream.findGeoJSONByPlacetypeAndWOFId(layer, config.importPlace) :
     SQLiteStream.findGeoJSONByPlacetype(layer)
   ).pipe(whosonfirst.toJSONStream());
 }
@@ -27,16 +30,15 @@ function readSqliteRecords(datapath, layer) {
  * This function loads a WOF metadata file, CSV parses it, extracts fields,
  * pushes the ids onto an array, and calls the callback
  *
- * @param {string|object} path bundle path if string or sqlite or bundle when object
+ * @param {string} datapath bundle path if string or sqlite or bundle when object
  * @param {string} layer
  * @param {boolean} localizedAdminNames
  * @param {function} callback
  */
-function readData(path, layer, localizedAdminNames, callback) {
+function readData(datapath, layer, localizedAdminNames, callback) {
   const features = [];
-  const datapath = path.datapath || path;
 
-  const stream = path.type === 'sqlite' ?
+  const stream = config.sqlite === true ?
     readSqliteRecords(datapath, layer) :
     readBundleRecords(datapath, layer);
 

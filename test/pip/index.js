@@ -5,7 +5,7 @@ const fs = require('fs');
 const EOL = require('os').EOL;
 const _ = require('lodash');
 const proxyquire = require('proxyquire').noCallThru();
-const generateWOFDB = require('whosonfirst/test/generateWOFDB');
+const generateWOFDB = require('pelias-whosonfirst/test/generateWOFDB');
 
 const pip = require('../../src/pip/index');
 
@@ -1013,24 +1013,21 @@ tape('PiP tests', test => {
           geometry: defaultGeom
         }
       ]);
-
+      
+      const config = { imports: { adminLookup: {}, whosonfirst: { sqlite: true } } };
+      const configFilename = path.join(temp_dir, 'config.json');
       const pip = proxyquire('../../src/pip/index', {
         'pelias-logger': logger,
         'pelias-config': {
           generate: () => {
-            return {
-              imports: {
-                adminLookup: {
-                  missingMetafilesAreFatal: true
-                },
-                whosonfirst: {
-                  sqlite: true
-                }
-              }
-            };
+            return config;
           }
         }
       });
+
+      // Override env because proxyquire can't be used in child_process
+      fs.writeFileSync(configFilename, JSON.stringify(config));
+      process.env.PELIAS_CONFIG = configFilename;
 
       pip.create(temp_dir, ['country', 'region', 'locality'], false, (err, service) => {
         t.ok(service);
@@ -1048,6 +1045,7 @@ tape('PiP tests', test => {
             }
           ]);
           service.end();
+          delete process.env.PELIAS_CONFIG;
           t.end();
         });
       });
