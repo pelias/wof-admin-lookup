@@ -32,7 +32,7 @@
     "pelias-config": "^3.0.2",
     "pelias-logger": "^1.2.1",
     "pelias-microservice-wrapper": "^1.2.1",
-    "pelias-whosonfirst": "github:pelias/whosonfirst#joxit/feat/sqlite-supports",
+    "pelias-whosonfirst": "^2.32.0",
     "polygon-lookup": "^2.1.0",
     "request": "^2.83.0",
     "simplify-js": "^1.2.1",
