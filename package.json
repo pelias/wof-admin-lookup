@@ -24,6 +24,8 @@
     "who's on first"
   ],
   "dependencies": {
+    "@turf/buffer": "^5.1.5",
+    "@turf/meta": "^6.0.2",
     "async": "^2.1.4",
     "csv-parse": "^4.0.0",
     "joi": "^14.0.0",

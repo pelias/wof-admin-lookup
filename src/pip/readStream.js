@@ -5,6 +5,7 @@ const simplifyGeometry = require('./components/simplifyGeometry');
 const filterOutCitylessNeighbourhoods = require('./components/filterOutCitylessNeighbourhoods');
 const filterOutHierarchylessNeighbourhoods = require('./components/filterOutHierarchylessNeighbourhoods');
 const filterOutPointRecords = require('./components/filterOutPointRecords');
+const bufferPointRecords = require('./components/bufferPointRecords');
 
 /**
  * This function loads a WOF metadata file, CSV parses it, extracts fields,
@@ -25,6 +26,7 @@ function readData(datapath, layer, localizedAdminNames, callback) {
     .pipe(whosonfirst.loadJSON(datapath, false))
     .pipe(whosonfirst.recordHasIdAndProperties())
     .pipe(whosonfirst.isActiveRecord())
+    .pipe(bufferPointRecords.create())
     .pipe(filterOutPointRecords.create())
     .pipe(filterOutHierarchylessNeighbourhoods.create())
     .pipe(filterOutCitylessNeighbourhoods.create())
