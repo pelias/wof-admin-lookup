@@ -14,6 +14,7 @@ const async = require('async');
 const _ = require('lodash');
 const fs = require('fs');
 const missingMetafilesAreFatal = require('pelias-config').generate(require('../../schema')).imports.adminLookup.missingMetafilesAreFatal;
+const isSqlite = require('pelias-config').generate(require('../../schema')).imports.whosonfirst.sqlite;
 
 let requestCount = 0;
 // worker processes keyed on layer
@@ -44,29 +45,36 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
-  // keep track of any missing metafiles for later reporting and error conditions
-  const missingMetafiles = [];
-
-  // further refine the layers by filtering out layers for which there is no metafile
-  layers = layers.filter(layer => {
-    const filename = path.join(datapath, 'meta', `whosonfirst-data-${layer}-latest.csv`);
-
+  if (isSqlite === true) {
+    const filename = path.join(datapath, 'sqlite', 'whosonfirst-data-latest.db');
     if (!fs.existsSync(filename)) {
-      const message = `unable to locate ${filename}`;
-      if (missingMetafilesAreFatal) {
-        logger.error(message);
-      } else {
-        logger.warn(message);
-      }
-      missingMetafiles.push(`whosonfirst-data-${layer}-latest.csv`);
-      return false;
+      return callback(`unable to locate sqlite file ${filename}`);
     }
-    return true;
-  });
+  } else {
+    // keep track of any missing metafiles for later reporting and error conditions
+    const missingMetafiles = [];
 
-  // if there are missing metafiles and this is fatal, then return an error
-  if (!_.isEmpty(missingMetafiles) && missingMetafilesAreFatal) {
-    return callback(`unable to locate meta files in ${path.join(datapath, 'meta')}: ${missingMetafiles.join(', ')}`);
+    // further refine the layers by filtering out layers for which there is no metafile
+    layers = layers.filter(layer => {
+      const filename = path.join(datapath, 'meta', `whosonfirst-data-${layer}-latest.csv`);
+
+      if (!fs.existsSync(filename)) {
+        const message = `unable to locate ${filename}`;
+        if (missingMetafilesAreFatal) {
+          logger.error(message);
+        } else {
+          logger.warn(message);
+        }
+        missingMetafiles.push(`whosonfirst-data-${layer}-latest.csv`);
+        return false;
+      }
+      return true;
+    });
+
+    // if there are missing metafiles and this is fatal, then return an error
+    if (!_.isEmpty(missingMetafiles) && missingMetafilesAreFatal) {
+      return callback(`unable to locate meta files in ${path.join(datapath, 'meta')}: ${missingMetafiles.join(', ')}`);
+    }
   }
 
   logger.info(`starting with layers ${layers}`);
