@@ -29,7 +29,7 @@
     "joi": "^14.0.0",
     "lodash": "^4.17.4",
     "parallel-transform": "^1.1.0",
-    "pelias-config": "^3.0.2",
+    "pelias-config": "^4.0.0",
     "pelias-logger": "^1.2.1",
     "pelias-microservice-wrapper": "^1.2.1",
     "pelias-whosonfirst": "^2.32.0",
