@@ -24,7 +24,7 @@
     "who's on first"
   ],
   "dependencies": {
-    "async": "^2.1.4",
+    "async": "^3.0.1",
     "csv-parse": "^4.0.0",
     "joi": "^14.0.0",
     "lodash": "^4.17.4",
