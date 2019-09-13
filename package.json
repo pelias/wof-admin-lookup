@@ -24,9 +24,9 @@
     "who's on first"
   ],
   "dependencies": {
+    "@hapi/joi": "^16.1.8",
     "async": "^3.0.1",
     "csv-parse": "^4.0.0",
-    "@hapi/joi": "^15.0.0",
     "lodash": "^4.17.4",
     "parallel-transform": "^1.1.0",
     "pelias-config": "^4.0.0",
