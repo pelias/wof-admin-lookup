@@ -1,4 +1,4 @@
-const Joi = require('joi');
+const Joi = require('@hapi/joi');
 const cpus = require('os').cpus;
 
 module.exports = Joi.object().keys({
