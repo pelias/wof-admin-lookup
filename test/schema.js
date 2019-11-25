@@ -7,7 +7,7 @@ tape('test configuration scenarios', (test) =>  {
   test.test('missing imports should throw error', (t) =>  {
     const config = {};
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.error.details.length, 1);
     t.equals(result.error.details[0].message, '"imports" is required');
@@ -19,10 +19,10 @@ tape('test configuration scenarios', (test) =>  {
     [null, 17, 'string', [], true].forEach((value) => {
       const config = { imports: value };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"imports" must be an object');
+      t.equals(result.error.details[0].message, '"imports" must be of type object');
     });
 
     t.end();
@@ -34,10 +34,10 @@ tape('test configuration scenarios', (test) =>  {
       imports: {}
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.error.details.length, 1);
-    t.equals(result.error.details[0].message, '"value" must contain at least one of [whosonfirst, services.pip]');
+    t.equals(result.error.details[0].message, '"imports" must contain at least one of [whosonfirst, services.pip]');
     t.end();
 
   });
@@ -49,10 +49,10 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.error.details.length, 1);
-    t.equals(result.error.details[0].message, '"datapath" is required');
+    t.equals(result.error.details[0].message, '"imports.whosonfirst.datapath" is required');
     t.end();
 
   });
@@ -66,7 +66,7 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.notOk(result.error);
     t.end();
@@ -84,10 +84,10 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"adminLookup" must be an object');
+      t.equals(result.error.details[0].message, '"imports.adminLookup" must be of type object');
     });
 
     t.end();
@@ -107,10 +107,10 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"maxConcurrentReqs" must be a number');
+      t.equals(result.error.details[0].message, '"imports.adminLookup.maxConcurrentReqs" must be a number');
 
     });
 
@@ -130,10 +130,10 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.error.details.length, 1);
-    t.equals(result.error.details[0].message, '"maxConcurrentReqs" must be an integer');
+    t.equals(result.error.details[0].message, '"imports.adminLookup.maxConcurrentReqs" must be an integer');
     t.end();
 
   });
@@ -149,7 +149,7 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.value.imports.adminLookup.maxConcurrentReqs, os.cpus().length*10);
     t.notOk(result.error);
@@ -171,10 +171,10 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"enabled" must be a boolean');
+      t.equals(result.error.details[0].message, '"imports.adminLookup.enabled" must be a boolean');
 
     });
 
@@ -196,7 +196,7 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.notOk(result.error);
 
@@ -218,7 +218,7 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.notOk(result.error);
     t.equals(result.value.imports.adminLookup.enabled, true);
@@ -240,10 +240,10 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"missingMetafilesAreFatal" must be a boolean');
+      t.equals(result.error.details[0].message, '"imports.adminLookup.missingMetafilesAreFatal" must be a boolean');
 
     });
 
@@ -265,7 +265,7 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.notOk(result.error);
 
@@ -287,7 +287,7 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.notOk(result.error);
     t.equals(result.value.imports.adminLookup.missingMetafilesAreFatal, false);
@@ -307,7 +307,7 @@ tape('test configuration scenarios', (test) =>  {
       }
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.notOk(result.error);
     t.end();
@@ -324,10 +324,10 @@ tape('test configuration scenarios', (test) =>  {
         }
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"datapath" must be a string');
+      t.equals(result.error.details[0].message, '"imports.whosonfirst.datapath" must be a string');
     });
 
     t.end();
@@ -350,7 +350,7 @@ tape('test configuration scenarios', (test) =>  {
       unknown_property: 'property value'
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.notOk(result.error);
     t.end();
@@ -364,10 +364,10 @@ tape('test configuration scenarios', (test) =>  {
       },
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.error.details.length, 1);
-    t.equals(result.error.details[0].message, '"value" must contain at least one of [whosonfirst, services.pip]');
+    t.equals(result.error.details[0].message, '"imports" must contain at least one of [whosonfirst, services.pip]');
     t.end();
 
   });
@@ -379,10 +379,10 @@ tape('test configuration scenarios', (test) =>  {
       },
     };
 
-    const result = Joi.validate(config, schema);
+    const result = schema.validate(config);
 
     t.equals(result.error.details.length, 1);
-    t.equals(result.error.details[0].message, '"url" is required');
+    t.equals(result.error.details[0].message, '"imports.services.pip.url" is required');
     t.end();
 
   });
@@ -397,10 +397,10 @@ tape('test configuration scenarios', (test) =>  {
         },
       };
 
-      const result = Joi.validate(config, schema);
+      const result = schema.validate(config);
 
       t.equals(result.error.details.length, 1);
-      t.equals(result.error.details[0].message, '"url" must be a string');
+      t.equals(result.error.details[0].message, '"imports.services.pip.url" must be a string');
     });
 
     t.end();
