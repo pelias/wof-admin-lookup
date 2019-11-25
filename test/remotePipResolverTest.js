@@ -14,7 +14,7 @@ tape('tests', (test) => {
   test.test('proxying results from remote pip service', (t) => {
     t.plan(1);
 
-    const scope = nock('http://pipservice.com')
+    const scope = nock('http://example.com')
       .get(`/21.212121/12.121212`)
       .query({ layers: layers })
       .reply(200, {
@@ -75,7 +75,7 @@ tape('tests', (test) => {
 
     };
 
-    const resolver = remotePipResolver({ url: 'http://pipservice.com' });
+    const resolver = remotePipResolver({ url: 'http://example.com' });
 
     resolver.lookup({ lat: 12.121212, lon: 21.212121}, [], lookupCallback);
 
@@ -84,20 +84,20 @@ tape('tests', (test) => {
   test.test('proxying error from remote pip service', (t) => {
     t.plan(1);
 
-    const scope = nock('http://pipservice.com')
+    const scope = nock('http://example.com')
       .get('/undefined/undefined')
       .query({ layers: layers })
       .reply(400, 'Cannot parse input');
 
     // the callback used to process the response from the PiP service
     const lookupCallback = function(err, result) {
-      t.equals(err, `http://pipservice.com/undefined/undefined?layers=${layers} returned status 400: Cannot parse input`);
+      t.equals(err, `http://example.com/undefined/undefined?layers=${layers} returned status 400: Cannot parse input`);
       scope.done();
       t.end();
 
     };
 
-    const resolver = remotePipResolver({ url: 'http://pipservice.com'});
+    const resolver = remotePipResolver({ url: 'http://example.com'});
 
     resolver.lookup({}, [], lookupCallback);
 
