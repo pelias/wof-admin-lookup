@@ -3,7 +3,7 @@
   "version": "0.0.0-development",
   "description": "A fast, local, streaming Who's On First administrative hierarchy lookup.",
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=10.0.0"
   },
   "main": "index.js",
   "scripts": {
