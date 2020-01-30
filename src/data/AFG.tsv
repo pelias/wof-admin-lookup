@@ -1,16 +1,29 @@
 +93	421168799	Kabul		locality	1
 00000	421168799	Kabul		locality	1
-0093	421168799	Kabul		locality	2
+NA	421168799	Kabul		locality	1
 93	421168799	Kabul		locality	2
-1002	421168799	Kabul		locality	1
-1006	421168799	Kabul		locality	1
+0093	421168799	Kabul		locality	1
+101	421168799	Kabul		locality	9
+129	421168799	Kabul		locality	1
+212	421168799	Kabul		locality	12
+221	421168799	Kabul		locality	1
+1002	421168799	Kabul		locality	2
+1006	421168799	Kabul		locality	3
 1449	890443565	Pul-i-Alam		locality	1
-1451	890443565	Pul-i-Alam		locality	18
-1451	890433605	Zarghun Shar		locality	1
+1451	890443565	Pul-i-Alam		locality	19
+1451	1276202357	Muhammad Aghah Wuluswali		locality	6
+1451	1310053087	Shahr		locality	1
+1701	890443559	Mazari Sharif		locality	1
+02258	1243498551	Tsamkani		locality	6
 2500	421168799	Kabul		locality	1
-004847	421202359	Jalalabad		locality	1
-007635	421202359	Jalalabad		locality	1
-008657	421202359	Jalalabad		locality	1
-08743	421202359	Jalalabad		locality	1
+2801	1293145823	Khas Kunar		locality	2
+3001	890443569	Herat		locality	1
+4013	421201477	Bamyan		locality	1
+004847	1141908137	Jalalabad		locality	1
+5000	421168799	Kabul		locality	1
+007635	1141908137	Jalalabad		locality	1
+008657	1141908137	Jalalabad		locality	1
+08743	1141908137	Jalalabad		locality	1
+10013	421168799	Kabul		locality	1
 25000	421168799	Kabul		locality	3
 25000	421203103	Khost		locality	1

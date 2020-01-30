@@ -1,36 +1,86 @@
+1000	890492875	Pristina		locality	1
 2000	101911133	Prizren		locality	1
-10000	890492875	Pristina		locality	49
+3200-	890492821	Klina		locality	1
+4305	1360319313	Shkreli		locality	3
+6200	890492811	Kamenica		locality	1
+10000	890492875	Pristina		locality	159
+10000	1360020367	Gjakove		locality	3
 10060	890492875	Pristina		locality	2
+10500	890492781	Gračanica		locality	1
 10500	890492867	Laplje Selo		locality	1
-10520	890492875	Pristina		locality	1
+10520	890492875	Pristina		locality	2
 11000	890492833	Kosovo Polje		locality	37
-12000	890492833	Kosovo Polje		locality	6
+11000	890492845	Podujevo		locality	3
+12000	1209244465	Dobri Dub		locality	80
+12000	890492833	Kosovo Polje		locality	14
+12000	1193170813	Ugljare		locality	1
 12010	890492833	Kosovo Polje		locality	1
-14000	890492843	Lipljan		locality	21
-15000	890492761	Obilić		locality	5
-20000	101911133	Prizren		locality	33
+12050	1310239517	Velika Slatina		locality	1
+13050	1226785973	Komorane		locality	1
+14000	890492843	Lipljan		locality	64
+14000	1243101635	Bujance		locality	1
+14000	1209651441	Konjuh		locality	1
+14000	1276152199	Llugagji		locality	1
+14000	1243298699	Poturovce		locality	1
+14000	1260013267	Cuculjaga		locality	1
+14000	1259913659	Smolusa		locality	1
+14050	1360220429	Janjevo		locality	36
+14050	1343495667	Brus		locality	1
+14060	890492873	Magura		locality	2
+15000	890492761	Obilić		locality	11
+16000	1310537735	Leskoc		locality	9
+16230	1310441647	Lebane		locality	1
+18000	1343796649	Toponica		locality	1
+20000	1125780001	Prizren		locality	48
 20000	890492829	Ferizaj		locality	2
-21000	890492759	Orahovac		locality	3
-23000	1125829155	Suva Reka		locality	7
-24000	890492835	Mališevo		locality	1
-30000	101912609	Peć		locality	41
+20540	1276159471	Mamusa		locality	4
+21000	890492759	Orahovac		locality	9
+22000	1343395533	Plava		locality	1
+22050	1327060429	Brodosavce		locality	1
+23000	1125829155	Suva Reka		locality	9
+23060	1259911145	Samodrazhe		locality	8
+24000	890492835	Mališevo		locality	2
+24000	1277012939	Ostrozub		locality	1
+30000	101912609	Peć		locality	45
+30000	1327470067	Boge		locality	2
 30000	890492831	Deçan		locality	2
-30090	101912609	Peć		locality	4
-31000	1125973217	Istok		locality	25
-31010	1125973217	Istok		locality	18
-32000	890492821	Klina		locality	1
+30000	1125915595	Pec		locality	1
+30090	101912609	Peć		locality	6
+30090	1260218339	Radaci (Burimi)		locality	1
+31000	101911017	Istok		locality	27
+31000	1125973217	Istok		locality	1
+31010	1125973217	Istok		locality	16
+31020	1209142823	Zhaq		locality	1
+32000	890492821	Klina		locality	12
+36210	1259817671	Banje		locality	62
 36343	890492869	Studencia		locality	1
+37000	1226571499	Krusevac		locality	27
+37000	1276908793	Kryshec		locality	7
 38220	1125779945	Kosovska Mitrovica		locality	1
-38220	1125858169	Kosovska Mitrovica		locality	1
-40000	1125858169	Kosovska Mitrovica		locality	75
-40000	101912611	Kosovska Mitrovica		locality	24
-41000	890492775	Srbica		locality	35
-42000	101911019	Vučitrn		locality	4
+38227	1277110451	Mali Zvecan		locality	1
+40000	1125858169	Kosovska Mitrovica		locality	76
+40000	101912611	Kosovska Mitrovica		locality	2
+41000	890492775	Srbica		locality	39
+42000	1125935907	Vučitrn		locality	4
+43500	890492851	Leposavić		locality	2
+50000	1360020367	Gjakove		locality	45
+50550	1293913969	Rogovo		locality	1
 51000	890492831	Deçan		locality	5
 51050	890492855	Junik		locality	8
-60000	1126024195	Gnjilane		locality	50
+60000	1126024195	Gnjilane		locality	146
+60000	1326764069	Livoc		locality	8
+60000	1260214985	Pasjak		locality	1
+60000	1310241455	Velekince		locality	1
 60010	1126024195	Gnjilane		locality	1
-70000	890492829	Ferizaj		locality	11
-71000	890492853	Kaçanik		locality	80
+60510	1209040463	Brasaljce		locality	1
+70000	890492829	Ferizaj		locality	46
+70510	890492829	Ferizaj		locality	1
+71000	1276802139	Bob		locality	88
+71000	890492853	Kaçanik		locality	55
+71000	1343798491	Stagovo		locality	13
+71000	1243002495	Kacanik i Vjeter		locality	3
+71000	1292942441	Runjevo		locality	1
+71510	1343992051	Hani i Elezit		locality	1
 72000	890492797	Štimlje		locality	1
 400000	1125858169	Kosovska Mitrovica		locality	1
+500000	1360020367	Gjakove		locality	3

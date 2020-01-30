@@ -1,20 +1,58 @@
 BP. 28 DUEKOUE	890437065	Duékoué		locality	3
-BP 02	890435741	Bingerville		locality	1
-BP 151	890435741	Bingerville		locality	1
+Abidjan 01	1243009651	Treichville		locality	1
+BP 02	421170409	Bingerville		locality	1
+BP 1307 Abidjan 18	421199985	Abidjan		locality	1
+BP 151	421170409	Bingerville		locality	1
+BP 51 Cidex 3 Abidjan	1276374637	Cocody		locality	1
 BP. 55 DUEKOUE	890437065	Duékoué		locality	1
 BP. 696 DUEKOUE	890437065	Duékoué		locality	1
 BP. 73 DUEKOUE	890437065	Duékoué		locality	1
+01	1276374637	Cocody		locality	5
+01	1243009651	Treichville		locality	3
+01	1292935523	Marcory		locality	2
+01	1360220367	Vridi		locality	2
+01 BP 10605 Abidjan 01	1293323945	Le Plateau		locality	1
+01 BP 1203	1276374637	Cocody		locality	1
 01 BP 1363	421174667	Bouaké		locality	1
 01 BP 1497	421174667	Bouaké		locality	1
 01 BP 1867	421174667	Bouaké		locality	1
+01 BP 2325 Abidjan 01	421199985	Abidjan		locality	1
 01 BP 473	421174667	Bouaké		locality	1
 01 BP 556	421174667	Bouaké		locality	1
 01 BP 583	421174667	Bouaké		locality	1
+01 BP 7801	421199985	Abidjan		locality	1
+03 BP 108 CIDEX 03	1276374637	Cocody		locality	1
 04 BP 72	421174667	Bouaké		locality	1
+06	1360321781	Adjame		locality	1
+06	1276374637	Cocody		locality	1
+06 bp 1441 abidjan 06	1276374637	Cocody		locality	1
+08	1276374637	Cocody		locality	5
 08	421199985	Abidjan		locality	2
+08	1293323945	Le Plateau		locality	1
+09	1360321781	Adjame		locality	1
+09	1276374637	Cocody		locality	1
+10	1292935523	Marcory		locality	1
+12	1310236149	Port-Bouet		locality	1
+18	1292935523	Marcory		locality	1
+22	1276374637	Cocody		locality	1
+25 BP 2257 Abidjan	1276374637	Cocody		locality	1
+26	1292935523	Marcory		locality	1
+28	1276374637	Cocody		locality	1
+30 BP 561 Abidjan 30	1276374637	Cocody		locality	1
+54	1193167679	Ouelle		locality	1
 223	890434609	Abobo		locality	1
+225	1343295789	Koumassi		locality	3
 225	890434609	Abobo		locality	2
-00225	421199985	Abidjan		locality	1
 225	421169457	Abengourou		locality	1
+225	421199985	Abidjan		locality	1
+225	1276374637	Cocody		locality	1
+225	1226577721	Mbadon		locality	1
+225	890440851	Grand-Bassam		locality	1
+255	1293625725	Yopougon		locality	1
 420	421189377	Man		locality	1
+1093	421168957	Yamoussoukro		locality	24
+1181	1292935523	Marcory		locality	1
 1316	421189377	Man		locality	1
+3765	1276374637	Cocody		locality	1
+08639	1276374637	Cocody		locality	1
+999063	1293625725	Yopougon		locality	1

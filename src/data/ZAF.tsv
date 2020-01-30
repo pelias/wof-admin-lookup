@@ -1,66 +1,102 @@
+B-0900	1292985497	Musina		locality	1
 Cape Town	101928027	Cape Town		locality	1
-0001	101925471	Tshwane		locality	3
-0002	101925471	Tshwane		locality	14
-0007	101925471	Tshwane		locality	1
-0010	101925471	Tshwane		locality	1
-0017	101925471	Tshwane		locality	1
-0020	101925471	Tshwane		locality	2
-0028	101925471	Tshwane		locality	1
-0035	101925471	Tshwane		locality	1
-0040	101925471	Tshwane		locality	1
-0043	101925471	Tshwane		locality	1
-0044	101925471	Tshwane		locality	2
+Gauteng 3000	101925753	Johannesburg		locality	1
+0001	101925471	Pretoria		locality	18
+0002	101925471	Pretoria		locality	78
+0007	101925471	Pretoria		locality	8
+0010	101925471	Pretoria		locality	1
+0011	101925471	Pretoria		locality	2
+0017	101925471	Pretoria		locality	1
+0019	101925471	Pretoria		locality	17
+0020	101925471	Pretoria		locality	2
+0028	101925471	Pretoria		locality	2
+0030	101925471	Pretoria		locality	7
+0035	101925471	Pretoria		locality	1
+0035	1292993259	Roodeplaat		locality	1
+0040	101925471	Pretoria		locality	1
+0043	101925471	Pretoria		locality	1
+0044	101925471	Pretoria		locality	3
 0046	101925551	Centurion		locality	1
-0050	101925471	Tshwane		locality	1
-0054	101925471	Tshwane		locality	1
-0081	101925471	Tshwane		locality	21
-0082	101925471	Tshwane		locality	1
-0083	101925471	Tshwane		locality	3
-0084	101925471	Tshwane		locality	1
-0087	101925471	Tshwane		locality	6
-0102	101925471	Tshwane		locality	28
+0046	101925753	Johannesburg		locality	1
+0049	101925471	Pretoria		locality	1
+0050	101925471	Pretoria		locality	1
+0051	101925753	Johannesburg		locality	2
+0054	101925471	Pretoria		locality	1
+0081	101925471	Pretoria		locality	29
+0082	101925471	Pretoria		locality	20
+0083	101925471	Pretoria		locality	29
+0084	101925471	Pretoria		locality	9
+0087	101925471	Pretoria		locality	6
+0102	101925471	Pretoria		locality	28
 0110	101925385	Onderstepoort		locality	1
-0116	101925471	Tshwane		locality	1
+0116	101925471	Pretoria		locality	1
+0118	101925471	Pretoria		locality	4
 0118	101925419	Pretoria North		locality	1
+0122	101925471	Pretoria		locality	1
+0126	101925471	Pretoria		locality	1
+0132	101925471	Pretoria		locality	7
+0140	1259366683	Doringkloof		locality	1
 0149	101925569	Centurion		locality	1
-0150	101925471	Tshwane		locality	12
+0150	101925471	Pretoria		locality	12
+0152	101925307	Soshanguve		locality	1
 0154	101925569	Centurion		locality	1
-0155	101925471	Tshwane		locality	1
-0157	101925569	Centurion		locality	13
-0157	101925471	Tshwane		locality	8
+0154	1242599705	Rooihuiskraal Noord		locality	1
+0155	101925471	Pretoria		locality	1
+0157	101925471	Pretoria		locality	20
+0157	101925551	Centurion		locality	15
 0157	101925753	Johannesburg		locality	1
-0181	101925471	Tshwane		locality	84
+0159	101925471	Pretoria		locality	3
+0161	101925471	Pretoria		locality	6
+0163	101925471	Pretoria		locality	1
+0181	101925471	Pretoria		locality	153
 0182	101925419	Pretoria North		locality	163
-0183	101925471	Tshwane		locality	2
+0182	101925471	Pretoria		locality	34
+0182	101925421	Wonderboom		locality	1
+0183	101925471	Pretoria		locality	54
 0183	101925469	Pretoria West		locality	1
-0184	101925471	Tshwane		locality	3
-0186	101925471	Tshwane		locality	1
+0184	101925471	Pretoria		locality	3
+0186	101925471	Pretoria		locality	4
+0194	1209604301	Mmakau		locality	2
+0198	1125865419	Mabopane		locality	2
+0198	1210014205	Winterveldt		locality	1
 0201	1125823983	Ga-Rankuwa		locality	1
 0208	1125823983	Ga-Rankuwa		locality	13
 0221	1125823983	Ga-Rankuwa		locality	1
 0250	101925365	Brits		locality	3
 293	101925753	Johannesburg		locality	1
 0299	101925429	Rustenburg		locality	1
+0299	101925367	Tlhabane		locality	1
 0299	101925433	Waterval		locality	1
-0311	101925471	Tshwane		locality	1
+0300	101925429	Rustenburg		locality	3
+0311	101925471	Pretoria		locality	1
 0314	101925103	Mogwase		locality	6
 318JQ	101925429	Rustenburg		locality	1
 0322	1125960845	Phokeng		locality	1
 0348	1125858539	Koster		locality	1
-0470	101925017	Groblersdal		locality	1
-0480	1125931843	Bela-Bela		locality	1
+0380	101923693	Thabazimbi		locality	3
+0407	101925223	Hammanskraal		locality	1
+0407	101925471	Pretoria		locality	1
+0407	101925219	Temba		locality	1
+0470	101925017	Groblersdal		locality	2
+0480	1125931843	Bela-Bela		locality	46
 0480	101923787	Bela-Bela		locality	1
-0510	1125791881	Modimolle		locality	1
-0555	101923377	Ellisras		locality	1
+0510	1125791881	Modimolle		locality	25
+0555	1175615711	Ellisras		locality	1
+0557	1259579949	Lephalale		locality	2
+0560	101923671	Mookgophong		locality	20
+0600	101923589	Mokopane		locality	24
+0601	101923589	Mokopane		locality	1
 601	101923589	Mokopane		locality	1
 0626	101923589	Mokopane		locality	4
-0699	1125781413	Polokwane		locality	5
-0700	1125781413	Polokwane		locality	6
+0690	101923505	Polokwane		locality	1
+0699	1125781413	Polokwane		locality	108
+0700	1125781413	Polokwane		locality	28
+0727	1309824847	Mankweng		locality	1
 0730	1125764409	Haenertsburg		locality	1
 0742	101923477	Seshego		locality	1
 0790	101923205	Bochum		locality	5
-0800	101925471	Tshwane		locality	3
-0810	101925471	Tshwane		locality	2
+0800	101925471	Pretoria		locality	3
+0810	101925471	Pretoria		locality	2
 0850	101924313	Tzaneen		locality	6
 0950	101923981	Thohoyandou		locality	1
 1000	101925413	Cullinan		locality	1
@@ -69,127 +105,174 @@ Cape Town	101928027	Cape Town		locality	1
 1032	101925589	Witbank		locality	1
 1034	101925589	Witbank		locality	1
 1035	101925589	Witbank		locality	2
-1050	101925503	Middelburg		locality	5
+1050	101925519	Middelburg		locality	7
 1053	101925489	Mhluzi		locality	2
+1055	101925503	Middelburg		locality	1
 1100	101927267	Belfast		locality	1
 1120	101927181	Lydenburg		locality	1
-1166	101925471	Tshwane		locality	1
+1166	101925471	Pretoria		locality	1
 1185	101927347	Carolina		locality	1
 1200	101927235	Nelspruit		locality	3
 1200	101927179	Sabie		locality	1
 1209	101927243	Ngodwana		locality	13
-1240	101927213	Witrivier		locality	4
+1214	101927233	eNyamazaneni		locality	1
+1240	1126041035	White River		locality	5
 1242	101927165	Hazyview		locality	3
 1260	101927179	Sabie		locality	1
-1270	101924617	Graskop		locality	5
-1300	101927297	Barberton		locality	1
+1270	1276357623	Graskop		locality	5
+1300	101927297	Barberton		locality	2
 1320	101927237	Malelane		locality	1
+1331	1293805207	Schoemanskloof		locality	1
+1331	1343952519	Shongwe Mission		locality	1
 1360	101924495	Acornhoek		locality	1
+1380	101924403	Hoedspruit		locality	2
 1389	101924335	Phalaborwa		locality	1
-1390	101924335	Phalaborwa		locality	2
+1390	101924335	Phalaborwa		locality	3
 1401	1125906801	Germiston		locality	2
 1401	101925987	Johannesburg		locality	1
-1448	101926009	Alberton		locality	2
+1406	1360106927	Elandsfontein		locality	1
+1448	101926009	Alberton		locality	3
+1448	101925569	Centurion		locality	1
 1448	101926051	Meyersdal		locality	1
-1459	101925987	Johannesburg		locality	3
+1459	101925753	Johannesburg		locality	3
 1459	101925973	Boksburg		locality	1
+1459	1243261369	Sunward Park		locality	1
 1462	101925987	Johannesburg		locality	1
 1470	101925973	Boksburg		locality	1
-1490	101926257	Nigel		locality	1
-1501	101925811	Benoni		locality	2
+1490	1175615569	Nigel		locality	1
+1499	101926645	Kroonstad		locality	1
+1501	101925811	Benoni		locality	1
 1520	101925813	Daveyton		locality	1
+1541	101925985	Brakpan		locality	1
 1542	101925985	Brakpan		locality	1
 1559	1141907161	Springs		locality	1
 1609	101925733	Edenvale		locality	2
 1610	101925733	Edenvale		locality	1
 1615	101925569	Centurion		locality	1
-1619	1125948333	Kempton Park		locality	41
+1619	101925731	Kempton Park		locality	43
+1619	101925753	Johannesburg		locality	5
 1619	101925773	Bonaero Park		locality	2
 1619	101925695	Chloorkop		locality	1
+1620	1125948333	Kempton Park		locality	1
 1630	101925731	Kempton Park		locality	1
+1682	1226771961	Vorna Valley		locality	1
+1685	101925753	Johannesburg		locality	10
 1685	101925641	Halfway House		locality	1
-1709	101925757	Roodepoort		locality	8
-1709	101925753	Johannesburg		locality	1
-1724	101925829	Roodepoort		locality	1
-1725	101925757	Roodepoort		locality	6
+1686	1226771961	Vorna Valley		locality	21
+1686	101925753	Johannesburg		locality	2
+1709	1175615549	Roodepoort		locality	10
+1709	101925753	Johannesburg		locality	2
+1724	101925757	Roodepoort		locality	2
+1724	1243261249	Helderkruin		locality	1
+1725	1175615549	Roodepoort		locality	5
 1739	1125896357	Noordheuwel		locality	3
+1741	1259578385	Beckedan		locality	1
 1741	101928011	Melkbosstrand		locality	1
 1747	1125972787	Muldersdrift		locality	1
-1759	101925835	Randfontein		locality	2
+1759	101925835	Randfontein		locality	7
 1760	101925835	Randfontein		locality	2
+1763	101925835	Randfontein		locality	3
 1779	101926097	Westonaria		locality	1
 1809	101925681	Sandton		locality	1
 1821	101926105	Lenasia		locality	5
 1827	101926105	Lenasia		locality	9
 1829	101926199	Lenasia South		locality	1
+1835	101926199	Lenasia South		locality	3
+1841	101925987	Johannesburg		locality	1
 1873	1125920423	Randvaal		locality	1
-1900	1125837869	Vanderbijlpark		locality	2
-1911	1125837869	Vanderbijlpark		locality	2
+1900	101926421	Vanderbijlpark		locality	2
+1911	101926421	Vanderbijlpark		locality	3
 1930	101926403	Vereeniging		locality	1
 1939	101926403	Vereeniging		locality	1
 1947	101926473	Vaalpark		locality	3
-2000	101925987	Johannesburg		locality	5
-2001	101925753	Johannesburg		locality	6
-2008	101925821	Bedfordview		locality	1
+2000	101925753	Johannesburg		locality	7
+2001	101925753	Johannesburg		locality	8
+2006	101925753	Johannesburg		locality	1
+2007	101925821	Bedfordview		locality	2
+2008	101925821	Bedfordview		locality	5
 2008	1125906801	Germiston		locality	1
 2017	101925753	Johannesburg		locality	2
+2018	1343254395	Bramley		locality	1
 2018	101925753	Johannesburg		locality	1
-2031	101925753	Johannesburg		locality	1
+2031	101925753	Johannesburg		locality	2
 2031	101925681	Sandton		locality	1
+2040	101925757	Roodepoort		locality	2
 2040	101925753	Johannesburg		locality	1
 2052	101925753	Johannesburg		locality	1
+2054	101925753	Johannesburg		locality	1
 2055	101925753	Johannesburg		locality	2
 2055	101925681	Sandton		locality	1
 2057	101925681	Sandton		locality	5
+2065	101925753	Johannesburg		locality	4
+2068	101925679	Fourways		locality	1
 2076	101925753	Johannesburg		locality	1
-2090	101925753	Johannesburg		locality	2
-2091	101925987	Johannesburg		locality	8
-2092	101925987	Johannesburg		locality	4
+2090	101925753	Johannesburg		locality	3
+2090	1343254395	Bramley		locality	1
+2091	101925987	Johannesburg		locality	9
+2091	1193013435	Winchester Hills		locality	1
+2092	101925753	Johannesburg		locality	7
 2094	101925987	Johannesburg		locality	2
 2096	101925681	Sandton		locality	1
 2100	101925753	Johannesburg		locality	1
 2104	101925753	Johannesburg		locality	1
-2107	101925987	Johannesburg		locality	3
+2107	101925987	Johannesburg		locality	4
+2109	101925703	Randburg		locality	1
 2113	101925987	Johannesburg		locality	3
 2121	101925753	Johannesburg		locality	1
 2125	101925753	Johannesburg		locality	1
-2128	101925753	Johannesburg		locality	1
+2128	101925753	Johannesburg		locality	2
+2128	1259877325	Rivonia		locality	1
 2132	101925753	Johannesburg		locality	1
-2146	101925753	Johannesburg		locality	3
+2146	101925753	Johannesburg		locality	4
 2146	101925681	Sandton		locality	2
 2190	101925987	Johannesburg		locality	1
 2191	101925681	Sandton		locality	4
+2191	1259877325	Rivonia		locality	3
 2191	101925753	Johannesburg		locality	2
 2191	101928027	Cape Town		locality	1
-2193	101925753	Johannesburg		locality	3
+2193	101925753	Johannesburg		locality	7
+2193	1343855715	Killarney		locality	2
+2193	101925703	Randburg		locality	1
 2194	101925753	Johannesburg		locality	2
-2194	101925703	Randburg		locality	1
-2195	101925753	Johannesburg		locality	8
-2196	101925681	Sandton		locality	11
-2196	101925753	Johannesburg		locality	5
+2195	101925753	Johannesburg		locality	11
+2196	101925681	Sandton		locality	12
+2196	101925753	Johannesburg		locality	7
+2196	1293222733	Rosebank		locality	2
 2197	101925987	Johannesburg		locality	1
 2198	101925753	Johannesburg		locality	4
 02221	1125823983	Ga-Rankuwa		locality	1
-2302	101926313	Secunda		locality	14
+2302	1175615671	Secunda		locality	12
+2350	101927377	Ermelo		locality	2
 2351	101927377	Ermelo		locality	2
+2370	1209206291	Lothair		locality	1
 2380	101927393	Piet Retief		locality	1
+2430	101926541	Standerton		locality	4
 2470	101926613	Volksrust		locality	2
+2480	101927435	Wakkerstroom		locality	1
+2490	101926567	Amersfoort		locality	1
 2499	101926149	Carletonville		locality	1
 2520	101926447	Potchefstroom		locality	1
 2531	101926447	Potchefstroom		locality	2
+2531	101926735	Dagbreek		locality	1
+2551	101926493	Stilfontein		locality	4
 2571	101926525	Klerksdorp		locality	2
 2630	101926589	Wolmaransstad		locality	41
 2735	101925609	Mafikeng		locality	2
+2735	1141908865	Mmabatho		locality	2
 2770	101926423	Delareyville		locality	1
 2904	101925987	Johannesburg		locality	1
 3100	101927503	Vryheid		locality	3
-3170	101927443	Pongola		locality	2
-3201	101927867	Pietermaritzburg		locality	3
+3170	1175740845	Pongola		locality	2
+3200	101927867	Pietermaritzburg		locality	2
+3201	101927867	Pietermaritzburg		locality	5
+3220	1326638839	Albert Falls		locality	1
 3245	101927819	Hilton		locality	2
-3257	101927149	Underberg		locality	1
+3257	101927149	Underberg		locality	2
 3276	101929223	Grahamstown		locality	1
+3610	1276776257	Kloof		locality	10
 3610	101927971	Durban		locality	2
 3610	101927935	Hillcrest		locality	2
+3610	101927955	Mariannhill		locality	1
 3620	101927971	Durban		locality	1
 3629	101927971	Durban		locality	2
 3639	101927971	Durban		locality	1
@@ -197,16 +280,18 @@ Cape Town	101928027	Cape Town		locality	1
 3720	101927915	Camperdown		locality	1
 3801	101924789	Kimberley		locality	1
 3815	101927731	Eshowe		locality	6
-3900	101927697	Richards Bay		locality	1
+3900	1175615731	Richards Bay		locality	1
 3935	101927659	Mtubatuba		locality	2
-3936	1125882163	Saint Lucia		locality	16
-3960	101927591	Hluhluwe		locality	1
-4001	101927971	Durban		locality	47
+3936	1125882163	Saint Lucia		locality	17
+3960	101927591	Hluhluwe		locality	3
+4001	101927971	Durban		locality	55
+4051	101927937	Durban North		locality	5
 4051	101927971	Durban		locality	1
-4052	101927971	Durban		locality	11
+4052	101927971	Durban		locality	10
 4056	101927971	Durban		locality	1
 4057	101927971	Durban		locality	1
-4091	101927971	Durban		locality	3
+4068	101927971	Durban		locality	2
+4091	101927971	Durban		locality	2
 4093	101927971	Durban		locality	3
 4093	1125962855	Malvern		locality	1
 4094	101927971	Durban		locality	1
@@ -214,94 +299,133 @@ Cape Town	101928027	Cape Town		locality	1
 4126	1125873263	Warner Beach		locality	30
 4126	101929273	Amanzimtoti		locality	4
 4140	1125873263	Warner Beach		locality	1
+4170	1327234873	Naidooville		locality	1
+4186	1242790859	Mtwalume		locality	1
 4240	101929321	Port Shepstone		locality	1
+4275	1125799207	Southbroom		locality	3
 4295	101929337	Port Edward		locality	1
+4319	101927913	Umhlanga Rocks		locality	1
 4320	101927971	Durban		locality	1
 4360	101927971	Durban		locality	1
-4390	101927803	Umhlali		locality	1
-4391	1125829667	Salt Rock		locality	1
+4390	101927803	Umhlali		locality	4
+4391	1125829667	Salt Rock		locality	2
+4399	1260298279	Westbrook		locality	1
 4418	101927805	Shaka's Rock		locality	1
+4420	1125818247	Ballitoville		locality	44
 4420	1125829667	Salt Rock		locality	1
-4490	101927751	Mandeni		locality	1
+4420	1193028895	Sheffield Beach		locality	1
+4490	1175615485	Mandeni		locality	2
+4810	1209319229	Flagstaff		locality	2
 4960	101929027	Butterworth		locality	3
+5040	1259706407	Willowvale		locality	1
+5100	1126009095	Umtata		locality	1
 5200	1141909197	East London		locality	1
-5201	101929169	East London		locality	8
-5241	101929165	East London		locality	2
+5201	101929169	East London		locality	12
+5241	101929165	East London		locality	3
 5241	101929169	East London		locality	1
-5252	101929165	East London		locality	1
-5275	1125845707	Cintsa		locality	1
+5252	101929165	East London		locality	11
+5275	1310428487	Chintsa		locality	1
 5292	1125976879	Morgans Bay		locality	2
-5320	101928871	Queenstown		locality	4
-5880	1125895511	Cradock		locality	4
+5320	1175615575	Queenstown		locality	4
+5370	1125902249	Tarkastad		locality	15
+5700	1126005837	Alice		locality	1
+5880	1125895511	Cradock		locality	5
 6000	101929259	Port Elizabeth		locality	1
-6001	101929259	Port Elizabeth		locality	105
+6001	101929259	Port Elizabeth		locality	1089
 6018	101929259	Port Elizabeth		locality	1
+6020	101929259	Port Elizabeth		locality	6
 6045	101929259	Port Elizabeth		locality	12
 6055	101929259	Port Elizabeth		locality	1
-6070	101929259	Port Elizabeth		locality	16
+6070	101929259	Port Elizabeth		locality	19
 6075	101928017	Robertson		locality	1
-6139	101929223	Grahamstown		locality	130
+6115	1259706543	Sunland		locality	1
+6139	101929223	Grahamstown		locality	129
 6212	101929251	Bluewater Bay		locality	1
 6220	1125900771	Despatch		locality	8
-6229	101929245	Uitenhage		locality	3
-6280	101928047	Graaff Reinet		locality	5
-6335	101928081	Jeffreys Bay		locality	1
+6229	101929245	Uitenhage		locality	8
+6230	101929245	Uitenhage		locality	3
+6237	1210039149	Kleinpoort		locality	1
+6265	1210039149	Kleinpoort		locality	1
+6280	101928047	Graaff Reinet		locality	6
+6312	1125893747	St Francis Bay		locality	1
+6335	1327465559	Jeffreys Bay		locality	1
 6450	101928055	Rietbron		locality	1
 6470	101928067	Swellendam		locality	2
-6500	101928083	Mossel Bay		locality	4
-6506	1141908861	Mossel Bay		locality	3
+6500	101928083	Mossel Bay		locality	10
+6503	1125812201	Reebok		locality	1
+6506	101928083	Mossel Bay		locality	3
 6520	101928063	George		locality	1
 6529	101928063	George		locality	2
 6530	101928063	George		locality	1
 6560	1125770403	Wilderness		locality	3
-6570	101928071	Knysna		locality	15
+6570	101928071	Knysna		locality	19
 6571	101928071	Knysna		locality	7
-6573	1125850759	Sedgefield		locality	3
-6600	101928073	Plettenberg		locality	7
-6620	1126036537	Oudtshoorn		locality	2
+6573	1125850759	Sedgefield		locality	4
+6573	101928071	Knysna		locality	1
+6600	101928073	Plettenberg		locality	8
+6602	1309984347	Nature's Valley		locality	3
+6602	1125901175	The Crags		locality	3
+6620	1126036537	Oudtshoorn		locality	3
 6695	1125997175	Albertinia		locality	1
-6705	101928017	Robertson		locality	25
+6705	101928017	Robertson		locality	24
 6708	1125916159	McGregor		locality	1
-6720	1126009943	Montagu		locality	1
+6720	1126009943	Montagu		locality	6
 6730	1125885979	Bonnievale		locality	2
-6740	101928067	Swellendam		locality	101
+6740	101928067	Swellendam		locality	102
 6740	101928023	Stellenbosch		locality	1
 6750	1125942437	Barrydale		locality	2
 6750	101928067	Swellendam		locality	1
+6810	1326811451	Porterville		locality	2
+6970	1125858563	Beaufort West		locality	2
+7089	1242862579	Simondium		locality	1
 7100	1126009939	Mfuleni		locality	2
 7100	101928027	Cape Town		locality	1
 7129	1126111925	Somerset West		locality	1
-7130	1126111925	Somerset West		locality	39
-7140	101928041	Gordon's Bay		locality	2
-7140	101928037	Strand		locality	2
+7129	101928019	Table View		locality	1
+7130	1126111925	Somerset West		locality	52
+7140	1326518161	Gordons Bay		locality	17
+7140	101928037	Strand		locality	7
+7140	1126111925	Somerset West		locality	2
 7141	1125831571	Betty's Bay		locality	1
-7150	101928041	Gordon's Bay		locality	1
+7150	1326518161	Gordons Bay		locality	3
+7151	1326518161	Gordons Bay		locality	8
 7151	101928027	Cape Town		locality	1
-7160	1125849413	Grabouw		locality	1
+7160	1125849413	Grabouw		locality	2
+7195	1209202849	Kleinmond		locality	1
 7200	101928043	Hermanus		locality	13
 7200	1125901437	Fisherhaven		locality	1
-7220	1125852747	Gansbaai		locality	6
-7220	1125813273	De Kelders		locality	3
+7220	1309700341	Pearly Beach		locality	31
+7220	1226320955	Kleinbaai		locality	8
+7220	1125852747	Gansbaai		locality	7
+7220	1226220461	De Kelders		locality	3
 7220	1125821859	Franskraalstrand		locality	1
-7230	1125872085	Caledon		locality	1
-7280	101928085	Bredasdorp		locality	3
+7230	1125895373	Caledon		locality	1
+7250	1209292661	Riviersonderend		locality	4
+7270	1225932095	Napier		locality	1
+7280	101928085	Bredasdorp		locality	4
 7285	1125940969	Struisbaai		locality	2
-7287	1125821845	L’Agulhas		locality	1
+7287	1125821845	L’Agulhas		locality	2
 7299	101927999	Malmesbury		locality	1
+7300	101927999	Malmesbury		locality	1
 7307	1125845717	Riebeek-Kasteel		locality	4
-7310	1126030227	Swartland		locality	1
 7349	101928027	Cape Town		locality	1
 7351	1126014319	Yzerfontein		locality	1
 7365	1125906431	Velddrif		locality	1
-7405	101928027	Cape Town		locality	2
+7381	1126014735	Paternoster		locality	1
+7405	101928027	Cape Town		locality	4
 7437	101928027	Cape Town		locality	3
-7441	101928027	Cape Town		locality	24
-7455	101928027	Cape Town		locality	4
+7441	101928027	Cape Town		locality	39
+7441	1209302491	Blouberg		locality	1
+7441	1243150383	Century City		locality	1
+7441	101928019	Table View		locality	1
+7455	101928027	Cape Town		locality	3
 7460	101928027	Cape Town		locality	3
-7460	1125928001	Goodwood		locality	1
+7460	1125928001	Goodwood		locality	2
 7490	101928027	Cape Town		locality	2
 7493	101928027	Cape Town		locality	1
-7500	101928027	Cape Town		locality	2
+7500	101928027	Cape Town		locality	6
+7505	1125789913	Tygerberg		locality	1
+7530	1327411893	Loevenstein		locality	401
 7530	101928027	Cape Town		locality	7
 7535	101928027	Cape Town		locality	1
 7550	101928027	Cape Town		locality	4
@@ -309,54 +433,75 @@ Cape Town	101928027	Cape Town		locality	1
 7560	1125818427	Brackenfell		locality	4
 7570	101928021	Stellenbosch		locality	3
 7570	1125893741	Joostenberg Vlakte		locality	1
+7570	1125823663	Kraaifontein		locality	1
 7580	101928027	Cape Town		locality	2
-7599	101928023	Stellenbosch		locality	9
-7600	101928023	Stellenbosch		locality	25
+7599	101928023	Stellenbosch		locality	7
+7600	101928023	Stellenbosch		locality	31
 7602	101928023	Stellenbosch		locality	1
+7605	101928021	Stellenbosch		locality	3
 7613	101928021	Stellenbosch		locality	1
 7620	101928013	Paarl		locality	1
 7620	101928003	Wellington		locality	1
-7646	101928013	Paarl		locality	4
+7646	101928013	Paarl		locality	5
+7646	1310393527	Suider-Paarl		locality	2
 7654	101928003	Wellington		locality	85
 7655	101928003	Wellington		locality	1
-7690	1126030137	Franschhoek		locality	20
-7700	101928027	Cape Town		locality	30
-7708	101928027	Cape Town		locality	5
-7725	101928027	Cape Town		locality	2
+7670	1242862579	Simondium		locality	1
+7681	1209694117	Pniel		locality	1
+7690	1126030137	Franschhoek		locality	113
+7700	101928027	Cape Town		locality	34
+7700	1209402903	Newlands		locality	4
+7708	101928027	Cape Town		locality	11
+7725	101928027	Cape Town		locality	3
+7770	1225925089	Rondebosch East		locality	1
+7780	101928027	Cape Town		locality	2
+7780	1225925089	Rondebosch East		locality	1
 7784	101928027	Cape Town		locality	1
 7785	101928029	Mitchells Plain		locality	5
 7798	101928027	Cape Town		locality	74
 7800	101928027	Cape Town		locality	10
 7800	101928035	Hout Bay		locality	1
-7806	101928027	Cape Town		locality	365
-7806	101928035	Hout Bay		locality	11
-7872	101928035	Hout Bay		locality	6
+7806	101928027	Cape Town		locality	369
+7806	101928035	Hout Bay		locality	14
+7872	101928035	Hout Bay		locality	7
 7872	101928027	Cape Town		locality	1
 7915	101928027	Cape Town		locality	1
-7925	101928027	Cape Town		locality	69
+7925	101928027	Cape Town		locality	72
 7935	101928027	Cape Town		locality	2
-7945	101928027	Cape Town		locality	5
+7945	101928027	Cape Town		locality	10
 7965	101928027	Cape Town		locality	1
-7975	101928027	Cape Town		locality	3
+7974	101928039	Fish Hoek		locality	2
+7975	101928039	Fish Hoek		locality	6
+7975	101928027	Cape Town		locality	4
 7975	1125832315	Simon's Town		locality	3
-7975	101928039	Fish Hoek		locality	2
 7975	1125818547	Glencairn Heights		locality	1
+7978	101928027	Cape Town		locality	1
+7979	1226423787	Noordhoek		locality	3
 7985	101928027	Cape Town		locality	1
-8000	101928027	Cape Town		locality	5
-8001	101928027	Cape Town		locality	134
+7985	1226423787	Noordhoek		locality	1
+8000	101928027	Cape Town		locality	10
+8001	101928027	Cape Town		locality	161
+8001	1242862385	Gardens		locality	4
 8001	101928025	Camps Bay		locality	1
 8001	1125997415	Vredehoek		locality	1
 8002	101928027	Cape Town		locality	1
-8005	101928027	Cape Town		locality	15
-8005	101928025	Camps Bay		locality	4
+8005	101928027	Cape Town		locality	23
+8005	101928025	Camps Bay		locality	5
 8018	101928027	Cape Town		locality	2
-8135	1125961865	Clanwilliam		locality	3
+8051	101928027	Cape Town		locality	1
+8101	1293872091	Elandsbaai		locality	1
+8135	1125780171	Clanwilliam		locality	3
+8145	1260061329	Klawer		locality	4
 8145	101927991	Vredendal		locality	1
+8151	1360263367	Doringbaai		locality	1
 8160	101927991	Vredendal		locality	8
+8160	1260061329	Klawer		locality	1
 8165	1125895541	Lutzville		locality	2
+8165	1243532739	Koekenaap		locality	1
 8170	1125802563	Vanrhynsdorp		locality	4
+8190	1125872081	Calvinia		locality	1
 8220	1125803383	Port Nolloth		locality	1
-8301	101924789	Kimberley		locality	2
+8301	101924789	Kimberley		locality	3
 8340	101926871	Boshof		locality	1
 8348	1125858539	Koster		locality	1
 8375	1125858583	Barkly West		locality	1
@@ -364,19 +509,21 @@ Cape Town	101928027	Cape Town		locality	1
 8446	1125825467	Kathu		locality	14
 8460	1125895789	Kuruman		locality	1
 8566	101924761	Pampierstad		locality	5
-8800	1125865297	Upington		locality	18
+8800	1125896699	Upington		locality	18
 8801	1125865297	Upington		locality	2
 8850	1125781147	Groblershoop		locality	16
 8890	1125885785	Pofadder		locality	2
-8925	1141907123	Carnarvon		locality	2
+8915	1293020805	Brandvlei		locality	3
+8925	1125963617	Carnarvon		locality	2
 9300	1141909357	Bloemfontein		locality	2
-9301	1125791891	Bloemfontein		locality	10
-9321	1125791891	Bloemfontein		locality	1
+9301	101927069	Bloemfontein		locality	20
+9321	101927069	Bloemfontein		locality	1
+9325	101927069	Bloemfontein		locality	2
 9364	1141909357	Bloemfontein		locality	1
 9400	101926949	Brandfort		locality	1
 9410	101926851	Theunissen		locality	2
 9459	101926749	Welkom		locality	9
-9460	101926749	Welkom		locality	5
+9460	101926749	Welkom		locality	4
 9660	101926617	Bothaville		locality	1
 9670	101926819	Bultfontein		locality	1
 9700	101926801	Bethlehem		locality	26
@@ -384,6 +531,7 @@ Cape Town	101928027	Cape Town		locality	1
 9730	101926961	Ficksburg		locality	1
 9745	101927067	Ladybrand		locality	2
 9781	101927081	Botshabelo		locality	1
+9786	1125903849	Barkly East		locality	1
 9795	1125782695	Colesberg		locality	2
 9860	101926831	Kestell		locality	8
 9872	101926877	Phuthaditjhaba		locality	1

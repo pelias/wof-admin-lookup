@@ -1,24 +1,50 @@
 ١١٤٩١	421204501	Riyadh		locality	1
 133	1125927181	Khobar		locality	2
-5305	890441449	Jeddah		locality	1
+1131	421204501	Riyadh		locality	1
+2999	1361025847	Najran		locality	2
+3285	421204501	Riyadh		locality	1
+3718	1361025847	Najran		locality	1
+4000	1361025847	Najran		locality	1
+4156	1361025847	Najran		locality	1
+4198	1361025847	Najran		locality	1
+4590	1361025847	Najran		locality	1
+4620	1361025847	Najran		locality	1
+4699 ,4726	1361025847	Najran		locality	1
+4816	1361025847	Najran		locality	1
+5032	1361025847	Najran		locality	1
+5158	1361025847	Najran		locality	1
+5162	1361025847	Najran		locality	1
+5220	1361025847	Najran		locality	1
+5305	421200923	Jeddah		locality	1
+7404	1361025847	Najran		locality	1
+7666	421190297	Dammam		locality	1
+8043 , 8054	1361025847	Najran		locality	1
+9999	421190319	Ta'if		locality	1
 11102	890439855	Jubail		locality	1
+11312	421204501	Riyadh		locality	1
 11321	421204501	Riyadh		locality	1
 11411	421204501	Riyadh		locality	4
 11426	421204501	Riyadh		locality	1
 11454	421204501	Riyadh		locality	1
+11461	421204501	Riyadh		locality	1
 11526	421204501	Riyadh		locality	1
 11552	421204501	Riyadh		locality	1
 11586	421204501	Riyadh		locality	1
 11614	421204501	Riyadh		locality	1
 11671	421204501	Riyadh		locality	2
-11693	421204501	Riyadh		locality	20
+11693	421204501	Riyadh		locality	21
+11961	1343745859	Shaqra		locality	1
 12211	421204501	Riyadh		locality	2
+12213	421204501	Riyadh		locality	1
 12221	421204501	Riyadh		locality	1
 12272	421204501	Riyadh		locality	1
 12273	421204501	Riyadh		locality	1
 12334-2723	421204501	Riyadh		locality	1
+12364	421204501	Riyadh		locality	1
 12371	421204501	Riyadh		locality	1
+12388	421204501	Riyadh		locality	1
 12393 4057	421204501	Riyadh		locality	1
+12435	421204501	Riyadh		locality	1
 12471	421204501	Riyadh		locality	1
 12483	421204501	Riyadh		locality	1
 12511	421204501	Riyadh		locality	2
@@ -26,49 +52,125 @@
 12783-8458	421204501	Riyadh		locality	1
 12821	421204501	Riyadh		locality	1
 12844	421204501	Riyadh		locality	1
+12883	421204501	Riyadh		locality	1
+13241	421204501	Riyadh		locality	2
+13311	421204501	Riyadh		locality	1
+13314 - 4017	421204501	Riyadh		locality	3
+13514 - 7741	421204501	Riyadh		locality	2
+13522	421204501	Riyadh		locality	1
 13541	421204501	Riyadh		locality	1
+14215	421204501	Riyadh		locality	1
 14713	421204501	Riyadh		locality	1
+15551 - 4415	1343745859	Shaqra		locality	1
+15551 - 4549	1343745859	Shaqra		locality	1
+15562 - 4024	1343745859	Shaqra		locality	1
+15562 - 4060	1343745859	Shaqra		locality	1
+15562 - 4366	1343745859	Shaqra		locality	1
+15562 - 4593	1343745859	Shaqra		locality	1
+15562 - 4862	1343745859	Shaqra		locality	1
+15562 - 5836	1343745859	Shaqra		locality	1
+15562 - 9272	1343745859	Shaqra		locality	1
+15562 - 9426	1343745859	Shaqra		locality	1
+15562 - 9535	1343745859	Shaqra		locality	1
+15563 - 2228	1343745859	Shaqra		locality	1
+15563 - 2403	1259377021	Ghuslah		locality	1
+15563 - 8239	1343745859	Shaqra		locality	1
+15563 - 8883	1343745859	Shaqra		locality	1
+15563 - 8943	1343745859	Shaqra		locality	1
+15563 - 8996	1343745859	Shaqra		locality	1
+15563 - 9171	1343745859	Shaqra		locality	1
+15563 - 9274	1343745859	Shaqra		locality	1
+15563 - 9310	1343745859	Shaqra		locality	1
+15571 - 3375	1343745859	Shaqra		locality	1
+15571 - 8915	1343745859	Shaqra		locality	1
+15571 - 8925	1343745859	Shaqra		locality	1
+15571 - 9131	1343745859	Shaqra		locality	1
+15572 - 6078	1343745859	Shaqra		locality	1
+15572 - 6397	1343745859	Shaqra		locality	1
+15573 - 2315	1343745859	Shaqra		locality	3
+15573 - 2080	1343745859	Shaqra		locality	1
+15573 - 2121	1343745859	Shaqra		locality	1
+15573 - 2148	1343745859	Shaqra		locality	1
+15573 - 2167	1343745859	Shaqra		locality	1
+15573 - 2240	1343745859	Shaqra		locality	1
+15573 - 2247	1343745859	Shaqra		locality	1
+15573 - 2255	1343745859	Shaqra		locality	1
+15573 - 2259	1343745859	Shaqra		locality	1
+15573 - 2262	1343745859	Shaqra		locality	1
+15573 - 2467	1343745859	Shaqra		locality	1
+15573 - 7423	1343745859	Shaqra		locality	1
+15573 - 7450	1343745859	Shaqra		locality	1
 16231	1125928207	Ad Dilam		locality	1
-21362	890441449	Jeddah		locality	1
-21412	890441449	Jeddah		locality	1
-21421	890441449	Jeddah		locality	1
-21462	890441449	Jeddah		locality	1
-21474	890441449	Jeddah		locality	1
-21553	890441449	Jeddah		locality	1
-21955	421204201	Mecca		locality	3
-22232	421200923	جدة		locality	1
-22235	890441449	Jeddah		locality	1
-23211	421200923	جدة		locality	1
-23421	890441449	Jeddah		locality	2
-23423	890441449	Jeddah		locality	1
-23424	890441449	Jeddah		locality	1
-23431	890441449	Jeddah		locality	4
-23437	890441449	Jeddah		locality	1
-23536/6845	890441449	Jeddah		locality	1
-23622	890441449	Jeddah		locality	1
+20115	1209820349	Al-`Ula		locality	1
+21362	421200923	Jeddah		locality	1
+21412	421200923	Jeddah		locality	1
+21421	421200923	Jeddah		locality	2
+21424	421200923	Jeddah		locality	1
+21441	421200923	Jeddah		locality	1
+21462	421200923	Jeddah		locality	1
+21474	421200923	Jeddah		locality	1
+21553	421200923	Jeddah		locality	1
+21955	421204201	Mecca		locality	1
+21991	421200923	Jeddah		locality	1
+22232	421200923	Jeddah		locality	1
+22235	421200923	Jeddah		locality	1
+22338	421200923	Jeddah		locality	2
+23211	421200923	Jeddah		locality	1
+23336	421200923	Jeddah		locality	2
+23421	421200923	Jeddah		locality	3
+23423	421200923	Jeddah		locality	1
+23424	421200923	Jeddah		locality	1
+23431	421200923	Jeddah		locality	4
+23433	421200923	Jeddah		locality	1
+23436	421200923	Jeddah		locality	1
+23437	421200923	Jeddah		locality	1
+23443	421200923	Jeddah		locality	1
+23445	421200923	Jeddah		locality	1
+23511	421200923	Jeddah		locality	1
+23522	421200923	Jeddah		locality	1
+23536/6845	421200923	Jeddah		locality	1
+23622	421200923	Jeddah		locality	1
+23732	421200923	Jeddah		locality	1
+23955-6900	1193261951	Thuwal		locality	21
+24226	421204201	Mecca		locality	2
 24227	421204201	Mecca		locality	1
-24231	421204201	Mecca		locality	1
+24231	421204201	Mecca		locality	34
 24232	421204201	Mecca		locality	2
 24236	421204201	Mecca		locality	4
 24237	421204201	Mecca		locality	1
+24238	421204201	Mecca		locality	1
 24242	421204201	Mecca		locality	1
-24243	421204201	Mecca		locality	10
+24243	421204201	Mecca		locality	7
 24432-8060	421204201	Mecca		locality	1
-31483	1125928437	Dammam		locality	1
+31483	421190297	Dammam		locality	1
+31911	1125781573	Al Qatif		locality	1
 31952	1125927181	Khobar		locality	5
 31961	890439855	Jubail		locality	1
-31982	1125927679	Hofuf		locality	2
-32232	1125928437	Dammam		locality	1
-32445	1125928437	Dammam		locality	1
-34253	1125928437	Dammam		locality	1
-34258-6471	890439965	Dhahran		locality	1
-34258-7559	890439965	Dhahran		locality	1
-34325	1125928437	Dammam		locality	1
+31982	421168597	Al Hofuf		locality	2
+32232	421190297	Dammam		locality	1
+32265	421190297	Dammam		locality	1
+32414	421190297	Dammam		locality	1
+32445	421190297	Dammam		locality	1
+32452	890449691	Saihat		locality	1
+32617	1125781573	Al Qatif		locality	1
+34253	421190297	Dammam		locality	1
+34258-6471	421190321	Dhahran		locality	1
+34258-7559	421190321	Dhahran		locality	1
+34325	421190297	Dammam		locality	1
+34412	1125927181	Khobar		locality	1
 34447	1125927181	Khobar		locality	1
-34453-8060	890439965	Dhahran		locality	1
-35814	890439855	Jubail		locality	2
+34453-8060	421190321	Dhahran		locality	1
+36621	1259505761	Salwa		locality	1
 41419	421166941	Medina		locality	1
+42317	421166941	Medina		locality	2
 45142	890439853	Jizan		locality	1
-47311	1125781593	Tabuk		locality	1
-55431	1125925581	Ha'il		locality	1
-71411	1141909183	Tabuk		locality	2
+47311	421190329	Tabuk		locality	1
+47315	421190329	Tabuk		locality	12
+51921	1125926447	Ar Rass		locality	2
+51953	1226562089	Al Fawwarah		locality	15
+55421	421190323	Ha'il		locality	1
+55431	421190323	Ha'il		locality	1
+58838	1125926447	Ar Rass		locality	1
+62523	421190295	Abha		locality	1
+62800	421204501	Riyadh		locality	1
+71411	421190329	Tabuk		locality	2

@@ -1,160 +1,337 @@
 Co Cavan	101804995	Virginia		locality	26
+D5	101751737	Dublin		locality	19
+Dublin 12	1343591809	Crumlin		locality	7
+A94 A0D0	101837629	Blackrock		locality	5
+A94 H2X4	101837629	Blackrock		locality	4
 D02 XK70	101751737	Dublin		locality	4
-D07 RF2Y	101751737	Dublin		locality	4
 D22 V6Y6	101751737	Dublin		locality	4
+Dublin 8	101751737	Dublin		locality	4
 H53 F5P9	101804933	Ballinasloe		locality	4
 A96 H7W2	1125870371	Dunleary		locality	3
+BT37 0QB	1225875485	Jordanstown		locality	3
 D01 P5W9	101751737	Dublin		locality	3
+D02 NH04	101751737	Dublin		locality	3
 D11 Y895	101751737	Dublin		locality	3
+D12 Y2EP	101751737	Dublin		locality	3
+K56 X283	101804849	Rush		locality	3
 Kildare	101804793	Maynooth		locality	3
+P17 NA72	101805897	Kinsale		locality	3
+P17 VF97	101805897	Kinsale		locality	3
 R32 HKN3	101804749	Maryborough		locality	3
 V94 EDP4	101751733	Limerick		locality	3
+V94 NYD3	101751733	Limerick		locality	3
+W91 DR53	101837623	Naas		locality	3
+X91 NP38	101805865	Tramore		locality	3
 Y35 E8KT	101805941	Wexford		locality	3
+A63 AH98	1125865513	Kilcoole		locality	2
+A85 X433	1243589809	Kilcloon		locality	2
 A92 H006	101804911	Ardee		locality	2
+A94 E4X2	101837629	Blackrock		locality	2
+A94 EY65	101751737	Dublin		locality	2
+A94 FA39	101837629	Blackrock		locality	2
+A94 W209	101837629	Blackrock		locality	2
+A98 T9D9	1243203375	Bray		locality	2
+BT6 9LR	101804963	Castlereagh		locality	2
+C15 H6WY	101804875	Athboy		locality	2
+C15H6EK	101805851	Navan		locality	2
+C15X525	101804875	Athboy		locality	2
+Co. Wicklow	1293031749	Ashford		locality	2
 D01 FW20	101751737	Dublin		locality	2
 D01 PP66	101751737	Dublin		locality	2
-D01 V6V6	101751737	Dublin		locality	2
 D02 PK26	101751737	Dublin		locality	2
 D02 TD30	101751737	Dublin		locality	2
+D06 X657	101751737	Dublin		locality	2
+D24 R5Y6	101751737	Dublin		locality	2
+Dublin 15	1243098731	Tyrrelstown		locality	2
 Dublin 2	101751737	Dublin		locality	2
-Dublin 8	101751737	Dublin		locality	2
-F12 H7F8	1126010593	Claremorris		locality	2
-F12 HP38	1126010593	Claremorris		locality	2
+Dublin 9	1277019109	Glasnevin		locality	2
+F12 H7F8	101805053	Claremorris		locality	2
+F12 HP38	101805053	Claremorris		locality	2
+F91 P523	101805019	Sligo		locality	2
+F91 YX51	101805019	Sligo		locality	2
 F92RT26	1125857573	Letterkenny		locality	2
 H54 F627	1126058979	Tuam		locality	2
+H91 CF90	101751743	Galway		locality	2
 H91 CYN3	1125858669	Galway		locality	2
-H91 ET6N	1126051671	Galway		locality	2
+H91 ET6N	1125858669	Galway		locality	2
 H91 XO2D	1125858669	Galway		locality	2
+K67 V3H4	101751737	Dublin		locality	2
 N91 E9C1	101804865	Mullingar		locality	2
-T12 RX96	1125915837	Cork		locality	2
-T23 A9TF	1125915837	Cork		locality	2
+N91F792	101804865	Mullingar		locality	2
+P17 AY96	101805897	Kinsale		locality	2
+P17 H590	101805897	Kinsale		locality	2
+P17 KF57	101805897	Kinsale		locality	2
+P17 NT38	101805897	Kinsale		locality	2
+P17 YX80	101805897	Kinsale		locality	2
+P25 HX82	1277111579	Shanagarry		locality	2
+P75VK83	1293424413	Glengarriff		locality	2
+P81 R928	101751727	Cork		locality	2
+R93 K8N1	101805963	Carlow		locality	2
+R95NP23	101805977	Kilkenny		locality	2
+T12 RX96	101751727	Cork		locality	2
+T12 W8XR	101751727	Cork		locality	2
+T23 A9TF	101751727	Cork		locality	2
+T23 HF50	101751727	Cork		locality	2
+V95 HH2F	1276690247	Doolin		locality	2
 X35 Y326	101805855	Dungarvan		locality	2
+X91 A993	101805853	Waterford		locality	2
 X91 E044	101805853	Waterford		locality	2
+X91 FR6F	101805853	Waterford		locality	2
+Y21 D560	101803607	Enniscorthy		locality	2
+Y21 X889	101803607	Enniscorthy		locality	2
+Y35 H1WY	1309940545	Castlebridge		locality	2
+Y35 V0HA	101805941	Wexford		locality	2
+dublin	101753087	Swords		locality	2
 0000	101837629	Blackrock		locality	1
+0000	101804847	Skerries		locality	1
+0000	101753087	Swords		locality	1
 A63 DD76	101837621	Delgany		locality	1
 A63 XN34	101837621	Delgany		locality	1
+A67 XV22	1293031749	Ashford		locality	1
+A81 X242	101804975	Carrickmacross		locality	1
+A82 CR63	101804995	Virginia		locality	1
+A82 R663	101804995	Virginia		locality	1
 A82 X086	101804995	Virginia		locality	1
+A82 X8P6	101804995	Virginia		locality	1
 A83 PW74	101804899	Enfield		locality	1
 A84 WK40	1125776679	Ashbourne		locality	1
+A85 A306	101804893	Dunshaughlin		locality	1
 A85 AE73	101804893	Dunshaughlin		locality	1
+A85 AF44	101804893	Dunshaughlin		locality	1
 A85 DN72	101804893	Dunshaughlin		locality	1
+A85 E379	1243589809	Kilcloon		locality	1
+A85 EV26	101804893	Dunshaughlin		locality	1
 A85 F653	101804893	Dunshaughlin		locality	1
+A85 F751	101804893	Dunshaughlin		locality	1
+A85 HD71	101804893	Dunshaughlin		locality	1
+A85 KD34	101804893	Dunshaughlin		locality	1
 A85 KH33	101804893	Dunshaughlin		locality	1
+A85 KV62	101804893	Dunshaughlin		locality	1
+A85 N125	1243589809	Kilcloon		locality	1
 A85 NP21	101804893	Dunshaughlin		locality	1
 A85 P803	101804893	Dunshaughlin		locality	1
+A85 PX38	101804893	Dunshaughlin		locality	1
+A85 PY66	101804893	Dunshaughlin		locality	1
+A85 RX50	101804893	Dunshaughlin		locality	1
 A85 TK68	101804893	Dunshaughlin		locality	1
 A85 VF70	101804893	Dunshaughlin		locality	1
+A85 W665	101804893	Dunshaughlin		locality	1
+A85 WN82	101804893	Dunshaughlin		locality	1
+A85 Y954	101804893	Dunshaughlin		locality	1
 A85 YR67	101804893	Dunshaughlin		locality	1
+A91 H977	101804977	Inishkeen		locality	1
+A91 RW01	1125937961	Dromiskin		locality	1
+A91 XR97	101837627	Dundalk		locality	1
+A92 AH27	1242904163	Bettystown		locality	1
 A92 EVH6	101804917	Drogheda		locality	1
 A92 K168	101804915	Collon		locality	1
-A94 A0D0	101837629	Blackrock		locality	1
+A92 YW26	101804917	Drogheda		locality	1
+A94 A2T7	101837629	Blackrock		locality	1
+A94 A4A7	101837629	Blackrock		locality	1
 A94 C1H3	101837629	Blackrock		locality	1
-A94 E4X2	101837629	Blackrock		locality	1
-A94 FA39	101837629	Blackrock		locality	1
+A94 C8Y1	101837629	Blackrock		locality	1
+A94 D540	101837629	Blackrock		locality	1
+A94 D780	101837629	Blackrock		locality	1
+A94 E281	101837629	Blackrock		locality	1
 A94 H5W7	101837629	Blackrock		locality	1
+A94 K6Y5	101837629	Blackrock		locality	1
 A94 PC61	101837629	Blackrock		locality	1
+A94 R273	101837629	Blackrock		locality	1
 A94 R299	101837629	Blackrock		locality	1
-A94 W209	101837629	Blackrock		locality	1
+A94 R5Y4	101837629	Blackrock		locality	1
+A94 W4F3	101837629	Blackrock		locality	1
+A94 W9X6	101837629	Blackrock		locality	1
+A94 X0H9	101837629	Blackrock		locality	1
 A94 X660	101837629	Blackrock		locality	1
 A94 X6C1	101837629	Blackrock		locality	1
 A94 X886	101751737	Dublin		locality	1
 A96 A021	1125870371	Dunleary		locality	1
+A96 A0W6	1125870371	Dunleary		locality	1
+A96 A258	1125870371	Dunleary		locality	1
+A96 A365	1125870371	Dunleary		locality	1
+A96 AK31	1125870371	Dunleary		locality	1
+A96 C2F1	1125870371	Dunleary		locality	1
 A96 CD72	1126051873	Ballybrack		locality	1
+A96 CK70	1125870371	Dunleary		locality	1
+A96 CT95	1125870371	Dunleary		locality	1
 A96 D376	1125870371	Dunleary		locality	1
 A96 DF24	1125870371	Dunleary		locality	1
+A96 DV70	1125870371	Dunleary		locality	1
+A96 DX89	1125870371	Dunleary		locality	1
+A96 E031	1125870371	Dunleary		locality	1
+A96 E4Y6	1125870371	Dunleary		locality	1
 A96 E894	1125870371	Dunleary		locality	1
+A96 E8Y9	1125870371	Dunleary		locality	1
+A96 EA24	1125870371	Dunleary		locality	1
+A96 H395	1125870371	Dunleary		locality	1
+A96 HX37	1125870371	Dunleary		locality	1
+A96 K5C2	1125870371	Dunleary		locality	1
 A96 K6C9	1125870371	Dunleary		locality	1
+A96 K7D4	1125870371	Dunleary		locality	1
 A96 KH79	1125870371	Dunleary		locality	1
+A96 KT35	1125870371	Dunleary		locality	1
+A96 N2T4	1125870371	Dunleary		locality	1
+A96 N562	1125870371	Dunleary		locality	1
+A96 N6P6	1125870371	Dunleary		locality	1
 A96 NT27	1125870371	Dunleary		locality	1
+A96 NT96	1125870371	Dunleary		locality	1
+A96 P272	1125870371	Dunleary		locality	1
+A96 P8X6	1125870371	Dunleary		locality	1
+A96 P902	1125870371	Dunleary		locality	1
+A96 PC59	1125870371	Dunleary		locality	1
+A96 PD28	1125870371	Dunleary		locality	1
+A96 RR77	1125870371	Dunleary		locality	1
+A96 T1X6	1125870371	Dunleary		locality	1
+A96 T209	1125870371	Dunleary		locality	1
+A96 T6Y3	1125870371	Dunleary		locality	1
+A96 T853	1125870371	Dunleary		locality	1
+A96 TV05	1125870371	Dunleary		locality	1
+A96 VK60	1125870371	Dunleary		locality	1
+A96 VR66	1125870371	Dunleary		locality	1
+A96 VW21	1125870371	Dunleary		locality	1
+A96 W5E5	1125870371	Dunleary		locality	1
+A96 WE12	1125870371	Dunleary		locality	1
 A96 X259	1125870371	Dunleary		locality	1
+A96 X3H9	1125870371	Dunleary		locality	1
 A96 X7K2	1125870371	Dunleary		locality	1
+A96 XR92	1125870371	Dunleary		locality	1
+A96 Y5N0	1125870371	Dunleary		locality	1
+A96 Y738	1125870371	Dunleary		locality	1
+A96 YW64	1125870371	Dunleary		locality	1
+A96 YY53	1125870371	Dunleary		locality	1
+A96 YY60	1125870371	Dunleary		locality	1
+A96-NW25	1125870371	Dunleary		locality	1
+A98 FK10	1243203375	Bray		locality	1
+A98 KC91	1243203375	Bray		locality	1
+A98 TY45	1243203375	Bray		locality	1
+BT16 1XT	101804963	Castlereagh		locality	1
+BT37 0QE	1225875485	Jordanstown		locality	1
+BT43 7NA	1344187703	Martinstown		locality	1
+C15 A5R3	1344191797	Robinstown		locality	1
+C15 A9X3	101804875	Athboy		locality	1
+C15 D2N1	1344191797	Robinstown		locality	1
+C15 R6C6	1344191797	Robinstown		locality	1
+C15 T1W6	1344191797	Robinstown		locality	1
+C15 TR64	101804875	Athboy		locality	1
+C15 Y6K6	1344191797	Robinstown		locality	1
+C15P297	1326463919	Bohermeen		locality	1
+C15TP04	101804875	Athboy		locality	1
 Co Westmeath	101804861	Moate		locality	1
 Co. Cork	101853143	Ballygarvan		locality	1
 Co.Athlone	101804857	Athlone		locality	1
+D01 A7P8	101751737	Dublin		locality	1
+D01 DK23	101751737	Dublin		locality	1
 D01 F5P2	101751737	Dublin		locality	1
+D01 F7X3	101751737	Dublin		locality	1
 D01 F9C1	101751737	Dublin		locality	1
 D01 HX02	101751737	Dublin		locality	1
+D01 K0F1	101751737	Dublin		locality	1
+D01 K298	101751737	Dublin		locality	1
+D01 K6W6	101751737	Dublin		locality	1
+D01 KF84	101751737	Dublin		locality	1
+D01 NH93	101751737	Dublin		locality	1
 D01 P5P5	101751737	Dublin		locality	1
 D01 PK22	101751737	Dublin		locality	1
 D01 PT99	101751737	Dublin		locality	1
+D01 PX00	101751737	Dublin		locality	1
 D01 R243	101751737	Dublin		locality	1
 D01 RX04	101751737	Dublin		locality	1
 D01 T1W6	101751737	Dublin		locality	1
 D01 T2X2	101751737	Dublin		locality	1
 D01 T8Y1	101751737	Dublin		locality	1
 D01 TV20	101751737	Dublin		locality	1
+D01 V4A3	101751737	Dublin		locality	1
+D01 V6V6	101751737	Dublin		locality	1
 D01 VC03	101751737	Dublin		locality	1
 D01 W2C9	101751737	Dublin		locality	1
-D01 W6X0	101751737	Dublin		locality	1
+D01 W448	101751737	Dublin		locality	1
 D01 WY49	101751737	Dublin		locality	1
 D01 XN53	101751737	Dublin		locality	1
 D01 Y161	101751737	Dublin		locality	1
 D01P7K8	101751737	Dublin		locality	1
 D01X2P2	101751737	Dublin		locality	1
-D02	101751737	Dublin		locality	1
+D02 A893	101751737	Dublin		locality	1
 D02 AF30	101751737	Dublin		locality	1
 D02 C446	101751737	Dublin		locality	1
 D02 CC60	101751737	Dublin		locality	1
 D02 CY95	101751737	Dublin		locality	1
+D02 DH79	101751737	Dublin		locality	1
 D02 DP23	101751737	Dublin		locality	1
+D02 E267	101751737	Dublin		locality	1
 D02 F449	101751737	Dublin		locality	1
+D02 F821	101751737	Dublin		locality	1
+D02 FK19	101751737	Dublin		locality	1
 D02 FP40	101751737	Dublin		locality	1
 D02 HC67	101751737	Dublin		locality	1
+D02 HD86	101751737	Dublin		locality	1
 D02 HK52	101751737	Dublin		locality	1
 D02 HP83	101751737	Dublin		locality	1
 D02 K527	101751737	Dublin		locality	1
-D02 K710	101751737	Dublin		locality	1
-D02 NH04	101751737	Dublin		locality	1
 D02 NR59	101751737	Dublin		locality	1
+D02 NY74	101751737	Dublin		locality	1
 D02 R274	101751737	Dublin		locality	1
 D02 TR60	101751737	Dublin		locality	1
 D02 TX65	101751737	Dublin		locality	1
+D02 V261	101751737	Dublin		locality	1
 D02 VH98	101751737	Dublin		locality	1
 D02 VN26	101751737	Dublin		locality	1
 D02 W017	101751737	Dublin		locality	1
 D02 WD37	101751737	Dublin		locality	1
 D02 WK13	101751737	Dublin		locality	1
+D02 WN47	101751737	Dublin		locality	1
 D02 WT20	101751737	Dublin		locality	1
 D02 WY65	101751737	Dublin		locality	1
 D02 X525	101751737	Dublin		locality	1
+D02 X658	101751737	Dublin		locality	1
 D02 XE81	101751737	Dublin		locality	1
 D02 Y306	101751737	Dublin		locality	1
 D02 Y729	101751737	Dublin		locality	1
+D02 YN56	101751737	Dublin		locality	1
 D02 YN96	101751737	Dublin		locality	1
+D02 YP97	101751737	Dublin		locality	1
 D03 F8C2	101751737	Dublin		locality	1
+D03 NX79	101751737	Dublin		locality	1
 D03 YA26	101751737	Dublin		locality	1
 D03 YH36	101751737	Dublin		locality	1
+D04	101751737	Dublin		locality	1
 D04 A318	101751737	Dublin		locality	1
 D04 A373	101751737	Dublin		locality	1
 D04 AE48	101751737	Dublin		locality	1
 D04 CX95	101751737	Dublin		locality	1
 D04 HK50	101751737	Dublin		locality	1
 D04 R2C5	101751737	Dublin		locality	1
+D04 TR29	101751737	Dublin		locality	1
 D04 WV00	101751737	Dublin		locality	1
-D04Y8X5	101751737	Dublin		locality	1
 D06 A998	101751737	Dublin		locality	1
 D06 CF67	101751737	Dublin		locality	1
 D06 FC93	101751737	Dublin		locality	1
 D06 K283	101751737	Dublin		locality	1
 D06 N521	101751737	Dublin		locality	1
 D07 A562	101751737	Dublin		locality	1
+D07 E5W4	101751737	Dublin		locality	1
+D07 FK58	101751737	Dublin		locality	1
+D07 RR82	101751737	Dublin		locality	1
 D07 VPT0	101751737	Dublin		locality	1
 D07 WNP2	101751737	Dublin		locality	1
 D07 XCX5	101751737	Dublin		locality	1
 D07 XT95	101751737	Dublin		locality	1
+D07 Y683	101751737	Dublin		locality	1
 D08 A318	101751737	Dublin		locality	1
 D08 A5RV	101751737	Dublin		locality	1
-D08 A970	101751737	Dublin		locality	1
 D08 AY24	101751737	Dublin		locality	1
+D08 C520	101751737	Dublin		locality	1
 D08 CPW3	101751737	Dublin		locality	1
+D08 DH31	101751737	Dublin		locality	1
 D08 E0C0	101751737	Dublin		locality	1
 D08 EP8E	101751737	Dublin		locality	1
-D08 ET27	101751737	Dublin		locality	1
-D08 F6E4	101751737	Dublin		locality	1
 D08 KA43	101751737	Dublin		locality	1
 D08 N592	101751737	Dublin		locality	1
 D08 P3K4	101751737	Dublin		locality	1
+D08 P5N2	101751737	Dublin		locality	1
+D08 RW44	101751737	Dublin		locality	1
 D08 T2V0	101751737	Dublin		locality	1
+D08 V221	101751737	Dublin		locality	1
+D08 VK72	101751737	Dublin		locality	1
 D08 VRR7	101751737	Dublin		locality	1
 D08 VY00	101751737	Dublin		locality	1
 D08 W208	101751737	Dublin		locality	1
@@ -162,84 +339,168 @@ D08 W2V0	101751737	Dublin		locality	1
 D08 W5H6	101751737	Dublin		locality	1
 D08 WN40	101751737	Dublin		locality	1
 D08 XH90	101751737	Dublin		locality	1
-D09VY19	101751737	Dublin		locality	1
+D08 XK58	101751737	Dublin		locality	1
+D08HK13	101751737	Dublin		locality	1
+D08P 89W	101751737	Dublin		locality	1
+D09 CF72	101751737	Dublin		locality	1
+D09 T6P7	101751737	Dublin		locality	1
+D09 TC91	101751737	Dublin		locality	1
+D09 V1Y2	101751737	Dublin		locality	1
+D09 VE02	101751737	Dublin		locality	1
+D09 XH66	101751737	Dublin		locality	1
+D10WV02	101751737	Dublin		locality	1
 D11 K254	101751737	Dublin		locality	1
 D12	101751737	Dublin		locality	1
+D12 AE6W	101751737	Dublin		locality	1
+D12 DW4C	101751737	Dublin		locality	1
 D12 E026	101751737	Dublin		locality	1
+D12 E5AN	101751737	Dublin		locality	1
+D12 F5YW	101751737	Dublin		locality	1
 D12 HK76	101751737	Dublin		locality	1
+D12 HX96	101751737	Dublin		locality	1
+D12 N512	101751737	Dublin		locality	1
 D12 P5YP	101751737	Dublin		locality	1
-D12 XF88	101751737	Dublin		locality	1
+D12 PK44	101751737	Dublin		locality	1
+D12 PX7A	101751737	Dublin		locality	1
+D12 Y313	101751737	Dublin		locality	1
 D12 YC58	101751737	Dublin		locality	1
+D12DY09	101751737	Dublin		locality	1
+D12XCY2	101751737	Dublin		locality	1
+D12YFV0	101751737	Dublin		locality	1
+D13 A2C4	1259618243	Baldoyle		locality	1
+D13 C5H9	101751737	Dublin		locality	1
+D13 CP26	101753093	Portmarnock		locality	1
+D13 F766	101751737	Dublin		locality	1
+D14 W7Y7	101751737	Dublin		locality	1
 D14DX57	101751737	Dublin		locality	1
 D15 A58K	101751737	Dublin		locality	1
+D15 AXP3	101751737	Dublin		locality	1
+D15 CAV2	101751737	Dublin		locality	1
 D15 CKF4	101751737	Dublin		locality	1
+D15 DH9X	101751737	Dublin		locality	1
+D15 E2RY	101751737	Dublin		locality	1
+D15 EE7V	101751737	Dublin		locality	1
+D15 HC2P	1243098731	Tyrrelstown		locality	1
+D15 K832	1326761249	Ballycoolen		locality	1
+D15 ND71	1326761249	Ballycoolen		locality	1
 D15 NX98	1125834461	Blanchardstown		locality	1
+D15 PH9N	101751737	Dublin		locality	1
 D15 T1FD	101751737	Dublin		locality	1
+D15 T6KV	101751737	Dublin		locality	1
+D15 T6WR	101751737	Dublin		locality	1
+D15 TR29	101751737	Dublin		locality	1
+D15 W29V	101751737	Dublin		locality	1
+D15 Y1EH	101751737	Dublin		locality	1
 D15 Y9DV	1125834461	Blanchardstown		locality	1
 D15 YA32	1125834461	Blanchardstown		locality	1
 D15 YC1W	101751737	Dublin		locality	1
+D15 YK77	101751737	Dublin		locality	1
 D15KPW7	101751737	Dublin		locality	1
+D17 KV84	101751737	Dublin		locality	1
+D17 V128	101751737	Dublin		locality	1
+D18 N126	101751737	Dublin		locality	1
+D20	101751737	Dublin		locality	1
+D20 DC99	1293134741	Palmerstown		locality	1
 D20 FX25	101751737	Dublin		locality	1
+D22 F9F4	101751737	Dublin		locality	1
+D22W1H9	101751737	Dublin		locality	1
+D24 CKP2	101751737	Dublin		locality	1
+D24 EP20	101751737	Dublin		locality	1
+D24 K5Y6	101751737	Dublin		locality	1
+D24 NWN7	101751737	Dublin		locality	1
+D24 P89H	101751737	Dublin		locality	1
+D24 VP03	101753083	Rathcoole		locality	1
+D24 YK12	101751737	Dublin		locality	1
+D24 YX3T	101751737	Dublin		locality	1
+D24HW35	101751737	Dublin		locality	1
 D6W F729	101751737	Dublin		locality	1
 D6W HY98	101751737	Dublin		locality	1
-D6W RY72	101751737	Dublin		locality	1
-DO8 XTN5	101751737	Dublin		locality	1
+DUBLIN 24	101751737	Dublin		locality	1
+DX 6018	1125870371	Dunleary		locality	1
 Do4 PF51	101751737	Dublin		locality	1
 Dublin 15	1125834461	Blanchardstown		locality	1
+Dublin 22	1242612105	Clondalkin		locality	1
+Dublin 4	1209249165	Irishtown		locality	1
+Dublin, K67 RR83	101753087	Swords		locality	1
+E21XC93	101805953	Caher		locality	1
 E32X232	1125964639	Templeorum		locality	1
 E41 A7X8	101806043	Thurles		locality	1
+E41 AP86	1276589581	Horse and Jockey		locality	1
 E41 D2Y3	101806043	Thurles		locality	1
 E41 D8Y7	101806043	Thurles		locality	1
+E41 DK24	1276589581	Horse and Jockey		locality	1
+E41 F838	101806043	Thurles		locality	1
+E41 FY66	101806043	Thurles		locality	1
 E41 K6P8	101806043	Thurles		locality	1
+E45 C850	1309746839	Silvermines		locality	1
+E45 RD68	1309746839	Silvermines		locality	1
 E45 VF25	101804771	Nenagh		locality	1
 E45 YR50	101804771	Nenagh		locality	1
 E53 NX49	101804767	Roscrea		locality	1
 E53 YX67	101804767	Roscrea		locality	1
 E91 HK58	101805955	Clonmel		locality	1
+E91 K7K5	101805955	Clonmel		locality	1
+E91 R7R2	101805951	Tipperary		locality	1
 E91 RR62	101805955	Clonmel		locality	1
+E91 XT98	101805955	Clonmel		locality	1
 E91N512	101805955	Clonmel		locality	1
+EP17P11	101805897	Kinsale		locality	1
+Eircode: K67 KW54	101753087	Swords		locality	1
 F12 D324	101805041	Swineford		locality	1
-F12 D728	1126010593	Claremorris		locality	1
-F12 E094	1126010593	Claremorris		locality	1
-F12 E6H6	1126010593	Claremorris		locality	1
-F12 ET10	1126010593	Claremorris		locality	1
+F12 D728	101805053	Claremorris		locality	1
+F12 E094	101805053	Claremorris		locality	1
+F12 E6H6	101805053	Claremorris		locality	1
+F12 ET10	101805053	Claremorris		locality	1
 F12 FT72	101805041	Swineford		locality	1
-F12 H3F6	1126010593	Claremorris		locality	1
-F12 H422	1126010593	Claremorris		locality	1
-F12 KN63	1126010593	Claremorris		locality	1
-F12 NX34	1126010593	Claremorris		locality	1
-F12 P223	1126010593	Claremorris		locality	1
-F12 P521	1126010593	Claremorris		locality	1
-F12 PF51	1126010593	Claremorris		locality	1
-F12 PK72	1126010593	Claremorris		locality	1
-F12 T622	1126010593	Claremorris		locality	1
-F12 T6C6	1126010593	Claremorris		locality	1
-F12 TW35	1126010593	Claremorris		locality	1
-F12 V0V8	1126010593	Claremorris		locality	1
-F12 V2Y1	1126010593	Claremorris		locality	1
+F12 H3F6	101805053	Claremorris		locality	1
+F12 H422	101805053	Claremorris		locality	1
+F12 KN63	101805053	Claremorris		locality	1
+F12 NX34	101805053	Claremorris		locality	1
+F12 P223	101805053	Claremorris		locality	1
+F12 P521	101805053	Claremorris		locality	1
+F12 PF51	101805053	Claremorris		locality	1
+F12 PK72	101805053	Claremorris		locality	1
+F12 T622	101805053	Claremorris		locality	1
+F12 T6C6	101805053	Claremorris		locality	1
+F12 TW35	101805053	Claremorris		locality	1
+F12 V0V8	101805053	Claremorris		locality	1
+F12 V2Y1	101805053	Claremorris		locality	1
 F12 VR92	101805041	Swineford		locality	1
-F12 W0Y6	1126010593	Claremorris		locality	1
-F12 W982	1126010593	Claremorris		locality	1
-F12 WN30	1126010593	Claremorris		locality	1
-F12 X3N3	1126010593	Claremorris		locality	1
-F12 X447	1126010593	Claremorris		locality	1
-F12 XW26	1126010593	Claremorris		locality	1
-F12 Y0T4	1126010593	Claremorris		locality	1
-F12 Y199	1126010593	Claremorris		locality	1
-F12 YN23	1126010593	Claremorris		locality	1
+F12 W0Y6	101805053	Claremorris		locality	1
+F12 W982	101805053	Claremorris		locality	1
+F12 WN30	101805053	Claremorris		locality	1
+F12 X3N3	101805053	Claremorris		locality	1
+F12 X447	101805053	Claremorris		locality	1
+F12 XW26	101805053	Claremorris		locality	1
+F12 Y0T4	101805053	Claremorris		locality	1
+F12 Y199	101805053	Claremorris		locality	1
+F12 YN23	101805053	Claremorris		locality	1
 F12KF89	101805053	Claremorris		locality	1
+F23 YC91	101805043	Castlebar		locality	1
+F26 A392	1209042887	Foxford		locality	1
 F26 H744	101805031	Ballina		locality	1
 F28 E0A5	101805045	Westport		locality	1
 F28 V672	101805045	Westport		locality	1
+F28X018	1360316657	Keel		locality	1
+F42 PX00	1293820417	Athleague		locality	1
 F45PV27	101804971	Roscommon		locality	1
+F52 KH95	101804969	Boyle		locality	1
+F56 NA09	101805023	Ballymote		locality	1
 F56 P089	101805023	Ballymote		locality	1
+F91 C1XR	101805019	Sligo		locality	1
 F91 C94H	1125791745	Blacklion		locality	1
 F91 CF5P	1125791745	Blacklion		locality	1
+F91 DK74	1326866747	Rosses Point		locality	1
+F91 E028	101805019	Sligo		locality	1
 F91 ED25	1125791745	Blacklion		locality	1
+F91 FK27	101805019	Sligo		locality	1
+F91 N2A4	101805019	Sligo		locality	1
 F91 PY24	101805019	Sligo		locality	1
 F91 W314	101805019	Sligo		locality	1
+F91 WP6N	1326866747	Rosses Point		locality	1
 F91 Y762	101805019	Sligo		locality	1
 F92 A3N1	101805067	Letterkenny		locality	1
+F92 DH90	1125791345	Rathmullan		locality	1
 F92 DT62	1125857573	Letterkenny		locality	1
 F92 DX81	101805067	Letterkenny		locality	1
 F92 K0W2	101805067	Letterkenny		locality	1
@@ -248,24 +509,46 @@ F92 T9X4	101805067	Letterkenny		locality	1
 F92 V9F5	101805067	Letterkenny		locality	1
 F93 C9X6	101805099	Buncrana		locality	1
 F93 Y27K	1125894291	Ballybofey		locality	1
+F93 YX40	101805097	Moville		locality	1
 F94CX52	101805089	Donegal		locality	1
 F94RD30	1125888737	Inver		locality	1
 H12 CH52	1125934523	Carrigallen		locality	1
+H12YY74	1242613643	Aghavas		locality	1
 H14 EC99	101805011	Ballyconnell		locality	1
 H53 A7K7	101804933	Ballinasloe		locality	1
+H54 E043	1327268953	Garrafrauns		locality	1
+H54 EC95	1327268953	Garrafrauns		locality	1
+H54 H763	1327268953	Garrafrauns		locality	1
+H54 NX74	1327268953	Garrafrauns		locality	1
+H54 NY73	1327268953	Garrafrauns		locality	1
+H54 RW60	1327268953	Garrafrauns		locality	1
+H54 WK83	1327268953	Garrafrauns		locality	1
+H62TK22	101804959	Loughrea		locality	1
 H65 CD79	101804951	Athenry		locality	1
 H91 309Y	1125858669	Galway		locality	1
+H91 AKK3	101751743	Galway		locality	1
 H91 C85C	101804957	Gort		locality	1
-H91 CF90	101751743	Galway		locality	1
+H91 CF60	101804801	Ballyvaghan		locality	1
 H91 D7VH	1125858669	Galway		locality	1
-H91 E1NY	1126051671	Galway		locality	1
-H91 E653	1126051671	Galway		locality	1
-H91 F5TE	1126051671	Galway		locality	1
-H91 K099	1126051671	Galway		locality	1
-H91 NX77	1126051671	Galway		locality	1
+H91 E1NY	1125858669	Galway		locality	1
+H91 E653	1125858669	Galway		locality	1
+H91 F5TE	1125858669	Galway		locality	1
+H91 F62K	1125858669	Galway		locality	1
+H91 FC67	101751743	Galway		locality	1
+H91 K099	1125858669	Galway		locality	1
+H91 K526	1310141777	Bealaclugga		locality	1
+H91 KP49	101804943	Moycullen		locality	1
+H91 NX77	1125858669	Galway		locality	1
+H91 P2HC	1125858669	Galway		locality	1
+H91 VK46	1125858669	Galway		locality	1
 H91 W6N7	101804957	Gort		locality	1
+H91 W9KH	1125858669	Galway		locality	1
+H91 X9HE	1343496125	Ardrahan		locality	1
+H91 Y90F	1125858669	Galway		locality	1
 H91 YD86	1125858669	Galway		locality	1
-H91KHK2	1126051671	Galway		locality	1
+H91KHK2	1125858669	Galway		locality	1
+H91V0TX	1125858669	Galway		locality	1
+H91W1W4	1226478797	Leenane		locality	1
 K32 AH76	101804845	Balbriggan		locality	1
 K32 AK59	101804845	Balbriggan		locality	1
 K32 AX58	101804845	Balbriggan		locality	1
@@ -289,7 +572,6 @@ K32 V084	101804845	Balbriggan		locality	1
 K32 VP29	101804845	Balbriggan		locality	1
 K32 VW90	101804845	Balbriggan		locality	1
 K32 WC60	101804845	Balbriggan		locality	1
-K32 WV18	101804845	Balbriggan		locality	1
 K32 WY80	101804845	Balbriggan		locality	1
 K32 X015	101804845	Balbriggan		locality	1
 K32 X966	101804845	Balbriggan		locality	1
@@ -299,25 +581,86 @@ K32 Y286	101804845	Balbriggan		locality	1
 K32 YN25	101804845	Balbriggan		locality	1
 K32 YV97	101804845	Balbriggan		locality	1
 K32A271	101804845	Balbriggan		locality	1
+K36 DA32	1126026017	Malahide		locality	1
 K36 FN27	1126026017	Malahide		locality	1
+K36 H744	1126026017	Malahide		locality	1
+K36 NH50	1126026017	Malahide		locality	1
+K36 PW25	1126026017	Malahide		locality	1
+K36 V064	101804855	Donabate		locality	1
 K45 K650	101804851	Lusk		locality	1
+K56 CF86	101804849	Rush		locality	1
+K56 CR74	101804849	Rush		locality	1
+K56 X702	101804849	Rush		locality	1
+K56 XW53	101804849	Rush		locality	1
+K67 A3K2	101751737	Dublin		locality	1
+K67 A3Y1	101751737	Dublin		locality	1
+K67 A4E8	101751737	Dublin		locality	1
 K67 AK57	101751737	Dublin		locality	1
+K67 AV66	101751737	Dublin		locality	1
+K67 C9K2	101751737	Dublin		locality	1
+K67 C9P3	101751737	Dublin		locality	1
 K67 D343	101751737	Dublin		locality	1
+K67 D5T3	101751737	Dublin		locality	1
+K67 D6P0	1259519395	Harristown		locality	1
 K67 DT91	101751737	Dublin		locality	1
+K67 E0A9	101751737	Dublin		locality	1
+K67 E2D9	101751737	Dublin		locality	1
 K67 E427	101751737	Dublin		locality	1
+K67 E4A3	101751737	Dublin		locality	1
+K67 E7P2	101751737	Dublin		locality	1
+K67 E7Y4	101751737	Dublin		locality	1
 K67 EN22	101751737	Dublin		locality	1
 K67 EP66	101751737	Dublin		locality	1
+K67 F5F6	101751737	Dublin		locality	1
+K67 F5W9	101751737	Dublin		locality	1
+K67 F683	101758553	Kinsealy		locality	1
+K67 F9D3	101758553	Kinsealy		locality	1
+K67 FN25	101758553	Kinsealy		locality	1
 K67 FP99	101753087	Swords		locality	1
+K67 H1R7	101751737	Dublin		locality	1
 K67 H526	101751737	Dublin		locality	1
+K67 H6W2	101751737	Dublin		locality	1
+K67 H9E8	101751737	Dublin		locality	1
+K67 HE24	101751737	Dublin		locality	1
+K67 K4X6	101751737	Dublin		locality	1
+K67 KA62	101751737	Dublin		locality	1
+K67 N8C7	101751737	Dublin		locality	1
+K67 N8H3	101751737	Dublin		locality	1
+K67 P1H5	101751737	Dublin		locality	1
+K67 P2F6	101751737	Dublin		locality	1
+K67 P9V3	101751737	Dublin		locality	1
 K67 R2K0	101753087	Swords		locality	1
+K67 R6W7	101751737	Dublin		locality	1
+K67 T1X4	101751737	Dublin		locality	1
+K67 T2F1	101751737	Dublin		locality	1
 K67 TOX3	101753087	Swords		locality	1
 K67 TW18	101751737	Dublin		locality	1
 K67 V201	101751737	Dublin		locality	1
+K67 V8Y6	101753087	Swords		locality	1
+K67 VW11	101758553	Kinsealy		locality	1
+K67 W0H1	1259519395	Harristown		locality	1
+K67 W2K2	101751737	Dublin		locality	1
 K67 W5P7	101753087	Swords		locality	1
+K67 W9P0	101751737	Dublin		locality	1
+K67 X6R9	101751737	Dublin		locality	1
+K67 X898	101753087	Swords		locality	1
+K67 XP73	101758553	Kinsealy		locality	1
 K67 Y166	101751737	Dublin		locality	1
 K67 Y677	101751737	Dublin		locality	1
+K67 Y6T3	101751737	Dublin		locality	1
+K67HW98	101753087	Swords		locality	1
+K78 DC89	1209752149	Lucan		locality	1
+K78 EY17	1209752149	Lucan		locality	1
+K78 N8X6	1209752149	Lucan		locality	1
+K78 PF57	1209752149	Lucan		locality	1
+K78 PK54	1209752149	Lucan		locality	1
+K78 TF67	1209752149	Lucan		locality	1
+K78 Y9W0	1209752149	Lucan		locality	1
+N37 K066	1293518775	Athlone		locality	1
+N37 N1F2	1293518775	Athlone		locality	1
 N37EK20	101804857	Athlone		locality	1
 N39 V9W3	101804925	Longford		locality	1
+N41 XE89	101805015	Carrick-on-shannon		locality	1
 N91 F6Y2	101804865	Mullingar		locality	1
 N91 FC04	101804865	Mullingar		locality	1
 N91 FY96	101804865	Mullingar		locality	1
@@ -329,8 +672,89 @@ N91 TH79	101804865	Mullingar		locality	1
 N91 W138	101804865	Mullingar		locality	1
 N91 X6F7	101804865	Mullingar		locality	1
 N91 XR99	101804865	Mullingar		locality	1
-P17 F542	101805897	Kinsale		locality	1
+N91VY07	101804865	Mullingar		locality	1
+P12 AH39	1125896083	Ballyvourney		locality	1
+P12 DW92	1360119713	Carriganimmy		locality	1
+P12 F767	101803605	Macroom		locality	1
+P17 A293	101805897	Kinsale		locality	1
+P17 AF10	101805897	Kinsale		locality	1
+P17 AF53	1125990065	Ballinspittle		locality	1
+P17 C973	101805897	Kinsale		locality	1
+P17 C996	101805897	Kinsale		locality	1
+P17 CY80	101805897	Kinsale		locality	1
+P17 DC85	101805897	Kinsale		locality	1
+P17 DX54	101805897	Kinsale		locality	1
+P17 DY26	101805897	Kinsale		locality	1
+P17 ET86	101805897	Kinsale		locality	1
+P17 F592	101805897	Kinsale		locality	1
+P17 F850	101805897	Kinsale		locality	1
+P17 FE80	101805897	Kinsale		locality	1
+P17 FN27	1125990065	Ballinspittle		locality	1
+P17 FN79	101805897	Kinsale		locality	1
+P17 FT27	101805897	Kinsale		locality	1
+P17 H397	1260323209	Belgooly		locality	1
+P17 H798	101805897	Kinsale		locality	1
+P17 HD50	101805897	Kinsale		locality	1
+P17 HE06	101805897	Kinsale		locality	1
+P17 K223	101805897	Kinsale		locality	1
+P17 KA48	101805897	Kinsale		locality	1
+P17 KD76	1260323209	Belgooly		locality	1
+P17 KX39	101805897	Kinsale		locality	1
+P17 N525	101805897	Kinsale		locality	1
+P17 NW42	101805897	Kinsale		locality	1
+P17 P466	101805897	Kinsale		locality	1
+P17 PW40	101805897	Kinsale		locality	1
+P17 PX61	101805897	Kinsale		locality	1
+P17 PY06	101805897	Kinsale		locality	1
+P17 RW88	101805897	Kinsale		locality	1
+P17 RY11	101805897	Kinsale		locality	1
+P17 T677	101805897	Kinsale		locality	1
+P17 V256	101805897	Kinsale		locality	1
+P17 VF84	101805897	Kinsale		locality	1
+P17 VN52	101805897	Kinsale		locality	1
+P17 VN80	101805897	Kinsale		locality	1
+P17 WD21	101805897	Kinsale		locality	1
+P17 WD98	101805897	Kinsale		locality	1
+P17 X320	101805897	Kinsale		locality	1
+P17 X571	101805897	Kinsale		locality	1
+P17 X586	101805897	Kinsale		locality	1
+P17 XK02	101805897	Kinsale		locality	1
+P17 XT32	1260323209	Belgooly		locality	1
+P17 XY07	101805897	Kinsale		locality	1
+P17 XY33	101805897	Kinsale		locality	1
+P17 XY97	1260323209	Belgooly		locality	1
+P17 YF44	1125990065	Ballinspittle		locality	1
+P17 YF76	101805897	Kinsale		locality	1
+P17 YR90	101805897	Kinsale		locality	1
+P17 YX24	101805897	Kinsale		locality	1
+P17EC61	101805897	Kinsale		locality	1
+P17HT29	101805897	Kinsale		locality	1
+P17YC66	101805897	Kinsale		locality	1
+P25 DT04	101805893	Midleton		locality	1
+P25 WK13	101805893	Midleton		locality	1
+P25 XF66	1277111579	Shanagarry		locality	1
 P25A062	101805893	Midleton		locality	1
+P25K162	101805893	Midleton		locality	1
+P31 DT80	101805901	Ballincollig		locality	1
+P31 E243	101805901	Ballincollig		locality	1
+P31 EE04	101805901	Ballincollig		locality	1
+P31 HC56	101805901	Ballincollig		locality	1
+P31 HE67	101805901	Ballincollig		locality	1
+P31 KT97	101805901	Ballincollig		locality	1
+P31 N153	101805901	Ballincollig		locality	1
+P31 N623	101805901	Ballincollig		locality	1
+P31 RF72	101805901	Ballincollig		locality	1
+P31 RH52	101805901	Ballincollig		locality	1
+P31 T802	101805901	Ballincollig		locality	1
+P31 TC98	101805901	Ballincollig		locality	1
+P31 TX33	101805901	Ballincollig		locality	1
+P31 WP29	101805901	Ballincollig		locality	1
+P31 WR90	101805901	Ballincollig		locality	1
+P31 XH75	101805901	Ballincollig		locality	1
+P31 XW71	101805901	Ballincollig		locality	1
+P31 YC98	101805901	Ballincollig		locality	1
+P31 YX23	101805901	Ballincollig		locality	1
+P31YD53	101805901	Ballincollig		locality	1
 P36 DV79	1126026079	Youghal		locality	1
 P36 EY90	101805889	Youghal		locality	1
 P36 F704	1126026079	Youghal		locality	1
@@ -338,18 +762,113 @@ P36 FR50	101805853	Waterford		locality	1
 P36 HN47	1126026079	Youghal		locality	1
 P36 KD68	101805889	Youghal		locality	1
 P36 N260	1126026079	Youghal		locality	1
+P36 PD61	1243485277	Ardmore		locality	1
 P36 W268	1126026079	Youghal		locality	1
 P36 YR70	101805889	Youghal		locality	1
-P43 HN40	101805895	Carrigaline		locality	1
+P43 AN82	101805895	Carrigaline		locality	1
+P43 D702	101805895	Carrigaline		locality	1
+P43 FP66	101805895	Carrigaline		locality	1
+P43 HE16	101805895	Carrigaline		locality	1
+P43 HW57	101805895	Carrigaline		locality	1
+P43 RH21	101805895	Carrigaline		locality	1
+P43 W921	101805895	Carrigaline		locality	1
+P43 XV65	1344194071	Ringaskiddy		locality	1
+P47 DK22	101805917	Dunmanway		locality	1
+P47 DK83	101805917	Dunmanway		locality	1
+P47 KV48	1310141501	Drimoleague		locality	1
+P47 NX47	101805917	Dunmanway		locality	1
+P47 PR53	1293234877	Enniskeane		locality	1
+P47 R623	1343595973	Ballineen		locality	1
+P47 TK80	101805917	Dunmanway		locality	1
+P47 XE08	1293234877	Enniskeane		locality	1
 P51 P732	101805879	Mallow		locality	1
+P51 PD71	1327367303	Ballydesmond		locality	1
+P51 TV08	1243007879	Banteer		locality	1
 P51RY99	101751727	Cork		locality	1
+P61 P110	101805887	Fermoy		locality	1
+P67 PN32	101805873	Mitchelstown		locality	1
+P72 AE35	101805899	Bandon		locality	1
+P72 CF78	101805899	Bandon		locality	1
+P72 D925	101805899	Bandon		locality	1
 P72 DX95	101751727	Cork		locality	1
+P72 EA31	101805899	Bandon		locality	1
+P72 EF85	101805899	Bandon		locality	1
+P72 FW28	101805899	Bandon		locality	1
+P72 H270	101805899	Bandon		locality	1
+P72 H303	101805899	Bandon		locality	1
 P72 HC79	1125807937	Kilbrittain		locality	1
+P72 HD53	101805899	Bandon		locality	1
+P72 KH51	101805899	Bandon		locality	1
+P72 P264	1125807937	Kilbrittain		locality	1
+P72 RD80	101805899	Bandon		locality	1
+P72 T922	101805899	Bandon		locality	1
+P72 TW82	1344090611	Ballinadee		locality	1
+P72 W528	101805899	Bandon		locality	1
+P72 W889	101805899	Bandon		locality	1
+P72DX23	1125981787	Timoleague		locality	1
+P72Y582	101805899	Bandon		locality	1
+P75 A072	1293424413	Glengarriff		locality	1
+P75 AF51	1209445739	Castletownbere		locality	1
+P75 AV90	1209445739	Castletownbere		locality	1
+P75 CF63	1209445739	Castletownbere		locality	1
+P75 CR97	1209445739	Castletownbere		locality	1
+P75 CY23	1209445739	Castletownbere		locality	1
+P75 D868	1209445739	Castletownbere		locality	1
+P75 DK33	1209445739	Castletownbere		locality	1
+P75 DP90	1293424413	Glengarriff		locality	1
+P75 DP94	1209445739	Castletownbere		locality	1
+P75 E168	1209445739	Castletownbere		locality	1
+P75 E799	1209445739	Castletownbere		locality	1
+P75 ED81	1293424413	Glengarriff		locality	1
+P75 EW97	1209445739	Castletownbere		locality	1
+P75 FD45	1209445739	Castletownbere		locality	1
 P75 FE44	1125972481	Durrus		locality	1
-P75 RH59	1126037695	Bantry		locality	1
+P75 FY00	1209445739	Castletownbere		locality	1
+P75 H295	1209445739	Castletownbere		locality	1
+P75 HY07	1209445739	Castletownbere		locality	1
+P75 K289	1209445739	Castletownbere		locality	1
+P75 KT50	1209445739	Castletownbere		locality	1
+P75 N963	1209445739	Castletownbere		locality	1
+P75 N973	1209445739	Castletownbere		locality	1
+P75 P767	1209445739	Castletownbere		locality	1
+P75 PN77	1209445739	Castletownbere		locality	1
+P75 PT88	1209445739	Castletownbere		locality	1
+P75 R866	1209445739	Castletownbere		locality	1
+P75 RH59	101805919	Bantry		locality	1
+P75 T027	1209445739	Castletownbere		locality	1
+P75 TN59	1209445739	Castletownbere		locality	1
+P75 VF44	1209445739	Castletownbere		locality	1
+P75 W682	1209445739	Castletownbere		locality	1
+P75 W902	1209445739	Castletownbere		locality	1
+P75 WF59	1209445739	Castletownbere		locality	1
+P75 WR13	1209445739	Castletownbere		locality	1
+P75 X208	1209445739	Castletownbere		locality	1
+P75 X603	1209445739	Castletownbere		locality	1
+P75 Y466	1209445739	Castletownbere		locality	1
+P75 Y791	1209445739	Castletownbere		locality	1
+P75 YA78	1209445739	Castletownbere		locality	1
+P75 YY60	1209445739	Castletownbere		locality	1
 P81 EV56	101805915	Skibbereen		locality	1
 P81 HH64	1125899807	Skibbereen		locality	1
+P81 VP77	1276264047	Baltimore		locality	1
 P81 VW77	101805915	Skibbereen		locality	1
+P81 VW98	101805915	Skibbereen		locality	1
+P81 YR71	1276264047	Baltimore		locality	1
+P81RV10	1125899807	Skibbereen		locality	1
+P85 AD80	1125786707	Ring		locality	1
+P85 D322	101805913	Clonakilty		locality	1
+P85 FT50	101805913	Clonakilty		locality	1
+P85 HC03	101805913	Clonakilty		locality	1
+P85 PH39	101805913	Clonakilty		locality	1
+P85 RD23	101805913	Clonakilty		locality	1
+P85 RP30	101805913	Clonakilty		locality	1
+P85 T938	101805913	Clonakilty		locality	1
+P85 V205	101805913	Clonakilty		locality	1
+P85 V966	101805913	Clonakilty		locality	1
+P85 VX62	101805913	Clonakilty		locality	1
+P85 W024	101805913	Clonakilty		locality	1
+P85 X263	101805913	Clonakilty		locality	1
+P85E063	1125812589	Rosscarbery		locality	1
 R32 A006	101804757	Abbeyleix		locality	1
 R32 APY0	101804749	Maryborough		locality	1
 R32 E978	101804747	Mountmellick		locality	1
@@ -357,80 +876,256 @@ R32 KV20	101804749	Maryborough		locality	1
 R32 R267	101804747	Mountmellick		locality	1
 R32 YK3R	101804747	Mountmellick		locality	1
 R93 V960	101805963	Carlow		locality	1
+R93 VW67	1326561499	Carlow		locality	1
+R93P992	1326561499	Carlow		locality	1
+R95 C7Y0	1343498217	Skeaghvasteen		locality	1
+R95 D8HT	101805977	Kilkenny		locality	1
+R95 HH99	101805977	Kilkenny		locality	1
+R95 NP04	101805977	Kilkenny		locality	1
 R95 TC63	101805977	Kilkenny		locality	1
+R95 TE28	101805977	Kilkenny		locality	1
+R95 V6TE	101805977	Kilkenny		locality	1
 R95 XRC4	101805977	Kilkenny		locality	1
+R95 Y640	101805979	Callan		locality	1
+R95FY72	101805969	Castlecomer		locality	1
+R95T20W	101805977	Kilkenny		locality	1
+R95W1W8	101805977	Kilkenny		locality	1
+SA31 3NQ	1277106347	Johnstown		locality	1
+T12 A3KX	101751727	Cork		locality	1
+T12 A9XE	101751727	Cork		locality	1
+T12 AHE2	101751727	Cork		locality	1
+T12 ANP0	101751727	Cork		locality	1
 T12 C8VW	101751727	Cork		locality	1
-T12 CH98	1125915837	Cork		locality	1
-T12 DCR9	1125915837	Cork		locality	1
-T12 E9HY	1125915837	Cork		locality	1
-T12 EC63	1125915837	Cork		locality	1
-T12 EE72	1125915837	Cork		locality	1
-T12 H1XY	1125915837	Cork		locality	1
-T12 HC52	1125915837	Cork		locality	1
-T12 K2EC	1125915837	Cork		locality	1
-T12 KCW0	1125915837	Cork		locality	1
-T12 PR83	1125915837	Cork		locality	1
-T12 WC93	101751727	Cork		locality	1
-T12 X23H	1125915837	Cork		locality	1
-T12 YHR3	1125915837	Cork		locality	1
-T23 EK0E	1125915837	Cork		locality	1
+T12 C98P	101751727	Cork		locality	1
+T12 CA29	101751727	Cork		locality	1
+T12 CH98	101751727	Cork		locality	1
+T12 CR23	101751727	Cork		locality	1
+T12 CX96	101751727	Cork		locality	1
+T12 CYF2	101751727	Cork		locality	1
+T12 D5DW	101751727	Cork		locality	1
+T12 DCR9	101751727	Cork		locality	1
+T12 DH0F	101751727	Cork		locality	1
+T12 DV56	101751727	Cork		locality	1
+T12 E8CF	101751727	Cork		locality	1
+T12 E9HY	101751727	Cork		locality	1
+T12 EA4W	101751727	Cork		locality	1
+T12 EC63	101751727	Cork		locality	1
+T12 EE72	101751727	Cork		locality	1
+T12 EV8	101751727	Cork		locality	1
+T12 EY24	101751727	Cork		locality	1
+T12 F43F	101751727	Cork		locality	1
+T12 FK84	1292940429	Rochestown		locality	1
+T12 H1XY	101751727	Cork		locality	1
+T12 H6XP	101751727	Cork		locality	1
+T12 HC52	101751727	Cork		locality	1
+T12 HE4H	101751727	Cork		locality	1
+T12 HT78	101751727	Cork		locality	1
+T12 HT97	101751727	Cork		locality	1
+T12 HX0K	101751727	Cork		locality	1
+T12 K2EC	101751727	Cork		locality	1
+T12 K5YP	101751727	Cork		locality	1
+T12 KCW0	101751727	Cork		locality	1
+T12 KD37	101751727	Cork		locality	1
+T12 KN9Y	101751727	Cork		locality	1
+T12 KPD2	101751727	Cork		locality	1
+T12 KPN3	101751727	Cork		locality	1
+T12 KT5N	1125937421	Passage West		locality	1
+T12 N6KR	101751727	Cork		locality	1
+T12 NC8Y	101751727	Cork		locality	1
+T12 ND89	101751727	Cork		locality	1
+T12 NVX9	101751727	Cork		locality	1
+T12 P8WF	101751727	Cork		locality	1
+T12 PN2X	1209645885	Ballinhassig		locality	1
+T12 PP93	101751727	Cork		locality	1
+T12 PR83	101751727	Cork		locality	1
+T12 PY03	101751727	Cork		locality	1
+T12 R5Y8	101751727	Cork		locality	1
+T12 RC98	101751727	Cork		locality	1
+T12 RCY9	101751727	Cork		locality	1
+T12 RP29	101805929	Monkstown		locality	1
+T12 RR02	101853143	Ballygarvan		locality	1
+T12 RY7Y	101751727	Cork		locality	1
+T12 T997	101751727	Cork		locality	1
+T12 TRX3	101751727	Cork		locality	1
+T12 V34H	101751727	Cork		locality	1
+T12 VC57	101751727	Cork		locality	1
+T12 VCR6	101751727	Cork		locality	1
+T12 VF9F	101751727	Cork		locality	1
+T12 VFK5	101751727	Cork		locality	1
+T12 VH31	101751727	Cork		locality	1
+T12 VHY0	101751727	Cork		locality	1
+T12 VNW2	101751727	Cork		locality	1
+T12 VPKO	101751727	Cork		locality	1
+T12 W252	101751727	Cork		locality	1
+T12 W72X	101805927	Inishannon		locality	1
+T12 WC 93	101751727	Cork		locality	1
+T12 WK83	101751727	Cork		locality	1
+T12 X23H	101751727	Cork		locality	1
+T12 X32D	101751727	Cork		locality	1
+T12 X6EC	101751727	Cork		locality	1
+T12 XF98	1344194071	Ringaskiddy		locality	1
+T12 XH60	101751727	Cork		locality	1
+T12 XK5R	1327269855	Mahon		locality	1
+T12 XN72	101751727	Cork		locality	1
+T12 XR77	101751727	Cork		locality	1
+T12 XRK4	101751727	Cork		locality	1
+T12 XVA4	101751727	Cork		locality	1
+T12 Y0EH	101751727	Cork		locality	1
+T12 Y2CF	101751727	Cork		locality	1
+T12 Y720	101751727	Cork		locality	1
+T12 Y9KT	1293135619	Bishopstown		locality	1
+T12 YD6H	101751727	Cork		locality	1
+T12 YH68	101751727	Cork		locality	1
+T12 YHR3	101751727	Cork		locality	1
+T12 YK7K	101751727	Cork		locality	1
+T12 YR7V	101751727	Cork		locality	1
+T12 YX7H	101751727	Cork		locality	1
+T12 YX9T	101751727	Cork		locality	1
+T12KA40	101751727	Cork		locality	1
+T12KPF2	101751727	Cork		locality	1
+T12YY6C	101751727	Cork		locality	1
+T23 AN20	101751727	Cork		locality	1
+T23 AX73	101751727	Cork		locality	1
+T23 EK0E	101751727	Cork		locality	1
+T23 EP20	101751727	Cork		locality	1
+T23 FDT4	101751727	Cork		locality	1
+T23 H004	101751727	Cork		locality	1
+T23 HP30	101751727	Cork		locality	1
+T23 KP46	101751727	Cork		locality	1
 T23 N2KX	101751727	Cork		locality	1
-T23 PY53	1125915837	Cork		locality	1
-T23 XF95	1125915837	Cork		locality	1
+T23 PY53	101751727	Cork		locality	1
+T23 R68N	101751727	Cork		locality	1
+T23 X72D	101751727	Cork		locality	1
+T23 X963	101751727	Cork		locality	1
+T23 XF95	101751727	Cork		locality	1
+T23 YE35	101751727	Cork		locality	1
+T23 YX51	1125950905	Tower		locality	1
+T23EEC3	101751727	Cork		locality	1
 T45 AD96	1125949339	Carrigtohill		locality	1
-T45 DD88	1125915837	Cork		locality	1
+T45 DA34	1326464795	Island		locality	1
+T45 DD88	101751727	Cork		locality	1
+T45 E289	101751727	Cork		locality	1
+T45 FH33	101751727	Cork		locality	1
+T45 FK66	1326464795	Island		locality	1
+T45 H681	1326464795	Island		locality	1
+T45 K510	1326464795	Island		locality	1
+T45 KX85	101751727	Cork		locality	1
+T45 P282	1125949339	Carrigtohill		locality	1
+T45 P466	1326464795	Island		locality	1
+T45 R259	1326464795	Island		locality	1
+T45 V026	1259619459	Glounthaune		locality	1
+T45 V201	1276589113	Glounthaune		locality	1
+T45 VF59	1326464795	Island		locality	1
+T45 VP40	1326464795	Island		locality	1
+T45 X265	1326464795	Island		locality	1
+T45 XA50	1193171347	Glanmire		locality	1
+T45 Y201	1326464795	Island		locality	1
+T45 Y585	1326464795	Island		locality	1
+T45 Y797	101751727	Cork		locality	1
+T45 Y921	1193171347	Glanmire		locality	1
+T45 YE36	101751727	Cork		locality	1
 V15 V407	101804817	Kilrush		locality	1
+V42 PX98	101806001	Newcastle West		locality	1
 V42FK68	1125924617	Newcastle West		locality	1
 V92 A6Y6	101853159	Ballyheige		locality	1
 V92 A9KW	101853159	Ballyheige		locality	1
 V92 C9FH	1125876089	Tralee		locality	1
 V92 D584	101853159	Ballyheige		locality	1
+V92 DN23	1193051807	Lispole		locality	1
 V92 EYV9	101853159	Ballyheige		locality	1
+V92 HE44	101806019	Dingle		locality	1
 V92 N9FT	1125876089	Tralee		locality	1
 V92 NX94	101806021	Tralee		locality	1
+V92 PH96	1193051807	Lispole		locality	1
+V92 TE81	101806019	Dingle		locality	1
 V92 VFY6	101806021	Tralee		locality	1
 V92P803	101806023	Castleisland		locality	1
 V93 AYP9	101803613	Killarney		locality	1
 V93 CP26	101803613	Killarney		locality	1
+V93 CVF9	101803613	Killarney		locality	1
+V93 E029	101803613	Killarney		locality	1
 V93 EFP1	101803613	Killarney		locality	1
 V93 FY7A	101803613	Killarney		locality	1
-V93 KHN6	101803613	Killarney		locality	1
+V93 K409	1209646381	Fossa		locality	1
+V93 RR59	101803613	Killarney		locality	1
+V93 WF67	101806013	Kenmare		locality	1
+V93 X3XY	101806013	Kenmare		locality	1
+V93A 995	101803613	Killarney		locality	1
+V93AOXH	101803613	Killarney		locality	1
+V93AY26	101806013	Kenmare		locality	1
+V93CR90	101803613	Killarney		locality	1
 V93DF8H	101803613	Killarney		locality	1
+V93WD99	1209646381	Fossa		locality	1
+V93XY75	1125956271	Kilgarvan		locality	1
 V94 1X59	1126028417	Mungret		locality	1
 V94 A2W7	101804777	Killaloe		locality	1
+V94 A431	101751733	Limerick		locality	1
 V94 A9NX	1125858619	Limerick		locality	1
+V94 CYR6	1343597315	Adare		locality	1
 V94 DY27	1125858619	Limerick		locality	1
+V94 EE0P	1125858619	Limerick		locality	1
 V94 FK61	101751733	Limerick		locality	1
 V94 HXW5	1125858619	Limerick		locality	1
-V94 NYD3	101751733	Limerick		locality	1
+V94 NX93	101751733	Limerick		locality	1
 V94 P9F4	1125858619	Limerick		locality	1
 V94 PD28	1125858619	Limerick		locality	1
+V94 TP8Y	101751733	Limerick		locality	1
 V94 V2VW	1125858619	Limerick		locality	1
 V94 V6FT	1125858619	Limerick		locality	1
-V94 WY68	101805031	Ballina		locality	1
+V94 WY68	1226081017	Ballina		locality	1
+V94 YD8P	101751733	Limerick		locality	1
 V94W651	1125858619	Limerick		locality	1
+V95 C973	1276690247	Doolin		locality	1
+V95 T623	1276690247	Doolin		locality	1
+V95 V9Y8	101804807	Milltown Malbay		locality	1
+V95 VHP4	1276690247	Doolin		locality	1
 V95 YR92	101804809	Ennis		locality	1
+V95VF40	101804815	Sixmilebridge		locality	1
 W23 A2N0	101804793	Maynooth		locality	1
 W23 CC61	101872747	Kilcock		locality	1
+W23 KV65	101804793	Maynooth		locality	1
 W23 N8H3	101804793	Maynooth		locality	1
 W23 VK53	101872747	Kilcock		locality	1
 W23 W2K8	101804795	Celbridge		locality	1
+W91 DP94	101837623	Naas		locality	1
+W91 E6EP	101837623	Naas		locality	1
+W91 X253	101804789	Clane		locality	1
 X35 E168	101805855	Dungarvan		locality	1
 X35YH92	101805855	Dungarvan		locality	1
+X42 TW50	1259820475	Faha		locality	1
+X91 CA30	101805865	Tramore		locality	1
 X91 DP70	101805853	Waterford		locality	1
 X91 EH04	101805853	Waterford		locality	1
-X91 F8PC	1141906513	Waterford		locality	1
+X91 F8PC	101805853	Waterford		locality	1
+X91 FEP4	101805853	Waterford		locality	1
 X91 HH58	101805853	Waterford		locality	1
+X91 HW27	101805853	Waterford		locality	1
+X91 K10E	101805853	Waterford		locality	1
 X91 KN63	101805853	Waterford		locality	1
+X91 KN83	101805853	Waterford		locality	1
+X91 KT29	101805853	Waterford		locality	1
 X91 PD8P	101805853	Waterford		locality	1
 X91 PX96	101805865	Tramore		locality	1
 X91 R252	101805853	Waterford		locality	1
+X91 TW35	101805853	Waterford		locality	1
+X91 VP20	101805853	Waterford		locality	1
+X91 VW74	101805865	Tramore		locality	1
+X91 VXEO	101805853	Waterford		locality	1
 X91 W1WD	101805853	Waterford		locality	1
-Y21 D560	101803607	Enniscorthy		locality	1
+X91 W866	101805853	Waterford		locality	1
+X91 X4XD	101805853	Waterford		locality	1
+X91 XH5R	101805853	Waterford		locality	1
+X91 XK35	101805865	Tramore		locality	1
+X91 Y300	101805865	Tramore		locality	1
+X91 YA2H	101805853	Waterford		locality	1
+X91HD52	101805853	Waterford		locality	1
+X91R6CA	1344194247	Butlerstown		locality	1
+Y14 F308	1209251337	Shillelagh		locality	1
 Y21 H972	101803607	Enniscorthy		locality	1
 Y21 N524	101803607	Enniscorthy		locality	1
 Y21 R257	101803607	Enniscorthy		locality	1
 Y21 T2F4	101803607	Enniscorthy		locality	1
+Y21 TW82	1259719977	Bree		locality	1
 Y21 V627	101803607	Enniscorthy		locality	1
 Y21 Y183	101803607	Enniscorthy		locality	1
 Y34 A728	101805937	New Ross		locality	1
@@ -441,32 +1136,60 @@ Y34 CC60	101805937	New Ross		locality	1
 Y34 CF64	101805937	New Ross		locality	1
 Y34 CF66	101805937	New Ross		locality	1
 Y34 CX94	101805937	New Ross		locality	1
+Y34 DK73	101805937	New Ross		locality	1
 Y34 N677	101805937	New Ross		locality	1
 Y34 NH72	101805937	New Ross		locality	1
 Y34 NW56	101805937	New Ross		locality	1
 Y34 PD37	101805937	New Ross		locality	1
 Y34 R297	101805937	New Ross		locality	1
+Y34 X940	101805937	New Ross		locality	1
 Y34 XN32	101805937	New Ross		locality	1
 Y34 XT89	101805937	New Ross		locality	1
+Y35 AH33	1125822923	Wexford		locality	1
 Y35 AY20	1125822923	Wexford		locality	1
 Y35 CC62	1125822923	Wexford		locality	1
 Y35 CD60	1125822923	Wexford		locality	1
-Y35 CY80	101805941	Wexford		locality	1
+Y35 CH60	1125822923	Wexford		locality	1
+Y35 CY80	1210050319	Barntown		locality	1
+Y35 CYD2	101805941	Wexford		locality	1
+Y35 D23C	1125822923	Wexford		locality	1
+Y35 DF43	101805941	Wexford		locality	1
+Y35 DF78	1125822923	Wexford		locality	1
+Y35 E2P3	101805943	Rosslare		locality	1
+Y35 E6TR	1125822923	Wexford		locality	1
+Y35 E77E	1125822923	Wexford		locality	1
+Y35 EPH0	101805941	Wexford		locality	1
+Y35 FW6K	101805941	Wexford		locality	1
 Y35 HK22	1125822923	Wexford		locality	1
 Y35 K832	1125822923	Wexford		locality	1
-Y35 V0HA	101805941	Wexford		locality	1
-Y35 WY93	101805941	Wexford		locality	1
+Y35 N970	101805941	Wexford		locality	1
+Y35 PF83	1125822923	Wexford		locality	1
+Y35 PX88	1125822923	Wexford		locality	1
+Y35 T320	1309940545	Castlebridge		locality	1
+Y35 V58W	1276586383	Clonard		locality	1
+Y35 WT28	101805941	Wexford		locality	1
 Y35 X313	101805941	Wexford		locality	1
 Y35 XN96	1125822923	Wexford		locality	1
 Y35 XV80	1125822923	Wexford		locality	1
+Y35 Y184	1125822923	Wexford		locality	1
+Y35 Y840	1125822923	Wexford		locality	1
+Y35XD78	101805941	Wexford		locality	1
 Y35XD95	101805941	Wexford		locality	1
+Y35XY24	1309940545	Castlebridge		locality	1
 d09 f6x0	101751737	Dublin		locality	1
-h91 kp49	1125779437	Moycullen		locality	1
+f94a3nr	1125948931	Kilcar		locality	1
 p12 wk38	101803605	Macroom		locality	1
-2	101751737	Dublin		locality	5
-4	101751737	Dublin		locality	4
+p67av27	1125940561	Kildorrery		locality	1
+t12 a436	101751727	Cork		locality	1
+w23k5d0	101753085	Leixlip		locality	1
+1	101751737	Dublin		locality	1
+2	101751737	Dublin		locality	4
+4	101751737	Dublin		locality	8
 8	101751737	Dublin		locality	1
-12	101751737	Dublin		locality	1
+9	101751737	Dublin		locality	69
+12	101751737	Dublin		locality	2
 16	101751737	Dublin		locality	1
 17	101751737	Dublin		locality	5
-22	101751737	Dublin		locality	2
+22	101751737	Dublin		locality	3
+23 P270	1243300061	Ballyvolane		locality	1
+24	101751737	Dublin		locality	32

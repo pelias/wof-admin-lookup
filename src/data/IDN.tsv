@@ -1,60 +1,84 @@
+000	1327038169	Banjar Badung		locality	2
+0000	102020583	Denpasar		locality	2
+0000	102018893	Tabanan		locality	2
 0	102020547	Ende		locality	1
 0	102019807	Maumere		locality	1
-Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
+0	102019983	Letung		locality	1
+0000	102020151	Klungkung		locality	1
+00000000	102020583	Denpasar		locality	1
 ‎15414	102018849	Tangerang		locality	1
+1	102020435	DKI Jakarta		locality	1
+1	1276601603	South Tangerang		locality	1
 0343	102019503	Pasuruan		locality	2
 00362	102022143	Bali		locality	1
 1234	102020785	Bukittinggi		locality	1
+1325	102019633	Padang		locality	1
 1750	890499345	Pekayon		locality	1
+2011	102018433	Medan		locality	1
+2161	1209673199	Lasi		locality	1
+2326	102019475	Pekanbaru		locality	3
+2345	102019475	Pekanbaru		locality	4
 2435	102018443	Lhokseumawe		locality	1
+2456	102019475	Pekanbaru		locality	1
+2567	102019475	Pekanbaru		locality	1
 2821	1125783403	Pekanbaru		locality	1
+2893	102019475	Pekanbaru		locality	3
+08456	890495369	Canggu		locality	1
 8500	102021397	Kupang		locality	2
-10110	102020435	DKI Jakarta		locality	10
-10110	102021905	Jakarta		locality	9
-10120	102021905	Jakarta		locality	15
-10120	102020435	DKI Jakarta		locality	1
-10130	102021905	Jakarta		locality	13
-10130	102020435	DKI Jakarta		locality	5
+10110	102020435	DKI Jakarta		locality	17
+10110	102021905	Jakarta		locality	4
+10120	102021905	Jakarta		locality	13
+10120	102020435	DKI Jakarta		locality	3
+10130	102021905	Jakarta		locality	11
+10130	102020435	DKI Jakarta		locality	7
 10150	102021905	Jakarta		locality	4
-10150	102020435	DKI Jakarta		locality	2
-10160	102021905	Jakarta		locality	6
-10160	102020435	DKI Jakarta		locality	4
-10210	102020435	DKI Jakarta		locality	15
-10210	102021905	Jakarta		locality	1
-10220	102021905	Jakarta		locality	12
-10220	102020435	DKI Jakarta		locality	4
-10230	102021905	Jakarta		locality	6
+10150	102020435	DKI Jakarta		locality	3
+10150	1276252583	Jakarta Pusat		locality	3
+10160	102021905	Jakarta		locality	5
+10160	102020435	DKI Jakarta		locality	5
+10160	1276252583	Jakarta Pusat		locality	1
+10210	102021905	Jakarta		locality	14
+10210	102020435	DKI Jakarta		locality	3
+10220	102020435	DKI Jakarta		locality	16
+10220	102021905	Jakarta		locality	10
+10230	102021905	Jakarta		locality	4
 10230	102020435	DKI Jakarta		locality	2
 10240	102021905	Jakarta		locality	4
 10240	102020435	DKI Jakarta		locality	1
 10250	102021905	Jakarta		locality	1
 10250	102020435	DKI Jakarta		locality	1
 10260	102020435	DKI Jakarta		locality	4
-10260	102021905	Jakarta		locality	1
-10270	102020435	DKI Jakarta		locality	15
-10270	102021905	Jakarta		locality	3
-10310	102021905	Jakarta		locality	24
-10310	102020435	DKI Jakarta		locality	5
-10320	102021905	Jakarta		locality	6
-10320	102020435	DKI Jakarta		locality	3
-10330	102021905	Jakarta		locality	13
-10330	102020435	DKI Jakarta		locality	4
-10340	102021905	Jakarta		locality	19
-10340	102020435	DKI Jakarta		locality	7
+10260	1276252583	Jakarta Pusat		locality	2
+10270	102020435	DKI Jakarta		locality	13
+10270	1276252583	Jakarta Pusat		locality	3
+10310	102021905	Jakarta		locality	22
+10310	1276252583	Jakarta Pusat		locality	21
+10310	102020435	DKI Jakarta		locality	7
+10310	1193275577	Matramandalam		locality	1
+10310	1226575577	Menteng		locality	1
+10320	102021905	Jakarta		locality	8
+10320	102020435	DKI Jakarta		locality	4
+10330	102021905	Jakarta		locality	11
+10330	102020435	DKI Jakarta		locality	6
+10330	1226575577	Menteng		locality	3
+10340	102021905	Jakarta		locality	16
+10340	102020435	DKI Jakarta		locality	10
+10340	1226575577	Menteng		locality	1
 10350	102021905	Jakarta		locality	15
-10350	102020435	DKI Jakarta		locality	1
+10350	102020435	DKI Jakarta		locality	3
 10350	102020583	Denpasar		locality	1
+10350	1226575577	Menteng		locality	1
 10410	102021905	Jakarta		locality	3
-10420	102021905	Jakarta		locality	1
+10420	102021905	Jakarta		locality	2
 10430	102020435	DKI Jakarta		locality	9
 10430	102021905	Jakarta		locality	1
 10440	102020435	DKI Jakarta		locality	4
-10440	102021905	Jakarta		locality	3
-10450	102020435	DKI Jakarta		locality	4
+10440	102021905	Jakarta		locality	2
+10450	102020435	DKI Jakarta		locality	5
 10450	102021905	Jakarta		locality	2
-10510	102021905	Jakarta		locality	6
-10510	102020435	DKI Jakarta		locality	2
-10520	102021905	Jakarta		locality	2
+10510	102021905	Jakarta		locality	5
+10510	102020435	DKI Jakarta		locality	3
+10520	102021905	Jakarta		locality	3
 10520	102020435	DKI Jakarta		locality	1
 10530	102021905	Jakarta		locality	1
 10540	102021905	Jakarta		locality	1
@@ -68,62 +92,72 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 10630	102020435	DKI Jakarta		locality	1
 10640	102020435	DKI Jakarta		locality	6
 10640	102021905	Jakarta		locality	3
-10710	102021905	Jakarta		locality	16
+10710	102021905	Jakarta		locality	14
 10710	102020435	DKI Jakarta		locality	8
 10720	102021905	Jakarta		locality	5
 10720	102020435	DKI Jakarta		locality	3
-10730	102020435	DKI Jakarta		locality	3
-10730	102021905	Jakarta		locality	2
-10730	890499507	Sawah		locality	1
+10730	102020435	DKI Jakarta		locality	5
+10730	102021905	Jakarta		locality	3
 10740	102021905	Jakarta		locality	1
 10740	102020435	DKI Jakarta		locality	1
 10750	102021905	Jakarta		locality	2
-11066	102020435	DKI Jakarta		locality	1
-11110	102021905	Jakarta		locality	7
+11110	102021905	Jakarta		locality	4
+11110	102020133	Kota		locality	1
+11110	1327117049	Taman Sari		locality	1
 11120	102020435	DKI Jakarta		locality	2
-11130	102021905	Jakarta		locality	2
+11120	102021905	Jakarta		locality	1
+11130	102020133	Kota		locality	2
+11130	102020435	DKI Jakarta		locality	1
+11130	102021905	Jakarta		locality	1
+11140	102020435	DKI Jakarta		locality	2
 11140	102021905	Jakarta		locality	1
-11150	102021905	Jakarta		locality	5
+11150	102021905	Jakarta		locality	4
 11150	102020435	DKI Jakarta		locality	1
 11151	102018849	Tangerang		locality	1
 11160	102021905	Jakarta		locality	5
 11170	102021905	Jakarta		locality	4
-11180	102021905	Jakarta		locality	11
+11180	102021905	Jakarta		locality	12
+11180	1276252583	Jakarta Pusat		locality	1
 11240	102020435	DKI Jakarta		locality	1
 11250	102021905	Jakarta		locality	1
 11260	102020435	DKI Jakarta		locality	1
 11320	102021905	Jakarta		locality	2
-11410	102020435	DKI Jakarta		locality	5
+11410	102021905	Jakarta		locality	5
+11410	102020435	DKI Jakarta		locality	1
 11420	102020435	DKI Jakarta		locality	3
 11420	102020215	Kemanggisan		locality	1
 11430	102020435	DKI Jakarta		locality	1
 11440	102021905	Jakarta		locality	3
-11440	102020435	DKI Jakarta		locality	1
-11450	102021905	Jakarta		locality	7
+11440	102020435	DKI Jakarta		locality	2
+11450	102020435	DKI Jakarta		locality	6
+11450	102021905	Jakarta		locality	1
 11460	102020435	DKI Jakarta		locality	3
-11470	102020435	DKI Jakarta		locality	18
+11470	102020435	DKI Jakarta		locality	16
 11470	102020489	Grogol		locality	1
-11480	102020435	DKI Jakarta		locality	8
-11480	102021905	Jakarta		locality	1
+11470	1276252583	Jakarta Pusat		locality	1
+11480	102020435	DKI Jakarta		locality	9
+11480	1276252583	Jakarta Pusat		locality	1
 11510	102020435	DKI Jakarta		locality	8
 11510	102020237	Kebonjeruk		locality	1
+11510	1343359073	Kedoya Selatan		locality	1
 11513	102018849	Tangerang		locality	1
 11520	102020435	DKI Jakarta		locality	5
-11530	102020435	DKI Jakarta		locality	15
+11530	102020435	DKI Jakarta		locality	23
 11530	102020213	Kembangan		locality	1
 11540	102020435	DKI Jakarta		locality	1
 11550	102020435	DKI Jakarta		locality	1
 11550.	102020435	DKI Jakarta		locality	1
+11560	102020435	DKI Jakarta		locality	1
 11610	102020435	DKI Jakarta		locality	14
 11610	102020213	Kembangan		locality	2
-11620	102020435	DKI Jakarta		locality	10
+11620	102020435	DKI Jakarta		locality	11
 11620	102020213	Kembangan		locality	1
-11630	102020435	DKI Jakarta		locality	1
+11630	102020435	DKI Jakarta		locality	2
 11640	102020435	DKI Jakarta		locality	2
 11650	102020435	DKI Jakarta		locality	4
 11710	102021905	Jakarta		locality	1
 11720	102020435	DKI Jakarta		locality	2
-11730	102020435	DKI Jakarta		locality	31
+11730	102020435	DKI Jakarta		locality	30
 11740	102020435	DKI Jakarta		locality	5
 11750	102020435	DKI Jakarta		locality	1
 11810	102020435	DKI Jakarta		locality	3
@@ -131,40 +165,48 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 11830	102020435	DKI Jakarta		locality	1
 11840	102020435	DKI Jakarta		locality	9
 11840	102021905	Jakarta		locality	1
+11850	102020435	DKI Jakarta		locality	1
 12110	102020435	DKI Jakarta		locality	2
 12110	102020241	Kebayoran Baru		locality	1
-12120	102020435	DKI Jakarta		locality	1
+12120	102020435	DKI Jakarta		locality	3
 12130	102020435	DKI Jakarta		locality	13
 12130	102021905	Jakarta		locality	2
 12140	102020435	DKI Jakarta		locality	5
-12150	102020435	DKI Jakarta		locality	6
-12150	102021905	Jakarta		locality	1
-12160	102020435	DKI Jakarta		locality	24
+12140	1293686651	Kampung Baru		locality	2
+12150	102020435	DKI Jakarta		locality	5
+12160	102020435	DKI Jakarta		locality	21
+12160	1293686651	Kampung Baru		locality	1
 12160	102020241	Kebayoran Baru		locality	1
 12170	102020435	DKI Jakarta		locality	1
-12180	102020435	DKI Jakarta		locality	5
-12190	102020435	DKI Jakarta		locality	46
+12180	102020435	DKI Jakarta		locality	4
+12190	102020435	DKI Jakarta		locality	44
 12210	102020435	DKI Jakarta		locality	6
 12220	102020435	DKI Jakarta		locality	2
 12230	102020435	DKI Jakarta		locality	3
-12240	102020435	DKI Jakarta		locality	9
+12240	102020435	DKI Jakarta		locality	8
 12270	102020435	DKI Jakarta		locality	1
-12310	102020435	DKI Jakarta		locality	6
-12310	102021535	Banten		locality	1
-12320	102020435	DKI Jakarta		locality	2
+12310	102020435	DKI Jakarta		locality	8
+12310	1293928977	Banten		locality	1
+12320	102020435	DKI Jakarta		locality	1
 12330	102020435	DKI Jakarta		locality	3
-12330	102018849	Tangerang		locality	2
+12330	1226549545	Aren		locality	1
+12330	102018849	Tangerang		locality	1
+12330	1276601603	South Tangerang		locality	1
+12345	1125783403	Pekanbaru		locality	2
 12410	102020435	DKI Jakarta		locality	3
+12410	1293686651	Kampung Baru		locality	1
 12420	102020435	DKI Jakarta		locality	5
-12430	102020435	DKI Jakarta		locality	12
+12430	102020435	DKI Jakarta		locality	11
 12440	102020435	DKI Jakarta		locality	5
 12450	102020435	DKI Jakarta		locality	3
 12450	102021337	Cilandak		locality	1
 12510	102020435	DKI Jakarta		locality	4
-12520	102020435	DKI Jakarta		locality	7
+12520	102020435	DKI Jakarta		locality	9
+12520	890499287	Citayam		locality	1
 12530	102020435	DKI Jakarta		locality	2
+12540	1259382687	Jati		locality	1
 12540	102020435	DKI Jakarta		locality	1
-12550	102020435	DKI Jakarta		locality	8
+12550	102020435	DKI Jakarta		locality	9
 12550	102020217	Kemang		locality	1
 12560	102020435	DKI Jakarta		locality	4
 12610	102020435	DKI Jakarta		locality	1
@@ -174,10 +216,10 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 12640	102020435	DKI Jakarta		locality	1
 12710	102020435	DKI Jakarta		locality	8
 12720	102020435	DKI Jakarta		locality	1
-12730	102020435	DKI Jakarta		locality	14
+12730	102020435	DKI Jakarta		locality	15
 12730	102019875	Mampang		locality	2
 12740	102020435	DKI Jakarta		locality	8
-12740	102021905	Jakarta		locality	5
+12740	102021905	Jakarta		locality	4
 12740	102019579	Pancoran		locality	1
 12750	102021905	Jakarta		locality	3
 12760	102020435	DKI Jakarta		locality	3
@@ -185,10 +227,12 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 12770	102021905	Jakarta		locality	2
 12780	102021905	Jakarta		locality	9
 12780	102020435	DKI Jakarta		locality	1
-12790	102020435	DKI Jakarta		locality	12
-12810	102021905	Jakarta		locality	16
+12790	102021905	Jakarta		locality	13
+12790	102020435	DKI Jakarta		locality	2
+12810	102021905	Jakarta		locality	17
 12810	102020435	DKI Jakarta		locality	4
 12820	102021905	Jakarta		locality	6
+12820	1276172519	Tebet		locality	2
 12830	102020435	DKI Jakarta		locality	3
 12830	102021905	Jakarta		locality	3
 12850	102020435	DKI Jakarta		locality	3
@@ -196,56 +240,63 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 12860	102020435	DKI Jakarta		locality	1
 12860	102021905	Jakarta		locality	1
 12870	102021905	Jakarta		locality	11
-12870	102020435	DKI Jakarta		locality	3
-12910	102021905	Jakarta		locality	23
-12910	102020435	DKI Jakarta		locality	6
-12920	102021905	Jakarta		locality	17
-12920	102020435	DKI Jakarta		locality	12
+12870	102020435	DKI Jakarta		locality	4
+12910	102021905	Jakarta		locality	16
+12910	102020435	DKI Jakarta		locality	11
+12920	102020435	DKI Jakarta		locality	18
+12920	102021905	Jakarta		locality	15
 12920	102020393	West Java		locality	1
-12929	102020435	DKI Jakarta		locality	1
-12930	102020435	DKI Jakarta		locality	8
-12940	102021905	Jakarta		locality	12
-12940	102020435	DKI Jakarta		locality	9
-12950	102020435	DKI Jakarta		locality	16
-12950	102021905	Jakarta		locality	6
+12930	102020435	DKI Jakarta		locality	10
+12940	102020435	DKI Jakarta		locality	16
+12940	102021905	Jakarta		locality	11
+12950	102020435	DKI Jakarta		locality	27
+12950	102021905	Jakarta		locality	5
 12950	102018849	Tangerang		locality	1
 12960	102020435	DKI Jakarta		locality	2
 12960	102021905	Jakarta		locality	2
 12970	102020435	DKI Jakarta		locality	2
+12970	102021905	Jakarta		locality	2
 12980	102020435	DKI Jakarta		locality	2
-12980	102021905	Jakarta		locality	1
-13110	102020435	DKI Jakarta		locality	7
+12980	102021905	Jakarta		locality	2
+13110	102020435	DKI Jakarta		locality	8
+13110	102021905	Jakarta		locality	1
 13120	102020435	DKI Jakarta		locality	3
-13140	102021905	Jakarta		locality	2
+13130	102020435	DKI Jakarta		locality	1
+13140	102021905	Jakarta		locality	1
 13150	102020435	DKI Jakarta		locality	2
 13150	102021905	Jakarta		locality	1
+13150	102021485	Semarang		locality	1
 13210	102020435	DKI Jakarta		locality	2
 13210	102021905	Jakarta		locality	2
-13220	102021905	Jakarta		locality	9
-13220	102020435	DKI Jakarta		locality	8
+13220	102021905	Jakarta		locality	13
+13220	102020435	DKI Jakarta		locality	10
+13220	1276252585	Pulo		locality	1
 13230	102020435	DKI Jakarta		locality	3
 13230	102021905	Jakarta		locality	1
 13240	102021905	Jakarta		locality	2
 13250	102020435	DKI Jakarta		locality	2
 13250	102021905	Jakarta		locality	1
-13260	102021905	Jakarta		locality	3
+13260	102021905	Jakarta		locality	4
 13260	102020435	DKI Jakarta		locality	2
 13310	102020435	DKI Jakarta		locality	2
 13310	102021905	Jakarta		locality	2
 13320	102020435	DKI Jakarta		locality	1
 13330	102021905	Jakarta		locality	5
 13330	102020435	DKI Jakarta		locality	1
-13340	102021905	Jakarta		locality	3
-13340	102020407	Jatinegara		locality	2
+13340	102021905	Jakarta		locality	4
+13340	1343285435	Jatinegara		locality	2
 13340	102020435	DKI Jakarta		locality	1
-13350	102021905	Jakarta		locality	1
-13410	102020435	DKI Jakarta		locality	2
+13350	102021905	Jakarta		locality	2
+13350	102020435	DKI Jakarta		locality	1
+13355	102019633	Padang		locality	3
+13410	102020435	DKI Jakarta		locality	3
+13420	102020435	DKI Jakarta		locality	1
 13420	102021905	Jakarta		locality	1
-13430	102021905	Jakarta		locality	2
+13430	102021905	Jakarta		locality	5
 13440	102021905	Jakarta		locality	7
-13440	102020435	DKI Jakarta		locality	4
+13440	102020435	DKI Jakarta		locality	5
+13450	102020435	DKI Jakarta		locality	2
 13450	102021905	Jakarta		locality	2
-13450	102020435	DKI Jakarta		locality	1
 13450	102020393	West Java		locality	1
 13460	102020435	DKI Jakarta		locality	4
 13460	102021905	Jakarta		locality	2
@@ -256,7 +307,7 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 13520	102020435	DKI Jakarta		locality	2
 13520	102021905	Jakarta		locality	1
 13530	102020435	DKI Jakarta		locality	2
-13540	102020435	DKI Jakarta		locality	4
+13540	102020435	DKI Jakarta		locality	5
 13560	102021905	Jakarta		locality	4
 13560	102020435	DKI Jakarta		locality	3
 13610	102020435	DKI Jakarta		locality	3
@@ -269,182 +320,228 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 13640	102021905	Jakarta		locality	1
 13650	102021905	Jakarta		locality	3
 13650	102020435	DKI Jakarta		locality	1
+13710	102020435	DKI Jakarta		locality	1
 13710	102020393	West Java		locality	1
-13720	102021905	Jakarta		locality	4
+13720	102021905	Jakarta		locality	5
 13730	102020393	West Java		locality	1
-13740	102020435	DKI Jakarta		locality	1
+13740	102020435	DKI Jakarta		locality	2
 13760	102021905	Jakarta		locality	1
 13770	102020435	DKI Jakarta		locality	3
 13790	102020435	DKI Jakarta		locality	1
 13810	102020435	DKI Jakarta		locality	2
 13810	102021189	Cipayung		locality	1
 13820	102021905	Jakarta		locality	1
-13840	102021535	Banten		locality	1
+13830	1226005103	Rambutan		locality	15
+13840	1293928977	Banten		locality	1
 13840	102020435	DKI Jakarta		locality	1
 13850	102020435	DKI Jakarta		locality	1
 13850	102021905	Jakarta		locality	1
 13880	102021905	Jakarta		locality	2
 13910	102021905	Jakarta		locality	4
 13910	102020435	DKI Jakarta		locality	3
-13910	102020407	Jatinegara		locality	1
-13920	102020435	DKI Jakarta		locality	1
+13910	1226782243	Kampunglio		locality	1
+13920	102020435	DKI Jakarta		locality	2
 13930	102021905	Jakarta		locality	2
 13930	102020435	DKI Jakarta		locality	1
 13940	102020435	DKI Jakarta		locality	1
 13940	102021905	Jakarta		locality	1
 13950	102020435	DKI Jakarta		locality	1
+13960	102020435	DKI Jakarta		locality	1
 14120	102020435	DKI Jakarta		locality	2
-14230	102018829	Tanjung Priok		locality	3
-14240	102021905	Jakarta		locality	40
+14220	102020435	DKI Jakarta		locality	1
+14230	102020435	DKI Jakarta		locality	1
+14230	102018829	Tanjung Priok		locality	1
+14240	102021905	Jakarta		locality	42
 14240	102020435	DKI Jakarta		locality	7
+14240	1310250705	Utara		locality	1
 14250	102021905	Jakarta		locality	7
+14260	102020435	DKI Jakarta		locality	4
 14260	102021905	Jakarta		locality	3
 14270	102021905	Jakarta		locality	1
-14310	102020435	DKI Jakarta		locality	1
+14310	102020435	DKI Jakarta		locality	4
 14310	102021905	Jakarta		locality	1
 14320	102021905	Jakarta		locality	3
 14320	102020435	DKI Jakarta		locality	1
-14350	102021905	Jakarta		locality	11
-14350	102020435	DKI Jakarta		locality	7
+14350	102021905	Jakarta		locality	10
+14350	102020435	DKI Jakarta		locality	6
 14350	102018829	Tanjung Priok		locality	1
+14350	102020133	Kota		locality	1
 14360	102021905	Jakarta		locality	1
-14410	102020435	DKI Jakarta		locality	2
+14410	102020435	DKI Jakarta		locality	3
+14410	1276340675	Pademangan Timur		locality	2
+14420	102020435	DKI Jakarta		locality	5
 14420	102021905	Jakarta		locality	1
 14430	102021905	Jakarta		locality	10
-14430	102021071	Ancol		locality	1
 14430	102020435	DKI Jakarta		locality	1
+14430	1276252583	Jakarta Pusat		locality	1
+14430	1327231601	Pademangan Barat		locality	1
 14440	102021905	Jakarta		locality	10
-14440	102020435	DKI Jakarta		locality	2
+14440	102020435	DKI Jakarta		locality	3
 14450	102021905	Jakarta		locality	16
-14450	102020435	DKI Jakarta		locality	2
-14460	102020435	DKI Jakarta		locality	1
-14470	102020435	DKI Jakarta		locality	11
-15000	102021535	Banten		locality	1
-15111	102021535	Banten		locality	2
-15111	102018849	Tangerang		locality	2
+14450	102020435	DKI Jakarta		locality	3
+14450	1293224099	Angke		locality	1
+14460	102020435	DKI Jakarta		locality	3
+14460	1360084855	Kapuk		locality	1
+14470	102020435	DKI Jakarta		locality	12
+15000	1293928977	Banten		locality	1
+15111	102018849	Tangerang		locality	7
+15111	1293928977	Banten		locality	2
 15112	102018849	Tangerang		locality	1
-15113	102021535	Banten		locality	2
+15113	1293928977	Banten		locality	2
 15113	102018849	Tangerang		locality	1
-15115	102021535	Banten		locality	3
-15117	102021535	Banten		locality	5
-15117	102018849	Tangerang		locality	3
-15117	102020393	West Java		locality	2
+15115	1293928977	Banten		locality	3
+15117	1293928977	Banten		locality	4
+15117	102018849	Tangerang		locality	4
+15117	102021535	Banten		locality	1
+15118	1193083141	Babakan		locality	1
+15118	102018849	Tangerang		locality	1
 15119	102018849	Tangerang		locality	1
 15121	102018849	Tangerang		locality	1
-15122	102021535	Banten		locality	2
+15122	1293928977	Banten		locality	2
+15122	102018849	Tangerang		locality	2
 15122	102020435	DKI Jakarta		locality	2
-15122	102018849	Tangerang		locality	1
 15124	890499253	Benda		locality	1
-15125	102021535	Banten		locality	1
-15125	102018849	Tangerang		locality	1
-15126	102021535	Banten		locality	2
+15124	102018849	Tangerang		locality	1
+15125	102018849	Tangerang		locality	4
+15125	1293928977	Banten		locality	1
+15126	1293928977	Banten		locality	2
 15126	102018849	Tangerang		locality	1
 15127	102018849	Tangerang		locality	2
-15129	102021535	Banten		locality	1
+15129	1293928977	Banten		locality	1
 15129	102018849	Tangerang		locality	1
 15131	102019633	Padang		locality	1
-15133	102021535	Banten		locality	2
+15131	102018849	Tangerang		locality	1
+15132	102018849	Tangerang		locality	1
+15133	1293928977	Banten		locality	2
+15135	102018849	Tangerang		locality	2
 15138	102018849	Tangerang		locality	1
-15139	102021535	Banten		locality	1
-15139	102018849	Tangerang		locality	1
+15139	1293928977	Banten		locality	1
+15139	1343807633	Cibodas		locality	1
 15141	102018849	Tangerang		locality	2
 15142	102018849	Tangerang		locality	1
 15143	102018849	Tangerang		locality	2
-15143	102021535	Banten		locality	1
+15143	1293928977	Banten		locality	1
+15143	1276601603	South Tangerang		locality	1
 15144	102018849	Tangerang		locality	2
+15145	1276601603	South Tangerang		locality	1
 15145	102018849	Tangerang		locality	1
 15147	102018849	Tangerang		locality	1
 15148	102018849	Tangerang		locality	1
-15151	102021535	Banten		locality	2
+15151	1293928977	Banten		locality	2
+15151	102018849	Tangerang		locality	1
 15151	102020435	DKI Jakarta		locality	1
 15154	102018849	Tangerang		locality	3
-15154	102021535	Banten		locality	2
+15154	1293928977	Banten		locality	2
 15155	102018849	Tangerang		locality	1
-15156	102021535	Banten		locality	1
-15157	102018849	Tangerang		locality	6
-15157	102021535	Banten		locality	1
-15188	102021535	Banten		locality	1
+15156	1293928977	Banten		locality	1
+15157	102018849	Tangerang		locality	9
+15157	102022581	Karang Mulya		locality	4
+15157	1293928977	Banten		locality	1
+15158	102020277	Karang Tengah		locality	4
+15158	102018849	Tangerang		locality	1
 15211	102020435	DKI Jakarta		locality	2
-15220	102018849	Tangerang		locality	1
-15221	102021535	Banten		locality	1
-15222	102021535	Banten		locality	1
-15223	102021535	Banten		locality	2
+15221	1276601603	South Tangerang		locality	1
+15222	1276601603	South Tangerang		locality	2
+15222	1293928977	Banten		locality	1
+15223	1293928977	Banten		locality	2
 15223	102018849	Tangerang		locality	1
-15224	102021535	Banten		locality	2
-15224	102018849	Tangerang		locality	2
+15224	1276601603	South Tangerang		locality	4
+15224	1293928977	Banten		locality	1
 15224	102020849	Bintaro		locality	1
 15224	102020435	DKI Jakarta		locality	1
-15225	102021535	Banten		locality	1
-15225	102018849	Tangerang		locality	1
-15227	102021535	Banten		locality	2
+15224	102018849	Tangerang		locality	1
+15225	1276601603	South Tangerang		locality	2
+15225	1293928977	Banten		locality	1
+15225	1226549545	Aren		locality	1
+15226	1276601603	South Tangerang		locality	3
+15227	1293928977	Banten		locality	2
+15227	1276601603	South Tangerang		locality	2
+15228	1276601603	South Tangerang		locality	5
+15229	1276601603	South Tangerang		locality	1
 15229	102018849	Tangerang		locality	1
 15235	102018849	Tangerang		locality	2
-15310	102021535	Banten		locality	1
+15310	1293928977	Banten		locality	1
+15310	102018849	Tangerang		locality	1
 15310	102020393	West Java		locality	1
 15311	102018849	Tangerang		locality	2
-15312	102021535	Banten		locality	1
-15313	102021535	Banten		locality	1
-15314	890495155	Setu		locality	19
+15312	1293928977	Banten		locality	1
+15313	1293928977	Banten		locality	1
+15314	1242834819	Setu		locality	19
+15314	102018849	Tangerang		locality	1
 15317	102019081	Serpong		locality	2
+15317	1276601603	South Tangerang		locality	1
 15318	102019081	Serpong		locality	1
 15318	102020393	West Java		locality	1
-15320	102021535	Banten		locality	1
+15320	1293928977	Banten		locality	1
 15321	102018849	Tangerang		locality	1
-15322	102021535	Banten		locality	1
+15321	1276601603	South Tangerang		locality	1
 15322	102019081	Serpong		locality	1
-15324	102018849	Tangerang		locality	1
-15325	102021535	Banten		locality	4
+15324	1276601603	South Tangerang		locality	1
+15325	1293928977	Banten		locality	4
 15325	102018849	Tangerang		locality	2
-15326	102021535	Banten		locality	4
+15325	1276601603	South Tangerang		locality	1
+15326	1293928977	Banten		locality	4
 15326	102019081	Serpong		locality	1
+15326	1276601603	South Tangerang		locality	1
 15326	102018849	Tangerang		locality	1
-15330	102021535	Banten		locality	1
-15332	102021535	Banten		locality	1
-15411	102021535	Banten		locality	3
-15411	102018849	Tangerang		locality	2
-15411	102020393	West Java		locality	2
-15411	102020849	Bintaro		locality	1
-15412	102018849	Tangerang		locality	2
-15412	102021535	Banten		locality	1
+15331	102018849	Tangerang		locality	1
+15332	1293928977	Banten		locality	1
+15411	1293928977	Banten		locality	3
+15411	1276601603	South Tangerang		locality	3
+15411	102018849	Tangerang		locality	1
+15411	102020393	West Java		locality	1
+15412	1276601603	South Tangerang		locality	3
+15412	1293928977	Banten		locality	1
 15412	102021905	Jakarta		locality	1
-15413	102018849	Tangerang		locality	3
+15413	1276601603	South Tangerang		locality	3
+15414	1276601603	South Tangerang		locality	2
 15414	102019173	Serua		locality	1
 15414	102020617	Ciputat		locality	1
-15414	102018849	Tangerang		locality	1
-15416	102021535	Banten		locality	1
+15416	1293928977	Banten		locality	1
+15417	1276601603	South Tangerang		locality	5
 15417	102018849	Tangerang		locality	3
-15417	102021535	Banten		locality	2
+15417	1293928977	Banten		locality	2
 15417	102020581	Depok		locality	1
 15417	102019587	Pamulang		locality	1
-15418	102018849	Tangerang		locality	2
-15418	102021535	Banten		locality	1
-15419	102018849	Tangerang		locality	2
-15419	102021535	Banten		locality	1
-15520	102018849	Tangerang		locality	2
-15520	102021535	Banten		locality	1
-15710	102021535	Banten		locality	3
-15710	102018849	Tangerang		locality	1
-15810	102018849	Tangerang		locality	5
-15810	102021535	Banten		locality	2
+15417	102021905	Jakarta		locality	1
+15418	1276601603	South Tangerang		locality	13
+15418	1293928977	Banten		locality	1
+15418	102018849	Tangerang		locality	1
+15419	1276601603	South Tangerang		locality	2
+15419	1293928977	Banten		locality	1
+15419	102018849	Tangerang		locality	1
+15520	102018849	Tangerang		locality	3
+15520	1293928977	Banten		locality	1
+15710	102018849	Tangerang		locality	10
+15710	1293928977	Banten		locality	3
+15720	102018849	Tangerang		locality	115
+15810	102018849	Tangerang		locality	6
+15810	1293928977	Banten		locality	2
 15810	102020435	DKI Jakarta		locality	1
-15811	102018849	Tangerang		locality	11
+15811	102018849	Tangerang		locality	7
 15811	890499761	Kelapadua		locality	1
+15811	102020275	Karawaci		locality	1
 16113	102020817	Bogor		locality	3
 16114	102020817	Bogor		locality	2
 16117	102020817	Bogor		locality	1
 16119	102020817	Bogor		locality	1
-16122	102020393	West Java		locality	4
-16122	102020817	Bogor		locality	1
-16124	102020393	West Java		locality	3
+16122	102020393	West Java		locality	3
+16122	102020817	Bogor		locality	2
+16124	102020393	West Java		locality	1
 16127	102020817	Bogor		locality	1
+16127	102020393	West Java		locality	1
 16127.	102020393	West Java		locality	1
 16128	102020817	Bogor		locality	1
+16133	102020817	Bogor		locality	3
 16135	102020817	Bogor		locality	1
+16136	102020817	Bogor		locality	2
 16142	102020817	Bogor		locality	2
 16143	102020817	Bogor		locality	1
 16143	102020393	West Java		locality	1
+16144	102020817	Bogor		locality	3
 16144.	102020393	West Java		locality	2
-16152	102020817	Bogor		locality	2
+16151	102020817	Bogor		locality	1
+16152	102020817	Bogor		locality	3
 16153	102020817	Bogor		locality	1
 16153	102020393	West Java		locality	1
 16154	102020817	Bogor		locality	1
@@ -452,80 +549,91 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 16157	102020817	Bogor		locality	1
 16161	102020817	Bogor		locality	2
 16162	102020817	Bogor		locality	9
-16164	102020817	Bogor		locality	1
+16164	1327483157	Kedung		locality	1
 16164	102020393	West Java		locality	1
 16167	102020817	Bogor		locality	1
 16168	102020817	Bogor		locality	2
+16192	102020817	Bogor		locality	2
 16235	102020581	Depok		locality	5
 16235	102021175	Beji		locality	1
 16235	102020393	West Java		locality	1
 16320	102020817	Bogor		locality	2
 16320	102021185	Bojonggede		locality	1
-16330	102020817	Bogor		locality	6
+16330	102020817	Bogor		locality	5
 16340	102020889	Bekasi		locality	16
 16340	102022531	Bogor		locality	1
+16411	102020581	Depok		locality	3
 16411	102020393	West Java		locality	2
-16411	102020581	Depok		locality	1
 16412	102022009	Depok		locality	2
 16412	102020581	Depok		locality	1
 16412	102020393	West Java		locality	1
 16413	102020581	Depok		locality	1
 16414	102022009	Depok		locality	2
-16414	890498577	Cilodong		locality	1
+16414	1242820181	Sukamaju		locality	1
 16415	102022009	Depok		locality	2
 16416	102022009	Depok		locality	1
 16416	102020393	West Java		locality	1
 16418	102022009	Depok		locality	5
 16421	102020581	Depok		locality	10
 16421	102021175	Beji		locality	1
+16422	102020581	Depok		locality	3
 16423	102020581	Depok		locality	2
 16424	102020581	Depok		locality	6
-16424	102020393	West Java		locality	4
-16424	102021175	Beji		locality	1
-16425	102020581	Depok		locality	4
-16430	102020393	West Java		locality	1
+16424	102020393	West Java		locality	5
+16424	102021175	Beji		locality	2
+16425	102020581	Depok		locality	6
+16426	102021175	Beji		locality	1
+16431	102020581	Depok		locality	14
 16431	102020435	DKI Jakarta		locality	12
-16431	102020581	Depok		locality	11
-16431	102020393	West Java		locality	9
+16431	102020393	West Java		locality	7
 16431	102021175	Beji		locality	1
-16432	102020581	Depok		locality	3
+16432	102022009	Depok		locality	3
 16433	102020581	Depok		locality	3
-16434	102020393	West Java		locality	1
+16434	102020581	Depok		locality	1
 16436	102020581	Depok		locality	6
 16436	102020393	West Java		locality	1
-16437	102020581	Depok		locality	1
+16437	102019579	Pancoran		locality	1
 16439	102020581	Depok		locality	2
 16451	102020647	Cimanggis		locality	1
 16451	102022009	Depok		locality	1
+16452	102022009	Depok		locality	3
 16452	102022531	Bogor		locality	1
-16453	102022009	Depok		locality	1
+16453	1276495723	Tugu		locality	1
 16454	102022009	Depok		locality	2
 16458	102020647	Cimanggis		locality	1
 16458	102022009	Depok		locality	1
 16511	102020581	Depok		locality	1
-16512	102020581	Depok		locality	3
+16512	102020581	Depok		locality	6
 16514	102020581	Depok		locality	5
 16514	102020393	West Java		locality	2
 16515	102020581	Depok		locality	6
 16516	102020581	Depok		locality	3
+16517	1310447765	Bojongsari		locality	1
 16517	102020581	Depok		locality	1
 16518	102020581	Depok		locality	23
 16518	102020817	Bogor		locality	1
+16518	1225994239	Pengasinan		locality	1
+16519	102020581	Depok		locality	1
+16547	102019475	Pekanbaru		locality	1
+16551	102018849	Tangerang		locality	1
+16610	102020817	Bogor		locality	3
 16620	102020817	Bogor		locality	2
 16680	102020817	Bogor		locality	4
 16710	102020393	West Java		locality	1
 16720	102020817	Bogor		locality	3
-16750	102020817	Bogor		locality	2
+16750	102020817	Bogor		locality	4
 16750	102020393	West Java		locality	1
 16810	102020817	Bogor		locality	3
-16820	102020655	Cileungsi		locality	9
+16820	102020655	Cileungsi		locality	8
 16820	102022531	Bogor		locality	2
 16820	102020393	West Java		locality	1
-16911	102020689	Cibinong		locality	1
-16914	890498927	Rajeg		locality	2
+16830	1276937095	Sukamakmur		locality	5
+16911	102020689	Cibinong		locality	2
+16913	102020817	Bogor		locality	1
+16914	1326575765	Rajeg		locality	2
 16915	102020689	Cibinong		locality	1
 16917	102020817	Bogor		locality	1
-16922	102020393	West Java		locality	1
+16922	102020815	Bogor		locality	1
 16941	102022009	Depok		locality	1
 16951	102022009	Depok		locality	3
 16951	102020393	West Java		locality	1
@@ -536,63 +644,80 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 16969	102020393	West Java		locality	1
 17111	102020889	Bekasi		locality	2
 17112	102020889	Bekasi		locality	5
-17113	102020889	Bekasi		locality	3
+17113	102020889	Bekasi		locality	6
+17113	1226490881	Baratjaya		locality	1
+17113	1209066455	Timur		locality	1
 17113	102020393	West Java		locality	1
-17114	102020889	Bekasi		locality	14
+17114	102020889	Bekasi		locality	22
 17115	102020889	Bekasi		locality	2
 17116	102020889	Bekasi		locality	1
-17121	102020889	Bekasi		locality	4
-17122	102020889	Bekasi		locality	1
-17123	102020889	Bekasi		locality	2
+17117	102020889	Bekasi		locality	1
+17121	102020889	Bekasi		locality	3
+17122	1310250705	Utara		locality	1
+17123	102020889	Bekasi		locality	1
 17124	102020889	Bekasi		locality	2
 17125	102020889	Bekasi		locality	1
 17131	102020889	Bekasi		locality	2
 17132	102020889	Bekasi		locality	4
 17132	102020393	West Java		locality	1
-17134	102020889	Bekasi		locality	2
+17134	102020889	Bekasi		locality	3
 17134	102020393	West Java		locality	1
 17135	102020889	Bekasi		locality	2
+17135	1226490881	Baratjaya		locality	1
 17136	102020393	West Java		locality	2
-17141	102020393	West Java		locality	3
+17141	102020393	West Java		locality	2
 17141	102020889	Bekasi		locality	1
 17142	102020393	West Java		locality	4
 17143	102020393	West Java		locality	2
-17144	102020393	West Java		locality	6
+17144	102020393	West Java		locality	4
 17144	102020889	Bekasi		locality	1
+17144	1293635615	Barat		locality	1
 17145	102020889	Bekasi		locality	4
-17147	102020889	Bekasi		locality	3
+17147	102020889	Bekasi		locality	4
 17147	102020393	West Java		locality	1
 17148	102020889	Bekasi		locality	5
 17148	102020393	West Java		locality	5
-17151	102020889	Bekasi		locality	1
+17151	102020889	Bekasi		locality	2
 17155	102020889	Bekasi		locality	1
 17155	102020393	West Java		locality	1
 17156	102020889	Bekasi		locality	3
+17157	102018863	Tambun Selatan		locality	1
+17158	102020889	Bekasi		locality	1
 17181	102020889	Bekasi		locality	1
 17215	102020889	Bekasi		locality	1
-17411	102020889	Bekasi		locality	3
+17218	102020889	Bekasi		locality	1
+17330	102020889	Bekasi		locality	2
+17411	102020889	Bekasi		locality	5
 17411	102021905	Jakarta		locality	1
-17411	102020393	West Java		locality	1
 17412	102020889	Bekasi		locality	1
-17413	102020889	Bekasi		locality	1
-17414	102020889	Bekasi		locality	3
+17413	102020889	Bekasi		locality	3
+17414	102020889	Bekasi		locality	2
 17414	102020393	West Java		locality	1
-17415	102020889	Bekasi		locality	3
-17422	102020889	Bekasi		locality	1
+17415	102020889	Bekasi		locality	2
+17416	102020889	Bekasi		locality	10
+17421	102020889	Bekasi		locality	1
 17423	102020889	Bekasi		locality	4
 17423	102020393	West Java		locality	1
-17424	102021343	Jatiasih		locality	4
+17424	102021343	Jatiasih		locality	3
+17426	102020889	Bekasi		locality	2
+17431	102020889	Bekasi		locality	1
 17432	102020889	Bekasi		locality	2
-17433	102020889	Bekasi		locality	1
+17433	102020889	Bekasi		locality	2
 17433	102020393	West Java		locality	1
 17435	102020889	Bekasi		locality	2
 17435	102020393	West Java		locality	2
-17510	102020889	Bekasi		locality	5
+17510	102020889	Bekasi		locality	8
+17510	1209066455	Timur		locality	1
+17510	1243599405	Lambangsari		locality	1
 17510	102018865	Tambun		locality	1
 17510	102020393	West Java		locality	1
 17520	102020889	Bekasi		locality	1
 17520	102021909	Cikarang		locality	1
-17530	102020889	Bekasi		locality	5
+17530	102020889	Bekasi		locality	6
+17530	1226490881	Baratjaya		locality	2
+17530	102020669	Cikarang		locality	1
+17530	102020133	Kota		locality	1
+17530	102021909	Cikarang		locality	1
 17550	102020889	Bekasi		locality	4
 17581	102020889	Bekasi		locality	1
 17705	102021905	Jakarta		locality	1
@@ -601,13 +726,16 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 20112	102018433	Medan		locality	11
 20113	102018433	Medan		locality	1
 20114	102018433	Medan		locality	2
+20116	102018433	Medan		locality	2
 20118	102018433	Medan		locality	1
 20119	102018433	Medan		locality	1
 20122	102018433	Medan		locality	3
 20123	102018433	Medan		locality	3
-20132	102018433	Medan		locality	1
+20132	102018433	Medan		locality	3
+20135	1209883109	Simpang Selayang		locality	1
 20143	102018433	Medan		locality	2
 20147	102018433	Medan		locality	5
+20148	102018433	Medan		locality	1
 20151	102018433	Medan		locality	4
 20152	102018433	Medan		locality	8
 20155	102018433	Medan		locality	1
@@ -615,75 +743,132 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 20211	102018433	Medan		locality	1
 20212	102018433	Medan		locality	4
 20213	102018433	Medan		locality	2
-20214	102018433	Medan		locality	2
+20214	102018433	Medan		locality	4
 20215	102018433	Medan		locality	1
 20216	102018433	Medan		locality	3
 20219	102018433	Medan		locality	1
+20221	102018433	Medan		locality	1
 20222	102018433	Medan		locality	3
 20224	102018433	Medan		locality	1
+20226	102018433	Medan		locality	1
 20227	102018433	Medan		locality	1
+20228	102018433	Medan		locality	7
+20232	102018433	Medan		locality	1
 20233	102018433	Medan		locality	2
 20234	102018433	Medan		locality	3
 20236	102018433	Medan		locality	1
 20238	102018433	Medan		locality	1
-20353	102018403	Pancur Batu		locality	3
+20253	102018433	Medan		locality	1
+20353	1209170811	Pancurbatu		locality	26
+20353	102018403	Pancur Batu		locality	7
+20353	1276994879	Durin		locality	3
+20353	1260136707	Pertampilan		locality	1
+20362	102022653	Deli Serdang		locality	1
 20362	102018433	Medan		locality	1
-20371	102018433	Medan		locality	2
+20371	102018433	Medan		locality	3
 20411	102018433	Medan		locality	1
+20711	102018523	Binjai		locality	1
 20774	102018513	Bohorok		locality	1
+20774	1276551053	Lawang		locality	1
+20811	1226805761	Stabat		locality	1
 21222	102018433	Medan		locality	1
+21362	102021675	Tanjung Balai		locality	1
+21367	102021675	Tanjung Balai		locality	1
 21411	102022657	Rantau Prapat		locality	1
+22152	102018311	North Sumatra		locality	2
+22161	1293656287	Munte		locality	8
+22211	102018337	Sidikalang		locality	1
+22392	1360094793	Pangururan		locality	3
+22395	1360094793	Pangururan		locality	2
+22700	1125782765	Padang Sidempuan		locality	1
 22715	102018407	Padang Sidempuan		locality	1
 22718	102018407	Padang Sidempuan		locality	1
-22722	102018407	Padang Sidempuan		locality	1
+22719	102018407	Padang Sidempuan		locality	1
+22722	1310172373	Padang Sidempuan		locality	1
 22723	102018407	Padang Sidempuan		locality	3
-22725	1125782765	Padang Sidempuan		locality	6
-22852	1125837143	Gunungsitoli		locality	2
+22725	1310172373	Padang Sidempuan		locality	6
 22919	102018389	Panyabungan		locality	1
 23111	102018543	Banda Aceh		locality	4
+23111	1260185999	Darussalam		locality	1
+23114	1293496883	Jeulingke		locality	1
 23116	102018543	Banda Aceh		locality	2
 23123	102018543	Banda Aceh		locality	1
 23126	102018543	Banda Aceh		locality	1
 23231	102018543	Banda Aceh		locality	2
-24351	102018443	Lhokseumawe		locality	15
+23352	102018557	Aceh Besar		locality	1
+23374	102018557	Aceh Besar		locality	1
+23455	102019475	Pekanbaru		locality	1
+23456	1125783403	Pekanbaru		locality	1
+23457	1125783403	Pekanbaru		locality	1
+23567	102019475	Pekanbaru		locality	4
+23728	1125783403	Pekanbaru		locality	1
+23764	102018515	Blangpidie		locality	1
+23987	102019475	Pekanbaru		locality	1
+24164	1276660903	Kota Bakti		locality	3
+24242	102019475	Pekanbaru		locality	1
+24262	1360294709	Peudada		locality	1
+24263	1125799951	Jeunib		locality	1
+24351	102018443	Lhokseumawe		locality	14
+24351	102021635	Kuta Blang		locality	1
 24353	102018443	Lhokseumawe		locality	497
+24394	1310510701	Panton Labu		locality	2
 24411	1125903981	Sabang		locality	1
 24415	102018543	Banda Aceh		locality	1
+24454	1260196621	Idi Rayeuk		locality	1
+24454	102018559	Aceh		locality	1
+24553	1343871911	Raya		locality	1
+24566	102019475	Pekanbaru		locality	1
+24581	102021683	Bener Meriah		locality	10
+24582	102021683	Bener Meriah		locality	5
 25000	102019633	Padang		locality	1
 25114	102019633	Padang		locality	1
 25119	102019633	Padang		locality	1
 25121	102019633	Padang		locality	1
-25131	102019633	Padang		locality	1
-25132	102019633	Padang		locality	2
+25131	102019633	Padang		locality	2
+25132	102019633	Padang		locality	4
+25134	102019633	Padang		locality	3
 25136	102019633	Padang		locality	2
 25139	102019633	Padang		locality	2
-25143	102019633	Padang		locality	4
+25143	102019633	Padang		locality	3
 25146	102019633	Padang		locality	3
 25157	102019633	Padang		locality	2
 25163	102019633	Padang		locality	7
 25171	102019633	Padang		locality	1
 25233	102019633	Padang		locality	1
+25354	1310557111	Painan		locality	1
 25517	102019525	Pariaman		locality	1
 25518	102019525	Pariaman		locality	1
+25531	102019525	Pariaman		locality	1
 25561	102019525	Pariaman		locality	3
 25581	102019629	Kabupaten Padang Pariaman		locality	4
 25586	102019629	Kabupaten Padang Pariaman		locality	3
+25654	1309719059	Nanggalo		locality	1
 26112	102020785	Bukittinggi		locality	2
 26115	102020785	Bukittinggi		locality	1
 26122	102020785	Bukittinggi		locality	1
 26126	102020785	Bukittinggi		locality	2
+26191	1209673199	Lasi		locality	6
 26191	102021109	Kabupaten Agam		locality	1
+26261	1209571085	Kota		locality	5
+26263	890498595	Payakumbuh		locality	1
 26286	1125783403	Pekanbaru		locality	1
-27511	102019053	Sijunjung		locality	7
-28111	1125783403	Pekanbaru		locality	1
+27132	102019633	Padang		locality	1
+27261	102020909	Batusangkar		locality	1
+27292	1209372519	Padang		locality	1
+27365	102018999	Solok		locality	3
+27511	102019053	Sijunjung		locality	8
+28000	102019475	Pekanbaru		locality	1
+28111	102019475	Pekanbaru		locality	3
+28111	1125783403	Pekanbaru		locality	2
 28122	102019475	Pekanbaru		locality	4
-28126	102019475	Pekanbaru		locality	2
+28125	102019475	Pekanbaru		locality	2
+28126	102019475	Pekanbaru		locality	3
 28128	102019475	Pekanbaru		locality	1
-28131	1125783403	Pekanbaru		locality	2
+28131	102019475	Pekanbaru		locality	2
 28132	1125783403	Pekanbaru		locality	1
 28144	1125783403	Pekanbaru		locality	1
 28155	1125783403	Pekanbaru		locality	2
-28156	102019475	Pekanbaru		locality	2
+28156	102019475	Pekanbaru		locality	4
 28193	102019475	Pekanbaru		locality	1
 28234	1125783403	Pekanbaru		locality	1
 28261	1125783403	Pekanbaru		locality	17
@@ -695,201 +880,288 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 28281	102019475	Pekanbaru		locality	4
 28282	102019475	Pekanbaru		locality	5
 28284	102019475	Pekanbaru		locality	20
-28285	102019475	Pekanbaru		locality	1
-28291	102019475	Pekanbaru		locality	14
-28292	1125783403	Pekanbaru		locality	33
-28293	102019475	Pekanbaru		locality	87
+28285	102019475	Pekanbaru		locality	3
+28288	102019475	Pekanbaru		locality	1
+28289	1125783403	Pekanbaru		locality	1
+28291	102019475	Pekanbaru		locality	18
+28292	102019475	Pekanbaru		locality	36
+28293	102019475	Pekanbaru		locality	110
 28294	102019475	Pekanbaru		locality	26
 28411	102020997	Bangkinang		locality	4
-28412	102020997	Bangkinang		locality	1
-28452	1125945565	Karanganunggi		locality	1
-28461	102020083	Kubu		locality	1
+28412	102020997	Bangkinang		locality	2
+28452	1125945565	Karanganunggi		locality	5
+28461	1226285463	Kubu		locality	1
 28464	102021775	Kampar		locality	2
-28557	102019505	Pasir Pengaraian		locality	3
-28712	102020875	Bengkalis		locality	11
-28713	102020875	Bengkalis		locality	4
-28714	102020875	Bengkalis		locality	33
+28471	1125945565	Karanganunggi		locality	1
+28557	102019505	Pasir Pengaraian		locality	5
+28711	102020875	Bengkalis		locality	2
+28712	102020875	Bengkalis		locality	19
+28713	102020875	Bengkalis		locality	12
+28714	1125865943	Bengkalis		locality	87
 28725	102020875	Bengkalis		locality	8
-28725	102019475	Pekanbaru		locality	3
-28751	1125865943	Bengkalis		locality	1
-28752	102020875	Bengkalis		locality	43
+28725	102019475	Pekanbaru		locality	4
+28739	102019475	Pekanbaru		locality	1
+28751	1125865943	Bengkalis		locality	9
+28752	102020875	Bengkalis		locality	144
+28753	102019127	Selatpanjang		locality	2
 28772	1125783403	Pekanbaru		locality	1
 28815	1126040477	Dumai		locality	1
 28882	102020555	Dumai		locality	4
 28884	102022661	Duri		locality	2
+29274	102019475	Pekanbaru		locality	1
+29278	1125783403	Pekanbaru		locality	1
 29282	102019475	Pekanbaru		locality	1
-29422	102020939	Batam		locality	1
-29425	102020939	Batam		locality	1
-29426	102020939	Batam		locality	1
-29427	102020939	Batam		locality	3
-29432	102020939	Batam		locality	2
-29433	102020939	Batam		locality	3
-29439	102020939	Batam		locality	1
-29444	102020939	Batam		locality	21
-29464	102020939	Batam		locality	1
+29422	1326868559	Batam		locality	2
+29425	1326868559	Batam		locality	12
+29426	1326868559	Batam		locality	1
+29427	1326868559	Batam		locality	3
+29432	1209754487	Batam		locality	5
+29433	102020939	Batam		locality	6
+29434	1209754487	Batam		locality	1
+29437	102020939	Batam		locality	21
+29438	1326868559	Batam		locality	1
+29439	1326868559	Batam		locality	16
+29444	1209754487	Batam		locality	21
+29453	1209754487	Batam		locality	4
+29454	1209754487	Batam		locality	1
+29458	1209754487	Batam		locality	1
+29461	1293151975	Batam Centre		locality	9
+29464	102020939	Batam		locality	2
 29466	102020939	Batam		locality	1
-29563	102019633	Padang		locality	1
+29472	1326868559	Batam		locality	2
+29563	1193206987	Muaralembu		locality	13
+30111	102019607	Palembang		locality	1
+30113	102019607	Palembang		locality	1
 30114	102019607	Palembang		locality	7
-30116	102019607	Palembang		locality	1
 30117	102019607	Palembang		locality	2
-30163	102019607	Palembang		locality	3
+30139	102019607	Palembang		locality	1
+30151	102019607	Palembang		locality	4
+30154	102019607	Palembang		locality	1
+30163	102019607	Palembang		locality	4
 30252	102019607	Palembang		locality	1
+30267	102019607	Palembang		locality	1
+30286	1226088089	Margasari		locality	1
 30651	102020245	Kayuagung		locality	1
 30661	102018823	Tanjung Raja		locality	1
+30759	1259624775	Wonosari		locality	5
 31173	102019731	Muara Enim		locality	2
+31711	1209363577	Tanjungraya		locality	3
+31711	1209857199	Lingga Dua		locality	1
+31712	1209363577	Tanjungraya		locality	5
+31713	102019731	Muara Enim		locality	1
 33125	102019549	Pangkal Pinang		locality	66
 33148	102019549	Pangkal Pinang		locality	5
 33183	102018723	Toboali		locality	12
 33211	102018925	Sungailiat		locality	1
 33215	102018925	Sungailiat		locality	6
-33411	102018831	Tanjung Pandan		locality	1
+33215	102021005	Bangka		locality	1
+33351	102021005	Bangka		locality	1
+33411	102018831	Tanjung Pandan		locality	3
 33512	102019855	Manggar		locality	3
-34552	102020123	Kotabumi		locality	2
+33684	102019549	Pangkal Pinang		locality	1
+33778	1360125251	Malik		locality	2
+34223	102018833	Tanjungkarang		locality	1
+34552	102020123	Kotabumi		locality	1
 34593	102019585	Panaragan		locality	1
+34698	1259431699	Baru		locality	10
+34769	1343244703	Kiling-Kiling		locality	5
 34812	102019955	Liwa		locality	1
 35119	102018833	Tanjungkarang		locality	1
+35131	102018833	Tanjungkarang		locality	1
+35132	102018833	Tanjungkarang		locality	4
+35141	102018833	Tanjungkarang		locality	2
 35142	102018833	Tanjungkarang		locality	1
-35150	102018833	Tanjungkarang		locality	1
+35150	102018833	Tanjungkarang		locality	2
 35152	102018833	Tanjungkarang		locality	2
-35153	102018833	Tanjungkarang		locality	2
+35153	102018833	Tanjungkarang		locality	1
+35245	1141907565	Bandarlampung		locality	2
+35362	890496691	Natar		locality	1
+35592	1327216369	Kekiling		locality	1
 36127	102020423	Jambi City		locality	1
 36128	102020423	Jambi City		locality	2
 36129	102020423	Jambi City		locality	3
 36139	102020423	Jambi City		locality	1
 36361	102020423	Jambi City		locality	1
 36553	102020423	Jambi City		locality	1
+36584	1125783403	Pekanbaru		locality	1
+36764	1226364891	Geragdi		locality	1
 36811	102019583	Pancor		locality	1
+37111	102018923	Sungai Penuh		locality	1
+37121	102018923	Sungai Penuh		locality	1
+37151	102018923	Sungai Penuh		locality	1
 37171	102021763	Kerinci		locality	4
 37174	102018923	Sungai Penuh		locality	1
-38119	102020871	Bengkulu		locality	1
+37580	1125783403	Pekanbaru		locality	1
+38118	102020871	Bengkulu		locality	3
+38119	102020871	Bengkulu		locality	3
+38125	102020871	Bengkulu		locality	2
 38229	102020871	Bengkulu		locality	1
 38371	102020871	Bengkulu		locality	23
+38612	102021065	Argamakmur		locality	1
+38657	102020871	Bengkulu		locality	1
 38884	102022661	Duri		locality	1
+39098	1125783403	Pekanbaru		locality	2
 40111	102021015	Bandung		locality	11
 40111	102020393	West Java		locality	2
-40112	102021015	Bandung		locality	4
-40113	102021015	Bandung		locality	6
+40112	102021015	Bandung		locality	6
+40113	102021015	Bandung		locality	5
 40114	102021015	Bandung		locality	6
-40115	102021015	Bandung		locality	24
-40115	102020393	West Java		locality	1
-40116	102021015	Bandung		locality	7
+40115	102021015	Bandung		locality	23
+40116	102021015	Bandung		locality	6
 40116	102020393	West Java		locality	2
-40117	102021015	Bandung		locality	7
-40119	102020393	West Java		locality	1
-40122	102021015	Bandung		locality	5
+40117	102021015	Bandung		locality	4
+40119	102020393	West Java		locality	2
+40122	102021015	Bandung		locality	4
 40123	102021015	Bandung		locality	4
-40124	102021015	Bandung		locality	1
-40131	102021015	Bandung		locality	10
-40132	102021015	Bandung		locality	14
-40132	102020393	West Java		locality	4
-40133	102021015	Bandung		locality	2
+40124	102021015	Bandung		locality	3
+40131	102021015	Bandung		locality	12
+40132	102021015	Bandung		locality	18
+40132	102020393	West Java		locality	5
+40133	102021015	Bandung		locality	5
+40133	1293252485	Coblong		locality	1
 40134	102021015	Bandung		locality	2
-40134	102020393	West Java		locality	1
-40135	102021015	Bandung		locality	10
+40134	102020393	West Java		locality	2
+40135	102021015	Bandung		locality	14
 40135	102020393	West Java		locality	1
 40139	102021015	Bandung		locality	1
-40141	102021015	Bandung		locality	5
-40142	102021015	Bandung		locality	2
+40141	102021015	Bandung		locality	6
+40142	102021015	Bandung		locality	3
 40143	102021015	Bandung		locality	2
 40143	102020393	West Java		locality	1
 40151	102021015	Bandung		locality	1
 40153	102021015	Bandung		locality	4
-40154	102021015	Bandung		locality	3
+40154	102021015	Bandung		locality	5
 40154	102021933	Bandung Barat		locality	1
 40154	102020393	West Java		locality	1
 40161	102021015	Bandung		locality	9
 40162	102021015	Bandung		locality	6
 40163	102021015	Bandung		locality	4
-40164	102021015	Bandung		locality	3
-40171	102021015	Bandung		locality	8
+40164	102021015	Bandung		locality	2
+40171	102021015	Bandung		locality	10
 40171	102020393	West Java		locality	1
 40172	102021015	Bandung		locality	2
 40173	102021015	Bandung		locality	2
-40175	102021015	Bandung		locality	8
-40181	102021015	Bandung		locality	10
-40181	102020393	West Java		locality	2
+40175	102021015	Bandung		locality	6
+40181	102021015	Bandung		locality	11
+40181	102020393	West Java		locality	1
 40181.	102021015	Bandung		locality	1
 40181.	102020393	West Java		locality	1
 40182	102021015	Bandung		locality	1
+40184	102020393	West Java		locality	1
 40191	102021015	Bandung		locality	5
-40192	102021015	Bandung		locality	3
+40192	102021015	Bandung		locality	2
+40194	102021015	Bandung		locality	1
+40195	102021015	Bandung		locality	1
 40197	102021015	Bandung		locality	1
 40198	102020393	West Java		locality	11
-40198	102021015	Bandung		locality	7
+40198	102021015	Bandung		locality	5
 40212	102021015	Bandung		locality	1
 40218	102020393	West Java		locality	1
 40223	102021015	Bandung		locality	1
+40226	102021011	Bandung		locality	1
 40227	102021015	Bandung		locality	1
 40228	102020393	West Java		locality	1
 40236	102021015	Bandung		locality	1
 40241	102021015	Bandung		locality	2
 40242	102021015	Bandung		locality	9
 40251	102021015	Bandung		locality	3
-40252	102021015	Bandung		locality	2
+40252	102021015	Bandung		locality	3
 40255	102021015	Bandung		locality	1
-40257	102021015	Bandung		locality	2
+40257	102021015	Bandung		locality	5
 40261	102021015	Bandung		locality	5
 40262	102021015	Bandung		locality	7
 40263	102021015	Bandung		locality	3
-40264	102021015	Bandung		locality	7
+40264	102021015	Bandung		locality	9
 40265	102021015	Bandung		locality	1
-40266	102021015	Bandung		locality	8
+40266	102021015	Bandung		locality	10
 40267	102021015	Bandung		locality	3
-40273	102021015	Bandung		locality	3
+40271	102021015	Bandung		locality	3
+40273	102021015	Bandung		locality	2
 40275	102021015	Bandung		locality	1
 40281	102021015	Bandung		locality	1
 40285	102020649	Cimahi		locality	1
-40286	102021015	Bandung		locality	13
-40286	890495925	Margasari		locality	1
-40287	102021015	Bandung		locality	4
+40286	102021015	Bandung		locality	12
+40286	1226088089	Margasari		locality	4
+40286	1209575831	Sekejati		locality	1
+40286	1276169825	Margasari		locality	1
+40287	102021015	Bandung		locality	3
+40287	102020393	West Java		locality	1
+40288	102021015	Bandung		locality	1
+40291	890499073	Arcamanik		locality	1
 40291	102021015	Bandung		locality	1
 40292	102021015	Bandung		locality	1
 40294	102021015	Bandung		locality	3
-40295	102021015	Bandung		locality	3
-40378	102021011	Bandung		locality	2
+40294	1209066665	Babakan		locality	1
+40294	1260040055	Cisaranten Wetan		locality	1
+40295	102021015	Bandung		locality	2
+40376	1226292631	Langonsari		locality	1
+40378	102021011	Bandung		locality	1
+40381	102021011	Bandung		locality	23
 40391	102021015	Bandung		locality	5
 40394	102021015	Bandung		locality	1
-40394	890498465	Rancaekek		locality	1
-40395	102021015	Bandung		locality	1
+40394	1243514725	Kencana		locality	1
+40395	1344102733	Cicalengka		locality	1
+40396	102021015	Bandung		locality	1
 40513	102020649	Cimahi		locality	1
 40514	102020649	Cimahi		locality	5
+40514	1310250705	Utara		locality	1
 40515	102021015	Bandung		locality	1
-40535	102020649	Cimahi		locality	1
+40524	102020649	Cimahi		locality	1
+40535	102020649	Cimahi		locality	2
 40551	102021015	Bandung		locality	1
 40554	102021933	Bandung Barat		locality	1
 40559	102021015	Bandung		locality	2
 40559	890499439	Parongpong		locality	1
 40562	102021015	Bandung		locality	1
 40563	102021015	Bandung		locality	1
+40563	890496509	Sindangkerta		locality	1
 40614	102021015	Bandung		locality	1
 40621	102021015	Bandung		locality	2
+40632	102021011	Bandung		locality	1
 40714	102021015	Bandung		locality	1
 40912	102021015	Bandung		locality	1
 40973	102021011	Bandung		locality	2
 41035	102021015	Bandung		locality	3
 41111	102019335	Purwakarta		locality	1
 41112	102019335	Purwakarta		locality	1
-41281	102018979	Subang		locality	6
+41113	102019335	Purwakarta		locality	3
+41152	102019335	Purwakarta		locality	1
+41263	102018979	Subang		locality	1
+41271	102018979	Subang		locality	6
+41281	1242623361	Subang		locality	6
 41281	102021015	Bandung		locality	1
-41312	102020273	Karawang		locality	2
+41312	102020273	Karawang		locality	3
 41313	102020273	Karawang		locality	1
+41314	102020273	Karawang		locality	1
 41315	102020273	Karawang		locality	5
 41361	102020273	Karawang		locality	2
 41371	102020273	Karawang		locality	1
 41373	102020671	Cikampek		locality	1
 42112	102019089	Serang		locality	2
 42183	102019089	Serang		locality	3
-42264	102020729	Caringin		locality	1
-43113	102018973	Sukabumi		locality	3
-43114	102018973	Sukabumi		locality	6
+42264	1243495451	Caringin		locality	1
+42372	102021535	Banten		locality	7
+42372	1310350535	Gajrug		locality	1
+42443	102020657	Cilegon		locality	1
+43113	102018973	Sukabumi		locality	4
+43114	102018973	Sukabumi		locality	5
+43156	102018973	Sukabumi		locality	1
 43178	102018973	Sukabumi		locality	10
 43181	102019243	Sagaranten		locality	2
+43182	1259432621	Curugkembar Satu		locality	2
 43191	102018973	Sukabumi		locality	1
-43551	890495569	Cibadak		locality	1
+43211	102020705	Cianjur		locality	1
+43212	102020705	Cianjur		locality	1
+43261	102020705	Cianjur		locality	2
+43266	102021527	Cianjur		locality	1
+43281	102020705	Cianjur		locality	1
+43551	1310166001	Cibadak		locality	1
 44117	102020527	Garut		locality	1
-44151	102020527	Garut		locality	23
+44151	102020527	Garut		locality	25
 44151	890496601	Tarogong		locality	1
 44152	102020527	Garut		locality	1
+44174	102020527	Garut		locality	1
+44176	102020393	West Java		locality	1
 44181	102020527	Garut		locality	1
 44183	102020527	Garut		locality	2
 44183	890495889	Wanaraja		locality	1
@@ -900,84 +1172,127 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 45133	102020613	Cirebon		locality	2
 45134	102020613	Cirebon		locality	1
 45142	102020613	Cirebon		locality	3
+45145	102020613	Cirebon		locality	1
 45153	102020613	Cirebon		locality	10
-45154	102020613	Cirebon		locality	3
+45154	1276276313	Kabupaten		locality	3
+45154	102020613	Cirebon		locality	1
 45154	890495665	Weru		locality	1
 45155	102020613	Cirebon		locality	2
 45155	890495863	Plumbon		locality	2
 45155	102020581	Depok		locality	1
-45161	102020613	Cirebon		locality	1
 45162	102020613	Cirebon		locality	1
 45174	102020613	Cirebon		locality	1
+45181	102020613	Cirebon		locality	1
 45211	102020461	Indramayu		locality	3
 45252	102020461	Indramayu		locality	1
 45262	102020461	Indramayu		locality	1
 45264	102020471	Haurgeulis		locality	1
+45362	102018935	Sumedang		locality	1
 45363	102018935	Sumedang		locality	3
-45400	102019903	Majalengka		locality	2
+45364	102018935	Sumedang		locality	1
+45400	1226004925	Kulon		locality	2
 45412	102018801	Tasikmalaya		locality	1
-45418	102019903	Majalengka		locality	4
+45418	102019903	Majalengka		locality	5
 45511	102020061	Kuningan		locality	2
 45514	102020061	Kuningan		locality	1
-45556	102020061	Kuningan		locality	19
+45556	102020061	Kuningan		locality	20
 45573	102020061	Kuningan		locality	1
+45583	1260334039	Cilayung		locality	5
+45678	102019475	Pekanbaru		locality	4
+46151	890500227	Tasikmalaya		locality	2
+46211	102020707	Ciamis		locality	1
+46271	102020707	Ciamis		locality	3
 46394	102019573	Pangandaran		locality	2
 46396	102019573	Pangandaran		locality	5
 46412	102018801	Tasikmalaya		locality	2
+46473	102018801	Tasikmalaya		locality	1
 46595	102019573	Pangandaran		locality	5
-50115	102019121	Semarang		locality	1
-50124	102019121	Semarang		locality	2
-50131	102019121	Semarang		locality	3
-50132	102019121	Semarang		locality	1
-50137	102019121	Semarang		locality	2
-50141	102019121	Semarang		locality	1
-50144	102019121	Semarang		locality	1
-50156	102020201	Kendal		locality	5
-50178	102019121	Semarang		locality	1
+50000	1310621449	Semarang		locality	1
+50115	1310621449	Semarang		locality	1
+50124	1310621449	Semarang		locality	2
+50131	1310621449	Semarang		locality	3
+50132	1310621449	Semarang		locality	1
+50137	1310621449	Semarang		locality	2
+50141	1310621449	Semarang		locality	4
+50144	1310621449	Semarang		locality	1
+50156	102020201	Kendal		locality	4
+50165	102020387	East Java		locality	1
+50174	1310621449	Semarang		locality	1
+50178	1310621449	Semarang		locality	1
+50185	102019121	Semarang		locality	3
+50189	102019121	Semarang		locality	5
+50196	1310621449	Semarang		locality	2
+50198	1310621449	Semarang		locality	1
 50229	102019121	Semarang		locality	9
-50232	102019121	Semarang		locality	4
+50232	1310621449	Semarang		locality	4
 50234	102019121	Semarang		locality	1
-50236	102019121	Semarang		locality	4
-50241	102019121	Semarang		locality	1
-50242	102019121	Semarang		locality	1
+50236	1310621449	Semarang		locality	4
+50241	1310621449	Semarang		locality	1
+50242	1310621449	Semarang		locality	1
 50254	102019121	Semarang		locality	1
-50256	102019121	Semarang		locality	2
-50257	102019121	Semarang		locality	2
+50256	1310621449	Semarang		locality	2
+50257	1310621449	Semarang		locality	2
 50263	102019121	Semarang		locality	2
+50266	102019121	Semarang		locality	1
 50269	102019121	Semarang		locality	1
-50511	102018655	Ungaran		locality	3
+50272	1310621449	Semarang		locality	1
+50275	102019121	Semarang		locality	3
+50321	102019235	Salatiga		locality	1
+50511	102018655	Ungaran		locality	5
 50512	102018655	Ungaran		locality	2
-50519	102018655	Ungaran		locality	1
+50514	1327412383	Timur		locality	4
+50515	102018655	Ungaran		locality	1
+50516	1327412383	Timur		locality	1
+50519	102018655	Ungaran		locality	5
+50519	1293010329	Barat		locality	1
 50552	102021485	Semarang		locality	3
+50574	1260382133	Pongangan		locality	1
+50612	102021089	Ambarawa		locality	1
 50664	102021485	Semarang		locality	1
-50711	102019235	Salatiga		locality	47
-50714	102019235	Salatiga		locality	13
-50716	102019235	Salatiga		locality	1
-50721	102019235	Salatiga		locality	9
-50722	102019235	Salatiga		locality	1
-50723	102019235	Salatiga		locality	3
-50724	102019235	Salatiga		locality	4
+50665	102021013	Bandungan		locality	1
+50665	1209408875	Sidomukti		locality	1
+50711	1226436541	Salatiga		locality	54
+50714	1226436541	Salatiga		locality	16
+50716	1226436541	Salatiga		locality	2
+50721	102019235	Salatiga		locality	10
+50722	1226533479	Salatiga		locality	1
+50723	1226533479	Salatiga		locality	3
+50724	1226436541	Salatiga		locality	8
 50731	102019235	Salatiga		locality	3
+50732	1226533479	Salatiga		locality	2
 50733	102019235	Salatiga		locality	4
-50735	102019235	Salatiga		locality	4
-50741	102019235	Salatiga		locality	1
-50742	102019235	Salatiga		locality	6
-50744	102019235	Salatiga		locality	2
+50735	102019235	Salatiga		locality	5
+50736	102019235	Salatiga		locality	1
+50741	1226533479	Salatiga		locality	1
+50742	1226436541	Salatiga		locality	10
+50743	1226533479	Salatiga		locality	3
+50744	1226533479	Salatiga		locality	2
 50745	102019235	Salatiga		locality	2
 50746	102019235	Salatiga		locality	1
 50773	102021485	Semarang		locality	1
-50774	102019235	Salatiga		locality	4
-51114	102019477	Pekalongan		locality	2
-51118	102019477	Pekalongan		locality	2
+50774	102019235	Salatiga		locality	2
+50774	1260382133	Pongangan		locality	1
+50775	1209506021	Tegalwaton		locality	1
+51118	1209706797	Kramatsari		locality	1
+51118	102019477	Pekalongan		locality	1
+51123	102019477	Pekalongan		locality	1
 51128	102019477	Pekalongan		locality	1
+51129	102019477	Pekalongan		locality	1
 51172	102019477	Pekalongan		locality	2
-51271	102020937	Batang		locality	3
+51215	1276862513	Batang		locality	1
+51271	102020937	Batang		locality	4
+51313	102020201	Kendal		locality	1
+51355	102018603	Weleri		locality	4
 51356	102020201	Kendal		locality	2
+51357	102020201	Kendal		locality	1
+52192	102018785	Tegal		locality	8
+52218	102020789	Brebes		locality	1
 52254	102020789	Brebes		locality	1
 52255	102020789	Brebes		locality	1
+52276	102020789	Brebes		locality	1
 52281	102018575	Special Region of Yogyakarta	DIY	locality	1
 52464	102018783	Tegal		locality	1
-53111	102019327	Purwokerto		locality	1
+53111	102019327	Purwokerto		locality	2
 53116	102019327	Purwokerto		locality	1
 53122	102019327	Purwokerto		locality	2
 53124	102020955	Banyumas		locality	1
@@ -988,134 +1303,201 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 53146	102019327	Purwokerto		locality	4
 53181	890493495	Sokaraja		locality	155
 53182	102020955	Banyumas		locality	1
+53191	1242568785	Kalisogra Wetan		locality	2
 53192	102020955	Banyumas		locality	1
-53194	890499811	Buntu		locality	1
-53213	1141907563	Cilacap		locality	1
+53194	1292897005	Buntu		locality	1
+53213	1141907563	Cilacap		locality	4
 53213	102019327	Purwokerto		locality	1
-53222	1141907563	Cilacap		locality	1
+53222	1141907563	Cilacap		locality	4
 53223	1141907563	Cilacap		locality	1
+53256	1141907563	Cilacap		locality	1
+53256	1276647535	Sindanghaji		locality	1
 53257	102019901	Majenang		locality	1
 53311	102019341	Purbolinggo		locality	1
-53352	102019341	Purbolinggo		locality	2
+53352	102019341	Purbolinggo		locality	3
 53353	102020819	Bobotsari		locality	1
+53354	102019341	Purbolinggo		locality	2
 53357	102019341	Purbolinggo		locality	2
 53359	102019341	Purbolinggo		locality	1
+53362	102019341	Purbolinggo		locality	2
 53371	102019341	Purbolinggo		locality	2
-53372	102019341	Purbolinggo		locality	2
+53372	102019341	Purbolinggo		locality	8
+53392	1309999979	Kejobong		locality	1
 53412	1125802411	Kuta Banjarnegara		locality	1
+53456	1343849275	Batur		locality	1
+53462	1226637163	Banjarnegara		locality	4
 53481	1125802411	Kuta Banjarnegara		locality	3
-54113	102021419	Purworejo		locality	5
-54114	102021419	Purworejo		locality	2
-54171	102021419	Purworejo		locality	1
+54113	102021419	Purworejo		locality	4
+54114	102021419	Purworejo		locality	4
+54115	102021419	Purworejo		locality	4
+54171	102021419	Purworejo		locality	2
+54181	1276868617	Gunung		locality	15
 54181	102021419	Purworejo		locality	1
+54183	102021419	Purworejo		locality	3
+54311	102020235	Kebumen		locality	3
+54312	102020235	Kebumen		locality	5
+54316	102020235	Kebumen		locality	4
+54317	102020235	Kebumen		locality	2
+54361	102020235	Kebumen		locality	2
 54363	102020235	Kebumen		locality	2
 54383	102020235	Kebumen		locality	1
+54413	102021469	Kebumen		locality	2
+55000	102018575	Special Region of Yogyakarta	DIY	locality	1
+55111	102018575	Special Region of Yogyakarta	DIY	locality	15
 55112	102018575	Special Region of Yogyakarta	DIY	locality	1
 55122	102018575	Special Region of Yogyakarta	DIY	locality	2
 55131	890495699	Panembahan		locality	1
 55133	102018575	Special Region of Yogyakarta	DIY	locality	1
-55141	102018575	Special Region of Yogyakarta	DIY	locality	1
-55142	102018575	Special Region of Yogyakarta	DIY	locality	2
-55143	102018575	Special Region of Yogyakarta	DIY	locality	3
+55141	102018575	Special Region of Yogyakarta	DIY	locality	3
+55142	102018575	Special Region of Yogyakarta	DIY	locality	4
+55143	102018575	Special Region of Yogyakarta	DIY	locality	5
 55151	102018575	Special Region of Yogyakarta	DIY	locality	1
-55153	102018575	Special Region of Yogyakarta	DIY	locality	3
+55153	102018575	Special Region of Yogyakarta	DIY	locality	2
+55161	102018575	Special Region of Yogyakarta	DIY	locality	4
 55162	102018575	Special Region of Yogyakarta	DIY	locality	1
+55163	102018575	Special Region of Yogyakarta	DIY	locality	2
 55167	102018575	Special Region of Yogyakarta	DIY	locality	1
+55171	102018575	Special Region of Yogyakarta	DIY	locality	1
+55172	102018575	Special Region of Yogyakarta	DIY	locality	1
 55172	890498473	Kotagede		locality	1
 55172	102022489	Kulon Progo		locality	1
 55173	102018575	Special Region of Yogyakarta	DIY	locality	1
-55182	102020959	Bantul		locality	3
+55182	102020959	Bantul		locality	2
 55183	102020959	Bantul		locality	1
 55183	102021371	Kasihan		locality	1
 55184	102020959	Bantul		locality	3
 55184	102018575	Special Region of Yogyakarta	DIY	locality	1
 55184	102019017	Sleman		locality	1
-55187	890494903	Sewon		locality	2
+55186	102020959	Bantul		locality	2
+55187	890494903	Sewon		locality	1
 55187	102018575	Special Region of Yogyakarta	DIY	locality	1
-55191	102018575	Special Region of Yogyakarta	DIY	locality	2
+55191	102018575	Special Region of Yogyakarta	DIY	locality	3
 55194	102018575	Special Region of Yogyakarta	DIY	locality	13
 55198	102020959	Bantul		locality	2
+55198	1226536393	Banguntapan		locality	1
 55198	102018575	Special Region of Yogyakarta	DIY	locality	1
 55221	102018575	Special Region of Yogyakarta	DIY	locality	3
 55222	102018575	Special Region of Yogyakarta	DIY	locality	3
 55222	102019017	Sleman		locality	1
 55223	102018575	Special Region of Yogyakarta	DIY	locality	1
-55224	102018575	Special Region of Yogyakarta	DIY	locality	11
-55231	102018575	Special Region of Yogyakarta	DIY	locality	7
+55224	102018575	Special Region of Yogyakarta	DIY	locality	10
+55231	102018575	Special Region of Yogyakarta	DIY	locality	5
 55232	890500493	Ngampilan		locality	2
 55233	102018575	Special Region of Yogyakarta	DIY	locality	1
-55281	102018575	Special Region of Yogyakarta	DIY	locality	18
-55281	102019017	Sleman		locality	15
-55281	890495521	Depok		locality	1
+55243	102018575	Special Region of Yogyakarta	DIY	locality	1
+55261	102018575	Special Region of Yogyakarta	DIY	locality	1
+55281	102018575	Special Region of Yogyakarta	DIY	locality	23
+55281	102019017	Sleman		locality	22
+55281	890495521	Depok		locality	2
 55282	102019017	Sleman		locality	2
 55283	102018575	Special Region of Yogyakarta	DIY	locality	3
-55284	102019017	Sleman		locality	6
-55284	102018575	Special Region of Yogyakarta	DIY	locality	1
+55284	102019017	Sleman		locality	4
 55285	102019017	Sleman		locality	8
 55292	102019017	Sleman		locality	2
 55293	102019017	Sleman		locality	1
 55294	102019017	Sleman		locality	5
 55422	890499061	Tegalrejo		locality	1
+55511	102019017	Sleman		locality	1
 55515	102019017	Sleman		locality	4
-55562	102019017	Sleman		locality	1
 55564	102019017	Sleman		locality	2
 55564	890497649	Godean		locality	1
 55571	102018575	Special Region of Yogyakarta	DIY	locality	2
-55581	102019017	Sleman		locality	3
-55581	890498533	Ngaglik		locality	2
+55572	102019017	Sleman		locality	2
+55581	102019017	Sleman		locality	8
+55581	1310690011	Ngaglik		locality	4
+55581	102018575	Special Region of Yogyakarta	DIY	locality	2
+55582	102019017	Sleman		locality	6
 55582	102018575	Special Region of Yogyakarta	DIY	locality	1
-55584	102018575	Special Region of Yogyakarta	DIY	locality	2
 55584	102019017	Sleman		locality	1
-55651	102022489	Kulon Progo		locality	7
+55592	102019017	Sleman		locality	1
+55611	102018617	Wates		locality	1
+55651	102022489	Kulon Progo		locality	6
+55651	102018617	Wates		locality	1
 55652	102019443	Pengasih		locality	2
 55664	102022489	Kulon Progo		locality	2
+55673	102018617	Wates		locality	20
+55711	102020959	Bantul		locality	1
+55714	102020959	Bantul		locality	1
 55715	102020959	Bantul		locality	1
-55751	102020959	Bantul		locality	1
-55763	102020959	Bantul		locality	1
+55751	102020959	Bantul		locality	3
+55761	102020959	Bantul		locality	2
+55771	1360180365	Srihardono		locality	3
 55771	102020959	Bantul		locality	1
 55772	890495695	Kretek		locality	1
+55781	102018575	Special Region of Yogyakarta	DIY	locality	2
 55781	102020959	Bantul		locality	1
-55813	102021365	Wonosari		locality	1
-55851	102021365	Wonosari		locality	1
+55813	1243533093	Wonosari		locality	1
+55821	102018575	Special Region of Yogyakarta	DIY	locality	1
+55851	1243533093	Wonosari		locality	1
 55861	102019399	Playen		locality	1
+56124	102019913	Magelang		locality	1
+56172	102019911	Kabupaten Magelang		locality	2
 56172	102019913	Magelang		locality	1
 56194	102019913	Magelang		locality	2
 56254	102019535	Parakan		locality	7
 56255	102018775	Temanggung		locality	2
 56264	102018583	Wonosobo		locality	1
 56281	102018775	Temanggung		locality	3
-56311	102018583	Wonosobo		locality	4
+56311	102018583	Wonosobo		locality	5
+56361	1260100733	Adiwarno		locality	1
+56362	1293483979	Selokromo		locality	1
 56371	102018583	Wonosobo		locality	3
-56451	890499117	Tanjung		locality	1
+56373	1209606265	Wonosobo		locality	1
+56451	1242666205	Tanjung		locality	1
+56553	1326950581	Borobudur		locality	1
 56553	102019913	Magelang		locality	1
 57108	102020791	Boyolali		locality	3
+57113	1226363273	Solo		locality	1
 57125	102018909	Surakarta		locality	1
-57126	102018909	Surakarta		locality	3
+57126	102018909	Surakarta		locality	4
 57131	102018909	Surakarta		locality	1
-57136	102018909	Surakarta		locality	1
+57132	102018909	Surakarta		locality	1
+57136	102018909	Surakarta		locality	3
 57137	102018909	Surakarta		locality	1
-57139	102018909	Surakarta		locality	2
+57139	102018909	Surakarta		locality	4
 57144	102018909	Surakarta		locality	2
 57146	102018909	Surakarta		locality	1
 57149	102018909	Surakarta		locality	2
-57162	102020269	Kartasura		locality	1
-57165	102020269	Kartasura		locality	2
+57154	1226363273	Solo		locality	1
+57162	1226640131	Kartasura		locality	1
+57165	1226640131	Kartasura		locality	2
 57168	102020269	Kartasura		locality	2
-57178	890496759	Colomadu		locality	22
+57169	1226640131	Kartasura		locality	1
+57173	102021387	Karanganyar		locality	2
+57178	890496759	Colomadu		locality	17
 57178	890495473	Bolon		locality	2
-57311	102020791	Boyolali		locality	2
+57214	1242894391	Tengah		locality	1
+57311	102020791	Boyolali		locality	8
+57313	102020791	Boyolali		locality	6
 57362	102020791	Boyolali		locality	1
-57373	102020791	Boyolali		locality	2
-57375	102020791	Boyolali		locality	3
+57373	1326550939	Banyudono		locality	2
+57375	102020791	Boyolali		locality	1
 57378	102020493	Gresik		locality	1
 57451	102020155	Klaten		locality	1
+57454	102020155	Klaten		locality	11
 57472	102020155	Klaten		locality	3
+57485	1226770381	Tanjungsari		locality	1
 57511	890500045	Surabaya		locality	1
 57541	102018955	Sukoharjo		locality	1
+57551	102018955	Sukoharjo		locality	6
+57552	1309896871	Solo Baru		locality	1
+57554	102018955	Sukoharjo		locality	1
+57555	102018955	Sukoharjo		locality	1
+57556	102021385	Sukoharjo		locality	1
 57571	890499977	Nguter		locality	1
 57571	102018955	Sukoharjo		locality	1
+57611	102018593	Wonogiri		locality	1
 57612	102018593	Wonogiri		locality	1
 57691	102018593	Wonogiri		locality	3
+57711	102020289	Karanganyar		locality	1
+57731	1226233451	Karanganyar		locality	1
+57785	102021491	Karanganyar		locality	3
+58111	102020491	Grobogan		locality	1
+58164	102020485	Gubug		locality	1
+58181	1326521301	Panunggalan		locality	1
+58192	890499925	Wirosari		locality	1
+58312	890500241	Cepu		locality	2
+59118	102019499	Pati		locality	1
 59173	102019499	Pati		locality	1
 59185	102020349	Juwana		locality	6
 59185	102019499	Pati		locality	1
@@ -1124,208 +1506,278 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 59321	102020077	Kudus		locality	1
 59332	102020077	Kudus		locality	4
 59353	102020077	Kudus		locality	1
+59451	102020367	Jepara		locality	1
 59462	102020367	Jepara		locality	4
 59465	102020367	Jepara		locality	1
 59466	102020367	Jepara		locality	8
-59581	890500021	Sambiroto		locality	1
+59581	1343852161	Sambiroto		locality	1
 59581	102020587	Demak		locality	1
 60011	102018911	Surabaya		locality	1
-60111	102018911	Surabaya		locality	11
-60111	890498807	Sukolilo		locality	7
+60111	102018911	Surabaya		locality	12
+60111	890498807	Sukolilo		locality	8
 60111	102020387	East Java		locality	2
 60112	890497171	Mulyorejo		locality	3
-60112	102018911	Surabaya		locality	2
+60112	102018911	Surabaya		locality	3
 60112	890499257	Benowo		locality	1
 60112	890498807	Sukolilo		locality	1
+60113	102018911	Surabaya		locality	2
 60113	890497171	Mulyorejo		locality	1
-60113	102018911	Surabaya		locality	1
-60115	102018911	Surabaya		locality	10
-60115	890497171	Mulyorejo		locality	3
+60114	890497171	Mulyorejo		locality	1
+60115	102018911	Surabaya		locality	17
+60115	890497171	Mulyorejo		locality	4
 60115	102020387	East Java		locality	1
 60115	890498807	Sukolilo		locality	1
-60116	890497171	Mulyorejo		locality	4
-60116	102018911	Surabaya		locality	3
-60116	890500389	Gubeng		locality	1
+60116	102018911	Surabaya		locality	6
+60116	890497171	Mulyorejo		locality	3
+60116	890500389	Gubeng		locality	2
+60116	890498807	Sukolilo		locality	2
 60116	102020387	East Java		locality	1
-60116	890498807	Sukolilo		locality	1
-60117	890498807	Sukolilo		locality	6
-60117	102018911	Surabaya		locality	2
+60117	890498807	Sukolilo		locality	11
+60117	102018911	Surabaya		locality	9
 60117	102020387	East Java		locality	1
 60117	890500261	Rungkut		locality	1
-60118	890498807	Sukolilo		locality	6
-60118	102018911	Surabaya		locality	6
-60119	890498807	Sukolilo		locality	7
-60119	102018911	Surabaya		locality	1
-60123	102018911	Surabaya		locality	1
+60118	102018911	Surabaya		locality	10
+60118	890498807	Sukolilo		locality	7
+60118	102020387	East Java		locality	1
+60119	890498807	Sukolilo		locality	8
+60119	102018911	Surabaya		locality	4
+60119	102019063	Sidoarjo		locality	1
+60121	102018911	Surabaya		locality	2
+60122	102018911	Surabaya		locality	1
+60123	1209025857	Suko		locality	1
+60126	102020387	East Java		locality	4
+60128	102020387	East Java		locality	6
+60128	102018911	Surabaya		locality	1
+60129	102020387	East Java		locality	12
+60129	102018911	Surabaya		locality	1
+60131	102018911	Surabaya		locality	5
 60131	890499067	Tambaksari		locality	3
-60131	102018911	Surabaya		locality	2
-60132	102018911	Surabaya		locality	1
+60131	102020387	East Java		locality	1
+60132	102018911	Surabaya		locality	2
 60132	890499067	Tambaksari		locality	1
 60133	102020387	East Java		locality	4
 60133	102018911	Surabaya		locality	1
 60134	102018911	Surabaya		locality	1
-60136	102018911	Surabaya		locality	2
+60136	102018911	Surabaya		locality	3
 60141	102020387	East Java		locality	1
 60141	102018911	Surabaya		locality	1
 60142	102018911	Surabaya		locality	1
-60151	102020387	East Java		locality	1
+60145	102018911	Surabaya		locality	1
+60151	1226427523	Semampir		locality	2
+60155	1226427523	Semampir		locality	1
 60155	102018911	Surabaya		locality	1
-60161	102018911	Surabaya		locality	8
-60161	890495149	Pabean		locality	2
+60161	102018911	Surabaya		locality	12
+60161	890495149	Pabean		locality	3
 60161	102020387	East Java		locality	1
 60161	102019063	Sidoarjo		locality	1
+60163	102020387	East Java		locality	5
 60163	102018911	Surabaya		locality	1
-60165	102018911	Surabaya		locality	1
+60164	102018911	Surabaya		locality	4
+60164	102020387	East Java		locality	1
+60165	102018911	Surabaya		locality	2
+60165	102020387	East Java		locality	2
+60165	890495149	Pabean		locality	1
 60172	102018911	Surabaya		locality	2
 60172	890497679	Bubutan		locality	1
 60173	890497679	Bubutan		locality	1
 60173	102020387	East Java		locality	1
 60174	102018911	Surabaya		locality	7
-60174	890497679	Bubutan		locality	1
-60174	102020387	East Java		locality	1
-60175	102018911	Surabaya		locality	4
+60174	102020387	East Java		locality	2
+60174	1242767991	Gundih		locality	1
+60175	102018911	Surabaya		locality	8
+60175	1276640979	Krembangan Utara		locality	2
+60175	1276437089	Krembangan		locality	1
+60176	102020387	East Java		locality	1
 60176	102018911	Surabaya		locality	1
 60177	102020387	East Java		locality	1
+60177	1276437089	Krembangan		locality	1
+60177	102018911	Surabaya		locality	1
+60178	102020387	East Java		locality	1
 60178	102018911	Surabaya		locality	1
+60179	102018911	Surabaya		locality	1
+60183	102018911	Surabaya		locality	1
 60184	102020387	East Java		locality	1
-60185	102018911	Surabaya		locality	1
+60185	102018911	Surabaya		locality	2
+60186	890497775	Tandes		locality	1
 60186	102018911	Surabaya		locality	1
-60187	102018911	Surabaya		locality	1
+60187	102020387	East Java		locality	1
+60187	890497775	Tandes		locality	1
+60187	1209025857	Suko		locality	1
 60188	102020387	East Java		locality	2
 60188	102018911	Surabaya		locality	2
 60189	102018911	Surabaya		locality	5
-60195	102018911	Surabaya		locality	1
-60198	102018911	Surabaya		locality	1
+60189	1209025857	Suko		locality	1
+60195	102018911	Surabaya		locality	3
+60196	102018911	Surabaya		locality	1
+60197	102018911	Surabaya		locality	2
+60198	102018911	Surabaya		locality	3
+60211	102018911	Surabaya		locality	3
 60211	102020387	East Java		locality	1
-60211	102018911	Surabaya		locality	1
 60212	890495207	Lakar Santri		locality	1
-60216	102018911	Surabaya		locality	2
+60213	102018911	Surabaya		locality	2
+60216	102018911	Surabaya		locality	3
 60216	102020387	East Java		locality	1
-60217	102018911	Surabaya		locality	1
+60217	102018911	Surabaya		locality	2
 60219	102020387	East Java		locality	1
+60219	102018911	Surabaya		locality	1
 60221	102018911	Surabaya		locality	2
 60221	102020387	East Java		locality	1
-60222	102018911	Surabaya		locality	1
+60222	102018911	Surabaya		locality	2
+60223	102018911	Surabaya		locality	2
+60224	890500261	Rungkut		locality	1
 60224	102018911	Surabaya		locality	1
 60225	102018911	Surabaya		locality	5
-60226	102018911	Surabaya		locality	6
-60226	890495491	Pakis		locality	1
+60225	1259373139	Dukuh		locality	2
+60225	102020387	East Java		locality	1
+60226	102018911	Surabaya		locality	9
+60226	1259373139	Dukuh		locality	4
+60226	1292925405	Pakis		locality	1
 60227	102018911	Surabaya		locality	3
 60227	890500055	Wiyung		locality	1
+60231	890493071	Gayungan		locality	3
 60231	102018911	Surabaya		locality	3
-60231	890493071	Gayungan		locality	2
 60231	102020387	East Java		locality	1
-60233	102018911	Surabaya		locality	2
-60234	102018911	Surabaya		locality	1
-60235	102018911	Surabaya		locality	4
-60236	102018911	Surabaya		locality	4
-60236	102020387	East Java		locality	2
+60232	102018911	Surabaya		locality	1
+60233	102018911	Surabaya		locality	3
+60233	890500067	Jambangan		locality	1
+60234	102018911	Surabaya		locality	5
+60235	102018911	Surabaya		locality	8
+60236	102018911	Surabaya		locality	5
+60236	102020387	East Java		locality	3
+60236	1310686327	Wonocolo		locality	2
 60236	890500261	Rungkut		locality	1
 60237	102018911	Surabaya		locality	3
 60237	890500261	Rungkut		locality	2
-60237	102020387	East Java		locality	1
+60237	1310686327	Wonocolo		locality	1
 60238	102018911	Surabaya		locality	3
 60238	102020387	East Java		locality	1
-60239	102020387	East Java		locality	2
+60238	1310686327	Wonocolo		locality	1
+60239	1310686327	Wonocolo		locality	2
 60239	102018911	Surabaya		locality	1
+60241	102018911	Surabaya		locality	4
 60241	890500433	Wonokromo		locality	4
-60241	102018911	Surabaya		locality	2
 60241	102020387	East Java		locality	1
 60242	102020387	East Java		locality	1
+60242	102018911	Surabaya		locality	1
 60242	890500433	Wonokromo		locality	1
 60243	102018911	Surabaya		locality	2
 60243	890500433	Wonokromo		locality	1
+60244	890500433	Wonokromo		locality	3
 60244	102018911	Surabaya		locality	2
-60244	890500433	Wonokromo		locality	2
 60244	102020387	East Java		locality	1
-60245	890500433	Wonokromo		locality	4
-60245	102018911	Surabaya		locality	3
-60246	102018911	Surabaya		locality	7
+60244	890500389	Gubeng		locality	1
+60245	102018911	Surabaya		locality	5
+60245	890500433	Wonokromo		locality	5
+60246	102018911	Surabaya		locality	8
 60246	890500433	Wonokromo		locality	2
 60246	102020387	East Java		locality	1
-60251	102018911	Surabaya		locality	6
+60246	1226332327	Ngagel		locality	1
+60251	102018911	Surabaya		locality	7
+60251	1225941491	Sawohan		locality	2
 60251	102020387	East Java		locality	1
-60252	102018911	Surabaya		locality	3
+60252	102018911	Surabaya		locality	4
 60254	102018911	Surabaya		locality	1
 60256	102018911	Surabaya		locality	4
-60261	102018911	Surabaya		locality	10
+60256	102020387	East Java		locality	2
+60256	890498051	Dukuh Kupang		locality	1
+60261	102018911	Surabaya		locality	12
 60261	890497635	Tegal Sari		locality	9
 60261	102020387	East Java		locality	1
-60261	890495975	Wonorejo		locality	1
+60261	1225941491	Sawohan		locality	1
+60261	1326720723	Wonorejo		locality	1
 60262	102018911	Surabaya		locality	3
+60262	1226332451	Kaliasin		locality	1
 60262	102020387	East Java		locality	1
-60263	102018911	Surabaya		locality	1
-60264	102018911	Surabaya		locality	5
+60263	102018911	Surabaya		locality	3
+60264	102018911	Surabaya		locality	7
 60264	890497635	Tegal Sari		locality	4
+60264	890500389	Gubeng		locality	2
 60264	890497685	Dr Sutomo		locality	1
-60264	890500389	Gubeng		locality	1
 60264	890500433	Wonokromo		locality	1
 60265	890497635	Tegal Sari		locality	7
-60265	102018911	Surabaya		locality	3
+60265	102018911	Surabaya		locality	5
 60265	102020387	East Java		locality	1
-60271	102018911	Surabaya		locality	14
+60271	102018911	Surabaya		locality	18
+60271	1226332451	Kaliasin		locality	5
 60271	890495753	Genteng		locality	3
 60271	102020387	East Java		locality	1
 60271	890497635	Tegal Sari		locality	1
 60272	890495753	Genteng		locality	11
-60272	102018911	Surabaya		locality	6
+60272	102018911	Surabaya		locality	10
 60272	102020387	East Java		locality	1
+60272	1344247351	Ketabang		locality	1
 60273	890495753	Genteng		locality	1
+60274	102018911	Surabaya		locality	2
 60274	890495753	Genteng		locality	1
-60275	102018911	Surabaya		locality	5
+60275	102018911	Surabaya		locality	8
 60275	890500389	Gubeng		locality	1
-60281	102018911	Surabaya		locality	13
+60281	102018911	Surabaya		locality	16
 60281	890500389	Gubeng		locality	4
 60281	102020387	East Java		locality	3
 60281	890495753	Genteng		locality	1
-60282	890500389	Gubeng		locality	5
+60282	890500389	Gubeng		locality	6
 60282	102018911	Surabaya		locality	4
 60282	102020387	East Java		locality	1
 60283	890500389	Gubeng		locality	2
-60283	102018911	Surabaya		locality	1
-60284	890500389	Gubeng		locality	4
-60284	102018911	Surabaya		locality	2
+60283	890498373	Pucang		locality	2
+60283	102018911	Surabaya		locality	2
+60284	890500389	Gubeng		locality	7
+60284	102018911	Surabaya		locality	3
 60284	102020387	East Java		locality	1
 60284	890497635	Tegal Sari		locality	1
-60285	102018911	Surabaya		locality	9
-60285	890500389	Gubeng		locality	5
+60285	890500389	Gubeng		locality	13
+60285	102018911	Surabaya		locality	8
+60285	1226740207	Gebang		locality	2
 60285	102020387	East Java		locality	2
+60285	1243167249	Sari		locality	1
 60285	890499067	Tambaksari		locality	1
-60286	102018911	Surabaya		locality	35
+60286	102018911	Surabaya		locality	42
 60286	890500389	Gubeng		locality	5
 60286	102020387	East Java		locality	1
-60291	102018911	Surabaya		locality	1
-60292	102018911	Surabaya		locality	11
+60291	102018911	Surabaya		locality	3
+60291	1343942753	Mejoyo		locality	1
+60292	102018911	Surabaya		locality	12
+60292	1343942753	Mejoyo		locality	3
 60292	102020387	East Java		locality	1
-60293	102018911	Surabaya		locality	10
-60293	890500261	Rungkut		locality	2
-60294	102018911	Surabaya		locality	3
-60297	102018911	Surabaya		locality	1
+60293	102018911	Surabaya		locality	19
+60293	890500261	Rungkut		locality	7
+60293	1344052217	Gununganyar		locality	1
+60294	102018911	Surabaya		locality	5
+60294	1276141593	Gunong		locality	1
+60295	890500261	Rungkut		locality	1
+60295	102018911	Surabaya		locality	1
+60296	102018911	Surabaya		locality	1
+60297	102018911	Surabaya		locality	4
+60297	890500261	Rungkut		locality	1
 60298	102018911	Surabaya		locality	2
 60298	102020387	East Java		locality	1
 60298	890500261	Rungkut		locality	1
-60299	102018911	Surabaya		locality	2
+60299	1343942753	Mejoyo		locality	3
+60299	102020387	East Java		locality	2
+60299	102018911	Surabaya		locality	1
 60421	102018911	Surabaya		locality	1
 60900	102018911	Surabaya		locality	1
-61112	102020493	Gresik		locality	1
-61152	102020767	Bungah		locality	1
-61161	102020493	Gresik		locality	4
+61112	102020493	Gresik		locality	11
+61121	102020493	Gresik		locality	1
+61124	102020493	Gresik		locality	1
+61161	102020493	Gresik		locality	2
+61171	102020493	Gresik		locality	1
 61174	102020493	Gresik		locality	1
 61200	102019063	Sidoarjo		locality	1
 61212	102018911	Surabaya		locality	1
 61213	102020387	East Java		locality	2
-61217	102020387	East Java		locality	1
+61217	1310686327	Wonocolo		locality	1
+61228	102019063	Sidoarjo		locality	2
 61234	102020387	East Java		locality	1
 61234	102018911	Surabaya		locality	1
-61252	102018911	Surabaya		locality	1
+61252	102019063	Sidoarjo		locality	1
 61253	102018911	Surabaya		locality	4
 61253	890496625	Sedati		locality	3
-61253	102019063	Sidoarjo		locality	1
+61253	102019063	Sidoarjo		locality	3
 61253	890495149	Pabean		locality	1
 61254	102020387	East Java		locality	3
 61254	102019063	Sidoarjo		locality	2
 61254	890497651	Gedangan		locality	1
-61254	102018911	Surabaya		locality	1
 61256	102019063	Sidoarjo		locality	74
 61256	102018911	Surabaya		locality	5
 61256	890498725	Waru		locality	3
@@ -1335,345 +1787,462 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 61262	102019063	Sidoarjo		locality	2
 61262	102020101	Krian		locality	1
 61263	102019063	Sidoarjo		locality	1
-61318	102019763	Mojokerto		locality	2
-61382	102019763	Mojokerto		locality	1
+61318	102019763	Mojokerto		locality	6
+61382	102019763	Mojokerto		locality	4
+61382	102019759	Mojosari		locality	1
+61384	102019763	Mojokerto		locality	1
 61419	102020361	Jombang		locality	1
 61461	102020361	Jombang		locality	1
 61463	102020361	Jombang		locality	2
 61471	102020361	Jombang		locality	3
 61481	890496587	Peterongan		locality	1
 61623	102018911	Surabaya		locality	1
+62115	102019921	Madiun		locality	1
 62118	102020809	Bojonegoro		locality	2
 62128	102019063	Sidoarjo		locality	1
+62162	102020809	Bojonegoro		locality	1
 62171	102020809	Bojonegoro		locality	8
+62182	1242869007	Bulaklo		locality	2
+62182	1344266819	Balen		locality	1
+62182	1242963805	Barek		locality	1
 62182	102020809	Bojonegoro		locality	1
+62182	1327125425	Penganten		locality	1
+62185	102020809	Bojonegoro		locality	1
 62191	102020809	Bojonegoro		locality	3
 62211	102020029	Lamongan		locality	1
+62218	102020029	Lamongan		locality	4
+62257	1293190913	Kesambi		locality	3
 62315	102018683	Tuban		locality	1
 62316	102018683	Tuban		locality	1
-62318	102018683	Tuban		locality	1
-62354	890498893	Bancar		locality	1
+62318	102018683	Tuban		locality	3
+62354	1293385089	Bancar		locality	1
+62354	1343480557	Jombok		locality	1
+62371	102018683	Tuban		locality	8
+62391	102018683	Tuban		locality	40
 63102	102019921	Madiun		locality	1
-63125	102019921	Madiun		locality	5
+63116	102019921	Madiun		locality	4
+63125	102019921	Madiun		locality	4
 63131	890495257	Taman		locality	2
 63138	890499721	Taman		locality	1
 63139	102019921	Madiun		locality	1
 63153	102020723	Caruban		locality	4
-63153	890493225	Pandean		locality	2
-63211	102019663	Ngawi		locality	1
-63263	102021483	Ngawi		locality	4
+63153	1226064421	Pandean		locality	2
+63154	1226064431	Pilangkenceng		locality	1
+63211	102019663	Ngawi		locality	2
+63263	102021483	Ngawi		locality	3
 63263	890498843	Ngrambe		locality	1
 63395	102019909	Magetan		locality	2
 63416	102019385	Ponorogo		locality	1
-63471	102019385	Ponorogo		locality	43
-63472	102019385	Ponorogo		locality	43
-63511	102019639	Pacitan		locality	1
+63419	102019385	Ponorogo		locality	1
+63471	102019385	Ponorogo		locality	44
+63472	1310615515	Mlarak		locality	43
+63511	102019639	Pacitan		locality	2
 63512	102019639	Pacitan		locality	1
 63515	102019639	Pacitan		locality	2
 63552	102019639	Pacitan		locality	1
 64122	102020231	Kediri		locality	2
+64123	102020231	Kediri		locality	11
+64124	1209204901	Banjaran		locality	1
+64127	102020231	Kediri		locality	1
+64129	102020231	Kediri		locality	2
+64133	102020231	Kediri		locality	2
 64139	102020231	Kediri		locality	1
+64151	102020231	Kediri		locality	1
 64153	890499877	Ponggok		locality	4
 64153	102020827	Blitar		locality	1
-64182	102020231	Kediri		locality	1
+64175	102020231	Kediri		locality	1
+64182	102020231	Kediri		locality	2
 64213	102019533	Pare		locality	1
+64227	102020231	Kediri		locality	1
 64412	102020387	East Java		locality	1
+64471	102019669	Nganjuk		locality	3
+64473	102019669	Nganjuk		locality	1
 65100	102019893	Malang		locality	1
 65111	102019893	Malang		locality	1
 65112	102019893	Malang		locality	1
 65113	102019893	Malang		locality	7
 65117	102019893	Malang		locality	44
-65126	102019893	Malang		locality	3
+65123	102019893	Malang		locality	1
+65126	102019893	Malang		locality	2
 65138	102019893	Malang		locality	3
-65141	102019893	Malang		locality	14
+65141	102019893	Malang		locality	15
 65141	102018911	Surabaya		locality	1
 65142	102019893	Malang		locality	11
 65143	102019893	Malang		locality	2
-65144	102019893	Malang		locality	10
+65144	102019893	Malang		locality	12
 65145	102019893	Malang		locality	7
 65148	102019893	Malang		locality	1
 65149	102019893	Malang		locality	2
+65151	102019893	Malang		locality	1
 65153	102019893	Malang		locality	1
 65154	102019893	Malang		locality	1
 65157	102019893	Malang		locality	2
 65162	102019893	Malang		locality	2
+65164	1259678931	Babadan		locality	1
+65174	1293120205	Gondanglegi		locality	2
 65311	102020929	Batu		locality	2
 65314	102020929	Batu		locality	4
 65318	102020929	Batu		locality	3
+65322	102020929	Batu		locality	1
+65337	102020929	Batu		locality	1
 66111	102020827	Blitar		locality	9
+66113	102020827	Blitar		locality	1
 66116	102020827	Blitar		locality	1
+66117	102020827	Blitar		locality	1
+66125	102021893	Soppeng		locality	1
 66131	102020827	Blitar		locality	1
-66181	102020827	Blitar		locality	2
+66137	102020827	Blitar		locality	1
+66181	102020827	Blitar		locality	1
+66187	1242774107	Semen		locality	1
+66212	102018679	Tulungagung		locality	2
+66291	102018679	Tulungagung		locality	4
 66311	102018693	Trenggalek		locality	1
 66317	102018693	Trenggalek		locality	1
 67115	102019503	Pasuruan		locality	2
 67151	102019503	Pasuruan		locality	1
-67153	102021007	Bangil		locality	1
+67153	102021007	Bangil		locality	2
 67156	102019503	Pasuruan		locality	1
 67174	102019503	Pasuruan		locality	8
 67181	102019503	Pasuruan		locality	3
+67219	102019359	Probolinggo		locality	1
+67255	1209299323	Lumbang		locality	1
 67273	102019359	Probolinggo		locality	3
-67312	102019931	Lumajang		locality	1
+67312	102019931	Lumajang		locality	2
 67352	102019931	Lumajang		locality	1
 67354	102019931	Lumajang		locality	8
-68121	102020381	Jember		locality	6
-68131	102020381	Jember		locality	4
+67371	102019931	Lumajang		locality	1
+68121	102020381	Jember		locality	5
+68131	102020381	Jember		locality	3
 68136	102020381	Jember		locality	1
 68213	102020803	Bondowoso		locality	2
 68262	102020803	Bondowoso		locality	2
 68311	102019025	Situbondo		locality	1
 68312	102019025	Situbondo		locality	2
 68373	102019025	Situbondo		locality	2
-68418	102020953	Banyuwangi		locality	2
-68425	102020953	Banyuwangi		locality	1
+68421	102020953	Banyuwangi		locality	1
+68453	1209906525	Bengkak		locality	6
+68453	102020953	Banyuwangi		locality	1
+68453	1209611677	Krajan		locality	1
 68464	102020953	Banyuwangi		locality	1
 68466	102020953	Banyuwangi		locality	1
+68466	1327424043	Sumbergondo Kulon		locality	1
+68485	102018911	Surabaya		locality	1
 68486	890499453	Jajag		locality	3
-69174	102020829	Blega		locality	2
+69116	102020999	Bangkalan		locality	1
+69174	102020829	Blega		locality	9
+69211	102019217	Sampang		locality	1
 69323	102019591	Pamekasan		locality	1
-70122	102020973	Banjarmasin		locality	1
+69362	102019591	Pamekasan		locality	20
+69417	102018931	Sumenep		locality	1
+70112	102020973	Banjarmasin		locality	1
+70122	102020973	Banjarmasin		locality	2
 70122	102019475	Pekanbaru		locality	1
 70233	102020973	Banjarmasin		locality	1
+70236	102020973	Banjarmasin		locality	1
 70237	102020973	Banjarmasin		locality	6
+70582	102020947	Kabupaten Barito Kuala		locality	1
 70711	102020975	Banjarbaru		locality	1
+70712	102020975	Banjarbaru		locality	2
 70714	102020975	Banjarbaru		locality	3
 70721	102020975	Banjarbaru		locality	1
 70734	102020975	Banjarbaru		locality	1
 70814	102019467	Pelaihari		locality	13
-70815	102019467	Pelaihari		locality	2
+70815	102019467	Pelaihari		locality	1
 71213	102019827	Martapura		locality	1
 71418	102021073	Amuntai		locality	1
-73112	102019609	Palangkaraya		locality	11
+71571	102020975	Banjarbaru		locality	1
+73111	102019609	Palangkaraya		locality	11
+73112	102019609	Palangkaraya		locality	18
 73115	102019229	Samarinda		locality	1
 73711	102020759	Buntok		locality	2
 74111	102019551	Pangkalanbuun		locality	1
 74112	102021025	Balikpapan		locality	2
 74112	102019551	Pangkalanbuun		locality	1
-74300	102019215	Sampit		locality	2
+74300	102019215	Sampit		locality	1
 74311	102019215	Sampit		locality	1
 74312	102019215	Sampit		locality	2
 74322	102019215	Sampit		locality	13
 74323	102019215	Sampit		locality	5
 74325	102019215	Sampit		locality	2
+74356	102019215	Sampit		locality	1
 75117	102019229	Samarinda		locality	1
 75121	102019229	Samarinda		locality	2
-75123	102019229	Samarinda		locality	1
-75125	102019229	Samarinda		locality	1
+75123	102019229	Samarinda		locality	3
 75126	102019229	Samarinda		locality	1
 75127	102019229	Samarinda		locality	1
 75131	102019229	Samarinda		locality	1
-75132	102019229	Samarinda		locality	1
 75243	102019229	Samarinda		locality	1
+75254	1326804015	Sangasangamuara		locality	1
+75274	102019229	Samarinda		locality	4
 75311	102020797	Bontang		locality	1
-76113	102021025	Balikpapan		locality	3
-76114	102021025	Balikpapan		locality	9
+76113	102021025	Balikpapan		locality	2
+76114	102021025	Balikpapan		locality	6
 76115	102021025	Balikpapan		locality	23
-76116	102021025	Balikpapan		locality	1
+76116	102021025	Balikpapan		locality	2
+76123	102021025	Balikpapan		locality	1
 76124	102021025	Balikpapan		locality	9
-76126	102021025	Balikpapan		locality	2
+76126	102021025	Balikpapan		locality	1
+76141	1326903949	Penajam		locality	1
 76155	102021025	Balikpapan		locality	1
+76211	102021967	Paser		locality	1
 76211	102018855	Tanahgrogot		locality	1
 76261	102021967	Paser		locality	1
 76521	102021967	Paser		locality	1
-76554	890500719	Labuan Bajo		locality	1
+76554	890500719	Labuan Bajo		locality	2
+77212	102021991	Bulungan		locality	1
+77252	102021991	Bulungan		locality	1
 77311	102018821	Tanjung Redeb		locality	2
+78111	102019457	Pemangkat		locality	1
 78114	102019381	Pontianak		locality	2
 78116	102019381	Pontianak		locality	3
 78117	102019381	Pontianak		locality	1
 78121	102019381	Pontianak		locality	1
+78124	102019381	Pontianak		locality	1
 78243	102019381	Pontianak		locality	2
 78391	102019381	Pontianak		locality	1
+78813	102020177	Ketapang		locality	1
+79124	102019381	Pontianak		locality	1
+79154	102019457	Pemangkat		locality	15
+79453	102019457	Pemangkat		locality	64
 79461	102022647	Tebas		locality	1
 79582	102019145	Sekadau		locality	1
 80030	890497757	Sanur		locality	1
-80033	102022125	Badung		locality	1
+80033	1327038169	Banjar Badung		locality	1
 80033	102020057	Kuta		locality	1
 80035	102020583	Denpasar		locality	1
-80111	102020583	Denpasar		locality	8
+80111	102020583	Denpasar		locality	11
 80111	102020057	Kuta		locality	1
 80112	102020583	Denpasar		locality	9
 80112	102021965	Bali		locality	2
 80113	102020583	Denpasar		locality	35
 80113	102021965	Bali		locality	4
 80113	890495039	Denpasar Selatan		locality	2
-80114	102020583	Denpasar		locality	51
+80114	102020583	Denpasar		locality	53
 80114	102021965	Bali		locality	2
-80114	102022125	Badung		locality	1
+80114	1327038169	Banjar Badung		locality	1
 80114	890498545	Kuta Utara		locality	1
-80115	102020583	Denpasar		locality	3
+80115	102020583	Denpasar		locality	4
 80115	102021965	Bali		locality	1
 80115	102020057	Kuta		locality	1
 80116	102020583	Denpasar		locality	11
-80116	102022125	Badung		locality	1
+80116	1327038169	Banjar Badung		locality	1
 80116	102020057	Kuta		locality	1
-80117	102020583	Denpasar		locality	21
+80117	102020583	Denpasar		locality	25
 80117	102021965	Bali		locality	3
 80117	890500307	Kerobokan		locality	2
 80117	890498545	Kuta Utara		locality	2
-80117	102022125	Badung		locality	1
+80117	1327038169	Banjar Badung		locality	1
+80117	1326532385	Kerobokan Kelod		locality	1
 80117	890499367	Padangsambian Klod		locality	1
-80118	102020583	Denpasar		locality	4
-80119	102020583	Denpasar		locality	32
+80118	102020583	Denpasar		locality	8
+80119	102020583	Denpasar		locality	36
 80119	102021965	Bali		locality	11
 80119	102020057	Kuta		locality	1
 80210	102020583	Denpasar		locality	1
 80221	102020583	Denpasar		locality	6
 80221	890495039	Denpasar Selatan		locality	5
 80221	102021965	Bali		locality	3
-80221	102022125	Badung		locality	1
+80221	1327038169	Banjar Badung		locality	1
 80221	102020057	Kuta		locality	1
 80222	102021965	Bali		locality	3
 80222	102020583	Denpasar		locality	3
 80222	890495039	Denpasar Selatan		locality	1
-80223	102020583	Denpasar		locality	10
+80223	102020583	Denpasar		locality	14
 80223	102021965	Bali		locality	7
-80224	102020583	Denpasar		locality	9
+80224	102020583	Denpasar		locality	10
 80224	102021965	Bali		locality	2
-80224	890497757	Sanur		locality	2
+80224	1243276149	Kelurahan Sanur		locality	2
 80224	890497853	Sidakarya		locality	2
 80225	102020583	Denpasar		locality	6
 80226	102020583	Denpasar		locality	11
 80226	890495039	Denpasar Selatan		locality	2
 80226	102021965	Bali		locality	1
+80226	890500719	Labuan Bajo		locality	1
 80227	102020583	Denpasar		locality	11
+80227	1243276149	Kelurahan Sanur		locality	6
+80227	1293699029	Renon		locality	3
 80227	102021965	Bali		locality	1
 80227	890495039	Denpasar Selatan		locality	1
 80227	102020363	Jimbaran		locality	1
 80227	102022193	Nusa Dua		locality	1
-80227	890497757	Sanur		locality	1
-80228	890497757	Sanur		locality	13
-80228	102020583	Denpasar		locality	7
+80228	1243276149	Kelurahan Sanur		locality	16
+80228	102020583	Denpasar		locality	6
 80228	102021965	Bali		locality	4
 80228	890495039	Denpasar Selatan		locality	3
 80228	102020363	Jimbaran		locality	1
 80231	102020583	Denpasar		locality	12
 80231	102018911	Surabaya		locality	2
 80231	102021965	Bali		locality	1
-80232	102020583	Denpasar		locality	12
+80232	102020583	Denpasar		locality	14
 80232	102021965	Bali		locality	4
 80233	102020583	Denpasar		locality	1
 80234	102020583	Denpasar		locality	19
 80234	102021965	Bali		locality	3
-80235	102020583	Denpasar		locality	6
+80235	102020583	Denpasar		locality	8
 80235	102021965	Bali		locality	2
-80236	102020583	Denpasar		locality	2
+80236	102020583	Denpasar		locality	3
 80237	102020583	Denpasar		locality	12
 80237	102021965	Bali		locality	1
 80238	102020583	Denpasar		locality	1
 80239	102020583	Denpasar		locality	12
 80239	102021965	Bali		locality	2
-80261	890498543	Seminyak		locality	1
-80316	890498543	Seminyak		locality	2
-80351	890495369	Canggu		locality	4
+80255	102020583	Denpasar		locality	1
+80261	1193024165	Seminyak town		locality	1
+80316	1193024165	Seminyak town		locality	2
+80351	890495369	Canggu		locality	12
 80351	890497579	Pererenan		locality	2
-80361	102021965	Bali		locality	193
-80361	102022125	Badung		locality	124
-80361	102020057	Kuta		locality	85
+80351	102020583	Denpasar		locality	2
+80361	102021965	Bali		locality	194
+80361	1327038169	Banjar Badung		locality	127
+80361	102020057	Kuta		locality	87
 80361	102020363	Jimbaran		locality	39
 80361	102020583	Denpasar		locality	28
-80361	890500307	Kerobokan		locality	15
-80361	102022193	Nusa Dua		locality	13
+80361	890500307	Kerobokan		locality	16
+80361	890495369	Canggu		locality	15
+80361	102022193	Nusa Dua		locality	14
 80361	890500147	Kuta Selatan		locality	11
-80361	890495369	Canggu		locality	9
-80361	890498543	Seminyak		locality	8
+80361	1193024165	Seminyak town		locality	8
 80361	890498545	Kuta Utara		locality	7
+80361	1326532385	Kerobokan Kelod		locality	3
 80361	890496767	Legian		locality	3
 80361	102022543	Ungasan		locality	3
-80361	890495327	Kedonganan		locality	2
 80361	890498701	Tuban		locality	2
+80361	890495327	Kedonganan		locality	2
+80361	1310504053	Gede		locality	2
+80361	1343774225	Kelod		locality	1
+80361	890498587	Benoa		locality	1
 80361	890495039	Denpasar Selatan		locality	1
+80361	1225853097	Klod		locality	1
 80361	890499173	Kutuh		locality	1
+80361	1310317405	Padang		locality	1
 80361	890498723	Pemogan		locality	1
+80361	890498543	Seminyak		locality	1
 80361	890499417	Tanjung Benoa		locality	1
 80361	102018669	Ubud		locality	1
-80361	890497757	Sanur		locality	1
-80362	102021965	Bali		locality	11
+80361	1243276149	Kelurahan Sanur		locality	1
+80362	102021965	Bali		locality	12
 80362	102020363	Jimbaran		locality	8
 80362	102020057	Kuta		locality	7
-80362	890498701	Tuban		locality	3
+80362	1326842601	Griya		locality	3
+80362	1327038169	Banjar Badung		locality	2
 80362	102020583	Denpasar		locality	2
-80362	102022125	Badung		locality	1
-80363	102022193	Nusa Dua		locality	16
-80363	102021965	Bali		locality	8
-80363	102022125	Badung		locality	2
+80362	890498587	Benoa		locality	1
+80362	890498701	Tuban		locality	1
+80363	102022193	Nusa Dua		locality	17
+80363	102021965	Bali		locality	12
+80363	1327038169	Banjar Badung		locality	2
 80363	102020363	Jimbaran		locality	2
+80363	890495369	Canggu		locality	1
+80363	890500307	Kerobokan		locality	1
 80363	102020057	Kuta		locality	1
 80364	102020363	Jimbaran		locality	4
 80364	102021965	Bali		locality	3
 80364	102020057	Kuta		locality	2
-80364	102022125	Badung		locality	1
+80364	1327038169	Banjar Badung		locality	1
+80364	890500147	Kuta Selatan		locality	1
 80364	102019485	Pecatu		locality	1
 80364	102022543	Ungasan		locality	1
 80511	102020509	Gianyar		locality	1
 80513	102020509	Gianyar		locality	1
+80515	102020509	Gianyar		locality	1
 80561	102022143	Bali		locality	1
-80571	102018669	Ubud		locality	36
-80571	102020509	Gianyar		locality	8
-80571	102021965	Bali		locality	5
+80571	102018669	Ubud		locality	55
+80571	102020509	Gianyar		locality	10
+80571	102021965	Bali		locality	6
+80571	1243266429	Keliki		locality	1
 80571	890492909	Kelusa		locality	1
-80581	102020509	Gianyar		locality	2
+80581	102020509	Gianyar		locality	3
+80581	890498967	Bedulu		locality	1
+80581	890499259	Blahbatu		locality	1
+80581	890495285	Tampaksiring		locality	1
 80582	102021965	Bali		locality	2
+80582	102020509	Gianyar		locality	2
 80582	102020583	Denpasar		locality	1
-80582	102020509	Gianyar		locality	1
 80612	102021965	Bali		locality	1
 80613	102020991	Bangli		locality	1
 80716	102020583	Denpasar		locality	1
 80716	102020151	Klungkung		locality	1
 80752	102021965	Bali		locality	1
 80771	102022143	Bali		locality	1
+80771	1243184629	Batu		locality	1
 80771	890498721	Jungutbatu		locality	1
 80771	102020151	Klungkung		locality	1
+80771	890498623	Toyapakeh		locality	1
 80851	102021587	Candi Dasa		locality	1
 80852	102020287	Karangasem		locality	3
-80853	102020287	Karangasem		locality	1
+80852	1276451003	Amed		locality	2
+80853	1243566649	Tulamben		locality	1
 80853	102020081	Kubu		locality	1
-80871	102020287	Karangasem		locality	4
-81116	102018893	Tabanan		locality	2
+80871	1226155195	Karangasem		locality	4
+80871	1276556037	Amlapura		locality	1
+81116	102018893	Tabanan		locality	1
 81119	890494823	Lovina Beach		locality	1
 81119	102019045	Singaraja		locality	1
-81151	102019045	Singaraja		locality	10
+81151	102019045	Singaraja		locality	11
 81151	890494823	Lovina Beach		locality	1
 81152	890494823	Lovina Beach		locality	3
-81152	102022125	Badung		locality	1
+81152	1327038169	Banjar Badung		locality	1
+81152	102021045	Banjar Badung		locality	1
 81152	102019711	Munduk		locality	1
+81152 Bali	102019045	Singaraja		locality	1
 81153	890500217	Pemuteran		locality	1
 81155	102021965	Bali		locality	1
 81161	102019045	Singaraja		locality	1
+81162	1310710061	Sari		locality	1
+81173	1360097245	Tejakula		locality	46
+81173	1309714645	Sambirenteng		locality	3
 82114	102018893	Tabanan		locality	1
-82121	890500499	Kediri		locality	1
+82121	1209924037	Kediri		locality	1
 82121	102018893	Tabanan		locality	1
 82162	102018893	Tabanan		locality	4
-82162	102021965	Bali		locality	1
 82191	102018893	Tabanan		locality	2
-82218	102019679	Negara		locality	1
+82218	102019679	Negara		locality	2
 83113	102021079	Ampenan		locality	5
 83113	102019813	Mataram		locality	1
 83114	102019813	Mataram		locality	1
 83115	102019813	Mataram		locality	1
+83118	102021079	Ampenan		locality	3
+83118	102019813	Mataram		locality	1
 83121	102019813	Mataram		locality	1
 83122	102019813	Mataram		locality	1
 83125	102019813	Mataram		locality	1
-83126	102019813	Mataram		locality	4
+83126	102019813	Mataram		locality	5
 83215	102019813	Mataram		locality	1
 83231	102019813	Mataram		locality	1
 83235	102019813	Mataram		locality	4
 83300	102019495	Pemenang		locality	1
+83352	1225811797	Gili Air		locality	7
+83352	1226253111	Gili Trawangan		locality	6
 83352	102019813	Mataram		locality	2
+83352	102018839	Tanjung		locality	2
+83352	1310567863	Gili Meno		locality	1
 83352	102019495	Pemenang		locality	1
+83353	1326493687	Gangga		locality	1
 83354	102022273	Senaru		locality	1
 83354	102018839	Tanjung		locality	1
-83355	102021589	Senggigi		locality	14
+83355	102021589	Senggigi		locality	13
+83355	1226253111	Gili Trawangan		locality	2
 83355	102019813	Mataram		locality	1
+83365	1293859819	Sekotong		locality	1
 83511	102019371	Praya		locality	11
-83573	102020057	Kuta		locality	2
+83552	102022167	Lombok Tengah		locality	1
+83552	1242741401	Sangkawati		locality	1
+83553	1343337693	Rembiga		locality	2
+83573	1293164359	Kuta		locality	2
 83611	102019123	Selong		locality	2
 83612	102019123	Selong		locality	6
+83616	1327297305	Pampang		locality	1
+83616	102019945	Lombok Timur		locality	1
+83659	1276771305	Damai		locality	2
+83659	102019945	Lombok Timur		locality	2
+83659	102019123	Selong		locality	2
 83661	102019819	Masbagik		locality	2
-84211	102020573	Dompu		locality	1
+83662	1226812597	Sikur		locality	3
+84211	1309782093	Dompu		locality	1
 84356	102022095	Maluk		locality	1
-84384	102022493	Empang		locality	6
+84384	102022493	Empang		locality	16
 84584	102022493	Empang		locality	3
-85000	102021397	Kupang		locality	7
+85000	102021397	Kupang		locality	8
 85001	102021397	Kupang		locality	1
 85111	102021397	Kupang		locality	14
 85117	102021397	Kupang		locality	1
@@ -1681,52 +2250,65 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 85361	102021397	Kupang		locality	5
 85511	102019011	Soe		locality	10
 86111	102019807	Maumere		locality	1
+86112	102019807	Maumere		locality	2
 86181	102019807	Maumere		locality	2
 86261	102019973	Lewoleba		locality	1
+86261	1242743741	Witihama		locality	1
 86315	102020547	Ende		locality	2
 86412	102021037	Bajawa		locality	1
 86413	102021037	Bajawa		locality	1
 86415	102021037	Bajawa		locality	1
+86472	1327409563	Mbay		locality	1
 86513	102019853	Manggarai		locality	2
 86531	102021397	Kupang		locality	1
-86554	890498613	Labuhan Bajo		locality	1
-86754	890500719	Labuan Bajo		locality	1
+86554	890500719	Labuan Bajo		locality	1
+86754	890500719	Labuan Bajo		locality	2
 87111	102018647	Waingapu		locality	10
 87112	102018647	Waingapu		locality	3
 87113	102018647	Waingapu		locality	1
 87200	102018649	Waikabubak		locality	1
 87211	102018649	Waikabubak		locality	3
-90111	102018665	Ujungpandang		locality	2
+90111	102018665	Ujungpandang		locality	4
+90113	102018665	Ujungpandang		locality	1
 90114	102018665	Ujungpandang		locality	1
-90135	102018665	Ujungpandang		locality	1
+90135	102018665	Ujungpandang		locality	2
+90143	1309757395	Barabaraya		locality	1
 90145	102018665	Ujungpandang		locality	1
-90154	102018665	Ujungpandang		locality	1
+90154	102018665	Ujungpandang		locality	2
 90161	102018921	Sungguminasa		locality	1
 90163	102018665	Ujungpandang		locality	1
+90165	1260118685	Tabarringin		locality	1
+90171	102018665	Ujungpandang		locality	2
 90174	102018665	Ujungpandang		locality	1
-90222	102018665	Ujungpandang		locality	5
+90222	102018665	Ujungpandang		locality	10
 90224	102018665	Ujungpandang		locality	5
-90231	102018665	Ujungpandang		locality	4
+90225	102018665	Ujungpandang		locality	1
+90230	102018665	Ujungpandang		locality	1
+90231	102018665	Ujungpandang		locality	8
 90233	102018665	Ujungpandang		locality	1
-90234	102018665	Ujungpandang		locality	1
+90234	102018665	Ujungpandang		locality	21
 90241	102018665	Ujungpandang		locality	10
-90242	102018665	Ujungpandang		locality	1
+90242	102018665	Ujungpandang		locality	3
 90243	102018665	Ujungpandang		locality	2
 90244	102018665	Ujungpandang		locality	2
-90245	102018665	Ujungpandang		locality	4
+90245	102018665	Ujungpandang		locality	6
 90552	102019829	Maros		locality	1
+90554	1292943495	Lempangan		locality	3
 90561	102019829	Maros		locality	1
 90761	102020945	Barru		locality	1
+90871	102021893	Soppeng		locality	1
 90953	102020883	Belawa		locality	2
-91111	1141909229	Pare-Pare		locality	1
+91111	102019529	Pare-Pare		locality	1
 91131	102019529	Pare-Pare		locality	2
-91132	102019529	Pare-Pare		locality	2
-91141	1141909229	Pare-Pare		locality	1
-91211	102019409	Pinrang		locality	2
+91132	102019529	Pare-Pare		locality	1
+91141	102019529	Pare-Pare		locality	1
+91211	1141907573	Pinrang		locality	2
 91261	102019409	Pinrang		locality	5
 91354	102019393	Polewali		locality	1
+91354	1293036419	Mandar		locality	1
 91611	102019559	Pangkajene		locality	1
 91661	102021263	Lawawoi		locality	2
+91661	1344000679	Carawali		locality	1
 91711	102020545	Enrekang		locality	1
 91712	102020545	Enrekang		locality	1
 91752	102020545	Enrekang		locality	28
@@ -1735,54 +2317,92 @@ Lippo Karawaci 1600 Tangerang 15811	102021535	Banten		locality	1
 91762	102020545	Enrekang		locality	1
 91831	102019291	Rantepao		locality	1
 91994	102020879	Belopa		locality	1
-92153	102022123	Gowa		locality	1
+92113	102018921	Sungguminasa		locality	35
+92153	1293532231	Bontonompo		locality	1
+92176	102020495	Gowa		locality	1
 92412	102020965	Bantaeng		locality	1
 92511	102020775	Bulukumba		locality	1
-92512	102020775	Bulukumba		locality	9
+92512	102020775	Bulukumba		locality	7
 92571	102020775	Bulukumba		locality	1
 92721	102018621	Watampone		locality	1
-92721	102021295	Ponre		locality	1
+92721	1327372383	Tanete		locality	1
 92983	102019177	Sorowako		locality	1
-93121	102020197	Kendari		locality	1
+93112	102020197	Kendari		locality	1
+93563	102018657	Kolaka		locality	43
+93563	1277135339	Toengge		locality	2
+93563	1293647727	Polewali		locality	1
 93664	102019715	Muna		locality	1
+93724	102020905	Baubau		locality	1
 93725	102020905	Baubau		locality	2
 94113	102019597	Palu		locality	1
+94119	102019597	Palu		locality	1
 94221	102019597	Palu		locality	1
+94362	1344016941	Sigi Biromaru		locality	1
+94471	1343630459	Masigi		locality	1
 94511	102018715	Tolitoli		locality	1
+94564	102020749	Buol		locality	4
 94619	102019373	Poso		locality	1
+94681	1360254127	Uekuli		locality	1
 94715	102019927	Luwuk		locality	1
+94764	1309676245	Toili		locality	3
 95111	102019871	Manado		locality	5
+95112	1193053565	Mahakeret Timur		locality	1
 95115	102019871	Manado		locality	6
+95119	1344185983	Wanea		locality	1
 95123	102019871	Manado		locality	3
+95352	102019871	Manado		locality	1
 95362	102018705	Tomohon		locality	2
 95415	102018705	Tomohon		locality	4
 95441	102018705	Tomohon		locality	1
 95513	102020831	Bitung		locality	1
 95522	102020831	Bitung		locality	2
-95711	1125854807	Kotamobagu		locality	1
+95711	102020115	Kotamobagu		locality	1
 95716	102020115	Kotamobagu		locality	1
+95753	1226072405	Poigar		locality	1
 96112	102020497	Gorontalo		locality	1
 96115	102020497	Gorontalo		locality	2
+96126	102020497	Gorontalo		locality	1
+96128	102020497	Gorontalo		locality	1
 96139	102020497	Gorontalo		locality	2
 96583	102020497	Gorontalo		locality	2
 97124	102021087	Ambon		locality	2
 97128	102021087	Ambon		locality	1
+97231	102021087	Ambon		locality	1
 97234	102021087	Ambon		locality	1
+97511	1310356303	Masohi		locality	15
 97592	890498617	Saparua		locality	3
+97593	1360135623	Banda Neira		locality	2
+97724	102019009	Sofifi		locality	2
 97762	102018725	Tobelo		locality	1
 97812	1125894443	Tidore		locality	5
 97813	1125894443	Tidore		locality	4
+98100	102020541	Fakfak		locality	8
 98111	102020855	Biak		locality	2
 98211	102019079	Serui		locality	1
 98311	102019841	Manokwari		locality	1
+98312	102019841	Manokwari		locality	3
+98314	102019841	Manokwari		locality	1
+98412	102018991	Sorong		locality	1
+98481	102018991	Sorong		locality	1
+98482	102018991	Sorong		locality	2
+98484	102018991	Sorong		locality	1
 98600	102020541	Fakfak		locality	2
+98611	102020541	Fakfak		locality	1
+98811	102019697	Nabire		locality	11
 98812	1125894443	Tidore		locality	1
+98818	102019697	Nabire		locality	2
+99111	102021407	Jayapura		locality	1
+99116	102021407	Jayapura		locality	1
 126754	102020997	Bangkinang		locality	1
-151416	102021535	Banten		locality	1
+151416	1293928977	Banten		locality	1
+234567	102019475	Pekanbaru		locality	3
 282894	102019475	Pekanbaru		locality	2
-402652	102021015	Bandung		locality	1
 533381	102019341	Purbolinggo		locality	1
 552977	102018575	Special Region of Yogyakarta	DIY	locality	1
 555551	890494611	Turi		locality	1
+601117	890498807	Sukolilo		locality	1
+601117	102018911	Surabaya		locality	1
 846484	102022493	Empang		locality	1
 853653	102019123	Selong		locality	1
+866678	102019827	Martapura		locality	1
+975112	1310356303	Masohi		locality	1
