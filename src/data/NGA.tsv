@@ -1,44 +1,70 @@
 +234	421189333	Obudu		locality	3
-+234	421180027	Port Harcourt		locality	1
 +234	1141909431	Lagos		locality	1
++234	421180027	Port Harcourt		locality	1
 P. O. Box 532	890453179	Enugu		locality	1
 Yaba	890437281	Lagos		locality	1
 0011	1141907421	Gombe		locality	1
 043	890440473	Abakaliki		locality	1
-234	421195911	Makurdi		locality	9
+187	1209375861	Tudun Wada		locality	1
 234	1141907421	Gombe		locality	3
 234	890437283	Abuja		locality	1
 234	890432249	Kano		locality	1
+234	1243159935	Karu		locality	1
 234	890437281	Lagos		locality	1
+234	1242999677	Mararaba		locality	1
+400	890453179	Enugu		locality	1
+1024	890444297	Oyo		locality	18
 1089	890444297	Oyo		locality	1
-2234	1141909215	Kaduna		locality	1
+2234	1125880387	Kaduna		locality	1
 2340	890437281	Lagos		locality	1
+2476	890437281	Lagos		locality	1
+2884	890432249	Kano		locality	1
+7077	890437283	Abuja		locality	1
+20050	1293461461	Ikoyi		locality	1
 23401	890437281	Lagos		locality	1
-23402	1141909211	Ibadan		locality	12
+23402	1125988111	Ibadan		locality	11
 23409	890437283	Abuja		locality	1
 70224	890432249	Kano		locality	1
 71510	1141909431	Lagos		locality	1
+100001	890437281	Lagos		locality	1
 100234	890437281	Lagos		locality	1
-100281	421195263	Ikeja		locality	2
+100242	890437281	Lagos		locality	1
+100281	421195263	Ikeja		locality	23
+100282	421195263	Ikeja		locality	1
+101212	1293685307	Surulere		locality	1
+101245	1242692103	Badore		locality	1
 104213	421195261	Ikorodu		locality	1
-200113	1141909211	Ibadan		locality	2
-232101	421174389	Ede		locality	15
+121101	1242944725	Ogigo		locality	2
+200113	1125988111	Ibadan		locality	2
+210271	1276172709	Ogbomoso		locality	2
+232101	1259813003	Owode		locality	15
 232118	890434625	Inisa		locality	2
 232121	421174389	Ede		locality	1
+234102	1125988111	Ibadan		locality	1
 240212	890434619	Ilorin		locality	1
+251101	1125860091	Omu Aran		locality	2
+300001	421189725	Benin City		locality	1
 340252	890434703	Akure		locality	1
 400261	890453179	Enugu		locality	1
 410001	421191699	Nsukka		locality	11
 430231	890429919	Onitsha		locality	1
 460242	890444301	Owerri		locality	1
+462103	1309753277	Nguru		locality	4
+500102	421180027	Port Harcourt		locality	2
 500211	421180027	Port Harcourt		locality	1
+530001	890434627	Ikot Ekpene		locality	1
+700214	1259829799	Nassarawa		locality	4
 700224	890432249	Kano		locality	21
+700224	1243515439	Tarauni		locality	4
 760222	1141907421	Gombe		locality	1
 900001	890437283	Abuja		locality	1
 900211	890437283	Abuja		locality	1
+900281	890437283	Abuja		locality	1
 900288	890437283	Abuja		locality	1
-930101	890444315	Jos		locality	1
+903101	1226530083	Kuje		locality	1
+930101	421189729	Jos		locality	1
 930214	421189729	Jos		locality	1
-930252	890444315	Jos		locality	7
-930253	890444315	Jos		locality	1
+930252	421189729	Jos		locality	7
+930253	421189729	Jos		locality	1
+7000224	1243515439	Tarauni		locality	1
 81100011	890444289	Zaria		locality	1

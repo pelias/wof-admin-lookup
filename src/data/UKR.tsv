@@ -1,5 +1,4 @@
-<различные>	1125779377	Kryvyi Rih		locality	260
-000	101876513	Kozatske		locality	13
+000	1309894131	Kozats'ke		locality	13
 ТП-406-1	101859933	Nadvirna		locality	11
 ТП-405-2	101859933	Nadvirna		locality	8
 ТП 469-2	101859933	Nadvirna		locality	5
@@ -48,168 +47,175 @@
 ТП489-12	101859933	Nadvirna		locality	1
 ТП489-13	101859933	Nadvirna		locality	1
 ТП489-19	101859933	Nadvirna		locality	1
-02-088	101752489	Kiev		locality	1
-21-509	101864485	Заболоття		locality	1
-22-425	101876659	Грабовець		locality	321
-22-530	101864485	Заболоття		locality	81
-28-210	101864011	Nemyriv		locality	1
-37-414	101864499	Гута		locality	137
-38-315	101860921	Присліп		locality	2
-38-500	101862835	Заболотці		locality	1
-39-307	101862561	Birky		locality	1
-0680	101752489	Kiev		locality	1
-01001	101752489	Kiev		locality	17
-01004	101752489	Kiev		locality	23
-01010	101752489	Kiev		locality	3
-01011	101752489	Kiev		locality	1
-01014	101752489	Kiev		locality	1
-01021	101752489	Kiev		locality	3
-01030	101752489	Kiev		locality	1
-01032	101752489	Kiev		locality	16
-01033	101752489	Kiev		locality	6
-01034	101752489	Kiev		locality	6
-01042	101752489	Kiev		locality	7
-01046	101752489	Kiev		locality	1
-01054	101752489	Kiev		locality	3
-01103	101752489	Kiev		locality	5
-01133	101752489	Kiev		locality	19
-01135	101752489	Kiev		locality	1
-01196	101752489	Kiev		locality	1
-01601	101752489	Kiev		locality	2
-01901	101752489	Kiev		locality	2
-02000	101752489	Kiev		locality	5
-2001	101867503	Khrystynivka		locality	1
-02002	101752489	Kiev		locality	4
-02034	101752489	Kiev		locality	4
-02068	101752489	Kiev		locality	3
-02081	101752489	Kiev		locality	3
-02088	101752489	Kiev		locality	1
-02089	101752489	Kiev		locality	1
-02090	101752489	Kiev		locality	16
-02091	101752489	Kiev		locality	2
-02092	101752489	Kiev		locality	3
-02093	101752489	Kiev		locality	1
-02094	101752489	Kiev		locality	2
-02095	101752489	Kiev		locality	3
-02097	101752489	Kiev		locality	6
-02105	101752489	Kiev		locality	2
-02121	101752489	Kiev		locality	1
-02125	101752489	Kiev		locality	39
-02132	101752489	Kiev		locality	4
-02140	101752489	Kiev		locality	21
-02156	101752489	Kiev		locality	2
-02160	101752489	Kiev		locality	1
-02192	101752489	Kiev		locality	1
-02225	101752489	Kiev		locality	3
-02230	101752489	Kiev		locality	1
-02232	101752489	Kiev		locality	3
+21-107	1259847679	Syrnyky		locality	18
+22-530	1360253207	Zabolottya		locality	81
+22-440	1327203731	Grabnik		locality	2
+37-723	1209487903	Staryava		locality	16
+0680	101752489	Kiev City	KC	locality	1
+01001	101752489	Kiev City	KC	locality	13
+01003	101752489	Kiev City	KC	locality	1
+01004	101752489	Kiev City	KC	locality	22
+01010	101752489	Kiev City	KC	locality	3
+01011	101752489	Kiev City	KC	locality	1
+01014	101752489	Kiev City	KC	locality	1
+01021	101752489	Kiev City	KC	locality	2
+01030	101752489	Kiev City	KC	locality	1
+01032	101752489	Kiev City	KC	locality	15
+01033	101752489	Kiev City	KC	locality	7
+01034	101752489	Kiev City	KC	locality	6
+01042	101752489	Kiev City	KC	locality	7
+01046	101752489	Kiev City	KC	locality	1
+01054	101752489	Kiev City	KC	locality	3
+01103	101752489	Kiev City	KC	locality	5
+01133	101752489	Kiev City	KC	locality	15
+01135	101752489	Kiev City	KC	locality	1
+01196	101752489	Kiev City	KC	locality	1
+01601	101752489	Kiev City	KC	locality	2
+01901	101752489	Kiev City	KC	locality	2
+02000	101752489	Kiev City	KC	locality	6
+2001	1175613699	Khrystynivka		locality	1
+02002	101752489	Kiev City	KC	locality	3
+02034	101752489	Kiev City	KC	locality	3
+02068	101752489	Kiev City	KC	locality	3
+02081	101752489	Kiev City	KC	locality	3
+02088	101752489	Kiev City	KC	locality	2
+02089	101752489	Kiev City	KC	locality	1
+02090	101752489	Kiev City	KC	locality	20
+02091	101752489	Kiev City	KC	locality	3
+02092	101752489	Kiev City	KC	locality	3
+02093	101752489	Kiev City	KC	locality	1
+02094	101752489	Kiev City	KC	locality	2
+02095	101752489	Kiev City	KC	locality	3
+02097	101752489	Kiev City	KC	locality	6
+02105	101752489	Kiev City	KC	locality	2
+02121	101752489	Kiev City	KC	locality	1
+02125	101752489	Kiev City	KC	locality	42
+02132	101752489	Kiev City	KC	locality	3
+02140	101752489	Kiev City	KC	locality	10
+02141	101752489	Kiev City	KC	locality	4
+02156	101752489	Kiev City	KC	locality	2
+02160	101752489	Kiev City	KC	locality	1
+02192	101752489	Kiev City	KC	locality	1
+02222	101752489	Kiev City	KC	locality	1
+02225	101752489	Kiev City	KC	locality	3
+02230	101752489	Kiev City	KC	locality	1
+02232	101752489	Kiev City	KC	locality	3
 2640	1125864347	Novoarkhanhel's'k		locality	1
-03006	101752489	Kiev		locality	1
-03024	101752489	Kiev		locality	1
+03006	101752489	Kiev City	KC	locality	1
+03022	101752489	Kiev City	KC	locality	1
+03024	101752489	Kiev City	KC	locality	1
 03027	101869739	Novosilky		locality	2
-03028	101752489	Kiev		locality	1
-03031	101752489	Kiev		locality	1
-03035	101752489	Kiev		locality	4
-03037	101752489	Kiev		locality	5
-03039	101752489	Kiev		locality	19
-03041	101752489	Kiev		locality	3
-03048	101752489	Kiev		locality	7
-03056	101752489	Kiev		locality	2
-03061	101752489	Kiev		locality	1
-03065	101752489	Kiev		locality	1
-03067	101752489	Kiev		locality	1
-03069	101752489	Kiev		locality	1
-03083	101752489	Kiev		locality	1
-03087	101752489	Kiev		locality	2
-03110	101752489	Kiev		locality	7
-03113	101752489	Kiev		locality	1
-03115	101752489	Kiev		locality	2
-03127	101752489	Kiev		locality	1
-03131	101752489	Kiev		locality	1
-03134	101752489	Kiev		locality	2
-03143	101752489	Kiev		locality	5
-03148	101752489	Kiev		locality	6
-03150	101752489	Kiev		locality	26
-03151	101752489	Kiev		locality	2
-03162	101752489	Kiev		locality	1
-03164	101752489	Kiev		locality	4
-03168	101752489	Kiev		locality	1
-03169	101752489	Kiev		locality	1
-03170	101752489	Kiev		locality	1
-03179	101752489	Kiev		locality	5
-03181	101876989	Sofiivska Borschahivka		locality	1
-03186	101752489	Kiev		locality	2
-03187	101752489	Kiev		locality	2
-03189	101752489	Kiev		locality	3
-03191	101752489	Kiev		locality	2
-03194	101752489	Kiev		locality	2
-04050	101752489	Kiev		locality	10
-04053	101752489	Kiev		locality	1
-04070	101752489	Kiev		locality	4
-04071	101752489	Kiev		locality	3
-04072	101752489	Kiev		locality	1
-04073	101752489	Kiev		locality	9
-04074	101752489	Kiev		locality	6
-04075	101752489	Kiev		locality	2
-04078	101752489	Kiev		locality	12
-04080	101752489	Kiev		locality	2
-04107	101752489	Kiev		locality	3
-04108	101752489	Kiev		locality	6
-04111	101752489	Kiev		locality	34
-04112	101752489	Kiev		locality	2
-04114	101752489	Kiev		locality	5
-04116	101752489	Kiev		locality	1
-04119	101752489	Kiev		locality	1
-04123	101752489	Kiev		locality	1
-04128	101752489	Kiev		locality	10
-04200	101752489	Kiev		locality	2
-04201	101752489	Kiev		locality	9
-04205	101752489	Kiev		locality	10
-04212	101752489	Kiev		locality	4
-04214	101752489	Kiev		locality	2
-4513	101865397	Vynohradar		locality	6
-04655	101752489	Kiev		locality	1
-4951	101782357	Tiszabecs		locality	3
-6630	101876691	Северинівка		locality	3
-07100	101871597	Slavutych		locality	3
+03028	101752489	Kiev City	KC	locality	1
+03031	101752489	Kiev City	KC	locality	1
+03035	101752489	Kiev City	KC	locality	4
+03037	101752489	Kiev City	KC	locality	5
+03039	101752489	Kiev City	KC	locality	19
+03041	101752489	Kiev City	KC	locality	3
+03048	101752489	Kiev City	KC	locality	7
+03056	101752489	Kiev City	KC	locality	2
+03061	101752489	Kiev City	KC	locality	1
+03062	101752489	Kiev City	KC	locality	1
+03065	101752489	Kiev City	KC	locality	1
+03067	101752489	Kiev City	KC	locality	1
+03069	101752489	Kiev City	KC	locality	1
+03083	101752489	Kiev City	KC	locality	1
+03087	101752489	Kiev City	KC	locality	2
+03110	101752489	Kiev City	KC	locality	8
+03113	101752489	Kiev City	KC	locality	1
+03115	101752489	Kiev City	KC	locality	2
+03127	101752489	Kiev City	KC	locality	1
+03131	101752489	Kiev City	KC	locality	1
+03134	101752489	Kiev City	KC	locality	3
+03143	101752489	Kiev City	KC	locality	5
+03148	101752489	Kiev City	KC	locality	6
+03150	101752489	Kiev City	KC	locality	26
+03151	101752489	Kiev City	KC	locality	2
+03162	101752489	Kiev City	KC	locality	1
+03164	101752489	Kiev City	KC	locality	6
+03168	101752489	Kiev City	KC	locality	1
+03169	101752489	Kiev City	KC	locality	1
+03170	101752489	Kiev City	KC	locality	1
+03179	101752489	Kiev City	KC	locality	5
+03181	1225813755	Borshchahivka		locality	1
+03186	101752489	Kiev City	KC	locality	2
+03187	101752489	Kiev City	KC	locality	2
+03189	101752489	Kiev City	KC	locality	3
+03191	101752489	Kiev City	KC	locality	2
+03194	101752489	Kiev City	KC	locality	2
+04050	101752489	Kiev City	KC	locality	10
+04052	101752489	Kiev City	KC	locality	1
+04053	101752489	Kiev City	KC	locality	1
+04070	101752489	Kiev City	KC	locality	3
+04071	101752489	Kiev City	KC	locality	3
+04072	101752489	Kiev City	KC	locality	1
+04073	101752489	Kiev City	KC	locality	9
+04074	101752489	Kiev City	KC	locality	6
+04075	101752489	Kiev City	KC	locality	2
+04078	101752489	Kiev City	KC	locality	12
+04080	101752489	Kiev City	KC	locality	2
+04107	101752489	Kiev City	KC	locality	3
+04108	101752489	Kiev City	KC	locality	6
+04111	101752489	Kiev City	KC	locality	40
+04112	101752489	Kiev City	KC	locality	2
+04114	101752489	Kiev City	KC	locality	5
+04116	101752489	Kiev City	KC	locality	1
+04119	101752489	Kiev City	KC	locality	1
+04123	101752489	Kiev City	KC	locality	1
+04128	101752489	Kiev City	KC	locality	10
+04200	101752489	Kiev City	KC	locality	2
+04201	101752489	Kiev City	KC	locality	9
+04205	101752489	Kiev City	KC	locality	11
+04212	101752489	Kiev City	KC	locality	5
+04214	101752489	Kiev City	KC	locality	2
+04655	101752489	Kiev City	KC	locality	1
+4951	101782357	Tiszabecs		locality	5
+07033	1326916353	Hlibivka		locality	1
+07100	101871597	Slavutych		locality	2
 07101	101871597	Slavutych		locality	9
 07103	101871597	Slavutych		locality	1
 07200	101871209	Ivankiv		locality	3
 07300	1126036595	Vyshhorod		locality	7
 07301	1126036595	Vyshhorod		locality	1
-07354	101870999	Novi Petrivtsi		locality	1
-07400	101752955	Brovary		locality	98
-07403	101752955	Brovary		locality	7
-07411	101870951	Lëtki		locality	18
+07362	1243433237	Novosëlki na Desne		locality	1
+07400	101752955	Brovary		locality	85
+07403	101752955	Brovary		locality	8
+07405	101752955	Brovary		locality	5
+07410	1226721135	Litochky		locality	1
+07411	101870951	Lëtki		locality	20
+07412	101870947	Рожни		locality	5
+07413	101870933	Pukhovka		locality	2
+07414	1310572301	Rozhivka		locality	1
 07416	101870927	Погреби		locality	5
 07443	101870929	Калинівка		locality	1
 07451	101870923	Krasilovka		locality	3
 07452	101870921	Gogoliv		locality	3
 07455	101869945	Knyazhichi		locality	2
-07501	101869817	Baryshivka		locality	3
-07800	101870867	Borodianka		locality	118
+07500	1125971003	Baryshivka		locality	1
+07501	1125971003	Baryshivka		locality	3
+07800	101870867	Borodianka		locality	116
 07800-07805	101870867	Borodianka		locality	1
-07801	101870867	Borodianka		locality	6
+07801	101870867	Borodianka		locality	11
+07834	1226093043	Ozera		locality	2
 07840	101870849	Пилиповичі		locality	1
 07853	101870871	Nemishaieve		locality	4
 07854	101870871	Nemishaieve		locality	1
 08000	101869549	Makariv		locality	6
+08034	1343540317	Makovyshche		locality	1
 08072	101869541	Бишів		locality	6
 08114	101869733	Horenychi		locality	143
-08130	101869741	Петропавлівська Борщагівка		locality	71
-08131	101876989	Sofiivska Borschahivka		locality	18
-08131	101752489	Kiev		locality	1
-08132	101876993	Vyshneve		locality	175
+08130	1225813755	Borshchahivka		locality	71
+08131	1225813755	Borshchahivka		locality	18
+08131	101752489	Kiev City	KC	locality	1
+08132	101876993	Vyshneve		locality	176
 08136	101869723	Kriukivshchyna		locality	21
+08136	1209902289	Kriukivschina		locality	2
 08141	101869725	Petrivske		locality	8
 08153	101869745	Boyarka		locality	1
 08161	101869717	Tarasovka		locality	1
 08162	101869747	Chabany		locality	7
 08171	1125857675	Khotiv		locality	1
 08173	101869705	Khodosovka		locality	1
-08200	101876991	Irpin		locality	4
-08292	101876995	Bucha		locality	32
-08294	101876995	Bucha		locality	3
+08292	101876995	Bucha		locality	1
 08296	101870833	Vorzel'		locality	4
 08298	101870831	Kotsiubynske		locality	3
 08300	1125936473	Boryspil'		locality	4
@@ -217,15 +223,16 @@
 08303	1125936473	Boryspil'		locality	1
 08304	1125936473	Boryspil'		locality	1
 08322	101876987	Prolisky		locality	1
-08325	101876979	Shchaslyve		locality	25
+08325	101876979	Shchaslyve		locality	24
 08352	101869637	Вороньків		locality	1
 08400	101869567	Pereyaslav-Khmel'nyts'kyy		locality	1
 08454	1125779011	Tsybli		locality	1
 08500	101752905	Fastiv		locality	2
 08555	101869383	Малополовецьке		locality	1
 08600	1125855601	Vasylkiv		locality	1
-08630	1125936323	Hlevakha		locality	7
+08630	1125936323	Hlevakha		locality	5
 08631	101869499	Hlevakha		locality	5
+08632	1326601013	Ivankovychi		locality	1
 08633	101869485	Markhalivka		locality	1
 08654	101869489	Doslidnytske		locality	2
 08662	101869491	Grebënki		locality	7
@@ -233,27 +240,27 @@
 08667	101869487	Losyatin		locality	1
 08703	101869503	Obukhiv		locality	4
 08711	1125984035	Kozyn		locality	3
-08800	101869409	Myronivka		locality	56
-09100	101752485	Bila Tserkva		locality	6
-09106	101752485	Bila Tserkva		locality	1
-09109	1125857901	Bila Tserkva		locality	1
-09113	1125857901	Bila Tserkva		locality	2
-09200	101869429	Kaharlyk		locality	33
+08800	101869409	Myronivka		locality	54
+09106	1293547423	Belaya		locality	1
+09109	1293547423	Belaya		locality	1
+09113	1293547423	Belaya		locality	2
+09200	101869429	Kaharlyk		locality	31
 09230	1126011623	Rzhyshchiv		locality	9
 09245	101868641	Stavy		locality	1
 09254	101868639	Burty		locality	1
 09400	101876855	Stavishche		locality	68
 09721	101870797	Михайлівка		locality	1
-10001	101752889	Zhytomyr		locality	5
+10001	101752889	Zhytomyr		locality	6
 10002	101752889	Zhytomyr		locality	2
 10003	1125900223	Zhytomyr		locality	9
 10005	1125900223	Zhytomyr		locality	7
 10006	1125900223	Zhytomyr		locality	2
-10008	101752889	Zhytomyr		locality	5
+10008	101752889	Zhytomyr		locality	6
 10009	101752889	Zhytomyr		locality	2
 10012	101752889	Zhytomyr		locality	1
-10014	1125900223	Zhytomyr		locality	4
+10014	1125900223	Zhytomyr		locality	5
 10019	101752889	Zhytomyr		locality	3
+10020	1125900223	Zhytomyr		locality	1
 10024	1125900223	Zhytomyr		locality	4
 10025	101752889	Zhytomyr		locality	3
 10029	1125900223	Zhytomyr		locality	2
@@ -264,38 +271,25 @@
 11101	101877065	Овруч		locality	1
 11500	101752953	Korosten		locality	4
 11501	101752953	Korosten		locality	1
-11509	101752953	Korosten		locality	9
+11509	101752953	Korosten		locality	11
 11703	101752933	Novohrad-Volynskyi		locality	1
 12110	101870767	Irshansk		locality	3
 12422	101869347	Дениші		locality	33
-12426	101862965	Висока Піч		locality	35
-12427	101862965	Висока Піч		locality	14
-12443	101869369	Ozerne		locality	26
+12443	101869369	Ozerne		locality	27
+12499	1192969321	Zamozhne		locality	12
 12501	1125865131	Korostyshiv		locality	1
 12504	1125865131	Korostyshiv		locality	1
-13001, 13002, 13003, 13004, 13005	101864073	Romaniv		locality	1
-13300	101752865	Berdychiv		locality	6
+13254	101862813	Іванопіль		locality	29
+13256	101862813	Іванопіль		locality	1
+13300	101752865	Berdychiv		locality	4
 13308	101752865	Berdychiv		locality	1
 13312	101752865	Berdychiv		locality	1
-14000	101752969	Chernihiv		locality	13
-14006	101752969	Chernihiv		locality	1
-14017	101752969	Chernihiv		locality	6
-14027	101752969	Chernihiv		locality	1
-14029	101752969	Chernihiv		locality	16
-15100	1125857715	Horodnya		locality	5
-15300	101871835	Koryukivka		locality	2
-15314	101871831	Naumovka		locality	1
-15522	101871543	Sednëv		locality	1
-16021	1125864025	Sloboda		locality	1
-16600	101752967	Nizhyn		locality	17
-16604	101752967	Nizhyn		locality	1
-16612	101752967	Nizhyn		locality	1
-16703	101871337	Ichnya		locality	1
-17000	1125900869	Kozelets		locality	5
-17351	101869967	Savintsy		locality	1
-17423	101870027	Staraya Basan'		locality	7
-18000	101752869	Cherkasy		locality	8
-18002	1125977881	Cherkasy		locality	2
+16600	101752967	Nizhyn		locality	1
+17001	1125900869	Kozelets		locality	1
+17500	1125779127	Pryluky		locality	1
+18000	1125900987	Cherkasy		locality	8
+18000	101752869	Cherkasy		locality	1
+18002	1125900987	Cherkasy		locality	2
 18003	101752869	Cherkasy		locality	1
 18005	1125977881	Cherkasy		locality	1
 18006	1125977881	Cherkasy		locality	1
@@ -305,7 +299,7 @@
 18028	101752869	Cherkasy		locality	1
 18029	101752869	Cherkasy		locality	4
 19000	101869419	Kaniv		locality	1
-19200	1125911945	Zhashkiv		locality	25
+19200	1125911945	Zhashkiv		locality	23
 19326	101867737	Дібрівка		locality	1
 19340	101867811	Vinograd		locality	1
 19523	101867929	Ol'shana		locality	33
@@ -315,35 +309,37 @@
 19831	101868875	Nekhayki		locality	2
 20200	101867793	Zvenyhorodka		locality	27
 20202	101867793	Zvenyhorodka		locality	2
-20250	101876839	Vatutine		locality	11
-20300	101752833	Uman'		locality	110
+20250	101876839	Vatutine		locality	10
+20300	101752833	Uman'		locality	102
 20400	101867631	Tal'ne		locality	2
 20500	101867637	Katerynopil'		locality	1
 20602	101867767	Shpola		locality	1
-20700	1126029845	Smila		locality	48
+20700	101752859	Smila		locality	48
 20703	1126029845	Smila		locality	1
 20706	1126029845	Smila		locality	4
+20721	1310563869	Balakleya		locality	6
 20761	101876869	Будки		locality	5
 20800	101876865	Kam”yanka		locality	9
-20814	101876863	Юрчиха		locality	9
-20825	101868231	Mikhaylovka		locality	3
+20814	101876863	Юрчиха		locality	8
+20825	101868231	Mikhaylovka		locality	2
 21012	101752843	Vinnytsia		locality	2
-22000	1126035725	Khmilnyk		locality	1
-22130	101869243	Глухівці		locality	2
-22200	1125779151	Pohrebyshche		locality	7
+21018	101752843	Vinnytsia		locality	1
+22000	1126035725	Khmilnyk		locality	2
+22130	1292969327	Hlukhivtsi		locality	2
+22200	1125779151	Pohrebyshche		locality	6
 22700	101867551	Illintsi		locality	6
 22740	101867549	Dashiv		locality	2
 23000-23005	1125930709	Bar		locality	2
-23100	1125767001	Zhmerynka		locality	606
-23104	1125767001	Zhmerynka		locality	18
-23109	1125767001	Zhmerynka		locality	1
 23210	101867591	Stryzhavka		locality	2
 23218	101867581	Сосонка		locality	1
 23227	101873173	Агрономічне		locality	2
 23310	101873965	Hnivan		locality	6
+23600	101876717	Tulchyn		locality	1
+23700	1125825353	Haisyn		locality	1
 24000	1125836155	Mohyliv-Podilskyi		locality	2
 24321	101867347	Ladyzhyn		locality	1
-24500	101876579	Yampil		locality	1
+24400	101867361	Bershad		locality	1
+24500	101876579	Yampil		locality	2
 24700	101866285	Pishchanka		locality	6
 24715	101866277	Studena		locality	3
 24736	101866279	Гонорівка		locality	1
@@ -352,40 +348,41 @@
 25031	101752847	Kirovohrad		locality	2
 26000	101867693	Novomyrhorod		locality	1
 27200	101867363	Bobrynets'		locality	1
-27322	101870137	Sosnovka		locality	1
+27322	1276849067	Sosnivka		locality	1
 27400	101876849	Znam”yanka		locality	1
-27410	101868187	Знам'янка Друга		locality	1
+27410	101876849	Znam”yanka		locality	1
 27500	1125900379	Svitlovods'k		locality	3
 27507	101868333	Svitlovods'k		locality	2
-28000	101752853	Oleksandriya		locality	1196
-29000	1125900885	Khmelnytskyi		locality	566
+28000	101752853	Oleksandriya		locality	1195
+29000	1125900885	Khmelnytskyi		locality	2
 29000	101752841	Khmelnytskyi		locality	1
-29001	1125900885	Khmelnytskyi		locality	101
 29006	101752841	Khmelnytskyi		locality	1
 29008	101752841	Khmelnytskyi		locality	1
 29009	101752841	Khmelnytskyi		locality	1
 29010	101752841	Khmelnytskyi		locality	2
-29013	1125900885	Khmelnytskyi		locality	38
-29016	1125900885	Khmelnytskyi		locality	9
-29017	1125900885	Khmelnytskyi		locality	1
-29018	1125900885	Khmelnytskyi		locality	4
+29011	101752841	Khmelnytskyi		locality	4
 29019	1125900885	Khmelnytskyi		locality	4
-29027	1125900885	Khmelnytskyi		locality	27
 30000	101864099	Slavuta		locality	1
-30100	101864101	Netishyn		locality	44
+30100	101864101	Netishyn		locality	42
+30235	1209095409	Vorobiyivka		locality	1
 30400	1125954051	Shepetivka		locality	6
-30400-30409	1125954051	Shepetivka		locality	1
-30405	1125954051	Shepetivka		locality	3
-31000	101862651	Krasyliv		locality	1
-31100	1125775421	Starokostiantyniv		locality	142
+30405	1125954051	Shepetivka		locality	1
+30500	101864047	Polonne		locality	1
+31000	101862651	Krasyliv		locality	2
+31100	1125775421	Starokostiantyniv		locality	140
 31100-31109	1125775421	Starokostiantyniv		locality	8
 31103	101862673	Starokostiantyniv		locality	1
+31174	1243448695	Illyashivka		locality	1
 31200-31208	101876791	Volochysk		locality	1
 31310	101876771	Острів		locality	1
 31345	101862193	Богданівці		locality	1
 31414	101862655	Пасічна		locality	2
-31500	101862525	Letychiv		locality	1531
+31500	101862525	Letychiv		locality	1
+31522	1260164941	Suslivtsi		locality	92
+31523	1209799363	Novokonstiantyniv		locality	1
 31525	101861557	Вербка		locality	11
+31540	1293090229	Horbasiv		locality	14
+31542	1226093051	Rudnya		locality	52
 31600	101861819	Chemerivtsi		locality	2
 32000	101862447	Horodok		locality	8
 32002	101862447	Horodok		locality	1
@@ -393,85 +390,69 @@
 32223	101862487	Vovkovyntsi		locality	1
 32300	101752477	Kamenets-Podilski		locality	9
 32301	101752477	Kamenets-Podilski		locality	1
-32400	101861787	Дунаївці		locality	5
-32401	101861787	Дунаївці		locality	1
-32473	101861763	Великий Жванчик		locality	1
-32500	101862443	Vinkivtsi		locality	368
+32366	1343631129	Ruda		locality	1
+32400	101861787	Дунаївці		locality	4
+32444	101861773	Залісці		locality	1
+32500	101862443	Vinkivtsi		locality	365
 32514	101861871	Зіньків		locality	1
-33000	101752907	Rivne		locality	3
-33011	101752907	Rivne		locality	6
-33013	101752907	Rivne		locality	1
-33014	101752907	Rivne		locality	1
-33016	101752907	Rivne		locality	1
-33018	101752907	Rivne		locality	2
-33027	101752907	Rivne		locality	3
-33028	101752907	Rivne		locality	2
-34100	1125978483	Dubrovytsia		locality	1
-34153	101864567	Осова		locality	2
-34200	101877041	Rokytne		locality	3
+34200	1175613725	Rokytne		locality	3
 34240	101864523	Томашгород		locality	2
-34400	101864469	Varash		locality	1
-34500	101877023	Sarny		locality	2
+34500	101877023	Sarny		locality	4
 35000	101864227	Kostopil		locality	9
 35100	101864077	Mlyniv		locality	1
 35200	101864041	Demydivka		locality	14
-35200	101860089	Lishnya		locality	1
+35200	1293365379	Lishnya		locality	1
+35222	1276618967	Rohizne		locality	24
 35307	101862979	Обарів		locality	1
-35342	101862975	Біла Криниця		locality	1
+35312	101864141	Klevan		locality	1
 35342	101861679	Біла		locality	1
+35422	1226304677	Malynivka		locality	3
 35433	101863011	Горбаків		locality	1
 35500-35508	101876861	Radyvyliv		locality	1
 35612	101862879	Варковичі		locality	1
+35613	1260350837	Kopany		locality	1
+35629	1327198873	Kvitneve		locality	3
 35700	1125957425	Zdolbuniv		locality	1
 35709	1125891831	Zdovbytsya		locality	1
 35800	101864069	Ostroh		locality	11
-36000	101752939	Poltava		locality	10
-36002	101752939	Poltava		locality	1
-36003	101752939	Poltava		locality	2
-36005	101752939	Poltava		locality	1
-36008	101752939	Poltava		locality	15
-36014	101752939	Poltava		locality	1
-36015	101752939	Poltava		locality	1
-36020	101752939	Poltava		locality	1
-36021	101752939	Poltava		locality	27
-36023	101752939	Poltava		locality	3
-36028	101752939	Poltava		locality	1
+36008	101752939	Poltava		locality	1
 36034	101752939	Poltava		locality	1
-36039	101752939	Poltava		locality	11
-36040	101752939	Poltava		locality	2
-37000	1125954251	Pyryatyn		locality	3
-37300	1125917985	Hadyach		locality	5
+37000	101870881	Pyryatyn		locality	3
+37200	101871051	Lokhvytsya		locality	2
+37300	101871085	Hadyach		locality	5
 37400	101870819	Hrebinka		locality	1
 37430	101870819	Hrebinka		locality	1
-37500	101752491	Lubny		locality	2
-37600	101870967	Myrhorod		locality	3
+37574	1343327329	Matskivtsi		locality	1
+37600	101870967	Myrhorod		locality	4
 37710	101869595	Lazorki		locality	71
 38000	1125839779	Shyshaky		locality	38
+38143	1242743559	Pyshnenky		locality	9
 38200	101870755	Semenivka		locality	445
-38300	1125855501	Velyka Bahachka		locality	2
 38400	1125864263	Reshetylivka		locality	3
-38410	101869579	Піщане		locality	1
+38410	1209071903	Pishchane		locality	1
 38413	101869577	Zhovtnevoye		locality	13
-38500	101870877	Dykan'ka		locality	37
 38600	101871029	Kotel'va		locality	16
-38701	101870137	Sosnovka		locality	1
-38750	101752939	Poltava		locality	2
+38701	1226162999	Sosnivka		locality	1
+38714	101873199	Suprunovka		locality	1
+38720	101877001	Takhtaulovo		locality	2
+38750	101752939	Poltava		locality	1
+38752	101868933	Щербані		locality	1
 38761	101876999	Копили		locality	1
-38800	1125864807	Chutove		locality	12
+38800	101870885	Chutove		locality	13
 39200	1125825337	Kobelyaky		locality	6
-39300	101868725	Novi Sanzhary		locality	89
-39300	101868717	Лелюхівка		locality	7
-39400	1126002467	Mashivka		locality	26
+39300	1226562283	Sanzhary		locality	89
+39300	1226020627	Lelyukhivka		locality	7
+39400	1126002467	Mashivka		locality	8
 39430	101868869	Seleshchina		locality	6
-39500	101868905	Karlivka		locality	22
+39500	101868905	Karlivka		locality	23
 39600	101752881	Kremenchuk		locality	27
 39605	101752881	Kremenchuk		locality	1
 39610	101752881	Kremenchuk		locality	2
 39621	101752881	Kremenchuk		locality	16
 39625	101752881	Kremenchuk		locality	3
 39701	101868447	Піщане		locality	1
-39763	1125780213	Kam”yani Potoky		locality	2
-40000	101752495	Sumy		locality	5
+39763	101868443	Kamiani Potoky		locality	2
+40000	101752495	Sumy		locality	6
 40001	101752495	Sumy		locality	1
 40004	101752495	Sumy		locality	1
 40005	101752495	Sumy		locality	1
@@ -482,69 +463,78 @@
 40021	101752495	Sumy		locality	2
 40022	101752495	Sumy		locality	1
 40024	101752495	Sumy		locality	1
-40030	101752495	Sumy		locality	5
+40030	101752495	Sumy		locality	6
 40031	101752495	Sumy		locality	1
-40034	101752495	Sumy		locality	3
+40034	101752495	Sumy		locality	4
 40035	101752495	Sumy		locality	3
 40036	101752495	Sumy		locality	1
 41100	101752973	Shostka		locality	33
 41108	101752973	Shostka		locality	6
-41300	101871789	Krolevets		locality	49
-41300	1125857553	Krolevets		locality	6
+41300	1125857553	Krolevets		locality	49
+41300	101871789	Krolevets		locality	1
 41304	101871789	Krolevets		locality	8
 41400	101871843	Hlukhiv		locality	4
 41500	101871787	Putyvl'		locality	11
 41600	101752971	Konotop		locality	1
+41602	101752971	Konotop		locality	1
+41723	1209689879	Klepaly		locality	3
+42000	101871381	Romny		locality	1
 42100	1125900689	Nedryhayliv		locality	58
 42127	101869211	Вільшана		locality	4
-42400	101871577	Krasnopillya		locality	5
-42400	1125779555	Krasnopillya		locality	3
-43018	1125779353	Lutsk		locality	1
+42243	1193092493	Derevok		locality	2
+42400	101871577	Krasnopillya		locality	2
+42400	1125779555	Krasnopillya		locality	2
+43000	101752883	Lutsk		locality	1
+43018	1125779353	Lutsk		locality	2
 43020	101752883	Lutsk		locality	1
 43023	101752883	Lutsk		locality	1
 43024	101752883	Lutsk		locality	2
 43026	101752883	Lutsk		locality	2
 44000	101864311	Shatsk		locality	1
-44220	101865793	Ветли		locality	3
-44300	1125779287	Liuboml		locality	1
+44220	101865793	Ветли		locality	2
+44630	1276932023	Kolodiyi		locality	1
 44681	101864355	Гораймівка		locality	1
 44700	1125778909	Volodymyr-Volynskyi		locality	2
 44702	1125778909	Volodymyr-Volynskyi		locality	1
+44743	1259440383	Laskiv		locality	1
 44800	101864201	Turiisk		locality	1
-45000	101752931	Kovel		locality	2
+45000	101752931	Kovel		locality	3
 45002	1125900739	Kovel		locality	2
 45021	101864197	Kivertsi		locality	1
 45109	101864167	Дубище		locality	1
 45200	101864197	Kivertsi		locality	2
+45200	1259847673	Klepachiv		locality	1
 45400	101752867	Novovolynsk		locality	1
 45500	1125864439	Lokachi		locality	5
-45743	101861825	Сільце		locality	5
+45500	1310556823	Markovychi		locality	1
+45604	1293657499	Krupa		locality	1
+45703	1293646709	Markovychi		locality	4
+45743	1209282635	Sil'tse		locality	5
+45766	1276716863	Burkachi		locality	11
 46000	101752835	Ternopil		locality	4
-46001	101752835	Ternopil		locality	440
-46002	101752835	Ternopil		locality	822
+46001	1126002313	Ternopil		locality	439
+46002	1126002313	Ternopil		locality	822
 46003	1126002313	Ternopil		locality	678
-46005	101752835	Ternopil		locality	307
-46005	101862113	Великі Гаї		locality	52
+46005	101752835	Ternopil		locality	308
 46006	101752835	Ternopil		locality	1
 46008	101752835	Ternopil		locality	761
 46009	1126002313	Ternopil		locality	332
 46010	1126002313	Ternopil		locality	193
-46011	101752835	Ternopil		locality	660
+46011	101752835	Ternopil		locality	658
 46012	1126002313	Ternopil		locality	800
 46013	101752835	Ternopil		locality	59
-46016	101752835	Ternopil		locality	112
-46018	101752835	Ternopil		locality	153
+46016	1126002313	Ternopil		locality	112
+46018	1126002313	Ternopil		locality	153
 46020	101752835	Ternopil		locality	359
 46022	101752835	Ternopil		locality	81
 46023	101752835	Ternopil		locality	116
 46024	101752835	Ternopil		locality	71
 46027	1126002313	Ternopil		locality	361
-46400	1126002313	Ternopil		locality	297
+46400	101752835	Ternopil		locality	296
 46409	1126002313	Ternopil		locality	13
-47000	101864017	Kremenets		locality	4
+47000	101864017	Kremenets		locality	3
 47003	101864017	Kremenets		locality	24
-47004	101864017	Kremenets		locality	14
-47009	101864017	Kremenets		locality	1
+47004	101864017	Kremenets		locality	13
 47040	101862905	Плоске		locality	8
 47100	101864027	Shumsk		locality	14
 47201	101862547	Zboriv		locality	3
@@ -554,128 +544,98 @@
 47500	101861981	Berezhany		locality	1
 47600	101862049	Kozova		locality	1
 47661	101876753	Яструбове		locality	1
-47703	101862125	Великий Глибочок		locality	17
+47703	101861587	Глибочок		locality	17
 47707	101861679	Біла		locality	3
 47707	1126002313	Ternopil		locality	1
 47708	101873167	Довжанка		locality	1
 47711	101862123	Байківці		locality	1
-47715	101862913	Романівка		locality	1
+47714	1226239907	Anhelivka		locality	2
+47715	1243524273	Romanivka		locality	1
 47716	101860729	Грабовець		locality	1
 47717	101861695	Дубівці		locality	1
-47720	1126002313	Ternopil		locality	13
-47720	1125856073	Petrykiv		locality	2
+47720	101752835	Ternopil		locality	13
+47720	101862115	Petrykiv		locality	2
 47721	101861803	Почапинці		locality	1
-47722	101862113	Великі Гаї		locality	7
 47723	101862119	Смиківці		locality	1
-47724	101862129	Velyka Berezovytsia		locality	1
-47725	101862129	Velyka Berezovytsia		locality	6
 47726	101862121	Підгородне		locality	1
 47728	101876771	Острів		locality	2
 47730	101876767	Буцнів		locality	1
 47732	101876763	Мишковичі		locality	1
 47734	101861283	Nastasiv		locality	1
+47735	1293264799	Yosypivka		locality	1
 47735	101862221	Мар'янівка		locality	1
-47740	101862131	Velyki Birky		locality	5
-47741	101862111	Малий Ходачків		locality	1
+47736	1276328821	Krasivka		locality	1
+47740	101862561	Birky		locality	5
+47741	1243501741	Kostyantynivka		locality	1
+47741	1243144731	Malyy		locality	1
+47742	1310074387	Tovstoluh		locality	1
 47800	101862187	Pidvolochysk		locality	7
 48100	101861907	Terebovlia		locality	6
 48130	101861909	Дружба		locality	20
 48142	1125833561	Zarvanytsia		locality	1
-48200	101861953	Гусятин		locality	2
+48200	1125779703	Husyatyn		locality	2
 48253	101861921	Личківці		locality	2
 48260	101861957	Kopychyntsi		locality	304
 48370	101861659	Koropets		locality	1
 48400-48405	101876669	Buchach		locality	7
 48400-48405	101876667	Pidzamochok		locality	1
 48423	101876669	Buchach		locality	1
-48500	101876649	Chortkiv		locality	2
+48500	101876649	Chortkiv		locality	3
 48543	101876641	Нагірянка		locality	1
 48552	101861029	Колиндяни		locality	1
-48600	1125857239	Zalishchyky		locality	2
-48601	1125857239	Zalishchyky		locality	5
+48600	1125857239	Zalishchyky		locality	1
+48601	1125857239	Zalishchyky		locality	1
 48653	101861483	Kasperivtsi		locality	334
-48700	1125984769	Borschiv		locality	2
+48701	1125984769	Borschiv		locality	1
 48702	1125984769	Borschiv		locality	5
 48710	101861599	Лосяч		locality	8
 48720	101861603	Skala-Podilska		locality	529
 48733	101861579	Bilche Zolote		locality	3
 48741	101861573	Кривче		locality	1
 48750	101861565	Кудринці		locality	1
-49049	101752861	Dnipropetrovs'k		locality	1
-49107	101752861	Dnipropetrovs'k		locality	1
-50000	1125779377	Kryvyi Rih		locality	58
-50000-50479	1125779377	Kryvyi Rih		locality	19
-50001	1125779377	Kryvyi Rih		locality	25
-50002	1125779377	Kryvyi Rih		locality	1
-50006	101752837	Kryvyi Rih		locality	4
-50007	1125779377	Kryvyi Rih		locality	25
-50014	1125779377	Kryvyi Rih		locality	2
-50024	1125779377	Kryvyi Rih		locality	4
-50025	1125779377	Kryvyi Rih		locality	33
-50036	1125779377	Kryvyi Rih		locality	1
-50042	1125779377	Kryvyi Rih		locality	127
-50071	1125779377	Kryvyi Rih		locality	59
-50076	1125779377	Kryvyi Rih		locality	44
-50079	1125779377	Kryvyi Rih		locality	1150
-50084	1125779377	Kryvyi Rih		locality	1
-50102	101752837	Kryvyi Rih		locality	32
+51012	1310507183	Lyashkovka		locality	19
 51404	101752871	Pavlohrad		locality	2
 51412	101752871	Pavlohrad		locality	2
 51413	101752871	Pavlohrad		locality	4
-51700	101867861	Vil'nohirs'k		locality	1
 51937	1125864759	Dniprodzerzhyns'k		locality	1
 52071	101865917	Дослідне		locality	1
-52200	101752855	Zhovti Vody		locality	3189
-52209	101752855	Zhovti Vody		locality	31
 52470	101752823	Stryi		locality	1
 53280	101876291	Придніпровське		locality	1
-53400	1125779227	Marhanets		locality	1525
-53600	101876851	Pokrovs'ke		locality	1
-54000	1125900637	Vernoleninsk		locality	2
-54000-54490	1125900637	Vernoleninsk		locality	1
-54001	1125900637	Vernoleninsk		locality	12
-54003	1125900637	Vernoleninsk		locality	11
+54000	1125900637	Vernoleninsk		locality	1
+54001	1125900637	Vernoleninsk		locality	2
+54003	1125900637	Vernoleninsk		locality	9
 54007	101752809	Vernoleninsk		locality	1
-54017	1125855691	Mykolaiv		locality	7
+54017	1125900637	Vernoleninsk		locality	4
 54018	101752809	Vernoleninsk		locality	3
-54020	1125855691	Mykolaiv		locality	3
+54020	1125900637	Vernoleninsk		locality	1
 54028	101752809	Vernoleninsk		locality	6
-54029	1125900637	Vernoleninsk		locality	20
-54030	1125900637	Vernoleninsk		locality	1
+54029	1125900637	Vernoleninsk		locality	19
 54031	101752809	Vernoleninsk		locality	2
-54036	1125900637	Vernoleninsk		locality	1
-54038	1125855691	Mykolaiv		locality	1
+54038	1125900637	Vernoleninsk		locality	1
 54046	1125900637	Vernoleninsk		locality	1
 54051	101752809	Vernoleninsk		locality	32
-54052	101752809	Vernoleninsk		locality	3
+54052	101752809	Vernoleninsk		locality	2
 54056	101752809	Vernoleninsk		locality	1
-55108	1125840351	Kryve Ozero		locality	1
-55200	1125856271	Pervomays'k		locality	1
-55209	1125856271	Pervomays'k		locality	4
-55210	1125856271	Pervomays'k		locality	1
 56101	101866209	Bashtanka		locality	42
-56600	101865745	Odesa		locality	2
-56602	101865745	Odesa		locality	1
 57001	1125775309	Veselynove		locality	1
 57210	101866025	Voskresenskoye		locality	1
-58000	101752813	Chernivtsi		locality	11
-58000	1125900973	Chernivtsi		locality	2
+58000	1125900973	Chernivtsi		locality	11
 58001	1125900973	Chernivtsi		locality	23
 58002	1125900973	Chernivtsi		locality	2
 58003	1125900973	Chernivtsi		locality	1
 58004	1125900973	Chernivtsi		locality	13
 58005	1125900973	Chernivtsi		locality	1
-58009	1125900973	Chernivtsi		locality	1
 58013	1125900973	Chernivtsi		locality	1
+58014	1125900973	Chernivtsi		locality	1
 58018	1125900973	Chernivtsi		locality	1
 58021	1125900973	Chernivtsi		locality	1
 58023	1125900973	Chernivtsi		locality	1
 58025	101752813	Chernivtsi		locality	90
 58026	101752813	Chernivtsi		locality	2
-58029	1125900973	Chernivtsi		locality	2
+58029	1125900973	Chernivtsi		locality	3
 58032	1125900973	Chernivtsi		locality	1
 59000	101860499	Storozhynets		locality	1
-59300	101860615	Kitsman		locality	77
+59300	101860615	Kitsman		locality	84
 59308	101876505	Кліводин		locality	3
 59321	101859873	Оршівці		locality	2
 59400	1126037419	Zastavna		locality	1
@@ -683,11 +643,12 @@
 60035	101876551	Недобоївці		locality	12
 60151	101860765	Новоселиця		locality	1
 60400	101860481	Глибока		locality	2
-60409	101859521	Діброва		locality	1
-60415	101860475	Molodiya		locality	13
+60409	1310299777	Dibrova		locality	1
+60415	101860475	Molodiya		locality	12
 61000	1125971545	Kharkiv		locality	3
+61000	1125888989	Kharkiv		locality	3
 61001	1125888989	Kharkiv		locality	6
-61002	1125971545	Kharkiv		locality	25
+61002	1125971545	Kharkiv		locality	22
 61003	1125971545	Kharkiv		locality	1
 61007	1125888989	Kharkiv		locality	9
 61013	1125971545	Kharkiv		locality	1
@@ -699,15 +660,14 @@
 61044	1125888989	Kharkiv		locality	1
 61045	1125971545	Kharkiv		locality	2
 61047	1125888989	Kharkiv		locality	2
-61054	1125888989	Kharkiv		locality	2
+61054	1125888989	Kharkiv		locality	1
 61057	1125971545	Kharkiv		locality	1
 61058	1125971545	Kharkiv		locality	1
 61060	1125888989	Kharkiv		locality	1
 61064	101752963	Kharkiv		locality	1
 61070	1125971545	Kharkiv		locality	1
-61072	1125971545	Kharkiv		locality	4
+61072	1125971545	Kharkiv		locality	3
 61082	1125888989	Kharkiv		locality	2
-61089	1125888989	Kharkiv		locality	1
 61106	1125888989	Kharkiv		locality	1
 61118	1125888989	Kharkiv		locality	1
 61120	1125888989	Kharkiv		locality	1
@@ -719,50 +679,53 @@
 61168	1125888989	Kharkiv		locality	1
 61170	1125888989	Kharkiv		locality	1
 61171	1125888989	Kharkiv		locality	7
-61172	1125888989	Kharkiv		locality	33
+61172	1125888989	Kharkiv		locality	34
+61174	1125971545	Kharkiv		locality	2
 61176	1125888989	Kharkiv		locality	13
 61183	1125888989	Kharkiv		locality	4
 61184	1125888989	Kharkiv		locality	1
 61204	1125971545	Kharkiv		locality	1
 62002	1126045805	Krasnokutsk		locality	1
+62300	101871721	Derhachi		locality	1
 62302	101871721	Derhachi		locality	1
-62342	1125771357	Mala Danylivka		locality	1
 62414	101871373	Liptsy		locality	1
 62418	101875375	Pesochin		locality	5
-62420	101871367	Veseloye		locality	13
+62420	101871367	Veseloye		locality	12
+62420	1293121073	Zelene		locality	2
+62420	1293121059	Neskuchne		locality	1
+62480	1209026609	Ponomarenky		locality	1
 62480	1125888989	Kharkiv		locality	1
 62489	101871689	Bezlyudivka		locality	1
 62500	1126011599	Vovchans'k		locality	3
 62501	1126011599	Vovchans'k		locality	1
-62560	101871757	Staryy Saltiv		locality	7
 62630	1125857423	Prykolotne		locality	1
 62800	101871681	Pechenegi		locality	1
-62801	101871681	Pechenegi		locality	134
-63002	101871059	Valky		locality	6
-63200	1125854297	Nova Vodolaha		locality	448
+62801	101871681	Pechenegi		locality	170
+63002	101871059	Valky		locality	7
 63400	1125766987	Zmiyiv		locality	1
 63460	1125864581	Komsomol's'ke		locality	1
 63503	1125864813	Chuhuyiv		locality	7
 63700	101871679	Kup"yans'k		locality	3
 63701	101871679	Kup"yans'k		locality	5
 63707	101871679	Kup"yans'k		locality	1
-63709	101877061	Куп'янськ-Вузловий		locality	2
+63709	1209835649	Kup"yans'k Vuzlovyy		locality	2
 63752	101869147	Sen'kovo		locality	2
 64003	1125900923	Kehychivka		locality	2
-64032	101868941	Красне		locality	2
-64200	1125930757	Balakliya		locality	3
+64032	1343656037	Krasne		locality	2
+64200	101869977	Balakliya		locality	3
+64332	1277062171	Levkivka		locality	1
 64600	101752927	Lozova		locality	3
 64602	101752927	Lozova		locality	3
 64604	101752927	Lozova		locality	1
-64606	101752927	Lozova		locality	2
-65000	101752799	Odesa		locality	2
-65003	101752799	Odesa		locality	10
+65000	101752799	Odesa		locality	4
+65003	101752799	Odesa		locality	8
 65004	101752799	Odesa		locality	1
+65005	101752799	Odesa		locality	1
 65007	101752799	Odesa		locality	1
 65009	101752799	Odesa		locality	1
 65012	101752799	Odesa		locality	3
 65014	101752799	Odesa		locality	1
-65016	101752799	Odesa		locality	4
+65016	101752799	Odesa		locality	5
 65023	101752799	Odesa		locality	2
 65026	101752799	Odesa		locality	1
 65029	101752799	Odesa		locality	1
@@ -781,64 +744,62 @@
 65088	101752799	Odesa		locality	6
 65091	101752799	Odesa		locality	1
 65102	101752799	Odesa		locality	2
-65104	101752799	Odesa		locality	1
+65104	101752799	Odesa		locality	2
 65113	101752799	Odesa		locality	13
 65123	101752799	Odesa		locality	1
 66200	1125935233	Savran'		locality	2
-67000	1125900659	Mykolayivka		locality	1231
+67000	1125900659	Mykolayivka		locality	1233
 67018	1125864597	Ivano-Frankivsk		locality	2
 67450	101876321	Кучурган		locality	5
 67500	101865481	Комінтернівське		locality	2
-67600	1125779883	Bilyayivka		locality	2
+67600	1125779883	Bilyayivka		locality	1
 67667	101865389	Хлібодарське		locality	1
-67700	1125927731	Bilhorod-Dnistrovskyi		locality	1
-67701	101752795	Bilhorod-Dnistrovskyi		locality	2
+67700	1125927731	Bilhorod-Dnistrovskyi		locality	2
+67701	1125927731	Bilhorod-Dnistrovskyi		locality	2
 67707	1125927731	Bilhorod-Dnistrovskyi		locality	1
 67708	1125927731	Bilhorod-Dnistrovskyi		locality	1
 67770	1125857341	Shabo		locality	2
 67772	1125891859	Zatoka		locality	7
 67780	101858597	Сергіївка		locality	1
-67801	101858717	Ovidiopol		locality	2
+67801	101858717	Ovidiopol		locality	3
 67801	1125843295	Ovidiopol		locality	1
-67812	101865315	Nadlymanske		locality	1
+67812	1209072593	Nadlymans'ke		locality	1
 68000	101752797	Іллічівськ		locality	1
+68100	1125779073	Tatarbunary		locality	1
 68200	1125900703	Sarata		locality	1
 68300	1125857653	Kiliya		locality	1
 68355	1125863939	Vylkove		locality	1
 68600	101752783	Izmail		locality	14
 68800	1125864281	Reni		locality	1
-69000	101752845	Zaporozhye		locality	29
+69000	101752845	Zaporozhye		locality	28
 69000-69499	101752845	Zaporozhye		locality	1
 69002	101752845	Zaporozhye		locality	1
-69005	101752845	Zaporozhye		locality	1
-69014	101752845	Zaporozhye		locality	2
 69027	101752845	Zaporozhye		locality	1
-69035	101752845	Zaporozhye		locality	3
+69035	101752845	Zaporozhye		locality	2
 69040	101752845	Zaporozhye		locality	1
 69057	101752845	Zaporozhye		locality	1
 69076	101752845	Zaporozhye		locality	1
+69093	1259731111	Sonyachne		locality	1
 69117	101752845	Zaporozhye		locality	1
 69121	101752845	Zaporozhye		locality	1
 69123	101752845	Zaporozhye		locality	2
 70000-70004	101873967	Вільнянськ		locality	1
 70002	101873967	Вільнянськ		locality	6
 70024	101752483	Lviv		locality	1
-70420	101865567	Dolynske		locality	2
-70431	101865255	Лежине		locality	14
-71100	1125779763	Berdyans'k		locality	47
+70420	1326684225	Dolyns'ke		locality	2
+70431	1259737473	Lezhyne		locality	14
+71100	1125779763	Berdyans'k		locality	45
 71112	1125779763	Berdyans'k		locality	10
 71118	101752829	Berdyans'k		locality	8
 71304	101866615	Kamianka-Dniprovska		locality	1
-71316	1125984553	Vodyane		locality	3
-71316	101865163	Водяне		locality	1
-71500	101752827	Enerhodar		locality	32
+71316	101865163	Водяне		locality	2
+71500	101752827	Enerhodar		locality	17
 71502	101752827	Enerhodar		locality	1
-71503	101752827	Enerhodar		locality	8
-71504	101752827	Enerhodar		locality	3
+71503	101752827	Enerhodar		locality	7
+71504	101752827	Enerhodar		locality	2
 71603	101866697	Василівка		locality	1
-71630	101866695	Dniprorudne		locality	60
-72310	1125864383	Melitopol		locality	2
-72313	101752817	Melitopol		locality	1
+71630	101866695	Dniprorudne		locality	6
+72310	1125864383	Melitopol		locality	1
 72318	101752817	Melitopol		locality	1
 72364	1125857641	Kostiantynivka		locality	1
 73000	1125886699	Kherson		locality	5
@@ -849,36 +810,38 @@
 73024	101752801	Kherson		locality	1
 73025	1125886699	Kherson		locality	1
 73027	101752801	Kherson		locality	10
-73039	1125900897	Kherson		locality	7
-74200	1125857471	Novovorontsovka		locality	33
+73039	1125900897	Kherson		locality	6
+74200	101866415	Novovorontsovka		locality	31
 74351	101866155	Mylove		locality	1
-74900	101752475	Nova Kakhovka		locality	2
 75005	1125864597	Ivano-Frankivsk		locality	1
 75024	1125984745	Chornobaivka		locality	3
+75100	1125820255	Tsyurupinsk		locality	1
 75400	1125864651	Ivanivka		locality	1
 75500	101858881	Genichesk		locality	1
 75500	1125936339	Genichesk		locality	1
-75600	1125779797	Hola Prystan		locality	1
-75653	101858869	Zheleznyy Port		locality	1
+75653	1343933923	Port		locality	1
 75700	101858861	Skadowsk		locality	1
-75722	1125844807	Lazurne		locality	7
-76000	101752815	Ivano-Frankivsk		locality	88
-76006	101752815	Ivano-Frankivsk		locality	77
+75722	101858857	Lazurne		locality	7
+76000	1125864597	Ivano-Frankivsk		locality	88
+76000	101752815	Ivano-Frankivsk		locality	2
+76002	101752815	Ivano-Frankivsk		locality	2
+76006	101752815	Ivano-Frankivsk		locality	79
 76009	101752815	Ivano-Frankivsk		locality	43
 76010	1125864597	Ivano-Frankivsk		locality	1
 76014	101752815	Ivano-Frankivsk		locality	9
-76018	1125864597	Ivano-Frankivsk		locality	1
+76018	1125864597	Ivano-Frankivsk		locality	2
 76018	101752483	Lviv		locality	1
 76019	1125864597	Ivano-Frankivsk		locality	1
-76022	101752815	Ivano-Frankivsk		locality	3
+76022	101752815	Ivano-Frankivsk		locality	1
 76026	1125864597	Ivano-Frankivsk		locality	1
-77000	101861209	Rohatyn		locality	58
+77000	101861209	Rohatyn		locality	57
 77111	101861095	Burshtyn		locality	3
 77166	101861083	Вікторів		locality	3
+77221	1276143717	Polyanytsya		locality	1
 77300	101752481	Kalush		locality	4
 77311	101752481	Kalush		locality	1
-77401	1125855687	Tysmenytsia		locality	4
-77450	1125850231	Zahvizdya		locality	10
+77401	1125855687	Tysmenytsia		locality	3
+77450	101860957	Загвіздя		locality	10
 77503	101876591	Dolyna		locality	1
 77564	101860045	Senechiv		locality	1
 77662	101876567	Perehinske		locality	2
@@ -888,15 +851,15 @@
 77722	101860735	Росільна		locality	1
 77772	1125779239	Manyava		locality	6
 78100	101876575	Horodenka		locality	2
-78124	101861395	Тишківці		locality	1
 78125	101861389	Вікно		locality	2
-78200	101752811	Kolomyia		locality	50
+78200	1125779599	Kolomyia		locality	48
 78294	101860635	Княждвір		locality	1
 78300	1125855741	Sniatyn		locality	28
 78315	101860595	Zabolotiv		locality	3
 78315,78316	101860595	Zabolotiv		locality	2
+78340	1209098059	Tulukov		locality	1
 78350	101860563	Троїця		locality	1
-78400	101859933	Nadvirna		locality	5
+78400	101859933	Nadvirna		locality	6
 78400-78409	101859933	Nadvirna		locality	1
 78405	101859933	Nadvirna		locality	53
 78441	101859891	Стримба		locality	1
@@ -904,116 +867,109 @@
 78500	101859937	Yaremche		locality	3
 78501	101859937	Yaremche		locality	1
 78592	1125835511	Yablunytsia		locality	1
-78663	1125775403	Kuty Stare		locality	3
+78593	1276143717	Polyanytsya		locality	12
+78663	1125779457	Kuty		locality	3
 78665	1125779457	Kuty		locality	2
-79000	101752483	Lviv		locality	47
-79002	101752483	Lviv		locality	28
+79000	101752483	Lviv		locality	105
+79002	101752483	Lviv		locality	27
 79003	101752483	Lviv		locality	2
 79005	101752483	Lviv		locality	29
 79006	101752483	Lviv		locality	9
 79007	101752483	Lviv		locality	5
-79008	101752483	Lviv		locality	17
-79010	101752483	Lviv		locality	16
+79008	101752483	Lviv		locality	21
+79010	101752483	Lviv		locality	17
 79010	101862141	Зубра		locality	4
-79011	101752483	Lviv		locality	31
-79012	101752483	Lviv		locality	46
+79011	101752483	Lviv		locality	37
+79012	101752483	Lviv		locality	53
 79013	101752483	Lviv		locality	15
 79014	101752483	Lviv		locality	2
 79015	101752483	Lviv		locality	3
-79017	101752483	Lviv		locality	64
+79017	101752483	Lviv		locality	49
 79018	101752483	Lviv		locality	1
-79019	101752483	Lviv		locality	4
-79020	101752483	Lviv		locality	24
+79019	101752483	Lviv		locality	5
+79020	101752483	Lviv		locality	27
 79022	101752483	Lviv		locality	5
 79024	101752483	Lviv		locality	5
-79025	101752483	Lviv		locality	50
+79025	101752483	Lviv		locality	46
 79026	101752483	Lviv		locality	49
 79027	101752483	Lviv		locality	1
-79031	101752483	Lviv		locality	99
-79032	101752483	Lviv		locality	1
+79031	101752483	Lviv		locality	98
 79034	101752483	Lviv		locality	5
-79035	101752483	Lviv		locality	7
-79037	101752483	Lviv		locality	6
+79035	101752483	Lviv		locality	4
+79037	101752483	Lviv		locality	5
 79038	101752483	Lviv		locality	1
 79039	101752483	Lviv		locality	3
-79041	101752483	Lviv		locality	2
-79044	101752483	Lviv		locality	18
-79049	101752483	Lviv		locality	37
-79052	101752483	Lviv		locality	575
-79053	101752483	Lviv		locality	12
+79041	101752483	Lviv		locality	6
+79044	101752483	Lviv		locality	17
+79049	101752483	Lviv		locality	40
+79052	101752483	Lviv		locality	493
+79053	101752483	Lviv		locality	8
 79054	101752483	Lviv		locality	7
 79056	101752483	Lviv		locality	1
-79057	101752483	Lviv		locality	1
 79058	101752483	Lviv		locality	1
 79059	101752483	Lviv		locality	2
-79060	101752483	Lviv		locality	6
 79066	101752483	Lviv		locality	1
 79068	101752483	Lviv		locality	13
 79069	101752483	Lviv		locality	8
 79070	101752483	Lviv		locality	2
 79071	101752483	Lviv		locality	4
 79493	101862481	Rudne		locality	971
-79495	101862521	Vynnyky		locality	177
+79495	101862521	Vynnyky		locality	22
 80033	101862795	Tartakiv		locality	3
-80074	101864031	Velyki Mosty		locality	6
-80100	1126011809	Chervonohrad		locality	2
-80105	1126011809	Chervonohrad		locality	2
+80100	1126011809	Chervonohrad		locality	3
+80105	1126011809	Chervonohrad		locality	1
 80110	1126011809	Chervonohrad		locality	1
-80193	101864033	Соснівка		locality	188
+80193	101864033	Соснівка		locality	202
 80200	101864023	Radekhiv		locality	1
-80217	101862721	Новий Витків		locality	1
 80261	1125856317	Lopatyn		locality	2
 80316	101864015	Rava-Ruska		locality	1
-80353	101862609	Нова Скварява		locality	1
-80383	101876821	Malekhiv		locality	3
+80383	101876821	Malekhiv		locality	1
 80400	101876833	Kamianka-Buzka		locality	2
+80461	101862667	Запитів		locality	202
 80533	101862597	Olesko		locality	346
+80560	1125861749	Krasnoye		locality	6
 80600	101864019	Brody		locality	33
 80603	101864019	Brody		locality	1
-80700	101862539	Zolochiv		locality	18
+80700	101862539	Zolochiv		locality	17
 81070	101862563	Ivano-Frankove		locality	1
 81100	101862519	Pustomyty		locality	1
 81105	101862137	Navaria		locality	1
-81110	101876775	Zymna Voda		locality	13
+81114	1276624313	Sknyliv		locality	3
 81114	101875369	Sokilnyky		locality	1
 81115	101862147	Obroshyne		locality	1
-81130	101875369	Sokilnyky		locality	111
-81131	1125857299	Solonka		locality	4
+81130	101875369	Sokilnyky		locality	215
+81131	1125857299	Solonka		locality	10
+81144	1260252151	Volytsya		locality	1
 81200	1125923207	Peremyshliany		locality	11
+81222	1209999229	Shpyl'chyna		locality	1
 81300	101876755	Годині		locality	1
-81400	101876743	Sambir		locality	1
+81400	101876743	Sambir		locality	2
 81500	101876761	Horodok		locality	16
-81500	101876759	Черлянське Передмістя		locality	1
 81521	101862077	Rodatychi		locality	2
 81600	101861243	Lviv		locality	1
-81652	101876735	Novyi Rozdil		locality	1
 81750	101861227	Khodoriv		locality	1
-82000	1125835685	Staryi Sambir		locality	38
-82100	101752825	Drohobych		locality	1
+82000	101876743	Sambir		locality	39
+82100	101752825	Drohobych		locality	2
 82106	1125900951	Drohobych		locality	2
-82106	101861243	Lviv		locality	1
 82191	101861123	Опака		locality	1
 82200	101861153	Truskavets		locality	6
-82300	101876687	Boryslav		locality	4
-82400	101752823	Stryi		locality	24
+82300	101876687	Boryslav		locality	5
+82400	101752823	Stryi		locality	23
 82482	101861075	Morshyn		locality	16
 82500	101860935	Turka		locality	4
 82600	101860871	Skole		locality	1
 82660	1125900473	Slavskoye		locality	2
 82900	101859757	Perechyn		locality	1
 83000-87999	101752937	Kramators'k		locality	2
-83001	1125779757	Donetsk		locality	4
-83003	1125779757	Donetsk		locality	1
 83005	101752891	Donetsk		locality	5
 83008	101752891	Donetsk		locality	1
 83012	101752891	Donetsk		locality	11
 83017	1125779757	Donetsk		locality	1
 83018	101752891	Donetsk		locality	2
-83020	101752891	Donetsk		locality	38
+83020	101752891	Donetsk		locality	35
 83024	101752891	Donetsk		locality	2
 83036	101752891	Donetsk		locality	3
 83038	101752891	Donetsk		locality	5
-83050	1125779757	Donetsk		locality	1
 83054	1125779757	Donetsk		locality	3
 83058	1125779757	Donetsk		locality	1
 83059	1125779757	Donetsk		locality	1
@@ -1022,13 +978,12 @@
 83085	1125779757	Donetsk		locality	8
 83092	1125779757	Donetsk		locality	3
 83100	101752895	Makiyivka		locality	1
-83117	101752891	Donetsk		locality	54
-83119	1125779757	Donetsk		locality	1
+83117	101752891	Donetsk		locality	38
 83122	101752891	Donetsk		locality	4
-84000	101869931	Krasniy Liman		locality	1
+84021	1277072681	Nekremennoye		locality	1
 84100	101752487	Sloviansk		locality	1
 84105	101752487	Sloviansk		locality	2
-84180	101869699	Миколаївка		locality	3
+84180	1242770455	Nikolayevka		locality	3
 84200-84290	101752909	Druzhkivka		locality	1
 84201	101752909	Druzhkivka		locality	1
 84205	101752909	Druzhkivka		locality	1
@@ -1037,39 +992,31 @@
 84313	101752937	Kramators'k		locality	3
 84331	101752937	Kramators'k		locality	2
 84333	101752937	Kramators'k		locality	1
-84402	1125779515	Krasniy Liman		locality	1
-84430	101869021	Shandrigolovo		locality	2
-84500-84510	1126024311	Artemivs'k		locality	4
+84430	101869021	Shandrigolovo		locality	1
+84500-84510	1126024311	Artemivs'k		locality	3
 84500	1126024311	Artemivs'k		locality	1
 84500	101869773	Bakhmut		locality	1
 84500	101869761	Soledar		locality	1
 84506	1126024311	Artemivs'k		locality	1
-84510	101868943	Artemivs'k		locality	2
 84522	1125978689	Seversk		locality	1
 84523	1125978689	Seversk		locality	3
+84530	1276661921	Vasyukivka		locality	1
 84545	101869761	Soledar		locality	1
-84601	101752943	Horlivka		locality	10
+84601	101752943	Horlivka		locality	3
 84607	101752943	Horlivka		locality	2
-84610	101752943	Horlivka		locality	1
-84637	101752943	Horlivka		locality	1
-84646	101752943	Horlivka		locality	1
 85000	1125864715	Dobropol'ye		locality	1
 85108	101752913	Kostyantynivka		locality	1
 85113	101752913	Kostyantynivka		locality	2
 85114	1125857627	Kostyantynivka		locality	1
-85300	1125864521	Krasnoarmiys'k		locality	197
+85300	101752877	Krasnoarmiys'k		locality	234
 85300-85309	101752877	Krasnoarmiys'k		locality	77
-85300	101752877	Krasnoarmiys'k		locality	35
 85301	101752877	Krasnoarmiys'k		locality	1
+85302	101752877	Krasnoarmiys'k		locality	1
 85400	101868413	Selidovo		locality	12
-85612	1125869561	Kurakhovo		locality	7
+85612	1193270735	Kurakhove		locality	7
+85620	1225942411	Karlivka		locality	1
 85670	101868227	Ugledar		locality	1
 85672	101867187	Павлівка		locality	2
-86155	1125857501	Makiyivka		locality	2
-86200	1125857333	Shakhtërsk		locality	5
-86200	101752901	Shakhtarsk		locality	1
-86211	1125857333	Shakhtërsk		locality	1
-86211	101752901	Shakhtarsk		locality	1
 86391-86396	101868595	Zhdanovka		locality	6
 86396	101868595	Zhdanovka		locality	1
 86406	101752885	Yenakiyeve		locality	1
@@ -1077,36 +1024,41 @@
 86606	101752897	Torez		locality	1
 86700	101752899	Khartsyzsk		locality	1
 86791	1125978663	Shakhtne		locality	1
-86793	1125864697	Ilovays'k		locality	4
+86793	1326734869	Ilovays'k		locality	4
+87100	101868157	Tel'manove		locality	1
 87323	101867223	Металіст		locality	1
 88000	101752807	Uzhhorod		locality	32
 88005	101752807	Uzhhorod		locality	1
 88008	101752807	Uzhhorod		locality	1
-88009	101752807	Uzhhorod		locality	6
+88009	101752807	Uzhhorod		locality	5
 88014	101752807	Uzhhorod		locality	1
 88015	101752807	Uzhhorod		locality	2
 88017	101752807	Uzhhorod		locality	1
 88018	101752807	Uzhhorod		locality	4
-89000	101860697	Velykyi Bereznyi		locality	2
 89014	101859971	Stavne		locality	1
 89030	101859969	Волосянка		locality	1
-89130	101860555	Nizhnie Vorota		locality	2
+89121	1343316957	Pidpolozzya		locality	1
 89210	101860531	Dubrinichi		locality	1
 89300	1125957391	Svaliava		locality	7
+89414	1326586699	Strypa		locality	1
+89414	1309773863	Yarok		locality	1
+89424	101876417	Rozivka		locality	26
 89424	1125954373	Minai		locality	1
-89424	101876417	Rozivka		locality	1
-89440	101859629	Veliki Lazi		locality	23
+89440	101860553	Lazy		locality	22
 89600	101752805	Mukacheve		locality	45
 89620	101859365	Rakoshino		locality	6
+89620	1310569055	Rus'ke		locality	1
 89640	1125939589	Chynadiyovo		locality	1
+89641	1242930391	Karpaty		locality	2
 89650	101859371	Znjacovo		locality	1
 90000	101859789	Mizhhirya		locality	1
 90011	1125890979	Pilipets'		locality	1
-90040	101859765	Synevyrska Poliana		locality	1
+90040	1209382593	Polyana		locality	1
 90100	101876383	Irshava		locality	4
 90100	101876377	Loza		locality	2
 90157	101876377	Loza		locality	2
 90202	101859197	Berehove		locality	2
+90222	1226717783	Heten		locality	6
 90223	101844065	Koson'		locality	13
 90240	101859179	Bereguifalu		locality	10
 90300	101859153	Vynohradiv		locality	2
@@ -1116,6 +1068,7 @@
 90556	1126011817	Bushtyno		locality	1
 90600	101859319	Rakhiv		locality	8
 90601	101859319	Rakhiv		locality	35
+90625	101859285	Ділове		locality	1
 90630	101859323	Yasinia		locality	2
 90630	1126011331	Yasinia		locality	1
 91000	1125779365	Luhansk		locality	3
@@ -1123,56 +1076,51 @@
 91005	1125779365	Luhansk		locality	2
 91006	101752959	Luhansk		locality	79
 91007	101752959	Luhansk		locality	1
-91011	1125779365	Luhansk		locality	6
+91011	1125779365	Luhansk		locality	4
 91015	101752959	Luhansk		locality	23
 91016	101752959	Luhansk		locality	3
 91019	101752959	Luhansk		locality	2
 91021	101752959	Luhansk		locality	2
 91023	101752959	Luhansk		locality	1
-91031	1125779365	Luhansk		locality	4
-91042	1125779365	Luhansk		locality	1
+91031	1125779365	Luhansk		locality	1
+91033	1125779365	Luhansk		locality	4
 91047	1125779365	Luhansk		locality	1
 91050	1125779365	Luhansk		locality	3
 91055	101752959	Luhansk		locality	17
-91493	101869603	Ювілейне		locality	9
+91493	1343534569	Yubileynoye		locality	1
 92015	1125837201	Beloye		locality	1
-92016	101869619	Білоріченський		locality	12
+92016	1243038391	Bilorichens'kyy		locality	10
 92200	101870421	Bilokurakyne		locality	2
 92202	101870421	Bilokurakyne		locality	2
-92400	1126033687	Markivka		locality	25
+92400	101870425	Markivka		locality	24
 92702	101877049	Starobil's'k		locality	5
 92800	1125882413	Bilovods'k		locality	5
 92900	101869995	Kreminna		locality	1
-92912	101869995	Kreminna		locality	1
 93009	101752957	Rubizhne		locality	1
-93100	1125769621	Lisichansk		locality	3
+93100	1125769621	Lisichansk		locality	2
 93105	101752949	Lisichansk		locality	2
 93106	1125769621	Lisichansk		locality	1
 93120	1125769621	Lisichansk		locality	1
 93193	101869905	Novodruzhesk		locality	1
 93200	101877015	Pervomaysk		locality	1
 93400	1125923363	Syeverodonets'k		locality	3
-93404	1125923363	Syeverodonets'k		locality	4
+93404	1125923363	Syeverodonets'k		locality	3
 93413	1125923363	Syeverodonets'k		locality	1
 93500	1126016409	Novoaydar		locality	3
 94100-94190	101752925	Bryanka		locality	6
 94100	101752925	Bryanka		locality	1
-94201	101752923	Alchevs'k		locality	16
+94201	101752923	Alchevs'k		locality	14
 94204	101752923	Alchevs'k		locality	1
-94205	101752923	Alchevs'k		locality	2
-94214	101752923	Alchevs'k		locality	4
+94205	101752923	Alchevs'k		locality	1
 94300	101869529	Pereval'sk		locality	1
-94313-94315	101869535	Артемівськ		locality	6
-94400	101868971	Krasnodon		locality	2
-94418	1125931691	Molodohvardiysk		locality	1
-94440	101868971	Krasnodon		locality	2
-94518	101752919	Krasnyy Luch		locality	1
+94400	1209686267	Sorokyne		locality	2
+94440	1209686267	Sorokyne		locality	2
 94801	101752921	Sverdlovs'k		locality	1
-225660	101864345	Городок		locality	208
-283050	1125779757	Donetsk		locality	1
-296574	1125864341	Novofedorivka		locality	4
-297501	101858865	Мирне		locality	1
-298211	101865113	Semenivka		locality	1
+296574	1125864341	Novofedorivka		locality	3
+297023	1209503117	Mar'yanovka		locality	2
+298213	1209194715	Shchyolkino		locality	4
+298224	1209291775	Zolotoye		locality	1
 299049	1125855285	Balaklava		locality	1
-346960	101867217	Uspenka		locality	1
+396700	1209635461	Mykhaylivka		locality	1
 760000	1125864597	Ivano-Frankivsk		locality	1
+827051	1226812429	Kyslytsya		locality	1

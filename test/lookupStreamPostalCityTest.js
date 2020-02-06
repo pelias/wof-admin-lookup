@@ -85,6 +85,7 @@ tape('tests', (test) => {
       .addParent( 'country', 'United States', '1', 'USA')
       .addParent( 'locality', 'Nottingham', '1125996559', undefined)
       .addParent( 'locality', 'Baltimore', '85949461', undefined)
+      .addParent( 'locality', 'Perry Hall', '85950213', undefined)
       .addParent( 'locality', 'White Marsh', '85950229', undefined)
       .addParent( 'locality', 'Locality 1', '2', 'ABC')
       .setAddress('zip', '21236');

@@ -19,9 +19,9 @@ IM9 1ED	1125885797	Castletown		locality	15
 IM9 1HD	1125885797	Castletown		locality	15
 IM9 1NQ	1125885797	Castletown		locality	15
 IM9 1NW	1125885797	Castletown		locality	15
-IM9 1BD	1125885797	Castletown		locality	14
 IM9 1NU	1125885797	Castletown		locality	14
 IM9 1BB	1125885797	Castletown		locality	13
+IM9 1BD	1125885797	Castletown		locality	13
 IM9 1EA	1125885797	Castletown		locality	13
 IM9 1HF	1125885797	Castletown		locality	13
 IM9 1HS	1125885797	Castletown		locality	13
@@ -50,36 +50,52 @@ IM2 2BU	1125973189	Douglas		locality	6
 IM7 3BD	1125952529	Jurby		locality	6
 IM9 1EJ	1125885797	Castletown		locality	6
 IM9 1EH	1125885797	Castletown		locality	5
+IM1 1BQ	1125769089	Douglas		locality	4
 IM1 5AF	1125769089	Douglas		locality	4
 IM9 1EP	1125885797	Castletown		locality	4
 IM9 1HW	1125885797	Castletown		locality	4
 IM9 4LR	1125805467	Colby		locality	4
+IM1 2LF	1125769089	Douglas		locality	3
+IM1 2LH	1125769089	Douglas		locality	3
 IM5 1HB	1125952561	Peel		locality	3
 IM9 1TL	1125885797	Castletown		locality	3
 IM1 1JE	1125769089	Douglas		locality	2
-IM1 2LH	1125769089	Douglas		locality	2
+IM1 2LE	1125769089	Douglas		locality	2
+IM1 2LR	1125769089	Douglas		locality	2
 IM2 1AB	1125973189	Douglas		locality	2
+IM2 2QZ	1125973189	Douglas		locality	2
 IM4 3LQ	1125873575	St John's		locality	2
+IM7 4AN	1125895895	Bride		locality	2
 IM7 4AP	1125895895	Bride		locality	2
 IM9 1EE	1125885797	Castletown		locality	2
 IM9 1EF	1125885797	Castletown		locality	2
 IM9 5DW	1125829505	Port St Mary		locality	2
+CA15 6SH	1125806829	Crosby		locality	1
+CA15 6SQ	1125806829	Crosby		locality	1
 IM1	1125769089	Douglas		locality	1
 IM1 1AD	1125769089	Douglas		locality	1
 IM1 1BF	1125769089	Douglas		locality	1
-IM1 1BQ	1125769089	Douglas		locality	1
+IM1 1EB	1125769089	Douglas		locality	1
+IM1 1EQ	1125769089	Douglas		locality	1
+IM1 1JB	1125769089	Douglas		locality	1
+IM1 1QH	1125769089	Douglas		locality	1
+IM1 2AG	1125769089	Douglas		locality	1
 IM1 2ES	1125769089	Douglas		locality	1
 IM1 2EU	1125769089	Douglas		locality	1
-IM1 2LR	1125769089	Douglas		locality	1
+IM1 2LD	1125769089	Douglas		locality	1
+IM1 2LG	1125769089	Douglas		locality	1
 IM1 2LW	1125769089	Douglas		locality	1
 IM1 2PG	1125769089	Douglas		locality	1
+IM1 2PU	1125769089	Douglas		locality	1
 IM1 2PW	1125769089	Douglas		locality	1
 IM1 2QA	1125769089	Douglas		locality	1
+IM1 3AH	1125769089	Douglas		locality	1
 IM1 4BR	1125973189	Douglas		locality	1
 IM1 4LE	1125769089	Douglas		locality	1
 IM1 4LH	1125769089	Douglas		locality	1
 IM1 4QF	1125769089	Douglas		locality	1
 IM2 2BA	1125973189	Douglas		locality	1
+IM2 2QJ	1125787719	Braddan		locality	1
 IM2 2QR	1125973189	Douglas		locality	1
 IM2 3LF	1125973189	Douglas		locality	1
 IM2 4EZ	1125769089	Douglas		locality	1
@@ -87,6 +103,8 @@ IM2 4NF	1125769089	Douglas		locality	1
 IM2 4NP	1125769089	Douglas		locality	1
 IM2 4PL	1125769089	Douglas		locality	1
 IM2 4RE	1125973189	Douglas		locality	1
+IM2 6RB	1125973189	Douglas		locality	1
+IM3 2AR	1125805481	Onchan		locality	1
 IM3 2EY	1125805481	Onchan		locality	1
 IM4 2DN	1125973189	Douglas		locality	1
 IM4 3EU	1125858963	Foxdale		locality	1
@@ -106,13 +124,17 @@ IM7 1AT	1125895895	Bride		locality	1
 IM7 3BJ	1125952529	Jurby		locality	1
 IM7 3JP	1125952529	Jurby		locality	1
 IM7 4AJ	1125895895	Bride		locality	1
+IM7 4AL	1125895895	Bride		locality	1
 IM7 5BH	1125898773	Ballaugh		locality	1
 IM8 1AF	1125989535	Ramsey		locality	1
 IM8 1AW	1125989535	Ramsey		locality	1
+IM8 1ET	1125989535	Ramsey		locality	1
 IM8 1JH	1125989535	Ramsey		locality	1
 IM8 1LE	1125989535	Ramsey		locality	1
 IM8 1LH	1125989535	Ramsey		locality	1
 IM8 2LL	1125989535	Ramsey		locality	1
+IM8 2PA	1125989535	Ramsey		locality	1
+IM8 2RG	1125989535	Ramsey		locality	1
 IM9 1AX	1125885797	Castletown		locality	1
 IM9 1LH	1125885797	Castletown		locality	1
 IM9 1TU	1125991293	Derbyhaven		locality	1
@@ -121,9 +143,12 @@ IM9 2AP	1125873565	Ballasalla		locality	1
 IM9 2AS	1125873565	Ballasalla		locality	1
 IM9 2EF	1125873565	Ballasalla		locality	1
 IM9 2EG	1125873565	Ballasalla		locality	1
+IM9 2RG	1360194605	Ronaldsway		locality	1
+IM9 4HF	1277018557	Ballabeg		locality	1
 IM9 5AE	1125829505	Port St Mary		locality	1
 IM9 5AQ	1125829505	Port St Mary		locality	1
 IM9 5DN	1125829505	Port St Mary		locality	1
+IM9 5LH	1125829505	Port St Mary		locality	1
 IM9 6AL	1125973541	Port Erin		locality	1
 IM9 6AQ	1125973541	Port Erin		locality	1
 IM9 6HF	1125973541	Port Erin		locality	1

@@ -1,154 +1,222 @@
-N3304	421181525	Garupá		locality	2117
+B2930	421201559	San Pedro		locality	6600
+B1847	421185413	Rafael Calzada		locality	4291
+B2900	421203523	San Nicolás de los Arroyos		locality	2857
+B1845	421193959	José Mármol		locality	2596
+B1846	421188261	Adrogué		locality	2506
+N3304	421181525	Garupá		locality	1988
+B1843	421198207	San Francisco Solano		locality	1842
 S2134	421197811	Roldán		locality	1776
 S2535	421178979	El Trébol		locality	1693
-S3000	421174279	Santa Fe		locality	829
+B1849	421171167	Claypole		locality	1620
+S2529	1209789793	Piamonte		locality	1314
+S3000	421174279	Santa Fe		locality	875
 S6009	421197509	Teodelina		locality	767
+S2501	1259557631	Bustinza		locality	507
+S2725	1327398329	Hughes		locality	403
 S2529	421199725	Los Cardos		locality	268
-B2930	421201559	San Pedro		locality	177
 S2142	421193489	Ibarlucea		locality	176
-C1060ABD	421174285	Buenos Aires		locality	169
-S2322	421170351	Sunchales		locality	134
-N3300	890444623	Posadas		locality	104
-S3044	421196061	Crespo		locality	95
+C1060ABD	421174285	Buenos Aires		locality	168
+S2322	421170351	Sunchales		locality	132
+B7240IPA	421195755	Lobos		locality	130
+B7240INB	421195755	Lobos		locality	120
+X5113	421171165	Salsipuedes		locality	111
+N3300	421186911	Posadas		locality	105
+S2170	421200971	Casilda		locality	103
+S3044	1243228107	Gobernador Crespo		locality	95
+S2214	1193101529	Aldao		locality	88
 C1054AAQ	421174285	Buenos Aires		locality	87
-N3370	890444625	Puerto Iguazú		locality	80
+S3016	421168277	Santo Tomé		locality	84
+N3370	890444625	Puerto Iguazú		locality	82
 C1012AAZ	421174285	Buenos Aires		locality	77
+S2258	1276629011	Santa Clara de Buena Vista		locality	73
+B1832	421179899	Lomas de Zamora		locality	72
 S3040	421167803	San Justo		locality	60
-S3013	421188551	San Carlos Centro		locality	55
-S2170	421200971	Casilda		locality	54
+S2600	421172795	Venado Tuerto		locality	50
 S2240	421196303	Coronda		locality	49
-S2600	421172795	Venado Tuerto		locality	49
 S3005	421195753	San Javier		locality	49
-S2300	421176549	Rafaela		locality	47
+B1828	421191277	Banfield		locality	48
+B1833	421192279	Turdera		locality	48
+B1834	421178163	Temperley		locality	48
+S2300	421176549	Rafaela		locality	48
+B1980	421174707	Brandsen		locality	47
 S3560	421174653	Reconquista		locality	47
-S3016	421168277	Santo Tomé		locality	44
+S2454	1260154875	Canada Rosquin		locality	46
+S2132	421191291	Funes		locality	45
+C1043AAA	421174285	Buenos Aires		locality	39
+C1426ABC	421174285	Buenos Aires		locality	39
 C1059ABD	421174285	Buenos Aires		locality	35
-C1426ABC	421174285	Buenos Aires		locality	35
 C1054AAC	421174285	Buenos Aires		locality	34
 B7165	421204631	Villa Gesell		locality	31
-B7240AKP	1141908071	Lobos		locality	30
+B7240AKP	421195755	Lobos		locality	30
 S2121	421168413	Pérez		locality	30
-B7240AEC	1141908071	Lobos		locality	28
-B7240AEE	1141908071	Lobos		locality	28
-B7240AKC	1141908071	Lobos		locality	28
-B7240AKD	1141908071	Lobos		locality	28
-B7240AKH	1141908071	Lobos		locality	28
-B7240AKN	1141908071	Lobos		locality	27
-B7240AKK	1141908071	Lobos		locality	26
-B7240AKL	1141908071	Lobos		locality	26
-B7240AKM	1141908071	Lobos		locality	26
-B7240AKO	1141908071	Lobos		locality	26
+S2257	1225903241	Colonia Belgrano		locality	29
+S2609	1209780121	Maria Teresa		locality	29
+B7240AEC	421195755	Lobos		locality	28
+B7240AEE	421195755	Lobos		locality	28
+B7240AKC	421195755	Lobos		locality	28
+B7240AKD	421195755	Lobos		locality	28
+B7240AKH	421195755	Lobos		locality	28
+B7240AKN	421195755	Lobos		locality	27
+B7240AKK	421195755	Lobos		locality	26
+B7240AKL	421195755	Lobos		locality	26
+B7240AKM	421195755	Lobos		locality	26
+B7240AKO	421195755	Lobos		locality	26
 B7240AKQ	421195755	Lobos		locality	26
 B7240AKR	421195755	Lobos		locality	26
 B7240AKS	421195755	Lobos		locality	26
 B7240AKT	421195755	Lobos		locality	26
+Q8300	421193995	Neuquén		locality	26
+S3029	1259944387	Elisa		locality	26
 C1054AAN	421174285	Buenos Aires		locality	24
-C1055AAO	421174285	Buenos Aires		locality	22
-B7240AKF	1141908071	Lobos		locality	20
-B7240AKI	1141908071	Lobos		locality	20
-B7240AKJ	1141908071	Lobos		locality	20
-B7240IPF	1141908071	Lobos		locality	20
-C1107AAV	421174285	Buenos Aires		locality	20
-B7240INB	1141908071	Lobos		locality	18
-B7240IPA	1141908071	Lobos		locality	18
-B7240IPC	1141908071	Lobos		locality	18
-B7240IPD	1141908071	Lobos		locality	18
-B1702	421186529	Ciudadela		locality	16
-B7240IPE	1141908071	Lobos		locality	16
-C1042AAB	421174285	Buenos Aires		locality	15
+C1042AAB	421174285	Buenos Aires		locality	23
+S3009	1226714335	Franck		locality	23
+B2760BWE	421196287	San Antonio de Areco		locality	22
+S2445	1360259229	Maria Juana		locality	22
+B2760BWF	421196287	San Antonio de Areco		locality	20
+B7240AKF	421195755	Lobos		locality	20
+B7240AKI	421195755	Lobos		locality	20
+B7240AKJ	421195755	Lobos		locality	20
+B7240IPF	421195755	Lobos		locality	20
+C1055AAO	421174285	Buenos Aires		locality	20
+C1107AAV	421174285	Buenos Aires		locality	19
+N3337	421184809	Dos de Mayo		locality	19
+N3380	421204755	Eldorado		locality	19
+B2760BWC	421196287	San Antonio de Areco		locality	18
+B7240IPC	421195755	Lobos		locality	18
+B7240IPD	421195755	Lobos		locality	18
+S2000	421172799	Rosario		locality	18
+S3085	1276189359	Pilar		locality	18
+B2760BWD	421196287	San Antonio de Areco		locality	16
+B2760BWG	421196287	San Antonio de Areco		locality	16
+B7240IPE	421195755	Lobos		locality	16
 S2138	421195643	Carcarañá		locality	15
+B2760BWH	421196287	San Antonio de Areco		locality	14
+C1100AAF	421174285	Buenos Aires		locality	14
+N3307	421182169	San José		locality	14
+N3352	421168025	San Pedro		locality	14
 S2124	421193425	Villa Gobernador Gálvez		locality	14
-N3307	421182169	San José		locality	13
-N3352	421168025	San Pedro		locality	13
+N3350	421174033	Apóstoles		locality	13
 N3360	421175461	Oberá		locality	13
 N3364	421171315	Aristóbulo del Valle		locality	13
-S2607	421195981	Villa Cañás		locality	13
 S2728	421174453	Melincué		locality	13
+S6100	421196083	Rufino		locality	13
+B2760CVH	421196287	San Antonio de Areco		locality	12
 S2520	890444181	Las Rosas		locality	12
-S3080	421172011	Esperanza		locality	12
+S2607	421195981	Villa Cañás		locality	12
+C1059ABP	421174285	Buenos Aires		locality	11
+N3362	421166771	Campo Grande		locality	11
+N3366	421174609	San Antonio		locality	11
+S2605	1193234775	Santa Isabel		locality	11
+S2640	1293648241	Goedeken		locality	11
+S2919	421204623	Villa Constitución		locality	11
 S3060	421204699	Tostado		locality	11
-S6100	421196083	Rufino		locality	11
-B 1629 MXA	421171581	Fátima		locality	10
-B7240AED	1141908071	Lobos		locality	10
-B7240IPG	1141908071	Lobos		locality	10
-B7240IPH	1141908071	Lobos		locality	10
+S3080	421172011	Esperanza		locality	11
+B1629MXA	421171581	Fátima		locality	10
+B1646GHG	421178079	San Fernando		locality	10
+B1646GHH	421178079	San Fernando		locality	10
+B7240AED	421195755	Lobos		locality	10
+B7240IPG	421195755	Lobos		locality	10
+B7240IPH	421195755	Lobos		locality	10
 C1043AAY	421174285	Buenos Aires		locality	10
-C1100AAF	421174285	Buenos Aires		locality	10
-N3350	421174033	Apóstoles		locality	10
-N3366	421174609	San Antonio		locality	10
+C1059ABQ	421174285	Buenos Aires		locality	10
+N3385	1293361351	Andresito		locality	10
 S2200	421172731	San Lorenzo		locality	10
 S2202	421175119	Puerto General San Martín		locality	10
 S2500	421168417	Cañada de Gómez		locality	10
-C1059ABP	421174285	Buenos Aires		locality	9
+Y4600	421185855	San Salvador de Jujuy		locality	10
+B1702	421186529	Ciudadela		locality	9
+B2760CJD	421196287	San Antonio de Areco		locality	9
+C1002AAA	421174285	Buenos Aires		locality	9
 N3362	421182631	Campo Viera		locality	9
 N3366	421184807	Bernardo de Irigoyen		locality	9
 N3376	421174465	Wanda		locality	9
+R8500	421186917	Viedma		locality	9
 S2111	421186067	Santa Teresa		locality	9
 S2252	421178973	Gálvez		locality	9
 S2630	421179717	Firmat		locality	9
-S2919	421204623	Villa Constitución		locality	9
-B7240AEG	1141908071	Lobos		locality	8
-B7240AEH	1141908071	Lobos		locality	8
-B7240AEI	1141908071	Lobos		locality	8
-B7240AEJ	1141908071	Lobos		locality	8
+B2760CJC	421196287	San Antonio de Areco		locality	8
+B7240AEG	421195755	Lobos		locality	8
+B7240AEH	421195755	Lobos		locality	8
+B7240AEI	421195755	Lobos		locality	8
+B7240AEJ	421195755	Lobos		locality	8
 C1037ADA	421174285	Buenos Aires		locality	8
 C1054AAP	421174285	Buenos Aires		locality	8
 C1059ABC	421174285	Buenos Aires		locality	8
-C1059ABQ	421174285	Buenos Aires		locality	8
 C1408BLK	421174285	Buenos Aires		locality	8
 N3356	421174913	San Vicente		locality	8
 N3379	890418119	Veinticinco de Mayo		locality	8
 N3384	421176127	Montecarlo		locality	8
+R8324	1125907463	Cipolletti		locality	8
+R8520	421191641	San Antonio Este		locality	8
+S2255	1343916949	Lopez		locality	8
+S3012	1226603859	San Jeronimo del Sauce		locality	8
 S3580	890441851	Villa Ocampo		locality	8
 B1648CIE	421202401	Tigre		locality	7
+B1884	421182313	Berazategui		locality	7
+B1917	421201507	Verónica		locality	7
+C1405DKA	421174285	Buenos Aires		locality	7
 C1408BLL	421174285	Buenos Aires		locality	7
+M5600	421202307	San Rafael		locality	7
 N3315	421204763	Leandro N. Alem		locality	7
+N3316	421196331	Santa Ana		locality	7
 N3322	421203779	San Ignacio		locality	7
-N3362	421166771	Campo Grande		locality	7
 N3364	421174913	San Vicente		locality	7
 S2128	421198283	Arroyo Seco		locality	7
+S2204	1260240473	Jesus Maria		locality	7
 B1648CIF	421202401	Tigre		locality	6
-B7240AEK	1141908071	Lobos		locality	6
-B7240AEL	1141908071	Lobos		locality	6
-B7240AEM	1141908071	Lobos		locality	6
-B7240AEO	1141908071	Lobos		locality	6
-B7240AEP	1141908071	Lobos		locality	6
-B7240AEQ	1141908071	Lobos		locality	6
-B7240AER	1141908071	Lobos		locality	6
-B7240CRA	1141908071	Lobos		locality	6
-B7240CRB	1141908071	Lobos		locality	6
-B7240IPI	1141908071	Lobos		locality	6
-B7240IPJ	1141908071	Lobos		locality	6
-C1002AAA	421174285	Buenos Aires		locality	6
-C1043AAA	421174285	Buenos Aires		locality	6
+B2760ABE	421196287	San Antonio de Areco		locality	6
+B2760ABF	421196287	San Antonio de Areco		locality	6
+B2760AEG	421196287	San Antonio de Areco		locality	6
+B7240AEK	421195755	Lobos		locality	6
+B7240AEL	421195755	Lobos		locality	6
+B7240AEM	421195755	Lobos		locality	6
+B7240AEO	421195755	Lobos		locality	6
+B7240AEP	421195755	Lobos		locality	6
+B7240AEQ	421195755	Lobos		locality	6
+B7240AER	421195755	Lobos		locality	6
+B7240CRA	421195755	Lobos		locality	6
+B7240CRB	421195755	Lobos		locality	6
+B7240HHA	421195755	Lobos		locality	6
+B7240HHB	421195755	Lobos		locality	6
+B7240IPI	421195755	Lobos		locality	6
+B7240IPJ	421195755	Lobos		locality	6
+B7240KDA	421195755	Lobos		locality	6
+B7240KDB	421195755	Lobos		locality	6
+B7240KDC	421195755	Lobos		locality	6
+B7240KDD	421195755	Lobos		locality	6
+B7600	421188245	Mar del Plata		locality	6
 C1054AAH	421174285	Buenos Aires		locality	6
 C1055AAB	421174285	Buenos Aires		locality	6
 C1060ABQ	421174285	Buenos Aires		locality	6
-F5360DEA	421172041	Chilecito		locality	6
 G4200	890437285	Santiago del Estero		locality	6
-J5400	421182183	San Juan		locality	6
-M5600	421202307	San Rafael		locality	6
-N3313	890431315	Cerro Azul		locality	6
-N3316	421196331	Santa Ana		locality	6
 N3324	421205023	Gobernador Roca		locality	6
+S2527	1242742343	Maria Susana		locality	6
+S3013	421188551	San Carlos Centro		locality	6
+S3025	1209379205	Soutomayor		locality	6
 S3050	890440053	Calchaquí		locality	6
-Y4600	421185855	San Salvador de Jujuy		locality	6
 B1648EWX	421202401	Tigre		locality	5
 B1663	421169723	San Miguel		locality	5
-B1884	421182313	Berazategui		locality	5
 B2760BME	421196287	San Antonio de Areco		locality	5
 B2760CJB	421196287	San Antonio de Areco		locality	5
-B2760CJD	421196287	San Antonio de Areco		locality	5
 B2760CJG	421196287	San Antonio de Areco		locality	5
+B2760CND	421196287	San Antonio de Areco		locality	5
 B2760CVD	421196287	San Antonio de Areco		locality	5
-J5400	421172499	Rivadavia 		locality	5
+B2907	1293306527	Conesa		locality	5
+C1059ABO	421174285	Buenos Aires		locality	5
+F5360DEA	421172041	Chilecito		locality	5
+G4315XAN	1225801667	Tio Pozo		locality	5
+J4641	1209804393	Abdon Castro Tolay		locality	5
+J5400	421182183	San Juan		locality	5
 N3300	421181525	Garupá		locality	5
 N3300MPI	421186911	Posadas		locality	5
-N3315	890422599	Gobernador López		locality	5
+N3313	890431315	Cerro Azul		locality	5
+N3327	1209789501	Text corpus		locality	5
 N3328	421171203	Puerto Leoni		locality	5
+N3351	421171189	Azara		locality	5
 N3361	421173551	Campo Ramón		locality	5
 N3361	421193581	Guaraní		locality	5
 N3364	421186465	El Soberbio		locality	5
+R8505	1226731953	Guardia Mitre		locality	5
 S2173	421204429	Chabás		locality	5
 S2344	421196207	Arrufó		locality	5
 S2508	890440125	Armstrong		locality	5
@@ -165,12 +233,11 @@ B1648EEG	421202401	Tigre		locality	4
 B1648EET	421202401	Tigre		locality	4
 B1648EWT	421202401	Tigre		locality	4
 B1648EXC	421202401	Tigre		locality	4
+B1778	1243085181	Ciudad General Belgrano		locality	4
 B1888EEE	421202393	Florencio Varela		locality	4
 B2760ABA	421196287	San Antonio de Areco		locality	4
 B2760ABB	421196287	San Antonio de Areco		locality	4
 B2760ABC	421196287	San Antonio de Areco		locality	4
-B2760ABE	421196287	San Antonio de Areco		locality	4
-B2760ABF	421196287	San Antonio de Areco		locality	4
 B2760ABG	421196287	San Antonio de Areco		locality	4
 B2760ABH	421196287	San Antonio de Areco		locality	4
 B2760ABI	421196287	San Antonio de Areco		locality	4
@@ -196,7 +263,6 @@ B2760AEB	421196287	San Antonio de Areco		locality	4
 B2760AEC	421196287	San Antonio de Areco		locality	4
 B2760AEE	421196287	San Antonio de Areco		locality	4
 B2760AEF	421196287	San Antonio de Areco		locality	4
-B2760AEG	421196287	San Antonio de Areco		locality	4
 B2760AEH	421196287	San Antonio de Areco		locality	4
 B2760AEI	421196287	San Antonio de Areco		locality	4
 B2760AEJ	421196287	San Antonio de Areco		locality	4
@@ -226,7 +292,6 @@ B2760BGG	421196287	San Antonio de Areco		locality	4
 B2760BGH	421196287	San Antonio de Areco		locality	4
 B2760BGI	421196287	San Antonio de Areco		locality	4
 B2760BGJ	421196287	San Antonio de Areco		locality	4
-B2760BGK	421196287	San Antonio de Areco		locality	4
 B2760BGL	421196287	San Antonio de Areco		locality	4
 B2760BGN	421196287	San Antonio de Areco		locality	4
 B2760BMA	421196287	San Antonio de Areco		locality	4
@@ -247,12 +312,6 @@ B2760BVF	421196287	San Antonio de Areco		locality	4
 B2760BVH	421196287	San Antonio de Areco		locality	4
 B2760BWA	421196287	San Antonio de Areco		locality	4
 B2760BWB	421196287	San Antonio de Areco		locality	4
-B2760BWC	421196287	San Antonio de Areco		locality	4
-B2760BWD	421196287	San Antonio de Areco		locality	4
-B2760BWE	421196287	San Antonio de Areco		locality	4
-B2760BWF	421196287	San Antonio de Areco		locality	4
-B2760BWG	421196287	San Antonio de Areco		locality	4
-B2760BWH	421196287	San Antonio de Areco		locality	4
 B2760BWI	421196287	San Antonio de Areco		locality	4
 B2760BWJ	421196287	San Antonio de Areco		locality	4
 B2760BWK	421196287	San Antonio de Areco		locality	4
@@ -260,7 +319,6 @@ B2760BWL	421196287	San Antonio de Areco		locality	4
 B2760BWM	421196287	San Antonio de Areco		locality	4
 B2760BWN	421196287	San Antonio de Areco		locality	4
 B2760CJA	421196287	San Antonio de Areco		locality	4
-B2760CJC	421196287	San Antonio de Areco		locality	4
 B2760CJE	421196287	San Antonio de Areco		locality	4
 B2760CJF	421196287	San Antonio de Areco		locality	4
 B2760CJH	421196287	San Antonio de Areco		locality	4
@@ -271,7 +329,6 @@ B2760CJL	421196287	San Antonio de Areco		locality	4
 B2760CJM	421196287	San Antonio de Areco		locality	4
 B2760CJN	421196287	San Antonio de Areco		locality	4
 B2760CNC	421196287	San Antonio de Areco		locality	4
-B2760CND	421196287	San Antonio de Areco		locality	4
 B2760CNE	421196287	San Antonio de Areco		locality	4
 B2760CNF	421196287	San Antonio de Areco		locality	4
 B2760CVA	421196287	San Antonio de Areco		locality	4
@@ -279,7 +336,6 @@ B2760CVB	421196287	San Antonio de Areco		locality	4
 B2760CVC	421196287	San Antonio de Areco		locality	4
 B2760CVE	421196287	San Antonio de Areco		locality	4
 B2760CVF	421196287	San Antonio de Areco		locality	4
-B2760CVH	421196287	San Antonio de Areco		locality	4
 B2760CVI	421196287	San Antonio de Areco		locality	4
 B2760CVJ	421196287	San Antonio de Areco		locality	4
 B2760CVK	421196287	San Antonio de Areco		locality	4
@@ -288,28 +344,41 @@ B2760CVM	421196287	San Antonio de Areco		locality	4
 B2760CVN	421196287	San Antonio de Areco		locality	4
 B2800GLS	421204003	Zárate		locality	4
 B2800GLT	421204003	Zárate		locality	4
-B7600	421188245	Mar del Plata		locality	4
-C1059ABO	421174285	Buenos Aires		locality	4
-C1200AAS	421174285	Buenos Aires		locality	4
+B2905	421196097	General Rojo		locality	4
+B6634	421195747	Alberti		locality	4
+B7240KDE	421195755	Lobos		locality	4
+B7240KDF	421195755	Lobos		locality	4
+B7240KDG	421195755	Lobos		locality	4
+B7240KDH	421195755	Lobos		locality	4
+B7240KDI	421195755	Lobos		locality	4
+B7240KDJ	421195755	Lobos		locality	4
+B7240KDK	421195755	Lobos		locality	4
+B7240KDL	421195755	Lobos		locality	4
+C1188AAF	421174285	Buenos Aires		locality	4
+C1192ACB	421174285	Buenos Aires		locality	4
+C1417EYZ	421174285	Buenos Aires		locality	4
+Escuela	1210030617	Vivorata		locality	4
 N3300MOI	421186911	Posadas		locality	4
 N3300MOV	421186911	Posadas		locality	4
-N3300ORR	890444623	Posadas		locality	4
+N3300ORR	421186911	Posadas		locality	4
+N3315	890422599	Gobernador López		locality	4
 N3316	421182643	Loreto		locality	4
-N3337	421184809	Dos de Mayo		locality	4
 N3360	421169423	Los Helechos		locality	4
 N3360ABA	421175461	Oberá		locality	4
 N3361	421182635	Florentino Ameghino		locality	4
 S2107	421176679	Soldini		locality	4
 S2117	421195479	Alcorta		locality	4
+S2148	1360143687	Centeno		locality	4
 S2187	421191617	Arteaga		locality	4
 S2200JUO	421172731	San Lorenzo		locality	4
 S2340	421204693	Ceres		locality	4
-T4107BXD	421178083	Yerba Buena		locality	4
+S3087	1276414269	Felicia		locality	4
+V9410 BJE	890435489	Ushuaia		locality	4
 X5244	421195397	San José de La Dormida		locality	4
 A4411	421168021	San Antonio de los Cobres		locality	3
 B1605BNA	421171311	Munro		locality	3
 B1624BPT	421202401	Tigre		locality	3
-B1646CXN	421178079	San Fernando		locality	3
+B1624BPX	1259701597	Rincon de Milberg		locality	3
 B1646CXU	421178079	San Fernando		locality	3
 B1646CXX	421178079	San Fernando		locality	3
 B1646CXZ	421178079	San Fernando		locality	3
@@ -323,52 +392,92 @@ B1648EWO	421202401	Tigre		locality	3
 B1648EWP	421202401	Tigre		locality	3
 B1648EWU	421202401	Tigre		locality	3
 B1648EWY	421202401	Tigre		locality	3
+B1678AEP	421191533	Caseros		locality	3
+B1704	421191539	Ramos Mejía		locality	3
+B1708KCH	421180977	Morón		locality	3
+B1721FPA	421204007	Merlo		locality	3
+B2760BGK	421196287	San Antonio de Areco		locality	3
 B2800AQA	421204003	Zárate		locality	3
 B2800AQC	421204003	Zárate		locality	3
 B2800AQE	421204003	Zárate		locality	3
-B2800DCA	421204003	Zárate		locality	3
-B7240ACC	1141908071	Lobos		locality	3
-B7240CKG	1141908071	Lobos		locality	3
-B7240FAA	1141908071	Lobos		locality	3
-B7240FAB	1141908071	Lobos		locality	3
-B7240FAE	1141908071	Lobos		locality	3
-D5730	890436433	Villa Mercedes		locality	3
+B2901	1310319483	La Emilia		locality	3
+B7240ACC	421195755	Lobos		locality	3
+B7240CKG	421195755	Lobos		locality	3
+B7240FAA	421195755	Lobos		locality	3
+B7240FAB	421195755	Lobos		locality	3
+B7240FAE	421195755	Lobos		locality	3
+C1043AAN	421174285	Buenos Aires		locality	3
+C1089AAH	421174285	Buenos Aires		locality	3
+C1104AJN	421174285	Buenos Aires		locality	3
+C1115AAB	421174285	Buenos Aires		locality	3
+C1123AAE	421174285	Buenos Aires		locality	3
+C1185AAN	421174285	Buenos Aires		locality	3
+C1186AAN	421174285	Buenos Aires		locality	3
+C1187AAG	421174285	Buenos Aires		locality	3
+C1405DCJ	421174285	Buenos Aires		locality	3
+C1407AVA	421174285	Buenos Aires		locality	3
+C1414EEH	421174285	Buenos Aires		locality	3
+C1416DRO	421174285	Buenos Aires		locality	3
+C1419IAB	421174285	Buenos Aires		locality	3
+C1427CRA	421174285	Buenos Aires		locality	3
+C1431AJI	421174285	Buenos Aires		locality	3
+E3202GNB	421174851	Concordia		locality	3
 G4300	421196203	La Banda		locality	3
 K4700AYF	421174835	San Fernando del Valle de Catamarca		locality	3
-N3300AFK	890444623	Posadas		locality	3
-N3300AHM	890444623	Posadas		locality	3
-N3300ANR	890444623	Posadas		locality	3
-N3300LQK	890444623	Posadas		locality	3
+N3300AFK	421186911	Posadas		locality	3
+N3300AHM	421186911	Posadas		locality	3
+N3300LQK	421186911	Posadas		locality	3
 N3300MOT	421186911	Posadas		locality	3
-N3300SCC	890444623	Posadas		locality	3
+N3300SCC	421186911	Posadas		locality	3
 N3304	421186911	Posadas		locality	3
+N3308	1209398305	Profundidad		locality	3
 N3328	421176137	Jardín América		locality	3
-N3351	421171189	Azara		locality	3
 N3386	421184795	Caraguatay		locality	3
-S2000	421172799	Rosario		locality	3
-S2126	421185983	Alvear 		locality	3
+S2013	421172799	Rosario		locality	3
+S2126	421185983	Alvear		locality	3
+S2126	1326489367	Esther		locality	3
+S2174	1209489429	Sanford		locality	3
+S2303	1326994539	Angelica		locality	3
 S2452	421200551	San Jorge		locality	3
+S2505	890445121	Las Parejas		locality	3
+S2601	1259347269	La Chispa		locality	3
+S2729	1293065519	Carreras		locality	3
 S3018	421191959	Recreo		locality	3
+S3051	1360143701	Alejandra		locality	3
 S3081	421169853	Humboldt		locality	3
+T4000CVH	421172797	San Miguel de Tucumán		locality	3
+T4000GTA	421172797	San Miguel de Tucumán		locality	3
+T4000GTD	421172797	San Miguel de Tucumán		locality	3
+T4000NYQ	421172797	San Miguel de Tucumán		locality	3
+T4107BXD	421178083	Yerba Buena		locality	3
+X5000	421172813	Córdoba		locality	3
 X5004FTK	421172813	Córdoba		locality	3
+X5111	421185865	Río Ceballos		locality	3
+X5800DGD	421169601	Río Cuarto		locality	3
+X5967	1259788305	Luque		locality	3
 Y4602CHC	421185855	San Salvador de Jujuy		locality	3
 Y4604CFS	421185855	San Salvador de Jujuy		locality	3
 Y4612AQC	421198343	Palpalá		locality	3
 Y4612XAS	421198343	Palpalá		locality	3
 Y4613AAP	421198343	Palpalá		locality	3
-x2550	421174005	Bell Ville		locality	3
 x5854	421195477	Almafuerte		locality	3
 B1605DSR	421186903	Vicente López		locality	2
 B1613ASD	421191537	Los Polvorines		locality	2
 B1624BPC	421202401	Tigre		locality	2
 B1624BPG	421202401	Tigre		locality	2
 B1624BPI	421202401	Tigre		locality	2
+B1624BPJ	1259701597	Rincon de Milberg		locality	2
+B1624BPK	1259701597	Rincon de Milberg		locality	2
+B1624BPL	1259701597	Rincon de Milberg		locality	2
 B1624BPP	421202401	Tigre		locality	2
 B1624BPQ	421202401	Tigre		locality	2
 B1624BPR	421202401	Tigre		locality	2
 B1624BPS	421202401	Tigre		locality	2
 B1624BPU	421202401	Tigre		locality	2
 B1624BPV	421202401	Tigre		locality	2
+B1624BPW	1259701597	Rincon de Milberg		locality	2
+B1624BPY	1259701597	Rincon de Milberg		locality	2
+B1624EIK	1259701597	Rincon de Milberg		locality	2
 B1624EIL	421202401	Tigre		locality	2
 B1629CJU	421179679	Pilar		locality	2
 B1642GKA	421191535	San Isidro		locality	2
@@ -386,6 +495,7 @@ B1646CXJ	421178079	San Fernando		locality	2
 B1646CXK	421178079	San Fernando		locality	2
 B1646CXL	421178079	San Fernando		locality	2
 B1646CXM	421178079	San Fernando		locality	2
+B1646CXN	421178079	San Fernando		locality	2
 B1646CXO	421178079	San Fernando		locality	2
 B1646CXP	421178079	San Fernando		locality	2
 B1646CXQ	421178079	San Fernando		locality	2
@@ -462,8 +572,6 @@ B1646GEP	421178079	San Fernando		locality	2
 B1646GEQ	421178079	San Fernando		locality	2
 B1646GHE	421178079	San Fernando		locality	2
 B1646GHF	421178079	San Fernando		locality	2
-B1646GHG	421178079	San Fernando		locality	2
-B1646GHH	421178079	San Fernando		locality	2
 B1646GHI	421178079	San Fernando		locality	2
 B1646GHJ	421178079	San Fernando		locality	2
 B1646GHK	421178079	San Fernando		locality	2
@@ -567,11 +675,41 @@ B1648FLD	421202401	Tigre		locality	2
 B1648FLN	421202401	Tigre		locality	2
 B1648FLO	421202401	Tigre		locality	2
 B1648FLP	421202401	Tigre		locality	2
-B1678AEP	421191533	Caseros		locality	2
-B1708KCH	421180977	Morón		locality	2
 B1718EVD	421178077	San Antonio de Padua		locality	2
 B1771B1A	421186643	Tapiales		locality	2
+B1880BFA	421182313	Berazategui		locality	2
+B1880BFB	421182313	Berazategui		locality	2
+B1880BFC	421182313	Berazategui		locality	2
+B1880BFD	421182313	Berazategui		locality	2
+B1880BFE	421182313	Berazategui		locality	2
+B1880BFF	421182313	Berazategui		locality	2
+B1880BFO	421182313	Berazategui		locality	2
+B1880BFP	421182313	Berazategui		locality	2
+B1880BFQ	421182313	Berazategui		locality	2
+B1880BFR	421182313	Berazategui		locality	2
+B1880BFS	421182313	Berazategui		locality	2
 B1880BIG	421182313	Berazategui		locality	2
+B1884CTJ	421182313	Berazategui		locality	2
+B1884CTK	421182313	Berazategui		locality	2
+B1884CTM	421182313	Berazategui		locality	2
+B1884CTW	421182313	Berazategui		locality	2
+B1884CTX	421182313	Berazategui		locality	2
+B1884CTY	421182313	Berazategui		locality	2
+B1884CUA	421182313	Berazategui		locality	2
+B1884CUB	421182313	Berazategui		locality	2
+B1884CUC	421182313	Berazategui		locality	2
+B1884CUD	421182313	Berazategui		locality	2
+B1884CUE	421182313	Berazategui		locality	2
+B1884CUF	421182313	Berazategui		locality	2
+B1884CUG	421182313	Berazategui		locality	2
+B1884CUM	421182313	Berazategui		locality	2
+B1884CUN	421182313	Berazategui		locality	2
+B1884CUO	421182313	Berazategui		locality	2
+B1884CUP	421182313	Berazategui		locality	2
+B1884CUQ	421182313	Berazategui		locality	2
+B1884CUR	421182313	Berazategui		locality	2
+B1884CUS	421182313	Berazategui		locality	2
+B1884CUT	421182313	Berazategui		locality	2
 B1900TKB	421174277	La Plata		locality	2
 B2720CJN	421195341	Colón		locality	2
 B2760ABD	421196287	San Antonio de Areco		locality	2
@@ -599,7 +737,6 @@ B2760CNH	421196287	San Antonio de Areco		locality	2
 B2760CVG	421196287	San Antonio de Areco		locality	2
 B2760CVO	421196287	San Antonio de Areco		locality	2
 B2760CVP	421196287	San Antonio de Areco		locality	2
-B2800AQB	421204003	Zárate		locality	2
 B2800AQD	421204003	Zárate		locality	2
 B2800AQF	421204003	Zárate		locality	2
 B2800AQG	421204003	Zárate		locality	2
@@ -611,190 +748,227 @@ B2800AQL	421204003	Zárate		locality	2
 B2800ASA	421204003	Zárate		locality	2
 B2800ASB	421204003	Zárate		locality	2
 B2800ASC	421204003	Zárate		locality	2
-B2800DCB	421204003	Zárate		locality	2
-B2800DCC	421204003	Zárate		locality	2
-B2800DCD	421204003	Zárate		locality	2
+B2900	421193333	Campos Salles		locality	2
+B6417BBD	1260303449	Casbas		locality	2
+B6441ASA	1276766697	Rivera		locality	2
+B6734	1276349513	Rawson		locality	2
 B7000GKN	421185997	Tandil		locality	2
-B7240AAA	1141908071	Lobos		locality	2
-B7240AAB	1141908071	Lobos		locality	2
-B7240AAC	1141908071	Lobos		locality	2
-B7240AAD	1141908071	Lobos		locality	2
-B7240AAE	1141908071	Lobos		locality	2
-B7240AAF	1141908071	Lobos		locality	2
-B7240AAG	1141908071	Lobos		locality	2
-B7240AAH	1141908071	Lobos		locality	2
-B7240ACA	1141908071	Lobos		locality	2
-B7240ACD	1141908071	Lobos		locality	2
-B7240ACE	1141908071	Lobos		locality	2
-B7240ACF	1141908071	Lobos		locality	2
-B7240ACG	1141908071	Lobos		locality	2
-B7240ACH	1141908071	Lobos		locality	2
-B7240ACI	1141908071	Lobos		locality	2
-B7240ACJ	1141908071	Lobos		locality	2
-B7240ACK	1141908071	Lobos		locality	2
-B7240ACL	1141908071	Lobos		locality	2
-B7240ACM	1141908071	Lobos		locality	2
-B7240ACN	1141908071	Lobos		locality	2
-B7240ACO	1141908071	Lobos		locality	2
-B7240ACP	1141908071	Lobos		locality	2
-B7240ACQ	1141908071	Lobos		locality	2
-B7240ACR	1141908071	Lobos		locality	2
-B7240AEB	1141908071	Lobos		locality	2
-B7240AEF	1141908071	Lobos		locality	2
-B7240AEN	1141908071	Lobos		locality	2
-B7240AKE	1141908071	Lobos		locality	2
-B7240AKG	1141908071	Lobos		locality	2
-B7240CKA	1141908071	Lobos		locality	2
-B7240CKB	1141908071	Lobos		locality	2
-B7240CKC	1141908071	Lobos		locality	2
-B7240CKD	1141908071	Lobos		locality	2
-B7240CKE	1141908071	Lobos		locality	2
-B7240CKF	1141908071	Lobos		locality	2
-B7240CKH	1141908071	Lobos		locality	2
-B7240CRC	1141908071	Lobos		locality	2
-B7240CRD	1141908071	Lobos		locality	2
-B7240CRE	1141908071	Lobos		locality	2
-B7240CRF	1141908071	Lobos		locality	2
-B7240CRG	1141908071	Lobos		locality	2
-B7240CRH	1141908071	Lobos		locality	2
-B7240EXA	1141908071	Lobos		locality	2
-B7240EXB	1141908071	Lobos		locality	2
-B7240EXC	1141908071	Lobos		locality	2
-B7240EXD	1141908071	Lobos		locality	2
-B7240EXE	1141908071	Lobos		locality	2
-B7240EXF	1141908071	Lobos		locality	2
-B7240EXG	1141908071	Lobos		locality	2
-B7240EXH	1141908071	Lobos		locality	2
-B7240FAC	1141908071	Lobos		locality	2
-B7240FAD	1141908071	Lobos		locality	2
-B7240FAF	1141908071	Lobos		locality	2
-B7240FAG	1141908071	Lobos		locality	2
-B7240FAH	1141908071	Lobos		locality	2
-B7240HHA	1141908071	Lobos		locality	2
-B7240HHB	1141908071	Lobos		locality	2
-B7240HHC	1141908071	Lobos		locality	2
-B7240HHD	1141908071	Lobos		locality	2
-B7240HHE	1141908071	Lobos		locality	2
-B7240HHF	1141908071	Lobos		locality	2
-B7240HHG	1141908071	Lobos		locality	2
-B7240HHH	1141908071	Lobos		locality	2
-B7240INC	1141908071	Lobos		locality	2
-B7240IND	1141908071	Lobos		locality	2
-B7240INE	1141908071	Lobos		locality	2
-B7240INF	1141908071	Lobos		locality	2
-B7240ING	1141908071	Lobos		locality	2
-B7240INH	1141908071	Lobos		locality	2
-B7240INI	1141908071	Lobos		locality	2
-B7240INJ	1141908071	Lobos		locality	2
-B7240INK	1141908071	Lobos		locality	2
-B7240INL	1141908071	Lobos		locality	2
-B7240KDA	1141908071	Lobos		locality	2
-B7240KDB	1141908071	Lobos		locality	2
-B7240KDC	1141908071	Lobos		locality	2
-B7240KDD	1141908071	Lobos		locality	2
-B7240KDE	1141908071	Lobos		locality	2
-B7240KDF	1141908071	Lobos		locality	2
-B7240KDG	1141908071	Lobos		locality	2
-B7240KDH	1141908071	Lobos		locality	2
-B7240KDI	1141908071	Lobos		locality	2
-B7240KDJ	1141908071	Lobos		locality	2
-B7240KDK	1141908071	Lobos		locality	2
-B7240KDL	1141908071	Lobos		locality	2
+B7240AAA	421195755	Lobos		locality	2
+B7240AAB	421195755	Lobos		locality	2
+B7240AAC	421195755	Lobos		locality	2
+B7240AAD	421195755	Lobos		locality	2
+B7240AAE	421195755	Lobos		locality	2
+B7240AAF	421195755	Lobos		locality	2
+B7240AAG	421195755	Lobos		locality	2
+B7240AAH	421195755	Lobos		locality	2
+B7240ACA	421195755	Lobos		locality	2
+B7240ACD	421195755	Lobos		locality	2
+B7240ACE	421195755	Lobos		locality	2
+B7240ACF	421195755	Lobos		locality	2
+B7240ACG	421195755	Lobos		locality	2
+B7240ACH	421195755	Lobos		locality	2
+B7240ACI	421195755	Lobos		locality	2
+B7240ACJ	421195755	Lobos		locality	2
+B7240ACK	421195755	Lobos		locality	2
+B7240ACL	421195755	Lobos		locality	2
+B7240ACM	421195755	Lobos		locality	2
+B7240ACN	421195755	Lobos		locality	2
+B7240ACO	421195755	Lobos		locality	2
+B7240ACP	421195755	Lobos		locality	2
+B7240ACQ	421195755	Lobos		locality	2
+B7240ACR	421195755	Lobos		locality	2
+B7240AEB	421195755	Lobos		locality	2
+B7240AEF	421195755	Lobos		locality	2
+B7240AEN	421195755	Lobos		locality	2
+B7240AKE	421195755	Lobos		locality	2
+B7240AKG	421195755	Lobos		locality	2
+B7240CKA	421195755	Lobos		locality	2
+B7240CKB	421195755	Lobos		locality	2
+B7240CKC	421195755	Lobos		locality	2
+B7240CKD	421195755	Lobos		locality	2
+B7240CKE	421195755	Lobos		locality	2
+B7240CKF	421195755	Lobos		locality	2
+B7240CKH	421195755	Lobos		locality	2
+B7240CRC	421195755	Lobos		locality	2
+B7240CRD	421195755	Lobos		locality	2
+B7240CRE	421195755	Lobos		locality	2
+B7240CRF	421195755	Lobos		locality	2
+B7240CRG	421195755	Lobos		locality	2
+B7240CRH	421195755	Lobos		locality	2
+B7240EXA	421195755	Lobos		locality	2
+B7240EXB	421195755	Lobos		locality	2
+B7240EXC	421195755	Lobos		locality	2
+B7240EXD	421195755	Lobos		locality	2
+B7240EXE	421195755	Lobos		locality	2
+B7240EXF	421195755	Lobos		locality	2
+B7240EXG	421195755	Lobos		locality	2
+B7240EXH	421195755	Lobos		locality	2
+B7240FAC	421195755	Lobos		locality	2
+B7240FAD	421195755	Lobos		locality	2
+B7240FAF	421195755	Lobos		locality	2
+B7240FAG	421195755	Lobos		locality	2
+B7240FAH	421195755	Lobos		locality	2
+B7240HHC	421195755	Lobos		locality	2
+B7240HHD	421195755	Lobos		locality	2
+B7240HHE	421195755	Lobos		locality	2
+B7240HHF	421195755	Lobos		locality	2
+B7240HHG	421195755	Lobos		locality	2
+B7240HHH	421195755	Lobos		locality	2
+B7240INC	421195755	Lobos		locality	2
+B7240IND	421195755	Lobos		locality	2
+B7240INE	421195755	Lobos		locality	2
+B7240INF	421195755	Lobos		locality	2
+B7240ING	421195755	Lobos		locality	2
+B7240INH	421195755	Lobos		locality	2
+B7240INI	421195755	Lobos		locality	2
+B7240INJ	421195755	Lobos		locality	2
+B7240INK	421195755	Lobos		locality	2
+B7240INL	421195755	Lobos		locality	2
+B8153	1309721621	Monte Hermoso		locality	2
+B8512AXC	421175273	Villalonga		locality	2
 C1001ABR	421174285	Buenos Aires		locality	2
+C1012AAY	421174285	Buenos Aires		locality	2
+C1014AAA	421174285	Buenos Aires		locality	2
+C1015AAA	421174285	Buenos Aires		locality	2
+C1024AAO	421174285	Buenos Aires		locality	2
+C1042ABA	421174285	Buenos Aires		locality	2
 C1054AAQ	421172813	Córdoba		locality	2
+C1055AAF	421174285	Buenos Aires		locality	2
 C1055AAS	421174285	Buenos Aires		locality	2
+C1058AAQ	421174285	Buenos Aires		locality	2
+C1063ACH	421174285	Buenos Aires		locality	2
+C1063ACT	421174285	Buenos Aires		locality	2
 C1065AAR	421174285	Buenos Aires		locality	2
 C1066AAR	421174285	Buenos Aires		locality	2
+C1067ABB	421174285	Buenos Aires		locality	2
+C1100AAH	421174285	Buenos Aires		locality	2
 C1104ACA	421174285	Buenos Aires		locality	2
-C1107AAX	421174285	Buenos Aires		locality	2
+C1104ACC	421174285	Buenos Aires		locality	2
+C1113AAX	421174285	Buenos Aires		locality	2
+C1120AAC	421174285	Buenos Aires		locality	2
+C1121ABG	421174285	Buenos Aires		locality	2
+C1147AAO	421174285	Buenos Aires		locality	2
+C1180ACD	421174285	Buenos Aires		locality	2
+C1200AAS	421174285	Buenos Aires		locality	2
+C1205AAN	421174285	Buenos Aires		locality	2
+C1218AAR	421174285	Buenos Aires		locality	2
+C1405ABO	421174285	Buenos Aires		locality	2
+C1405AME	421174285	Buenos Aires		locality	2
+C1405BAB	421174285	Buenos Aires		locality	2
+C1405BAH	421174285	Buenos Aires		locality	2
+C1405BCM	421174285	Buenos Aires		locality	2
+C1405DJX	421174285	Buenos Aires		locality	2
+C1405DKN	421174285	Buenos Aires		locality	2
+C1406FRA	421174285	Buenos Aires		locality	2
+C1406GLA	421174285	Buenos Aires		locality	2
+C1406GLV	421174285	Buenos Aires		locality	2
+C1406GSA	421174285	Buenos Aires		locality	2
+C1406GSN	421174285	Buenos Aires		locality	2
 C1407BNK	421174285	Buenos Aires		locality	2
-C1407BNX	421174285	Buenos Aires		locality	2
 C1407BNY	421174285	Buenos Aires		locality	2
 C1414AJS	421174285	Buenos Aires		locality	2
+C1414CDA	421174285	Buenos Aires		locality	2
 C1414DNR	421174285	Buenos Aires		locality	2
 C1414DPE	421174285	Buenos Aires		locality	2
+C1414EFC	421174285	Buenos Aires		locality	2
+C1416AJH	421174285	Buenos Aires		locality	2
+C1416CMA	421174285	Buenos Aires		locality	2
+C1416DRN	421174285	Buenos Aires		locality	2
+C1417BVC	421174285	Buenos Aires		locality	2
+C1424BZD	421174285	Buenos Aires		locality	2
+C1425AAS	421174285	Buenos Aires		locality	2
 C1426AAL	421174285	Buenos Aires		locality	2
+C1426BJN	421174285	Buenos Aires		locality	2
+C1426BTG	421174285	Buenos Aires		locality	2
+C1426BTH	421174285	Buenos Aires		locality	2
+C1428EGA	421174285	Buenos Aires		locality	2
+C1429AAL	421174285	Buenos Aires		locality	2
+C1429BMC	421174285	Buenos Aires		locality	2
+C1429BNC	421174285	Buenos Aires		locality	2
+C1429BNS	421174285	Buenos Aires		locality	2
+C1430DHI	421174285	Buenos Aires		locality	2
 C1431DUB	421174285	Buenos Aires		locality	2
+C1437BJP	421174285	Buenos Aires		locality	2
 C1439BSN	421174285	Buenos Aires		locality	2
 C9100CID	421197583	Trelew		locality	2
 E3200ABK	421174851	Concordia		locality	2
 E3200EIB	421174851	Concordia		locality	2
 E3202AHH	421174851	Concordia		locality	2
 E3202AXE	421174851	Concordia		locality	2
-E3202GNB	421174851	Concordia		locality	2
-H3500	890434765	Resistencia		locality	2
+H3500	421186909	Resistencia		locality	2
+L6380	1125870745	Eduardo Castex		locality	2
 M5504GRQ	421196395	Godoy Cruz		locality	2
 M5570JVE	421200023	San Martín		locality	2
-N3300ITC	890444623	Posadas		locality	2
-N3300ITD	890444623	Posadas		locality	2
-N3300ITE	890444623	Posadas		locality	2
-N3300ITF	890444623	Posadas		locality	2
-N3300JYA	890444623	Posadas		locality	2
-N3300JYB	890444623	Posadas		locality	2
+N3300ANR	421186911	Posadas		locality	2
+N3300ITC	421186911	Posadas		locality	2
+N3300ITD	421186911	Posadas		locality	2
+N3300ITE	421186911	Posadas		locality	2
+N3300ITF	421186911	Posadas		locality	2
+N3300JYA	421186911	Posadas		locality	2
+N3300JYB	421186911	Posadas		locality	2
+N3300LOS	421186911	Posadas		locality	2
 N3300MOE	421186911	Posadas		locality	2
 N3300MOG	421186911	Posadas		locality	2
 N3300MOH	421186911	Posadas		locality	2
 N3300MOL	421186911	Posadas		locality	2
 N3300MOU	421186911	Posadas		locality	2
-N3301	890444623	Posadas		locality	2
+N3301	421186911	Posadas		locality	2
+N3306	1209594407	Fachinal		locality	2
 N3306	421182169	San José		locality	2
+N3313	1243234723	General Gueemes		locality	2
 N3313	421182169	San José		locality	2
+N3328	1209895053	Puerto Tabay		locality	2
 N3328	421191931	Santo Pipó		locality	2
 N3356)	421174913	San Vicente		locality	2
+N3360	1242943903	Salto		locality	2
 N3361	421193579	General Alvear		locality	2
 N3361	421195471	Panambí		locality	2
-N3363	421194797	Alba Posse		locality	2
 N3374	421174465	Wanda		locality	2
 N3381	421171205	Puerto Piray		locality	2
-Q8300BCX	421193995	Neuquén		locality	2
+N8345	421202541	Villa Pehuenia		locality	2
+POT	1209298137	Pueblo Viejo		locality	2
+Q8300BMH	421193995	Neuquén		locality	2
 R8328ASB	421167943	Allen		locality	2
+S2005	421172799	Rosario		locality	2
+S2008	421172799	Rosario		locality	2
+S2105	1243041973	Canada Rica		locality	2
 S2132	421197811	Roldán		locality	2
+S2142	1276828109	Salto Grande		locality	2
 S2143	421193489	Ibarlucea		locality	2
 S2144	421191933	Totoras		locality	2
 S2183	421174551	Arequito		locality	2
 S2208	421195303	Maciel		locality	2
 S2252HQG	421178973	Gálvez		locality	2
+S2255ACB	1343916949	Lopez		locality	2
+S2255AJS	1343916949	Lopez		locality	2
+S2255AJT	1343916949	Lopez		locality	2
+S2255ALG	1343916949	Lopez		locality	2
 S2347	421172337	San Guillermo		locality	2
+S2403	1327192991	Bauer y Sigel		locality	2
 S2451	421200551	San Jorge		locality	2
-S2505	890445121	Las Parejas		locality	2
+S2512	1192982959	Tortugas		locality	2
+S2523	1209373841	Bouquet		locality	2
 S2625	421169855	Labordeboy		locality	2
 S3020	421182627	Laguna Paiva		locality	2
-S3550	1141908119	Vera		locality	2
+S3046	1226708931	Villa Saralegui		locality	2
+S3052	1276189331	La Criolla		locality	2
+S3550	421181953	Vera		locality	2
 S3560	421170145	Reconquista		locality	2
+T4000GTN	421172797	San Miguel de Tucumán		locality	2
+T4000ILC	421172797	San Miguel de Tucumán		locality	2
+T4000JFE	421172797	San Miguel de Tucumán		locality	2
 T4137	421170349	Tafí del Valle		locality	2
+T4146CCF	421174415	Concepción		locality	2
 V9420	421196135	Río Grande		locality	2
 W3342	890431253	Gobernador Virasoro		locality	2
+W3445XAE	1310494115	Puente Batel		locality	2
 X2580	421177677	Marcos Juárez		locality	2
+X5000BKD	421172813	Córdoba		locality	2
+X5000JQB	421172813	Córdoba		locality	2
 X5008	421172813	Córdoba		locality	2
-X5009EJA	421172813	Córdoba		locality	2
-X5009EJB	421172813	Córdoba		locality	2
-X5009EJC	421172813	Córdoba		locality	2
-X5009EJD	421172813	Córdoba		locality	2
-X5009EJE	421172813	Córdoba		locality	2
-X5009EJF	421172813	Córdoba		locality	2
-X5009EJG	421172813	Córdoba		locality	2
-X5009EJH	421172813	Córdoba		locality	2
-X5009EJI	421172813	Córdoba		locality	2
-X5009EJK	421172813	Córdoba		locality	2
-X5009EJL	421172813	Córdoba		locality	2
-X5009EJM	421172813	Córdoba		locality	2
-X5009EJO	421172813	Córdoba		locality	2
-X5009EJP	421172813	Córdoba		locality	2
-X5009EJQ	421172813	Córdoba		locality	2
-X5009EJR	421172813	Córdoba		locality	2
-X5009EJS	421172813	Córdoba		locality	2
-X5009EJT	421172813	Córdoba		locality	2
-X5009EJU	421172813	Córdoba		locality	2
-X5009EJV	421172813	Córdoba		locality	2
-X5009EJX	421172813	Córdoba		locality	2
-X5009EJY	421172813	Córdoba		locality	2
-X5009EJZ	421172813	Córdoba		locality	2
-X5009EKA	421172813	Córdoba		locality	2
-X5009EKB	421172813	Córdoba		locality	2
-X5009EKN	421172813	Córdoba		locality	2
-X5009EKO	421172813	Córdoba		locality	2
 X5801	421200989	Alpa Corral		locality	2
 X5889DEE	890414221	Mina Clavero		locality	2
+X5900	421169161	Villa María		locality	2
 X5917	421195305	Luca		locality	2
 X5921	421198229	Las Perdices		locality	2
 Y4612AYH	421198343	Palpalá		locality	2
@@ -803,18 +977,22 @@ Y4613AAQ	421198343	Palpalá		locality	2
 Y4613APH	421198343	Palpalá		locality	2
 x5196	421200019	Santa Rosa de Calamuchita		locality	2
 y4630	421174843	Humahuaca		locality	2
-z9303	421197377	Comandante Luis Piedrabuena		locality	2
 z9405	421169169	El Calafate		locality	2
 !923	421204225	Berisso		locality	1
 A 4400 ABL	421169165	Salta		locality	1
 A4400	421167835	Cafayate		locality	1
+A4400ANC	421169165	Salta		locality	1
 A4402FDB	421169165	Salta		locality	1
+A4427AED	421167835	Cafayate		locality	1
 A4448	1125809365	Joaquín V. González		locality	1
 A7600	421169051	Mar del Plata		locality	1
-B1605CEI	421199147	Villa Adelina		locality	1
+B1605CEI	1310314637	Villa Adelina		locality	1
+B1605DTT	421171311	Munro		locality	1
+B1606	421186903	Vicente López		locality	1
 B1606AUL	421199147	Villa Adelina		locality	1
 B1607BSK	421199147	Villa Adelina		locality	1
-B1607DCK	421199147	Villa Adelina		locality	1
+B1607DCK	1310314637	Villa Adelina		locality	1
+B1619AVK	421191325	Garín		locality	1
 B1623	421191301	Ingeniero Maschwitz		locality	1
 B1625AAF	421186597	Belén de Escobar		locality	1
 B1625ABD	421186597	Belén de Escobar		locality	1
@@ -822,46 +1000,64 @@ B1625ABR	421186597	Belén de Escobar		locality	1
 B1625GMR	421186597	Belén de Escobar		locality	1
 B1627EIJ	421176687	Matheu		locality	1
 B1629	421179679	Pilar		locality	1
+B1629 Pilar	421174285	Buenos Aires		locality	1
 B1629AIH	421171581	Fátima		locality	1
 B1629CFE	421171581	Fátima		locality	1
-B1629HVK	421179679	Pilar		locality	1
 B1629XAA	421171581	Fátima		locality	1
-B1636	421204121	Olivos		locality	1
+B1630AMK	421179679	Pilar		locality	1
+B1636	1293798009	Olivos		locality	1
 B1640AOD	421178069	Martínez		locality	1
 B1642GJA	421191535	San Isidro		locality	1
+B1642IFB	421191535	San Isidro		locality	1
 B1644BHH	421184751	Victoria		locality	1
 B1644GPK	421184751	Victoria		locality	1
 B1644HKG	421184751	Victoria		locality	1
 B1646DXL	421178079	San Fernando		locality	1
+B1648DAP	421202401	Tigre		locality	1
+B1648DAZ	421202401	Tigre		locality	1
 B1652DVN	421199147	Villa Adelina		locality	1
 B1652DWY	421199147	Villa Adelina		locality	1
 B1653	421194721	Villa Ballester		locality	1
 B1663	421184725	Muñiz		locality	1
 B1664	421202243	Manuel Alberti		locality	1
+B1669CKH	1326844615	Del Viso		locality	1
+B1671NAF	1242988391	Nordelta		locality	1
+B1674AVJ	421192277	Sáenz Peña		locality	1
 B1676AFF	421172727	Santos Lugares		locality	1
+B1676BYG	421172727	Santos Lugares		locality	1
 B1686IRT	421176635	Hurlingham		locality	1
 B1702CHT	421186529	Ciudadela		locality	1
-B1702CTC	421186529	Ciudadela		locality	1
-B1704	421191539	Ramos Mejía		locality	1
 B1704EKI	421191539	Ramos Mejía		locality	1
 B1704FLD	421191539	Ramos Mejía		locality	1
 B1708FEU	421180977	Morón		locality	1
 B1712JOB	421172023	Castelar		locality	1
 B1722ERH	421204007	Merlo		locality	1
+B1727IDP	421174029	Marcos Paz		locality	1
 B1749ASA	421196171	General Rodríguez		locality	1
 B1752CXU	421204609	Lomas del Mirador		locality	1
+B1754	421174285	Buenos Aires		locality	1
 B1754CNF	421191193	San Justo		locality	1
+B1778FQA	1243085181	Ciudad General Belgrano		locality	1
 B1814BDO	421195633	Cañuelas		locality	1
 B1815AHJ	421195759	Uribelarrea		locality	1
 B1815AOF	421195759	Uribelarrea		locality	1
 B1834FYG	421192279	Turdera		locality	1
 B1836CXJ	421179899	Lomas de Zamora		locality	1
+B1845BZB	421193959	José Mármol		locality	1
+B1852	421184693	Burzaco		locality	1
 B1865JBP	421201943	San Vicente		locality	1
 B1870CVP	421180725	Avellaneda		locality	1
 B1874ABR	421184695	Villa Domínico		locality	1
+B1876AWD	421186477	Bernal		locality	1
+B1878	421193989	Quilmes		locality	1
 B1880DOP	421182313	Berazategui		locality	1
+B1888	421202393	Florencio Varela		locality	1
 B1888EIC	421202393	Florencio Varela		locality	1
 B1889CRA	421166751	Bosques		locality	1
+B1894AAR	421191311	Villa Elisa		locality	1
+B1894AZE	421191311	Villa Elisa		locality	1
+B1894ZAA	421191311	Villa Elisa		locality	1
+B1897CAM	421174285	Buenos Aires		locality	1
 B1900	421174277	La Plata		locality	1
 B1900ADU	421174277	La Plata		locality	1
 B1900AEA	421174277	La Plata		locality	1
@@ -869,8 +1065,14 @@ B1900AJV	421174277	La Plata		locality	1
 B1900AJY	421174277	La Plata		locality	1
 B1900BKA	421174277	La Plata		locality	1
 B1900FWA	421174277	La Plata		locality	1
+B1900TDX	421174277	La Plata		locality	1
 B1911BRQ	421195955	General Mansilla		locality	1
+B1917APF	421201507	Verónica		locality	1
 B1980BVA	421174707	Brandsen		locality	1
+B2705ACG	421202503	Rojas		locality	1
+B2800AQB	421204003	Zárate		locality	1
+B2800DCA	421204003	Zárate		locality	1
+B2800DDX	421204003	Zárate		locality	1
 B2800DVT	421204003	Zárate		locality	1
 B2800FRL	421204003	Zárate		locality	1
 B2800GMB	421204003	Zárate		locality	1
@@ -879,40 +1081,89 @@ B2800GPL	421204003	Zárate		locality	1
 B2800HDB	421204003	Zárate		locality	1
 B2800HGG	421204003	Zárate		locality	1
 B2800HUB	421204003	Zárate		locality	1
-B2800JFL	421204003	Zárate		locality	1
 B2800JIN	421204003	Zárate		locality	1
 B2800JQM	421204003	Zárate		locality	1
 B2800JZA	421204003	Zárate		locality	1
 B2800LAP	421204003	Zárate		locality	1
+B2800OFA	421204003	Zárate		locality	1
 B2804NPA	421204009	Campana		locality	1
 B2812ARG	421172147	Capilla del Señor		locality	1
+B2814CMN	421204547	Los Cardales		locality	1
+B2900DMC	421203523	San Nicolás de los Arroyos		locality	1
+B2903	421193333	Campos Salles		locality	1
+B2912	1226554183	Villa General Savio		locality	1
+B2914	421195399	Ramallo		locality	1
+B2914CES	421195399	Ramallo		locality	1
+B2915	421195399	Ramallo		locality	1
 B2930AAG	421201559	San Pedro		locality	1
 B2930AAI	421201559	San Pedro		locality	1
+B2930AAT	421201559	San Pedro		locality	1
 B2930AAU	421201559	San Pedro		locality	1
 B2930AAV	421201559	San Pedro		locality	1
 B2930ADS	421201559	San Pedro		locality	1
 B2930ADT	421201559	San Pedro		locality	1
+B6003BTS	1293501219	Ascension		locality	1
+B6007ABG	1327248937	Arribenos		locality	1
+B6050AVP	421196393	General Pinto		locality	1
+B6077AJF	421204765	Pasteur		locality	1
+B6223AHA	1209022179	Coronel Charlone		locality	1
+B6241AEQ	1276246433	Emilio V. Bunge		locality	1
+B6346CKA	421194003	Pellegrini		locality	1
+B6400CFN	421200985	Trenque Lauquen		locality	1
+B6439BDA	1260197079	Laguna Alsina		locality	1
 B6455ADE	421174497	Carlos Tejedor		locality	1
+B6465ATK	1292907481	Henderson		locality	1
+B6472AKH	1259993699	Francisco Madero		locality	1
+B6474APD	1326947871	Juan Jose Paso		locality	1
+B6505AGP	1276891523	Dudignac		locality	1
 B6530AIQ	421196093	Carlos Casares		locality	1
 B6530DKB	421196093	Carlos Casares		locality	1
-B6550ANA	421177373	Urdampilleta		locality	1
-B6550CGG	421177373	Urdampilleta		locality	1
+B6550ANA	1226056899	San Carlos de Bolivar		locality	1
+B6550CGG	1226056899	San Carlos de Bolivar		locality	1
+B6600AAK	421182349	Mercedes		locality	1
+B6605CNE	421195735	Navarro		locality	1
 B6620KSB	421169171	Chivilcoy		locality	1
+B6625AID	1293798101	Moquehua		locality	1
 B6634CTP	421195747	Alberti		locality	1
+B6646ALF	421179721	O'Brien		locality	1
+B6700ANU	421168027	Luján		locality	1
 B6700FOK	421168027	Luján		locality	1
+B6720AGM	421171157	San Andrés de Giles		locality	1
 B6725AIF	421200975	Carmen de Areco		locality	1
+B7100	421200977	Dolores		locality	1
+B7107BEK	421195629	Santa Teresita		locality	1
+B7109GDF	421195783	Mar de Ajó		locality	1
 B7114BOB	421198325	Castelli		locality	1
+B7160CCH	421198333	Maipú		locality	1
 B7167XAA	421189305	Cariló		locality	1
+B7172	421174255	General Pirán		locality	1
+B7203BPB	421195467	Rauch		locality	1
+B7203BPD	421195467	Rauch		locality	1
 B7214COQ	421199927	Cacharí		locality	1
-B7240AGC	1141908071	Lobos		locality	1
-B7240AMG	1141908071	Lobos		locality	1
+B7220XAC	421197551	San Miguel del Monte		locality	1
+B7240AGC	421195755	Lobos		locality	1
+B7240AMG	421195755	Lobos		locality	1
 B7240GBG	421195755	Lobos		locality	1
-B7240KJB	1141908071	Lobos		locality	1
+B7240KJB	421195755	Lobos		locality	1
 B7245ADI	421174455	Roque Pérez		locality	1
+B7245AJO	421174455	Roque Pérez		locality	1
 B7260	421195355	Saladillo		locality	1
+B7303BMA	1226060491	Tapalque		locality	1
+B7414	421196045	Laprida		locality	1
 B7414BWW	421196045	Laprida		locality	1
+B7511AWQ	1209323653	Copetonas		locality	1
+B7513BUF	421200591	Adolfo Gonzáles Chaves		locality	1
+B7513CQE	421200591	Adolfo Gonzáles Chaves		locality	1
+B7521AFN	421196335	San Cayetano		locality	1
+B7530DHS	421195339	Coronel Pringles		locality	1
+B7545AYJ	1360102609	Huanguelen		locality	1
+B7602GGC	421169051	Mar del Plata		locality	1
 B7603AKW	421188245	Mar del Plata		locality	1
+B7607GAQ	1276887923	Miramar		locality	1
+B7620BGN	421195105	Balcarce		locality	1
+B7620ELN	421195105	Balcarce		locality	1
 B7620EMA	1141906735	Balcarce		locality	1
+B7637XAA	1277088115	La Dulce		locality	1
 B8000AAC	421193467	Bahía Blanca		locality	1
 B8000AGE	421193467	Bahía Blanca		locality	1
 B8000BFA	421193467	Bahía Blanca		locality	1
@@ -920,12 +1171,28 @@ B8000FTN	421193467	Bahía Blanca		locality	1
 B8000HQB	421193467	Bahía Blanca		locality	1
 B8000LQC	421193467	Bahía Blanca		locality	1
 B8001CWL	421193467	Bahía Blanca		locality	1
+B8002HGJ	421174285	Buenos Aires		locality	1
+B8105BQG	421195213	General Daniel Cerri		locality	1
+B8118AWD	1259797805	Cabildo		locality	1
+B8132BID	421196195	Médanos		locality	1
+B8148CHE	1141906733	Pedro Luro		locality	1
 B8150DYL	421198955	Coronel Dorrego		locality	1
+B8153CMK	1309721621	Monte Hermoso		locality	1
+B8153EDR	1309721621	Monte Hermoso		locality	1
 B8174ARB	421174705	Saavedra		locality	1
+B8180BGN	421196029	Puan		locality	1
+B8180BGS	421196029	Puan		locality	1
+B8180BKA	421196029	Puan		locality	1
+B8504BUF	421204759	Carmen de Patagones		locality	1
 C 1406 COB	421174285	Buenos Aires		locality	1
+C1001AAD	421174285	Buenos Aires		locality	1
 C1001AAS	421174285	Buenos Aires		locality	1
+C1001ABJ	421174285	Buenos Aires		locality	1
 C1001AFB	421174285	Buenos Aires		locality	1
+C1002AAT	421174285	Buenos Aires		locality	1
 C1003AAP	421174285	Buenos Aires		locality	1
+C1003ABG	421174285	Buenos Aires		locality	1
+C1004AAG	421174285	Buenos Aires		locality	1
 C1004AAH	421174285	Buenos Aires		locality	1
 C1004AAL	421174285	Buenos Aires		locality	1
 C1004AAT	421174285	Buenos Aires		locality	1
@@ -933,7 +1200,9 @@ C1004AAW	421174285	Buenos Aires		locality	1
 C1005AAC	421174285	Buenos Aires		locality	1
 C1005AAF	421174285	Buenos Aires		locality	1
 C1005AAK	421174285	Buenos Aires		locality	1
+C1005AAO	421174285	Buenos Aires		locality	1
 C1005AAS	421174285	Buenos Aires		locality	1
+C1005AKK	421174285	Buenos Aires		locality	1
 C1006	421174285	Buenos Aires		locality	1
 C1006AAD	421174285	Buenos Aires		locality	1
 C1007ABR	421174285	Buenos Aires		locality	1
@@ -941,26 +1210,40 @@ C1008AAD	421174285	Buenos Aires		locality	1
 C1008AAR	421174285	Buenos Aires		locality	1
 C1010AAX	421174285	Buenos Aires		locality	1
 C1010AAZ	421174285	Buenos Aires		locality	1
+C1011ABF	421174285	Buenos Aires		locality	1
 C1011ACC	421174285	Buenos Aires		locality	1
+C1011ACF	421174285	Buenos Aires		locality	1
+C1012AAO	421174285	Buenos Aires		locality	1
 C1012AAT	421174285	Buenos Aires		locality	1
 C1013AAB	421174285	Buenos Aires		locality	1
 C1013AAH	421174285	Buenos Aires		locality	1
 C1013AAI	421174285	Buenos Aires		locality	1
 C1013AAS	421174285	Buenos Aires		locality	1
-C1015AAA	421174285	Buenos Aires		locality	1
-C1016ABC	421174285	Buenos Aires		locality	1
+C1016AAB	421174285	Buenos Aires		locality	1
+C1019ABS	421174285	Buenos Aires		locality	1
+C1022AAA	421174285	Buenos Aires		locality	1
 C1022AAC	421174285	Buenos Aires		locality	1
 C1023AAE	421174285	Buenos Aires		locality	1
-C1024AAO	421174285	Buenos Aires		locality	1
+C1025ABG	421174285	Buenos Aires		locality	1
+C1025ABN	421174285	Buenos Aires		locality	1
+C1025ABP	421174285	Buenos Aires		locality	1
+C1026ABP	421174285	Buenos Aires		locality	1
+C1027AAO	421174285	Buenos Aires		locality	1
 C1033AAK	421174285	Buenos Aires		locality	1
+C1033AAV	421174285	Buenos Aires		locality	1
 C1033AAX	421174285	Buenos Aires		locality	1
+C1036AAF	421174285	Buenos Aires		locality	1
 C1036AAR	421174285	Buenos Aires		locality	1
+C1037ACD	421174285	Buenos Aires		locality	1
+C1038AAI	421174285	Buenos Aires		locality	1
 C1038AAJ	421174285	Buenos Aires		locality	1
+C1041AAH	421174285	Buenos Aires		locality	1
 C1041AAJ	421174285	Buenos Aires		locality	1
+C1041AAK	421174285	Buenos Aires		locality	1
 C1042AAO	421174285	Buenos Aires		locality	1
+C1043 AAL	421174285	Buenos Aires		locality	1
 C1043AAE	421174285	Buenos Aires		locality	1
 C1043AAG	421174285	Buenos Aires		locality	1
-C1043AAN	421174285	Buenos Aires		locality	1
 C1043AAQ	421174285	Buenos Aires		locality	1
 C1043AAW	421174285	Buenos Aires		locality	1
 C1045AAC	421174285	Buenos Aires		locality	1
@@ -968,6 +1251,8 @@ C1045AAD	421174285	Buenos Aires		locality	1
 C1045AAN	421174285	Buenos Aires		locality	1
 C1046AAD	421174285	Buenos Aires		locality	1
 C1047AAJ	421174285	Buenos Aires		locality	1
+C1048AAK	421174285	Buenos Aires		locality	1
+C1048AAM	421174285	Buenos Aires		locality	1
 C1049AAK	421174285	Buenos Aires		locality	1
 C1049AAQ	421174285	Buenos Aires		locality	1
 C1053ABO	421174285	Buenos Aires		locality	1
@@ -976,87 +1261,188 @@ C1054AAE	421174285	Buenos Aires		locality	1
 C1055AAD	421174285	Buenos Aires		locality	1
 C1055ABF	421174285	Buenos Aires		locality	1
 C1058AAS	421174285	Buenos Aires		locality	1
+C1059ABG	421174285	Buenos Aires		locality	1
 C1059ABH	421174285	Buenos Aires		locality	1
 C1059ABT	421174285	Buenos Aires		locality	1
 C1060ABO	421174285	Buenos Aires		locality	1
 C1061AAA	421174285	Buenos Aires		locality	1
 C1063ACF	421174285	Buenos Aires		locality	1
 C1063ACG	421174285	Buenos Aires		locality	1
-C1063ACT	421174285	Buenos Aires		locality	1
+C1063ACN	421174285	Buenos Aires		locality	1
+C1063ACR	421174285	Buenos Aires		locality	1
+C1064AAC	421174285	Buenos Aires		locality	1
 C1064ADD	421174285	Buenos Aires		locality	1
+C1065AAC	421174285	Buenos Aires		locality	1
 C1065AAO	421174285	Buenos Aires		locality	1
-C1067ABB	421174285	Buenos Aires		locality	1
+C1066AAA	421174285	Buenos Aires		locality	1
+C1067AAC	421174285	Buenos Aires		locality	1
+C1067ABP	421174285	Buenos Aires		locality	1
 C1069AAA	421174285	Buenos Aires		locality	1
 C1069AAE	421174285	Buenos Aires		locality	1
 C1069AAP	421174285	Buenos Aires		locality	1
+C1069AAS	421174285	Buenos Aires		locality	1
+C1070AAS	421174285	Buenos Aires		locality	1
+C1078	421174285	Buenos Aires		locality	1
+C1078AAH	421174285	Buenos Aires		locality	1
 C1079ABF	421174285	Buenos Aires		locality	1
+C1084AAA	421174285	Buenos Aires		locality	1
+C1084AAN	421174285	Buenos Aires		locality	1
+C1084ABB	421174285	Buenos Aires		locality	1
+C1085ABB	421174285	Buenos Aires		locality	1
 C1085ABE	421174285	Buenos Aires		locality	1
-C1089AAH	421174285	Buenos Aires		locality	1
+C1086AAB	421174285	Buenos Aires		locality	1
+C1086AAD	421174285	Buenos Aires		locality	1
+C1087AAB	421174285	Buenos Aires		locality	1
+C1089AAB	421174285	Buenos Aires		locality	1
+C1091AAH	421174285	Buenos Aires		locality	1
+C1091AAQ	421174285	Buenos Aires		locality	1
 C1091ABA	421174285	Buenos Aires		locality	1
 C1093ABE	421174285	Buenos Aires		locality	1
+C1095AAM	421174285	Buenos Aires		locality	1
+C1099AAY	421174285	Buenos Aires		locality	1
 C1101AAH	421174285	Buenos Aires		locality	1
+C1103ACH	421174285	Buenos Aires		locality	1
 C1103ACJ	421174285	Buenos Aires		locality	1
-C1104ACC	421174285	Buenos Aires		locality	1
 C1104ACH	421174285	Buenos Aires		locality	1
+C1104AMT	421174285	Buenos Aires		locality	1
 C1104BEN	421174285	Buenos Aires		locality	1
+C1106ABG	421174285	Buenos Aires		locality	1
 C1106BMD	421174285	Buenos Aires		locality	1
 C1107	421174285	Buenos Aires		locality	1
 C1107AAP	421174285	Buenos Aires		locality	1
+C1107AAT	421174285	Buenos Aires		locality	1
+C1107AAX	421174285	Buenos Aires		locality	1
 C1107ADB	421174285	Buenos Aires		locality	1
 C1107BGA	421174285	Buenos Aires		locality	1
+C1107BLF	421174285	Buenos Aires		locality	1
+C1107CCC	421174285	Buenos Aires		locality	1
 C1107CDA	421174285	Buenos Aires		locality	1
+C1107CND	421174285	Buenos Aires		locality	1
 C1112AAD	421174285	Buenos Aires		locality	1
+C1112ADE	421174285	Buenos Aires		locality	1
+C1113AAC	421174285	Buenos Aires		locality	1
+C1113AAD	421174285	Buenos Aires		locality	1
+C1113AAI	421174285	Buenos Aires		locality	1
+C1114AAD	421174285	Buenos Aires		locality	1
+C1115AAF	421174285	Buenos Aires		locality	1
+C1116ABC	421174285	Buenos Aires		locality	1
 C1118AAT	421174285	Buenos Aires		locality	1
+C1119AAA	421174285	Buenos Aires		locality	1
 C1120AAR	421174285	Buenos Aires		locality	1
+C1120AAS	421174285	Buenos Aires		locality	1
+C1122AAH	421174285	Buenos Aires		locality	1
+C1124AAH	421174285	Buenos Aires		locality	1
+C1127AAR	421174285	Buenos Aires		locality	1
+C1128ACA	421174285	Buenos Aires		locality	1
+C1128ACC	421174285	Buenos Aires		locality	1
+C1128ACJ	421174285	Buenos Aires		locality	1
 C1129ABO	421174285	Buenos Aires		locality	1
+C1143AAH	421174285	Buenos Aires		locality	1
+C1155AEA	421174285	Buenos Aires		locality	1
+C1160ABM	421174285	Buenos Aires		locality	1
+C1161AAQ	421174285	Buenos Aires		locality	1
+C1162ABJ	421174285	Buenos Aires		locality	1
+C1164ACB	421174285	Buenos Aires		locality	1
 C1166AAG	421174285	Buenos Aires		locality	1
+C1167ACC	421174285	Buenos Aires		locality	1
+C1169AAC	421174285	Buenos Aires		locality	1
 C1169AAD	421174285	Buenos Aires		locality	1
 C1172ABN	421174285	Buenos Aires		locality	1
-C1180ACD	421174285	Buenos Aires		locality	1
+C1179AAM	421174285	Buenos Aires		locality	1
 C1180ACI	421174285	Buenos Aires		locality	1
-C1186AAN	421174285	Buenos Aires		locality	1
+C1185ABD	421174285	Buenos Aires		locality	1
+C1187AAF	421174285	Buenos Aires		locality	1
+C1187AAH	421174285	Buenos Aires		locality	1
+C1189AAH	421174285	Buenos Aires		locality	1
+C1192	421174285	Buenos Aires		locality	1
+C1193	421174285	Buenos Aires		locality	1
+C1193AAN	421174285	Buenos Aires		locality	1
+C1193AAP	421174285	Buenos Aires		locality	1
+C1193AAQ	421174285	Buenos Aires		locality	1
 C1195AAB	421174285	Buenos Aires		locality	1
 C1195AAF	421174285	Buenos Aires		locality	1
 C1196AAG	421174285	Buenos Aires		locality	1
 C1200AAK	421174285	Buenos Aires		locality	1
+C1202ACE	421174285	Buenos Aires		locality	1
 C1204AAR	421174285	Buenos Aires		locality	1
 C1205AAB	421174285	Buenos Aires		locality	1
-C1205AAN	421174285	Buenos Aires		locality	1
+C1208ABS	421174285	Buenos Aires		locality	1
+C1215ACM	421174285	Buenos Aires		locality	1
+C1222ACE	421174285	Buenos Aires		locality	1
+C1225AAM	421174285	Buenos Aires		locality	1
 C1225AAQ	421174285	Buenos Aires		locality	1
+C1230ABO	421174285	Buenos Aires		locality	1
+C1231AAB	421174285	Buenos Aires		locality	1
 C1233ABC	421174285	Buenos Aires		locality	1
 C1233ABZ	421174285	Buenos Aires		locality	1
+C1246AAQ	421174285	Buenos Aires		locality	1
+C1247ABA	421174285	Buenos Aires		locality	1
 C1260ACO	421174285	Buenos Aires		locality	1
 C1263AAE	421174285	Buenos Aires		locality	1
+C1264AAH	421174285	Buenos Aires		locality	1
+C1264AAN	421174285	Buenos Aires		locality	1
 C1265ADO	421174285	Buenos Aires		locality	1
 C1267ABQ	421174285	Buenos Aires		locality	1
 C1270AAH	421174285	Buenos Aires		locality	1
 C1274ACJ	421174285	Buenos Aires		locality	1
 C1277ADM	421174285	Buenos Aires		locality	1
+C1282AFF	421174285	Buenos Aires		locality	1
+C1289AAN	421174285	Buenos Aires		locality	1
 C1293ABA	421174285	Buenos Aires		locality	1
 C1293ACE	421174285	Buenos Aires		locality	1
+C1405AKS	421174285	Buenos Aires		locality	1
+C1405ALD	421174285	Buenos Aires		locality	1
+C1405BAT	421174285	Buenos Aires		locality	1
+C1405BOB	421174285	Buenos Aires		locality	1
 C1405CAE	421174285	Buenos Aires		locality	1
-C1405DKA	421174285	Buenos Aires		locality	1
+C1405CNV	421174285	Buenos Aires		locality	1
+C1405CRM	421174285	Buenos Aires		locality	1
+C1405DCA	421174285	Buenos Aires		locality	1
+C1405DCG	421174285	Buenos Aires		locality	1
+C1405DCK	421174285	Buenos Aires		locality	1
+C1405DCX	421174285	Buenos Aires		locality	1
+C1405DEI	421174285	Buenos Aires		locality	1
+C1405DEJ	421174285	Buenos Aires		locality	1
+C1405DJG	421174285	Buenos Aires		locality	1
+C1405DJR	421174285	Buenos Aires		locality	1
+C1405DJW	421174285	Buenos Aires		locality	1
+C1406AJC	421174285	Buenos Aires		locality	1
+C1406BOS	421174285	Buenos Aires		locality	1
 C1406ELA	421174285	Buenos Aires		locality	1
+C1406FYG	421174285	Buenos Aires		locality	1
+C1406GKB	421174285	Buenos Aires		locality	1
+C1406GLI	421174285	Buenos Aires		locality	1
 C1406GLX	421174285	Buenos Aires		locality	1
 C1406GRI	421174285	Buenos Aires		locality	1
 C1406GRL	421174285	Buenos Aires		locality	1
 C1406GSB	421174285	Buenos Aires		locality	1
 C1406GSO	421174285	Buenos Aires		locality	1
 C1406GYA	421174285	Buenos Aires		locality	1
+C1407	421174285	Buenos Aires		locality	1
+C1407BNL	421174285	Buenos Aires		locality	1
 C1407BNV	421174285	Buenos Aires		locality	1
 C1407BNW	421174285	Buenos Aires		locality	1
+C1407BNX	421174285	Buenos Aires		locality	1
+C1407BNZ	421174285	Buenos Aires		locality	1
 C1407BOP	421174285	Buenos Aires		locality	1
+C1407EGP	421174285	Buenos Aires		locality	1
+C1407FAQ	421174285	Buenos Aires		locality	1
+C1407GON	421174285	Buenos Aires		locality	1
 C1407GPB	421174285	Buenos Aires		locality	1
 C1407GPG	421174285	Buenos Aires		locality	1
 C1407GPO	421174285	Buenos Aires		locality	1
 C1407GPT	421174285	Buenos Aires		locality	1
 C1407GZE	421174285	Buenos Aires		locality	1
+C1407HDK	421174285	Buenos Aires		locality	1
 C1407IVT	421174285	Buenos Aires		locality	1
+C1407KBC	421174285	Buenos Aires		locality	1
+C1407MLJ	421174285	Buenos Aires		locality	1
 C1408ABN	421174285	Buenos Aires		locality	1
+C1408BHD	421174285	Buenos Aires		locality	1
 C1408CBJ	421174285	Buenos Aires		locality	1
-C1408DSF	421174285	Buenos Aires		locality	1
 C1408DSI	421174285	Buenos Aires		locality	1
 C1408IGK	421174285	Buenos Aires		locality	1
+C1414 CHW	421174285	Buenos Aires		locality	1
 C1414AHL	421174285	Buenos Aires		locality	1
 C1414AIJ	421174285	Buenos Aires		locality	1
 C1414AJF	421174285	Buenos Aires		locality	1
@@ -1064,100 +1450,173 @@ C1414AJH	421174285	Buenos Aires		locality	1
 C1414AJQ	421174285	Buenos Aires		locality	1
 C1414AJT	421174285	Buenos Aires		locality	1
 C1414ASL	421174285	Buenos Aires		locality	1
+C1414AUW	421174285	Buenos Aires		locality	1
 C1414BAG	421174285	Buenos Aires		locality	1
 C1414BAH	421174285	Buenos Aires		locality	1
 C1414BAP	421174285	Buenos Aires		locality	1
 C1414BPV	421174285	Buenos Aires		locality	1
+C1414BYB	421174285	Buenos Aires		locality	1
+C1414CEA	421174285	Buenos Aires		locality	1
+C1414CUR	421174285	Buenos Aires		locality	1
 C1414CWA	421174285	Buenos Aires		locality	1
 C1414CWV	421174285	Buenos Aires		locality	1
+C1414CWZ	421174285	Buenos Aires		locality	1
+C1414CXP	421174285	Buenos Aires		locality	1
+C1414CYD	421174285	Buenos Aires		locality	1
 C1414CYN	421174285	Buenos Aires		locality	1
 C1414DCN	421174285	Buenos Aires		locality	1
+C1414DKE	421174285	Buenos Aires		locality	1
+C1414DMJ	421174285	Buenos Aires		locality	1
 C1414DND	421174285	Buenos Aires		locality	1
 C1414DNF	421174285	Buenos Aires		locality	1
+C1414DNH	421174285	Buenos Aires		locality	1
 C1414DNQ	421174285	Buenos Aires		locality	1
+C1414DNT	421174285	Buenos Aires		locality	1
+C1414EDD	421174285	Buenos Aires		locality	1
+C1416	421174285	Buenos Aires		locality	1
+C1416ACS	421174285	Buenos Aires		locality	1
+C1416CRD	421174285	Buenos Aires		locality	1
+C1416CRR	421174285	Buenos Aires		locality	1
 C1416DJI	421174285	Buenos Aires		locality	1
 C1416DKJ	421174285	Buenos Aires		locality	1
+C1416DRS	421174285	Buenos Aires		locality	1
+C1416EXL	421174285	Buenos Aires		locality	1
+C1417AOP	421174285	Buenos Aires		locality	1
 C1417CBT	421174285	Buenos Aires		locality	1
+C1417CUN	421174285	Buenos Aires		locality	1
 C1417FYN	421174285	Buenos Aires		locality	1
+C1419DVM	421174285	Buenos Aires		locality	1
 C1419HTH	421174285	Buenos Aires		locality	1
 C1419IAD	421174285	Buenos Aires		locality	1
 C1419ICG	421174285	Buenos Aires		locality	1
+C1424BCL	421174285	Buenos Aires		locality	1
+C1424BDV	421174285	Buenos Aires		locality	1
+C1424BLH	421174285	Buenos Aires		locality	1
+C1424BRA	421174285	Buenos Aires		locality	1
+C1424CCL	421174285	Buenos Aires		locality	1
+C1424CEH	421174285	Buenos Aires		locality	1
+C1424CEI	421174285	Buenos Aires		locality	1
 C1424CET	421174285	Buenos Aires		locality	1
+C1424CEU	421174285	Buenos Aires		locality	1
+C1424CEV	421174285	Buenos Aires		locality	1
 C1424CIS	421174285	Buenos Aires		locality	1
 C1425	421174285	Buenos Aires		locality	1
+C1425AAA	421174285	Buenos Aires		locality	1
+C1425AAR	421174285	Buenos Aires		locality	1
+C1425ABX	421174285	Buenos Aires		locality	1
 C1425BGB	421174285	Buenos Aires		locality	1
 C1425BGH	421174285	Buenos Aires		locality	1
 C1425BGM	421174285	Buenos Aires		locality	1
+C1425BGP	421174285	Buenos Aires		locality	1
 C1425BGS	421174285	Buenos Aires		locality	1
 C1425BGU	421174285	Buenos Aires		locality	1
 C1425BGY	421174285	Buenos Aires		locality	1
+C1425BHH	421174285	Buenos Aires		locality	1
 C1425BHT	421174285	Buenos Aires		locality	1
 C1425BIN	421174285	Buenos Aires		locality	1
+C1425BIO	421174285	Buenos Aires		locality	1
+C1425BMG	421174285	Buenos Aires		locality	1
 C1425BXH	421174285	Buenos Aires		locality	1
+C1425CKB	421174285	Buenos Aires		locality	1
 C1425CLA	421174285	Buenos Aires		locality	1
 C1425DTS	421174285	Buenos Aires		locality	1
+C1425EID	421174285	Buenos Aires		locality	1
+C1425EKF	421174285	Buenos Aires		locality	1
 C1425EYL	421174285	Buenos Aires		locality	1
 C1425FAB	421174285	Buenos Aires		locality	1
 C1425FBC	421174285	Buenos Aires		locality	1
 C1425FNI	421174285	Buenos Aires		locality	1
+C1425FQI	421174285	Buenos Aires		locality	1
 C1425FSD	421174285	Buenos Aires		locality	1
+C1425FTE	421174285	Buenos Aires		locality	1
 C1425FVA	421174285	Buenos Aires		locality	1
 C1425GAP	421174285	Buenos Aires		locality	1
 C1425GMN	421174285	Buenos Aires		locality	1
+C1426AAB	421174285	Buenos Aires		locality	1
+C1426AAD	421174285	Buenos Aires		locality	1
 C1426AAQ	421174285	Buenos Aires		locality	1
 C1426ABB	421174285	Buenos Aires		locality	1
 C1426ABP	421174285	Buenos Aires		locality	1
 C1426AGX	421174285	Buenos Aires		locality	1
+C1426AJF	421174285	Buenos Aires		locality	1
+C1426BJC	421174285	Buenos Aires		locality	1
 C1426BMC	421174285	Buenos Aires		locality	1
 C1426BOC	421174285	Buenos Aires		locality	1
+C1426BOQ	421174285	Buenos Aires		locality	1
 C1426CRF	421174285	Buenos Aires		locality	1
+C1426CTJ	421174285	Buenos Aires		locality	1
 C1426DLD	421174285	Buenos Aires		locality	1
 C1426DQG	421174285	Buenos Aires		locality	1
+C1426EHM	421174285	Buenos Aires		locality	1
 C1427ARN	421174285	Buenos Aires		locality	1
 C1427BLA	421174285	Buenos Aires		locality	1
+C1427BPG	421174285	Buenos Aires		locality	1
+C1427BRJ	421174285	Buenos Aires		locality	1
+C1427BXE	421174285	Buenos Aires		locality	1
+C1427EDE	421174285	Buenos Aires		locality	1
+C1427EDN	421174285	Buenos Aires		locality	1
+C1427EDO	421174285	Buenos Aires		locality	1
+C1427EGD	421174285	Buenos Aires		locality	1
 C1428AAA	421174285	Buenos Aires		locality	1
 C1428AAB	421174285	Buenos Aires		locality	1
 C1428AAS	421174285	Buenos Aires		locality	1
 C1428AAW	421174285	Buenos Aires		locality	1
+C1428AEE	421174285	Buenos Aires		locality	1
+C1428AGL	421174285	Buenos Aires		locality	1
+C1428AID	421174285	Buenos Aires		locality	1
 C1428CTF	421174285	Buenos Aires		locality	1
 C1428CW	421174285	Buenos Aires		locality	1
 C1428DDL	421174285	Buenos Aires		locality	1
 C1428DKK	421174285	Buenos Aires		locality	1
 C1428EHA	421174285	Buenos Aires		locality	1
-C1429AAL	421174285	Buenos Aires		locality	1
-C1429BMC	421174285	Buenos Aires		locality	1
+C1428EIS	421174285	Buenos Aires		locality	1
 C1429BNB	421174285	Buenos Aires		locality	1
-C1429BNC	421174285	Buenos Aires		locality	1
 C1429BNO	421174285	Buenos Aires		locality	1
 C1430BRH	421174285	Buenos Aires		locality	1
-C1430DHI	421174285	Buenos Aires		locality	1
 C1430ETA	421174285	Buenos Aires		locality	1
+C1430FED	421174285	Buenos Aires		locality	1
+C1431DOD	421174285	Buenos Aires		locality	1
 C1431FBB	421174285	Buenos Aires		locality	1
+C1437EYD	421174285	Buenos Aires		locality	1
 C1437FBF	421174285	Buenos Aires		locality	1
 C1437FBG	421174285	Buenos Aires		locality	1
+C1437FHG	421174285	Buenos Aires		locality	1
 C1437JCP	421174285	Buenos Aires		locality	1
 C1437JLR	421174285	Buenos Aires		locality	1
 C1439AG	421174285	Buenos Aires		locality	1
+C1439COV	421174285	Buenos Aires		locality	1
+C1439CRD	421174285	Buenos Aires		locality	1
+C1439CRE	421174285	Buenos Aires		locality	1
+C1439EQD	421174285	Buenos Aires		locality	1
 C1440AAO	421174285	Buenos Aires		locality	1
 C1440ATG	421174285	Buenos Aires		locality	1
+C1440BBO	421174285	Buenos Aires		locality	1
 C1440FJN	421174285	Buenos Aires		locality	1
 CP5509	421196289	Luján de Cuyo		locality	1
 Correo Argentino	421172797	San Miguel de Tucumán		locality	1
+D5700HHW	421186647	San Luis		locality	1
+D5730	890452757	Villa Mercedes		locality	1
 E2820DNF	421204351	Gualeguaychú		locality	1
+E3103XAF	1209434947	Libertador San Martin		locality	1
 E3106LEQ	421200967	Paraná		locality	1
 E3153ZAA	421169163	Victoria		locality	1
 E3174ZAA	890431201	Rosario del Tala		locality	1
+E3200	421174851	Concordia		locality	1
 E3200ABH	421174851	Concordia		locality	1
 E3200ACB	421174851	Concordia		locality	1
+E3200ACF	421174851	Concordia		locality	1
 E3200ACH	421174851	Concordia		locality	1
 E3200ACL	421174851	Concordia		locality	1
+E3200AGJ	421174851	Concordia		locality	1
 E3200AGL	421174851	Concordia		locality	1
 E3200AIN	421174851	Concordia		locality	1
-E3200AMI	421174851	Concordia		locality	1
 E3200AMM	421174851	Concordia		locality	1
 E3200ANA	421174851	Concordia		locality	1
+E3200BBJ	421174851	Concordia		locality	1
+E3200BDF	421174851	Concordia		locality	1
+E3200DWC	421174851	Concordia		locality	1
+E3200EBE	421174851	Concordia		locality	1
 E3200EDA	421174851	Concordia		locality	1
-E3200EDC	421174851	Concordia		locality	1
 E3200EFA	421174851	Concordia		locality	1
 E3200EKE	421174851	Concordia		locality	1
 E3201XAJ	421174851	Concordia		locality	1
@@ -1184,10 +1643,15 @@ E3202GLF	421174851	Concordia		locality	1
 E3202GNC	421174851	Concordia		locality	1
 E3202GRB	421174851	Concordia		locality	1
 E3202GRF	421174851	Concordia		locality	1
+E3228BFG	421205329	Chajarí		locality	1
 E3228BKD	421205329	Chajarí		locality	1
 E3228EZO	421205329	Chajarí		locality	1
+E3228FHS	421205329	Chajarí		locality	1
 E3260FTD	421177951	Concepción del Uruguay		locality	1
-F5360	1141908091	Chilecito		locality	1
+E3262AZR	421204675	Caseros		locality	1
+F5300ALQ	421172805	La Rioja		locality	1
+F5301	1309993021	Aminga		locality	1
+F5360	421172041	Chilecito		locality	1
 G4220	421175095	Termas de Río Hondo		locality	1
 H3500ALD	421186909	Resistencia		locality	1
 H3500ASC	421186909	Resistencia		locality	1
@@ -1198,6 +1662,7 @@ H3545ZAAv	890440151	Villa Berthet		locality	1
 H3701ZAA	890454207	La Tigra		locality	1
 H3703ZAA	890437219	Tres Isletas		locality	1
 H3725ZAA	890429387	La Clotilde		locality	1
+Ituzaingó	421196115	Ituzaingó		locality	1
 J5400ARL	421182183	San Juan		locality	1
 J5402DDC	421182183	San Juan		locality	1
 J5402DDO	421182183	San Juan		locality	1
@@ -1206,6 +1671,7 @@ K4700EKA	421174835	San Fernando del Valle de Catamarca		locality	1
 K4702BUR	421174835	San Fernando del Valle de Catamarca		locality	1
 K4750	421198319	Belén		locality	1
 K5260CZA	890439941	Recreo		locality	1
+L8200	890445127	General Acha		locality	1
 L8200BFG	890445127	General Acha		locality	1
 M5500AAK	421200319	Mendoza		locality	1
 M5500AGC	421200319	Mendoza		locality	1
@@ -1213,12 +1679,16 @@ M5500ALZ	421200319	Mendoza		locality	1
 M5500EV	421200319	Mendoza		locality	1
 M5500GEE	421200319	Mendoza		locality	1
 M5501LQK	421196395	Godoy Cruz		locality	1
+M5507ENT	421196289	Luján de Cuyo		locality	1
+M5511HUJ	421196095	Maipú		locality	1
 M5515BLB	421196095	Maipú		locality	1
 M5539HSQ	421195101	Las Heras		locality	1
 M5539KTR	421195101	Las Heras		locality	1
 M5560EVZ	421196383	Tunuyán		locality	1
+M5561	421200991	Tupungato		locality	1
+M5570	1141906717	Uspallata		locality	1
 Mendoza	421191323	Gral Alvear		locality	1
-N3300AHT	890444623	Posadas		locality	1
+N3300AHT	421186911	Posadas		locality	1
 N3300BSP	421186911	Posadas		locality	1
 N3300BST	421186911	Posadas		locality	1
 N3300BXA	421186911	Posadas		locality	1
@@ -1227,9 +1697,8 @@ N3300EUO	421186911	Posadas		locality	1
 N3300GBD	421186911	Posadas		locality	1
 N3300GBF	421186911	Posadas		locality	1
 N3300HSL	421186911	Posadas		locality	1
-N3300IHB	890444623	Posadas		locality	1
-N3300KSJ	421186911	Posadas		locality	1
-N3300LXL	890444623	Posadas		locality	1
+N3300IHB	421186911	Posadas		locality	1
+N3300LXL	421186911	Posadas		locality	1
 N3300MKO	421186911	Posadas		locality	1
 N3300MOA	421186911	Posadas		locality	1
 N3300MOF	421186911	Posadas		locality	1
@@ -1237,17 +1706,18 @@ N3300MOW	421186911	Posadas		locality	1
 N3300MOX	421186911	Posadas		locality	1
 N3300MPO	421186911	Posadas		locality	1
 N3300MPR	421186911	Posadas		locality	1
+N3300MSA	421186911	Posadas		locality	1
 N3300OOZ	421186911	Posadas		locality	1
 N3300PMI	421186911	Posadas		locality	1
-N3300XXX	890444623	Posadas		locality	1
+N3300XXX	421186911	Posadas		locality	1
 N3307ZAA	421182169	San José		locality	1
-N3315	1125868197	Arroyo del Medio		locality	1
 N3315	890453201	Dos Arroyos		locality	1
 N3315	421173565	Mojón Grande		locality	1
 N3316ZAA	421196331	Santa Ana		locality	1
 N3317	421169429	Bonpland		locality	1
 N3326	421191931	Santo Pipó		locality	1
 N3328)	421176137	Jardín América		locality	1
+N3328EEP	421176137	Jardín América		locality	1
 N3332	421171203	Puerto Leoni		locality	1
 N3334XAI	421171207	Ruiz de Montoya		locality	1
 N3336	421174609	San Antonio		locality	1
@@ -1268,15 +1738,24 @@ N3370ZAA	890444625	Puerto Iguazú		locality	1
 N3376	890418119	Veinticinco de Mayo		locality	1
 N3380AAU	421204755	Eldorado		locality	1
 N3380LUF	421204755	Eldorado		locality	1
-Q8300AYU	421193995	Neuquén		locality	1
-Q8300BMH	421193995	Neuquén		locality	1
+N3380OSA	421204755	Eldorado		locality	1
+P3600IDK	421204615	Formosa		locality	1
+Q8300BCX	421193995	Neuquén		locality	1
 Q8300ZAA	421193995	Neuquén		locality	1
 Q8302GRN	421193995	Neuquén		locality	1
 Q8304LMT	421193995	Neuquén		locality	1
+Q8370	421193963	San Martín de los Andes		locality	1
+Q8407ZCA	421174833	Villa La Angostura		locality	1
 R8307ERD	890435509	Catriel		locality	1
 R8332EXX	421172809	General Roca		locality	1
+R8400	890437593	San Carlos de Bariloche		locality	1
 R8400GHJ	890437593	San Carlos de Bariloche		locality	1
-S2005	421172799	Rosario		locality	1
+S2000	421185983	Alvear		locality	1
+S2000AWY	421172799	Rosario		locality	1
+S2000AZC	421172799	Rosario		locality	1
+S2005CQZ	421172799	Rosario		locality	1
+S2013CCX	421172799	Rosario		locality	1
+S2123	1343435017	Fuentes		locality	1
 S2123	421191313	Zavalla		locality	1
 S2124KEH	421193425	Villa Gobernador Gálvez		locality	1
 S2128DKB	421198283	Arroyo Seco		locality	1
@@ -1284,42 +1763,87 @@ S2147	421198211	San Genaro		locality	1
 S2152	421204679	Granadero Baigorria		locality	1
 S2152ASM	421204679	Granadero Baigorria		locality	1
 S2154	421171147	Capitán Bermúdez		locality	1
+S2173	1209489429	Sanford		locality	1
+S2181	1277033605	Los Molinos		locality	1
+S2248	1293165285	Bernardo de Irigoyen		locality	1
+S2248AUB	1293165285	Bernardo de Irigoyen		locality	1
 S2252BZG	421178973	Gálvez		locality	1
 S2252HQH	421178973	Gálvez		locality	1
 S2255	421178973	Gálvez		locality	1
+S2255AIK	1343916949	Lopez		locality	1
+S2255AJU	1343916949	Lopez		locality	1
 S2300NUI	421176549	Rafaela		locality	1
 S2301	1125914977	Bella Italia		locality	1
-S2339	1141908119	Vera		locality	1
+S2301	1260353499	Presidente Roca		locality	1
+S2301	1293165347	Villa San Jose		locality	1
+S2306	1226416549	Vila		locality	1
+S2311	1293842825	Capivara		locality	1
+S2339	1293349425	Ambrosetti		locality	1
+S2339	421181953	Vera		locality	1
 S2349	421181533	Suardi		locality	1
+S2351	1343822325	Colonia Rosa		locality	1
+S2438	1276333419	Frontera		locality	1
+S2440BCO	421196025	Sastre		locality	1
 S2452BJA	421200551	San Jorge		locality	1
 S2452BLH	421200551	San Jorge		locality	1
 S2453	421195749	Carlos Pellegrini		locality	1
+S2456	1259747633	Esmeralda		locality	1
+S2503	1259456947	Villa Eloisa		locality	1
+S2506	1226101035	Correa		locality	1
+S2523ACJ	1209373841	Bouquet		locality	1
 S2526	421169855	Labordeboy		locality	1
+S2611	1209473939	Christophersen		locality	1
+S2611	1209065309	Runciman		locality	1
+S2615	1259542445	San Eduardo		locality	1
+S2618	1293548329	Carmen		locality	1
 S2630BIG	421179717	Firmat		locality	1
 S2722	421195079	Wheelwright		locality	1
+S3.001	1209880497	Colonia San Joaquin		locality	1
 S3.005	421195753	San Javier		locality	1
 S3000CXJ	421174279	Santa Fe		locality	1
+S3000DKN	421174279	Santa Fe		locality	1
+S3000DKT	421174279	Santa Fe		locality	1
 S3000FFN	421174279	Santa Fe		locality	1
 S3000FIN	421174279	Santa Fe		locality	1
 S3000FNJ	421174279	Santa Fe		locality	1
 S3000FQH	421174279	Santa Fe		locality	1
 S3001	421191627	Colastiné		locality	1
+S3001	1326489407	Cabal		locality	1
+S3001	1292965247	Santa Rosa		locality	1
 S3013ADE	421188551	San Carlos Centro		locality	1
 S3014	421174279	Santa Fe		locality	1
-S3070	1141908119	Vera		locality	1
+S3017	1293454109	Sauce Viejo		locality	1
+S3022	1292965247	Santa Rosa		locality	1
+S3032	1243337597	Nelson		locality	1
+S3038	1327492355	Cayastacito		locality	1
+S3048	1242751953	Videla		locality	1
+S3054	1243513439	Vera y Pintado		locality	1
+S3061	1242838797	Gregoria Perez de Denis		locality	1
+S3070	421181953	Vera		locality	1
+S3088	1344115783	Nuevo Torino		locality	1
 S3440	421167803	San Justo		locality	1
 S3482	890443911	Avellaneda		locality	1
+S3541	1344121273	Gato Colorado		locality	1
+S3555	1260246319	Romang		locality	1
 S3560	421181953	Vera		locality	1
 S3572BIH	421195089	Malabrigo		locality	1
 S3574	421166725	Guadalupe Norte		locality	1
-S3586	421188549	Las Toscas 		locality	1
+S3575	1343931863	Lanteri		locality	1
+S3586	421188549	Las Toscas		locality	1
+S3587	1310279025	Tacuarendi		locality	1
 S6009AAD	421197509	Teodelina		locality	1
 T4000ASN	421172797	San Miguel de Tucumán		locality	1
 T4000EBS	421172797	San Miguel de Tucumán		locality	1
+T4000IEC	421172797	San Miguel de Tucumán		locality	1
 T4000IZD	421172797	San Miguel de Tucumán		locality	1
+T4001GQI,	421172797	San Miguel de Tucumán		locality	1
+T4242XBR	421172797	San Miguel de Tucumán		locality	1
+U9020	1141909095	Sarmiento		locality	1
+U9100	421197583	Trelew		locality	1
 U9200	1141908755	Esquel		locality	1
 V9410	890435489	Ushuaia		locality	1
 V9410IEA	890435489	Ushuaia		locality	1
+V9410IHF	890435489	Ushuaia		locality	1
 W3196ZAA	421174027	Esquina		locality	1
 W3230FLP	421202735	Paso de los Libres		locality	1
 W3302	421196115	Ituzaingó		locality	1
@@ -1327,33 +1851,51 @@ W3400AID	890442849	Corrientes		locality	1
 W3400BSN	890442849	Corrientes		locality	1
 W3400CEI	890442849	Corrientes		locality	1
 W3403AAS	421196333	San Luis del Palmar		locality	1
+W3408HXX	890442849	Corrientes		locality	1
+W3445XAJ	1310494115	Puente Batel		locality	1
 W3450ZAA	421179711	Goya		locality	1
+W3453XAF	1293484989	Ifran		locality	1
 W3470CGI	421176125	Mercedes		locality	1
 X2400FBS	421178987	La Para		locality	1
+X2525AMI	1343261053	Saira		locality	1
+X2550AAF	421174005	Bell Ville		locality	1
+X2550FGP	421174005	Bell Ville		locality	1
+X2580ATD	421177677	Marcos Juárez		locality	1
 X2580ATE	421177677	Marcos Juárez		locality	1
 X2580ATQ	421177677	Marcos Juárez		locality	1
 X2580CDW	421177677	Marcos Juárez		locality	1
+X5000AHX	421172813	Córdoba		locality	1
 X5000AVG	421172813	Córdoba		locality	1
-X5000BKD	421172813	Córdoba		locality	1
-X5000JQB	421172813	Córdoba		locality	1
+X5000IUB	421172813	Córdoba		locality	1
+X5000IYG	421172813	Córdoba		locality	1
+X5000JLA	421172813	Córdoba		locality	1
 X5000JQN	421172813	Córdoba		locality	1
+X5003EIK	421172813	Córdoba		locality	1
 X5004AAP	421172813	Córdoba		locality	1
 X5004AUD	421172813	Córdoba		locality	1
 X5004EFY	421172813	Córdoba		locality	1
 X5004ETQ	421172813	Córdoba		locality	1
 X5004EYP	421172813	Córdoba		locality	1
 X5004FTD	421172813	Córdoba		locality	1
-X5008DMM	421172813	Córdoba		locality	1
+X5009	421172813	Córdoba		locality	1
 X5009ABP	421172813	Córdoba		locality	1
 X5009ABW	421172813	Córdoba		locality	1
 X5009JRO	421172813	Córdoba		locality	1
 X5016IBR	421172813	Córdoba		locality	1
 X5017LAV	421172813	Córdoba		locality	1
+X5020DVA	421172813	Córdoba		locality	1
 X5021IQA	421172813	Córdoba		locality	1
 X5105	421203295	Villa Allende		locality	1
 X5108DQG	421185387	Mendiolaza		locality	1
+X5115	421181513	La Granja		locality	1
+X5137ANQ	421178241	La Para		locality	1
+X5139	421169455	Marull		locality	1
+X5186XAE	421169173	Alta Gracia		locality	1
+X5220CWO	421191327	Jesús María		locality	1
 X5854DAA	421195477	Almafuerte		locality	1
+X5900AKE	421169161	Villa María		locality	1
 X5900AKH	421169161	Villa María		locality	1
+X5923AKZ	421191953	General Deheza		locality	1
 Y4600AXX	421185855	San Salvador de Jujuy		locality	1
 Y4604CMF	421185855	San Salvador de Jujuy		locality	1
 Y4604ERA	421185855	San Salvador de Jujuy		locality	1
@@ -1377,18 +1919,25 @@ Y4613ATN	421198343	Palpalá		locality	1
 Y4613BMF	421198343	Palpalá		locality	1
 Y4613CAW	421198343	Palpalá		locality	1
 Y4613DCD	421198343	Palpalá		locality	1
+Y4624	421168359	Tilcara		locality	1
+Y4624AFN	421168359	Tilcara		locality	1
 Z9301XAF	890437573	El Chaltén		locality	1
+Z9303	1141906703	Comandante Luis Piedrabuena		locality	1
+Z9304	890437573	El Chaltén		locality	1
+b1757	421204627	Puerto San Julián		locality	1
 c1187aap	421174285	Buenos Aires		locality	1
+x2550	421174005	Bell Ville		locality	1
 x5000kvd	421172813	Córdoba		locality	1
-´9400	890445117	Río Gallegos		locality	1
+z9303	421197377	Comandante Luis Piedrabuena		locality	1
+´9400	421185945	Río Gallegos		locality	1
 1.619	421191325	Garín		locality	1
 1.852	421184693	Burzaco		locality	1
 2.670	421196201	La Carlota		locality	5
 3	421204609	Lomas del Mirador		locality	1
 3.100	421200967	Paraná		locality	1
 3.540	890435503	Villa Ángela		locality	2
-3.708	421199805	Pampa del Infierno		locality	2
-4.107	421178083	Yerba Buena		locality	1
+3.708	1141906771	Pampa del Infierno		locality	2
+4	1276609405	Villa Quinteros		locality	1
 4.200	890437285	Santiago del Estero		locality	2
 4.440	421198339	Metán		locality	1
 5.300	421172805	La Rioja		locality	3
@@ -1397,87 +1946,103 @@ x5000kvd	421172813	Córdoba		locality	1
 6.270	421199151	Huinca Renancó		locality	1
 6.333	421201663	Quemú Quemú		locality	3
 6.380	1125870745	Eduardo Castex		locality	7
+7.501	1259487323	Indio Rico		locality	1
 7.600	421169051	Mar del Plata		locality	2
 8.000	421193467	Bahía Blanca		locality	1
 117	890441857	Bovril		locality	1
+330	421186911	Posadas		locality	1
 448	1125809365	Joaquín V. González		locality	1
 550	421169165	Salta		locality	1
-701	421196019	El Trapiche 		locality	1
-800	421186081	Corrientes		locality	1
+645	421195291	Pehuajó		locality	1
+701	421196019	El Trapiche		locality	1
+800	890442849	Corrientes		locality	1
 815	421198291	Carrilobo		locality	2
 921	421196379	Camarones		locality	86
-1001	421174285	Buenos Aires		locality	3
-1002	421174285	Buenos Aires		locality	1
+1001	421174285	Buenos Aires		locality	5
+1002	421174285	Buenos Aires		locality	2
 1003	421174285	Buenos Aires		locality	3
-1004	421174285	Buenos Aires		locality	1
-1005	421174285	Buenos Aires		locality	1
-1006	421174285	Buenos Aires		locality	3
-1007	421174285	Buenos Aires		locality	3
+1004	421174285	Buenos Aires		locality	4
+1005	421174285	Buenos Aires		locality	3
+1006	421174285	Buenos Aires		locality	4
+1007	421174285	Buenos Aires		locality	1
 1008	421174285	Buenos Aires		locality	1
-1009	421174285	Buenos Aires		locality	2
-1010	421174285	Buenos Aires		locality	5
-1011	421174285	Buenos Aires		locality	7
+1009	421174285	Buenos Aires		locality	4
+1010	421174285	Buenos Aires		locality	6
+1011	421174285	Buenos Aires		locality	8
 1012	421174285	Buenos Aires		locality	1
-1013	421174285	Buenos Aires		locality	3
+1013	421174285	Buenos Aires		locality	2
 1014	421174285	Buenos Aires		locality	2
-1015	421174285	Buenos Aires		locality	2
+1015	421174285	Buenos Aires		locality	4
 1017	421174285	Buenos Aires		locality	1
 1018	421174285	Buenos Aires		locality	1
 1019	421174285	Buenos Aires		locality	1
 1021	421174285	Buenos Aires		locality	3
-1022	421174285	Buenos Aires		locality	2
-1023	421174285	Buenos Aires		locality	2
+1022	421174285	Buenos Aires		locality	5
+1023	421174285	Buenos Aires		locality	4
 1024	421174285	Buenos Aires		locality	1
-1026	421174285	Buenos Aires		locality	1
+1026	421174285	Buenos Aires		locality	3
 1028	421174285	Buenos Aires		locality	1
+1029AAM	421174285	Buenos Aires		locality	1
 1032	421174285	Buenos Aires		locality	1
 1033	421174285	Buenos Aires		locality	1
-1035	421174285	Buenos Aires		locality	1
+1034	421174285	Buenos Aires		locality	1
+1035	421174285	Buenos Aires		locality	2
+1037	421174285	Buenos Aires		locality	1
+1038	421174285	Buenos Aires		locality	3
 1040	421174285	Buenos Aires		locality	1
 1041	421174285	Buenos Aires		locality	4
-1042	421174285	Buenos Aires		locality	1
-1043	421174285	Buenos Aires		locality	3
+1042	421174285	Buenos Aires		locality	3
+1043	421174285	Buenos Aires		locality	5
 1044	421174285	Buenos Aires		locality	1
 1045	421174285	Buenos Aires		locality	1
 1047	421174285	Buenos Aires		locality	7
-1048	421174285	Buenos Aires		locality	2
-1050	421174285	Buenos Aires		locality	4
-1054	421174285	Buenos Aires		locality	3
+1048	421174285	Buenos Aires		locality	3
+1049	421174285	Buenos Aires		locality	1
+1050	421174285	Buenos Aires		locality	5
+1053	421174285	Buenos Aires		locality	1
+1054	421174285	Buenos Aires		locality	5
 1057	421174285	Buenos Aires		locality	1
-1058	421174285	Buenos Aires		locality	3
-1059	421174285	Buenos Aires		locality	6
+1058	421174285	Buenos Aires		locality	4
+1059	421174285	Buenos Aires		locality	8
 1060	421174285	Buenos Aires		locality	2
 1061	421174285	Buenos Aires		locality	1
 1062	421174285	Buenos Aires		locality	2
 1063	421174285	Buenos Aires		locality	1
 1064	421174285	Buenos Aires		locality	1
-1072	421174285	Buenos Aires		locality	2
-1073	421174285	Buenos Aires		locality	1
+1072	421174285	Buenos Aires		locality	3
+1073	421174285	Buenos Aires		locality	2
+1074	421174285	Buenos Aires		locality	1
+1075	421174285	Buenos Aires		locality	2
 1076	421174285	Buenos Aires		locality	1
 1080	421174285	Buenos Aires		locality	1
-1084	421174285	Buenos Aires		locality	4
-1085	421174285	Buenos Aires		locality	3
-1088	421174285	Buenos Aires		locality	1
-1091	421174285	Buenos Aires		locality	1
-1092	421174285	Buenos Aires		locality	1
+1084	421174285	Buenos Aires		locality	5
+1085	421174285	Buenos Aires		locality	2
+1087	421174285	Buenos Aires		locality	1
+1088	421174285	Buenos Aires		locality	2
+1091	421174285	Buenos Aires		locality	2
+1092	421174285	Buenos Aires		locality	3
 1093	421174285	Buenos Aires		locality	1
 1096	421174285	Buenos Aires		locality	2
-1102	421174285	Buenos Aires		locality	2
-1103	421174285	Buenos Aires		locality	1
+1097	421174285	Buenos Aires		locality	1
+1099	421174285	Buenos Aires		locality	1
+1102	421174285	Buenos Aires		locality	1
+1103	421174285	Buenos Aires		locality	2
+1104	421174285	Buenos Aires		locality	2
 1106	421174285	Buenos Aires		locality	11
-1107	421174285	Buenos Aires		locality	63
+1107	421174285	Buenos Aires		locality	67
+1110	421174285	Buenos Aires		locality	1
 1111	421174285	Buenos Aires		locality	1
 1112	421174285	Buenos Aires		locality	2
-1113	421174285	Buenos Aires		locality	3
-1114	421174285	Buenos Aires		locality	1
+1113	421174285	Buenos Aires		locality	5
+1114	421174285	Buenos Aires		locality	2
 1115	421174285	Buenos Aires		locality	1
 1116	421174285	Buenos Aires		locality	1
-1117	421174285	Buenos Aires		locality	2
+1117	421174285	Buenos Aires		locality	3
 1118	421174285	Buenos Aires		locality	3
-1119	421174285	Buenos Aires		locality	1
+1119	421174285	Buenos Aires		locality	3
 1120	421174285	Buenos Aires		locality	1
 1122	421174285	Buenos Aires		locality	4
-1123	421174285	Buenos Aires		locality	2
+1123	421174285	Buenos Aires		locality	3
 1124	421174285	Buenos Aires		locality	1
 1125	421174285	Buenos Aires		locality	1
 1126	421174285	Buenos Aires		locality	1
@@ -1486,304 +2051,403 @@ x5000kvd	421172813	Córdoba		locality	1
 1133	421174285	Buenos Aires		locality	1
 1135	421174285	Buenos Aires		locality	1
 1137	421174285	Buenos Aires		locality	1
+1144	421174285	Buenos Aires		locality	1
 1147	421174285	Buenos Aires		locality	1
 1152	421174285	Buenos Aires		locality	1
 1153	421174285	Buenos Aires		locality	1
 1154	421174285	Buenos Aires		locality	1
+1155	421174285	Buenos Aires		locality	1
 1156	421174285	Buenos Aires		locality	1
 1158	421174285	Buenos Aires		locality	1
 1159	421174285	Buenos Aires		locality	1
 1161	421174285	Buenos Aires		locality	2
-1174	421174285	Buenos Aires		locality	1
+1170	421174285	Buenos Aires		locality	1
+1174	421174285	Buenos Aires		locality	2
 1175	421174285	Buenos Aires		locality	1
+1176	421174285	Buenos Aires		locality	1
 1177	421174285	Buenos Aires		locality	2
 1180	421174285	Buenos Aires		locality	1
 1181	421174285	Buenos Aires		locality	1
 1182	421174285	Buenos Aires		locality	1
-1184	421174285	Buenos Aires		locality	1
+1184	421174285	Buenos Aires		locality	3
 1185	421174285	Buenos Aires		locality	1
 1186	421174285	Buenos Aires		locality	1
 1187	421174285	Buenos Aires		locality	2
 1188	421174285	Buenos Aires		locality	1
 1192	421174285	Buenos Aires		locality	1
-1193	421174285	Buenos Aires		locality	2
+1193	421174285	Buenos Aires		locality	6
 1194	421174285	Buenos Aires		locality	1
 1195	421174285	Buenos Aires		locality	1
 1198	421174285	Buenos Aires		locality	1
 1199	421174285	Buenos Aires		locality	1
 1200	421174285	Buenos Aires		locality	1
 1201	421174285	Buenos Aires		locality	2
-1202	421174285	Buenos Aires		locality	2
+1202	421174285	Buenos Aires		locality	1
 1203	421174285	Buenos Aires		locality	2
 1204	421174285	Buenos Aires		locality	1
 1208	421174285	Buenos Aires		locality	2
 1210	421174285	Buenos Aires		locality	1
+1211	421174285	Buenos Aires		locality	1
+1212	421174285	Buenos Aires		locality	1
 1213	421174285	Buenos Aires		locality	1
+1215	421174285	Buenos Aires		locality	1
 1216	421174285	Buenos Aires		locality	1
 1218	421174285	Buenos Aires		locality	3
 1221	421174285	Buenos Aires		locality	1
+1223	421174285	Buenos Aires		locality	2
 1224	421174285	Buenos Aires		locality	1
+1225	421174285	Buenos Aires		locality	1
 1228	421194143	Tartagal		locality	1
-1230	421174285	Buenos Aires		locality	1
+1230	421174285	Buenos Aires		locality	2
 1231	421174285	Buenos Aires		locality	1
-1232	421174285	Buenos Aires		locality	1
-1233	421174285	Buenos Aires		locality	1
+1232	421174285	Buenos Aires		locality	2
+1233	421174285	Buenos Aires		locality	2
 1245	421174285	Buenos Aires		locality	1
 1246	421174285	Buenos Aires		locality	1
 1250	421174285	Buenos Aires		locality	1
 1254	421174285	Buenos Aires		locality	1
-1264	421174285	Buenos Aires		locality	1
+1264	421174285	Buenos Aires		locality	2
+1268	421174285	Buenos Aires		locality	2
 1270	421174285	Buenos Aires		locality	1
+1271	421174285	Buenos Aires		locality	1
+1272	421174285	Buenos Aires		locality	1
 1276	421174285	Buenos Aires		locality	2
-1405	421174285	Buenos Aires		locality	9
-1406	421174285	Buenos Aires		locality	20
-1407	421174285	Buenos Aires		locality	27
-1408	421174285	Buenos Aires		locality	11
-1414	421174285	Buenos Aires		locality	118
-1416	421174285	Buenos Aires		locality	11
-1417	421174285	Buenos Aires		locality	18
-1419	421174285	Buenos Aires		locality	16
-1424	421174285	Buenos Aires		locality	10
-1425	421174285	Buenos Aires		locality	145
-1426	421174285	Buenos Aires		locality	251
-1427	421174285	Buenos Aires		locality	42
-1428	421174285	Buenos Aires		locality	70
-1429	421174285	Buenos Aires		locality	15
-1430	421174285	Buenos Aires		locality	87
-1431	421174285	Buenos Aires		locality	423
-1437	421174285	Buenos Aires		locality	4
-1439	421174285	Buenos Aires		locality	6
-1440	421174285	Buenos Aires		locality	5
+1277	421174285	Buenos Aires		locality	1
+1282	421174285	Buenos Aires		locality	1
+1285	421174285	Buenos Aires		locality	1
+1290	421174285	Buenos Aires		locality	1
+1295	421174285	Buenos Aires		locality	1
+1405	421174285	Buenos Aires		locality	10
+1406	421174285	Buenos Aires		locality	23
+1407	421174285	Buenos Aires		locality	31
+1408	421174285	Buenos Aires		locality	13
+1414	421174285	Buenos Aires		locality	115
+1416	421174285	Buenos Aires		locality	15
+1417	421174285	Buenos Aires		locality	26
+1419	421174285	Buenos Aires		locality	21
+1424	421174285	Buenos Aires		locality	12
+1425	421174285	Buenos Aires		locality	177
+1425AAJ	421174285	Buenos Aires		locality	1
+1426	421174285	Buenos Aires		locality	256
+1427	421174285	Buenos Aires		locality	45
+1428	421174285	Buenos Aires		locality	83
+1429	421174285	Buenos Aires		locality	24
+1430	421174285	Buenos Aires		locality	108
+1431	421174285	Buenos Aires		locality	426
+1437	421174285	Buenos Aires		locality	8
+1439	421174285	Buenos Aires		locality	12
+1440	421174285	Buenos Aires		locality	6
 1515	421198301	Grand Bourg		locality	1
 1602	421204121	Olivos		locality	11
-1602	421186903	Vicente López		locality	2
-1605	421171311	Munro		locality	4
-1605	421186903	Vicente López		locality	1
-1607	421199147	Villa Adelina		locality	21
-1609	421191283	Boulogne		locality	1
-1609	421199147	Villa Adelina		locality	1
+1602	1243568401	Florida Oeste		locality	1
+1603	1243186615	Villa Martelli		locality	2
+1605	421171311	Munro		locality	5
+1605	1209432623	Carapachay		locality	2
+1605	421186903	Vicente López		locality	2
+1607	1310314637	Villa Adelina		locality	21
+1609	421191283	Boulogne		locality	2
+1609	1310314637	Villa Adelina		locality	1
 1611	421185549	Don Torcuato		locality	85
+1613	421182479	Villa de Mayo		locality	14
 1613	421191537	Los Polvorines		locality	3
+1613	421187731	Malvinas Argentinas		locality	2
+1613	1309821343	Ingeniero Pablo Nogues		locality	1
 1615	421198301	Grand Bourg		locality	11
+1616	421198301	Grand Bourg		locality	1
 1617	421171579	General Pacheco		locality	263
 1617	421202401	Tigre		locality	1
-1619	421191325	Garín		locality	4
+1619	421191325	Garín		locality	53
+1619	421186597	Belén de Escobar		locality	2
 1619	421195747	Alberti		locality	1
-1621	421176689	Benavídez		locality	31
-1623	421191301	Ingeniero Maschwitz		locality	9
-1624	421202401	Tigre		locality	3
-1625	421186597	Belén de Escobar		locality	363
-1627	421173589	Zelaya		locality	10
+1620	1309726021	Maquinista Savio		locality	26
+1621	421176689	Benavídez		locality	238
+1623	421191301	Ingeniero Maschwitz		locality	10
+1624	421202401	Tigre		locality	2
+1625	421186597	Belén de Escobar		locality	364
+1627	421173589	Zelaya		locality	8
 1627	421176687	Matheu		locality	4
 1628	421196281	Loma Verde		locality	1
+1629	421179679	Pilar		locality	14
 1629	421171581	Fátima		locality	12
-1629	421179679	Pilar		locality	12
+1629	421166635	La Lonja		locality	1
 1629MXA	421171581	Fátima		locality	1
 1631	421179679	Pilar		locality	1
 1631	421186489	Villa Rosa		locality	1
-1636	421204121	Olivos		locality	18
-1636	421186903	Vicente López		locality	3
+1633	421179679	Pilar		locality	1
+1635	1293593223	Presidente Derqui		locality	13
+1636	1293798009	Olivos		locality	21
+1636	421186903	Vicente López		locality	2
+1636	421178069	Martínez		locality	1
 1637	421204223	La Lucila		locality	1
-1638	421204121	Olivos		locality	11
-1640	421178069	Martínez		locality	18
+1638	421186903	Vicente López		locality	12
+1638	1293798009	Olivos		locality	1
+1640	421178069	Martínez		locality	23
 1640	421204603	Acassuso		locality	1
-1641	421204603	Acassuso		locality	5
-1642	421191535	San Isidro		locality	10
+1641	421204603	Acassuso		locality	7
+1642	421191535	San Isidro		locality	12
 1642	421204603	Acassuso		locality	1
 1642	421184747	Béccar		locality	1
-1643	421184747	Béccar		locality	3
-1644	421184751	Victoria		locality	201
-1646	421178079	San Fernando		locality	622
+1643	421184747	Béccar		locality	7
+1644	421184751	Victoria		locality	232
+1644	421178079	San Fernando		locality	1
+1646	421178079	San Fernando		locality	699
 1646	421184751	Victoria		locality	33
+1646	1242980371	Virreyes		locality	5
 1646	421202401	Tigre		locality	1
-1648	421202401	Tigre		locality	94
+1646;B1646CXN	421178079	San Fernando		locality	1
+1648	421202401	Tigre		locality	98
 1649	421202401	Tigre		locality	1
-1650	421191187	San Martín		locality	6
-1651	421199303	San Andrés		locality	1
-1653	421194721	Villa Ballester		locality	14
+1650	421191187	San Martín		locality	7
+1650	1226663727	Billinghurst		locality	1
+1651	421199303	San Andrés		locality	18
+1651	421194721	Villa Ballester		locality	1
+1653	421194721	Villa Ballester		locality	16
 1655	421203521	José León Suárez		locality	2
 1657	421191187	San Martín		locality	1
 1660	421182479	Villa de Mayo		locality	1
-1661	421194187	Bella Vista		locality	6
-1663	421169723	San Miguel		locality	10
+1661	421194187	Bella Vista		locality	8
+1661	421184725	Muñiz		locality	1
+1663	421169723	San Miguel		locality	9
+1663	421194187	Bella Vista		locality	1
 1663	421184725	Muñiz		locality	1
 1665	421202089	José C. Paz		locality	28
-1667	421175201	Tortuguitas		locality	7
-1667	421202243	Manuel Alberti		locality	1
+1667	421175201	Tortuguitas		locality	50
+1667	421202243	Manuel Alberti		locality	5
+1669	1326844615	Del Viso		locality	27
 1669	421179679	Pilar		locality	2
+1669	1242878191	Del Carril		locality	1
+1670	1259701597	Rincon de Milberg		locality	2
 1670	421202401	Tigre		locality	2
-1676	421172727	Santos Lugares		locality	2
+1670	1242988391	Nordelta		locality	1
+1676	421172727	Santos Lugares		locality	4
 1678	421191533	Caseros		locality	5
+1682	1293700757	Villa Bosch		locality	17
+1682	1293102905	Martin Coronado		locality	3
+1683	1293102905	Martin Coronado		locality	1
 1684	421170257	El Palomar		locality	7
 1684	421202041	Haedo		locality	2
-1686	421176635	Hurlingham		locality	5
+1686	421176635	Hurlingham		locality	71
 1686S	421176635	Hurlingham		locality	1
+1687	1326547711	Podesta		locality	1
 1689	421191187	San Martín		locality	1
-1702	421186529	Ciudadela		locality	15
-1704	421191539	Ramos Mejía		locality	91
+1702	421186529	Ciudadela		locality	18
+1704	421191539	Ramos Mejía		locality	136
 1704	421202041	Haedo		locality	1
-1706	421191539	Ramos Mejía		locality	17
-1706	421202041	Haedo		locality	15
+1706	421202041	Haedo		locality	21
+1706	421191539	Ramos Mejía		locality	18
+1706	1210033965	Villa Sarmiento		locality	10
 1706	421172023	Castelar		locality	1
-1708	421180977	Morón		locality	616
+1708	421180977	Morón		locality	682
 1708	421172023	Castelar		locality	1
-1712	421172023	Castelar		locality	39
+1712	421172023	Castelar		locality	45
 1712	421180977	Morón		locality	1
 1712	421173907	Paso del Rey		locality	1
 1713	421172023	Castelar		locality	1
 1714	421191303	Ituzaingó		locality	65
 1714	421196173	General Las Heras		locality	18
-1716	421185343	Libertad		locality	5
+1714	421174285	Buenos Aires		locality	1
+1716	421185343	Libertad		locality	6
 1716	421178077	San Antonio de Padua		locality	2
-1718	421178077	San Antonio de Padua		locality	1
+1718	421178077	San Antonio de Padua		locality	25
 1720	421186529	Ciudadela		locality	1
-1722	421204007	Merlo		locality	21
-1722	421191187	San Martín		locality	9
-1723	421196167	Mariano Acosta		locality	1
-1727	421174029	Marcos Paz		locality	11
-1741	421196173	General Las Heras		locality	1158
+1722	421204007	Merlo		locality	94
+1722	421191187	San Martín		locality	10
+1723	421196167	Mariano Acosta		locality	11
+1724	421204007	Merlo		locality	2
+1727	421174029	Marcos Paz		locality	24
+1731	1225849101	Villars		locality	3
+1741	421196173	General Las Heras		locality	1236
+1741	1225849101	Villars		locality	3
 1742	421173907	Paso del Rey		locality	2
-1744	421191541	Moreno		locality	26
+1744	421191541	Moreno		locality	23
+1744	1360003495	La Reja		locality	2
 1746	421201545	Francisco Álvarez		locality	1
-1748	421196171	General Rodríguez		locality	7
+1748	421196171	General Rodríguez		locality	32
 1751	421166787	Ciudad de Gregorio de Laferrère		locality	4
-1752	421204609	Lomas del Mirador		locality	2
-1754	421191193	San Justo		locality	839
-1755	421184915	Rafael Castillo		locality	2
-1757	421166787	Ciudad de Gregorio de Laferrère		locality	42
+1752	421204609	Lomas del Mirador		locality	3
+1754	421191193	San Justo		locality	851
+1754	1276562299	Villa Luzuriaga		locality	94
+1755	421184915	Rafael Castillo		locality	4
+1755	421204605	Isidro Casanova		locality	1
+1757	421166787	Ciudad de Gregorio de Laferrère		locality	66
 1759	421175463	González Catán		locality	9
-1761	421199921	Pontevedra		locality	6
+1761	421199921	Pontevedra		locality	7
 1765	421204605	Isidro Casanova		locality	12
 1765	421174285	Buenos Aires		locality	2
 1765	421184915	Rafael Castillo		locality	1
 1765	421191193	San Justo		locality	1
 1768	421174003	Villa Madero		locality	3
+1778	1243085181	Ciudad General Belgrano		locality	7
 1785	421191303	Ituzaingó		locality	2
-1804	421204001	Ezeiza		locality	11
-1806	421181413	Tristán Suárez		locality	5
-1814	421195633	Cañuelas		locality	42
-1822	421180989	Valentín Alsina		locality	24
+1802	421204001	Ezeiza		locality	1
+1804	421204001	Ezeiza		locality	17
+1804	1276887729	Canning		locality	3
+1806	421181413	Tristán Suárez		locality	6
+1807	1276887729	Canning		locality	1
+1808	1343862417	Alejandro Petion		locality	1
+1812	1242691871	Carlos Spegazzini		locality	5
+1812	1260094341	Maximo Paz		locality	1
+1814	421195633	Cañuelas		locality	47
+1822	421180989	Valentín Alsina		locality	2
 1824	421204607	Lanús		locality	9
 1824	421175203	Monte Chingolo		locality	1
 1824	421180989	Valentín Alsina		locality	1
+1825	421175203	Monte Chingolo		locality	3
 1825	421204607	Lanús		locality	2
-1825	421175203	Monte Chingolo		locality	2
-1826	421204607	Lanús		locality	2
 1826	421170347	Remedios de Escalada		locality	2
+1826	421204607	Lanús		locality	1
 1828	421191277	Banfield		locality	5
 1828	421179899	Lomas de Zamora		locality	1
-1832	421179899	Lomas de Zamora		locality	127
+1832	421179899	Lomas de Zamora		locality	123
 1832	421203485	Fiorito		locality	3
 1832	421191191	Ingeniero Budge		locality	2
 1832	421196963	Llavallol		locality	2
 1832	421178163	Temperley		locality	2
-1834	421178163	Temperley		locality	55
+1834	421178163	Temperley		locality	37
 1834	421192279	Turdera		locality	1
 1835	421178163	Temperley		locality	1
-1836	421196963	Llavallol		locality	2
+1836	421196963	Llavallol		locality	3
 1838	421194041	Luis Guillón		locality	20
-1842	421170377	Monte Grande		locality	8
-1846	421188261	Adrogué		locality	10
+1842	421170377	Monte Grande		locality	4799
+1846	1209629233	Adrogue		locality	4
 1846	421187731	Malvinas Argentinas		locality	1
 1846	421198207	San Francisco Solano		locality	1
-1847	421185413	Rafael Calzada		locality	5
+1847	421185413	Rafael Calzada		locality	2
 1848	421195781	Longchamps		locality	1
-1849	421171167	Claypole		locality	5
-1852	421184693	Burzaco		locality	25
+1849	421171167	Claypole		locality	1
+1852	421184693	Burzaco		locality	24
+1852	1226360171	Ministro Rivadavia		locality	2
 1852	421174285	Buenos Aires		locality	1
-1854	421195781	Longchamps		locality	8
-1856	421195227	Glew		locality	15
-1862	890430403	Guernica		locality	3
-1865	421201943	San Vicente		locality	3
-1870	421180725	Avellaneda		locality	18
+1854	421195781	Longchamps		locality	10
+1856	421195227	Glew		locality	27
+1862	890430403	Guernica		locality	5
+1864	1326934349	Alejandro Korn		locality	1
+1865	421201943	San Vicente		locality	11
+1870	421179899	Lomas de Zamora		locality	80
+1870	421204613	Wilde		locality	54
+1870	421180725	Avellaneda		locality	21
+1870	421184695	Villa Domínico		locality	6
 1870	421191293	Gerli		locality	3
 1870	421204607	Lanús		locality	1
 1870	421171593	Sarandí		locality	1
-1872	421171593	Sarandí		locality	8
+1872	421171593	Sarandí		locality	97
 1872	421186479	Ezpeleta		locality	1
 1872	421184695	Villa Domínico		locality	1
 1873	421180725	Avellaneda		locality	1
-1874	421184695	Villa Domínico		locality	30
-1874	421180725	Avellaneda		locality	2
-1875	421204613	Wilde		locality	7
+1874	421184695	Villa Domínico		locality	29
+1874	421180725	Avellaneda		locality	1
+1875	421204613	Wilde		locality	13
 1876	421186477	Bernal		locality	19
+1876	1310115351	Don Bosco		locality	4
 1876	421193989	Quilmes		locality	1
-1878	421193989	Quilmes		locality	11
+1878	421193989	Quilmes		locality	27
 1878	421186477	Bernal		locality	1
 1879	421193989	Quilmes		locality	4
-1879	421171593	Sarandí		locality	1
+1879	421171593	Sarandí		locality	2
 1880	421182313	Berazategui		locality	2
 1881	421198207	San Francisco Solano		locality	5
 1881	421193989	Quilmes		locality	2
-1882	421186479	Ezpeleta		locality	7
+1882	421186479	Ezpeleta		locality	64
 1882	421193989	Quilmes		locality	1
 1883	421182313	Berazategui		locality	1
-1884	421182313	Berazategui		locality	28
+1884	421182313	Berazategui		locality	33
 1884	421174285	Buenos Aires		locality	1
+1884	1292917309	Villa Espana		locality	1
 1886	421174271	Ranelagh		locality	1
 1888	421202393	Florencio Varela		locality	62
+1888	421171583	Juan María Gutiérrez		locality	17
 1888	421166751	Bosques		locality	2
 1889	421166751	Bosques		locality	3
+1890	421174707	Brandsen		locality	1
 1893	421172393	El Pato		locality	6
-1894	421191311	Villa Elisa		locality	4
-1896	421202087	City Bell		locality	8
+1894	421191311	Villa Elisa		locality	2
+1896	421202087	City Bell		locality	11
 1896	421172989	Joaquín Gorina		locality	4
-1900	421174277	La Plata		locality	16270
+1900	421174277	La Plata		locality	15640
+1900	421202039	Tolosa		locality	15
 1900	421174285	Buenos Aires		locality	1
+1900	421202085	Ensenada		locality	1
 1901	421166723	Ringuelet		locality	5
 1901	421174277	La Plata		locality	1
+1901	1209819379	Platanos		locality	1
 1902	421174277	La Plata		locality	1
-1906	421202039	Tolosa		locality	1
+1906	421202039	Tolosa		locality	2
 1911	421195955	General Mansilla		locality	10
-1913	421200979	Magdalena		locality	1
+1913	421200979	Magdalena		locality	2
+1917	421201507	Verónica		locality	2
 1923	421204225	Berisso		locality	19
 1923	421202085	Ensenada		locality	1
-1925	421202085	Ensenada		locality	9
-1980	421174707	Brandsen		locality	29
-1987	421184273	Ranchos		locality	1
-2000	421172799	Rosario		locality	1
+1925	421202085	Ensenada		locality	10
+1980	421174707	Brandsen		locality	3
+1981	421196281	Loma Verde		locality	6
+1983	1309817923	Gomez		locality	1
+1987	421184273	Ranchos		locality	224
+2000	421172799	Rosario		locality	18
 2086	421197553	Lima		locality	1
 2090	421169165	Salta		locality	1
+2103	1309980161	Coronel Bogado		locality	3
 2111	421186067	Santa Teresa		locality	2
-2117	421195479	Alcorta		locality	2
+2115	1310575179	Maximo Paz		locality	1
+2117	421195479	Alcorta		locality	5
 2124	421193425	Villa Gobernador Gálvez		locality	1
+2142	1276828109	Salto Grande		locality	31
 2142	421204227	Baradero		locality	1
-2152	421204679	Granadero Baigorria		locality	7
+2152	421204679	Granadero Baigorria		locality	8
+2156	421185509	Fray Luis Beltrán		locality	3
+2170	421200971	Casilda		locality	11
+2181	1277033605	Los Molinos		locality	1
 2200	421172731	San Lorenzo		locality	1
 2222	421200955	Díaz		locality	1
 2240	421196303	Coronda		locality	1
-2300	421176549	Rafaela		locality	2
+2255	1343916949	Lopez		locality	2
+2258	1276629011	Santa Clara de Buena Vista		locality	2
+2300	421176549	Rafaela		locality	5
+2303	1326994539	Angelica		locality	3
+2305	1293454051	Lehmann		locality	2
 2322	421170351	Sunchales		locality	4
 2344	421196207	Arrufó		locality	77
 2345	421166839	Villa Trinidad		locality	25
 2347	421172337	San Guillermo		locality	111
-2349	421181533	Suardi		locality	60
-2400	421178987	La Para		locality	26
+2349	421181533	Suardi		locality	59
+2354	1293852777	Selva		locality	1
+2400	421178987	La Para		locality	27
+2413	1243032415	Iturraspe		locality	6
+2413	1276226457	Freyre		locality	5
 2415	421201635	Porteña		locality	4
 2417	421196295	Altos de Chipión		locality	2
+2417	1260388345	Monte Grande		locality	1
 2419	890440055	Brinkmann		locality	1
 2421	421195971	Morteros		locality	5
-2424	421174499	Devoto 		locality	3
+2424	421174499	Devoto		locality	3
 2432	421174645	El Tío		locality	1
-2434	421172045	Arroyito		locality	134
-2434	421185363	Leones		locality	1
+2434	421172045	Arroyito		locality	229
+2436	1360207365	Plaza Bruno		locality	1
 2440	421196025	Sastre		locality	27
+2449	1243518785	San Martin de las Escobas		locality	38
+2451	1343226495	Las Petacas		locality	6
 2453	421195749	Carlos Pellegrini		locality	37
-2500	421168417	Cañada de Gómez		locality	2
-2550	421174005	Bell Ville		locality	14
+2454	1260154875	Canada Rosquin		locality	46
+2494	421185363	Leones		locality	2
+2500	421168417	Cañada de Gómez		locality	3
+2512	1192982959	Tortugas		locality	1
+2531	1225804053	Landeta		locality	114
+2550	421174005	Bell Ville		locality	23
 2553	421183195	Justiniano Posse		locality	7
 2559	890435507	San Antonio de Litín		locality	1
+2561	1260283019	Chilibroste		locality	2
 2563	421177983	Noetinger		locality	3
-2568	421170081	Morrison 		locality	1
+2568	421170081	Morrison		locality	1
 2581	421191857	Los Surgentes		locality	1
 2585	421196073	Camilo Aldao		locality	3
 2587	421196055	Inriville		locality	1
-2589	421196043	Monte Buey		locality	427
-2592	421195331	General Roca 		locality	1
-2594	421185363	Leones		locality	3
+2589	421196043	Monte Buey		locality	428
+2592	421195331	General Roca		locality	1
+2594	421185363	Leones		locality	10
 2600	421172795	Venado Tuerto		locality	1
+2609	1209780121	Maria Teresa		locality	26
 2624	421173779	Arias		locality	5
 2630	421179717	Firmat		locality	1
+2640	1293648241	Goedeken		locality	1
 2650	421185427	Canals		locality	1
 2657	421195679	Laborde		locality	9
 2659	421196041	Monte Maíz		locality	4
@@ -1791,446 +2455,599 @@ x5000kvd	421172813	Córdoba		locality	1
 2670	421196201	La Carlota		locality	4
 2677	421196017	Ucacha		locality	8
 2679	421196191	Pascanas		locality	1
-2681	421196317	Etruria		locality	14
+2681	421196317	Etruria		locality	15
 2686	421178927	Alejandro Roca		locality	2
-2700	421169613	Pergamino		locality	47
-2701	421169861	Rancagua		locality	1
-2705	421202503	Rojas		locality	4
-2717	421169613	Pergamino		locality	1
-2720	421195341	Colón		locality	50
-2741	421196259	Salto		locality	279
+2700	421169613	Pergamino		locality	91
+2701	1343265923	Mariano Benitez		locality	1
+2705	421202503	Rojas		locality	44
+2711	1193150969	Pearson		locality	3
+2713	1327235525	Manuel Ocampo		locality	1
+2717	1327138485	Acevedo		locality	4
+2717	1260303239	Juan A. de la Pena		locality	1
+2720	421195341	Colón		locality	53
+2720	421169613	Pergamino		locality	1
+2726	421169855	Labordeboy		locality	3
+2741	421196259	Salto		locality	324
+2741	1309721609	Gahan		locality	3
+2741	1293606789	Villa Lia		locality	1
+2743	1276353811	Arroyo Dulce		locality	2
+2745	1309721609	Gahan		locality	2
+2747	1310123621	Ines Indart		locality	7
 2752	421173905	Capitán Sarmiento		locality	21
-2760	421196287	San Antonio de Areco		locality	158
-2800	421204003	Zárate		locality	442
-2804	421204009	Campana		locality	454
+2760	421196287	San Antonio de Areco		locality	252
+2760;B2760BGK	421196287	San Antonio de Areco		locality	2
+2764	1293690945	Duggan		locality	1
+2800	421204003	Zárate		locality	444
+2800	1209619189	El Tatu		locality	1
+2804	421204009	Campana		locality	458
 2804	421186597	Belén de Escobar		locality	2
-2806	421197553	Lima		locality	2
-2812	421172147	Capilla del Señor		locality	7
+2806	421197553	Lima		locality	21
+2810	421204009	Campana		locality	1
+2812	421172147	Capilla del Señor		locality	8
+2812	421204547	Los Cardales		locality	2
 2812	421174285	Buenos Aires		locality	1
-2820	421204351	Gualeguaychú		locality	540
+2812	1327152151	Diego Gaynor		locality	1
+2814	421204547	Los Cardales		locality	6
+2820	421204351	Gualeguaychú		locality	566
 2823	421166721	Villa Paranacito		locality	12
 2823	421185425	Ceibas		locality	3
-2826	421196329	Urdinarrain		locality	21
+2826	421196329	Urdinarrain		locality	22
 2826	421166687	Aldea San Antonio		locality	9
 2828	421196169	Gilbert		locality	3
-2840	421180723	Gualeguay		locality	7
-2846	421184791	Ibicuy		locality	3
-2900	421203523	San Nicolás de los Arroyos		locality	8
-2915	421195399	Ramallo		locality	3
+2840	421180723	Gualeguay		locality	8
+2846	1292986445	Ibicuy		locality	3
+2900	421203523	San Nicolás de los Arroyos		locality	9
+2907	1293306527	Conesa		locality	2
+2912	1226554183	Villa General Savio		locality	1
+2914	421195399	Ramallo		locality	11
+2915	421195399	Ramallo		locality	7
 2919	421204623	Villa Constitución		locality	4
-2930	421201559	San Pedro		locality	17
-2942	421204227	Baradero		locality	14
-3000	421174279	Santa Fe		locality	29
+2930	421201559	San Pedro		locality	20
+2933	1309726253	Perez Millan		locality	9
+2935	421197549	Santa Lucía		locality	8
+2938	1293690891	Alsina		locality	1
+2942	421204227	Baradero		locality	19
+2946	1243181773	Gobernador Castro		locality	3
+3000	421174279	Santa Fe		locality	40
+3001	421199877	San José del Rincón		locality	2
 3002	421174279	Santa Fe		locality	2
+3003	1276403865	Helvecia		locality	1
 3005	421195753	San Javier		locality	1
+3011	1259757193	Sa Pereyra		locality	5
 3011	421169575	San Jerónimo Norte		locality	1
-3015	421169575	San Jerónimo Norte		locality	98
-3016	421168277	Santo Tomé		locality	2
+3013	421188551	San Carlos Centro		locality	1
+3015	421169575	San Jerónimo Norte		locality	99
+3016	421168277	Santo Tomé		locality	16
 3018	421191959	Recreo		locality	1
-3040	1141908117	San Justo		locality	1
+3040	421167803	San Justo		locality	1
 3050	890440053	Calchaquí		locality	68
+3051	1360143701	Alejandra		locality	8
 3060	421204699	Tostado		locality	24
+3061	1277049659	Villa Minetti		locality	48
+3061	1259542475	Pozo Borrado		locality	4
+3064	1293658151	Bandera		locality	12
 3070	421204733	San Cristóbal		locality	12
+3072	1260154865	Nanducita		locality	1
 3080	421172011	Esperanza		locality	53
-3100	421200967	Paraná		locality	1687
+3087	1276414269	Felicia		locality	28
+3100	421200967	Paraná		locality	1662
 3100	890435033	Oro Verde		locality	1
 3101	421186079	Aldea Valle María		locality	1
+3103	1309731883	Puiggari		locality	6
+3103	1209434947	Libertador San Martin		locality	2
 3105	421204757	Diamante		locality	1
-3109	421195053	Viale		locality	245
+3109	421195053	Viale		locality	264
+3114	1309902969	General Racedo		locality	5
+3114	1209600833	Aldea Maria Luisa		locality	2
 3115	421204763	Leandro N. Alem		locality	3
 3116	421196061	Crespo		locality	14
 3117	421200537	Seguí		locality	1
 3127	1126015545	Villa Hernandarias		locality	3
 3129	421171301	Piedras Blancas		locality	6
 3133	421175127	María Grande		locality	1
-3142	890441857	Bovril		locality	17
+3138	1259378771	Alcaraz		locality	6
+3142	890441857	Bovril		locality	20
 3144	1126015561	Sauce de Luna		locality	8
 3150	421175561	Basavilbaso		locality	17
 3153	421169163	Victoria		locality	8
+3164	1310497115	Camps		locality	1
 3164	421193783	General Ramírez		locality	1
-3174	890431201	Rosario del Tala		locality	10
+3174	890431201	Rosario del Tala		locality	9
 3174	890421523	Taco Pozo		locality	2
-3177	890439911	Maciá		locality	10
+3177	890439911	Maciá		locality	11
 3180	421195361	Federal		locality	1
 3183	421177701	Los Conquistadores		locality	4
-3187	1125781441	San José de Feliciano		locality	12
+3187	1125781441	San José de Feliciano		locality	14
 3190	421168379	La Paz		locality	7
 3192	421175105	Santa Elena		locality	3
-3196	421174027	Esquina		locality	102
-3200	421174851	Concordia		locality	547
+3196	421174027	Esquina		locality	10
+3200	421174851	Concordia		locality	562
 3200AGK	421174851	Concordia		locality	1
 3200AHJ	421174851	Concordia		locality	1
+3200AMI	421174851	Concordia		locality	1
 3201	421174851	Concordia		locality	2
 3202	421174851	Concordia		locality	2
-3206	421181417	Federación		locality	4
-3208	421173599	Santa Ana		locality	16
+3206	421181417	Federación		locality	3
+3208	421173599	Santa Ana		locality	20
 3218	421198231	San Salvador		locality	4
 3220	421198341	Monte Caseros		locality	107
 3224	421195619	Libertad		locality	2
 3226	421205035	Mocoretá		locality	31
-3228	421205329	Chajarí		locality	340
+3228	421205329	Chajarí		locality	374
+3228	1243385723	Colonia Ensanche Sauce		locality	1
 3228	421177701	Los Conquistadores		locality	1
-3229	421166769	Villa del Rosario		locality	346
-3230	421202735	Paso de los Libres		locality	49
+3229	421166769	Villa del Rosario		locality	347
+3230	421202735	Paso de los Libres		locality	270
 3230	421196115	Ituzaingó		locality	4
 3231	421198279	Yapeyú		locality	18
-3234	421199259	Bonpland		locality	3
+3232	1276326623	Pucheta		locality	2
+3234	421199259	Bonpland		locality	6
+3238	421205329	Chajarí		locality	1
 3240	421184455	Villaguay		locality	1773
+3246	1276248817	Ingeniero Miguel Sajaroff		locality	1
 3248	421204915	Santa Anita		locality	1
-3260	421177951	Concepción del Uruguay		locality	10
+3260	421177951	Concepción del Uruguay		locality	9
 3262	421204675	Caseros		locality	2
 3265	421177371	Villa Elisa		locality	2
 3280	421195103	Colón		locality	6
+3280	1309791471	Arroyo Baru		locality	1
 3283	421201419	San José		locality	1
-3287	421191643	Ubajay		locality	2
+3287	421191643	Ubajay		locality	3
 3287	1125781441	San José de Feliciano		locality	1
-3300	890444623	Posadas		locality	21809
-3300	421175461	Oberá		locality	219
+3300	421186911	Posadas		locality	24070
+3300	421175461	Oberá		locality	233
+3300	421181525	Garupá		locality	3
 3300	421195147	Candelaria		locality	2
 3300	421184779	Capioví		locality	2
-3300	421181525	Garupá		locality	2
 3300	890431315	Cerro Azul		locality	1
+3300	1209594407	Fachinal		locality	1
 3300	421205023	Gobernador Roca		locality	1
 3301	421186911	Posadas		locality	3
-3302	421196115	Ituzaingó		locality	301
-3304	421181525	Garupá		locality	48
-3304	421186911	Posadas		locality	13
-3304	421184879	Miguel Lanús		locality	6
-3306	421182169	San José		locality	1
-3307	421182169	San José		locality	4
-3308	421195147	Candelaria		locality	1923
+3302	421196115	Ituzaingó		locality	322
+3304	421181525	Garupá		locality	61
+3304	421186911	Posadas		locality	15
+3304	421184879	Miguel Lanús		locality	8
+3304	1209594407	Fachinal		locality	2
+3306	421182169	San José		locality	3
+3307	421182169	San José		locality	6
+3308	421195147	Candelaria		locality	1925
+3308	1209398305	Profundidad		locality	1
 3309	421183127	Cerro Corá		locality	8
-3313	890431315	Cerro Azul		locality	39
-3313	1125868197	Arroyo del Medio		locality	6
-3315	421204763	Leandro N. Alem		locality	811
-3315	890453201	Dos Arroyos		locality	5
-3315	890422599	Gobernador López		locality	5
-3315	421173565	Mojón Grande		locality	3
-3315	421171315	Aristóbulo del Valle		locality	1
-3316	421196331	Santa Ana		locality	48
+3309	421186911	Posadas		locality	1
+3313	890431315	Cerro Azul		locality	71
+3313	1125868197	Arroyo del Medio		locality	7
+3315	421204763	Leandro N. Alem		locality	879
+3315	890453201	Dos Arroyos		locality	6
+3315	890422599	Gobernador López		locality	6
+3315	421173565	Mojón Grande		locality	4
+3315	1293263119	Caa Yari		locality	3
+3315	421171315	Aristóbulo del Valle		locality	2
+3315	1125868197	Arroyo del Medio		locality	1
+3316	421196331	Santa Ana		locality	52
 3316	421182643	Loreto		locality	3
-3317	421169429	Bonpland		locality	7
+3317	421169429	Bonpland		locality	8
 3318	421193895	Mártires		locality	6
-3322	421203779	San Ignacio		locality	901
+3322	421203779	San Ignacio		locality	910
 3322)	421203779	San Ignacio		locality	1
-3324	421205023	Gobernador Roca		locality	33
-3326	421191931	Santo Pipó		locality	16
-3328	421176137	Jardín América		locality	177
+3324	421205023	Gobernador Roca		locality	43
+3326	421191931	Santo Pipó		locality	18
+3327	1209789501	Text corpus		locality	83
+3328	421176137	Jardín América		locality	204
+3328	1226721107	Hipolito Yrigoyen		locality	4
 3328	421191931	Santo Pipó		locality	2
+3328	1209895053	Puerto Tabay		locality	1
 3331	890443119	Puerto Rico		locality	1
-3332	421184779	Capioví		locality	640
-3332	421171203	Puerto Leoni		locality	4
+3332	421184779	Capioví		locality	646
+3332	421171203	Puerto Leoni		locality	5
 3332	421186911	Posadas		locality	1
 3332	421171207	Ruiz de Montoya		locality	1
-3334	890443119	Puerto Rico		locality	94
-3334	421171207	Ruiz de Montoya		locality	55
-3334	421198297	Garuhapé		locality	20
+3334	890443119	Puerto Rico		locality	917
+3334	421171207	Ruiz de Montoya		locality	52
+3334	421198297	Garuhapé		locality	28
+3334	1260374059	San Alberto		locality	1
 3337	421184809	Dos de Mayo		locality	4
-3338	421186465	El Soberbio		locality	6
-3340	421174015	Santo Tomé		locality	548
-3342	890431253	Gobernador Virasoro		locality	66
+3338	421186465	El Soberbio		locality	7
+3340	421174015	Santo Tomé		locality	972
+3342	890431253	Gobernador Virasoro		locality	69
 3344	421169847	Alvear		locality	122
 3346	421168193	La Cruz		locality	91
-3350	421174033	Apóstoles		locality	601
+3350	421174033	Apóstoles		locality	696
 3350	421186537	Tres Capones		locality	3
-3351	421171189	Azara		locality	6
-3352	421168025	San Pedro		locality	18
+3350	1277059739	Las Tunas		locality	1
+3351	421171189	Azara		locality	8
+3352	421168025	San Pedro		locality	21
+3352	1360068923	Tobuna		locality	1
 3353	421181529	Itacaruaré		locality	9
 3353	421186537	Tres Capones		locality	1
-3355	890431313	Concepción de la Sierra		locality	755
+3354	421186537	Tres Capones		locality	1
+3355	890431313	Concepción de la Sierra		locality	854
 3355	421174033	Apóstoles		locality	4
-3356	421174913	San Vicente		locality	81
+3356	421174913	San Vicente		locality	100
+3356	421173565	Mojón Grande		locality	1
 3357	421181529	Itacaruaré		locality	2
 3357	421173565	Mojón Grande		locality	1
-3360	421175461	Oberá		locality	3324
+3360	421175461	Oberá		locality	3452
 3360	421182631	Campo Viera		locality	2
+3360	421171315	Aristóbulo del Valle		locality	1
 3360	421173551	Campo Ramón		locality	1
 3360	421195471	Panambí		locality	1
-3361	421193581	Guaraní		locality	40
-3361	421182631	Campo Viera		locality	12
-3361	421173551	Campo Ramón		locality	11
-3361	421195471	Panambí		locality	8
+3361	421193581	Guaraní		locality	42
+3361	421182631	Campo Viera		locality	14
+3361	421173551	Campo Ramón		locality	12
+3361	421195471	Panambí		locality	9
 3361	421193579	General Alvear		locality	6
+3361	421182635	Florentino Ameghino		locality	4
 3361	421169423	Los Helechos		locality	4
-3361	421182635	Florentino Ameghino		locality	3
-3362	421166771	Campo Grande		locality	124
-3362	421182631	Campo Viera		locality	12
+3362	421166771	Campo Grande		locality	129
+3362	421182631	Campo Viera		locality	34
 3362	421184809	Dos de Mayo		locality	1
 3362	421191931	Santo Pipó		locality	1
-3363	890418119	Veinticinco de Mayo		locality	22
-3363	421184783	Colonia Aurora		locality	16
-3363-27.37718/-54.74428	890418119	Veinticinco de Mayo		locality	9
+3363	421184783	Colonia Aurora		locality	17
+3363	890418119	Veinticinco de Mayo		locality	16
 3363	421191929	Santa Rita		locality	5
+3363	1310679949	San Francisco de Asis		locality	2
 3363	421194797	Alba Posse		locality	1
-3364	421171315	Aristóbulo del Valle		locality	95
-3364	421186465	El Soberbio		locality	77
-3364	421168025	San Pedro		locality	64
-3364	421174913	San Vicente		locality	44
-3364	421184809	Dos de Mayo		locality	40
+3364	421171315	Aristóbulo del Valle		locality	196
+3364	421168025	San Pedro		locality	105
+3364	421186465	El Soberbio		locality	96
+3364	421174913	San Vicente		locality	54
+3364	421184809	Dos de Mayo		locality	49
 3364	421194797	Alba Posse		locality	4
+3364	1327407685	Fracran		locality	4
+3365	421186465	El Soberbio		locality	2
+3365	421169429	Bonpland		locality	1
 3365	421175461	Oberá		locality	1
-3366	421184807	Bernardo de Irigoyen		locality	23
-3366	421174609	San Antonio		locality	21
-3368	421186465	El Soberbio		locality	2
-3370	890444625	Puerto Iguazú		locality	953
+3366	421184807	Bernardo de Irigoyen		locality	37
+3366	421174609	San Antonio		locality	28
+3366	1293361351	Andresito		locality	1
+3368	421186465	El Soberbio		locality	3
+3370	890444625	Puerto Iguazú		locality	1003
 3370	421174435	Iguazú		locality	50
-3376	421174465	Wanda		locality	29
-3379	890418119	Veinticinco de Mayo		locality	8
-3380	421204755	Eldorado		locality	281
-3381	421171205	Puerto Piray		locality	20
-3384	421176127	Montecarlo		locality	100
-3384	421174911	El Alcázar		locality	7
-3384	421171205	Puerto Piray		locality	2
+3371	1293361351	Andresito		locality	1
+3376	421174465	Wanda		locality	47
+3379	890418119	Veinticinco de Mayo		locality	9
+3380	421204755	Eldorado		locality	492
+3381	421171205	Puerto Piray		locality	27
+3384	421176127	Montecarlo		locality	144
+3384	421174911	El Alcázar		locality	9
+3384	421171205	Puerto Piray		locality	3
 3384	421184795	Caraguatay		locality	1
 3384	421204755	Eldorado		locality	1
-3386	421184795	Caraguatay		locality	2
-3386	421174911	El Alcázar		locality	2
-3390	421186911	Posadas		locality	2
+3385	1293361351	Andresito		locality	31
+3386	421184795	Caraguatay		locality	3
+3386	421174911	El Alcázar		locality	3
+3390	421186911	Posadas		locality	3
 3390	421174911	El Alcázar		locality	1
-3400	890442849	Corrientes		locality	11459
-3400	421204615	Formosa		locality	18
-3402	421186081	Corrientes		locality	1
-3403	421196333	San Luis del Palmar		locality	3
+3400	890442849	Corrientes		locality	11490
+3400	421204615	Formosa		locality	80
+3400	421186911	Posadas		locality	3
+3401	1243089641	Ingenio Primer Correntino		locality	4
+3401	1243476555	Laguna Brava		locality	1
+3402	890442849	Corrientes		locality	1
+3403	421196333	San Luis del Palmar		locality	6
+3403	1259480623	Arroyo Ponton		locality	1
 3407	421197231	Caá Catí		locality	23
-3409	421172657	Paso de la Patria		locality	32
+3409	421172657	Paso de la Patria		locality	37
 3414	421205203	Itatí		locality	21
-3416	890430397	San Lorenzo 		locality	7
+3416	890430397	San Lorenzo		locality	7
 3416	421201669	Riachuelo		locality	4
+3416	1276331807	Peguaho		locality	3
 3418	421177503	Empedrado		locality	39
 3420	421198949	Saladas		locality	48
-3421	890444179	Colonia Santa Rosa 		locality	19
+3421	890444179	Colonia Santa Rosa		locality	19
+3421	1293881461	Tabay		locality	2
 3423	421196359	Concepción		locality	101
 3427	421196165	Mburucuyá		locality	69
-3432	421196005	Bella Vista		locality	92
+3432	421196005	Bella Vista		locality	93
 3440	890440175	Santa Lucía		locality	21
-3450	421179711	Goya		locality	386
+3445	1310494115	Puente Batel		locality	1
+3450	421179711	Goya		locality	388
 3460	421168381	Curuzú Cuatiá		locality	158
 3461	1125868127	Perugorría		locality	6
-3470	421176125	Mercedes		locality	467
+3470	421176125	Mercedes		locality	469
 3474	421195363	Chavarría		locality	4
-3480	421205029	Itá Ibaté		locality	20
-3483	890439913	Loreto		locality	14
-3500	421186909	Resistencia		locality	574
+3476	421195615	Mariano I. Loza		locality	2
+3480	421205029	Itá Ibaté		locality	21
+3483	890439913	Loreto		locality	32
+3500	421186909	Resistencia		locality	622
 3500	890440197	Presidencia Roque Sáenz Peña		locality	118
 3500	421171591	Fontana		locality	44
 3503	421186247	Barranqueras		locality	7
-3505	421198307	Margarita Belén		locality	1196
-3505	421196357	Puerto Tirol		locality	11
+3505	421198307	Margarita Belén		locality	1201
+3505	421196357	Puerto Tirol		locality	13
 3505	890434765	Resistencia		locality	2
 3509	421167743	General José de San Martín		locality	473
 3511	421173575	Presidencia Roca		locality	1
-3513	421174033	Apóstoles		locality	471
-3513	421199275	Cote Lai		locality	2
+3513	421174033	Apóstoles		locality	463
+3513	421199275	Cote Lai		locality	1
 3514	421174483	Makallé		locality	12
+3514	1209117707	Laguna Blanca		locality	9
 3514	421171591	Fontana		locality	6
 3515	421183121	Capitán Solari		locality	48
 3515	1125880199	Colonia Elisa		locality	12
 3515	421196353	Laguna Limpia		locality	2
+3516	1259557613	Florencia		locality	6
 3518	421199543	La Leonesa		locality	1
+3526	890418117	Villa Escolar		locality	7
 3531	1125856007	Pampa del Indio		locality	6
 3533	421201519	Las Garcitas		locality	1
 3534	421176559	Machagai		locality	21
 3536	421178921	Presidencia de la Plaza		locality	5
 3536	421168411	Quitilipi		locality	1
 3540	890435503	Villa Ángela		locality	15
-3540	1141906773	Villa Ángela		locality	3
 3541	1125870749	Coronel Du Graty		locality	33
 3541	890445115	Santa Sylvina		locality	2
-3542	890445115	Santa Sylvina		locality	35
+3542	890445115	Santa Sylvina		locality	34
 3545	890440151	Villa Berthet		locality	12
+3551	1309780083	Los Amores		locality	1
+3555	1260246319	Romang		locality	4
 3560	421174653	Reconquista		locality	3
 3560	421170145	Reconquista		locality	1
+3561	1276296231	Moussy		locality	1
 3572	421195089	Malabrigo		locality	81
+3575	1343931863	Lanteri		locality	2
 3578	421195089	Malabrigo		locality	1
 3580	890441851	Villa Ocampo		locality	12
-3586	421188549	Las Toscas 		locality	106
-3600	421204615	Formosa		locality	103
-3603	421167967	El Colorado		locality	3
-3606	421198345	Pirané		locality	25
-3608	421195463	Palo Santo		locality	1
-3609	421204615	Formosa		locality	1
-3610	421170149	Clorinda		locality	6
-3620	1126015589	Comandante Fontana		locality	1
-3624	890441853	Ibarreta		locality	4
+3585	1277135895	El Sombrerito		locality	1
+3586	421188549	Las Toscas		locality	106
+3589	1192977491	Villa Guillermina		locality	1
+3600	421204615	Formosa		locality	595
+3600	1276425431	San Hilario		locality	2
+3601	890441855	Herradura		locality	11
+3603	421167967	El Colorado		locality	16
+3604	1276425431	San Hilario		locality	4
+3604	1209499527	Gran Guardia		locality	2
+3605	1126027907	San Francisco de Laishi		locality	12
+3606	421198345	Pirané		locality	72
+3608	421195463	Palo Santo		locality	14
+3608	1327128767	Los Matacos		locality	3
+3610	421170149	Clorinda		locality	78
+3611	421191633	Laguna Naick Neck		locality	6
+3611	1243063805	Palma Sola		locality	3
+3611	1209599831	Tres Lagunas		locality	3
+3613	1225829573	Siete Palmas		locality	4
+3613	421196293	Laguna Blanca		locality	1
+3615	1343751591	Mision Tacaagle		locality	10
+3615	1209723127	El Espinillo		locality	7
+3620	1141906777	Comandante Fontana		locality	17
+3621	1326720365	Cabo Primero Lugones		locality	4
+3624	890441853	Ibarreta		locality	19
 3624	421204615	Formosa		locality	1
-3630	890445477	Las Lomitas		locality	2
+3626	890433749	Estanislao del Campo		locality	8
+3628	1126016551	Pozo del Tigre		locality	6
+3630	1141908113	Las Lomitas		locality	14
+3630	1209499505	Rio Muerto		locality	3
+3632	1225933723	Chiriguanos		locality	2
+3632	890440153	Laguna Yema		locality	1
+3634	890440153	Laguna Yema		locality	8
+3636	890434711	Ingeniero Juárez		locality	27
+3636	1259777827	Pozo de Maza		locality	6
 3700	890440197	Presidencia Roque Sáenz Peña		locality	5
 3701	890429387	La Clotilde		locality	5
 3701	890454207	La Tigra		locality	2
 3701	890455415	San Bernardo		locality	2
 3702	1126016579	Avia Terai		locality	1
 3703	890437219	Tres Isletas		locality	7
+3703	1327136083	Villa Rio Bermejito		locality	3
 3705	890429389	Juan José Castelli		locality	92
 3705	1141908107	Juan José Castelli		locality	2
 3705	890437219	Tres Isletas		locality	1
 3706	1126016579	Avia Terai		locality	2
-3708	421199805	Pampa del Infierno		locality	24
+3708	1141906771	Pampa del Infierno		locality	24
 3712	890451497	Pampa de los Guanacos		locality	9
 3712	890440005	Los Frentones		locality	1
 3714	890421523	Taco Pozo		locality	2
 3716	421198051	Campo Largo		locality	3
+3716	1141906777	Comandante Fontana		locality	1
 3718	421195337	Corzuela		locality	31
 3722	1125765061	Las Breñas		locality	73
-3730	890440225	Charata		locality	89
+3730	1141908109	Charata		locality	89
+3731	1243512957	Sachayoj		locality	3
 3732	890440063	General Pinedo		locality	3
 3733	1126028447	Hermoso Campo		locality	12
 3734	890440067	Gancedo		locality	1
 3740	890439895	Quimilí		locality	18
-3743	1125870171	Tintina		locality	18
+3743	1125870171	Tintina		locality	21
 3760	890437227	Añatuya		locality	73
 3763	890440003	Los Juríes		locality	12
 3904	421172657	Paso de la Patria		locality	3
-4000	421172797	San Miguel de Tucumán		locality	608
+4000	421172797	San Miguel de Tucumán		locality	617
 4000	421178083	Yerba Buena		locality	2
 4000	421198339	Metán		locality	1
-4000	421198213	San Miguel		locality	1
+4000	1310470217	San Miguel		locality	1
 4101	421191851	Las Talitas		locality	2
+4101	1326501641	Los Nogales		locality	1
 4103	421184499	Tafí Viejo		locality	10
 4103	421178025	Siambón		locality	1
 4103	421169165	Salta		locality	1
-4103	421172797	San Miguel de Tucumán		locality	1
-4105	421169677	Cebil Redondo		locality	2
-4105	421191957	Villa Carmela		locality	2
+4105	421191957	Villa Carmela		locality	3
+4105	421169677	Cebil Redondo		locality	1
 4107	421178083	Yerba Buena		locality	74
 4107	421172797	San Miguel de Tucumán		locality	4
 4107;	421178083	Yerba Buena		locality	1
-4109	421185659	Banda del Río Salí		locality	11
+4109	421185659	Banda del Río Salí		locality	7
 4109	421198289	Alderetes		locality	1
+4109	1276394801	Ingenio Cruz Alta		locality	1
+4111	1309764089	Colombres		locality	2
+4115	1259837457	Agua Dulce		locality	1
+4117	1360043299	El Chanar		locality	2
+4117	1259651887	Delfin Gallo		locality	1
+4117	1310470241	Los Perez		locality	1
 4117	421172797	San Miguel de Tucumán		locality	1
-4124	421168271	Trancas		locality	2
+4119	1360142709	La Ramada		locality	1
+4119	1327092419	San Jose de Macomitas		locality	1
+4122	1326798841	Benjamin Paz		locality	1
+4122	1259948113	Tapia		locality	1
+4124	1141906769	Trancas		locality	2
 4124	421180959	San Pedro de Colalao		locality	1
+4126	1209879823	El Tala		locality	2
 4127	421170349	Tafí del Valle		locality	1
 4128	421198303	Lules		locality	8
 4132	421199751	Famaillá		locality	5
 4135	421192283	El Mollar		locality	1
 4137	421170349	Tafí del Valle		locality	2
-4137	421172797	San Miguel de Tucumán		locality	1
+4137	421194741	Amaicha del Valle		locality	1
 4139	421166743	Santa María		locality	28
-4142	421178957	Monteros		locality	10
+4142	421178957	Monteros		locality	9
+4142	890439987	Graneros		locality	1
 4143	421178957	Monteros		locality	1
+4144	1276609405	Villa Quinteros		locality	2
 4145	421172797	San Miguel de Tucumán		locality	1
-4146	421174415	Concepción		locality	23
+4146	421174415	Concepción		locality	30
 4146	421185659	Banda del Río Salí		locality	2
+4146	1344215067	Alto Verde		locality	1
 4152	890435495	Aguilares		locality	14
+4153	1344215067	Alto Verde		locality	1
+4155	1226002613	Ingenio Santa Ana		locality	1
 4158	421198347	Villa Alberdi		locality	7
 4158	421175661	Juan Bautista Alberdi		locality	3
-4162	421196199	La Cocha		locality	2
+4162	421196199	La Cocha		locality	5
+4164	1309873947	Rumi Punco		locality	5
 4168	421196079	Bella Vista		locality	2
 4172	421196021	Simoca		locality	1
-4178	421198289	Alderetes		locality	8
+4176	1242929335	Monteagudo		locality	1
+4178	421198289	Alderetes		locality	9
+4178	1242635271	Araoz		locality	1
+4178	1259639399	Ranchillos		locality	1
+4186	1276719617	Las Cejas		locality	1
 4190	421195125	Rosario de la Frontera		locality	79
-4200	890437285	Santiago del Estero		locality	40
+4197	1243512971	El Mojon		locality	2
+4200	890437285	Santiago del Estero		locality	41
 4200	421196203	La Banda		locality	1
 4200	421172797	San Miguel de Tucumán		locality	1
+4201	1259652463	Sumamao		locality	2
+4206	1360054319	Nueva Francia		locality	2
+4206	1259441375	Simbol		locality	1
+4206	1360241327	Arraga		locality	1
 4208	421205047	Loreto		locality	19
-4220	421175095	Termas de Río Hondo		locality	4
+4220	421175095	Termas de Río Hondo		locality	7
 4220	890437285	Santiago del Estero		locality	2
+4230	421195107	Frías		locality	1
 4251	890435495	Aguilares		locality	1
 4300	421196203	La Banda		locality	9
 4300	890439941	Recreo		locality	1
 4308	421198935	Beltrán		locality	4
+4319	1310164127	Chilca Juliana		locality	3
 4321	890439983	Los Telares		locality	1
 4322	421198327	Fernández		locality	7
-4400	421169165	Salta		locality	238
+4328	1326686361	Herrera		locality	2
+4338	1277044233	Simbolar		locality	4
+4400	421169165	Salta		locality	240
+4400	421167835	Cafayate		locality	2
 4400	421176595	Rosario de Lerma		locality	2
 4400	421199313	Villa San Lorenzo		locality	2
-4400	421167835	Cafayate		locality	1
 4400	421183837	Campo Quijano		locality	1
-4400	421196069	Cerrillos		locality	1
+4400	1141908099	Cerrillos		locality	1
+4400	1226021215	General Martin Miguel de Gueemes		locality	1
 4400	1126016557	Las Lajitas		locality	1
 4401	421199313	Villa San Lorenzo		locality	5
 4401	421169165	Salta		locality	1
-4403	421196069	Cerrillos		locality	2
+4403	1141908099	Cerrillos		locality	2
 4405	421176595	Rosario de Lerma		locality	88
 4407	421183837	Campo Quijano		locality	80
-4411	421168021	San Antonio de los Cobres		locality	6
+4411	421168021	San Antonio de los Cobres		locality	7
 4415	421187065	Agua Negra		locality	1
 4415	421174445	Payogasta		locality	1
 4419	421181989	Seclantás		locality	6
 4421	421196223	El Carril		locality	2
-4423	421200073	Chicoana		locality	3
+4421	1327098053	La Merced		locality	1
+4423	421200073	Chicoana		locality	4
 4425	421198037	La Viña		locality	8
-4427	421167835	Cafayate		locality	7
+4427	421167835	Cafayate		locality	20
 4427	421176547	San Carlos		locality	1
-4430	1141906767	General Güemes		locality	1
+4430	1226021215	General Martin Miguel de Gueemes		locality	2
 4440	421198339	Metán		locality	80
 4440	421169165	Salta		locality	1
+4440	1326606275	Yatasto		locality	1
 4444	421196233	El Galpón		locality	9
 4448	1125809365	Joaquín V. González		locality	24
 4449	1126016557	Las Lajitas		locality	26
 4449	890451751	Apolinario Saravia		locality	10
-4500	421178997	San Pedro de Jujuy		locality	16
+4500	421178997	San Pedro de Jujuy		locality	15
 4501	890433223	Palma Sola		locality	5
 4506	421182637	Fraile Pintado		locality	2
 4512	421169167	Libertador General San Martín		locality	39
 4518	421205025	Yuto		locality	7
-4522	421195767	La Mendieta		locality	6
+4518	1310695681	Vinalito		locality	2
+4522	421195767	La Mendieta		locality	5
 4530	1141908763	San Ramón de la Nueva Orán		locality	15
 4530	1125777723	Orán		locality	4
 4530	421180211	Iturbe		locality	1
+4531	1226113817	Santa Rosa		locality	13
 4533	421180211	Iturbe		locality	25
-4533	421174651	Tabacal		locality	1
 4534	421174511	Pichanal		locality	7
+4542	1293172287	El Talar		locality	3
+4542	1209378431	Urundel		locality	2
 4550	890441837	Embarcación		locality	22
+4552	1226113799	Coronel Cornejo		locality	1
+4554	1242653693	Coronel Juan Sola		locality	6
+4554	1226608811	Dragones		locality	2
 4554	1141908097	Los Blancos		locality	2
-4560	421194143	Tartagal		locality	37
+4560	421194143	Tartagal		locality	39
 4560	421174505	Salvador Mazza		locality	2
 4562	421178453	General Mosconi		locality	16
 4566	421195351	Aguaray		locality	17
 4568	421174505	Salvador Mazza		locality	20
-4600	421185855	San Salvador de Jujuy		locality	520
-4603	421166747	El Carmen		locality	3
+4600	421185855	San Salvador de Jujuy		locality	514
+4603	421166747	El Carmen		locality	4
+4605	1276968301	La Toma		locality	1
 4605	421196961	San Antonio		locality	1
-4608	421174513	Perico 		locality	1
-4610	421174513	Perico 		locality	6
+4608	421174513	Perico		locality	1
+4608	1209095241	Monte Rico		locality	1
+4610	421174513	Perico		locality	6
 4612	421198343	Palpalá		locality	10
 4612	421185855	San Salvador de Jujuy		locality	1
-4618	890443121	Purmamarca		locality	1
-4624	421168359	Tilcara		locality	3
-4630	421174843	Humahuaca		locality	3
+4618	890443121	Purmamarca		locality	2
+4618	1226225813	El Moreno		locality	1
+4624	421168359	Tilcara		locality	7
+4630	1141906757	Humahuaca		locality	3
 4630	421169047	Necochea		locality	1
-4640	421176599	Abra Pampa		locality	7
+4640	1141906755	Abra Pampa		locality	7
 4641	421186901	Susques		locality	1
 4650	421174281	La Quiaca		locality	6
-4700	421174835	San Fernando del Valle de Catamarca		locality	109
+4700	421174835	San Fernando del Valle de Catamarca		locality	119
 4701	421170989	Ancasti		locality	1
 4705	421193987	Sumalao		locality	1
-4707	421174507	San Isidro		locality	2
-4740	421185229	Andalgalá		locality	15
+4707	1343765139	Villa Dolores		locality	18
+4707	421174507	San Isidro		locality	5
+4707	421174835	San Fernando del Valle de Catamarca		locality	1
+4707	1276882041	Tres Puentes		locality	1
+4740	421185229	Andalgalá		locality	14
 4743	421191851	Las Talitas		locality	1
-4750	421203779	San Ignacio		locality	45
+4750	421203779	San Ignacio		locality	44
 4750	421198319	Belén		locality	1
 4750	421198309	Londres		locality	1
 4800	421185855	San Salvador de Jujuy		locality	1
-5000	421172813	Córdoba		locality	119
+5000	421172813	Córdoba		locality	131
 5000	421196413	Obispo Trejo		locality	1
-5001	421172813	Córdoba		locality	5
+5001	421172813	Córdoba		locality	4
 5002	421172813	Córdoba		locality	1
-5003	421172813	Córdoba		locality	21
+5003	421172813	Córdoba		locality	23
 5004	421172813	Córdoba		locality	1
 5006	421172813	Córdoba		locality	16
 5008	421172813	Córdoba		locality	10
-5009	421172813	Córdoba		locality	11
-5010	421172813	Córdoba		locality	5
-5011	421172813	Córdoba		locality	1
+5009	421172813	Córdoba		locality	12
+5010	421172813	Córdoba		locality	6
+5011	421172813	Córdoba		locality	2
 5012	421172813	Córdoba		locality	16
 5014	421172813	Córdoba		locality	11
 5015	421172813	Córdoba		locality	1
-5016	421172813	Córdoba		locality	8
+5016	421172813	Córdoba		locality	10
 5017	421172813	Córdoba		locality	3
 5019	421172813	Córdoba		locality	7
 5020	421172813	Córdoba		locality	1
 5021	421172813	Córdoba		locality	4
 5022	421172813	Córdoba		locality	6
+5101	421196921	Malagueño		locality	2
 5101	421172813	Córdoba		locality	1
-5101	421196921	Malagueño 		locality	1
+5101	1360290331	Lozada		locality	1
 5104	421190827	Bialet Massé		locality	2
 5105	421203295	Villa Allende		locality	8
 5107	421171595	Agua de Oro		locality	1
-5109	421172879	Unquillo		locality	2
+5109	421172879	Unquillo		locality	13
 5111	421185865	Río Ceballos		locality	2
-5113	421171165	Salsipuedes		locality	3
-5115	421181513	La Granja		locality	1
+5113	421171165	Salsipuedes		locality	2
+5121	1193049553	Bajo Grande		locality	1
 5121	421196127	Despeñaderos		locality	1
 5121	421172701	Monte Ralo		locality	1
 5123	421172813	Córdoba		locality	1
@@ -2240,435 +3057,767 @@ x5000kvd	421172813	Córdoba		locality	1
 5125	890435031	Piquillín		locality	1
 5131	421172813	Córdoba		locality	1
 5133	421198367	Santa Rosa de Río Primero		locality	4
-5137	421195075	La Puerta 		locality	1
+5137	421195075	La Puerta		locality	1
 5141	421198321	Balnearia		locality	1
-5147	421172813	Córdoba		locality	5
+5145	1226746523	Juarez Celman		locality	3
+5147	421172813	Córdoba		locality	4
 5147	421179897	Argüello		locality	2
 5149	421178923	Saldán		locality	1
 5149	421203509	Rivera Indarte		locality	1
 5151	421174265	La Calera		locality	7
-5152	421203525	Villa Carlos Paz		locality	65
+5152	421203525	Villa Carlos Paz		locality	68
+5152	1293486731	Villa Santa Cruz Del Lago		locality	2
+5152	1226465317	Villa Icho Cruz		locality	1
 5152|	421203525	Villa Carlos Paz		locality	1
+5153	1226465317	Villa Icho Cruz		locality	1
 5155	421182237	Tanti		locality	6
+5158	1276232665	Villa Parque Siquiman		locality	1
 5164	421172813	Córdoba		locality	1
-5166	421172437	Cosquín		locality	23
+5166	421172437	Cosquín		locality	25
 5168	421194747	Valle Hermoso		locality	3
 5172	421195741	La Falda		locality	7
 5176	421191309	Villa Giardino		locality	7
 5178	421195645	La Cumbre		locality	3
-5184	421195641	Capilla del Monte		locality	122
-5186	421169173	Alta Gracia		locality	29
-5189	421191307	Anisacate		locality	1
-5194	421196915	Villa General Belgrano		locality	4
+5182	421186641	Los Cocos		locality	1
+5184	421195641	Capilla del Monte		locality	123
+5186	421169173	Alta Gracia		locality	32
+5189	421191307	Anisacate		locality	2
+5189	1343661047	Jose de la Quintana		locality	2
+5194	421196915	Villa General Belgrano		locality	5
 5194	421204549	La Cumbrecita		locality	1
 5196	421200019	Santa Rosa de Calamuchita		locality	6
 5200	421168415	Deán Funes		locality	1
 5220	421191327	Jesús María		locality	5
-5223	421191625	Colonia Caroya		locality	2671
+5221	1259683199	Candelaria Sud		locality	1
+5223	1260002309	Colonia Caroya		locality	2671
 5236	421198313	Villa del Totoral		locality	6
+5238	1259582529	Las Penas		locality	1
+5248	1327338177	Villa de Maria		locality	8
 5250	890440081	Villa Ojo de Agua		locality	36
 5251	421203525	Villa Carlos Paz		locality	1
 5253	890440129	Sumampa		locality	5
 5260	890439941	Recreo		locality	70
-5280	421167941	Cruz del Eje		locality	17
+5274	1243243691	Villa Santa Rita de Catuna		locality	1
+5276	1259660789	Chanar		locality	1
+5280	421167941	Cruz del Eje		locality	16
 5282	421174463	San Marcos Sierra		locality	1
 5284	421198953	Villa de Soto		locality	1
 5295	421174703	Salsacate		locality	2
-5300	421172805	La Rioja		locality	35
-5301	421172805	La Rioja		locality	1
+5295	1226076973	Canada de Salas		locality	1
+5300	421172805	La Rioja		locality	43
+5301	1309993021	Aminga		locality	1
 5305	421172805	La Rioja		locality	1
 5315	421193791	Villa de Pomán		locality	7
 5317	890433245	Mutquín		locality	1
-5340	1141906753	Tinogasta		locality	1
+5327	1309699409	Salicas		locality	3
+5329	1276313235	Cuipan		locality	1
+5340	421167065	Tinogasta		locality	1
 5341	421205327	Fiambalá		locality	1
-5343	421167065	Tinogasta		locality	3
+5343	1209227719	Santa Rosa		locality	3
+5343	421167065	Tinogasta		locality	2
 5345	421205327	Fiambalá		locality	16
 5350	421198365	Villa Unión		locality	2
-5360	421172041	Chilecito		locality	43
+5353	1326810435	Guandacol		locality	1
+5355	1293466931	Villa Castelli		locality	1
+5360	421172041	Chilecito		locality	48
+5360	1343441269	Los Sarmientos		locality	2
+5361	1344034767	Pituil		locality	2
+5361	1344044375	Campanas		locality	1
 5361	421172041	Chilecito		locality	1
+5363	1326810551	Anguinan		locality	2
+5365	1242664645	Carrizal		locality	2
 5380	421174411	Chamical		locality	2
-5400	421182183	San Juan		locality	6199
-5400	421172499	Rivadavia 		locality	70
+5381	1192998433	Loma Blanca		locality	3
+5381	1309721621	Monte Hermoso		locality	1
+5383	1226429641	Olta		locality	60
+5385	1310192251	Tama		locality	3
+5385	1226419737	El Portezuelo		locality	1
+5389	1243541603	Malanzan		locality	1
+5400	421182183	San Juan		locality	6304
+5400	421172499	Rivadavia		locality	5443
+5400	1310171707	Trinidad		locality	20
+5400	1309869007	Barrio Rivadavia		locality	8
 5400	421198197	Pocito Department		locality	1
-5401	421166375	Villa Basilio Nievas		locality	4
-5402	421182183	San Juan		locality	2
-5405	421191285	Barreal		locality	3
+5401	1242640753	Tamberias		locality	7
+5401	421166375	Villa Basilio Nievas		locality	5
+5401	421196075	Calingasta		locality	2
+5401	1226518237	Hilario		locality	2
+5401	1326496349	Sorocayense		locality	2
+5401	1343627787	Villa Corral		locality	2
+5402	421182183	San Juan		locality	67
+5403	421196075	Calingasta		locality	8
+5403	1293465595	Villa Nueva		locality	2
+5405	421191285	Barreal		locality	16
 5405	421196923	Marquesado		locality	1
-5405	421172499	Rivadavia 		locality	1
-5406	421172499	Rivadavia 		locality	160
-5407	421172499	Rivadavia 		locality	668
-5407	421196923	Marquesado		locality	446
-5411	421183979	Santa Lucía 		locality	3
-5413	421198295	Chimbas		locality	8
-5419	421179005	Albardón Department		locality	212
+5405	421172499	Rivadavia		locality	1
+5406	421172499	Rivadavia		locality	730
+5406	421182183	San Juan		locality	1
+5407	421172499	Rivadavia		locality	2691
+5407	421196923	Marquesado		locality	772
+5407	1226621913	La Bebida		locality	502
+5409	1309678269	Niquivil		locality	6
+5409	1209491177	Mogna		locality	2
+5411	421183979	Santa Lucía		locality	22
+5413	421198295	Chimbas		locality	82
+5413	421182183	San Juan		locality	1
+5415	1310564357	Las Tapias		locality	11
+5415	1360151047	Villa del Salvador		locality	10
+5415	1293465563	Villa San Isidro		locality	9
+5415	1193244729	El Bosque		locality	4
+5419	421179005	Albardón Department		locality	250
 5419	421195477	Almafuerte		locality	10
+5419	1327197305	Las Lomitas		locality	5
 5419	421182183	San Juan		locality	1
+5421	1242850243	Medano de Oro		locality	13
+5421	1260156859	Encon		locality	4
+5425	1276617337	Villa Krause		locality	6
 5425	421198197	Pocito Department		locality	1
-5427	421198197	Pocito Department		locality	7
-5439	421205209	San Martín Department		locality	1
-5442	421198323	Caucete		locality	27
-5460	1125777745	San José de Jáchal		locality	2
+5427	1226622053	Villa Aberastain		locality	19
+5427	421198197	Pocito Department		locality	6
+5427	1327409899	Sanchez de Loria		locality	5
+5429	1192981789	La Rinconada		locality	10
+5431	1327309635	Los Berros		locality	8
+5431	1326896687	Divisadero		locality	3
+5431	1226108633	Canada Honda		locality	2
+5431	1343725229	Guanacache		locality	2
+5431	1192981687	Pedernal		locality	2
+5435	1243517709	Villa Media Agua		locality	18
+5435	1343427275	Cochagual		locality	14
+5435	1225907425	Carpinteria		locality	13
+5435	1293759399	Punta del Medano		locality	3
+5435	1310268101	Tres Esquinas		locality	3
+5435	421176545	San Carlos		locality	2
+5435	1293176733	Retamito		locality	1
+5435	421182183	San Juan		locality	1
+5438	1226010977	Alto de Sierra		locality	7
+5439	1343337457	Villa Dominguito		locality	3
+5442	421198323	Caucete		locality	24
+5442	421178033	La Puntilla		locality	3
+5443	1327400257	Villa Santa Rosa		locality	13
+5443	1292964005	Divisoria		locality	7
+5443	1243326781	Villa Independencia		locality	3
+5443	1276523583	Vallecito		locality	2
+5443	1343824139	Algarrobo Verde		locality	1
+5443	1259349009	Punta del Agua		locality	1
+5444	1209879375	Bermejo		locality	2
+5444	1326806293	Pie de Palo		locality	2
+5446	1326906263	Las Chacras		locality	1
+5447	1310577101	Astica		locality	8
+5447	1292964067	Chucuma		locality	2
+5447	1226408567	Las Juntas		locality	1
+5449	1125777737	San Agustín de Valle Fértil		locality	10
+5449	421196935	Usno		locality	4
+5449	1310577101	Astica		locality	2
+5449	1310688461	Los Baldecitos		locality	2
+5449	1360043299	El Chanar		locality	1
+5460	1125777745	San José de Jáchal		locality	20
+5460	1242640753	Tamberias		locality	3
+5460	1243530265	Pachimoco		locality	2
+5461	1327110373	Villa Mercedes		locality	5
+5461	1310567631	Pampa del Chanar		locality	4
+5461	1209478255	Boca de la Quebrada		locality	2
+5461	1259746347	La Falda		locality	2
+5461	1293664953	Pampa Vieja		locality	2
+5461	1343337467	Huerta de Huachi		locality	1
+5463	1242840571	Huaco		locality	9
+5463	421201515	La Ciénaga		locality	2
+5465	1141908035	Rodeo		locality	8
+5465	1209177453	Colola		locality	2
+5467	1343337551	Angualasto		locality	5
+5467	1344033493	Iglesia		locality	5
+5467	421195787	Las Flores		locality	4
+5467	1193244621	Tudcum		locality	4
+5467	1276294957	Colangueil		locality	2
+5467	1276617189	Pismanta		locality	2
+5467	421166375	Villa Basilio Nievas		locality	2
+5467	1209180489	Maliman de Abajo		locality	1
 5470	1141906763	Chepes		locality	9
-5500	421200319	Mendoza		locality	124
-5501	421196395	Godoy Cruz		locality	1226
-5501	421200319	Mendoza		locality	873
+5478	1226621913	La Bebida		locality	2
+5500	421200319	Mendoza		locality	181
+5500 Mendoza	421200319	Mendoza		locality	1
+5501	421196395	Godoy Cruz		locality	1138
+5501	421200319	Mendoza		locality	810
 5501	421172987	Gobernador Benegas		locality	1
 5505	421184749	Chacras de Coria		locality	4
 5505	421200319	Mendoza		locality	4
+5505	421198315	Luján de Cuyo		locality	1
 5507	421196289	Luján de Cuyo		locality	8
 5509	421196289	Luján de Cuyo		locality	3
 5509	421174501	Perdriel		locality	1
+5511	1327111075	General Gutierrez		locality	1
+5513	421196095	Maipú		locality	3
 5513	421200319	Mendoza		locality	3
-5513	421196095	Maipú		locality	2
 5513	421204705	Luzuriaga		locality	1
-5515	421196095	Maipú		locality	51
+5515	421196095	Maipú		locality	52
 5515	421174267	Coquimbito		locality	1
+5515	1327111075	General Gutierrez		locality	1
 5516	421204705	Luzuriaga		locality	1
+5517	1293668445	Russell		locality	8
 5517	421196095	Maipú		locality	3
-5517	421175855	Cruz de Piedra		locality	1
+5517	421175855	Cruz de Piedra		locality	2
+5519	421200319	Mendoza		locality	2
 5519	421169839	Rodeo de la Cruz		locality	2
 5519	421173903	Bermejo		locality	1
-5519	421200319	Mendoza		locality	1
+5519	1276427517	El Plumerillo		locality	1
 5521	421174267	Coquimbito		locality	1
+5523	1243242889	Jesus Nazareno		locality	1
 5527	421200319	Mendoza		locality	1
 5528	421184749	Chacras de Coria		locality	1
-5529	421169843	Rodeo del Medio 		locality	1
-5531	421193499	Fray Luis Beltrán 		locality	2
+5529	421169843	Rodeo del Medio		locality	1
+5531	421193499	Fray Luis Beltrán		locality	2
 5533	421191961	Lavalle		locality	1
-5535	421191961	Lavalle		locality	1
-5539	421195101	Las Heras		locality	128
+5533	421200319	Mendoza		locality	1
+5535	1293770105	Costa de Araujo		locality	1
+5535	1343437359	Nueva California		locality	1
+5539	421195101	Las Heras		locality	226
 5547	421196395	Godoy Cruz		locality	4
 5549	421195769	Cacheuta Spa		locality	1
-5560	421196383	Tunuyán		locality	43
-5561	421200991	Tupungato		locality	2
+5560	421196383	Tunuyán		locality	40
+5561	1243339993	San Jose		locality	2
+5561	421200991	Tupungato		locality	1
+5565	1259369367	Colonia Las Rosas		locality	2
 5565	421195391	Vista Flores		locality	1
 5567	421204697	La Consulta		locality	2
+5569	1293675517	Pareditas		locality	4
+5569	1276319791	Eugenio Bustos		locality	1
 5570	421200023	San Martín		locality	12
+5570	1209995841	Tres Portenas		locality	1
 5573	421174643	Junín		locality	5
 5575	421195673	Rivadavia		locality	1
-5577	421195673	Rivadavia		locality	52
+5577	421195673	Rivadavia		locality	53
 5579	421196081	La Florida		locality	2
 5579	421195673	Rivadavia		locality	1
 5582	421200023	San Martín		locality	1
-5584	421196035	Palmira		locality	2
-5585	421196925	Medrano 		locality	2
+5584	421196035	Palmira		locality	1
+5585	421196925	Medrano		locality	2
+5587	1192997695	San Roque		locality	1
 5589	421200023	San Martín		locality	2
-5590	421166433	La Paz		locality	2
-5596	421197809	Santa Rosa		locality	1
+5590	1141908049	La Paz		locality	2
+5594	1276742489	Las Catitas		locality	1
 5600	421202307	San Rafael		locality	335
 5602	421202307	San Rafael		locality	1
 5603	421166755	Rama Caída		locality	3
 5603	421202307	San Rafael		locality	1
 5605	421202307	San Rafael		locality	1
-5609	421202307	San Rafael		locality	1
+5609	1293755151	Monte Coman		locality	1
 5612	890423719	Las Leñas		locality	1
 5613	1141908045	Malargüe		locality	6
+5613	1243533901	Las Loicas		locality	2
 5613	421183703	Bardas Blancas		locality	1
 5620	421191323	Gral Alvear		locality	41
+5622	1310577653	Villa Atuel		locality	1
 5624	421169863	Real del Padre		locality	58
 5634	421174481	Bowen		locality	1
-5700	890451749	San Luis		locality	37
+5637	1209995841	Tres Portenas		locality	1
+5700	421186647	San Luis		locality	38
+5701	1293163369	Juana Koslay		locality	2
 5701	421194743	Potrero de los Funes		locality	2
 5702	421186647	San Luis		locality	1
-5710	890449555	La Punta		locality	1
+5710	890449555	La Punta		locality	29
 5711	421197819	Quines		locality	43
-5713	890435589	Candelaria		locality	3
-5730	890452757	Villa Mercedes		locality	72
-5730	890436433	Villa Mercedes		locality	4
+5711	1310576339	Talita		locality	2
+5713	890435589	Candelaria		locality	5
+5730	890452757	Villa Mercedes		locality	43
 5750	421166431	La Toma		locality	1
-5800	421169601	Río Cuarto		locality	81
+5770	890439897	Concarán		locality	1
+5800	421169601	Río Cuarto		locality	82
 5800	421172813	Córdoba		locality	1
 5805	421201797	Las Higueras		locality	1
-5809	421178971	General Cabrera		locality	16
+5809	421178971	General Cabrera		locality	17
 5810	421200989	Alpa Corral		locality	1
 5811	890440043	Coronel Baigorria		locality	2
+5813	1326553037	Alcira		locality	3
 5813	421200989	Alpa Corral		locality	1
 5817	890440121	Berrotarán		locality	1
-5823	421197519	Los Cóndores 		locality	1
+5823	421197519	Los Cóndores		locality	1
+5825	1293588359	Santa Catalina		locality	1
 5829	421175113	Sampacho		locality	120
 5833	421198287	Achiras		locality	1
+5837	1310500803	Suco		locality	3
+5839	1226447491	Malena		locality	2
+5839	1243459389	Las Vertientes		locality	1
 5841	421199539	San Basilio		locality	1
-5843	421198349	Adelia María		locality	4
-5847	421196065	Coronel Moldes 		locality	8
+5843	421198349	Adelia María		locality	5
+5845	1260187205	Bulnes		locality	226
+5847	421196065	Coronel Moldes		locality	8
 5848	421195313	Las Acequias		locality	362
 5848Las Acequias, Argentina	421195313	Las Acequias		locality	2
-5850	421173539	Río Tercero		locality	16
+5850	421173539	Río Tercero		locality	20
 5854	421195477	Almafuerte		locality	1198
 5862	421166753	Villa del Dique		locality	5
+5867	1310204113	Los Cerrillos		locality	1
 5870	421191305	Villa Dolores		locality	13
+5870	890414221	Mina Clavero		locality	1
+5871	1326929771	Los Medanitos		locality	9
+5871	1259844927	Lafinur		locality	2
+5871	1360284621	El Banado		locality	1
 5871	421195315	La Población		locality	1
+5871	1310576353	Los Cajones		locality	1
 5875	421171471	San Javier		locality	3
-5881	421175467	Merlo		locality	4
+5875	1243477033	Luyaba		locality	1
+5881	421175467	Merlo		locality	11
+5881	421186647	San Luis		locality	2
 5881	421166621	Cerro de Oro		locality	1
-5881	890451749	San Luis		locality	1
 5881	1125781469	Villa Cura Brochero		locality	1
-5887	421199301	Nono		locality	2
+5883	1360048011	Carpinteria		locality	4
+5883	1326992641	Los Molles		locality	1
+5885	1293097927	Los Hornillos		locality	4
+5885	1259588125	Las Calles		locality	1
+5887	421199301	Nono		locality	1
 5889	890414221	Mina Clavero		locality	5
-5891	1125781469	Villa Cura Brochero		locality	3
-5900	421169161	Villa María		locality	364
-5903	421171303	Villa Nueva 		locality	1
+5891	1125781469	Villa Cura Brochero		locality	5
+5900	421169161	Villa María		locality	386
+5901	1243262881	Los Zorros		locality	2
+5903	421171303	Villa Nueva		locality	1
 5911	421195745	La Playosa		locality	1
+5913	1293097837	Pampayasta Sur		locality	1
 5913	421196033	Pozo del Molle		locality	1
 5915	421198291	Carrilobo		locality	1
 5919	421195565	Dalmacio Vélez Sársfield		locality	1
 5921	421198229	Las Perdices		locality	659
-5923	421191953	General Deheza		locality	17
+5923	421191953	General Deheza		locality	22
+5925	1259605937	La Palestina		locality	2
 5929	421195939	Hernando		locality	4
+5933	421170909	Tancacha		locality	13
 5935	421196009	Villa Ascasubi		locality	1
 5940	890441589	Las Varillas		locality	9
 5941	421170995	Las Varas		locality	1
 5945	421200533	Sacanta		locality	1
-5963	421196341	Villa del Rosario		locality	24
+5963	421196341	Villa del Rosario		locality	25
+5967	1259788305	Luque		locality	4
+5969	1293882887	Calchin		locality	2
 5972	421173915	Pilar		locality	12
+5972	1293806467	Lagunilla		locality	1
 5974	421184045	Laguna Larga		locality	1
+5975	1293594019	Matorrales		locality	42
+5984	421198219	James Craik		locality	6
 5986	421196323	Oncativo capital		locality	11
-6000	421172807	Junín		locality	65
-6009	421197509	Teodelina		locality	1
+6000	421172807	Junín		locality	67
+6001	1226160511	Rafael Obligado		locality	7
+6001	1226160769	Agustina		locality	1
+6003	1293501219	Ascension		locality	13
+6003	1259600727	La Angelita		locality	3
+6003	1276566375	Ferre		locality	1
+6007	1327248937	Arribenos		locality	9
+6009	421197509	Teodelina		locality	2
+6013	1292912945	Baigorrita		locality	8
+6030	1293700897	Vedia		locality	22
 6031	890434687	Ataliva Roca		locality	1
-6050	421196393	General Pinto		locality	1
+6032	1242782113	Leandro N. Alem		locality	9
+6034	1225862665	Juan Bautista Alberdi		locality	1
+6050	421196393	General Pinto		locality	23
+6053	1310519179	Germania		locality	12
+6064	890440157	Florentino Ameghino		locality	11
+6075	1209525051	Roberts		locality	468
 6075	421169417	Arenaza		locality	9
+6077	421204765	Pasteur		locality	4
 6100	421196083	Rufino		locality	10
 6101	421201207	La Cesira		locality	1
-6120	421175271	Laboulaye		locality	979
+6105	1243278073	Canada Seca		locality	7
+6120	421175271	Laboulaye		locality	978
+6123	1326553071	Melo		locality	5
 6125	421195085	Serrano		locality	4
 6127	421170997	Jovita		locality	3
+6128	1327029113	Rosales		locality	6
+6128	1360207523	Leguizamon		locality	1
 6132	421195333	General Levalle		locality	15
 6140	421199999	Vicuña Mackenna		locality	14
+6141	1343784667	Tosquita		locality	1
+6142	1293389125	La Cautiva		locality	2
 6200	890439943	Realicó		locality	343
 6203	890440669	Embajador Martini		locality	260
 6205	1125870573	Ingeniero Luiggi		locality	684
-6207	890440059	Alta Italia		locality	300
+6207	890440059	Alta Italia		locality	302
+6212	1209793847	Damian Maisonave		locality	1
 6213	1125870379	Parera		locality	12
 6214	421196187	Rancul		locality	17
 6220	890429395	Bernardo Larroudé		locality	632
 6221	421183123	Intendente Alvear		locality	84
+6223	1209022179	Coronel Charlone		locality	8
+6230	1193030029	General Villegas		locality	1180
+6231	421171637	Tres Algarrobos		locality	9
+6233	1260186481	Sansinena		locality	4
+6239	421195325	González Moreno		locality	1
+6241	1276246433	Emilio V. Bunge		locality	10
+6244	1226553683	Banderalo		locality	8
+6249	1209733345	Piedritas		locality	9
 6270	421199151	Huinca Renancó		locality	1
 6271	421171823	Del Campillo		locality	1
 6272	421196091	Mattaldi		locality	1
-6300	421191197	Santa Rosa		locality	110
+6277	890429393	Buena Esperanza		locality	5
+6279	1243419925	Fortin El Patria		locality	2
+6279	1293464971	Batavia		locality	1
+6300	421191197	Santa Rosa		locality	112
 6301	890439977	Miguel Riglos		locality	22
+6306	1277054247	Rolon		locality	1
 6307	890421527	Macachín		locality	22
 6308	890434687	Ataliva Roca		locality	5
-6309	890434689	Alpachiri		locality	234
+6309	890434689	Alpachiri		locality	232
 6309	890440009	General Manuel Campos		locality	1
-6310	890440009	General Manuel Campos		locality	1
-6311	421180751	Guatraché		locality	32
+6310	890440009	General Manuel Campos		locality	13
+6311	421180751	Guatraché		locality	36
 6313	1125941199	Winifreda		locality	14
 6314	421196187	Rancul		locality	1
-6315	890440051	Colonia Barón		locality	20
+6315	890440051	Colonia Barón		locality	21
 6319	890435505	Victorica		locality	29
 6323	890437963	Santa Isabel		locality	8
 6330	1125962161	Catriló		locality	651
+6331	1276526163	Miguel Cane		locality	7
 6333	421201663	Quemú Quemú		locality	15
-6339	421198337	Salliqueló		locality	4
+6335	1260299627	Quenuma		locality	4
+6339	421198337	Salliqueló		locality	8
+6343	1243472109	Maza		locality	6
+6346	421194003	Pellegrini		locality	14
 6352	890440061	Lonquimay		locality	12
-6354	890451667	Uriburu		locality	6
-6360	421177953	General Pico		locality	14
+6354	890451667	Uriburu		locality	4
+6360	421177953	General Pico		locality	18
 6369	421195715	Trenel		locality	25
-6380	1125870745	Eduardo Castex		locality	328
+6380	1125870745	Eduardo Castex		locality	326
 6385	421171187	Arata		locality	7
 6385	890441823	La Maruja		locality	7
 6387	890434677	Caleufú		locality	541
-6400	421200985	Trenque Lauquen		locality	985
+6389	1326592453	Anchorena		locality	3
+6389	1310467471	Arizona		locality	2
+6400	421200985	Trenque Lauquen		locality	5584
 6405	421201005	Treinta de Agosto		locality	16
-6430	1141908063	Carhué		locality	5
-6435	421195323	Guaminí		locality	34
+6407	1360299239	Girodias		locality	2
+6411	1276990595	Garre		locality	7
+6417	1260303449	Casbas		locality	16
+6424	1226757263	Berutti		locality	929
+6430	1360102845	Carhue		locality	6
+6435	421195323	Guaminí		locality	35
+6439	1260197079	Laguna Alsina		locality	6
 6440	421196087	Bragado		locality	3
-6450	421195291	Pehuajó		locality	13
-6455	421174497	Carlos Tejedor		locality	28
-6500	421173665	9 de Julio		locality	1514
-6500	1141906731	Nueve de Julio		locality	1
-6530	421196093	Carlos Casares		locality	25
-6550	421177373	Urdampilleta		locality	39
-6555	421166815	Daireaux		locality	1
-6600	421182349	Mercedes		locality	9
+6441	1276766697	Rivera		locality	17
+6450	421195291	Pehuajó		locality	40
+6451	1209629179	Curaru		locality	2
+6453	1309813157	Las Toscas		locality	6
+6455	421174497	Carlos Tejedor		locality	30
+6457	1276242301	Timote		locality	5
+6459	1293690781	Colonia Sere		locality	4
+6465	1292907481	Henderson		locality	18
+6469	1209719581	Mones Cazon		locality	9
+6471	1293310303	Salazar		locality	14
+6472	1259993699	Francisco Madero		locality	5
+6474	1326947871	Juan Jose Paso		locality	11
+6500	421173665	9 de Julio		locality	1846
+6500	1141906731	Nueve de Julio		locality	3
+6503	421195295	Patricios		locality	1
+6505	1276891523	Dudignac		locality	10
+6507	1226456627	Morea		locality	1
+6509	1327347553	Del Valle		locality	2
+6515	1293018427	Carlos Maria Naon		locality	1
+6516	1259501069	French		locality	2
+6530	421196093	Carlos Casares		locality	40
+6533	1242883877	Coronel Martinez de Hoz		locality	7
+6533	1326544063	Quiroga		locality	4
+6535	1209110099	Bellocq		locality	3
+6550	1226056899	San Carlos de Bolivar		locality	39
+6553	421177373	Urdampilleta		locality	15
+6555	421166815	Daireaux		locality	911
+6555	1327148525	La Manuela		locality	1
+6555	1259893923	Louge		locality	1
+6557	1310715811	Arboledas		locality	2
+6600	421182349	Mercedes		locality	61
+6605	421195735	Navarro		locality	35
+6607	421197533	Las Marianas		locality	1
 6608	421191811	Olivera		locality	6
-6620	421169171	Chivilcoy		locality	7904
-6634	421195747	Alberti		locality	13
+6612	421197547	Suipacha		locality	29
+6616	1242988349	Castilla		locality	4
+6620	421169171	Chivilcoy		locality	7918
+6620	421182349	Mercedes		locality	2
+6621	1276452665	Gobernador Ugarte		locality	7
+6623	1226256697	Emilio Ayarza		locality	2
+6625	1293798101	Moquehua		locality	757
+6627	1293901293	Moll		locality	5
+6627	1327449309	Ramon Biaus		locality	1
+6632	1327148659	Gorostiaga		locality	1
+6634	421195747	Alberti		locality	14
 6640	421196087	Bragado		locality	56
-6660	421174285	Buenos Aires		locality	100
+6641	421195757	Comodoro Py		locality	1
+6646	421179721	O'Brien		locality	5
+6648	421172999	Mechita		locality	2
+6660	421174285	Buenos Aires		locality	96
 6660	890435487	Veinticinco de Mayo		locality	4
-6700	421168027	Luján		locality	296
+6660	1343776301	San Enrique		locality	1
+6663	1310209055	Norberto de la Riestra		locality	17
+6665	1326934433	Pedernales		locality	10
+6667	1293210073	Valdes		locality	5
+6700	421168027	Luján		locality	385
 6701	421174037	Carlos Keen		locality	2
-6706	421185993	Jáuregui		locality	2
-6708	421184913	Open Door		locality	1
+6703	1242587207	Torres		locality	6
+6706	421185993	Jáuregui		locality	3
+6708	421184913	Open Door		locality	2
 6712	421200953	Cortines		locality	2
-6712	421168027	Luján		locality	1
-6720	421171157	San Andrés de Giles		locality	2
+6720	421171157	San Andrés de Giles		locality	18
 6725	421200975	Carmen de Areco		locality	30
-6740	421193967	Chacabuco		locality	3235
-7000	421185997	Tandil		locality	186
+6727	421194869	Tres Sargentos		locality	1
+6734	1276349513	Rawson		locality	7
+6740	421193967	Chacabuco		locality	4024
+6748	421196929	O'Higgins		locality	2
+7000	421185997	Tandil		locality	197
 7000	421195467	Rauch		locality	1
+7003	1259997367	Maria Ignacia		locality	6
 7005	421204691	Villa Cacique		locality	4
+7005	1243176097	Barker		locality	3
+7005	1210034179	Claraz		locality	1
 7008	421202401	Tigre		locality	1
-7020	421198359	Benito Juárez		locality	200
-7100	421200977	Dolores		locality	5
-7105	421167833	San Clemente del Tuyú		locality	6
-7107	421195629	Santa Teresita		locality	5
+7011	1226356233	Juan N. Fernandez		locality	4
+7020	421198359	Benito Juárez		locality	202
+7020	1327245467	Lopez		locality	1
+7100	421200977	Dolores		locality	6
+7101	1225849137	Sevigne		locality	1
+7105	421167833	San Clemente del Tuyú		locality	26
+7107	421195629	Santa Teresita		locality	10
 7108	421204611	Mar del Tuyú		locality	12
-7109	1141908069	Mar de Ajó		locality	3
+7109	421195783	Mar de Ajó		locality	39
 7113	421171153	La Lucila del Mar		locality	1
-7114	421198325	Castelli		locality	15
-7130	421174841	Chascomús		locality	57
-7150	421196255	Ayacucho		locality	3
-7160	421198333	Maipú		locality	3
-7165	421204631	Villa Gesell		locality	15
-7165	890444533	Mar de las Pampas		locality	3
+7114	421198325	Castelli		locality	17
+7130	1141908073	Chascomús		locality	72
+7136	1243472007	Monasterio		locality	1
+7150	421196255	Ayacucho		locality	4
+7160	421198333	Maipú		locality	23
+7165	421204631	Villa Gesell		locality	18
+7165	890444533	Mar de las Pampas		locality	5
 7165	421201675	Las Gaviotas		locality	1
-7167	421195631	Pinamar		locality	19
-7167	421195357	Ostende		locality	4
+7167	421195631	Pinamar		locality	27
+7167	421195357	Ostende		locality	5
+7167	421189305	Cariló		locality	2
 7167	421177251	Valeria del Mar		locality	2
-7167	421189305	Cariló		locality	1
 7169	421189305	Cariló		locality	1
 7172	421174255	General Pirán		locality	11
-7200	421176135	Las Flores		locality	4
+7174	421196177	Coronel Vidal		locality	1
+7200	421176135	Las Flores		locality	33
+7203	421195467	Rauch		locality	20
 7214	421199927	Cacharí		locality	16
-7220	421197551	San Miguel del Monte		locality	7
-7223	421174285	Buenos Aires		locality	1
+7220	421197551	San Miguel del Monte		locality	31
+7225	421198363	Villanueva		locality	19
 7226	421198331	Gral Belgrano		locality	7
-7240	1141908071	Lobos		locality	16
-7245	421174455	Roque Pérez		locality	1
-7260	421195355	Saladillo		locality	1
-7300	421204619	Azul		locality	123
-7303	421195133	San Bernardo		locality	1
-7400	421172801	Olavarría		locality	19
+7226	1310409893	Gorchs		locality	1
+7226	1209719579	Zenon Videla Dorna		locality	1
+7240	421195755	Lobos		locality	44
+7245	421174455	Roque Pérez		locality	15
+7260	421195355	Saladillo		locality	16
+7263	1344271411	Emma		locality	1
+7265	1242878191	Del Carril		locality	7
+7265	1327347553	Del Valle		locality	2
+7300	421204619	Azul		locality	2400
+7300	421172035	Olavarría		locality	4
+7303	1226060491	Tapalque		locality	22
+7303	421195133	San Bernardo		locality	2
+7311	421195979	Chillar		locality	1
+7318	1226446631	Hinojo		locality	1
+7400	421172801	Olavarría		locality	6142
+7401	421169365	Sierra Chica		locality	1
+7403	1326948017	Loma Negra		locality	1
+7403	421166749	Sierras Bayas		locality	1
+7408	1243468509	La Colina		locality	2
 7414	421196045	Laprida		locality	24
 7500	421170331	Tres Arroyos		locality	12
+7501	1259487323	Indio Rico		locality	7
+7503	1209519539	Orense		locality	8
 7505	421195983	Claromecó		locality	18
+7505	1226351973	San Francisco de Bellocq		locality	6
+7509	1242681659	Oriente		locality	9
 7511	421185941	Reta		locality	13
-7513	421200591	Adolfo Gonzáles Chaves		locality	1
-7530	421195339	Coronel Pringles		locality	3307
+7511	1360198559	Balneario Reta		locality	8
+7511	1209323653	Copetonas		locality	8
+7513	421200591	Adolfo Gonzáles Chaves		locality	24
+7515	1243085379	De la Garma		locality	1
+7521	421196335	San Cayetano		locality	17
+7530	421195339	Coronel Pringles		locality	3308
 7540	421204621	Coronel Suárez		locality	4
 7540	421166717	Villa Arcadia		locality	2
-7600	421169051	Mar del Plata		locality	107
+7545	1360102609	Huanguelen		locality	12
+7600	421169051	Mar del Plata		locality	126
 7600	421172681	General Pueyrredón		locality	1
+7601	421186249	Sierra de los Padres		locality	4
 7602	421188245	Mar del Plata		locality	1
 7603	421200597	Comandante Nicanor Otamendi		locality	1
+7605	1326834173	Mechongue		locality	2
 7606	421169051	Mar del Plata		locality	2
-7609	421186897	Santa Clara del Mar		locality	4
+7607	1276887923	Miramar		locality	15
+7609	421186897	Santa Clara del Mar		locality	26
 7612	421169051	Mar del Plata		locality	2
-7620	421195105	Balcarce		locality	49
+7612	1210030617	Vivorata		locality	2
+7620	421195105	Balcarce		locality	50
 7620	421188367	Los Pinos		locality	1
-7630	421169047	Necochea		locality	18
+7630	421169047	Necochea		locality	23
+7630	421171279	Quequén		locality	2
 7631	421171279	Quequén		locality	2
-7635	421198329	Lobería		locality	2
-8000	421193467	Bahía Blanca		locality	168
+7635	421198329	Lobería		locality	11
+7637	1277088115	La Dulce		locality	9
+7637	1226460299	Nicanor Olivera		locality	1
+8000	421193467	Bahía Blanca		locality	222
 8000	421195339	Coronel Pringles		locality	1
-8103	421202949	Ingeniero White		locality	3
+8103	421202949	Ingeniero White		locality	4
+8105	421195213	General Daniel Cerri		locality	17
 8109	421193965	Punta Alta		locality	42
-8132	421196195	Médanos		locality	2
-8138	1141909097	Río Colorado		locality	10
-8148	1141906733	Pedro Luro		locality	5
-8150	421198955	Coronel Dorrego		locality	22
-8168	421197023	Sierra de La Ventana		locality	1
-8170	421175459	Pigüé		locality	4
-8174	421174705	Saavedra		locality	22
-8180	421196029	Puan		locality	25
-8183	421195049	Darregueira		locality	19
+8109	1343279627	Balneario Pehuen-Co		locality	1
+8117	1193141239	Chasico		locality	3
+8118	1259797805	Cabildo		locality	12
+8126	1209632811	Villa Iris		locality	9
+8129	1343862407	Felipe Sola		locality	6
+8129	1276457875	Diecisiete de Agosto		locality	4
+8132	421196195	Médanos		locality	13
+8134	1260098093	Argerich		locality	1
+8136	1293700461	Algarrobo		locality	8
+8138	1293567351	Rio Colorado		locality	12
+8138	1209196469	Rio Colorado		locality	8
+8142	1209819505	Hilario Ascasubi		locality	13
+8142	1243558569	Juan A. Pradere		locality	8
+8148	1141906733	Pedro Luro		locality	15
+8150	421198955	Coronel Dorrego		locality	23
+8153	1309721621	Monte Hermoso		locality	5
+8160	421185457	Villa Ventana		locality	37
+8168	421197023	Sierra de La Ventana		locality	3
+8170	421175459	Pigüé		locality	26
+8171	1226650281	Espartillar		locality	6
+8172	1243571851	Arroyo Corto		locality	13
+8174	421174705	Saavedra		locality	23
+8175	1327245691	Goyena		locality	11
+8180	421196029	Puan		locality	49
+8183	1141908065	Darregueira		locality	20
+8185	1209519463	Colonia San Miguel Arcangel		locality	5
+8185	1276984513	Esteban Agustin Gascon		locality	1
 8187	421175275	Bordenave		locality	10
 8200	890445127	General Acha		locality	6
 8201	421168269	Veinticinco de Mayo		locality	3
+8202	1209192593	Casa de Piedra		locality	3
 8204	421198945	Bernasconi		locality	10
 8206	421195327	General San Martín		locality	1
-8208	421195081	Jacinto Aráuz		locality	113
+8208	421195081	Jacinto Aráuz		locality	114
+8214	1326718679	Colonia Santa Maria		locality	3
 8232	421172809	General Roca		locality	1
-8300	421193995	Neuquén		locality	181
-8300LSB	421193995	Neuquén		locality	1
-8303	421195343	Cinco Saltos		locality	1925
+8300	421193995	Neuquén		locality	236
+8303	421195343	Cinco Saltos		locality	1926
 8305	421176565	Barda del Medio		locality	8
 8307	890435509	Catriel		locality	7
-8309	421178995	Centenario		locality	10
+8307	1326808565	Puelen		locality	1
+8309	421178995	Centenario		locality	12
 8309	421193995	Neuquén		locality	1
 8312	421172051	Añelo		locality	1
 8313	421173587	Picún Leufú		locality	43
-8315	421205465	Piedra del Águila		locality	2
+8315	421205465	Piedra del Águila		locality	3
 8316	421186349	Plottier		locality	7
 8318	890443123	Plaza Huincul		locality	15
+8319	1243236893	Rincon de Los Sauces		locality	280
 8320	890422939	Senillosa		locality	1
 8322	1141906719	Cutral Có		locality	19
-8322	1125837431	Cutral Có		locality	2
-8324	1125907463	Cipolletti		locality	17
+8324	1125907463	Cipolletti		locality	110
 8324	421178267	General Fernández Oro		locality	1
 8325	421178267	General Fernández Oro		locality	5
 8326	421175535	Cervantes		locality	181
 8326	421166741	Chichinales		locality	51
 8327	421173563	Mainqué		locality	1
 8328	421167943	Allen		locality	12
-8332	421172809	General Roca		locality	56
-8336	421193035	Villa Regina		locality	26
+8332	421172809	General Roca		locality	62
+8334	421196057	Ingeniero Luis A. Huergo		locality	4
+8336	421193035	Villa Regina		locality	25
 8336	421166741	Chichinales		locality	1
-8340	421192281	Zapala		locality	9
+8340	1141908757	Zapala		locality	9
+8341	1344031067	Las Coloradas		locality	1
 8345	421176597	Aluminé		locality	4
-8347	421183625	Las Lajas		locality	14
+8347	1141908053	Las Lajas		locality	14
 8347	1126016557	Las Lajitas		locality	2
 8351	421176563	Luis Beltrán		locality	1
-8353	421199995	Chos Malal		locality	7
+8353	421199995	Chos Malal		locality	8
 8353	890434675	Buta Ranquil		locality	3
-8360	421178989	Choele Choel		locality	412
+8353	1276843285	Huinganco		locality	2
+8360	421178989	Choele Choel		locality	413
 8361	421176563	Luis Beltrán		locality	1
-8363	421195567	Lamarque		locality	743
+8363	421195567	Lamarque		locality	735
 8364	890440231	Chimpay		locality	25
 8368	421173557	Coronel Belisle		locality	6
-8370	421193963	San Martín de los Andes		locality	13
+8370	421193963	San Martín de los Andes		locality	16
 8371	421204625	Junín de los Andes		locality	7
-8400	890437593	San Carlos de Bariloche		locality	85
+8400	890437593	San Carlos de Bariloche		locality	123
 8400	421187161	Villa Cerro Catedral		locality	1
+8400	421171547	Villa Los Coihues		locality	1
 8401	421178023	Villa Mascardi		locality	3
 8402	421185459	Dina Huapi		locality	2
 8407	421174833	Villa La Angostura		locality	14
+8412	1225926031	Pichi Leufu		locality	1
 8412	421176551	Pilcaniyeu		locality	1
-8416	1141906739	Comallo		locality	6
+8415	1293866157	Rio Chico		locality	11
+8416	1125868641	Comallo		locality	6
 8418	421168279	Ingeniero Jacobacci		locality	1
 8424	890439985	Los Menucos		locality	2
-8430	890429469	El Bolsón		locality	8
+8430	890429469	El Bolsón		locality	9
 8430	1141908757	Zapala		locality	2
-8431	421171589	Lago Puelo		locality	4
-8500	421186917	Viedma		locality	16
-8500	1141908761	Viedma		locality	1
-8504	421204759	Carmen de Patagones		locality	9
-8520	421172339	San Antonio Oeste		locality	8
+8431	1343394039	Lago Puelo (pueblo)		locality	4
+8500	421186917	Viedma		locality	526
+8500	421204759	Carmen de Patagones		locality	1
+8501	421174443	Balneario El Cóndor		locality	2
+8501	1260163223	La Loberia		locality	1
+8503	890433769	General Conesa		locality	1
+8504	421204759	Carmen de Patagones		locality	342
+8504	421186917	Viedma		locality	2
+8506	1209629401	San Blas		locality	12
+8508	1343476619	Stroeder		locality	8
+8512	421175273	Villalonga		locality	11
+8512	421204759	Carmen de Patagones		locality	1
+8520	421172339	San Antonio Oeste		locality	13
+8521	421204551	Las Grutas		locality	3829
+8521	421191641	San Antonio Este		locality	32
+8521	1326800197	Arroyo Los Berros		locality	2
 8521	421186015	Balneario las Grutas		locality	1
-8521	421204551	Las Grutas		locality	1
 8532	421196023	Sierra Grande		locality	2
+8534	1276745437	Ministro Ramos Mexia		locality	13
+8534	1209296631	Aguada Cecilio		locality	2
 8536	421196011	Valcheta		locality	13
-9000	421174025	Comodoro Rivadavia		locality	64
-9001	421175189	Rada Tilly		locality	1142
+9000	421174025	Comodoro Rivadavia		locality	68
+9001	421175189	Rada Tilly		locality	1156
 9011	421197531	Caleta Olivia		locality	8860
-9015	421186539	Pico Truncado		locality	4192
+9013	1242947387	Canadon Seco		locality	372
+9015	421186539	Pico Truncado		locality	4179
 9017	421205349	Las Heras		locality	3459
-9020	421168273	Sarmiento		locality	1308
+9020	1141909095	Sarmiento		locality	1308
 9030	421192999	Río Mayo		locality	556
 9040	890429471	Perito Moreno		locality	1337
 9041	421195307	Los Antiguos		locality	371
-9050	1141909393	Puerto Deseado		locality	1312
-9100	421197583	Trelew		locality	93
-9103	890440195	Rawson		locality	34
+9050	890437223	Puerto Deseado		locality	1317
+9053	1259347645	Jaramillo		locality	1
+9100	421197583	Trelew		locality	101
+9101	890440195	Rawson		locality	1
+9103	890440195	Rawson		locality	33
 9103	421204629	Playa Unión		locality	4
-9105	421177675	Gaiman		locality	11
+9105	421177675	Gaiman		locality	12
 9111	421196379	Camarones		locality	2
-9120	1141906713	Puerto Madryn		locality	27
-9200	1141908755	Esquel		locality	25
+9120	1141906713	Puerto Madryn		locality	29
+9120	421196241	Puerto Pirámides		locality	1
+9121	421196241	Puerto Pirámides		locality	1
+9200	1141908755	Esquel		locality	26
 9200	1141906713	Puerto Madryn		locality	1
+9201	1209215101	Tecka		locality	22
 9203	421197803	Trevelin		locality	2
-9211	421171589	Lago Puelo		locality	5
+9207	1226754031	Paso de Indios		locality	5
+9210	1141906713	Puerto Madryn		locality	1
+9211	1343394039	Lago Puelo (pueblo)		locality	8
 9211	421195775	Epuyén		locality	3
 9225	890439917	Río Pico		locality	1
-9300	890453021	Puerto Santa Cruz		locality	841
-9301	890437573	El Chaltén		locality	4
+9300	890453021	Puerto Santa Cruz		locality	843
+9301	890437573	El Chaltén		locality	9
 9301	421205325	Tres Lagos		locality	1
-9303	421197377	Comandante Luis Piedrabuena		locality	1
-9310	421204627	Puerto San Julián		locality	1336
-9311	1141906701	Gobernador Gregores		locality	489
-9400	890445117	Río Gallegos		locality	40
-9405	421169169	El Calafate		locality	14
-9407	421172503	Río Turbio		locality	6
-9410	890435489	Ushuaia		locality	86
-9420	421196135	Río Grande		locality	1085
+9303	421197377	Comandante Luis Piedrabuena		locality	2
+9310	421204627	Puerto San Julián		locality	1339
+9311	1141906701	Gobernador Gregores		locality	491
+9400	421185945	Río Gallegos		locality	40
+9405	421169169	El Calafate		locality	33
+9407	1276844655	Río Turbio		locality	6
+9410	890435489	Ushuaia		locality	99
+9412	1276504927	Tolhuin		locality	1
+9420	421196135	Río Grande		locality	1097
+9420	1141909093	Río Grande		locality	7
 15002	421191539	Ramos Mejía		locality	1
-28069	421197553	Lima		locality	6
+28069	421197553	Lima		locality	5
 51111	421185865	Río Ceballos		locality	1
 52125	890453023	Monte Cristo		locality	1
+60000	1125868291	San Félix		locality	197
+60100	1225964263	Almiron		locality	1
 63763	890440003	Los Juríes		locality	1
+70000	421201559	San Pedro		locality	6
+70000	421191533	Caseros		locality	2
 81701	421175459	Pigüé		locality	2
 83003	421193995	Neuquén		locality	1
 3300123992	421186911	Posadas		locality	6

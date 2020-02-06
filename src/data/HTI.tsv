@@ -1,42 +1,60 @@
-ht4110	1125781453	Gonaïves		locality	37
+ht 4110	1141906967	Gonaïves		locality	37
+HT4110	1343757043	L'Estere		locality	8
 HT6110	421176527	Port-au-Prince		locality	7
-HT4310	890445085	Saint-Marc		locality	4
 HT1113	421169155	Cap-Haïtien		locality	3
+HT4310	890445085	Saint-Marc		locality	3
 HT6114	421176527	Port-au-Prince		locality	2
+HT6142	421168265	Pétion-Ville		locality	2
 WI	890445103	Cayes-Jacmel		locality	2
 centre ville	890438885	Gros-Morne		locality	2
 grand rue	890438881	Léogâne		locality	2
 petit bourg	421201725	Port-Margot		locality	2
 seguin	890438875	Marigot		locality	2
+00000	421176527	Port-au-Prince		locality	1
 Bas Bourg	421201727	Jean-Rabel		locality	1
+Bion	1276659223	Chansolme		locality	1
+Bourg de Cansolme	1276659223	Chansolme		locality	1
 Debauche	421197797	Les Anglais		locality	1
+HT 61 42	1276529127	Tabarre		locality	1
 HT-6220	421197791	Petit-Goâve		locality	1
 HT6113	421176527	Port-au-Prince		locality	1
 HT6120	421179835	Delmas		locality	1
 HT6120	421168265	Pétion-Ville		locality	1
 HT6123	421176527	Port-au-Prince		locality	1
 HT6135	421178115	Carrefour		locality	1
+HT6140	1276529127	Tabarre		locality	1
 HT6140	421168265	Pétion-Ville		locality	1
 HT6141	421168265	Pétion-Ville		locality	1
 Lagon	421197797	Les Anglais		locality	1
 Mangoze	421176525	Tiburon		locality	1
+Morne aux peres	1293895113	Port-de-Paix		locality	1
 Panamericaine	421176525	Tiburon		locality	1
 Raboto	1125781453	Gonaïves		locality	1
+Richard Bossar	1293895113	Port-de-Paix		locality	1
 WI	890445091	Jacmel		locality	1
+bourg de chansolme	1276659223	Chansolme		locality	1
+bp98	421176527	Port-au-Prince		locality	1
 callier	890438875	Marigot		locality	1
+cantave2	1276529127	Tabarre		locality	1
 charlemagne	421197791	Petit-Goâve		locality	1
 decira	890438875	Marigot		locality	1
 leger	421176525	Tiburon		locality	1
 macary	890438875	Marigot		locality	1
+paulin lacorne	1293895113	Port-de-Paix		locality	1
 rue divigno	421179611	Anse-Rouge		locality	1
 rue traversiere	421197797	Les Anglais		locality	1
 sarthe	421176527	Port-au-Prince		locality	1
 zimeur	890438875	Marigot		locality	1
-5em section Delisse,Michel	890430973	Arcahaie		locality	1
-1110	421169155	Cap-Haïtien		locality	20
+3er section Aubert	1293895113	Port-de-Paix		locality	1
+3er section aubert	1293895113	Port-de-Paix		locality	1
+5em section Delisse,Michel	1209997631	Arcahaie		locality	1
+509	1243351637	Sibert		locality	1
+1100	421169155	Cap-Haïtien		locality	1
+1110	421169155	Cap-Haïtien		locality	25
+1113	421169155	Cap-Haïtien		locality	1
 4110ht	1141906967	Gonaïves		locality	12
 4110ht_beton_centre ville	1125781453	Gonaïves		locality	7
-4110ht	421179607	Dessalines		locality	5
+4110ht	1259764453	Marchand		locality	5
 4110ht (beton,tenter)	421179611	Anse-Rouge		locality	4
 4110ht (beton,atraille)	421179611	Anse-Rouge		locality	3
 4110ht (beton,arbre)	421179611	Anse-Rouge		locality	2
@@ -46,7 +64,11 @@ zimeur	890438875	Marigot		locality	1
 4110ht (bois,tenter)	421179611	Anse-Rouge		locality	1
 4110ht (bois,yaya)	421179611	Anse-Rouge		locality	1
 6110	421176527	Port-au-Prince		locality	1
+6113	421176527	Port-au-Prince		locality	1
 6120	421168265	Pétion-Ville		locality	3
 6123	421179835	Delmas		locality	2
-6140	421168265	Pétion-Ville		locality	2
+6140	421168265	Pétion-Ville		locality	3
 6150	421197799	Kenscoff		locality	1
+6160HT	421198253	Gressier		locality	1
+6420	1209997631	Arcahaie		locality	1
+8110	890432565	Camp-Perrin		locality	1

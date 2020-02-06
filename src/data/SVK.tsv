@@ -1,124 +1,248 @@
-X	101752053	Banska Bystrica		locality	6
+X	101752053	Banska Bystrica		locality	4
 9	1108800123	Bratislava		locality	1
+010 07	101752063	Zilina		locality	191
+010 04	1242958687	Brezany		locality	2
 011 77	101752063	Zilina		locality	1
 011 79	101752063	Zilina		locality	1
-013 15	101843931	Rajecká Lesná		locality	2
+013 01	101832725	Teplička nad Váhom		locality	4
+013 24	101860165	Strečno		locality	2
+013 32	101780381	Dlhé Pole		locality	2
+013 02	1259603287	Kotrcina Lucka		locality	1
 013 03	101780393	Krasňany		locality	1
+013 04	1209213925	Straze pod Tatrami		locality	1
 013 05	1125990593	Lysica		locality	1
 013 13	1125774267	Konská		locality	1
+013 13	1344242537	Kunerad		locality	1
+013 15	1343393861	Fackov		locality	1
 013 18	101780385	Lietava		locality	1
 013 18	1126006179	Podhorie		locality	1
+013 19	1293679797	Jasenove		locality	1
+013 19	1277067395	Kl'ace		locality	1
 013 31	101860161	Divina		locality	1
+013 31	1276212235	Divinka		locality	1
+013 41	1226127971	Hricovske Podhradie		locality	1
 013 41	1125860993	Paština Závada		locality	1
 013 51	101843923	Predmier		locality	1
 013 53	101843921	Petrovice		locality	1
 013 54	101843927	Kolárovice		locality	1
 013 55	101843929	Štiavnik		locality	1
+013 56	1260179021	Hvozdnica		locality	1
 013 61	101780375	Kotešová		locality	1
 013 62	101843925	Veľké Rovné		locality	1
-017 07	101780349	Povazska Bystrica		locality	3
+015 01	1343858847	Mala Cierna		locality	1
+015 01	1226239525	Vel'ka Cierna		locality	1
+015 01	1226364827	Durcina		locality	1
 017 01	101780341	Sverepec		locality	1
 017 45	101780349	Povazska Bystrica		locality	1
+018 55	1125888947	Tuchyňa		locality	2
 018 01	101843907	Udiča		locality	1
 018 02	101843909	Dolná Mariková		locality	1
+018 02	1276156221	Hatne		locality	1
+018 02	1193276287	Kliestina		locality	1
 018 13	101780867	Papradno		locality	1
+018 15	1344080777	Bodina		locality	1
 018 15	101780339	Prečín		locality	1
 018 16	1125774377	Malé Lednice		locality	1
 018 17	1125960701	Jasenica		locality	1
+018 21	1309906331	Dolny Lieskov		locality	1
+018 21	1326636041	Horny Lieskov		locality	1
+018 21	1343785937	Slopna		locality	1
 018 31	101781773	Košecké Podhradie		locality	1
+018 32	1259789443	Zliechov		locality	1
+018 52	1259690225	Dulov		locality	1
+018 52	1209914697	Krivoklat		locality	1
+018 54	1209949629	Slavnica		locality	1
+018 56	1343850617	Cerveny Kamen		locality	1
+018 57	1276335017	Mikusovce		locality	1
+018 61	1309799279	Visolaje		locality	1
+020 63	1242578469	Lednica		locality	2
+020 51	1226670191	Dohnany		locality	1
+020 53	1193137571	Luky		locality	1
 020 54	101780333	Lysá pod Makytou		locality	1
 020 71	1125774397	Nimnica		locality	1
-022 01	101842015	Cadca		locality	8
+022 01	1242859773	Horelica		locality	11
+022 16	101842015	Cadca		locality	3
+022 03	101842015	Cadca		locality	1
+022 47	101842015	Cadca		locality	1
+023 02	101842019	Krásno nad Kysucou		locality	94
+023 01	101847801	Oščadnica		locality	7
 023 45	101860169	Horný Vadičov		locality	5
-023 01	101847801	Oščadnica		locality	3
-023 33	101860167	Povina		locality	2
+023 54	101842013	Turzovka		locality	4
+023 31	101780413	Rudina		locality	3
+023 33	101860167	Povina		locality	3
+023 14	101842001	Skalité		locality	2
+023 35	101875837	Ochodnica		locality	2
+023 56	101843969	Makov		locality	2
 023 57	101842009	Podvysoká		locality	2
-023 02	101842019	Krásno nad Kysucou		locality	1
+023 04	1209938817	Klubina		locality	1
+023 04	1292991575	Radostka		locality	1
 023 05	101781817	Nová Bystrica		locality	1
+023 06	1259774151	Dunajov		locality	1
 023 12	101842003	Svrčinovec		locality	1
 023 21	101826667	Korňa		locality	1
+023 22	1276892193	Klokocov		locality	1
+023 31	1327119897	Rudinska		locality	1
 023 34	101780411	Kysucký Lieskovec		locality	1
+023 34	1293674545	Lodno		locality	1
+023 45	1276678257	Dolny Vadicov		locality	1
+023 51	101842005	Raková		locality	1
 023 52	101841999	Olešná		locality	1
-023 56	101843969	Makov		locality	1
 023 56	101875841	Čierne		locality	1
 026 01	1126045949	Jasenová		locality	1
+026 01	1209210691	Medzibrodie nad Oravou		locality	1
 026 25	101780409	Dolný Kubín		locality	1
-027 44	101780549	Tvrdošín		locality	20
-027 43	101780551	Nižná		locality	6
-027 32	101832749	Zuberec		locality	5
+027 43	101780551	Nižná		locality	7
+027 55	1310425597	Kriva		locality	5
 027 42	101780553	Podbiel		locality	3
+027 12	101780561	Vitanová		locality	2
+027 42	1226561921	Oravsky Biely Potok		locality	2
+027 12	1343352271	Cimhova		locality	1
+027 32	1343659591	Male Borove		locality	1
 027 53	101780407	Istebné		locality	1
 027 55	101843941	Chlebnice		locality	1
-028 01	101780871	Trstená		locality	5
+028 01	101780871	Trstená		locality	42
 029 44	101847811	Rabča		locality	11
-029 51	101860181	Lokca		locality	5
+029 52	101780597	Hruštín		locality	8
+029 51	101860181	Lokca		locality	7
 029 47	101847805	Oravská Polhora		locality	4
-029 52	101780597	Hruštín		locality	2
 029 54	1125894975	Krušetnica		locality	2
 029 01	101847829	Vavrečka		locality	1
+029 51	1326915731	t'apesovo		locality	1
 029 52	101843987	Babín		locality	1
 029 55	101826671	Novoť		locality	1
 029 56	101847827	Zákamenné		locality	1
 029 62	101847817	Oravské Veselé		locality	1
+029 63	1276641267	Benadovo		locality	1
 029 64	101847823	Oravská Jasenica		locality	1
+031 01	1125800263	Liptovský Trnovec		locality	2
 031 80	101780369	Liptovsky Mikulas		locality	2
 031 01	1125883159	Demänová		locality	1
 031 04	1126016857	Veterná Poruba		locality	1
-32-310	1125797137	Zálesie		locality	126
-032 03	1125830753	Liptovský Ján		locality	4
+032 21	101780351	Bobrovec		locality	3
 032 03	1125880877	Uhorská Ves		locality	1
-032 04	1125774267	Konská		locality	1
+032 04	1259876501	Benadikova		locality	1
+032 04	1326548863	Jakubovany		locality	1
+032 04	1209801003	Konská		locality	1
 032 04	1125774343	Liptovský Ondrej		locality	1
 032 05	1125793263	Smrečany		locality	1
+032 05	1242988579	Ziar		locality	1
 032 11	1125830699	Lazisko		locality	1
+032 11	1276141911	Svätý Kríž		locality	1
+032 12	1310597223	Dubrava		locality	1
 032 14	101843911	Ľubeľa		locality	1
 032 21	1125880511	Jalovec		locality	1
+032 23	1326849153	Izipovce		locality	1
+032 23	1226558685	Kvacany		locality	1
+032 23	1360296033	Liptovska Anna		locality	1
+032 23	1327344115	Liptovske Matiasovce		locality	1
 032 31	101780365	Hybe		locality	1
 032 32	101780359	Východná		locality	1
 032 34	1125830807	Malužiná		locality	1
 032 34	1126016737	Nižná Boca		locality	1
+032 34	1343481143	Vysna Boca		locality	1
+032 42	1360082647	Vavrisovo		locality	1
 032 44	101843913	Liptovská Kokava		locality	1
+32-824	1226356555	Dolny		locality	1
 033 01	101780355	Jamník		locality	1
 033 01	1126041245	Liptovská Porúbka		locality	1
 033 01	101843915	Liptovský Peter		locality	1
-34-424	101780551	Nižná		locality	56
+34-324	1343282029	Ostre		locality	147
+34-424	101780551	Nižná		locality	58
+034 83	1126002993	Liptovská Teplá		locality	3
 034 04	101832721	Ruzomberok		locality	2
 034 06	101832721	Ruzomberok		locality	2
-34-730	101780551	Nižná		locality	2
+034 71	1243249147	Ludrova		locality	2
+034 01	1326515501	Stiavnicka		locality	1
 034 72	101780315	Liptovská Lúžna		locality	1
 034 73	101780313	Liptovská Osada		locality	1
 034 74	101782945	Liptovské Revúce		locality	1
 034 82	1126009357	Bešeňová		locality	1
 034 83	1125774141	Ivachnová		locality	1
+034 83	1326834177	Tepla		locality	1
+034 83	1225841975	Liptovsky Michal		locality	1
+034 83	1259605595	Potok		locality	1
 034 92	101843899	Stankovany		locality	1
 034 95	101832719	Likavka		locality	1
 034 96	101780303	Komjatná		locality	1
-038 61	101754907	Vrútky		locality	36
-38-232	1125880719	Poľany		locality	1
-38-307	1125985659	Ruská		locality	1
-040 15	101752055	Kosice		locality	50
+034 96	1277061965	Valaska Dubova		locality	1
+34-530	1260187203	Potok		locality	1
+036 01	101752061	Martin		locality	77
+038 61	101754907	Vrútky		locality	37
+038 47	1259402649	Sklene		locality	4
+038 31	1260203439	Vricko		locality	2
+038 43	101780317	Kláštor pod Znievom		locality	2
+038 12	1310096105	Necpaly		locality	1
+038 22	1276970155	Briestie		locality	1
+038 22	1326823487	Jasenovo		locality	1
+038 22	1292925937	Rudno		locality	1
+038 23	1259478679	Dubove		locality	1
+038 44	1259402675	Blazovce		locality	1
+038 44	1310290653	Jazernica		locality	1
+038 44	1310091087	Moskovec		locality	1
+038 45	1360276141	Bodorova		locality	1
+038 45	1276463813	Ivancina		locality	1
+038 45	1259872931	Maly Cepcin		locality	1
+038 45	1225929301	Vel'ky Cepcin		locality	1
+039 01	1310327371	Haj		locality	1
+039 01	1326623393	Raksa		locality	1
+040 01	101752055	Kosice		locality	3799
+040 12	101752055	Kosice		locality	403
+041 21	101752055	Kosice		locality	1
 042 00	101752055	Kosice		locality	1
-43-376	101783983	Kalná nad Hronom		locality	255
+042 24	101752055	Kosice		locality	1
+042 48	101752055	Kosice		locality	1
+43-176	1310319503	Slaska		locality	4
 044 25	101782911	Medzev		locality	897
 044 17	101782925	Slanec		locality	40
 044 23	101782913	Jasov		locality	13
 044 02	1125971693	Háj		locality	8
+044 21	1292914891	Semsa		locality	7
+044 26	1276549229	Stos		locality	6
+044 12	1293791575	Hyl'ov		locality	5
 044 21	1125810665	Nováčany		locality	5
+044 23	1276229577	Rudnik		locality	5
+044 12	1276885259	Vysny Klatov		locality	4
+044 25	1193277437	Vysny Medzev		locality	4
 044 55	101782839	Veľká Ida		locality	4
-044 20	1125816497	Malá Ida		locality	2
+044 71	1259384501	Panovce		locality	4
+044 02	1277076107	Hacava		locality	3
+044 61	1243069593	Zlata Idka		locality	3
+044 21	1276774945	Hodkovce		locality	2
+044 16	1259695405	Bohdanovce		locality	1
+044 54	101752055	Kosice		locality	1
 045 01	101782923	Moldava nad Bodvou		locality	17
+045 01	1343263741	Debrad'		locality	2
 045 17	101782923	Moldava nad Bodvou		locality	1
-048 01	101782901	Rožňava		locality	20
+048 01	1310312559	Rudna		locality	1
+049 32	101782889	Štítnik		locality	18
 049 11	101782895	Plešivec		locality	3
 049 12	101782897	Gemerská Hôrka		locality	3
 049 01	101780221	Muráň		locality	1
+049 12	1276126081	Coltovo		locality	1
 049 18	101843817	Lubeník		locality	1
-049 18	101783963	Lehota		locality	1
+049 18	1310409797	Revucka Lehota		locality	1
+049 18	1293102805	Turcok		locality	1
+049 23	1209717599	Kobeliarovo		locality	1
+049 24	1343562783	Gocovo		locality	1
 049 25	101843871	Dobšiná		locality	1
+049 26	1327335515	Rejdova		locality	1
+049 26	1277076337	Vysna Slana		locality	1
+049 34	1343360919	Markuska		locality	1
+049 35	1326837763	Ochtina		locality	1
 049 36	101782883	Slavošovce		locality	1
+049 42	1226657567	Borka		locality	1
+049 42	1309714049	Drnava		locality	1
+049 42	1209622835	Kovacova		locality	1
+049 42	1344266863	Lucka		locality	1
+049 43	1209717627	Hrusov		locality	1
+049 43	1327031881	Silicka Jablonica		locality	1
 049 44	101843873	Hrhov		locality	1
 049 45	1125787873	Krásnohorská Dlhá Lúka		locality	1
-052 01	101832715	Spišská Nová Ves		locality	3792
+049 55	1260087575	Kecovo		locality	1
+049 61	1277088339	Rakos		locality	1
+049 62	1293893119	Kamenany		locality	1
+050 01	1327235503	Mokra Luka		locality	1
+052 01	101832715	Spišská Nová Ves		locality	3794
 052 05	101832715	Spišská Nová Ves		locality	167
 052 01	101780281	Teplička		locality	1
 053 11	101832717	Smižany		locality	1765
@@ -126,87 +250,221 @@ X	101752053	Banska Bystrica		locality	6
 053 42	101780283	Krompachy		locality	5
 053 04	101780373	Spišské Podhradie		locality	3
 053 02	1126011373	Domaňovce		locality	1
+053 14	1242600389	Dravce		locality	1
+053 22	1360207513	Danisovce		locality	1
 053 22	101780277	Jamník		locality	1
+053 22	1259795539	Odorin		locality	1
+053 23	1226551643	Porac		locality	1
 053 23	101780259	Rudňany		locality	1
 053 40	101780261	Slovinky		locality	1
+053 51	1226447291	Hrisovce		locality	1
 053 51	101875829	Kluknava		locality	1
-053 61	1126016837	Spišské Vlachy		locality	1
+053 60	1326629251	Slatvina		locality	1
+053 61	101780275	Spišské Vlachy		locality	1
 053 61	1125773517	Vojkovce		locality	1
+053 63	1225849677	Hincovce		locality	1
 053 63	101843893	Spišský Hrušov		locality	1
 054 01	1125991509	Kurimany		locality	1
 055 66	101782941	Smolník		locality	14
 055 01	101780255	Margecany		locality	1
 055 64	101780251	Mníšek nad Hnilcom		locality	1
-058 01	101752069	Poprad		locality	35
-059 60	101860171	Vysoké Tatry		locality	116
-059 54	101860171	Vysoké Tatry		locality	14
+055 65	1242875901	Smolnicka Huta		locality	1
+059 60	101860171	Vysoké Tatry		locality	136
+059 52	1126046213	Stará Lesná		locality	97
+059 52	101843975	Veľká Lomnica		locality	40
+059 54	101860171	Vysoké Tatry		locality	15
+059 21	1126055719	Svit		locality	9
 059 16	101780521	Hranovnica		locality	4
+059 42	1125774103	Gerlachov		locality	4
 059 14	101780527	Spišský Štiavnik		locality	3
+059 12	101843965	Hôrka		locality	2
 059 19	101780517	Vikartovce		locality	2
+059 36	1293588467	Mengusovce		locality	2
 059 73	1126024187	Žakovce		locality	2
 059 01	101780573	Krížová Ves		locality	1
 059 02	101780567	Slovenská Ves		locality	1
+059 02	1209319413	Vojnany		locality	1
+059 02	1293098081	Vyborna		locality	1
+059 04	1259902565	Rel'ov		locality	1
+059 04	1343962975	Spisske Hanusovce		locality	1
 059 06	1126049801	Červený Kláštor		locality	1
+059 12	1209009027	Svabovce		locality	1
+059 17	1310511891	Vernar		locality	1
+059 51	1309711277	Matejovce		locality	1
+059 71	1344056107	Tvarozna		locality	1
+059 71	1344180027	Vlkovce		locality	1
+059 72	1209514557	Abrahamovce		locality	1
+059 72	1293005423	Vlkova		locality	1
 059 72	101780579	Vrbov		locality	1
+059 76	1276799185	Mlynceky		locality	1
 059 76	101780569	Rakúsy		locality	1
+059 76	1259482247	Vel'ka Frankova		locality	1
 059 79	1125902361	Osturňa		locality	1
-062 01	101860171	Vysoké Tatry		locality	9
-064 01	1125967117	Stará Ľubovňa		locality	12
+059 93	1260206281	Busovce		locality	1
+059 94	1343957217	Holumnica		locality	1
+060 01	101832753	Kežmarok		locality	55
+064 01	101780591	Stará Ľubovňa		locality	12
+064 01	1260002405	Chmel'nica		locality	1
 065 03	101780587	Podolínec		locality	3
+065 22	1327338381	Hranicne		locality	2
 065 32	101780583	Kamienka		locality	2
+065 01	1260103107	Forbasy		locality	1
 065 01	101843983	Hniezdne		locality	1
+065 02	1293783229	Nizne Ruzbachy		locality	1
+065 11	1293199679	Kolackov		locality	1
 065 11	1125833029	Nová Ľubovňa		locality	1
 065 12	101780589	Jakubany		locality	1
+065 22	1260282991	Kremna		locality	1
+065 22	1209213843	Mnisek nad Popradom		locality	1
 065 31	1125930183	Jarabina		locality	1
+065 31	1209337355	Litmanova		locality	1
+065 33	1276990973	Stranany		locality	1
 065 33	1126011569	Veľký Lipník		locality	1
-065 34	101860179	Oravská Lesná		locality	1
+065 34	1310600453	Haligovce		locality	1
+065 34	1260187099	Vel'ka Lesna		locality	1
+065 41	1326853339	Vislanka		locality	1
+065 45	1276798953	Hajtovka		locality	1
+065 45	1293691701	Hromos		locality	1
+065 45	1209213901	Sambron		locality	1
+065 48	1326462193	Kyjov		locality	1
 065 48	1126037203	Šarišské Jastrabie		locality	1
 066 01	101780545	Brekov		locality	1
+066 01	1293588493	Brestov		locality	1
 067 81	101780531	Belá nad Cirochou		locality	929
 067 61	101780529	Stakčín		locality	655
 067 77	101780537	Zemplínske Hámre		locality	342
+067 32	1225966921	Vysny Hrusov		locality	2
+067 01	1226441857	Volica		locality	1
+067 11	1226141941	Nizne Ladickovce		locality	1
+067 11	1293223273	l'ubisa		locality	1
+067 12	1243559273	Koskovce		locality	1
+067 16	1293199797	Vyrava		locality	1
+067 23	1209414305	Hrubov		locality	1
+067 23	1360290437	Turcovce		locality	1
+067 23	1293806545	Cernina		locality	1
+067 24	1260289429	Vit'azovce		locality	1
 067 31	101780869	Udavské		locality	1
+067 31	1209913305	Vel'opolie		locality	1
+067 32	1259387587	Adidovce		locality	1
 067 33	101780547	Papín		locality	1
+067 33	1226365321	Zubne		locality	1
+067 35	1293223413	Pcoline		locality	1
+067 45	1310336967	Lieskovec		locality	1
+067 45	1327436403	Topol'ovka		locality	1
+067 52	1259788361	Certizne		locality	1
+067 68	1260192841	Zboj		locality	1
+067 83	1242600473	Hazin nad Cirochou		locality	1
 067 83	101780543	Kamenica nad Cirochou		locality	1
 068 01	101780599	Medzilaborce		locality	2
+068 01	1360189375	Krasny Brod		locality	1
+068 01	1277079139	Rokytovce		locality	1
+069 01	101780539	Snina		locality	182
 071 01	1125844815	Lesné		locality	1
-072 04	101780297	Trhovište		locality	2
+072 64	1293495175	Podhorod'		locality	6
+072 64	1226551317	Benatina		locality	4
+072 31	101843895	Vinne		locality	3
 072 01	101780295	Pozdišovce		locality	1
+072 02	1209107845	Horovce		locality	1
+072 04	1209622681	Banovce nad Ondavou		locality	1
 072 06	101782943	Malčice		locality	1
 072 15	101781787	Budkovce		locality	1
+072 16	1242885641	Hatalov		locality	1
+072 17	1293294443	Slavkovce		locality	1
 072 23	1126058441	Oreské		locality	1
+072 31	1310513225	Trnava pri Laborci		locality	1
 072 32	1126014365	Jovsa		locality	1
+072 34	1226343855	Hazin		locality	1
 072 34	1125816487	Lúčky		locality	1
+072 41	1327443243	Vysna Rybnica		locality	1
 072 53	101781799	Bežovce		locality	1
+072 54	1360192015	Bajany		locality	1
 072 63	1125957325	Choňkovce		locality	1
+076 12	1243466165	Brezina		locality	10
+076 71	1360192125	Cicarovce		locality	1
+076 72	1259795285	Vojany		locality	1
 076 77	1125985659	Ruská		locality	1
 082 71	101780481	Lipany		locality	15
+082 12	1209319189	Lada		locality	6
+082 12	1276154963	Chmel'ovec		locality	2
+082 21	101861297	Veľký Šariš		locality	1
 082 33	101780437	Chminianska Nová Ves		locality	1
 082 36	1126042269	Lipovce		locality	1
-082 38	101780441	Víťaz		locality	1
+082 56	1343666615	Jakubova Vol'a		locality	1
 082 61	101780491	Ražňany		locality	1
 082 63	101780497	Jarovnice		locality	1
+082 66	1209714711	Hubosovce		locality	1
 082 71	101780475	Kamenica		locality	1
+082 71	1226650781	Lucka		locality	1
+082 73	1293291875	Bajerovce		locality	1
 082 74	101780483	Brezovica		locality	1
 083 01	1125854007	Drienica		locality	1
+083 01	1343463407	Jakovany		locality	1
 085 01	101780611	Bardejov		locality	4
 085 01	101780607	Richvald		locality	1
 085 42	101780611	Bardejov		locality	1
+086 01	1125956533	Rokytov		locality	3
+086 22	1327034893	Kobyly		locality	2
+086 41	1226341283	Trocany		locality	2
+086 01	1310203967	Tarnov		locality	1
+086 01	1259902783	Zlate		locality	1
+086 02	1193274737	Gaboltov		locality	1
+086 04	1343963051	Bogliarka		locality	1
 086 04	1125774111	Gerlachov		locality	1
-086 12	101875839	Vranov nad Topľou		locality	1
+086 04	1326735163	Kruzlov		locality	1
+086 04	1226165641	Kurov		locality	1
+086 05	1259482331	Lukov		locality	1
+086 06	1259682937	Hrabske		locality	1
+086 06	1327436389	Snakov		locality	1
+086 11	1326735247	Hrabovec		locality	1
+086 12	1293888497	Dubinne		locality	1
+086 12	1243459267	Kozany		locality	1
+086 12	1343784751	Kucin		locality	1
 086 12	1125774393	Nemcovce		locality	1
+086 21	1225949143	Nizna Vol'a		locality	1
+086 21	1242969965	Vysna Vol'a		locality	1
+086 22	1360084169	Siba		locality	1
+086 33	1243090351	Chmel'ova		locality	1
+086 33	1343358353	Smilno		locality	1
+086 41	1276368797	Abrahamovce		locality	1
+086 41	1226752381	Janovce		locality	1
+086 41	1327356221	Lopuchov		locality	1
+086 42	1226447413	Hertnik		locality	1
+086 42	1276979295	Osikov		locality	1
+086 43	1226539173	Buclovany		locality	1
+086 43	1209419719	Stul'any		locality	1
+086 45	1276476695	Lascov		locality	1
+086 45	1343457769	Marhan		locality	1
+086 46	1276871525	Hankovce		locality	1
+086 46	1327338147	Kochanovce		locality	1
+086 46	1210015803	Ol'savce		locality	1
+087 01	101780617	Giraltovce		locality	2
+087 01	1343857493	Kalniste		locality	1
 087 01	101780619	Kračúnovce		locality	1
-089 01	101780621	Svidník		locality	3
-090 33	101780321	Turany		locality	1
-091 01	101780593	Stropkov		locality	2
-093 01	101875839	Vranov nad Topľou		locality	12
-094 35	101780445	Hlinné		locality	2
+089 01	1343463467	Rakovcik		locality	1
+089 01	101780621	Svidník		locality	1
+090 01	1343266603	Duplin		locality	1
+090 02	1259984675	Kruzlova		locality	1
+090 05	1276798979	Krajna Bystra		locality	1
+090 11	1327034865	Vysny Mirosov		locality	1
+090 33	1326753289	Turany nad Ondavou		locality	1
+090 42	1327139021	Okruhle		locality	1
+090 42	1209614257	Sobos		locality	1
+091 01	101780593	Stropkov		locality	1
+093 01	1327465747	Nizny Krucov		locality	1
+093 03	1209738201	Davidov		locality	1
+094 01	1343862973	Ondavske Matiasovce		locality	1
 094 01	101780449	Tovarné		locality	1
 094 02	1126053011	Slovenská Kajňa		locality	1
-094 07	1125985659	Ruská		locality	1
+094 07	1242970105	Ruska Kajna		locality	1
+094 07	1360284709	Vysna Sitnica		locality	1
 094 09	101780457	Sedliská		locality	1
+094 09	1343684571	Vysny Kazimir		locality	1
 094 22	101780467	Nižný Hrušov		locality	1
+094 31	1292937503	Matiaska		locality	1
+094 31	1209105233	Petrovce		locality	1
+094 31	1193142027	Radvanovce		locality	1
 094 33	101843957	Vyšný Žipov		locality	1
+094 34	1225949189	Cierne nad Topl'ou		locality	1
 094 35	101780447	Soľ		locality	1
 0301	101752061	Martin		locality	1
 810 02	1108800123	Bratislava		locality	19
@@ -216,15 +474,15 @@ X	101752053	Banska Bystrica		locality	6
 810 04	1108800123	Bratislava		locality	1
 810 06	1108800123	Bratislava		locality	1
 810 07	1108800123	Bratislava		locality	1
-811 07	1108800123	Bratislava		locality	175
-811 06	1108800123	Bratislava		locality	165
+811 07	1108800123	Bratislava		locality	190
+811 06	1108800123	Bratislava		locality	168
 811 01	1108800123	Bratislava		locality	136
-811 02	1108800123	Bratislava		locality	103
-811 03	1108800123	Bratislava		locality	74
-811 04	1108800123	Bratislava		locality	67
-811 05	1108800123	Bratislava		locality	55
+811 04	1108800123	Bratislava		locality	71
+811 03	1108800123	Bratislava		locality	68
+811 05	1108800123	Bratislava		locality	57
 811 08	1108800123	Bratislava		locality	54
-811 09	1108800123	Bratislava		locality	13
+811 09	1108800123	Bratislava		locality	31
+811 02	1108800123	Bratislava		locality	24
 811	1108800123	Bratislava		locality	1
 812 19	1108800123	Bratislava		locality	3
 812 31	1108800123	Bratislava		locality	2
@@ -255,10 +513,9 @@ X	101752053	Banska Bystrica		locality	6
 813 70	1108800123	Bratislava		locality	1
 813 71	1108800123	Bratislava		locality	1
 813 86	1108800123	Bratislava		locality	1
-814 99	1108800123	Bratislava		locality	7
 814 79	1108800123	Bratislava		locality	6
 814 17	1108800123	Bratislava		locality	3
-814 25	1108800123	Bratislava		locality	3
+814 25	1108800123	Bratislava		locality	2
 814 36	1108800123	Bratislava		locality	2
 814 41	1108800123	Bratislava		locality	2
 814 21	1108800123	Bratislava		locality	1
@@ -271,12 +528,12 @@ X	101752053	Banska Bystrica		locality	6
 814 69	1108800123	Bratislava		locality	1
 814 75	1108800123	Bratislava		locality	1
 814 91	1108800123	Bratislava		locality	1
-815 39	1108800123	Bratislava		locality	2
 815 11	1108800123	Bratislava		locality	1
 815 13	1108800123	Bratislava		locality	1
 815 18	1108800123	Bratislava		locality	1
 815 61	1108800123	Bratislava		locality	1
 815 63	1108800123	Bratislava		locality	1
+815 72	1108800123	Bratislava		locality	1
 815 74	1108800123	Bratislava		locality	1
 816 25	1108800123	Bratislava		locality	2
 816 43	1108800123	Bratislava		locality	2
@@ -293,15 +550,14 @@ X	101752053	Banska Bystrica		locality	6
 820 09	1108800123	Bratislava		locality	1
 820 11	1108800123	Bratislava		locality	1
 820 12	1108800123	Bratislava		locality	1
-821 09	1108800123	Bratislava		locality	280
+821 09	1108800123	Bratislava		locality	277
 821 05	1108800123	Bratislava		locality	273
-821 08	1108800123	Bratislava		locality	124
-821 06	1108800123	Bratislava		locality	85
-821 03	1108800123	Bratislava		locality	77
-821 04	1108800123	Bratislava		locality	56
+821 08	1108800123	Bratislava		locality	126
+821 03	1108800123	Bratislava		locality	78
+821 04	1108800123	Bratislava		locality	66
+821 07	1108800123	Bratislava		locality	43
 821 01	1108800123	Bratislava		locality	37
-821 02	1108800123	Bratislava		locality	2
-821 07	1108800123	Bratislava		locality	2
+821 02	1108800123	Bratislava		locality	12
 821 45	1108800123	Bratislava		locality	1
 823 07	1108800123	Bratislava		locality	2
 824 45	1108800123	Bratislava		locality	1
@@ -320,14 +576,13 @@ X	101752053	Banska Bystrica		locality	6
 829 75	1108800123	Bratislava		locality	1
 830 07	1108800123	Bratislava		locality	2
 830 08	1108800123	Bratislava		locality	1
-831 07	1108800123	Bratislava		locality	874
-831 02	1108800123	Bratislava		locality	184
+831 02	1108800123	Bratislava		locality	203
+831 04	1108800123	Bratislava		locality	118
 831 03	1108800123	Bratislava		locality	56
-831 06	1108800123	Bratislava		locality	47
-831 04	1108800123	Bratislava		locality	24
-831 05	1108800123	Bratislava		locality	2
+831 06	1259894507	Bratislava - Raca		locality	46
+831 04	1259789801	Mesto		locality	2
+831 05	1259894507	Bratislava - Raca		locality	2
 831 07	101786405	Čierna Voda		locality	1
-832 37	1108800123	Bratislava		locality	2
 832 02	1108800123	Bratislava		locality	1
 832 21	1108800123	Bratislava		locality	1
 832 42	1108800123	Bratislava		locality	1
@@ -339,25 +594,26 @@ X	101752053	Banska Bystrica		locality	6
 833 10	1108800123	Bratislava		locality	2
 833 16	1108800123	Bratislava		locality	1
 833 36	1108800123	Bratislava		locality	1
-833 48	1108800123	Bratislava		locality	1
-834 08	1108800123	Bratislava		locality	2
-835 17	1108800123	Bratislava		locality	1
+834 08	1259894507	Bratislava - Raca		locality	2
+835 17	1259894507	Bratislava - Raca		locality	1
 837 52	1108800123	Bratislava		locality	2
-840 02	1108800123	Bratislava		locality	1
 840 05	1108800123	Bratislava		locality	1
 840 06	1108800123	Bratislava		locality	1
-841 02	1108800123	Bratislava		locality	40
+841 02	1108800123	Bratislava		locality	43
+841 01	1108800123	Bratislava		locality	39
 841 05	1108800123	Bratislava		locality	39
-841 01	1108800123	Bratislava		locality	36
-841 03	1108800123	Bratislava		locality	1
+841 07	1259894507	Bratislava - Raca		locality	28
+841 10	1108800123	Bratislava		locality	20
+841 03	1259894507	Bratislava - Raca		locality	1
 841 69	1108800123	Bratislava		locality	1
 842 16	1108800123	Bratislava		locality	3
-842 48	1108800123	Bratislava		locality	2
+842 29	1108800123	Bratislava		locality	2
 842 11	1108800123	Bratislava		locality	1
 842 15	1108800123	Bratislava		locality	1
+842 48	1108800123	Bratislava		locality	1
 842 62	1108800123	Bratislava		locality	1
-843 10	1108800123	Bratislava		locality	1
-843 57	1108800123	Bratislava		locality	1
+843 10	1259894507	Bratislava - Raca		locality	1
+843 57	1259894507	Bratislava - Raca		locality	1
 844 19	1108800123	Bratislava		locality	2
 844 02	1108800123	Bratislava		locality	1
 844 13	1108800123	Bratislava		locality	1
@@ -366,14 +622,14 @@ X	101752053	Banska Bystrica		locality	6
 850 00	1108800123	Bratislava		locality	2
 850 06	1108800123	Bratislava		locality	1
 850 07	1108800123	Bratislava		locality	1
-851 01	1108800123	Bratislava		locality	371
-851 07	1108800123	Bratislava		locality	259
+851 10	1108800123	Bratislava		locality	743
+851 01	1108800123	Bratislava		locality	392
+851 07	1108800123	Bratislava		locality	261
 851 06	1108800123	Bratislava		locality	179
 851 05	1108800123	Bratislava		locality	141
-851 04	1108800123	Bratislava		locality	126
-851 02	1108800123	Bratislava		locality	114
-851 03	1108800123	Bratislava		locality	65
-851 10	1108800123	Bratislava		locality	2
+851 04	1108800123	Bratislava		locality	125
+851 02	1108800123	Bratislava		locality	115
+851 03	1108800123	Bratislava		locality	66
 852 38	1108800123	Bratislava		locality	6
 852 01	1108800123	Bratislava		locality	1
 852 02	1108800123	Bratislava		locality	1
@@ -382,70 +638,118 @@ X	101752053	Banska Bystrica		locality	6
 852 35	1108800123	Bratislava		locality	1
 852 42	1108800123	Bratislava		locality	1
 852 69	1108800123	Bratislava		locality	1
-900 01	101785209	Modra		locality	1869
-900 81	1125939747	Šenkvice		locality	1540
-900 61	101782733	Gajary		locality	1012
-900 28	1125824387	Ivanka pri Dunaji		locality	935
+900 81	1125939747	Šenkvice		locality	1582
+900 28	1125824387	Ivanka pri Dunaji		locality	936
 900 45	101786369	Malinovo		locality	358
-900 66	101785279	Vysoká pri Morave		locality	4
+900 83	1309816541	Cataj		locality	65
+900 41	101786377	Rovinka		locality	35
+900 46	1126012125	Most pri Bratislave		locality	4
+900 63	101784009	Jakubov		locality	4
+900 44	101786371	Tomášov		locality	3
+900 62	1243464841	Kostoliste		locality	3
 900 67	101785277	Láb		locality	3
 900 88	1125997069	Doľany		locality	3
-900 28	1108800123	Bratislava		locality	1
+900 89	1125778945	Píla		locality	3
+900 89	101785205	Častá		locality	3
+900 52	101784011	Kuchyňa		locality	2
+900 68	1125840075	Plavecký Štvrtok		locality	2
+900 85	101785211	Vištuk		locality	2
+900 01	1293203699	Hlinik		locality	1
+900 28	1259894507	Bratislava - Raca		locality	1
+900 44	1343452589	Vlky		locality	1
 900 53	1126032459	Pernek		locality	1
-900 63	101784009	Jakubov		locality	1
+900 86	1293886783	Jablonec		locality	1
+900 87	1293886783	Jablonec		locality	1
 901 26	101785287	Malacke		locality	1
-902 01	101783949	Pezinok		locality	150
-905 01	101784101	Senica		locality	23
+902 01	101783949	Pezinok		locality	157
+903 01	1243080709	Hruby Sur		locality	2
 906 13	101784111	Brezová pod Bradlom		locality	23
 906 06	101781571	Vrbovce		locality	1
+906 14	1193276027	Bukovec		locality	1
+906 23	1326854591	Rudnik		locality	1
 906 34	1125778267	Prievaly		locality	1
 906 36	1126009815	Plavecké Podhradie		locality	1
 906 37	101782735	Sološnica		locality	1
-908 01	101782775	Kúty		locality	263
-908 43	101782777	Čáry		locality	6
-908 45	101782803	Gbely		locality	5
-908 75	101782729	Studienka		locality	2
+906 38	1225953129	Rohoznik		locality	1
+907 01	1125859045	Stará Myjava		locality	2
+907 01	1225837619	Brestovec		locality	1
+907 01	1326539587	Polianka		locality	1
+908 01	101782775	Kúty		locality	282
+908 41	101784099	Šaštín-Stráže		locality	31
+908 74	1125911261	Malé Leváre		locality	7
+908 48	101781583	Kopčany		locality	5
+908 79	101782779	Borský Svätý Jur		locality	4
 908 76	101784097	Lakšárska Nová Ves		locality	1
 911 01	1125991505	Kubrica		locality	1
+911 07	1259597173	Slovenske Darmoty		locality	1
 911 96	101752059	Trencin		locality	1
-913 21	101843849	Trenčianska Turná		locality	9
-913 07	101843815	Bošáca		locality	3
-913 11	101781735	Trenčianske Stankovce		locality	2
-913 22	101843837	Trenčianske Jastrabie		locality	2
-913 23	1125894935	Dubodiel		locality	2
-913 38	101781731	Soblahov		locality	2
+913 22	101843837	Trenčianske Jastrabie		locality	13
+913 21	101843849	Trenčianska Turná		locality	10
+913 23	1125894935	Dubodiel		locality	6
+913 07	1125978907	Zemianske Podhradie		locality	2
+913 11	1125979669	Veľké Bierovce		locality	2
+913 25	1293006541	Bobot		locality	2
+913 05	1259989607	Adamovske Kochanovce		locality	1
 913 05	1125774151	Ivanovce		locality	1
 913 05	101832697	Melčice-Lieskové		locality	1
+913 05	1310305277	Stvrtok		locality	1
 913 07	1125929281	Trenčianske Bohuslavice		locality	1
 913 08	1125812081	Nová Bošáca		locality	1
+913 21	101781733	Mníchova Lehota		locality	1
+913 24	1293390973	Hornany		locality	1
 913 24	101843839	Svinná		locality	1
+913 24	1259589227	Vel'ka Hradna		locality	1
+913 26	1293214805	Neporadza		locality	1
+913 31	1209512851	Skalka nad Vahom		locality	1
 913 32	1125891199	Hrabovka		locality	1
+913 36	1226342527	Selec		locality	1
+914 01	101781717	Trenčianska Teplá		locality	5
+914 43	1243006177	Dolna Poruba		locality	1
 914 43	101781725	Omšenie		locality	1
 914 51	101781721	Trenčianske Teplice		locality	1
-915 01	101782821	Nové Mesto nad Váhom		locality	2063
+915 01	101782821	Nové Mesto nad Váhom		locality	2065
+916 01	101781613	Stará Turá		locality	13
 916 12	101781609	Lubina		locality	3
+916 13	1343359605	Kostolne		locality	3
+916 33	1125830485	Hrádok		locality	3
+916 37	1126042265	Kálnica		locality	2
 916 42	101781599	Moravské Lieskové		locality	2
+916 13	1309744901	Vad'ovce		locality	1
 916 16	1125891211	Hrachovište		locality	1
 916 16	101782801	Krajné		locality	1
+916 16	1209615895	Podkylava		locality	1
+916 16	1193137903	Visnove		locality	1
 916 21	101782817	Čachtice		locality	1
 916 23	101784119	Pobedim		locality	1
 916 24	101784117	Horná Streda		locality	1
 916 26	101782819	Považany		locality	1
+916 27	1226342739	Castkovce		locality	1
 916 31	101782815	Kočovce		locality	1
 916 32	1125823299	Hôrka nad Váhom		locality	1
-916 33	1125830485	Hrádok		locality	1
+916 33	1259807561	Luka		locality	1
+916 35	1259483559	Modrova		locality	1
 916 38	101782813	Beckov		locality	1
-917 08	101752051	Trnava		locality	2
+916 41	1210040725	Dolne Srnie		locality	1
 917 21	101752051	Trnava		locality	1
 917 69	101784025	Smolenice		locality	1
 918 43	101752051	Trnava		locality	2
 918 20	101752051	Trnava		locality	1
 918 64	101752051	Trnava		locality	1
-919 51	101843773	Špačince		locality	5
-919 03	101784013	Horné Orešany		locality	2
+919 42	1276218581	Pavlice		locality	166
+919 43	101784027	Cífer		locality	36
+919 51	101843773	Špačince		locality	9
+919 03	101784013	Horné Orešany		locality	4
+919 04	101784025	Smolenice		locality	4
+919 06	1193129063	Nahac		locality	2
+919 42	1309709167	Slovenska Nova Ves		locality	2
+919 01	1242700067	Dlha		locality	1
+919 01	1293710429	Kosolna		locality	1
+919 01	1259971397	Zvoncin		locality	1
 919 02	101784017	Dolné Orešany		locality	1
 919 04	1125816541	Lošonec		locality	1
 919 05	101784023	Trstín		locality	1
+919 06	1292927071	Horne Dubove		locality	1
+919 07	1343849735	Binovce		locality	1
 919 08	101782743	Boleráz		locality	1
 919 10	1126038271	Buková		locality	1
 919 22	101785303	Majcichov		locality	1
@@ -453,629 +757,916 @@ X	101752053	Banska Bystrica		locality	6
 919 24	101833933	Križovany nad Dudváhom		locality	1
 919 28	101843777	Bucsany		locality	1
 919 29	101782745	Malženice		locality	1
+919 30	1276973967	Radosovce		locality	1
 919 55	101784021	Kátlovce		locality	1
+919 61	1310097273	Borova		locality	1
 920 03	101782723	Hlohovec		locality	1
 920 41	1125805507	Leopoldov		locality	1
+920 42	1310296681	Ratkovce		locality	1
 920 42	1126058773	Žlkovce		locality	1
+920 52	1344048857	Dolne Zelenice		locality	1
 920 56	101783989	Dvorníky		locality	1
-922 10	101784037	Trebatice		locality	15
-922 06	101780551	Nižná		locality	1
+920 61	1259480087	Dolne Otrokovce		locality	1
+920 61	1293610487	Dolne Trhoviste		locality	1
+920 61	1209537143	Merasice		locality	1
+920 62	1226651901	Horne Otrokovce		locality	1
+920 63	1293284105	Pastuchov		locality	1
+920 66	1242865929	Horne Trhoviste		locality	1
+922 03	101784031	Vrbové		locality	18
+922 21	101833935	Moravany nad Váhom		locality	4
+922 06	1276759153	Nizna		locality	1
+922 08	1209309061	Dubovany		locality	1
 922 08	101784039	Veselé		locality	1
 922 09	1125860399	Borovce		locality	1
+922 11	1293904943	Prasnik		locality	1
+922 31	1327228433	Jalsove		locality	1
 922 42	101782717	Madunice		locality	1
-924 01	101783947	Galanta		locality	15
+924 01	101783947	Galanta		locality	18
+924 01	101786403	Matúškovo		locality	1
 924 22	101783947	Galanta		locality	1
-925 42	101786397	Trstice		locality	24
-925 08	101833927	Čierny Brod		locality	4
 925 45	101785195	Abrahám		locality	3
 925 55	101843735	Vinohrady nad Váhom		locality	3
-925 62	101785199	Váhovce		locality	3
+925 81	101786387	Diakovce		locality	3
 925 04	101786395	Tomášikovo		locality	2
-925 07	101833931	Mostová		locality	2
 925 23	1125891231	Hrubá Borša		locality	2
 925 23	101786413	Jelka		locality	2
-925 81	101786387	Diakovce		locality	2
 925 01	101786403	Matúškovo		locality	1
 925 06	101786405	Čierna Voda		locality	1
 925 26	101785179	Reca		locality	1
 925 27	101785189	Veľký Grob		locality	1
 925 31	1126052383	Gáň		locality	1
 925 41	101786417	Kráľov Brod		locality	1
+925 45	1242865783	Hoste		locality	1
+925 54	1309797831	Zemianske Sady		locality	1
 925 71	101786381	Trnovec nad Váhom		locality	1
 925 72	101786385	Selice		locality	1
 925 83	101786389	Žihárec		locality	1
 925 91	101785187	Kráľová nad Váhom		locality	1
+925 92	1193010127	Topol'nica		locality	1
+926 01	101834125	Sereď		locality	73
+927 05	1293024981	Dlha nad Vahom		locality	1
 927 05	101786393	Šaľa		locality	1
 927 15	101786393	Šaľa		locality	1
+929 01	101786315	Dunajska Streda		locality	17
+929 01	1242572263	Padan		locality	1
+930 02	101786313	Orechová Potôň		locality	127
 930 28	101787501	Okoč		locality	6
-930 02	101786313	Orechová Potôň		locality	1
+930 06	1242674413	Palkovicovo		locality	2
+930 31	1226066403	Vojka nad Dunajom		locality	2
+930 03	1343582557	Kral'ovicove Kracany		locality	1
 930 04	101845245	Baka		locality	1
 930 04	1125776429	Trstená na Ostrove		locality	1
-930 05	101787497	Gabčíkovo		locality	1
 930 08	1125894801	Baloň		locality	1
 930 11	101786311	Topoľníky		locality	1
 930 12	101780203	Ohrady		locality	1
 930 30	101845709	Rohovce		locality	1
 930 31	1125896701	Bodíky		locality	1
+930 31	1309897447	Dobrohost'		locality	1
 930 32	1125866931	Blatná na Ostrove		locality	1
 930 33	101843719	Horný Bar		locality	1
-931 01	101786323	Šamorín		locality	10
-932 01	101787503	Veľký Meder		locality	10
-934 01	101843751	Levice		locality	310
+930 39	1310493335	Janiky		locality	1
+930 39	1344253823	Cenkovce		locality	1
+930 52	1243193735	Bellova Ves		locality	1
+931 01	101786323	Šamorín		locality	12
+934 05	101843751	Levice		locality	3
 934 01	1125990429	Krškany		locality	1
 934 04	101843751	Levice		locality	1
 934 29	101843751	Levice		locality	1
 934 40	101843751	Levice		locality	1
 934 47	101843751	Levice		locality	1
 934 68	101843751	Levice		locality	1
+935 24	101783969	Čajkov		locality	7
 935 26	101783977	Starý Tekov		locality	7
+935 27	1209129963	Podluzany		locality	6
+935 03	1276233967	Drzenice		locality	3
+935 29	101783981	Hronské Kľačany		locality	3
 935 32	101783983	Kalná nad Hronom		locality	3
 935 82	101843753	Plášťovce		locality	3
-935 02	101783975	Žemberovce		locality	1
+935 03	101783971	Bátovce		locality	2
+935 31	1225968257	Dolna Sec		locality	2
+935 02	1209539735	Horne Zemberovce		locality	1
+935 03	1309906213	Pecenice		locality	1
 935 04	1125880697	Devičany		locality	1
+935 06	1243555153	Jablonovce		locality	1
+935 21	1344162925	Vel'ke Kozmalovce		locality	1
 935 25	101783973	Nová Dedina		locality	1
 935 34	101783965	Veľký Ďur		locality	1
+935 35	1293224743	Lula		locality	1
+935 51	1293293005	Medvecke		locality	1
 935 52	101843749	Šarovce		locality	1
+935 55	1310011915	Hontianska Vrbica		locality	1
 935 55	1125897241	Zbrojníky		locality	1
-935 56	1125830485	Hrádok		locality	1
+935 56	1243091723	Stary Hradok		locality	1
+935 64	1210022519	Ket'		locality	1
+935 64	1326636299	Kural'any		locality	1
 935 66	101786425	Farná		locality	1
+935 74	1360090883	Bielovce		locality	1
+935 75	1243068125	Ipel'sky Sokolec		locality	1
+935 75	1210022647	Kubanovo		locality	1
+935 75	1293607261	Lontov		locality	1
+935 81	1209421201	Horne Turovce		locality	1
+935 82	1343685739	Ipel'ske Ul'any		locality	1
+935 84	1310319221	Slatina		locality	1
+935 84	1326931405	Tupa		locality	1
 935 85	101783987	Demandice		locality	1
+935 85	1310111669	Sazdice		locality	1
+935 86	1310406755	Tekovske Trst'any		locality	1
+936 01	1226166781	Hrkovce		locality	1
+940 01	101786339	Nové Zámky		locality	6
 940 34	101786339	Nové Zámky		locality	2
+940 64	101786339	Nové Zámky		locality	2
 940 62	101786339	Nové Zámky		locality	1
+941 48	101786353	Podhájska		locality	64
+941 51	1326854633	Pozba		locality	4
+941 37	101780207	Strekov		locality	3
 941 11	101786327	Palárikovo		locality	1
 941 22	101786325	Zemné		locality	1
 941 23	101786329	Andovce		locality	1
 941 32	101843725	Semerovo		locality	1
+941 32	1243006125	Cechy		locality	1
 941 33	101786363	Kolta		locality	1
 941 34	1125906207	Jasová		locality	1
 941 35	101786335	Dubník		locality	1
+941 36	1293206611	Ruban		locality	1
 941 41	101786361	Bešeňov		locality	1
 941 42	101786357	Veľké Lovce		locality	1
 941 47	1125773501	Radava		locality	1
-943 01	101834157	Štúrovo		locality	622
+941 62	1226442947	Kmet'ovo		locality	1
+942 01	101786365	Šurany		locality	22
+943 55	1226448653	Bruty		locality	3
 943 03	101834157	Štúrovo		locality	1
 943 05	101843751	Levice		locality	1
 943 10	101834157	Štúrovo		locality	1
 943 53	101843905	Belá-Dulice		locality	1
+943 53	1276156501	l'uba		locality	1
 943 59	1125897215	Pavlová		locality	1
+943 61	1310633747	Male Kosihy		locality	1
 943 61	101786345	Salka		locality	1
+943 65	1309727009	Chl'aba		locality	1
 943 65	101787513	Kamenica nad Hronom		locality	1
-945 01	101913501	Komárno		locality	169
+943 65	1327237555	Lel'a		locality	1
+943 66	1309727009	Chl'aba		locality	1
+945 01	101913501	Komárno		locality	180
 945 05	101913501	Komárno		locality	5
+945 52	101913501	Komárno		locality	2
 945 25	101913501	Komárno		locality	1
 945 33	101913501	Komárno		locality	1
 945 36	101913501	Komárno		locality	1
-945 52	101913501	Komárno		locality	1
+946 12	1226753981	Zlatna na Ostrove		locality	46
 946 56	101787487	Dulovce		locality	7
+946 51	101780201	Nesvady		locality	3
 946 38	1125861879	Radvaň nad Dunajom		locality	2
+946 57	101787467	Svätý Peter		locality	2
 946	101787487	Dulovce		locality	1
 946 01	101787469	Kameničná		locality	1
-946 51	101780201	Nesvady		locality	1
+946 14	1243296649	Bogyaret		locality	1
+946 32	1343958247	Mudronovo		locality	1
 946 54	101786305	Bajč		locality	1
 946 65	1125798587	Vrbová nad Váhom		locality	1
+947 01	101787485	Hurbanovo		locality	8
 947 01	1125860753	Martovce		locality	1
+949 01	101752049	Nitra		locality	2277
+949 76	101752049	Nitra		locality	1
 949 88	101752049	Nitra		locality	1
+950 50	101752049	Nitra		locality	3
 950 01	101752049	Nitra		locality	2
-950 50	101752049	Nitra		locality	2
 950 51	101752049	Nitra		locality	1
+951 81	1277080289	Nemcinany		locality	6
 951 24	101782713	Nové Sady		locality	3
-951 95	101784001	Obyce		locality	2
+951 04	1243555035	Maly Lapas		locality	2
+951 42	1226646443	Zbehy		locality	2
 951 02	101785241	Dolné Obdokovce		locality	1
 951 02	101785237	Pogranice		locality	1
+951 03	1326530251	Cel'adice		locality	1
 951 05	101785175	Maňa		locality	1
 951 08	101785249	Golianovo		locality	1
-951 12	101785231	Ivanka pri Nitre		locality	1
 951 21	101783959	Rišňovce		locality	1
 951 22	101858941	Alekšince		locality	1
+951 24	1276156193	Cab		locality	1
+951 26	1242577975	Surianky		locality	1
+951 31	101834119	Močenok		locality	1
 951 35	101785223	Veľké Zálužie		locality	1
 951 36	101783963	Lehota		locality	1
 951 37	1125894941	Rumanová		locality	1
 951 42	101752049	Nitra		locality	1
-951 42	101754897	Zbehy		locality	1
 951 43	101843743	Čakajovce		locality	1
 951 78	101783955	Jelenec		locality	1
 951 87	101785273	Volkovce		locality	1
+951 91	1242880057	Host'ovce		locality	1
+951 92	1310111873	Zikava		locality	1
 951 94	101783999	Hostie		locality	1
+952 01	1259886043	Melek		locality	1
+953 01	1327030185	Caradice		locality	1
 956 02	101780219	Urmince		locality	1
 956 11	101784075	Ludanice		locality	1
-956 35	1125990485	Vysočany 		locality	1
+956 35	1193161179	Nedasovce		locality	1
+956 35	1310211067	Pravotice		locality	1
+956 35	1125990485	Vysočany		locality	1
+956 36	1293298639	Pecenany		locality	1
+956 37	1226576139	Male Hoste		locality	1
+956 38	1226248801	Libichava		locality	1
+956 38	1326754391	Sisov		locality	1
+956 41	1226670127	Horne Nastice		locality	1
+956 41	1276370149	Ksinna		locality	1
+956 41	1259684269	Zitna		locality	1
+956 52	1309745139	Timoradza		locality	1
+956 53	1226143301	Krasna Ves		locality	1
+956 53	1260284663	Slatina nad Bebravou		locality	1
+956 54	1327134673	Mala Hradna		locality	1
 956 54	1125822457	Ruskovce		locality	1
+956 54	1225862659	Drzkovce		locality	1
+956 55	1243478541	Dvorec		locality	1
+956 55	1343662121	Halacovce		locality	1
+956 55	1276872855	Vel'ke Chlievany		locality	1
+957 01	101781619	Bánovce nad Bebravou		locality	56
+957 01	1343561667	Miezgovce		locality	2
+957 01	1293006867	Brezolupy		locality	1
+957 03	1310406209	Dezerice		locality	1
+957 03	1327339367	Prusy		locality	1
+958 41	1125861945	Veľké Uherce		locality	8
+958 03	1327231987	Male Krstenany		locality	2
+958 03	1243091665	Vel'ke Krstenany		locality	2
+958 03	1276800261	Pazit'		locality	1
+958 42	1225950511	Brodzany		locality	1
+962 31	101782785	Sliač		locality	141
 962 04	101843801	Kriváň		locality	7
+962 12	101843797	Detva		locality	7
 962 63	101784109	Pliešovce		locality	6
-962 31	101782783	Sielnica		locality	3
+962 25	1277078323	Klokoc		locality	2
+962 34	1276237835	Trnie		locality	2
+962 68	1125823267	Hontianske Tesáre		locality	2
 962 05	101782781	Korytárky		locality	1
-962 51	101782837	Badín		locality	1
+962 12	1293204707	Dubravy		locality	1
+962 34	1242581627	Zelezna Breznica		locality	1
+962 41	1309923343	Bzovik		locality	1
+962 41	1243085233	Dolne Mladonice		locality	1
+962 41	1259801443	Kozi Vrbovok		locality	1
+962 41	1242888123	Cekovce		locality	1
+962 43	1293204695	Senohrad		locality	1
+962 44	1293798173	Litava		locality	1
+962 44	1260303127	Trpin		locality	1
+962 51	1209829215	Horny Badin		locality	1
+962 51	1293018533	Cabradsky Vrbovok		locality	1
+962 52	1293801545	Cerovo		locality	1
 962 61	101784107	Dobrá Niva		locality	1
+962 61	1242691867	Dubove		locality	1
+962 61	1259797711	Ostra Luka		locality	1
 962 65	101783991	Hontianske Nemce		locality	1
-962 68	1125823267	Hontianske Tesáre		locality	1
+962 65	1276671693	Ladzany		locality	1
+962 65	1243081833	Medovarce		locality	1
+962 68	1327449335	Terany		locality	1
+965 01	1277091793	Stara Kremnicka		locality	1
 965 02	101843981	Vysne Ruzbachy		locality	1
-966 01	101782931	Ždaňa		locality	1
+966 01	1125823259	Bzenica		locality	2
+966 01	101843807	Hliník nad Hronom		locality	2
+966 02	101858951	Vyhne		locality	2
+966 01	1276566155	Dolna Zdana		locality	1
+966 01	1243377645	Prestavlky		locality	1
+966 03	1326744091	Repiste		locality	1
+966 04	1226256855	Prochot		locality	1
+966 11	1327248965	Pitelova		locality	1
 966 15	101782747	Banská Belá		locality	1
 966 23	101843803	Lovčica-Trubín		locality	1
-966 52	101784053	Tekovská Breznica		locality	1
+966 24	1193033789	Kosorin		locality	1
+966 35	1360299473	Kremnické Bane		locality	1
+966 51	1310715541	Rudno nad Hronom		locality	1
+966 52	1193030021	Orovnica		locality	1
+966 52	1310309121	Tekovska Breznica		locality	1
+966 71	1343565129	Horne Hamre		locality	1
 966 77	1125906217	Kľak		locality	1
 966 77	1125774447	Ostrý Grúň		locality	1
 966 78	1125979631	Hrabičov		locality	1
-967 01	101784145	Horná Ves		locality	2
+966 81	101782767	Žarnovica		locality	1
+967 01	1360299473	Kremnické Bane		locality	2
 967 01	1125774025	Bartošova Lehôtka		locality	1
+967 01	1125816527	Krahule		locality	1
+967 01	1243081731	Nevol'ne		locality	1
 968 01	101784049	Brehy		locality	1
-969 01	101782751	Banská Štiavnica		locality	52
+969 01	101782751	Banská Štiavnica		locality	53
 969 01	1126045787	Banský Studenec		locality	1
+969 01	1343776099	Beluj		locality	1
+969 01	1343671485	Dekys		locality	1
 969 01	1125997395	Ilija		locality	1
+969 01	1209018409	Pocuvadlo		locality	1
 969 72	101782749	Svätý Anton		locality	1
 969 73	1126009451	Prenčov		locality	1
+969 82	1226352005	Mociar		locality	1
 969 82	1126006163	Podhorie		locality	1
-972 01	101754905	Bojnice		locality	1624
+971 01	1293889555	Cigel'		locality	2
+971 01	1310501941	Mala Causa		locality	1
+971 01	1226782491	Vel'ka Causa		locality	1
+972 01	101754905	Bojnice		locality	1620
 972 11	101781647	Lazany		locality	529
 972 43	101781673	Zemianske Kostoľany		locality	244
+972 15	101781635	Kľačno		locality	3
+972 01	1326754441	Sutovce		locality	2
+972 02	1209949577	Kocurany		locality	1
+972 13	1310502007	Malinova		locality	1
+972 16	1193275959	Poluvsie		locality	1
 972 25	101781687	Diviaky nad Nitricou		locality	1
-972 26	101783963	Lehota		locality	1
+972 26	1210022287	Kostolna Ves		locality	1
+972 26	1293299027	Rudnianska Lehota		locality	1
 972 27	101843831	Liešťany		locality	1
+972 41	1276442507	Kos		locality	1
+972 42	1243578137	Podhradie		locality	1
+972 47	1260104191	Kolacno		locality	1
 972 48	101784145	Horná Ves		locality	1
+974 01	1292907471	Kyncel'ova		locality	1
 976 66	101781741	Polomka		locality	1035
-976 67	101781745	Závadka nad Hronom		locality	692
+976 67	101781745	Závadka nad Hronom		locality	693
+976 13	101843821	Slovenská Ľupča		locality	6
 976 73	101780231	Telgárt		locality	6
 976 68	101780229	Heľpa		locality	3
-976 81	101781751	Podbrezová		locality	3
+976 57	101832701	Michalová		locality	2
+976 03	1226356555	Dolny		locality	1
+976 13	1360188581	Mostenica		locality	1
 976 13	1125890209	Podkonice		locality	1
 976 32	101782837	Badín		locality	1
 976 32	101782785	Sliač		locality	1
+976 33	1209733275	Dubravica		locality	1
+976 39	1125824289	Donovaly		locality	1
+976 44	1126046177	Mýto pod Ďumbierom		locality	1
+976 61	1310020015	Hiadel'		locality	1
 976 61	1125796391	Lučatín		locality	1
 976 62	101843819	Brusno		locality	1
 976 96	101843823	Medzibrod nad Hronom		locality	1
 977 03	101780227	Brezno		locality	2
 979 01	101784133	Rimavská Sobota		locality	32
 980 01	101782775	Kúty		locality	2
+980 61	101782823	Tisovec		locality	2
 980 11	101784125	Ožďany		locality	1
-980 21	101843785	Tomášovce		locality	1
-980 53	101783963	Lehota		locality	1
-980 61	101782823	Tisovec		locality	1
+980 21	1242591829	Batka		locality	1
+980 21	1209918245	Tomasovce		locality	1
+980 23	1276995467	Driencany		locality	1
+980 32	1344270927	Blhovce		locality	1
+980 35	1259492935	Petrovce		locality	1
+980 43	1293901355	Ciz		locality	1
+980 46	1226250159	Bretka		locality	1
+980 53	1209328539	Rimavske Zaluzany		locality	1
+980 54	1226663831	Rimavske Brezovo		locality	1
+982 65	1293491741	Ratkova		locality	1
+984 01	101782765	Lučenec		locality	10
+984 01	1327445625	Pincina		locality	1
+984 03	101782765	Lučenec		locality	1
 985 58	101784045	Radzovce		locality	2
+985 59	101843787	Vidiná		locality	2
+985 02	1259701581	Breznicka		locality	1
 985 11	101843783	Halič		locality	1
+985 11	1259787527	Lupoc		locality	1
+985 11	1344061073	Maskova		locality	1
 985 11	1126009441	Praha		locality	1
+985 12	1243278269	Budina		locality	1
 985 12	1125958305	Tuhár		locality	1
-985 25	101857935	Hradište		locality	1
+985 24	1210025915	Ozdin		locality	1
+985 25	1310314683	Hradiste		locality	1
+985 31	1242883815	Ples		locality	1
+985 31	1276457591	Trebel'ovce		locality	1
+985 41	1326547835	Prsa		locality	1
+985 41	1242687391	Savol'		locality	1
+985 42	1225859181	Vel'ke Dravce		locality	1
 985 52	1126003027	Ružiná		locality	1
+985 53	1326947845	Dobroc		locality	1
 985 53	101782759	Mýtna		locality	1
+985 54	1276353865	Podrecany		locality	1
+985 58	1326844577	Cakanovce		locality	1
+986 01	1243085065	Belina		locality	1
+986 01	1243471989	Fil'akovske Kovace		locality	1
+986 01	1276891725	Camovce		locality	1
+990 01	1210030485	Male Straciny		locality	1
+991 01	1209729263	Brusnik		locality	1
+991 01	1310009933	Senne		locality	1
+991 01	1276891653	Vel'ke Straciny		locality	1
+991 02	1193033877	Horna Strehova		locality	1
 991 03	1125997099	Pôtor		locality	1
+991 05	1293603369	Obeckov		locality	1
+991 06	1327034017	Kiarov		locality	1
 991 07	1126011477	Opatovská Nová Ves		locality	1
-01001	101752063	Zilina		locality	2140
+991 08	1260094475	Mala Calomija		locality	1
+991 09	1276457835	Vel'ka Calomija		locality	1
+991 10	1243381253	Klenany		locality	1
+991 10	1309923587	Vel'ka Ves nad Ipl'om		locality	1
+991 11	1209123833	Kosihy nad Ipl'om		locality	1
+991 21	1209725215	Chrt'any		locality	1
+991 22	1343565309	Glabusovce		locality	1
+991 22	1193151047	Zombor		locality	1
+991 24	1193154729	Dolne Plachtince		locality	1
+991 25	1226549329	Kosihovce		locality	1
+991 25	1360303143	Opava		locality	1
+991 27	1327351507	Trebusovce		locality	1
+991 35	1360003533	Dacov Lom		locality	1
+991 35	1343279549	Suchan		locality	1
+991 41	1344271389	Celovce		locality	1
+01001	101752063	Zilina		locality	2171
 01002	101752063	Zilina		locality	2
 01003	101752063	Zilina		locality	1097
-01004	101752063	Zilina		locality	1504
-01007	101752063	Zilina		locality	188
-01008	101752063	Zilina		locality	436
-01009	101752063	Zilina		locality	730
-01014	101752063	Zilina		locality	1
-01015	101752063	Zilina		locality	13
+01004	101752063	Zilina		locality	1505
+01008	101752063	Zilina		locality	438
+01009	101752063	Zilina		locality	731
+01009	1293779413	Bytcica		locality	1
+01010	101752063	Zilina		locality	3
+01014	101752063	Zilina		locality	2
+01015	101752063	Zilina		locality	20
 01026	101752063	Zilina		locality	2
 01043	101752063	Zilina		locality	1
 01045	101752063	Zilina		locality	1
 01138	101752063	Zilina		locality	1
 01140	101752063	Zilina		locality	1
+01151	101752063	Zilina		locality	1
 01157	101752063	Zilina		locality	1
 01161	101752063	Zilina		locality	1
 01166	101752063	Zilina		locality	1
 01180	101752063	Zilina		locality	1
 1295/14	101781619	Bánovce nad Bebravou		locality	1
-01301	101832725	Teplička nad Váhom		locality	2
-01306	101843935	Terchová		locality	114
+01305	101781813	Belá		locality	1
+01306	1175613663	Terchová		locality	115
 01311	101758645	Lietavská Lúčka		locality	41
-01311	101860159	Lietavská Svinná-Babkov		locality	4
-01313	101780389	Rajecké Teplice		locality	3
-01324	101860165	Strečno		locality	2
-01332	101780381	Dlhé Pole		locality	2
-01401	101780377	Bytča		locality	1
+01311	1209500471	Lietavska Svinna		locality	4
+01313	101780389	Rajecké Teplice		locality	4
+01315	101843931	Rajecká Lesná		locality	2
+01332	1225867237	Svedernik		locality	5
+01401	101780377	Bytča		locality	4
 1410/154A	101752063	Zilina		locality	1
 01501	101780401	Rajec		locality	31
 01701	101780349	Povazska Bystrica		locality	187
+01707	101780349	Povazska Bystrica		locality	3
 01753	101780349	Povazska Bystrica		locality	1
-01841	101781761	Dubnica nad Váhom		locality	1722
-01851	101781781	Nová Dubnica		locality	586
+01841	101781761	Dubnica nad Váhom		locality	1723
+01841	1225944641	Prejta		locality	229
+01851	101781781	Nová Dubnica		locality	592
+01851	1326936421	Vel'ky Kolacin		locality	1
 01853	101781769	Bolešov		locality	1
-01855	1125888947	Tuchyňa		locality	2
-01861	101781809	Beluša		locality	818
+01853	1327339641	Borcice		locality	1
+01861	101781809	Beluša		locality	819
+01861	1343958495	Hloza		locality	1
+01863	1125830687	Ladce		locality	2
 01901	101781767	Ilava		locality	2
 02001	101780335	Púchov		locality	4
 02001	1125774093	Dolné Kočkovce		locality	3
 02061	1125986721	Lednické Rovne		locality	1
-02314	101842001	Skalité		locality	2
-02331	101780413	Rudina		locality	2
-02335	101875837	Ochodnica		locality	2
-02341	101843945	Nesluša		locality	8
-02354	101842013	Turzovka		locality	3
-02401	101832731	Kysucké Nové Mesto		locality	74
-02404	101832731	Kysucké Nové Mesto		locality	8
+02201	101842015	Cadca		locality	929
+02204	101842015	Cadca		locality	212
+02304	101780873	Stará Bystrica		locality	1
+02311	101860175	Zákopčie		locality	1
+02313	101875841	Čierne		locality	1
+02332	1309796661	Sneznica		locality	6
+02341	101843945	Nesluša		locality	9
+02401	101832731	Kysucké Nové Mesto		locality	77
+02404	101832731	Kysucké Nové Mesto		locality	18
 2542	101833293	Lábatlan		locality	1
-02601	101780409	Dolný Kubín		locality	7
+02601	101780409	Dolný Kubín		locality	9
+02601	1226356555	Dolny		locality	1
+02601	1277001849	Vysny Kubin		locality	1
+2601	1243178349	Maria		locality	1
 02705	101843939	Zázrivá		locality	2
-02712	101780561	Vitanová		locality	2
 02712	101780557	Liesek		locality	1
+02732	101832749	Zuberec		locality	7
 02732	101832747	Habovka		locality	1
 02741	101780403	Oravský Podzámok		locality	1
-02743	101780551	Nižná		locality	1
+02744	101780549	Tvrdošín		locality	35
+02751	101780409	Dolný Kubín		locality	1
 02801	101780563	Brezovica		locality	2
-02901	101847821	Námestovo		locality	104
-02957	101860179	Oravská Lesná		locality	1
-03101	101780369	Liptovsky Mikulas		locality	210
-03101	1125800263	Liptovský Trnovec		locality	2
+02901	101847821	Námestovo		locality	119
+02954	1276437659	Lomna		locality	1
+02957	1209735507	Oravska Lesna		locality	1
+03101	101780369	Liptovsky Mikulas		locality	218
 03101	1125861009	Pavčina Lehota		locality	1
 03104	101780369	Liptovsky Mikulas		locality	4
 03105	101780369	Liptovsky Mikulas		locality	1
 03106	1125883159	Demänová		locality	1
-3121	101785295	Ružindol		locality	3
 03123	101780369	Liptovsky Mikulas		locality	1
-03215	1125860969	Partizánska Ľupča		locality	1
-03221	101780351	Bobrovec		locality	3
-03233	101783963	Lehota		locality	7
+03203	1125830753	Liptovský Ján		locality	4
+03233	1209701209	Kral'ova Lehota		locality	7
 03242	101780353	Pribylina		locality	4
 03251	1125895531	Demänovská Dolina		locality	2
 03261	101780363	Važec		locality	1
-03301	101780367	Liptovský Hrádok		locality	23
-03401	101832721	Ruzomberok		locality	1290
+03301	101780367	Liptovský Hrádok		locality	665
+03301	1310427913	Podturen		locality	1
+03401	101832721	Ruzomberok		locality	1291
 03401	101832719	Likavka		locality	1
+03401	1259378825	Liptovska Stiavnica		locality	1
 03404	101780369	Liptovsky Mikulas		locality	1
+03473	1260174961	Korytnica		locality	1
 03481	101875831	Lisková		locality	1
-03483	1126002993	Liptovská Teplá		locality	3
-03483	1126009357	Bešeňová		locality	1
-03601	101752061	Martin		locality	43
+03483	1126009357	Bešeňová		locality	3
+03484	101780311	Liptovské Sliače		locality	15
+03484	101832721	Ruzomberok		locality	1
 03608	101752061	Martin		locality	1
+03804	101780319	Bystrička		locality	1
 03821	101843835	Mošovce		locality	1
-03843	101780317	Kláštor pod Znievom		locality	1
+03835	1259975045	Valca		locality	1
+03842	1242768417	Pribovce		locality	1
+03852	1259478637	Podhradie		locality	1
 03852	101780323	Sučany		locality	1
+03861	1326520811	Lipovec		locality	2
 03901	101781701	Turčianske Teplice		locality	10
-04001	101752055	Kosice		locality	3740
-04011	101752055	Kosice		locality	1612
-04012	101752055	Kosice		locality	399
-04013	101752055	Kosice		locality	545
-04014	101752055	Kosice		locality	165
+04001	101752055	Kosice		locality	1
+04011	101752055	Kosice		locality	1626
+04011	1242885677	Lorincik		locality	1
+04013	101752055	Kosice		locality	549
+04014	101752055	Kosice		locality	167
+04015	101752055	Kosice		locality	54
 04016	101752055	Kosice		locality	152
-04017	101752055	Kosice		locality	1127
-04018	101752055	Kosice		locality	5
-04022	101752055	Kosice		locality	509
-04023	101752055	Kosice		locality	431
+04016	1293895049	Myslava		locality	1
+04017	101752055	Kosice		locality	1132
+04018	101752055	Kosice		locality	7
+04018	1226456581	Krasna		locality	4
+04022	101752055	Kosice		locality	516
+04023	101752055	Kosice		locality	433
 04126	101752055	Kosice		locality	2
 04142	101752055	Kosice		locality	1
 04151	101752055	Kosice		locality	1
 04184	101752055	Kosice		locality	1
 04190	101752055	Kosice		locality	2
+04245	101752055	Kosice		locality	1
 04265	101752055	Kosice		locality	1
 04267	101752055	Kosice		locality	1
 04291	101752055	Kosice		locality	1
 04323	101752055	Kosice		locality	1
 04402	101843881	Turňa nad Bodvou		locality	1
+04405	1260082103	Janik		locality	1
 04412	1126011445	Nižný Klátov		locality	11
-04413	101860151	Valaliky		locality	2
+04413	101860151	Valaliky		locality	3
 04419	101782907	Ruskov		locality	1
+04420	1125816497	Malá Ida		locality	3
 04424	101782909	Poproč		locality	58
+04432	1225956047	Mala Lodina		locality	1
+04442	1310007883	Kosicke Olsany		locality	1
 04442	101780245	Rozhanovce		locality	1
+04442	101752055	Kosice		locality	1
 04471	101782919	Čečejovce		locality	1
-04801	101782901	Rožňava		locality	1
+04481	1225956047	Mala Lodina		locality	2
+04801	101782901	Rožňava		locality	26
+04801	1242978323	Huta		locality	1
+04901	1193154695	Muranska Lehota		locality	1
 04922	101782887	Gemerská Poloma		locality	1
-04932	101782889	Štítnik		locality	17
+04932	1226450033	Kunova Teplica		locality	1
 04941	101782891	Krásnohorské Podhradie		locality	1
-05001	101782833	Revúca		locality	1
+05001	101782833	Revúca		locality	8
 05301	101780269	Harichovce		locality	12
-05314	1126010291	Spišský Štvrtok		locality	1
-05401	101780371	Leutschau		locality	61
-05467	101780371	Leutschau		locality	1
-05601	101843887	Gollnitz		locality	18
+05311	1259788291	Iliasovce		locality	3
+05314	101843917	Spišský Štvrtok		locality	5
+05373	1276979349	Ol'savica		locality	1
+05401	101780371	Leutschau		locality	62
+05601	101843887	Gollnitz		locality	21
+05801	101752069	Poprad		locality	42
+05841	1125846453	Tatranska Strba		locality	1
 05901	101780571	Spišská Belá		locality	3
-05912	101843965	Hôrka		locality	2
+05913	1226752381	Janovce		locality	6
 05918	101780519	Spišské Bystré		locality	6
-05921	101780513	Svit		locality	9
-05941	1125846453	Tatranska Strba		locality	14
-05942	1125774103	Gerlachov		locality	2
-05952	1126046213	Stará Lesná		locality	97
-05952	101843975	Veľká Lomnica		locality	40
-05955	101780501	Ždiar		locality	9
+05938	101780511	Strba		locality	2
+05941	1125846453	Tatranska Strba		locality	17
+05955	101780501	Ždiar		locality	11
 05971	101832751	Ľubica		locality	1
 05981	101860171	Vysoké Tatry		locality	2
-05985	101780511	Strba		locality	1
-06001	101832753	Kežmarok		locality	53
+05985	101780511	Strba		locality	2
 06052	1125967117	Stará Ľubovňa		locality	1
+06201	101860171	Vysoké Tatry		locality	11
 06502	101843981	Vysne Ruzbachy		locality	1
-06601	101832745	Humenné		locality	2981
+06601	101832745	Humenné		locality	2989
+06734	1343660829	Osadne		locality	1
+06766	1326544891	Kolbasov		locality	1
+06767	101780535	Ulič		locality	1
 06782	101780533	Dlhé nad Cirochou		locality	1
-06901	101780539	Snina		locality	181
-07101	101780301	Michalovce		locality	4572
-07222	101780285	Strážske		locality	14
-07231	101843895	Vinne		locality	3
-07301	101780329	Sobrance		locality	1047
-07501	101832709	Trebisov		locality	12
+07101	101780301	Michalovce		locality	4925
+07204	101780297	Trhovište		locality	2
+07222	101780285	Strážske		locality	59
+07301	101780329	Sobrance		locality	1060
+07501	101832709	Trebisov		locality	13
+07614	1209117901	Luhyna		locality	2
 07631	101843869	Streda nad Bodrogom		locality	1
+07641	101782873	Biel		locality	2
 07653	1125860387	Boľ		locality	1
-07701	1125830599	Kráľovský Chlmec		locality	4
+7672	1276334959	Bodza		locality	1
+07681	1310306809	Cerhov		locality	1
+07683	1125774661	Svätuše		locality	3
+07701	1125830599	Kráľovský Chlmec		locality	8
 07901	101781795	Veľké Kapušany		locality	2
-08001	101752067	Prešov		locality	396
+08001	101752067	Prešov		locality	399
 08005	101752067	Prešov		locality	5
 08006	101754911	Ľubotice		locality	13
-08006	101752067	Prešov		locality	1
+08006	101752067	Prešov		locality	2
 08015	101752067	Prešov		locality	1
 08033	101752067	Prešov		locality	1
 08193	101752067	Prešov		locality	1
 08203	101843953	Lemešany		locality	1
 08204	101780421	Drienov		locality	1
 08212	101780429	Kapušany		locality	1
+08212	1210039307	Lipniky		locality	1
+08216	1259688669	Zahradne		locality	11
 08233	101780439	Chminianske Jakubovany		locality	1
+08252	1343863005	Dulova Ves		locality	1
 08301	101780473	Zeben		locality	1
-08601	1125956533	Rokytov		locality	3
+08601	1292902581	Mokroluh		locality	3
 08641	101780609	Raslavice		locality	2
-08701	101780617	Giraltovce		locality	2
+08642	1242896475	Bartosovce		locality	1
+08645	1276584043	Harhaj		locality	1
+08701	1259782563	Brezov		locality	3
+08707	1259782563	Brezov		locality	1
+08901	101780621	Svidník		locality	3
+09301	101875839	Vranov nad Topľou		locality	29
 09302	101875839	Vranov nad Topľou		locality	1
 09414	101780471	Sečovská Polianka		locality	2
 09431	1125830193	Hanušovce nad Topľou		locality	3
+09435	101780445	Hlinné		locality	2
 68766	101781595	Květná		locality	1
-70800	101781643	Poruba		locality	4
-70833	101781643	Poruba		locality	1
-80147	1108800123	Bratislava		locality	1
-81109	1108800123	Bratislava		locality	28
+80147	1259894507	Bratislava - Raca		locality	1
+81102	1108800123	Bratislava		locality	103
 81275	1108800123	Bratislava		locality	1
 81415	1108800123	Bratislava		locality	1
 81467	1108800123	Bratislava		locality	1
-82102	1108800123	Bratislava		locality	10
-82104	1108800123	Bratislava		locality	2
-82107	1108800123	Bratislava		locality	45
+81499	1108800123	Bratislava		locality	7
+82106	1108800123	Bratislava		locality	87
 82405	1108800123	Bratislava		locality	1
+82662	1108800123	Bratislava		locality	1
 82715	1108800123	Bratislava		locality	2
-83005	1108800123	Bratislava		locality	1
-83006	1108800123	Bratislava		locality	5
-83101	1108800123	Bratislava		locality	112
+83005	1259894507	Bratislava - Raca		locality	1
+83006	1259894507	Bratislava - Raca		locality	5
+83101	1108800123	Bratislava		locality	115
 83102	1108800123	Bratislava		locality	1
-83104	1108800123	Bratislava		locality	99
-83107	1108800123	Bratislava		locality	148
-83152	1108800123	Bratislava		locality	14
-83153	1108800123	Bratislava		locality	22
-83154	1108800123	Bratislava		locality	8
+83107	1259894507	Bratislava - Raca		locality	891
+83151	1259894507	Bratislava - Raca		locality	1
+83152	1259894507	Bratislava - Raca		locality	16
+83153	1259894507	Bratislava - Raca		locality	22
+83154	1259894507	Bratislava - Raca		locality	12
 83232	1108800123	Bratislava		locality	4
-83416	1108800123	Bratislava		locality	1
-84007	1108800123	Bratislava		locality	1
-84103	1108800123	Bratislava		locality	93
-84104	1108800123	Bratislava		locality	545
-84105	1108800123	Bratislava		locality	4
-84106	1108800123	Bratislava		locality	3
-84107	1108800123	Bratislava		locality	28
-84108	1108800123	Bratislava		locality	4
-84110	1108800123	Bratislava		locality	18
+83416	1259894507	Bratislava - Raca		locality	1
+84007	1259894507	Bratislava - Raca		locality	1
+84011	1108800123	Bratislava		locality	1
+84103	1259894507	Bratislava - Raca		locality	95
+84104	1108800123	Bratislava		locality	549
+84106	1259894507	Bratislava - Raca		locality	8
+84108	1259894507	Bratislava - Raca		locality	4
 84214	1108800123	Bratislava		locality	1
 84258	1108800123	Bratislava		locality	1
-84302	1108800123	Bratislava		locality	2
+84302	1259894507	Bratislava - Raca		locality	2
 84454	1108800123	Bratislava		locality	1
 84512	1108800123	Bratislava		locality	1
 84535	1108800123	Bratislava		locality	1
 84551	1108800123	Bratislava		locality	1
-85110	1108800123	Bratislava		locality	740
 85421	101780353	Pribylina		locality	1
-90021	101785217	Svätý Jur		locality	7
-90025	1125957335	Chorvátsky Grob		locality	17
-90026	101785219	Slovenský Grob		locality	4
-90027	101843727	Bernolákovo		locality	127
-90028	1125859035	Zálesie		locality	10
-90031	101785289	Stupava		locality	58
-90041	101786377	Rovinka		locality	3
-90042	1125859033	Dunajská Lužná		locality	16
+90001	101785209	Modra		locality	1885
+90021	101785217	Svätý Jur		locality	14
+90024	1126007807	Veľký Biel		locality	15
+90025	1125957335	Chorvátsky Grob		locality	18
+90026	101785219	Slovenský Grob		locality	12
+90027	101843727	Bernolákovo		locality	149
+90028	1125859035	Zálesie		locality	16
+90031	101785289	Stupava		locality	118
+90042	1125859033	Dunajská Lužná		locality	20
 90042	1125860419	Miloslavov		locality	1
-90044	101786371	Tomášov		locality	2
-90046	1126012125	Most pri Bratislave		locality	4
 90050	101786367	Kráľová pri Senci		locality	2
 90051	101785283	Zohor		locality	1
-90052	101784011	Kuchyňa		locality	2
-90055	101785281	Lozorno		locality	76
-90068	1125840075	Plavecký Štvrtok		locality	2
+90055	101785281	Lozorno		locality	78
+90061	101782733	Gajary		locality	1013
+90066	101785279	Vysoká pri Morave		locality	4
 90068	101785285	Plavecký Štvrtok		locality	1
-90084	101785177	Báhoň		locality	12
-90085	101785211	Vištuk		locality	2
+90084	1360097975	Kaplna		locality	168
+90084	101785177	Báhoň		locality	19
 90086	101785207	Budmerice		locality	9
-90089	1125778945	Píla		locality	3
-90089	101785205	Častá		locality	3
-90101	101785287	Malacke		locality	28
-90127	101785287	Malacke		locality	1
+90091	1293203699	Hlinik		locality	1
+90101	101785287	Malacke		locality	108
+90114	101785287	Malacke		locality	1
+90120	101785287	Malacke		locality	2
+90127	101785287	Malacke		locality	2
 90301	101833921	Senec		locality	36
-90301	101785301	Šúrovce		locality	2
-90605	101782771	Sobotište		locality	1
-90645	101784091	Štefanov		locality	2
-90701	101781575	Myjava		locality	2
-90701	1125859045	Stará Myjava		locality	2
+90501	101784101	Senica		locality	25
+90605	101782771	Sobotište		locality	2
+90631	1125790937	Hlboké		locality	5
+90645	101784091	Štefanov		locality	3
+90701	101781575	Myjava		locality	3
 90703	101781575	Myjava		locality	2
-90841	101784099	Šaštín-Stráže		locality	3
+90842	1360279783	Smolinske		locality	1
+90843	101782777	Čáry		locality	14
 90844	1125774317	Letničie		locality	3
-90848	101781583	Kopčany		locality	5
-90851	101781587	Holíč		locality	2
-90871	101833945	Moravský Svätý Ján		locality	1
-90874	1125911261	Malé Leváre		locality	3
+90845	101782803	Gbely		locality	7
+90849	1293610405	Vradiste		locality	1
+90851	101781587	Holíč		locality	4
+90871	101833945	Moravský Svätý Ján		locality	8
+90872	101782727	Závod		locality	3
+90873	101782731	Veľké Leváre		locality	2
+90875	101782729	Studienka		locality	3
 90879	101782779	Borský Svätý Jur		locality	3
-90901	101781579	Skalica		locality	52
+90901	101781579	Skalica		locality	55
 91008	101752059	Trencin		locality	3
-91101	101752059	Trencin		locality	3905
-91101	1125774775	Zamarovce		locality	71
+91101	101752059	Trencin		locality	3923
+91101	1125774775	Zamarovce		locality	73
+91101	1293889663	Biskupice		locality	6
+91101	1310707781	Kubra		locality	6
+91101	1326754299	Zlatovce		locality	6
 91104	101752059	Trencin		locality	1
-91105	101752059	Trencin		locality	50
+91105	101752059	Trencin		locality	59
 91105	1125774775	Zamarovce		locality	7
+91105	1326754299	Zlatovce		locality	1
 91106	101752059	Trencin		locality	1
-91108	101752059	Trencin		locality	352
+91108	101752059	Trencin		locality	356
 91133	101752059	Trencin		locality	1
 91137	101752059	Trencin		locality	1
 91250	101752059	Trencin		locality	2
-91303	101843845	Drietoma		locality	1
+91303	101843845	Drietoma		locality	2
 91306	1125929281	Trenčianske Bohuslavice		locality	1
-91307	1125978907	Zemianske Podhradie		locality	2
-91311	1125979669	Veľké Bierovce		locality	2
-91332	101781709	Dolná Súča		locality	4
-91401	101781717	Trenčianska Teplá		locality	3
-91441	101781713	Nemšová		locality	38
-91601	101781613	Stará Turá		locality	13
+91307	101843815	Bošáca		locality	3
+91311	101781735	Trenčianske Stankovce		locality	2
+91326	1327158251	Petrova Lehota		locality	1
+91332	101781709	Dolná Súča		locality	5
+91338	101781731	Soblahov		locality	3
+91441	101781713	Nemšová		locality	41
+91442	101843841	Horné Srnie		locality	1
 91611	101781615	Bzince pod Javorinou		locality	1
-91637	1126042265	Kálnica		locality	2
+91625	1343262337	Brunovce		locality	1
 91700	101752051	Trnava		locality	1
-91701	101752051	Trnava		locality	54
+91701	101752051	Trnava		locality	70
 91702	101752051	Trnava		locality	2
-91705	101752051	Trnava		locality	1
-91901	101785291	Suchá nad Parnou		locality	1
-91904	101784025	Smolenice		locality	2
+91705	1293875273	Modranka		locality	1
+91708	101752051	Trnava		locality	2
+91901	101785291	Suchá nad Parnou		locality	3
+91926	101785299	Zavar		locality	3
 91933	101782721	Trakovice		locality	6
-91942	101785305	Voderady		locality	4
-91943	101784027	Cífer		locality	1002
+91942	101785305	Voderady		locality	6
 91953	101784019	Dechtice		locality	2
 91965	101782739	Dolná Krupá		locality	1
 92001	101782723	Hlohovec		locality	27
-92101	101832691	Piešťany		locality	176
+92052	1343256475	Siladice		locality	2
+92101	1125985967	Piešťany		locality	179
 92101	101832689	Banka		locality	4
-92203	101784031	Vrbové		locality	19
+92201	1225866125	Ostrov		locality	2
 92205	101780213	Chtelnica		locality	1
 92205	1125852223	Veľké Úľany		locality	1
-92207	101843781	Veľké Kostoľany		locality	4
-92221	101833935	Moravany nad Váhom		locality	4
+92207	1126011541	Veľké Kostoľany		locality	4
+92210	101784037	Trebatice		locality	15
 92241	101784043	Drahovce		locality	1
 92403	101783947	Galanta		locality	5
 92427	101783947	Galanta		locality	1
 92452	101783947	Galanta		locality	1
+92507	101833931	Mostová		locality	2
+92508	101833927	Čierny Brod		locality	8
 92509	101786399	Košúty		locality	20
 92521	101843733	Sládkovičovo		locality	6
 92522	101786401	Veľké Úľany		locality	4
+92542	101786397	Trstice		locality	24
 92553	101785193	Pata		locality	1
+92562	101785199	Váhovce		locality	3
 92584	101833923	Vlčany		locality	2
 92600	101834125	Sereď		locality	17
-92601	101834125	Sereď		locality	66
 92700	101786393	Šaľa		locality	1
-92701	101786393	Šaľa		locality	10
-92901	101786315	Dunajska Streda		locality	18
+92701	101786393	Šaľa		locality	19
 93003	101858939	Kostolné Kračany		locality	2
+93005	101787497	Gabčíkovo		locality	4
 93007	1125957363	Medveďov		locality	7
 93008	101787499	Čiližská Radvaň		locality	2
-93010	101845713	Dolný Štál		locality	93
+93010	1175613659	Dolný Štál		locality	92
 93021	101786309	Jahodná		locality	1
+93035	1226536745	Na Ostrove		locality	6
 93041	1126052943	Kvetoslavov		locality	4
 93041	1126052933	Hviezdoslavov		locality	1
-93405	101843751	Levice		locality	3
-93503	101783971	Bátovce		locality	2
+93201	101787503	Veľký Meder		locality	11
+93401	101843751	Levice		locality	312
 93521	101783967	Tlmače		locality	206
+93521	1360291889	Lipnik		locality	198
+93521	1292938701	Male Kozmalovce		locality	1
 93522	101843759	Kozárovce		locality	6
-93524	101783969	Čajkov		locality	7
+93523	1193275957	Rybnik		locality	509
+93527	1209415665	Hronske Kosihy		locality	10
 93528	101783967	Tlmače		locality	1
-93529	101783981	Hronské Kľačany		locality	4
 93533	1125987785	Nový Tekov		locality	8
 93561	101786429	Hronovce		locality	1
-93601	101786421	Šahy		locality	15
-94001	101786339	Nové Zámky		locality	6
-94002	101786339	Nové Zámky		locality	7
+93601	101786421	Šahy		locality	14
+94002	101786339	Nové Zámky		locality	8
 94049	101786339	Nové Zámky		locality	1
-94064	101786339	Nové Zámky		locality	1
+94065	101786339	Nové Zámky		locality	1
 94066	101786339	Nové Zámky		locality	1
 94075	101786339	Nové Zámky		locality	1
 94101	101786359	Bánov		locality	3
 94104	101834107	Mojzesovo		locality	2
 94110	101786351	Tvrdošovce		locality	3
-94131	101786331	Dvory nad Žitavou		locality	2
-94137	101780207	Strekov		locality	3
-94148	101786353	Podhájska		locality	63
-94201	101786365	Šurany		locality	21
+94131	101786331	Dvory nad Žitavou		locality	1
+94301	101834157	Štúrovo		locality	623
 94342	101787505	Gbelce		locality	1
+94342	1326536211	Sarkan		locality	1
 94357	101780209	Kamenín		locality	1
 94360	101787509	Nána		locality	1
 94501	101913501	Komárno		locality	1
-94603	101787465	Kolárovo		locality	6
-94701	101787485	Hurbanovo		locality	8
-94901	101752049	Nitra		locality	2247
+94603	101787465	Kolárovo		locality	7
+94619	1276252945	Klizska Nema		locality	1
 94905	101752049	Nitra		locality	5
 94907	101752049	Nitra		locality	3
-94911	101752049	Nitra		locality	348
+94911	101752049	Nitra		locality	353
 95015	101752049	Nitra		locality	1
-95101	101754901	Nitrianske Hrnčiarovce		locality	1
-95141	101754899	Kajsa		locality	1
-95193	101784003	Topoľčianky		locality	1
-95201	101785251	Vráble		locality	118
+95101	101754901	Nitrianske Hrnčiarovce		locality	8
+95112	101785231	Ivanka pri Nitre		locality	2
+95141	101754899	Kajsa		locality	3
+95152	1226747999	Vieska nad Zitavou		locality	1
+95175	1326536097	Vel'ke Chrast'any		locality	11
+95191	1310411849	Mankovce		locality	3
+95193	1125860507	Topoľčianky		locality	12
+95195	101784001	Obyce		locality	2
+95201	101785251	Vráble		locality	119
 95300	101875819	Zlaté Moravce		locality	1
-95301	101875819	Zlaté Moravce		locality	68
+95301	101875819	Zlaté Moravce		locality	67
 95305	101785271	Čierne Kľačany		locality	3
 95305	101875819	Zlaté Moravce		locality	1
 95330	101875819	Zlaté Moravce		locality	1
 95342	101875819	Zlaté Moravce		locality	1
-95501	1125775895	Topoľčany		locality	53
-95503	101833941	Topoľčany		locality	49
+95501	101833941	Topoľčany		locality	56
+95501	1309809923	Podhradie		locality	1
+95503	101833941	Topoľčany		locality	97
 95605	101780215	Radošina		locality	4
+95606	1259415875	Salgovce		locality	2
 95612	101833937	Preseľany		locality	1
-95617	101784071	Solčany		locality	2
+95617	101784071	Solčany		locality	3
+95621	1292903837	Tesare		locality	1
 95622	101784059	Prašice		locality	2
 95633	101843789	Chynorany		locality	1
-95701	101781619	Bánovce nad Bebravou		locality	56
+95638	1360091265	Pochabany		locality	1
+95703	1259880875	Horne Ozorovce		locality	1
 95704	101781619	Bánovce nad Bebravou		locality	167
-95801	101784085	Partizánske		locality	1703
-95803	101784085	Partizánske		locality	1
-95804	101784085	Partizánske		locality	791
-95841	1125861945	Veľké Uherce		locality	4
+95801	101784085	Partizánske		locality	1709
+95803	101784085	Partizánske		locality	2
+95804	101784085	Partizánske		locality	792
 95841	101784085	Partizánske		locality	1
+95845	1193160993	Jeskova Ves		locality	1
 95852	101784079	Žabokreky nad Nitrou		locality	271
 95854	101857935	Hradište		locality	286
-96001	101782787	Zvolen		locality	60
+96001	101782787	Zvolen		locality	65
 96002	101782787	Zvolen		locality	1
 96003	101782787	Zvolen		locality	1
 96006	101782787	Zvolen		locality	1
 96007	101782787	Zvolen		locality	1
 96201	101784103	Zvolenská Slatina		locality	3
 96202	101784103	Zvolenská Slatina		locality	1
-96205	101781555	Hriňová		locality	2
-96212	101843797	Detva		locality	7
+96205	101781555	Hriňová		locality	3
 96212	101781559	Očová		locality	2
-96231	101782785	Sliač		locality	139
+96231	101782783	Sielnica		locality	3
+96231	101782785	Sliač		locality	2
+96271	101843765	Dudince		locality	1
 96271	1125774651	Súdovce		locality	1
-96501	101843809	Žiar nad Hronom		locality	780
-96601	1125823259	Bzenica		locality	2
-96601	101843807	Hliník nad Hronom		locality	2
-96602	101858951	Vyhne		locality	2
+96501	1175613661	Žiar nad Hronom		locality	781
+96603	1209918061	Sklene Teplice		locality	1
+96611	1259993887	Jalna		locality	5
 96623	101843803	Lovčica-Trubín		locality	2
+96653	1276457531	Psiare		locality	2
 96671	101858945	Hodruša-Hámre		locality	1
-96701	101781591	Kremnica		locality	221
+96701	101781591	Kremnica		locality	279
+96701	1326543833	Horna Ves		locality	2
 96801	101875821	Nová Baňa		locality	9
 96903	101782751	Banská Štiavnica		locality	1
-97101	101752057	Prievidza		locality	7479
+96981	1226655583	Stiavnicke Bane		locality	1
+97101	101752057	Prievidza		locality	7598
 97202	101781695	Handlová		locality	295
 97202	101754903	Opatovce nad Nitrou		locality	10
 97205	101843833	Sebedražie		locality	4
 97211	101781643	Poruba		locality	1
 97212	101781655	Nedožery-Brezany		locality	391
 97213	101780223	Nitrianske Pravno		locality	2
-97215	101781635	Kľačno		locality	3
 97217	101781651	Kanianka		locality	353
-97221	101781665	Nitrianske Sučany		locality	3
+97221	101781665	Nitrianske Sučany		locality	7
 97222	101782847	Nitrica		locality	14
 97223	101782843	Dolné Vestenice		locality	6
 97226	101781661	Nitrianske Rudno		locality	569
 97231	101832695	Ráztočno		locality	19
-97231	1125880511	Jalovec		locality	6
+97231	1209415637	Jalovec		locality	6
 97232	101832693	Chrenovec-Brusno		locality	2
 97242	101781669	Lehota pod Vtáčnikom		locality	2
 97244	101781683	Kamenec pod Vtáčnikom		locality	156
 97245	101782849	Bystričany		locality	3
 97246	101784139	Čereňany		locality	150
 97247	101784143	Oslany		locality	64
+97248	1360108779	Radobica		locality	48
 97251	101781695	Handlová		locality	1277
-97271	101875825	Nováky		locality	6
-97401	101752053	Banska Bystrica		locality	1580
-97404	101752053	Banska Bystrica		locality	3233
-97405	101752053	Banska Bystrica		locality	1482
+97271	101875825	Nováky		locality	11
+97401	101752053	Banska Bystrica		locality	1584
+97401	1276777715	Riecka		locality	3
+97401	1125993801	Špania Dolina		locality	1
+97404	101752053	Banska Bystrica		locality	3240
+97405	101752053	Banska Bystrica		locality	1487
 97409	101752053	Banska Bystrica		locality	31
-97411	101752053	Banska Bystrica		locality	1152
+97411	101752053	Banska Bystrica		locality	1155
 97611	1125979341	Selce		locality	1
-97613	101843821	Slovenská Ľupča		locality	6
+97613	101843821	Slovenská Ľupča		locality	1
 97633	101782835	Poniky		locality	3
-97645	101858953	Hronec		locality	314
-97645	1125830955	Osrblie		locality	2
-97646	101875827	Valaská		locality	75
+97633	1310505529	Lehotka		locality	1
+97637	101781631	Hrochoť		locality	3
+97645	101858953	Hronec		locality	315
+97645	1125830955	Osrblie		locality	1
+97646	101875827	Valaská		locality	81
 97652	101781757	Čierny Balog		locality	5
-97657	101832701	Michalová		locality	2
 97664	101780225	Beňuš		locality	2
 97669	101843851	Pohorelá		locality	1
-97671	101782851	Šumiac		locality	1
+97671	101782851	Šumiac		locality	2
 97681	1126007513	Horná Lehota		locality	7
+97681	101781751	Podbrezová		locality	3
 97697	101843853	Nemecká		locality	2
-97701	101780227	Brezno		locality	6
+97701	101780227	Brezno		locality	73
 97746	101780227	Brezno		locality	1
+98023	1242795541	Teply Vrch		locality	1
 98055	101782825	Klenovec		locality	1
-98401	101782765	Lučenec		locality	10
+98401	101843787	Vidiná		locality	1
 98526	101782793	Málinec		locality	7
-98559	101843787	Vidiná		locality	2
+98559	101843787	Vidiná		locality	1
+98601	101782757	Biskupice		locality	1
 98601	1125769547	Fiľakovo		locality	1
-98701	101782797	Poltár		locality	13
+98701	101782797	Poltár		locality	12
 99001	101785269	Veľký Krtíš		locality	4
+99102	101785259	Dolná Strehová		locality	1
+99106	1309726087	Kovacovce		locality	1
 511010	1125987785	Nový Tekov		locality	1
 900025	1125957335	Chorvátsky Grob		locality	1

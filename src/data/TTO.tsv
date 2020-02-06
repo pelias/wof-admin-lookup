@@ -1,21 +1,36 @@
-TT	1141909165	Port of Spain		locality	5
-00000	1141906285	San Fernando		locality	3
+TT	1141909165	Port of Spain		locality	4
+00000	1125939149	San Fernando		locality	3
 TT	890434913	Couva		locality	3
-00000	1125939117	Port of Spain		locality	2
+00000	1141909165	Port of Spain		locality	2
 TT	890429563	Marabella		locality	2
 0000	890434915	Arima		locality	1
-0000	1125939117	Port of Spain		locality	1
-0000	1141906285	San Fernando		locality	1
+0000	1141909165	Port of Spain		locality	1
+0000	1125939149	San Fernando		locality	1
+00000	1293725121	Cumuto		locality	1
+00000	1259502127	Crown Point		locality	1
 1 868-681-2822	421179085	Arouca		locality	1
+686	1344191385	Saint Augustine		locality	1
 868	421174661	San Juan		locality	5
 868	1141909165	Port of Spain		locality	2
+868	1259619539	Barataria		locality	1
+868	1344191385	Saint Augustine		locality	1
 868 370-8825	421174661	San Juan		locality	1
 868 793-7962	421174661	San Juan		locality	1
 1868	421174661	San Juan		locality	2
+1868	1276696055	Morvant		locality	1
 1868 466-1919	421174661	San Juan		locality	1
 1868 723-0401	421174661	San Juan		locality	1
-1898	1141906285	San Fernando		locality	1
-190130	1125939117	Port of Spain		locality	2
+1868 774-7322	421174661	San Juan		locality	1
+1898	1125939149	San Fernando		locality	1
+17005	1276158059	Diego Martin		locality	1
+120110	1259619539	Barataria		locality	1
+190130	1141909165	Port of Spain		locality	2
 300831	890434915	Arima		locality	1
+310407	1326563895	Saint Joseph		locality	1
+351350	1226373969	D'Abadie		locality	1
+351443	1226373969	D'Abadie		locality	9
 450626	1125939133	Sangre Grande		locality	1
 460626	1125939133	Sangre Grande		locality	1
+500125	890429567	Chaguanas		locality	1
+551420	890434913	Couva		locality	2
+602418	1125939149	San Fernando		locality	1

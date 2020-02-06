@@ -1,67 +1,419 @@
-5000	1141908691	Salto		locality	1
-11000	890437681	Montevideo		locality	38
-11100	890437681	Montevideo		locality	74
+0053	890437681	Montevideo		locality	1
+3463	1225815657	Sauce		locality	53
+5000	1125868227	Salto		locality	1
+11000	890437681	Montevideo		locality	41
+11100	890437681	Montevideo		locality	101
 11110	890437681	Montevideo		locality	1
 11114	890437681	Montevideo		locality	1
-11200	890437681	Montevideo		locality	66
-11300	890437681	Montevideo		locality	55
+11200	890437681	Montevideo		locality	74
+11300	890437681	Montevideo		locality	63
 11303	890437681	Montevideo		locality	1
-11400	890437681	Montevideo		locality	23
+11400	890437681	Montevideo		locality	22
 11403	890437681	Montevideo		locality	1
-11500	890437681	Montevideo		locality	7
-11600	890437681	Montevideo		locality	32
+11500	890437681	Montevideo		locality	8
+11600	890437681	Montevideo		locality	44
 11600	421201415	San Carlos		locality	1
-11700	890437681	Montevideo		locality	14
-11800	890437681	Montevideo		locality	21
+11700	890437681	Montevideo		locality	15
+11800	890437681	Montevideo		locality	32
 11900	890437681	Montevideo		locality	2
-12000	890437681	Montevideo		locality	6
-12100	890437681	Montevideo		locality	2
+12000	890437681	Montevideo		locality	7
+12100	890437681	Montevideo		locality	15
 12200	890437681	Montevideo		locality	2
-12500	890437681	Montevideo		locality	3
-12800	890437681	Montevideo		locality	2
+12400	890437681	Montevideo		locality	49
+12500	890437681	Montevideo		locality	5
+12500	421182653	La Paz		locality	1
+12600	890437681	Montevideo		locality	16
+12800	890437681	Montevideo		locality	2598
 12900	890437681	Montevideo		locality	11
-15100	421175147	Salinas		locality	1
-15600	890437173	Pando		locality	1
+13000	890437681	Montevideo		locality	1192
+15000	421205223	Paso de Carrasco		locality	2663
+15100	421175147	Salinas		locality	1852
+15100	1293695625	Pinamar		locality	1418
+15100	1276445433	Marindia		locality	1072
+15100	421192977	Neptunia		locality	531
+15100	1310208175	Fortin de Santa Rosa		locality	175
+15100	421168009	Atlántida		locality	1
+15200	421168009	Atlántida		locality	2917
+15200	1276348667	Las Toscas		locality	2143
+15200	1242887101	Estacion Atlantida		locality	666
+15200	1343765037	Villa Argentina		locality	449
+15200	1310208175	Fortin de Santa Rosa		locality	2
+15300	421170235	Parque del Plata		locality	4788
+15300	421181139	La Floresta		locality	1789
+15300	421203979	Costa Azul		locality	1508
+15300	421175197	Bello Horizonte		locality	678
+15300	1225857775	Estacion La Floresta		locality	319
+15300	1344165839	Guazu-Vira		locality	292
+15300	1276348667	Las Toscas		locality	3
+15300	421168009	Atlántida		locality	2
+15400	421170961	San Luis		locality	1951
+15400	890441457	Cuchilla Alta		locality	1005
+15400	1260093011	Santa Lucia del Este		locality	718
+15400	1310009095	Jaureguiberry		locality	586
+15400	1226255755	Los Titanes		locality	394
+15400	890442503	La Tuna		locality	332
+15400	1343574069	Argentino		locality	234
+15400	1276556789	Biarritz		locality	119
+15400	1243185433	Capilla de Cella		locality	39
+15400	1309806637	Piedras de Afilar		locality	24
+15500	421197557	Joaquín Suárez		locality	1529
+15600	890437173	Pando		locality	5903
+15600	421179053	Empalme Olmos		locality	995
+15600	421185741	Dr. Francisco Soca		locality	626
+15600	1242979459	Jardines de Pando		locality	168
+15600	1209628141	Estanque de Pando		locality	130
+15600	1193149945	Piedra del Toro		locality	103
+15600	421168009	Atlántida		locality	100
+15600	1226649367	La Montanesa		locality	89
+15700	421185775	Toledo		locality	818
+15700	1226750645	Villa San Jose		locality	289
+15900	421181401	Las Piedras		locality	13685
+15900	421182653	La Paz		locality	3674
+15900	421168219	Progreso		locality	3458
+15900	1243070747	Villa Felicidad		locality	270
+15900	1243372413	Parada Cabrera		locality	116
+15900	1310604125	Villa San Cono		locality	33
 16000	421168009	Atlántida		locality	1
 16100	421170235	Parque del Plata		locality	1
-20000	421176163	Maldonado		locality	192
+20000	421176163	Maldonado		locality	10976
+20000	421169061	Punta del Este		locality	2595
+20000	1327423471	Cerro Pelado		locality	1360
+20000	1125867639	Punta Ballena		locality	981
+20000	1360069783	La Barra		locality	738
+20000	1293479643	El Tesoro		locality	642
+20000	1343947703	Jose Ignacio		locality	408
+20000	1276329057	El Chorro		locality	351
+20000	1310491367	La Capuera		locality	273
+20000	1209095947	Manantiales		locality	270
+20000	1293276803	Ocean Park		locality	126
+20000	1277095211	Santa Monica		locality	112
+20000	1193036875	Sauce de Portezuelo		locality	89
+20000	1277095327	Chihuahua		locality	46
+20000	1326820083	Arenas de Jose Ignacio		locality	35
+20000	1343557549	Las Cumbres		locality	8
+20000	1193267897	Eden Rock		locality	2
+20004	1310491367	La Capuera		locality	1
 20005	421176163	Maldonado		locality	1
-20100	421169061	Punta del Este		locality	6
-20200	1125993683	Piriápolis		locality	2
-20300	890437175	Pan de Azúcar		locality	1
-20400	421201415	San Carlos		locality	2
+20100	421169061	Punta del Este		locality	2361
+20200	1125993683	Piriápolis		locality	4460
+20200	1243544381	Playa Hermosa		locality	909
+20200	1260177873	Playa Grande		locality	857
+20200	421186369	Playa Verde		locality	496
+20200	421193327	Solís		locality	452
+20200	1209025337	Las Flores		locality	386
+20200	1293583721	Punta Negra		locality	119
+20300	890437175	Pan de Azúcar		locality	1879
+20300	1327452673	Gregorio Aznares		locality	186
+20300	1310001755	Gerona		locality	100
+20300	1310595989	Cerros Azules		locality	72
+20400	421201415	San Carlos		locality	7538
+20400	1310696321	Barrio Hipodromo		locality	310
+20400	421196133	Garzón		locality	96
+20400	1310294671	Parque Medina		locality	16
+20400	1360174285	Canteras de Marelli		locality	5
+20500	421176175	Aiguá		locality	1017
 22100	421169061	Punta del Este		locality	6
-27000	1125868231	Rocha		locality	1
+27000	1141908487	Rocha		locality	7861
+27000	1209798899	Diecinueve de Abril		locality	63
+27000	1310089039	Puerto de los Botes		locality	7
+27000	1226513209	Paralle		locality	3
 27001	421201403	La Paloma		locality	1
-27004	421195421	La Pedrera		locality	1
-27100	890435991	Chuy		locality	2
-27204	890435613	Punta del Diablo		locality	4
-30000	421201421	Minas		locality	1
-33000	890444641	Treinta y Tres		locality	7
-37000	1125781787	Melo		locality	2
-40000	1125868243	Rivera		locality	5
-45000	890438277	Tacuarembó		locality	10
-45100	890437189	Paso de los Toros		locality	2
-45200	421177603	San Gregorio de Polanco		locality	1
-50000	1125868227	Salto		locality	58
-55000	421184473	Artigas		locality	165
-60000	890444643	Paysandú		locality	9
+27004	1209598901	La Pedrera		locality	1
+27100	890435991	Chuy		locality	3167
+27100	421181117	La Coronilla		locality	337
+27100	1125936589	Dieciocho de Julio		locality	330
+27100	1242845273	Palmares de la Coronilla		locality	7
+27200	421169065	Castillos		locality	2788
+27200	1360056461	Aguas Dulces		locality	962
+27200	890435613	Punta del Diablo		locality	732
+27200	1193262005	Barra de Valizas		locality	371
+27200	1209193261	La Esmeralda		locality	123
+27204	890435613	Punta del Diablo		locality	5
+27300	421185765	Velázquez		locality	385
+27300	890435993	Cebollatí		locality	342
+27300	1209288255	San Luis al Medio		locality	229
+27300	1326825935	Los Talas		locality	13
+27300	421199723	Lascano		locality	1
+27400	421201403	La Paloma		locality	2653
+27400	1309784759	La Aguada		locality	1048
+27400	1209598901	La Pedrera		locality	436
+27400	1125867647	Arachania		locality	267
+27400	1293373505	Punta Rubia		locality	148
+27400	421201895	San Antonio		locality	16
+27400	1293184373	Cabo Polonio		locality	13
+30000	421201421	Minas		locality	12121
+30000	421180703	Mariscala		locality	453
+30000	1242563291	Piraraja		locality	289
+30000	1343647191	Villa Serrana		locality	45
+30000	1243525601	La Coronilla		locality	33
+30000	1276641399	Estacion Solis		locality	19
+30000	1242859979	Colon		locality	6
+30000	1310190761	Polanco Norte		locality	6
+30100	1125868263	Solís de Mataojo		locality	776
+30300	421168575	José Pedro Varela		locality	1461
+30300	1226619979	Diecinueve de Junio		locality	22
+30300	1326492793	Maria Albina		locality	1
+31100	890435391	Vergara		locality	1175
+31100	1226507969	Mendizabal		locality	14
+31100	1242948253	Arrozal Treinta y Tres		locality	1
+33000	890444641	Treinta y Tres		locality	9112
+33000	1209598863	General Enrique Martinez		locality	355
+33000	890437187	Villa Sara		locality	347
+33000	1226117617	Rincon		locality	202
+33000	1243338733	Villa Passano		locality	5
+33000	1343636627	Isla Patrulla		locality	3
+34100	1242958739	Zapican		locality	141
+34200	421179851	José Batlle y Ordóñez		locality	725
+34200	1259379691	Nico Perez		locality	209
+34200	1259680899	Illescas		locality	28
+35100	1343737447	Valentines		locality	63
+35200	1343426501	Cerro Chato		locality	931
+35300	421168215	Santa Clara de Olimar		locality	526
+36100	421185773	Tupambaé		locality	356
+36200	1310013265	Fraile Muerto		locality	836
+36200	1276424583	Cerro de las Cuentas		locality	88
+36200	1193002027	Toledo		locality	34
+37000	1141906823	Melo		locality	12430
+37000	1276454779	Arbolito		locality	33
+37100	1242972755	Placido Rosas		locality	125
+37100	1360086873	Uruguay		locality	31
+40000	1125868243	Rivera		locality	16853
+40000	1344132849	La Pedrera		locality	634
+40000	1293077487	Lapuente		locality	95
+40000	1243158397	Paso Ataques		locality	1
+40100	421167931	Tranqueras		locality	2057
+41100	421201887	Minas de Corrales		locality	1244
+41100	1226528543	La Calera		locality	6
+41200	421185763	Vichadero		locality	1215
+41200	1209391229	Moirones		locality	53
+41200	1260269257	Arroyo Blanco		locality	17
+45000	890438277	Tacuarembó		locality	13387
+45000	1360165845	Ansina		locality	566
+45000	1277140157	Tambores		locality	331
+45000	421176169	Curtina		locality	306
+45000	1226518097	Achar		locality	261
+45000	1326493371	Las Toscas		locality	136
+45000	1276832761	Paso del Cerro		locality	85
+45000	1259349043	Paso Bonilla		locality	59
+45000	1243417389	Cruz de los Caminos		locality	53
+45000	1260245105	Balneario Ipora		locality	40
+45000	1209087577	Piedra Sola		locality	36
+45000	1344132849	La Pedrera		locality	33
+45000	1276416325	Clara		locality	10
+45000	1293759429	Pueblo de Barro		locality	9
+45000	1226812343	Pueblo de Arriba		locality	5
+45000	1309781933	Poblado Laureles		locality	2
+45100	890437189	Paso de los Toros		locality	3835
+45100	1309781891	Cuchilla de Peralta		locality	53
+45100	1360272391	Sarandi de Navarro		locality	29
+45100	1209882453	Chamberlain		locality	22
+45100	1277004703	Rincon del Bonete		locality	1
+45200	421177603	San Gregorio de Polanco		locality	1219
+50000	1125868227	Salto		locality	22732
+50000	1276199095	Termas del Dayman		locality	169
+50000	1326806237	Poblado Lavalleja		locality	111
+50000	1209197267	Albisu		locality	84
+50000	1226325363	Sarandi del Arapey		locality	52
+50000	421185245	Termas del Arapey		locality	29
+50000	1209385211	Palomas		locality	7
+50000	1226629057	Saucedo		locality	7
+50000	1243246549	Rincon de Valentin		locality	3
+50000	1259465825	Arenitas Blancas		locality	1
+50000	1209986741	Pueblo Cayetano		locality	1
+50000	1293472807	Colonia Itapebi		locality	1
+50000	1310574373	Laureles		locality	1
+50000	1293265353	Puntas de Valentin		locality	1
+50100	890435989	Constitución		locality	528
+50200	421168577	Belén		locality	364
+50200	1360258341	Chacras de Belen		locality	41
+55000	421184473	Artigas		locality	11069
+55000	421176173	Baltasar Brum		locality	664
+55000	1344171223	Pintadito		locality	238
+55000	1226446661	Pueblo Sequeira		locality	204
+55000	1242595203	Bernabe Rivera		locality	137
+55000	1293004765	Cerro Ejido		locality	104
+55000	1293218179	Paso Campamento		locality	52
+55000	1242787385	Javier de Viana		locality	49
+55000	1242791807	Cuaro		locality	46
+55000	1243381133	Topador		locality	43
+55000	1209529955	Rincon de Pacheco		locality	5
+55100	421169069	Bella Unión		locality	3077
+55100	421201891	Tomás Gomensoro		locality	568
+55100	1225953859	Cuareim		locality	171
+55100	1343961987	Coronado		locality	128
+55100	1343575493	Portones de Hierro y Campodonico		locality	90
+55100	1327248997	Franquia		locality	65
+55100	1360003483	Colonia Palma		locality	15
+60000	421186921	Paysandú		locality	18674
+60000	421183675	Nuevo Paysandú		locality	1174
+60000	421180693	Porvenir		locality	181
+60000	1259561579	Constancia		locality	82
+60000	1310579431	Orgoroso		locality	67
+60000	1243251667	Gallinal		locality	65
+60000	1226624367	Esperanza		locality	21
+60000	1310679277	Federacion		locality	11
+60000	1310682215	El Eucalipto		locality	8
+60000	1276852119	Zeballos		locality	3
+60000	1209292563	Araujo		locality	2
+60000	1276536743	Cerro Chato		locality	1
 60008	421197559	Guichón		locality	3
-65100	890424197	Young		locality	1
-70000	421199749	Colonia del Sacramento		locality	8
+60100	421197559	Guichón		locality	1312
+60100	1226230351	Merinos		locality	168
+60100	1293081241	Los Mellizos		locality	99
+60100	1259370887	Pinera		locality	51
+60100	1193259561	Arbolito		locality	17
+60100	1343935929	Morato		locality	16
+60100	1225932331	Tiatucura		locality	3
+60200	421168217	Quebracho		locality	630
+60200	1226027671	Guaviyu de Arapey		locality	6
+60300	890433217	Piedras Coloradas		locality	267
+60300	1344134945	Arroyo Negro		locality	4
+65000	421186925	Fray Bentos		locality	6515
+65000	421182593	San Javier		locality	622
+65000	421205317	Nuevo Berlín		locality	560
+65000	1276955627	Las Canas		locality	132
+65000	1243531633	Tres Quintas		locality	29
+65001	421182593	San Javier		locality	1
+65100	890424197	Young		locality	4442
+65100	1293566439	Algorta		locality	180
+65100	1193117237	Grecco		locality	138
+65100	1326510235	Villa General Borges		locality	46
+65100	1259966869	Villa Maria		locality	44
+70000	421199749	Colonia del Sacramento		locality	6949
+70000	1193051077	Artilleros		locality	199
+70000	1310501947	Conchillas		locality	152
+70000	1293104789	El Semillero		locality	33
+70000	1226748041	El Ensueno		locality	27
+70000	421200057	Santa Rosa		locality	4
 70003	890437181	Ombúes de Lavalle		locality	1
-70100	421199747	Carmelo		locality	1
+70005	1226342589	Cerro de las Armas		locality	1
+70005	1209920123	Miguelete		locality	1
+70100	421199747	Carmelo		locality	5446
+70100	1243560653	Zagarzazu		locality	72
+70100	1226314367	Pueblo Castillos		locality	29
+70100	1226348309	El Cerro		locality	18
 70101	890437183	Nueva Palmira		locality	2
-70200	421192257	Rosario		locality	1
+70200	421192257	Rosario		locality	3259
+70200	421199385	La Paz		locality	226
+70200	1242678217	Barker		locality	11
 70201	421199727	Nueva Helvecia		locality	1
-70202	421201951	Colonia Valdense		locality	10
-75000	890437191	Mercedes		locality	1
-85000	890444639	Trinidad		locality	3
-90000	890444649	Canelones		locality	13
-90200	421181401	Las Piedras		locality	2
+70202	421201951	Colonia Valdense		locality	5
+70300	421199727	Nueva Helvecia		locality	2886
+70300	1260104423	Britopolis		locality	172
+70300	1243364015	Blanca Arena		locality	132
+70300	1243555279	Fomento		locality	117
+70300	1259690145	Cufre		locality	69
+70300	1210040709	Brisas del Plata		locality	50
+70300	1259383235	Santa Regina		locality	32
+70300	1326654161	Boca del Rosario		locality	1
+70400	421201951	Colonia Valdense		locality	910
+70500	890444647	Juan Lacaze		locality	3660
+70500	1259783957	Colonia Cosmopolita		locality	37
+70600	421201893	Tarariras		locality	2172
+70600	1344063147	Paso de Antolin		locality	7
+70700	890437183	Nueva Palmira		locality	3192
+70700	1344120441	Agraciada		locality	225
+70800	890437181	Ombúes de Lavalle		locality	912
+70800	1209920123	Miguelete		locality	303
+70800	1259985931	Campana		locality	35
+75000	890437191	Mercedes		locality	10138
+75000	1226518617	Palmar		locality	131
+75000	1276528225	Los Arrayanes		locality	94
+75100	421176167	Dolores		locality	4181
+75100	1242845953	Chacras de Dolores		locality	347
+75100	1125868249	Villa Soriano		locality	325
+75100	1209077715	Canada Nieto		locality	120
+75100	1225808887	La Concordia		locality	68
+75100	1344120497	Palo Solo		locality	16
+75200	421170083	Cardona		locality	1498
+75200	421199637	Florencio Sánchez		locality	869
+75200	1193254627	Risso		locality	219
+75200	1293466081	Egana		locality	160
+75300	1125868283	Santa Catalina		locality	294
+75400	421197555	José Enrique Rodó		locality	749
+75500	421192967	Palmitas		locality	573
+80000	890421811	Rafael Perazza		locality	393
+80000	1293070663	Raigon		locality	216
+80000	1309975799	Gonzalez		locality	86
+80000	1360057921	Juan Soler		locality	72
+80000	1343231735	Villa Maria		locality	68
+80000	1277048017	Rincon del Pino		locality	62
+80000	1326999711	Carreta Quemada		locality	2
+80100	421197029	Libertad		locality	2435
+80100	1243536821	Kiyu		locality	444
+80100	1125868387	Puntas de Valdez		locality	309
+80300	890441861	Ecilda Paullier		locality	771
+80300	1343643719	Boca del Cufre		locality	136
+80300	1193248185	Scavino		locality	46
+80300	1276301905	La Boyada		locality	22
+80400	890433137	Rodríguez		locality	904
+85000	1209098639	Trinidad		locality	6512
+85000	1225808849	Ismael Cortinas		locality	256
+85000	1209407461	Andresito		locality	70
+85000	1327355593	Juan Jose Castro		locality	17
+85000	1310103105	La Casilla		locality	9
+85000	1309903743	Cerro Colorado		locality	2
+90000	890444649	Canelones		locality	4871
+90000	421192699	Juanicó		locality	171
+90000	1242882925	Paso Espinosa		locality	55
+90000	1209917129	Paso Palomeque		locality	21
+90100	421199741	Cerrillos		locality	581
+90100	1259391343	Las Brujas		locality	124
+90200	421169059	Santa Lucía		locality	4426
+90200	890433219	Aguas Corrientes		locality	365
+90200	1226628503	Ituzaingo		locality	266
+90200	1209078695	Capurro		locality	113
+90200	421181401	Las Piedras		locality	3
+90200	1277077639	Paso de Pache		locality	2
 90300	421168219	Progreso		locality	1
 90700	421169059	Santa Lucía		locality	6
-91300	421180715	San Jacinto		locality	1
-91500	421168211	Sauce		locality	1
-94000	890431207	Florida		locality	1
-97000	421169063	Durazno		locality	9
+91100	421183699	San Ramón		locality	1729
+91100	421185775	Toledo		locality	1
+91200	890433133	San Bautista		locality	515
+91200	1276560761	Castellanos		locality	160
+91300	421201895	San Antonio		locality	370
+91300	421180715	San Jacinto		locality	6
+91400	421200057	Santa Rosa		locality	939
+91500	421168211	Sauce		locality	1398
+91500	1226355315	Totoral del Sauce		locality	87
+91500	1209223393	Cruz de los Caminos		locality	77
+91600	421180715	San Jacinto		locality	1258
+91600	1242781225	Estacion Tapia		locality	72
+91600	1209724287	Estacion Pedrera		locality	36
+91600	421168009	Atlántida		locality	1
+91700	421178011	Migues		locality	634
+91700	421198957	Montes		locality	616
+91700	1209927243	Estacion Migues		locality	58
+91800	890438777	Tala		locality	1385
+94000	890431207	Florida		locality	7921
+94100	421168213	Sarandí Grande		locality	1891
+94100	1344248827	Pintado		locality	32
+94100	1343979161	Puntas de Maciel		locality	32
+94100	1209235781	Polanco del Yi		locality	27
+95100	421185767	Veinticinco de Mayo		locality	438
+95200	421172153	Cardal		locality	383
+95300	1243255323	Independencia		locality	76
+95400	421185769	Veinticinco de Agosto		locality	548
+95500	1259403925	Mendoza		locality	86
+95600	1310026873	Mendoza Chico		locality	109
+96100	1210037821	Chamizo		locality	150
+96200	1343653235	Fray Marcos		locality	694
+96200	1243267171	Bolivar		locality	52
+96300	421172151	Casupá		locality	875
+96400	1225938577	Reboledo		locality	121
+96500	421176171	Alejandro Gallinal		locality	287
+97000	421169063	Durazno		locality	8726
+97000	421185761	Villa del Carmen		locality	737
+97000	421176165	La Paloma		locality	388
+97000	1243386265	Molles		locality	333
+97000	890441863	Blanquillo		locality	292
+97000	421185449	Santa Bernardina		locality	265
+97000	1209937701	Goni		locality	76
+97000	1242800615	San Jorge		locality	64
+97000	1310336957	Ombues de Oribe		locality	15
+97000	1343784755	Aguas Buenas		locality	3
+97000	1242878869	Feliciano		locality	1
+97000	1226574869	Carpinteria		locality	1
+98000	1125868273	Sarandí del Yí		locality	2400
+98000	1209127369	Capilla del Sauce		locality	263
+98000	1226752639	Colonia Rossell y Rius		locality	21
