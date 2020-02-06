@@ -1,4 +1,4 @@
-
+const _ = require('lodash');
 const peliasLogger = require('pelias-logger');
 const logger = peliasLogger.get('wof-admin-lookup');
 const postalCityMap = require('./postalCityMap');
@@ -31,6 +31,10 @@ function usePostalCity( result, doc ){
 
   // check the localities list is valid
   if( !Array.isArray(localities) || !localities.length ){ return; }
+
+  // check if the locality ids is already in _any_ of the parent id fields
+  const locality_ids = localities.map(locality => locality.wofid);
+  if (_.intersection(getParentIDs(doc), locality_ids).length > 0) { return; }
 
   // we will use the first value instead of the PIP locality
   try {
@@ -79,6 +83,11 @@ function usePostalCity( result, doc ){
       }
     });
   }
+}
+
+function getParentIDs(doc) {
+  const ids = Object.keys(doc.parent).filter(key => key.match(/_id$/)).map(key => doc.parent[key]);
+  return _.flatten(ids);
 }
 
 function getPostalCode(doc){
