@@ -43,6 +43,38 @@ tape('tests', (test) => {
     });
   });
 
+  test.test('postal cities - USA lookup - ZIP 11238 (Brooklyn)', (t) => {
+    const inputDoc = new Document( 'whosonfirst', 'placetype', '3')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '11238');
+
+    const expectedDoc = new Document( 'whosonfirst', 'placetype', '3')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent( 'country', 'United States', '1', 'USA')
+      .addParent( 'borough', 'Brooklyn', '421205765')
+      .addParent( 'locality', 'New York', '85977539', 'NYC')
+      .setAddress('zip', '11238');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [ {id: 1, name: 'United States', abbr: 'USA'} ],
+          borough: [ {id: 421205765, name: 'Brooklyn'} ],
+          locality: [ {id: 85977539, name: 'New York', abbr: 'NYC'} ]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, {usePostalCities: true});
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'locality should NOT be replaced with postal city if already in a parent field');
+        t.end();
+      });
+    });
+  });
+
   test.test('postal cities - USA lookup - ZIP 21236', (t) => {
     const inputDoc = new Document( 'whosonfirst', 'placetype', '1')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
