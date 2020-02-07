@@ -1,4 +1,5 @@
 
+const _ = require('lodash');
 const fs = require('fs');
 const path = require('path');
 const stable = require('stable');
@@ -24,9 +25,9 @@ const USA_ISO_CODES = ['USA','ASM','GUM','MNP','PRI','VIR'];
   The columns are:
   1. Postal Code
   2. Whosonfirst ID
-  3. Locality Name
-  4. Locality Abbreviation (where available)
-  5. A 'weight' which scores the locality when resolving duplicates (higher values are considered more correct)
+  3. Place Name
+  4. Place Abbreviation (where available)
+  5. A 'weight' which scores the place when resolving duplicates (higher values are considered more correct)
 
   Mappings for additional countries would be greatly appreciated,
   please open a Pull Request.
@@ -86,9 +87,9 @@ function loadTable(cc){
   for( var postalcode in m ){
 
     // remove any invalid records
-    m[postalcode] = m[postalcode].filter(locality => {
-      if( 'string' !== typeof locality.wofid || !locality.wofid.length ){ return false; }
-      if( 'string' !== typeof locality.name  || !locality.name.length ){ return false; }
+    m[postalcode] = m[postalcode].filter(alternative => {
+      if (!_.isString(alternative.wofid) || _.isEmpty(alternative.wofid)){ return false; }
+      if (!_.isString(alternative.name) || _.isEmpty(alternative.name)){ return false; }
       return true;
     });
 
