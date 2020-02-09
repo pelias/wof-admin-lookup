@@ -43,6 +43,39 @@ tape('tests', (test) => {
     });
   });
 
+  test.test('postal cities - USA lookup - ZIP 21236 (Perry Hall, MD)', (t) => {
+    const inputDoc = new Document( 'whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '21236');
+
+    const expectedDoc = new Document( 'whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent( 'country', 'United States', '1', 'USA')
+      .addParent( 'locality', 'Nottingham', '1125996559')
+      .addParent( 'locality', 'Baltimore', '85949461')
+      .addParent( 'locality', 'Perry Hall', '85950213')
+      .addParent( 'locality', 'White Marsh', '85950229')
+      .setAddress('zip', '21236');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [ {id: 1, name: 'United States', abbr: 'USA'} ],
+          locality: [ {id: '85950213', name: 'Perry Hall'} ]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, {usePostalCities: true});
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
+        t.end();
+      });
+    });
+  });
+
   test.test('postal cities - USA lookup - ZIP 11238 (Brooklyn)', (t) => {
     const inputDoc = new Document( 'whosonfirst', 'placetype', '3')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
