@@ -1,5 +1,3 @@
-'use strict';
-
 const _ = require('lodash');
 const parallelTransform = require('parallel-transform');
 const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );

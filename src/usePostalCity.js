@@ -27,59 +27,83 @@ function usePostalCity( result, doc ){
   if( !countrycode || countrycode.length !== 3 ){ return; }
 
   // look up the 'postal city' locality
-  var localities = postalCityMap.lookup(countrycode, postalcode);
+  var alternatives = postalCityMap.lookup(countrycode, postalcode);
 
-  // check the localities list is valid
-  if( !Array.isArray(localities) || !localities.length ){ return; }
+  // check the alternatives list is valid
+  if (!_.isArray(alternatives) || _.isEmpty(alternatives) ){ return; }
 
-  // check if the locality ids is already in _any_ of the parent id fields
-  const locality_ids = localities.map(locality => locality.wofid);
-  if (_.intersection(getParentIDs(doc), locality_ids).length > 0) { return; }
+  // It's possible for alternatives to include multiple differing
+  // placetypes, such as:
+  // 11225	421205765	Brooklyn		borough	23
+  // 11225	85977539	New York	NYC	locality	1
 
-  // we will use the first value instead of the PIP locality
+  // select which placetypes to consider for replacement
+  updateParentProperty(doc, 'locality', alternatives);
+  updateParentProperty(doc, 'borough', alternatives);
+}
+
+function updateParentProperty(doc, placetype, allAlternatives){
+  // reduce the list of alternatives to only those that match
+  // the target placetype.
+  var alternatives = allAlternatives.filter(a => a.placetype === placetype);
+
+  // ensure that there is at least one alternative for this placetype
+  if( !_.isArray(alternatives) || _.isEmpty(alternatives) ){ return; }
+
+  // abort if the postal cities ids are already in _any_ of the parent id fields
+  const alternative_ids = alternatives.map(alternative => alternative.wofid);
+  if (_.intersection(getParentIDs(doc), alternative_ids).length > 0) { return; }
+
+  // we will use the first postal cities value as the 'primary' value for name/id/abbr.
+  // all other values will be added as 'aliases'.
+  // if a value was already set from PIP it will be converted to an alias and preserved.
   try {
 
-    // save the existing locality as an alias
+    // save the existing placetype as an alias
     // note: this would be better using getters, but the model does not
     // currently offer a 'getParent' method.
-    if( doc.parent.hasOwnProperty('locality') && doc.parent.locality.length &&
-        doc.parent.hasOwnProperty('locality_id') && doc.parent.locality_id.length &&
-        doc.parent.hasOwnProperty('locality_a') && doc.parent.locality_a.length ){
+    const names = _.get(doc, `parent.${placetype}`);
+    const ids = _.get(doc, `parent.${placetype}_id`);
+    const abbrs = _.get(doc, `parent.${placetype}_a`);
 
-      // append the existing localities on to the postal city localities array
-      localities = localities.concat(
-        doc.parent.locality.map((_, i) => {
+    if ( _.isArray(names) && !_.isEmpty(names) &&
+         _.isArray(ids) && !_.isEmpty(ids) &&
+         _.isArray(abbrs) && !_.isEmpty(abbrs)) {
+
+      // append the existing alternatives on to the postal city alternatives array
+      alternatives = alternatives.concat(
+        names.map((_, i) => {
           return {
-            name:   doc.parent.locality[i],
-            wofid:  doc.parent.locality_id[i],
-            abbr:   doc.parent.locality_a[i]
+            name: names[i],
+            wofid: ids[i],
+            abbr: abbrs[i]
           };
         })
       );
     }
 
     // remove the existing locality info
-    doc.clearParent('locality');
+    doc.clearParent(placetype);
 
-    // deduplicate localities
-    localities = localities.filter((locality, index, self) => {
-      return index === self.findIndex(t => t.wofid === locality.wofid);
+    // deduplicate alternatives
+    alternatives = alternatives.filter((alternative, index, self) => {
+      return index === self.findIndex(t => t.wofid === alternative.wofid);
     });
 
-    // add all localities, using the first matching postal locality as the default
-    // and then indexing all other localities as aliases (including any existing localities)
-    localities.forEach(locality => {
+    // add all alternatives, using the first matching postal alternative as the default
+    // and then indexing all other alternatives as aliases (including any existing alternatives)
+    alternatives.forEach(alternative => {
 
       // note: addParent can throw an error if, for example, name is an empty string
-      doc.addParent('locality', locality.name, locality.wofid, locality.abbr);
+      doc.addParent(placetype, alternative.name, alternative.wofid, alternative.abbr);
     });
   }
   catch (err) {
     logger.warn('invalid value', {
       centroid: doc.getCentroid(),
       result: {
-        type: 'locality',
-        values: localities
+        type: placetype,
+        values: alternatives
       }
     });
   }
@@ -95,10 +119,10 @@ function getPostalCode(doc){
 }
 
 function getCountryCode(result){
-  if( Array.isArray(result.dependency) && result.dependency.length && result.dependency[0].abbr ){
+  if (_.isArray(result.dependency) && !_.isEmpty(result.dependency) && result.dependency[0].abbr ){
     return result.dependency[0].abbr.toUpperCase();
   }
-  if( Array.isArray(result.country) && result.country.length && result.country[0].abbr ){
+  if (_.isArray(result.country) && !_.isEmpty(result.country) && result.country[0].abbr ){
     return result.country[0].abbr.toUpperCase();
   }
   return '';
