@@ -50,13 +50,6 @@ function updateParentProperty(doc, placetype, allAlternatives){
   // ensure that there is at least one alternative for this placetype
   if( !_.isArray(alternatives) || _.isEmpty(alternatives) ){ return; }
 
-  // abort if the postal cities ids are already in _any_ of the parent id fields
-  const alternative_ids = alternatives.map(alternative => alternative.wofid);
-  if (_.intersection(getParentIDs(doc), alternative_ids).length > 0) { return; }
-
-  // we will use the first postal cities value as the 'primary' value for name/id/abbr.
-  // all other values will be added as 'aliases'.
-  // if a value was already set from PIP it will be converted to an alias and preserved.
   try {
 
     // save the existing placetype as an alias
@@ -107,11 +100,6 @@ function updateParentProperty(doc, placetype, allAlternatives){
       }
     });
   }
-}
-
-function getParentIDs(doc) {
-  const ids = Object.keys(doc.parent).filter(key => key.match(/_id$/)).map(key => doc.parent[key]);
-  return _.flatten(ids);
 }
 
 function getPostalCode(doc){
