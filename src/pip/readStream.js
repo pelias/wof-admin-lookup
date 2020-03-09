@@ -7,7 +7,11 @@ const simplifyGeometry = require('./components/simplifyGeometry');
 const filterOutCitylessNeighbourhoods = require('./components/filterOutCitylessNeighbourhoods');
 const filterOutHierarchylessNeighbourhoods = require('./components/filterOutHierarchylessNeighbourhoods');
 const filterOutPointRecords = require('./components/filterOutPointRecords');
+const combinedStream = require('combined-stream');
+const fs = require('fs');
 const SQLiteStream = whosonfirst.SQLiteStream;
+
+const SQLITE_REGEX = /whosonfirst-data-[a-z0-9-]+\.db$/;
 
 function readBundleRecords(datapath, layer) {
   return whosonfirst.metadataStream(datapath).create(layer)
@@ -17,13 +21,25 @@ function readBundleRecords(datapath, layer) {
     .pipe(whosonfirst.loadJSON(datapath, false));
 }
 
+function getSqliteFilePaths(root) {
+  return fs.readdirSync(root)
+    .filter(d => SQLITE_REGEX.test(d))
+    .map(db => path.join(root, db));
+}
+
 function readSqliteRecords(datapath, layer) {
-  return new SQLiteStream(
-    path.join(datapath, 'sqlite', 'whosonfirst-data-latest.db'),
-    config.importPlace ?
-    SQLiteStream.findGeoJSONByPlacetypeAndWOFId(layer, config.importPlace) :
-    SQLiteStream.findGeoJSONByPlacetype(layer)
-  ).pipe(whosonfirst.toJSONStream());
+  const sqliteStream = combinedStream.create();
+  getSqliteFilePaths(path.join(datapath, 'sqlite')).forEach(dbPath => {
+    sqliteStream.append(next => {
+      next(new SQLiteStream(
+        dbPath,
+        config.importPlace ?
+        SQLiteStream.findGeoJSONByPlacetypeAndWOFId(layer, config.importPlace) :
+        SQLiteStream.findGeoJSONByPlacetype(layer)
+      ));
+    });
+  });
+  return sqliteStream.pipe(whosonfirst.toJSONStream());
 }
 
 /**

@@ -46,9 +46,9 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
 
   if (isSqlite === true) {
-    const filename = path.join(datapath, 'sqlite', 'whosonfirst-data-latest.db');
-    if (!fs.existsSync(filename)) {
-      return callback(`unable to locate sqlite file ${filename}`);
+    const folder = path.join(datapath, 'sqlite');
+    if (!fs.existsSync(folder)) {
+      return callback(`unable to locate sqlite folder`);
     }
   } else {
     // keep track of any missing metafiles for later reporting and error conditions
