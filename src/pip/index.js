@@ -5,8 +5,6 @@
  * functions for initializing them and searching them.
  */
 
-'use strict';
-
 const path = require('path');
 const childProcess = require( 'child_process' );
 const logger = require( 'pelias-logger' ).get( 'wof-pip-service:master' );
@@ -134,6 +132,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 function killAllWorkers() {
   _.values(workers).forEach(worker => worker.kill());
 }
+module.exports.killAllWorkers = killAllWorkers;
 
 function startWorker(datapath, layer, localizedAdminNames, callback) {
   const worker = childProcess.fork(path.join(__dirname, 'worker'), [layer, datapath, localizedAdminNames]);

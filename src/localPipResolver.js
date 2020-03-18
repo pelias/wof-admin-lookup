@@ -2,6 +2,7 @@
 
 const logger = require('pelias-logger').get('wof-admin-lookup');
 const createPipService = require('./pip/index').create;
+const killAllWorkers = require('./pip/index').killAllWorkers;
 const _ = require('lodash');
 
 /**
@@ -19,7 +20,6 @@ function LocalPipService(datapath, layers) {
     }
     self.pipService = service;
   });
-
 }
 
 /**
@@ -76,6 +76,13 @@ LocalPipService.prototype.end = function end() {
   if (this.pipService) {
     logger.info('Shutting down admin lookup service');
     this.pipService.end();
+  } else {
+    /**
+     * this is required to handle the case where the '$this.pipService'
+     * variable is not available yet but the stream has ended and needs to
+     * terminate all workers, such as when the stream input is /dev/null.
+    */
+    killAllWorkers();
   }
 };
 
