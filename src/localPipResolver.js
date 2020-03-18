@@ -82,6 +82,8 @@ LocalPipService.prototype.end = function end() {
      * variable is not available yet but the stream has ended and needs to
      * terminate all workers, such as when the stream input is /dev/null.
     */
+    logger.info('Shutting down admin lookup service');
+    logger.info('Ensure your input file is valid before retrying');
     killAllWorkers();
   }
 };
