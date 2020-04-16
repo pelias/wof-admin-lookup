@@ -31,10 +31,27 @@ fields that contain the point.
 
 ### Usage
 
-There are two possible ways to retrieve admin hierarchy: using remote 
-[pip service](https://github.com/pelias/pip-service) or load data into memory. It's recommended to use
-remote service in all cases (see downsides section bellow).
- 
+There are two possible ways to retrieve admin hierarchy: using remote
+[pip service](https://github.com/pelias/pip-service) or load data into memory.
+
+#### Remote PIP service (experimental, lower memory requirements)
+
+The remote PIP service is a good option only if memory is constrained and you'd
+like to share one instance of admin lookup data across multiple importers.
+
+The Remote PIP service is automatically enabled if the `imports.services.pip.url` property exists.
+
+#### Local admin lookup (default, fastest)
+
+Local admin lookup means that each importer needs a copy of admin lookup data available on local
+disk.
+
+The property `imports.whosonfirst.datapath` configures where the importers will look.
+
+Even though local admin lookup requires that _each_ importer load a full copy of admin lookup data
+(~8GB for the full planet) into memory, it's much faster because there is no network communication.
+It's recommended for most uses.
+
 ### Configuration
 
 Who's On First Admin Lookup module recognizes the following top-level properties in your pelias.json config file:
@@ -45,12 +62,10 @@ Who's On First Admin Lookup module recognizes the following top-level properties
     "adminLookup": {
       "enabled": true
     },
-    // NOT RECOMMENDED: getting data from folder
     "whosonfirst": {
       "datapath": "/path/to/wof-data"
     },
     "services": {
-      // getting data from remote pip service
       "pip": {
         "url": "https://mypipservice.com"
       }
