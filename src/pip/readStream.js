@@ -13,14 +13,6 @@ const SQLiteStream = whosonfirst.SQLiteStream;
 
 const SQLITE_REGEX = /whosonfirst-data-[a-z0-9-]+\.db$/;
 
-function readBundleRecords(datapath, layer) {
-  return whosonfirst.metadataStream(datapath).create(layer)
-    .pipe(whosonfirst.parseMetaFiles())
-    .pipe(whosonfirst.isNotNullIslandRelated())
-    .pipe(whosonfirst.recordHasName())
-    .pipe(whosonfirst.loadJSON(datapath, false));
-}
-
 function getSqliteFilePaths(root) {
   return fs.readdirSync(root)
     .filter(d => SQLITE_REGEX.test(d))
@@ -54,11 +46,7 @@ function readSqliteRecords(datapath, layer) {
 function readData(datapath, layer, localizedAdminNames, callback) {
   const features = [];
 
-  const stream = config.sqlite === true ?
-    readSqliteRecords(datapath, layer) :
-    readBundleRecords(datapath, layer);
-
-  stream
+  readSqliteRecords(datapath,layer)
     .pipe(whosonfirst.recordHasIdAndProperties())
     .pipe(whosonfirst.isActiveRecord())
     .pipe(filterOutPointRecords.create())

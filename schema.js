@@ -16,7 +16,6 @@ module.exports = Joi.object().keys({
         Joi.number().integer(),
         Joi.array().items(Joi.number().integer())
       ],
-      sqlite: Joi.boolean().default(false).truthy('yes').falsy('no')
     }).unknown(true),
     services: Joi.object().keys({
       pip: Joi.object().keys({
