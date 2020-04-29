@@ -94,6 +94,9 @@ function loadTable(cc){
 
     // re-sort the records by weight DESC in case they were provided out-of-order
     m[postalcode] = stable(m[postalcode], (a, b) => b.weight - a.weight);
+
+    // remove duplicate WOFID entries (favour the higher weighted duplicate)
+    m[postalcode] = _.uniqBy(m[postalcode], 'wofid');
   }
 
   return m;
