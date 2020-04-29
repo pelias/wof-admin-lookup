@@ -329,4 +329,159 @@ tape('tests', (test) => {
     });
   });
 
+  test.test('postal cities - USA lookup - ZIP 19087 - no PIP locality', (t) => {
+    const inputDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '19087');
+
+    const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('country', 'United States', '1', 'USA')
+      .addParent('locality', 'Wayne', '1125777935', undefined)
+      .addParent('locality', 'Chesterbrook', '101720389', undefined)
+      .addParent('locality', 'Radnor', '1126040557', undefined)
+      .addParent('locality', 'Radnor Township', '1259695015', undefined)
+      .addParent('locality', 'Strafford', '1126057861', undefined)
+      .setAddress('zip', '19087');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [{ id: 1, name: 'United States', abbr: 'USA' }]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, { usePostalCities: true });
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
+        t.end();
+      });
+    });
+  });
+
+  test.test('postal cities - USA lookup - ZIP 34119 - no PIP locality', (t) => {
+    const inputDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '34119');
+
+    const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('country', 'United States', '1', 'USA')
+      .addParent('locality', 'Naples', '85931799', undefined)
+      .setAddress('zip', '34119');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [{ id: 1, name: 'United States', abbr: 'USA' }]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, { usePostalCities: true });
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
+        t.end();
+      });
+    });
+  });
+
+  test.test('postal cities - USA lookup - ZIP 08540 - no PIP locality', (t) => {
+    const inputDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '08540');
+
+    const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('country', 'United States', '1', 'USA')
+      .addParent('locality', 'Princeton', '85975813', undefined)
+      .addParent('locality', 'Franklin Township', '1125871549', undefined)
+      .addParent('locality', 'Montgomeryville', '101719543', undefined)
+      .addParent('locality', 'Princeton Junction', '85976395', undefined)
+      .addParent('locality', 'South Brunswick Township', '1125771473', undefined)
+      .setAddress('zip', '08540');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [{ id: 1, name: 'United States', abbr: 'USA' }]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, { usePostalCities: true });
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
+        t.end();
+      });
+    });
+  });
+
+  test.test('postal cities - USA lookup - ZIP 40047 - no PIP locality', (t) => {
+    const inputDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '40047');
+
+    const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('country', 'United States', '1', 'USA')
+      .addParent('locality', 'Mount Washington', '85946765', undefined)
+      .addParent('locality', 'Louisville', '85947523', undefined)
+      .setAddress('zip', '40047');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [{ id: 1, name: 'United States', abbr: 'USA' }]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, { usePostalCities: true });
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
+        t.end();
+      });
+    });
+  });
+
+  // test commented-out due to AUS table currently being disabled
+  // test.test('postal cities - AUS lookup - POSTCODE 2612 - no PIP locality', (t) => {
+  //   const inputDoc = new Document('whosonfirst', 'placetype', '1')
+  //     .setCentroid({ lat: 12.121212, lon: 21.212121 })
+  //     .setAddress('zip', '2612');
+
+  //   const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+  //     .setCentroid({ lat: 12.121212, lon: 21.212121 })
+  //     .addParent('country', 'Australia', '1', 'AUS')
+  //     .addParent('locality', 'Campbell', '101938727', undefined)
+  //     .setAddress('zip', '2612');
+
+  //   const resolver = {
+  //     lookup: (centroid, search_layers, callback) => {
+  //       const result = {
+  //         country: [{ id: 1, name: 'Australia', abbr: 'AUS' }]
+  //       };
+  //       setTimeout(callback, 0, null, result);
+  //     }
+  //   };
+
+  //   const lookupStream = stream(resolver, { usePostalCities: true });
+  //   t.doesNotThrow(() => {
+  //     test_stream([inputDoc], lookupStream, (err, actual) => {
+  //       t.deepEqual(actual, [expectedDoc], 'locality should be replaced with postal city');
+  //       t.end();
+  //     });
+  //   });
+  // });
+
 });
