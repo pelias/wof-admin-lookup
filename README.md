@@ -80,3 +80,47 @@ There are two: admin lookup slows down the process of loading data into Pelias,
 and it takes quite a bit of memory. Based on the current amount of data in Who's
 on First, count on using at least 4 or 5 GB of memory _just_ for admin lookup
 while importing.
+
+### Postal Cities
+
+This module comes bundled with data files which define a mapping between postal codes and their corresponding city name(s).
+
+This is particularly helpful in places where the locality name returned by the point-in-polygon system differs from the locality name commonly used by residents of that postcode.
+
+#### Contributing
+
+The mapping files are open-data, you can find more infomation about [how the data files are generated here](https://github.com/pelias/lastline).
+
+In the `src/data` directory of this repository you'll find the TSV (tab separated) files named after the corresponding 3-character country code (eg. `AUS.tsv`).
+
+Instead of editing these files directly (and risking the work being lost on the next regeneration of the files), you should add your changes to an 'override file', for example `USA.override.tsv`.
+
+These override files are intended for contribution from humans, so your data is safe!
+
+The TSV columns are (in order left-to-right):
+|name|type|comment|
+|:-:|:-:|:--|
+|postalcode|string|postal code eg. `90210`|
+|wofid|number|corresponding [WhosOnFirst](https://whosonfirst.org) ID|
+|name|string|name of the city/town/burough/hamlet etc.|
+|abbr|string|an abbreviation of the name (where available)|
+|placetype|string|the [WhosOnFirst](https://github.com/whosonfirst/whosonfirst-placetypes) placetype|
+|weight|number|an integer representing how many occurrences of this postalcode+wofid we found|
+
+Note that many editors will try to convert tabs to spaces, please ensure that this is not the case before saving your work!
+
+The `abbr` column is optional, if you don't specify an abbreviation please be sure that your line always contains 5 tabs (ie. 6 columns).
+
+The default value for `weight` is `Number.MAX_SAFE_INTEGER` (a very large number), you may wish to specify it lower if you're unsure how correct the entry is.
+
+In the case where there are multiple entries for the same postcode, all of the names are included in the Pelias index and can be used interchangeably to retrieve the document.
+
+The `weight` field is used to determine which entry is the most important, this entry is used to generate the label for display.
+
+#### Configuration
+
+To enable the postal cities functionality, set `imports.adminLookup.usePostalCities` to `true` in your `pelias.json` file.
+
+#### Advanced Configuration
+
+It's possible to use your own mapping files by setting `imports.adminLookup.postalCitiesDataPath` to point to a directory of your choice, if the corresponding TSV file is found in your path it will be used in place of the bundled data files. [more information](https://github.com/pelias/wof-admin-lookup/pull/296).
