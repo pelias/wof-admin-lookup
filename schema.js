@@ -8,7 +8,8 @@ module.exports = Joi.object().keys({
       maxConcurrentReqs: Joi.number().integer().default(cpus().length*10),
       enabled: Joi.boolean().default(true),
       missingMetafilesAreFatal: Joi.boolean().default(false),
-      usePostalCities: Joi.boolean().default(false)
+      usePostalCities: Joi.boolean().default(false),
+      postalCitiesDataPath: Joi.string()
     }).unknown(true),
     whosonfirst: Joi.object().keys({
       datapath: Joi.string().required(),
