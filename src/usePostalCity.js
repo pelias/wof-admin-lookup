@@ -38,8 +38,10 @@ function usePostalCity( result, doc ){
   // 11225	85977539	New York	NYC	locality	1
 
   // select which placetypes to consider for replacement
-  updateParentProperty(doc, 'locality', alternatives);
-  updateParentProperty(doc, 'borough', alternatives);
+  const changedBorough = updateParentProperty(doc, 'borough', alternatives);
+  if (!changedBorough) {
+    updateParentProperty(doc, 'locality', alternatives);
+  }
 }
 
 function updateParentProperty(doc, placetype, allAlternatives){
@@ -48,7 +50,7 @@ function updateParentProperty(doc, placetype, allAlternatives){
   var alternatives = allAlternatives.filter(a => a.placetype === placetype);
 
   // ensure that there is at least one alternative for this placetype
-  if( !_.isArray(alternatives) || _.isEmpty(alternatives) ){ return; }
+  if( !_.isArray(alternatives) || _.isEmpty(alternatives) ){ return false; }
 
   try {
 
@@ -90,6 +92,9 @@ function updateParentProperty(doc, placetype, allAlternatives){
       // note: addParent can throw an error if, for example, name is an empty string
       doc.addParent(placetype, alternative.name, alternative.wofid, alternative.abbr);
     });
+
+    // return true if record was changed
+    return true;
   }
   catch (err) {
     logger.warn('invalid value', {
