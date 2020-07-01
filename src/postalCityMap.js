@@ -57,6 +57,7 @@ const tables = {
   'PRI': loadTable('PRI'), // Puerto Rico
   'USA': loadTable('USA'), // Unites States of America
   'VIR': loadTable('VIR'), // United States Virgin Islands
+  'NLD': loadTable('NLD'), // The Netherlands
   'NZL': loadTable('NZL')  // New Zealand
 };
 
