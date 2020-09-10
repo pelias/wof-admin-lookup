@@ -123,7 +123,12 @@ function loadTable(cc){
 
 // TSV file parser
 function parse(filepath, defaultWeight){
-  const contents = fs.readFileSync(filepath, 'UTF8');
+  let contents = fs.readFileSync(filepath, 'UTF8');
+
+  // remove comments (removes text after a '#' character, including the '#' itself)
+  contents = contents.split('\n').map(l => l.split('#')[0]).join('\n');
+
+  // parse TSV file
   const lines = csv(contents, tsvOptions);
 
   return lines.filter(line => {
