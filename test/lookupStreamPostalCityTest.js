@@ -487,6 +487,39 @@ tape('tests', (test) => {
     });
   });
 
+  test.test('postal cities - USA lookup - ZIP 11377 - Queens County', (t) => {
+    const inputDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .setAddress('zip', '11377');
+
+    const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('country', 'United States', '1', 'USA')
+      .addParent('borough', 'Queens', '421205767')
+      .addParent('borough', 'Manhattan', '421205771')
+      .addParent('locality', 'Locality 1', '2', 'ABC')
+      .setAddress('zip', '11377');
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          country: [{ id: 1, name: 'United States', abbr: 'USA' }],
+          locality: [{ id: 2, name: 'Locality 1', abbr: 'ABC' }]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, { usePostalCities: true });
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc],
+          'Queens ZIP should ALWAYS have "Queens" set for primary borough');
+        t.end();
+      });
+    });
+  });
+
   // test commented-out due to AUS table currently being disabled
   // test.test('postal cities - AUS lookup - POSTCODE 2612 - no PIP locality', (t) => {
   //   const inputDoc = new Document('whosonfirst', 'placetype', '1')
