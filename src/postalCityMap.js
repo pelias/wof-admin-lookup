@@ -58,7 +58,6 @@ const tables = {
   'USA': loadTable('USA'), // Unites States of America
   'VIR': loadTable('VIR'), // United States Virgin Islands
   'NLD': loadTable('NLD'), // The Netherlands
-  'NZL': loadTable('NZL')  // New Zealand
 };
 
 // load the file format in to memory
