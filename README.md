@@ -6,7 +6,6 @@
 # Pelias Who's On First Admin Lookup
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/pelias/wof-admin-lookup.svg)](https://greenkeeper.io/)
-![Travis CI Status](https://travis-ci.org/pelias/wof-admin-lookup.svg)
 
 ## Overview
 
