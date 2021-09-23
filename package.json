@@ -14,7 +14,7 @@
     "functional": "npm run testDependencyMode && npm run testLayerLookup && npm run testLayerLookupLocalizedNames",
     "lint": "jshint .",
     "validate": "npm ls",
-    "travis": "npm run test"
+    "ci": "npm run test"
   },
   "repository": {
     "type": "git",
