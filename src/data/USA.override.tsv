@@ -1,5 +1,8 @@
 40047	85946765	Mount Washington		locality
 
+# https://github.com/pelias/docker/issues/281
+53149	101732227	Mukwonago		locality
+
 # Queens NYC overrides
 # These ensure that the primary borough is always "Queens"
 # for any ZIP code belonging to Queens County NY.
