@@ -3,61 +3,97 @@ Red Sea Governorate 84511	890434695	Hurghada		locality	1
 00007	421174399	Cairo		locality	1
 2466	421174399	Cairo		locality	2
 2500	1276867357	6th of October City		locality	1
+5027	421174399	Cairo		locality	1
+11111	421174399	Cairo		locality	1
 11211	421174399	Cairo		locality	5
 11221	421174399	Cairo		locality	2
-11231	421204393	Giza		locality	1
 11261	421174399	Cairo		locality	2
-11341	421174399	Cairo		locality	1
-11361	421174399	Cairo		locality	2
+11341	421174399	Cairo		locality	2
+11361	421174399	Cairo		locality	1
+11371	421174399	Cairo		locality	1
 11381	1343525829	Al `Abbasiyah		locality	1
 11431	421174399	Cairo		locality	2
-11451	421174399	Cairo		locality	1
 11511	421174399	Cairo		locality	1
 11517	421174399	Cairo		locality	1
+11556	421174399	Cairo		locality	1
+11568	421174399	Cairo		locality	2
 11571	421174399	Cairo		locality	1
 11722	421187713	Helwan		locality	1
+11728	1360172789	Al Ma`adi		locality	1
+11734	421174399	Cairo		locality	2
+11735	421187713	Helwan		locality	1
 11736	421174399	Cairo		locality	1
-11765	421174399	Cairo		locality	1
+11742	421174399	Cairo		locality	1
+11765	421174399	Cairo		locality	4
 11771	421174399	Cairo		locality	1
-11799	421174399	Cairo		locality	1
+11774	421174399	Cairo		locality	1
+11777	421174399	Cairo		locality	1
 11811	421174399	Cairo		locality	1
-11835	1209385931	Al Judayyidah		locality	4169
+11835	1209385931	Al Judayyidah		locality	8852
 11843	421174399	Cairo		locality	1
-11865	1209385931	Al Judayyidah		locality	13165
-11936	1209385931	Al Judayyidah		locality	44
+11865	1209385931	Al Judayyidah		locality	9555
+11936	1209385931	Al Judayyidah		locality	213
 12111	421204393	Giza		locality	1
 12125	421204393	Giza		locality	1
-12211	1209978553	Al Muhandisin		locality	1
-12311	421174399	Cairo		locality	1
 12344	421174399	Cairo		locality	1
 12345	1125854553	El-Tor		locality	1
-12411	421174399	Cairo		locality	1
 12510	421204393	Giza		locality	1
 12513	421174399	Cairo		locality	1
 12513	421204393	Giza		locality	1
 12516	421204393	Giza		locality	1
 12518	421204393	Giza		locality	1
 12519	421204393	Giza		locality	1
+12553	421204393	Giza		locality	2
+12555	421204393	Giza		locality	2
+12556	421204393	Giza		locality	1
 12557	421204393	Giza		locality	2
+12559	421204393	Giza		locality	1
+12574	421204393	Giza		locality	1
 12577	421204393	Giza		locality	1
-12814	421204393	Giza		locality	1
+12615	421174399	Cairo		locality	2
+12654	1226335549	Agouza		locality	1
+12654	1293385559	Al `Ajuzah		locality	1
+12814	421204393	Giza		locality	3
+12941	421204393	Giza		locality	1
+13211	421174399	Cairo		locality	1
 21221	890429453	Alexandria		locality	1
 21411	890429453	Alexandria		locality	3
-21521	890429453	Alexandria		locality	1
+21517	421200905	Alexandria		locality	1
+21517	890429453	Alexandria		locality	1
+21532	890429453	Alexandria		locality	1
+21544	421200905	Alexandria		locality	1
+21563	890429453	Alexandria		locality	1
+21575	421200905	Alexandria		locality	1
 21611	890429453	Alexandria		locality	1
-21615	890429453	Alexandria		locality	1
+21615	890429453	Alexandria		locality	3
 31951	421180773	Al Mahallah		locality	1
+31961	421180773	Al Mahallah		locality	1
 33612	890431221	Desouk		locality	3
+34511	421176919	Damietta		locality	1
+35111	1125855613	Al Mansurah		locality	2
 35511	1125855613	Al Mansurah		locality	1
-35517	421200903	المنصورة		locality	1
-41511	421174837	الاسماعيلية		locality	1
+35511	421200903	Al Mansoura		locality	1
+35516	1125855613	Al Mansurah		locality	2
+35517	421200903	Al Mansoura		locality	1
+35685	1259983865	Nabaruh		locality	1
 42512	1125766921	Port Said		locality	1
+42615	1125766921	Port Said		locality	1
+43522	421168705	Suez		locality	1
+44679	1125853869	Faqous		locality	1
+44711	421189915	Al Zagazig		locality	1
 44769	1260164593	Farsis		locality	1
+44776	890422287	Al Qurayn		locality	1
+44839	1141906109	Zagazig		locality	4
 45214	421187717	Dahab		locality	1
-46617	421187717	Dahab		locality	4
+46617	421187717	Dahab		locality	7
 46619	1126019237	Sharm el Sheikh		locality	1
-46625	421189939	Nuweiba		locality	1
 55555	421187717	Dahab		locality	1
+61512	421168709	Minya		locality	1
+61516	421168709	Minya		locality	1
+61661	421168699	Samalut		locality	1
+71511	1125854747	Assiut		locality	1
+71525	1141909241	Asyut		locality	1
+71785	1141909241	Asyut		locality	1
 82629	890451955	Tahta		locality	1
 82743	421199105	Jirja		locality	6
 82744	421199105	Jirja		locality	1
@@ -65,7 +101,12 @@ Red Sea Governorate 84511	890434695	Hurghada		locality	1
 82952	421199105	Jirja		locality	1
 83626	890418081	Qus		locality	1
 84111	1141908933	Hurghada		locality	1
-84511	1141908933	Hurghada		locality	5
-84513	1125876739	El Gouna		locality	1
+84509	890434695	Hurghada		locality	1
+84511	1141908933	Hurghada		locality	7
+84512	1141908933	Hurghada		locality	1
+84513	1125876739	El Gouna		locality	2
+84517	1141908933	Hurghada		locality	1
+84521	1141908933	Hurghada		locality	1
 84721	421202495	Marsa Alam		locality	1
 84734	890434695	Hurghada		locality	2
+85951	421204231	Luxor		locality	1

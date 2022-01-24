@@ -1,36 +1,49 @@
 0	101998613	Poza Rica		locality	4
+MZ 03 77500	1225879059	Benito Juarez		locality	2
 S/N	101992745	Chimalhuacán		locality	2
+CP 03810	857683023	Mexico City		locality	1
+CP 42850	102000241	Tepeji		locality	1
+CP 43800	102000199	Tizayuca		locality	1
 CP 94290	101998201	Boca del Río		locality	1
+Guerrero	101991487	Ometepec		locality	1
 Lomas 2a	101996483	S. Luis Potosi		locality	1
-MZ 03 77500	1225879059	Benito Juarez		locality	1
 Puebla	1242838469	Libres		locality	1
 deportivo 39850	101991509	Acapulco		locality	1
 tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 ´49750	1309788749	Las Canoas		locality	1
 33	101994137	Chihuahua City		locality	1
+49	1125942549	Venustiano Carranza		locality	1
 224	101993551	Tijuana		locality	12
 268xx	102000865	Nueva Rosita		locality	2
 0448	857683023	Mexico City		locality	1
-01000	857683023	Mexico City		locality	2
+647	102000679	Monterrey		locality	1
+01000	857683023	Mexico City		locality	3
 01020	890535751	Álvaro Obregón		borough	2
 01030	857683023	Mexico City		locality	1
 01040	890535751	Álvaro Obregón		borough	1
-01070	857683023	Mexico City		locality	1
+01049	857683023	Mexico City		locality	1
+01070	857683023	Mexico City		locality	2
+01080	890535751	Álvaro Obregón		borough	2
+01080	857683023	Mexico City		locality	1
 01090	857683023	Mexico City		locality	1
 01120	857683023	Mexico City		locality	1
 01130	857683023	Mexico City		locality	4
 01130	890535751	Álvaro Obregón		borough	1
+01140	857683023	Mexico City		locality	1
 01150	857683023	Mexico City		locality	4
 01160	857683023	Mexico City		locality	1
-01170	857683023	Mexico City		locality	6
-01210	857683023	Mexico City		locality	3
+01170	857683023	Mexico City		locality	8
+01210	857683023	Mexico City		locality	4
 01219	857683023	Mexico City		locality	3
 01220no	857683023	Mexico City		locality	1
 01280	857683023	Mexico City		locality	1
 01290	857683023	Mexico City		locality	2
 1300	101997877	Zapopan		locality	1
-01310	1226628557	Cuajimalpa (Los Cuervos)		locality	3
-01480	857683023	Mexico City		locality	2
+01310	890535767	Cuajimalpa		borough	3
+01400	857683023	Mexico City		locality	1
+01408	857683023	Mexico City		locality	1
+01460	857683023	Mexico City		locality	1
+01480	857683023	Mexico City		locality	7
 01509	857683023	Mexico City		locality	1
 01520	857683023	Mexico City		locality	1
 1525	101991705	Toluca		locality	2
@@ -40,264 +53,362 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 01710	890535751	Álvaro Obregón		borough	1
 01740	857683023	Mexico City		locality	1
 01760	857683023	Mexico City		locality	1
+01780	857683023	Mexico City		locality	3
 01790	857683023	Mexico City		locality	1
 01860	857683023	Mexico City		locality	1
+01870	857683023	Mexico City		locality	3
 01900	857683023	Mexico City		locality	1
 02000	857683023	Mexico City		locality	1
 02011	857683023	Mexico City		locality	2
+02020	857683023	Mexico City		locality	1
 2030	101996839	Aguascalientes		locality	1
+02040	890535755	Azcapotzalco		borough	1
+02050	890535755	Azcapotzalco		borough	1
 02080	857683023	Mexico City		locality	16
 02090	857683023	Mexico City		locality	2
-02100	857683023	Mexico City		locality	4
+02100	857683023	Mexico City		locality	3
 02100	1209762245	El Rosario		locality	1
 02140	857683023	Mexico City		locality	1
+2247	101993551	Tijuana		locality	1
 02250	857683023	Mexico City		locality	1
 02300	890535755	Azcapotzalco		borough	2
+02300	857683023	Mexico City		locality	2
 02430	890535755	Azcapotzalco		borough	1
 02440	857683023	Mexico City		locality	5
 02520	857683023	Mexico City		locality	1
+02540	857683023	Mexico City		locality	1
+02660	857683023	Mexico City		locality	2
 02870	890535755	Azcapotzalco		borough	1
+02920	857683023	Mexico City		locality	1
 02950	857683023	Mexico City		locality	1
+02970	857683023	Mexico City		locality	2
 03000	857683023	Mexico City		locality	1
-03020	857683023	Mexico City		locality	13
-03020	890535769	Benito Juárez		borough	1
-03100	857683023	Mexico City		locality	27
+03020	857683023	Mexico City		locality	14
+03020	890535769	Benito Juárez		borough	2
+03100	857683023	Mexico City		locality	38
 03100	890535769	Benito Juárez		borough	1
+03103	857683023	Mexico City		locality	2
+03200	857683023	Mexico City		locality	2
 3228	101992499	Naucalpan de Juárez Municipality		locality	1
 03230	857683023	Mexico City		locality	1
+03240	857683023	Mexico City		locality	1
 03240	890535769	Benito Juárez		borough	1
-03300	857683023	Mexico City		locality	11
-03303	857683023	Mexico City		locality	1
+03300	857683023	Mexico City		locality	8
+03303	857683023	Mexico City		locality	2
+03310	857683023	Mexico City		locality	2
 03310	890535769	Benito Juárez		borough	1
-03310	857683023	Mexico City		locality	1
-03330	857683023	Mexico City		locality	4
+03330	857683023	Mexico City		locality	5
 03330	890535769	Benito Juárez		borough	3
 03339	890535769	Benito Juárez		borough	1
 03340	857683023	Mexico City		locality	3
-03400	857683023	Mexico City		locality	4
+03400	857683023	Mexico City		locality	5
 3400	101994335	Durango		locality	1
 03440	857683023	Mexico City		locality	1
 3450	101994335	Durango		locality	1
 03500	857683023	Mexico City		locality	1
 03510	857683023	Mexico City		locality	1
 03530	857683023	Mexico City		locality	1
-03570	857683023	Mexico City		locality	1
-03580	857683023	Mexico City		locality	1
+03570	857683023	Mexico City		locality	3
+03580	857683023	Mexico City		locality	8
 03600	857683023	Mexico City		locality	1
-03610	857683023	Mexico City		locality	1
+03610	857683023	Mexico City		locality	2
 03620	857683023	Mexico City		locality	1
 03630	857683023	Mexico City		locality	2
 03650	857683023	Mexico City		locality	1
 03660	857683023	Mexico City		locality	3
 03700	857683023	Mexico City		locality	15
+03700	890535769	Benito Juárez		borough	1
+03700	1243436541	Nonoalco		locality	1
 3700	101993059	San Miguel de Allende		locality	1
 03710	857683023	Mexico City		locality	1
-03720	857683023	Mexico City		locality	2
+03720	857683023	Mexico City		locality	4
 03730	857683023	Mexico City		locality	1
 03740	857683023	Mexico City		locality	2
-03800	857683023	Mexico City		locality	3
-03800	1126024723	San Pedro de Los Pinos		locality	1
-03810	857683023	Mexico City		locality	5
-03840	857683023	Mexico City		locality	1
+03800	857683023	Mexico City		locality	6
+03800	1126024723	San Pedro de Los Pinos		locality	4
+03800	890535769	Benito Juárez		borough	2
+03810	857683023	Mexico City		locality	6
+03810	890535769	Benito Juárez		borough	1
+03840	857683023	Mexico City		locality	2
 03849	857683023	Mexico City		locality	1
 03900	890535751	Álvaro Obregón		borough	2
-03900	857683023	Mexico City		locality	1
-03910	857683023	Mexico City		locality	1
+03900	857683023	Mexico City		locality	2
+03910	857683023	Mexico City		locality	3
+03910	890535769	Benito Juárez		borough	1
 03920	857683023	Mexico City		locality	2
 03940	857683023	Mexico City		locality	1
 04000	857683023	Mexico City		locality	6
+04010	857683023	Mexico City		locality	4
 04020	857683023	Mexico City		locality	1
 04020	1209284293	La Concepcion		locality	1
 04030	857683023	Mexico City		locality	2
 04040	890535773	Coyoacán		borough	2
 04040	857683023	Mexico City		locality	1
-4071	1226604683	La Tinaja		locality	1
-04100	857683023	Mexico City		locality	21
+4071	1125880285	Tinajitas		locality	1
+04100	857683023	Mexico City		locality	24
 04100	102000197	El Carmen		locality	1
 04110	857683023	Mexico City		locality	1
 04200	857683023	Mexico City		locality	1
 04210	857683023	Mexico City		locality	4
 04240	857683023	Mexico City		locality	1
 04300	857683023	Mexico City		locality	3
-04300	890535773	Coyoacán		borough	1
 04310	857683023	Mexico City		locality	1
 04330	857683023	Mexico City		locality	1
 04330	890535773	Coyoacán		borough	1
 04360	857683023	Mexico City		locality	2
 04369	857683023	Mexico City		locality	1
-04370	857683023	Mexico City		locality	1
+04370	857683023	Mexico City		locality	5
 04380	857683023	Mexico City		locality	1
-04400	857683023	Mexico City		locality	1
-04470	857683023	Mexico City		locality	1
+04410	857683023	Mexico City		locality	1
+04470	857683023	Mexico City		locality	2
 04480	857683023	Mexico City		locality	1
-04510	857683023	Mexico City		locality	2
+04510	857683023	Mexico City		locality	4
 04510	1125976649	Ciudad Universitaria		locality	1
 04510	890535773	Coyoacán		borough	1
 04530	857683023	Mexico City		locality	1
-04600	857683023	Mexico City		locality	1
 04650	857683023	Mexico City		locality	7
-04700	857683023	Mexico City		locality	16
+04650	101999765	San Francisco Coapa		locality	1
+04700	857683023	Mexico City		locality	17
 04700	890535773	Coyoacán		borough	3
 04800	857683023	Mexico City		locality	4
 04850	101999765	San Francisco Coapa		locality	1
 04890	857683023	Mexico City		locality	1
-05000	890535767	Cuajimalpa de Morelos		borough	2
+04960	857683023	Mexico City		locality	47
+04970	890535773	Coyoacán		borough	1
+05000	890535767	Cuajimalpa		borough	2
+05039	101992677	Santiago Yancuitlalpan		locality	2
 5040	101991513	Tlalnepantla		locality	1
 05100	857683023	Mexico City		locality	3
+05109	857683023	Mexico City		locality	1
 05120	857683023	Mexico City		locality	1
-05200	890535767	Cuajimalpa de Morelos		borough	2
+05129	857683023	Mexico City		locality	1
 5200	101991739	Xocotlán		locality	2
-05260	890535767	Cuajimalpa de Morelos		borough	1
+05200	890535767	Cuajimalpa		borough	1
+5214	101992537	Metepec		locality	1
+05260	890535767	Cuajimalpa		borough	1
 5290	101991669	San Pablo Autopan		locality	1
-05310	1226628557	Cuajimalpa (Los Cuervos)		locality	2
+05300	857683023	Mexico City		locality	1
+05310	890535767	Cuajimalpa		borough	2
 05320	857683023	Mexico City		locality	1
-05348	1226628557	Cuajimalpa (Los Cuervos)		locality	1
+05330	890535767	Cuajimalpa		borough	3
+05348	890535767	Cuajimalpa		borough	1
+05349	857683023	Mexico City		locality	1
+05370	890535767	Cuajimalpa		borough	4
+05370	857683023	Mexico City		locality	1
 05600	857683023	Mexico City		locality	1
 5630	1242942847	Endotejiare		locality	1
+5700	1125785237	Ciudad Nezahualcóyotl		locality	2
 05820	101992609	Jaltenco Municipality		locality	3
-06000	857683023	Mexico City		locality	43
+06000	857683023	Mexico City		locality	54
 06000	890535757	Cuauhtémoc		borough	2
-06010	857683023	Mexico City		locality	15
+6000	857683023	Mexico City		locality	1
+06010	857683023	Mexico City		locality	16
 06010	101991705	Toluca		locality	1
-06020	857683023	Mexico City		locality	4
+06020	857683023	Mexico City		locality	6
 06020	890535757	Cuauhtémoc		borough	1
-06030	857683023	Mexico City		locality	11
+06030	857683023	Mexico City		locality	12
 06040	857683023	Mexico City		locality	1
 06040	890535757	Cuauhtémoc		borough	1
 06050	857683023	Mexico City		locality	2
-06060	857683023	Mexico City		locality	5
+06060	857683023	Mexico City		locality	7
 06070	857683023	Mexico City		locality	1
 06080	857683023	Mexico City		locality	6
 06080	890535757	Cuauhtémoc		borough	1
 06090	857683023	Mexico City		locality	1
-06100	857683023	Mexico City		locality	23
-06140	857683023	Mexico City		locality	10
-06170	857683023	Mexico City		locality	8
+06100	857683023	Mexico City		locality	28
+06140	857683023	Mexico City		locality	15
+06170	857683023	Mexico City		locality	13
 06200	890535757	Cuauhtémoc		borough	1
-06220	890535757	Cuauhtémoc		borough	11
-06250	890535757	Cuauhtémoc		borough	1
-06270	890535757	Cuauhtémoc		borough	1
-06300	857683023	Mexico City		locality	22
+06220	890535757	Cuauhtémoc		borough	9
+06240	890535757	Cuauhtémoc		borough	1
+06250	890535757	Cuauhtémoc		borough	2
+06270	890535757	Cuauhtémoc		borough	2
+06280	890535757	Cuauhtémoc		borough	4
+06300	857683023	Mexico City		locality	23
 06300	890535757	Cuauhtémoc		borough	1
-06350	857683023	Mexico City		locality	2
-06400	857683023	Mexico City		locality	116
-6400	102000679	Monterrey		locality	49
-06470	857683023	Mexico City		locality	4
-06500	857683023	Mexico City		locality	17
-06600	857683023	Mexico City		locality	16
+06350	857683023	Mexico City		locality	5
+06400	857683023	Mexico City		locality	118
+6400	102000679	Monterrey		locality	48
+06430	1276194515	Insurgentes		locality	1
+06470	857683023	Mexico City		locality	8
+06500	857683023	Mexico City		locality	28
+06600	857683023	Mexico City		locality	31
 06600	890535757	Cuauhtémoc		borough	5
-06700	857683023	Mexico City		locality	99
+06700	857683023	Mexico City		locality	106
 06700	890535757	Cuauhtémoc		borough	1
-06720	857683023	Mexico City		locality	3
-06760	857683023	Mexico City		locality	10
+06720	857683023	Mexico City		locality	7
+6747	101994781	Macuspana		locality	1
+06760	857683023	Mexico City		locality	11
 06800	857683023	Mexico City		locality	2
-06820	857683023	Mexico City		locality	3
+06820	857683023	Mexico City		locality	4
+06840	857683023	Mexico City		locality	4
+06860	857683023	Mexico City		locality	1
 06890	857683023	Mexico City		locality	1
 06900	890535757	Cuauhtémoc		borough	1
 07020	857683023	Mexico City		locality	1
 07050	857683023	Mexico City		locality	1
 07088	857683023	Mexico City		locality	1
+07090	1310251397	Atzacoalco		locality	1
 07200	857683023	Mexico City		locality	1
+7200	101999639	Puebla City		locality	1
+07300	890535763	Gustavo A. Madero		borough	4
 07300	857683023	Mexico City		locality	1
 07320	857683023	Mexico City		locality	33
-07340	857683023	Mexico City		locality	15
+07340	857683023	Mexico City		locality	16
 07370	857683023	Mexico City		locality	1
 07469	857683023	Mexico City		locality	6
+07480	857683023	Mexico City		locality	3
 07480	1226617145	Aragon		locality	1
+07509	857683023	Mexico City		locality	1
 07550	857683023	Mexico City		locality	1
 07550	101992157	San Martín de las Pirámides		locality	1
 07630	857683023	Mexico City		locality	1
 07700	857683023	Mexico City		locality	1
 07730	890535763	Gustavo A. Madero		borough	1
-07738	857683023	Mexico City		locality	7
+07738	857683023	Mexico City		locality	2
 07800	857683023	Mexico City		locality	1
+07803	857683023	Mexico City		locality	2
+7810	101999639	Puebla City		locality	1
 07860	857683023	Mexico City		locality	1
-08010	857683023	Mexico City		locality	1
-08040	857683023	Mexico City		locality	2
-08100	857683023	Mexico City		locality	3
+07869	857683023	Mexico City		locality	1
+07870	857683023	Mexico City		locality	2
+07880	857683023	Mexico City		locality	1
+07890	857683023	Mexico City		locality	1
+08010	857683023	Mexico City		locality	2
+08040	857683023	Mexico City		locality	1
+08100	857683023	Mexico City		locality	16
+08100	890535761	Iztacalco		borough	1
+08210	890535761	Iztacalco		borough	1
+08230	890535761	Iztacalco		borough	2
+08240	890535761	Iztacalco		borough	1
+08300	890535761	Iztacalco		borough	2
 08400	857683023	Mexico City		locality	1
+08500	857683023	Mexico City		locality	1
+08600	890535761	Iztacalco		borough	1
+08610	890535761	Iztacalco		borough	6
+08610	1243345733	Zapotla		locality	2
 08610	101999639	Puebla City		locality	1
+08620	890535761	Iztacalco		borough	1
 8700	102000961	Heroica Matamoros		locality	1
 08720	857683023	Mexico City		locality	1
+08820	890535761	Iztacalco		borough	1
+09001	1209213407	La Esperanza		locality	1
 09020	857683023	Mexico City		locality	1
+09030	890535765	Iztapalapa		borough	1
+09060	890535765	Iztapalapa		borough	3
+09060	857683023	Mexico City		locality	3
+09060	1125923767	Escuadrón 201		locality	1
+9066	101994357	Tuxtla Gutiérrez		locality	1
+09080	857683023	Mexico City		locality	1
 09100	857683023	Mexico City		locality	1
 09100	890535765	Iztapalapa		borough	1
+9188	101998843	Veracruz		locality	1
+09208	1310075477	Colonia Juarez		locality	2
+09208	857683023	Mexico City		locality	1
 09260	857683023	Mexico City		locality	1
 09270	890535765	Iztapalapa		borough	8
 09280	857683023	Mexico City		locality	2
 09300	890535765	Iztapalapa		borough	1
 09310	857683023	Mexico City		locality	1
 09410	857683023	Mexico City		locality	1
-09430	857683023	Mexico City		locality	1
+09430	857683023	Mexico City		locality	2
+09440	857683023	Mexico City		locality	2
 09440	890535765	Iztapalapa		borough	1
+09450	857683023	Mexico City		locality	4
 09500	857683023	Mexico City		locality	1
 09510	857683023	Mexico City		locality	1
 09520	857683023	Mexico City		locality	1
 09625	857683023	Mexico City		locality	1
 09638	890535765	Iztapalapa		borough	1
+09696	857683023	Mexico City		locality	1
+09700	890535765	Iztapalapa		borough	1
 09700	857683023	Mexico City		locality	1
+09727	890535765	Iztapalapa		borough	1
 09780	857683023	Mexico City		locality	1
-09800	857683023	Mexico City		locality	1
+09810	857683023	Mexico City		locality	1
 09820	857683023	Mexico City		locality	1
-09830	890535765	Iztapalapa		borough	3
+09830	890535765	Iztapalapa		borough	2
 09850	857683023	Mexico City		locality	2
 09860	857683023	Mexico City		locality	4
-09890	857683023	Mexico City		locality	2
-9900	857683023	Mexico City		locality	1
-10200	857683023	Mexico City		locality	85
+09870	857683023	Mexico City		locality	2
+09890	857683023	Mexico City		locality	1
+10200	857683023	Mexico City		locality	96
 10360	1309788005	El Ocotal		locality	2
 10360	857683023	Mexico City		locality	1
 10580	890535777	La Magdalena Contreras		borough	2
 10710	890535777	La Magdalena Contreras		borough	1
-11000	857683023	Mexico City		locality	9
+11000	857683023	Mexico City		locality	12
 11010	857683023	Mexico City		locality	1
 11040	857683023	Mexico City		locality	1
 11200	857683023	Mexico City		locality	6
 11200	890535785	Miguel Hidalgo		borough	1
+11250	857683023	Mexico City		locality	2
 11289	857683023	Mexico City		locality	1
-11300	857683023	Mexico City		locality	4
+11290	857683023	Mexico City		locality	3
+11300	857683023	Mexico City		locality	5
 11300	890535785	Miguel Hidalgo		borough	1
-11320	857683023	Mexico City		locality	3
-11320	890535785	Miguel Hidalgo		borough	3
-11450	857683023	Mexico City		locality	4
+11310	857683023	Mexico City		locality	1
+11320	857683023	Mexico City		locality	5
+11320	890535785	Miguel Hidalgo		borough	4
+11360	857683023	Mexico City		locality	1
+11370	857683023	Mexico City		locality	2
+11400	857683023	Mexico City		locality	1
+11410	857683023	Mexico City		locality	3
+11450	857683023	Mexico City		locality	3
+11470	857683023	Mexico City		locality	1
 11500	857683023	Mexico City		locality	4
-11510	857683023	Mexico City		locality	13
+11500	890535785	Miguel Hidalgo		borough	1
+11510	857683023	Mexico City		locality	14
 11520	857683023	Mexico City		locality	6
-11529	890535785	Miguel Hidalgo		borough	7
-11529	857683023	Mexico City		locality	4
+11520	890535785	Miguel Hidalgo		borough	1
+11529	890535785	Miguel Hidalgo		borough	9
+11529	857683023	Mexico City		locality	5
 11530	857683023	Mexico City		locality	1
-11540	857683023	Mexico City		locality	26
-11550	857683023	Mexico City		locality	64
-11560	857683023	Mexico City		locality	182
+11540	857683023	Mexico City		locality	27
+11550	857683023	Mexico City		locality	66
+11560	857683023	Mexico City		locality	186
 11560	890535785	Miguel Hidalgo		borough	1
-11570	857683023	Mexico City		locality	19
+11570	857683023	Mexico City		locality	20
 11580	857683023	Mexico City		locality	2
-11590	857683023	Mexico City		locality	8
+11590	857683023	Mexico City		locality	22
 11591	857683023	Mexico City		locality	2
 11650	857683023	Mexico City		locality	45
-11800	857683023	Mexico City		locality	9
+11800	857683023	Mexico City		locality	17
+11840	857683023	Mexico City		locality	1
 11850	857683023	Mexico City		locality	28
 11870	857683023	Mexico City		locality	8
 11910	857683023	Mexico City		locality	2
 11950	857683023	Mexico City		locality	1
 13020	857683023	Mexico City		locality	1
 13100	857683023	Mexico City		locality	2
+13200	857683023	Mexico City		locality	1
+13270	857683023	Mexico City		locality	1
 13508	857683023	Mexico City		locality	1
-14000	857683023	Mexico City		locality	2
+14000	857683023	Mexico City		locality	15
 14000	890535779	Tlalpan		borough	1
 14010	857683023	Mexico City		locality	1
+14010	1209688577	Santo Tomas el Pedregal		locality	1
 14030	857683023	Mexico City		locality	1
 14050	857683023	Mexico City		locality	2
 14060	857683023	Mexico City		locality	1
-14090	890535779	Tlalpan		borough	2
+14090	890535779	Tlalpan		borough	3
+14130	857683023	Mexico City		locality	2
+14140	857683023	Mexico City		locality	2
+14160	857683023	Mexico City		locality	2
+14200	857683023	Mexico City		locality	9
+14210	857683023	Mexico City		locality	1
+14240	857683023	Mexico City		locality	6
 14268	890535779	Tlalpan		borough	2
 14310	857683023	Mexico City		locality	1
+14330	857683023	Mexico City		locality	1
+14340	857683023	Mexico City		locality	1
 14357	857683023	Mexico City		locality	1
 14370	857683023	Mexico City		locality	1
 14378	857683023	Mexico City		locality	1
 14387	857683023	Mexico City		locality	1
-14420	857683023	Mexico City		locality	1
+14420	857683023	Mexico City		locality	4
 14420	890535779	Tlalpan		borough	1
+14430	857683023	Mexico City		locality	30
 14610	857683023	Mexico City		locality	2
 14610	890535779	Tlalpan		borough	1
 14630	857683023	Mexico City		locality	2
@@ -307,42 +418,60 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 15000	1193193109	Ignacio Zaragoza		locality	1
 15100	857683023	Mexico City		locality	1
 15120	857683023	Mexico City		locality	1
+15160	857683023	Mexico City		locality	1
+15200	890535781	Venustiano Carranza		borough	1
+15210	890535781	Venustiano Carranza		borough	3
+15220	890535781	Venustiano Carranza		borough	6
+15220	890535757	Cuauhtémoc		borough	1
+15240	890535781	Venustiano Carranza		borough	21
+15250	890535781	Venustiano Carranza		borough	19
+15260	890535781	Venustiano Carranza		borough	4
+15270	890535781	Venustiano Carranza		borough	2
 15270	857683023	Mexico City		locality	1
+15300	890535781	Venustiano Carranza		borough	14
+15310	890535781	Venustiano Carranza		borough	17
+15400	857683023	Mexico City		locality	1
 15410	857683023	Mexico City		locality	1
 15510	857683023	Mexico City		locality	1
 15520	857683023	Mexico City		locality	2
-15700	857683023	Mexico City		locality	40
-15720	857683023	Mexico City		locality	2
-15730	857683023	Mexico City		locality	590
-15900	857683023	Mexico City		locality	66
-15900	890535781	Venustiano Carranza		borough	21
+15700	857683023	Mexico City		locality	46
+15730	857683023	Mexico City		locality	522
+15740	857683023	Mexico City		locality	1
+15900	857683023	Mexico City		locality	68
+15900	890535781	Venustiano Carranza		borough	20
 15960	857683023	Mexico City		locality	1
+16030	890535775	Xochimilco		borough	1
 16070	857683023	Mexico City		locality	1
 16090	857683023	Mexico City		locality	3
+16090	101998993	Xaltocan		locality	1
 16200	857683023	Mexico City		locality	1
 16210	857683023	Mexico City		locality	1
 17144	102001097	Mérida		locality	8
-20000	101996839	Aguascalientes		locality	225
+20000	101996839	Aguascalientes		locality	233
 20002	101996839	Aguascalientes		locality	14
-20020	101996839	Aguascalientes		locality	2
-20030	101996839	Aguascalientes		locality	11
+20020	101996839	Aguascalientes		locality	4
+20030	101996839	Aguascalientes		locality	12
+20050	101996839	Aguascalientes		locality	2
+20070	101996839	Aguascalientes		locality	1
+20080	101996839	Aguascalientes		locality	1
 20100	101996873	Jesús Gómez Portugal		locality	3
+20110	101996839	Aguascalientes		locality	1
 20115	101996839	Aguascalientes		locality	20
 20120	101996839	Aguascalientes		locality	2
-20126	101996839	Aguascalientes		locality	72
+20126	101996839	Aguascalientes		locality	73
 20129	101996839	Aguascalientes		locality	1
 20130	101996839	Aguascalientes		locality	2
 20131	101996839	Aguascalientes		locality	1
 20135	101996839	Aguascalientes		locality	1
-20140	101996839	Aguascalientes		locality	3
+20140	101996839	Aguascalientes		locality	5
 20180	101996839	Aguascalientes		locality	1
-20190	101996839	Aguascalientes		locality	2
+20190	101996839	Aguascalientes		locality	3
 20190	1343317525	Ojo Caliente		locality	1
 20196 Aguascalientes	101996881	Ojocaliente		locality	2
 20197	101996839	Aguascalientes		locality	6
 20198	101996839	Aguascalientes		locality	1
 20199	101996839	Aguascalientes		locality	1
-20200	101996839	Aguascalientes		locality	9
+20200	101996839	Aguascalientes		locality	10
 20230	101996839	Aguascalientes		locality	1
 20234	101996839	Aguascalientes		locality	1
 20235	101996839	Aguascalientes		locality	1
@@ -350,158 +479,216 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 20255	101991705	Toluca		locality	1
 20263	101996839	Aguascalientes		locality	1
 20269	101996839	Aguascalientes		locality	1
-20270	101996839	Aguascalientes		locality	2
+20270	101996839	Aguascalientes		locality	3
 20290	101996839	Aguascalientes		locality	1
 20290	101991705	Toluca		locality	1
 20293	101996839	Aguascalientes		locality	1
 20296	101996839	Aguascalientes		locality	5
-20298	101996839	Aguascalientes		locality	12
+20298	101996839	Aguascalientes		locality	14
 20299	101996839	Aguascalientes		locality	2
 20303	101993551	Tijuana		locality	1
 20310	101996839	Aguascalientes		locality	1
-20313	101996839	Aguascalientes		locality	2
+20313	101996839	Aguascalientes		locality	4
 20320	101996839	Aguascalientes		locality	8
-20326	101996839	Aguascalientes		locality	2
+20326	101996839	Aguascalientes		locality	3
 20328	101996839	Aguascalientes		locality	2
 20355	101996843	San Francisco de los Romo		locality	9
 20355	101996839	Aguascalientes		locality	1
 20406	101996859	Rincón de Romos		locality	1
+20436	101996855	Pabellón de Hidalgo		locality	1
 20616	101996849	San Antonio		locality	5
 20670	101996863	Pabellón de Arteaga		locality	8
 20674	101996863	Pabellón de Arteaga		locality	2
 20675	101996863	Pabellón de Arteaga		locality	1
 20800	101996885	Calvillo		locality	2
 20802	101996885	Calvillo		locality	1
+20804	101996885	Calvillo		locality	1
 20900	101996877	Jesús María		locality	2
+20900	101996875	Corral de Barrancos		locality	1
+20909	101996873	Jesús Gómez Portugal		locality	4
 20909	1293296245	Jesus Maria		locality	4
-20909	101996873	Jesús Gómez Portugal		locality	1
+20910	1293296245	Jesus Maria		locality	1
 20925	101996877	Jesús María		locality	1
-21010	1125893485	Mexicali		locality	1
+20990	101996877	Jesús María		locality	1
+21010	1125893485	Mexicali		locality	2
 21020	1125893485	Mexicali		locality	1
+21030	1125893485	Mexicali		locality	2
 21050	1125893485	Mexicali		locality	2
-21060	1125893485	Mexicali		locality	1
+21060	1125893485	Mexicali		locality	2
 21070	1125893485	Mexicali		locality	1
-21100	101993461	Mexicali		locality	2
-21200	101993461	Mexicali		locality	1
+21090	1125893485	Mexicali		locality	1
+21100	1125893485	Mexicali		locality	3
+21100	101993551	Tijuana		locality	1
+21120	1125893485	Mexicali		locality	2
+21200	101993461	Mexicali		locality	2
 21210	101993461	Mexicali		locality	1
 21220	101993461	Mexicali		locality	2
 21230	101993461	Mexicali		locality	4
-21240	101993461	Mexicali		locality	3
+21240	101993461	Mexicali		locality	6
 21250	101993461	Mexicali		locality	1
+21255	101993461	Mexicali		locality	1
 21259	101993461	Mexicali		locality	2
 21260	101993461	Mexicali		locality	1
 21270	1125893485	Mexicali		locality	4
-21280	101993461	Mexicali		locality	35
-21290	101993461	Mexicali		locality	1
+21280	101993461	Mexicali		locality	34
+21290	101993461	Mexicali		locality	2
 21297	101993461	Mexicali		locality	2
-21298	101993461	Mexicali		locality	1
+21298	101993461	Mexicali		locality	2
+21330	1125893485	Mexicali		locality	2
+21339	1125893485	Mexicali		locality	3
+21350	101993461	Mexicali		locality	1
 21354	1125893485	Mexicali		locality	7
 21360	101993461	Mexicali		locality	2
 21370	101993461	Mexicali		locality	3
-21376	101993461	Mexicali		locality	5
+21376	101993461	Mexicali		locality	6
 21378	101993461	Mexicali		locality	1
-21379	101993461	Mexicali		locality	1
+21379	101993461	Mexicali		locality	2
+21380	101993461	Mexicali		locality	1
 21387	101993461	Mexicali		locality	1
 21389	101993461	Mexicali		locality	1
 21390	101993461	Mexicali		locality	1
-21395	101993461	Mexicali		locality	2
+21395	101993461	Mexicali		locality	3
 21447	101993543	Tecate		locality	2
-21600	101993461	Mexicali		locality	1
+21460	101993543	Tecate		locality	1
+21478	101993543	Tecate		locality	1
+21600	1125893485	Mexicali		locality	2
 21610	1125893485	Mexicali		locality	1
 21700	101993513	Michoacán de Ocampo		locality	3
-21840	101993585	Ejido Hermosillo		locality	1
-21890	101993461	Mexicali		locality	1
-21910	1209922153	Monterrey		locality	75
-21913	1209922153	Monterrey		locality	2
-22000	101993551	Tijuana		locality	11
-22010	101993551	Tijuana		locality	11
-22014	101993551	Tijuana		locality	1
+21840	101993585	Hermosillo		locality	1
+21910	1209922153	Monterrey		locality	83
+21970	1310118757	Algodones		locality	4
+22000	101993551	Tijuana		locality	16
+22010	101993551	Tijuana		locality	15
+22014	101993551	Tijuana		locality	2
+22015	101993551	Tijuana		locality	4
 22020	101993551	Tijuana		locality	3
-22040	101993551	Tijuana		locality	2
+22034	101993551	Tijuana		locality	1
+22040	101993551	Tijuana		locality	4
+22044	101993551	Tijuana		locality	2
+22045	101993551	Tijuana		locality	1
 22054	101993551	Tijuana		locality	1
 22055	101993551	Tijuana		locality	1
-22105	101993551	Tijuana		locality	3
+22100	101993551	Tijuana		locality	1
+22104	101993551	Tijuana		locality	1
+22105	101993551	Tijuana		locality	2
 22106	101993551	Tijuana		locality	2
 22116	101993551	Tijuana		locality	1
 22124	101993551	Tijuana		locality	1
 22150	101993551	Tijuana		locality	1
+22160	101993551	Tijuana		locality	1
+22165	101993551	Tijuana		locality	1
+22170	101993551	Tijuana		locality	1
 22190	101993551	Tijuana		locality	1
 22194	101993551	Tijuana		locality	1
 22195	101993551	Tijuana		locality	2
 22200	101993551	Tijuana		locality	1
-22204	101993551	Tijuana		locality	1
-22205	101993551	Tijuana		locality	2
+22203	101993551	Tijuana		locality	5
+22204	101993551	Tijuana		locality	2
+22205	101993551	Tijuana		locality	6
+22206	101993551	Tijuana		locality	1
+22215	101993551	Tijuana		locality	2
 22223	101993551	Tijuana		locality	1
+22224	101993551	Tijuana		locality	1
+22225	101993551	Tijuana		locality	1
 22226	101993551	Tijuana		locality	2
+22234	101994037	Parajes del Valle		locality	1
 22237	101993551	Tijuana		locality	1
+22246	101993551	Tijuana		locality	3
 22310	101993551	Tijuana		locality	1
 22320	101993551	Tijuana		locality	2
+22330	101993551	Tijuana		locality	1
 22390	101993551	Tijuana		locality	2
-22400	101993551	Tijuana		locality	1
+22400	101993551	Tijuana		locality	5
 22404	101993551	Tijuana		locality	2
 22405	101993551	Tijuana		locality	1
 22406	101993551	Tijuana		locality	1
 22410	101993551	Tijuana		locality	3
-22414	101993551	Tijuana		locality	65
-22415	101993551	Tijuana		locality	3
-22416	101993551	Tijuana		locality	7
-22420	101993551	Tijuana		locality	612
+22414	101993551	Tijuana		locality	66
+22415	101993551	Tijuana		locality	2
+22416	101993551	Tijuana		locality	10
+22420	101993551	Tijuana		locality	616
 22425	101993551	Tijuana		locality	1
 22427	101993551	Tijuana		locality	11
 22435	101993551	Tijuana		locality	1
 22440	101993551	Tijuana		locality	1
 22444	101993551	Tijuana		locality	2
+22450	101993551	Tijuana		locality	1
 22455	101993551	Tijuana		locality	1
 22457	101993551	Tijuana		locality	13
 22500	101993551	Tijuana		locality	3
+22504	101993551	Tijuana		locality	3
 22505	1125775703	Playas de Tijuana		locality	1
 22505	101993551	Tijuana		locality	1
-22525	101993551	Tijuana		locality	2
+22525	101993551	Tijuana		locality	3
+22535	101993551	Tijuana		locality	1
 22545	101993551	Tijuana		locality	1
+22560	101993551	Tijuana		locality	1
 22564	101993551	Tijuana		locality	2
+22604	101993551	Tijuana		locality	1
 22626	101993551	Tijuana		locality	8
 22630	101993551	Tijuana		locality	1
+22635	101993551	Tijuana		locality	1
+22644	101993551	Tijuana		locality	1
+22645	101993551	Tijuana		locality	1
 22654	101993551	Tijuana		locality	1
 22664	101993551	Tijuana		locality	1
-22706	101993581	Rosario		locality	15
-22710	1125941883	Rosario		locality	9
+22666	101993551	Tijuana		locality	1
+22706	101993581	Rosario		locality	17
+22710	101993581	Rosario		locality	9
 22716	1125995453	Playas de Rosarito		locality	9
+22716	1277087201	Puerto Nuevo		locality	1
+22730	102001487	Bacalar		locality	1
 22750	1125830793	Guadalupe		locality	1
+22750	101993465	Ensenada		locality	1
 22760	101993465	Ensenada		locality	1
 22765	101993465	Ensenada		locality	1
+22766	101993465	Ensenada		locality	1
+22795	1276776007	El Puerto		locality	10
+22795	1125914585	La Bocana		locality	1
 22800	101993465	Ensenada		locality	9
+22810	101993465	Ensenada		locality	1
 22820	101993465	Ensenada		locality	1
-22840	101993465	Ensenada		locality	5
+22840	101993465	Ensenada		locality	7
 22860	101993465	Ensenada		locality	1
 22870	101993465	Ensenada		locality	3
-22880	101993465	Ensenada		locality	1
+22880	101993465	Ensenada		locality	2
+22890	101993465	Ensenada		locality	5
 22920	101993465	Ensenada		locality	1
-23000	101994029	La Paz		locality	11
+22930	101993489	San Quintín		locality	1
+22953	101994557	Abasolo		locality	1
+23000	101994029	La Paz		locality	16
 23020	101994029	La Paz		locality	3
 23060	101994029	La Paz		locality	2
 23070	101994029	La Paz		locality	1
 23080	101994029	La Paz		locality	2
+23084	101994029	La Paz		locality	1
 23085	101994029	La Paz		locality	2
+23092	101994029	La Paz		locality	1
+23098	101994029	La Paz		locality	1
 23205	101994029	La Paz		locality	1
 23206	101994029	La Paz		locality	1
 23208	101994029	La Paz		locality	2
-23300	101993447	Todos los Santos		locality	8
+23232	101994029	La Paz		locality	3
+23300	101993447	Todos los Santos		locality	9
 23330	1125803397	Los Barriles		locality	3
 23400	101993435	San José del Cabo		locality	4
-23405	101993435	San José del Cabo		locality	2
+23405	101993435	San José del Cabo		locality	3
 23405	101994035	Cabo San Lucas		locality	1
-23410	101994035	Cabo San Lucas		locality	1
+23410	101994035	Cabo San Lucas		locality	2
+23429	101993435	San José del Cabo		locality	1
 23450	101994035	Cabo San Lucas		locality	6
 23454	101994035	Cabo San Lucas		locality	1
 23455	101994035	Cabo San Lucas		locality	1
 23462	101994035	Cabo San Lucas		locality	1
-23469	101994035	Cabo San Lucas		locality	2
-23470	101994035	Cabo San Lucas		locality	3
+23469	101994035	Cabo San Lucas		locality	3
+23470	101994035	Cabo San Lucas		locality	5
 23471	101994035	Cabo San Lucas		locality	3
+23473	101994035	Cabo San Lucas		locality	1
 23479	101994035	Cabo San Lucas		locality	1
 23543	101994035	Cabo San Lucas		locality	1
+23585	101994035	Cabo San Lucas		locality	1
 23740	1327135231	Puerto San Carlos		locality	2
-23880	101993437	Loreto		locality	4
+23880	101993437	Loreto		locality	6
 23920	101993451	Santa Rosalía		locality	2
 24000	1243005603	Campeche		locality	3
 24010	1243005603	Campeche		locality	8
@@ -515,85 +702,130 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 24044	1243005603	Campeche		locality	2
 24080	102001379	Campeche		locality	1
 24090	102001379	Campeche		locality	3
-24115	102001433	Ciudad del Carmen		locality	1
+24115	102001433	Ciudad del Carmen		locality	2
 24119	102001433	Ciudad del Carmen		locality	1
 24120	102001433	Ciudad del Carmen		locality	1
 24155	102001433	Ciudad del Carmen		locality	1
 24300	102001381	Candelaria		locality	1
-24325	102001427	San Antonio Cárdenas		locality	1
 24327	1226652153	Carmen		locality	1
 24330	102001381	Candelaria		locality	1
-24333	1310701493	Pejelagarto		locality	1
 24350	102001389	Escárcega		locality	19
 24400	102001421	Champotón		locality	2
-24460	102001417	Seybaplaya		locality	1
+24500	102001379	Campeche		locality	1
 24520	102001379	Campeche		locality	3
 24600	102001399	Hopelchén		locality	1
 24800	102001405	Hecelchakán		locality	1
 24900	102001449	Calkiní		locality	2
 24902	102001449	Calkiní		locality	2
 24910	102001441	Nunkiní		locality	6
-24919	102001449	Calkiní		locality	1
-25000	102000871	Saltillo		locality	2
+25000	102000871	Saltillo		locality	21
+25017	102000871	Saltillo		locality	1
+25020	102000871	Saltillo		locality	1
 25050	102000871	Saltillo		locality	2
-25060	102000871	Saltillo		locality	1
+25060	102000871	Saltillo		locality	2
+25070	102000871	Saltillo		locality	1
 25079	102000871	Saltillo		locality	1
 25088	102000871	Saltillo		locality	1
+25100	102000871	Saltillo		locality	1
+25203	102000871	Saltillo		locality	2
+25204	102000871	Saltillo		locality	3
+25205	102000871	Saltillo		locality	1
 25206	102000871	Saltillo		locality	1
+25208	102000871	Saltillo		locality	3
+25210	102000871	Saltillo		locality	3
 25215	102000871	Saltillo		locality	1
+25230	102000871	Saltillo		locality	3
+25240	102000871	Saltillo		locality	1
+25250	102000871	Saltillo		locality	1
+25253	102000871	Saltillo		locality	2
 25256	102000871	Saltillo		locality	1
-25265	102000871	Saltillo		locality	1
+25260	102000871	Saltillo		locality	2
+25265	102000871	Saltillo		locality	2
+25270	102000871	Saltillo		locality	1
 25279	102000871	Saltillo		locality	2
-25280	102000871	Saltillo		locality	1
+25280	102000871	Saltillo		locality	5
+25284	102000871	Saltillo		locality	3
+25290	102000871	Saltillo		locality	2
+25294	102000871	Saltillo		locality	1
+25295	102000871	Saltillo		locality	1
+25297	102000871	Saltillo		locality	1
 25300	1193157255	Derramadero		locality	1
 25315	102000871	Saltillo		locality	1
+25570	102000871	Saltillo		locality	1
 25700	102000907	Monclova		locality	5
+25730	102000907	Monclova		locality	1
+25900	102000871	Saltillo		locality	1
+26000	102000877	Ciudad Sabinas		locality	1
+26000	102000871	Saltillo		locality	1
+26010	102000877	Ciudad Sabinas		locality	1
 26015	102000835	Piedras Negras		locality	1
 26080	102000835	Piedras Negras		locality	5
 26090	102000835	Piedras Negras		locality	1
+26094	102000835	Piedras Negras		locality	1
 26095	102000835	Piedras Negras		locality	1
-26170	102000877	Sabinas		locality	2
+26170	102000877	Ciudad Sabinas		locality	2
 26170	102000891	Nava		locality	1
+26200	102000947	Ciudad Acuña		locality	1
 26230	102000947	Ciudad Acuña		locality	1
+26296	102000709	Juárez		locality	1
+26340	1126036423	Muzquiz		locality	4
 26600	102000845	Villa Unión		locality	1
-26830	102000865	Nueva Rosita		locality	1
-26860	102000877	Sabinas		locality	3
+26700	102000877	Ciudad Sabinas		locality	1
+26730	102000877	Ciudad Sabinas		locality	1
+26737	102000877	Ciudad Sabinas		locality	2
+26740	102000877	Ciudad Sabinas		locality	1
+26780	102000877	Ciudad Sabinas		locality	3
+26860	102000877	Ciudad Sabinas		locality	3
 26870	102000865	Nueva Rosita		locality	1
 26900	101996689	Pénjamo		locality	1
-27000	102000853	Torreón		locality	41
+27000	102000853	Torreón		locality	44
 27010	102000853	Torreón		locality	1
+27058	102000853	Torreón		locality	4
+27059	102000853	Torreón		locality	1
 27087	102000853	Torreón		locality	2
 27087	102000863	San Pedro		locality	1
+27100	102000853	Torreón		locality	1
+27105	102000871	Saltillo		locality	1
+27106	102000853	Torreón		locality	1
 27140	102000853	Torreón		locality	1
+27148	102000853	Torreón		locality	1
 27200	102000853	Torreón		locality	2
-27250	102000853	Torreón		locality	2
+27250	102000853	Torreón		locality	12
+27289	102000853	Torreón		locality	1
+27294	102000853	Torreón		locality	3
+27295	102000853	Torreón		locality	1
 27296	102000853	Torreón		locality	1
-27297	102000853	Torreón		locality	1
-27800	102000863	San Pedro		locality	1
-27900	102000935	Francisco I. Madero (Chávez)		locality	30
+27297	102000853	Torreón		locality	8
+27400	102000853	Torreón		locality	1
+27440	102000871	Saltillo		locality	1
+27800	1125882339	San Pedro de las Colonias		locality	22
+27811	1125882339	San Pedro de las Colonias		locality	1
+27900	102000935	Francisco I. Madero (Chávez)		locality	29
 27902	102000935	Francisco I. Madero (Chávez)		locality	6
-28000	101996911	Colima		locality	32
-28010	101996911	Colima		locality	7
-28017	101996911	Colima		locality	228
-28018	101996911	Colima		locality	1
+28000	101996911	Colima		locality	48
+28010	101996911	Colima		locality	10
+28017	101996911	Colima		locality	271
+28018	101996911	Colima		locality	4
 28019	101996911	Colima		locality	4
-28030	101996911	Colima		locality	1
+28030	101996911	Colima		locality	3
 28035	101996911	Colima		locality	31
 28035	1126036289	Villa de Álvarez		locality	4
 28040	101996911	Colima		locality	8
 28047	101996911	Colima		locality	5
+28048	101996911	Colima		locality	3
 28070	101996911	Colima		locality	2
 28100	101996939	Tecomán		locality	1
 28180	101996939	Tecomán		locality	1
 28189	1293091077	Tecoman		locality	1
 28190	101996939	Tecomán		locality	1
-28219	101996931	Manzanillo		locality	10
+28219	101996931	Manzanillo		locality	12
 28450	101996913	Comala		locality	2
-28459	101996913	Comala		locality	54
+28459	101996913	Comala		locality	66
 28460	1259567879	Cofradia de Suchitlan		locality	9
 28460	101996913	Comala		locality	1
 28645	101996911	Colima		locality	1
 28800	101996931	Manzanillo		locality	2
+28800	101996933	El Colomo		locality	1
 28860	101996931	Manzanillo		locality	1
 28867	101996931	Manzanillo		locality	1
 28869	1125882637	Salagua		locality	1
@@ -603,102 +835,128 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 28964	101996923	Cuauhtémoc		locality	1
 28965	1125937361	Chivato		locality	1
 28970	101996911	Colima		locality	34
-28970	1126036289	Villa de Álvarez		locality	18
+28970	1126036289	Villa de Álvarez		locality	23
 28974	101996911	Colima		locality	4
-28974	1126036289	Villa de Álvarez		locality	1
-28975	1126036289	Villa de Álvarez		locality	13
+28974	1126036289	Villa de Álvarez		locality	2
+28975	1126036289	Villa de Álvarez		locality	19
 28976	1126036289	Villa de Álvarez		locality	1
-28978	1126036289	Villa de Álvarez		locality	33
-28979	1126036289	Villa de Álvarez		locality	202
+28978	1126036289	Villa de Álvarez		locality	38
+28979	1126036289	Villa de Álvarez		locality	245
 28983	1126036289	Villa de Álvarez		locality	5
 28987	1126036289	Villa de Álvarez		locality	13
-28988	1126036289	Villa de Álvarez		locality	22
-28989	1126036289	Villa de Álvarez		locality	9
-29000	101994357	Tuxtla Gutiérrez		locality	6
+28988	1126036289	Villa de Álvarez		locality	33
+28989	1126036289	Villa de Álvarez		locality	12
+29000	101994357	Tuxtla Gutiérrez		locality	8
+29019	101994357	Tuxtla Gutiérrez		locality	2
 29030	101994357	Tuxtla Gutiérrez		locality	1
 29044	1327229485	Chiapa de Corzo		locality	2
+29049	101994357	Tuxtla Gutiérrez		locality	1
 29057	1327229485	Chiapa de Corzo		locality	1
 29066	101994357	Tuxtla Gutiérrez		locality	1
 29150	101994497	Suchiapa		locality	5
 29160	101994359	Chiapa de Corzo		locality	1
-29200	101994509	S. Cristobal de Las Casas		locality	11
-29220	101994509	S. Cristobal de Las Casas		locality	1
-29230	101994509	S. Cristobal de Las Casas		locality	7
-29240	101994509	S. Cristobal de Las Casas		locality	4
+29200	101994509	S. Cristobal de Las Casas		locality	39
+29220	101994509	S. Cristobal de Las Casas		locality	11
+29230	101994509	S. Cristobal de Las Casas		locality	12
+29230	1327229485	Chiapa de Corzo		locality	1
+29240	101994509	S. Cristobal de Las Casas		locality	19
+29250	101994509	S. Cristobal de Las Casas		locality	11
+29250	1327229485	Chiapa de Corzo		locality	5
 29263	101994509	S. Cristobal de Las Casas		locality	1
-29264	101994509	S. Cristobal de Las Casas		locality	2
+29264	101994509	S. Cristobal de Las Casas		locality	5
+29265	101994509	S. Cristobal de Las Casas		locality	1
 29290	101994509	S. Cristobal de Las Casas		locality	1
+29293	101994509	S. Cristobal de Las Casas		locality	1
+29513	101994581	Juarez		locality	1
 29600	1242919347	Mezcalapa		locality	2
-29960	101994537	Palenque/Temp		locality	2
-30000	101994647	Comitán de Domínguez		locality	1
+29950	101994559	Ocosingo		locality	2
+29953	101994557	Abasolo		locality	1
+29960	101994537	Palenque/Temp		locality	3
+30000	101994647	Comitán de Domínguez		locality	2
 30018	1327229485	Chiapa de Corzo		locality	1
 30029	101994647	Comitán de Domínguez		locality	1
 30068	101994647	Comitán de Domínguez		locality	2
+30140	1326528677	Comalapa		locality	1
 30200	101994433	Venustiano Carranza		locality	2
-30462	101994659	Cacahoatán		locality	1
 30500	101994465	Tonalá Municipality		locality	13
-30700	101994355	Tapachula		locality	8
+30540	1327229485	Chiapa de Corzo		locality	1
+30700	101994355	Tapachula		locality	11
 30710	101994355	Tapachula		locality	1
 30749	101994355	Tapachula		locality	1
 30786	101994355	Tapachula		locality	2
 30797	101994355	Tapachula		locality	1
 30823	1243066507	Tapachula [Algodonera]		locality	1
+30830	101994355	Tapachula		locality	1
 30890	101994659	Cacahoatán		locality	1
-30983	101997877	Zapopan		locality	1
-31000	101994137	Chihuahua City		locality	2
+31000	101994137	Chihuahua City		locality	3
+31060	101994137	Chihuahua City		locality	1
 31063	101994137	Chihuahua City		locality	5
 31064	101994137	Chihuahua City		locality	2
 31090	101994137	Chihuahua City		locality	2
 31100	101994137	Chihuahua City		locality	3
 31109	101994137	Chihuahua City		locality	2
 31115	101994137	Chihuahua City		locality	1
-31123	101994137	Chihuahua City		locality	2
+31123	101994137	Chihuahua City		locality	4
 31124	101994137	Chihuahua City		locality	2
-31125	101994137	Chihuahua City		locality	1
-31126	101994137	Chihuahua City		locality	2
+31125	101994137	Chihuahua City		locality	3
 31130	101994137	Chihuahua City		locality	2
+31135	101994137	Chihuahua City		locality	1
 31137	101994137	Chihuahua City		locality	3
+31160	101994137	Chihuahua City		locality	2
 31180	101994137	Chihuahua City		locality	2
 31185	101994137	Chihuahua City		locality	1
 31200	101994137	Chihuahua City		locality	3
 31203	101994137	Chihuahua City		locality	1
 31205	101994137	Chihuahua City		locality	1
-31207	101994137	Chihuahua City		locality	1
+31207	101994137	Chihuahua City		locality	2
 31207	101994143	Parral		locality	1
 31215	101994137	Chihuahua City		locality	1
+31220	101994137	Chihuahua City		locality	1
+31240	101994137	Chihuahua City		locality	1
 31250	101994137	Chihuahua City		locality	1
 31270	101994137	Chihuahua City		locality	1
 31300	101994137	Chihuahua City		locality	1
+31313	101994137	Chihuahua City		locality	1
 31370	101994137	Chihuahua City		locality	1
+31524	101994137	Chihuahua City		locality	1
 31700	101994157	Nuevo Casas Grandes		locality	1
 32000	101994153	Ciudad Juarez		locality	1
 32030	101994153	Ciudad Juarez		locality	2
 32211	101994153	Ciudad Juarez		locality	1
 32217	101994153	Ciudad Juarez		locality	1
-32310	101994153	Ciudad Juarez		locality	1
+32310	101994153	Ciudad Juarez		locality	2
 32319	101994153	Ciudad Juarez		locality	1
 32320	101994153	Ciudad Juarez		locality	1
-32380	101994153	Ciudad Juarez		locality	1
-32390	101994153	Ciudad Juarez		locality	1
+32380	101994153	Ciudad Juarez		locality	2
+32390	101994153	Ciudad Juarez		locality	3
+32460	101994153	Ciudad Juarez		locality	1
+32470	101994153	Ciudad Juarez		locality	2
+32520	101994153	Ciudad Juarez		locality	1
 32540	101994153	Ciudad Juarez		locality	3
-32575	101994153	Ciudad Juarez		locality	2
+32575	101994153	Ciudad Juarez		locality	9
+32600	101994153	Ciudad Juarez		locality	1
 32617	101994153	Ciudad Juarez		locality	1
 32618	101994153	Ciudad Juarez		locality	1
 32625	101994153	Ciudad Juarez		locality	1
+32650	101994153	Ciudad Juarez		locality	1
 32660	101994153	Ciudad Juarez		locality	1
 32662	101994153	Ciudad Juarez		locality	1
+32668	101994153	Ciudad Juarez		locality	3
 32670	101994153	Ciudad Juarez		locality	1
 32683	101994153	Ciudad Juarez		locality	1
-32690	101994153	Ciudad Juarez		locality	1
+32690	101994153	Ciudad Juarez		locality	2
 32695	101994153	Ciudad Juarez		locality	2
+32696	101994153	Ciudad Juarez		locality	2
 32880	101994305	Ojinaga		locality	1
 32881	1141907347	Ojinaga		locality	2
-33000	101994155	Delicias		locality	5
+33000	101994155	Delicias		locality	6
+33010	101994155	Delicias		locality	1
 33029	101994155	Delicias		locality	2
 33093	101994155	Delicias		locality	1
 33120	101994193	Santa Cruz de Rosales		locality	2
 33130	101994207	Pedro Meoqui		locality	1
-33620	101994287	Saucillo		locality	22
+33200	101994293	Creel		locality	3
+33620	101994287	Saucillo		locality	21
 33620	101994137	Chihuahua City		locality	2
 33800	101994143	Parral		locality	2
 33810	101994143	Parral		locality	2
@@ -728,9 +986,8 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 33890	101994303	José Mariano Jiménez		locality	1
 33896	101994143	Parral		locality	1
 33904	101994143	Parral		locality	1
-33920	101994277	Valle de Ignacio Allende		locality	1
 33980	101994303	José Mariano Jiménez		locality	1
-34000	101994335	Durango		locality	44
+34000	101994335	Durango		locality	46
 34045	101994335	Durango		locality	1
 34047	101994335	Durango		locality	1
 34050	101994335	Durango		locality	1
@@ -748,7 +1005,7 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 34166	101994335	Durango		locality	1
 34200	101994335	Durango		locality	9
 34207	101994335	Durango		locality	3
-34208	101994335	Durango		locality	1
+34208	101994335	Durango		locality	3
 34209	101994335	Durango		locality	1
 34216	101994335	Durango		locality	1
 34220	101994335	Durango		locality	3
@@ -760,11 +1017,15 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 34270	101994335	Durango		locality	6
 34287	101994335	Durango		locality	1
 34308	101994335	Durango		locality	1
-35000	101994337	Gómez Palacio		locality	1
-35017	101994337	Gómez Palacio		locality	1
-35024	101994337	Gómez Palacio		locality	1
+34464	1259561797	Venustiano Carranza		locality	11
+35000	101994337	Lerdo City		locality	1
+35010	101994337	Lerdo City		locality	1
+35017	101994337	Lerdo City		locality	1
+35024	101994337	Lerdo City		locality	1
 35157	101992287	Lerdo		locality	1
-36000	101996599	Guanajuato City		locality	457
+35174	1310589453	Juan E. Garcia		locality	1
+36000	101996599	Guanajuato City		locality	447
+36015	101996599	Guanajuato City		locality	1
 36089	101996599	Guanajuato City		locality	1
 36110	101996617	Irapuato		locality	1
 36112	101996777	Silao		locality	1
@@ -772,24 +1033,31 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 36200	101996701	Romita		locality	7
 36210	1243541761	Mezquite Gordo		locality	1
 36240	101996599	Guanajuato City		locality	1
-36250	101996599	Guanajuato City		locality	6
+36250	101996599	Guanajuato City		locality	8
 36250	101996601	Marfil		locality	1
+36251	101996599	Guanajuato City		locality	1
 36256	101996599	Guanajuato City		locality	14
 36257	101996599	Guanajuato City		locality	92
+36260	101996599	Guanajuato City		locality	1
+36263	101996599	Guanajuato City		locality	1
 36270	101996777	Silao		locality	1
 36275	101996777	Silao		locality	1
 36283	101996599	Guanajuato City		locality	2
 36294	101996777	Silao		locality	1
-36300	101996749	S. Francisco del Rincon		locality	16
+36300	101996749	S. Francisco del Rincon		locality	17
 36350	101996749	S. Francisco del Rincon		locality	1
 36360	101996749	S. Francisco del Rincon		locality	1
+36372	101996749	S. Francisco del Rincon		locality	1
 36450	101996749	S. Francisco del Rincon		locality	1
-36470	101993127	Ciudad Manuel Doblado		locality	21
-36500	101996599	Guanajuato City		locality	1
+36470	101993127	Manuel Doblado		locality	22
+36500	101996599	Guanajuato City		locality	3
 36520	101996617	Irapuato		locality	1
 36544	101996617	Irapuato		locality	1
+36557	101996617	Irapuato		locality	1
+36580	101996617	Irapuato		locality	1
 36584	101996617	Irapuato		locality	1
-36590	101996617	Irapuato		locality	1
+36588	101996599	Guanajuato City		locality	1
+36590	101996617	Irapuato		locality	2
 36595	101996617	Irapuato		locality	1
 36610	101996617	Irapuato		locality	1
 36611	101996617	Irapuato		locality	1
@@ -798,7 +1066,7 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 36620	101996617	Irapuato		locality	1
 36630	101996617	Irapuato		locality	1
 36631	101996617	Irapuato		locality	1
-36640	101996617	Irapuato		locality	2
+36640	101996617	Irapuato		locality	3
 36643	101996617	Irapuato		locality	1
 36660	101996617	Irapuato		locality	1
 36670	101996617	Irapuato		locality	4
@@ -810,68 +1078,94 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 36720	101996705	Salamanca		locality	4
 36730	101996705	Salamanca		locality	3
 36744	101996705	Salamanca		locality	1
+36780	101996719	Salvatierra		locality	1
 36810	101996617	Irapuato		locality	1
 36821	101996617	Irapuato		locality	3
+36827	101996617	Irapuato		locality	6
+36876	1259664197	Zapote de Peralta		locality	3
 36900	101996689	Pénjamo		locality	6
+36900	1209602463	El Derramadero		locality	2
 36980	101993047	Abasolo		locality	6
-37000	101996837	León		locality	3
+37000	101996837	León		locality	4
 37004	101996837	León		locality	1
 37100	101996837	León		locality	1
+37125	101996837	León		locality	1
+37140	101996837	León		locality	1
 37149	101996837	León		locality	1
-37150	101996837	León		locality	2
+37150	101996837	León		locality	3
 37160	101996837	León		locality	2
 37170	101996837	León		locality	1
 37175	101991705	Toluca		locality	1
 37180	101996837	León		locality	1
 37200	101996837	León		locality	2
+37207	101996837	León		locality	2
 37238	101996837	León		locality	1
+37260	101996599	Guanajuato City		locality	1
 37260	101996837	León		locality	1
 37270	101996837	León		locality	2
 37280	101996837	León		locality	2
-37290	101996837	León		locality	3
+37290	101996837	León		locality	7
+37295	101996837	León		locality	4
 37296	101996837	León		locality	1
 37298	101996837	León		locality	1
 37320	101996837	León		locality	1
+37330	101996837	León		locality	1
 37350	101996837	León		locality	1
 37358	101996837	León		locality	4
+37370	101996837	León		locality	1
+37390	101996599	Guanajuato City		locality	1
 37407	101996837	León		locality	1
+37416	101996837	León		locality	1
 37500	101996837	León		locality	8
 37520	101996837	León		locality	1
-37530	101996837	León		locality	1
-37700	101993059	San Miguel de Allende		locality	17
+37530	101996837	León		locality	3
+37536	101996837	León		locality	1
+37544	101996837	León		locality	1
+37545	101996837	León		locality	1
+37547	101996837	León		locality	2
+37600	101996741	San Felipe		locality	1
+37700	101993059	San Miguel de Allende		locality	18
+37713	101993059	San Miguel de Allende		locality	2
 37725	101993059	San Miguel de Allende		locality	5
-37765	101993059	San Miguel de Allende		locality	1
+37750	101993059	San Miguel de Allende		locality	1
+37765	101993059	San Miguel de Allende		locality	2
 37900	101996755	San Luis de la Paz		locality	45
 37900	1209893519	La Paz		locality	1
 38000	101993095	Celaya		locality	5
 38010	101993095	Celaya		locality	5
-38020	101993095	Celaya		locality	4
+38020	101993095	Celaya		locality	3
+38030	101993095	Celaya		locality	1
 38037	101993095	Celaya		locality	1
 38053	1259560859	Pozos		locality	2
+38057	101996719	Salvatierra		locality	1
 38078	101993095	Celaya		locality	1
 38080	101993095	Celaya		locality	1
 38090	101993095	Celaya		locality	1
 038100	857683023	Mexico City		locality	1
 38160	101993073	Apaseo el Grande		locality	2
-38260	101996817	Villagrán		locality	9
+38260	101996817	Villagrán		locality	8
 38300	101996585	Cortazar Municipality		locality	4
-38400	101996805	Valle de Santiago		locality	43
+38400	101996805	Valle de Santiago		locality	44
 38500	101993065	Apaseo el Alto		locality	3
 38590	101996583	Coroneo		locality	21
 38700	101996797	Tarimoro		locality	10
-38800	101996683	Moroleón		locality	3
+38800	101996683	Moroleón		locality	7
+38820	101996683	Moroleón		locality	1
+38860	101996683	Moroleón		locality	12
 38940	101996827	Yuriria Municipality		locality	1
 38961	101996833	Cerano (San Juan Cerano)		locality	13
+38970	101996773	Santiago Maravatío		locality	3
 38980	101996803	Uriangato		locality	2
 38985	101996803	Uriangato		locality	1
 39000	101991453	Chilpancingo		locality	1
+39010	101991453	Chilpancingo		locality	1
 39030	101991453	Chilpancingo		locality	1
 39090	101991453	Chilpancingo		locality	3
 39095	101991453	Chilpancingo		locality	1
 39181	1276965647	Ayotzinapa		locality	1
 39200	101991397	Ayutla de los Libres		locality	2
 39230.0	101991351	Pilcaya Municipality		locality	2
-39270	1310687749	Tecoanapa		locality	1
+39270	1310687749	Tecoanapa		locality	4
 39300	101991509	Acapulco		locality	2
 39355	101991509	Acapulco		locality	1
 39360	101991509	Acapulco		locality	2
@@ -883,8 +1177,11 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 39690	101991509	Acapulco		locality	1
 39700	101991509	Acapulco		locality	1
 39810	101991509	Acapulco		locality	1
-39850	101991509	Acapulco		locality	1
+39820	101991509	Acapulco		locality	1
+39850	101991509	Acapulco		locality	2
+39880	101991509	Acapulco		locality	1
 39890	101991509	Acapulco		locality	1
+39897	101991509	Acapulco		locality	2
 39901	101991509	Acapulco		locality	1
 39905	101991509	Acapulco		locality	1
 39906	101991509	Acapulco		locality	2
@@ -892,174 +1189,231 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 40000	101991385	Iguala de la Independencia		locality	2
 40020	857683023	Mexico City		locality	2
 40020	101991385	Iguala de la Independencia		locality	2
+40080	101991385	Iguala de la Independencia		locality	2
+40096	101991385	Iguala de la Independencia		locality	1
+40150	101991473	Tuliman		locality	1
+40180	101991273	Zumpango del Río		locality	3
 40200	101991497	Taxco		locality	2
 40211	101991497	Taxco		locality	1
 40220	101991497	Taxco		locality	2
+40360	101991245	Tetipac		locality	2
 40380.0	101991351	Pilcaya Municipality		locality	2
 40380	101991351	Pilcaya Municipality		locality	1
 40381.0	101991351	Pilcaya Municipality		locality	2
 40391	101991351	Pilcaya Municipality		locality	1
 40660	101991349	Ciudad Altamirano		locality	1
-40880	101991381	Zihuatanejo		locality	2
+40730	101991401	Ajuchitlán		locality	1
+40880	101991381	Zihuatanejo		locality	4
+40880	1310369197	Guerrero		locality	1
 40884	101991481	Zihuatanejo		locality	1
 40970	101991207	Coyuca de Benítez		locality	1
+40972.	101991207	Coyuca de Benítez		locality	1
 40978	101991207	Coyuca de Benítez		locality	2
-41100	1343738847	Colonia Guerrero		locality	3
-41100	101991445	Chilapa de Álvarez		locality	2
+41100	101991445	Chilapa de Álvarez		locality	3
 41304	101991301	Tlapa de Comonfort		locality	5
-41770	101991287	Xochistlahuaca		locality	5
-41903	101991395	Azoyú		locality	2
-42000	1125961381	Pachuca		locality	5
+41700	101991487	Ometepec		locality	1
+41770	101991287	Xochistlahuaca		locality	6
+41903	101991395	Azoyú		locality	1
+42000	1125961381	Pachuca		locality	6
 42010	1125961381	Pachuca		locality	1
+42030	1125961381	Pachuca		locality	1
 42040	1125961381	Pachuca		locality	2
 42050	1125961381	Pachuca		locality	1
 42058	1125961381	Pachuca		locality	1
 42075	1125961381	Pachuca		locality	1
-42080	1125961381	Pachuca		locality	2
+42080	1125961381	Pachuca		locality	3
 42080	102000455	Pachuca		locality	2
 42080	1293262095	San Luis		locality	1
-42082	102000455	Pachuca		locality	2
-42084	102000455	Pachuca		locality	1
+42082	102000455	Pachuca		locality	3
+42083	102000455	Pachuca		locality	1
+42084	102000455	Pachuca		locality	2
 42086	102000455	Pachuca		locality	1
+42088	102000455	Pachuca		locality	10
 42090	1125961381	Pachuca		locality	1
 42094	1125961381	Pachuca		locality	1
 42096	1125862201	Mineral de la Reforma		locality	8
 42130	102000481	Mineral del Monte		locality	1
-42184	1125862201	Mineral de la Reforma		locality	59
+42176	102000279	San Agustín Tlaxiaca		locality	1
+42184	1125862201	Mineral de la Reforma		locality	53
 42186	1125862201	Mineral de la Reforma		locality	9
 42300	102000507	Ixmiquilpan		locality	2
-42320	102000507	Ixmiquilpan		locality	1
+42320	102000507	Ixmiquilpan		locality	2
+42325	102000507	Ixmiquilpan		locality	3
 42345	1276208747	Trancas		locality	1
 42381	102000255	Tasquillo		locality	1
-42500	102000619	Actopan		locality	1
+42400	102000513	Huichapan		locality	1
+42461	1243334699	Uxdejhe		locality	1
+42500	102000619	Actopan		locality	2
+42601	102000619	Actopan		locality	1
 42646	102000269	Caxuxi		locality	2
-42700	102000477	Mixquiahuala		locality	5
+42700	102000477	Mixquiahuala		locality	6
 42752	1276419593	Texcatepec		locality	1
-42800	102000157	Tula de Allende		locality	1
+42800	102000157	Tula de Allende		locality	2
+42805	102000157	Tula de Allende		locality	3
 42831	102000157	Tula de Allende		locality	1
 42850	1125879607	Tepeji del Río		locality	4
 42950	102000169	Tlaxcoapan		locality	5
+42970	102000593	Atitalaquia		locality	2
+42980	102000579	Atotonilco de Tula		locality	1
+42988	102000579	Atotonilco de Tula		locality	1
 43000	102000523	Huejutla de Reyes		locality	2
+43200	102000117	ZacualtipaH		locality	1
+43500	102000533	Huasca de Ocampo		locality	3
 43600	102000143	Tulancingo		locality	5
-43800	102000199	Tizayuca		locality	5
+43659	102000143	Tulancingo		locality	1
+43690	102000143	Tulancingo		locality	1
+43700	102000143	Tulancingo		locality	1
+43710	101999507	Hueytlalpan Municipality		locality	1
+43720	102000629	Acaxochitlán		locality	2
+43800	102000199	Tizayuca		locality	7
+43840	102000109	Zempoala		locality	1
+43845	102000109	Zempoala		locality	1
 43850	1125924765	Santo Tomás		locality	1
 43860	102000163	Tolcayuca		locality	1
-43900	102000597	Apan		locality	3
+43900	102000597	Apan		locality	4
+43960	102000545	Emiliano Zapata		locality	9
 43990	102000245	Sahagun City		locality	6
-44100	101997865	Guadalajara		locality	25
+43996	102000245	Sahagun City		locality	1
+44100	101997865	Guadalajara		locality	39
 44100	1126058829	Xalisco		locality	4
-44130	101997865	Guadalajara		locality	3
+44110	101997865	Guadalajara		locality	1
+44130	101997865	Guadalajara		locality	6
+44140	101997865	Guadalajara		locality	2
+44150	101997865	Guadalajara		locality	1
 44160	101997865	Guadalajara		locality	41
+44160	101997977	Mazamitla		locality	1
 44170	101997865	Guadalajara		locality	1
-44180	101997865	Guadalajara		locality	2
+44180	101997865	Guadalajara		locality	3
 44190	101997865	Guadalajara		locality	7
-44200	101997865	Guadalajara		locality	2
+44200	101997865	Guadalajara		locality	3
 44210	101997865	Guadalajara		locality	3
 44220	101997865	Guadalajara		locality	7
-44240	101997865	Guadalajara		locality	2
-44260	101997865	Guadalajara		locality	1
+44240	101997865	Guadalajara		locality	9
+44260	101997865	Guadalajara		locality	3
 44270	101997865	Guadalajara		locality	1
 44279	101997865	Guadalajara		locality	1
-44280	101997865	Guadalajara		locality	1
+44280	101997865	Guadalajara		locality	2
 44290	101997865	Guadalajara		locality	5
 44300	101997865	Guadalajara		locality	1
 44310	101997865	Guadalajara		locality	1
 44320	101997865	Guadalajara		locality	1
 44340	101997865	Guadalajara		locality	11
 44340	1126058829	Xalisco		locality	1
-44350	101997865	Guadalajara		locality	12
+44350	101997865	Guadalajara		locality	13
 44370	101997865	Guadalajara		locality	2
 44380	101997865	Guadalajara		locality	1
 44390	101997865	Guadalajara		locality	1
 44410	101997865	Guadalajara		locality	1
+44410	1126058829	Xalisco		locality	1
 44420	101997865	Guadalajara		locality	1
 44430	101997865	Guadalajara		locality	1
+44440	101997865	Guadalajara		locality	1
 44450	101997865	Guadalajara		locality	1
-44470	101997865	Guadalajara		locality	1
+44470	101997865	Guadalajara		locality	2
 44490	101997865	Guadalajara		locality	1
 44490	101997863	Tlaquepaque		locality	1
-44500	101997877	Zapopan		locality	3
-44500	101997865	Guadalajara		locality	1
+44500	101997865	Guadalajara		locality	8
+44500	101997877	Zapopan		locality	5
+44510	101997877	Zapopan		locality	2
 44510	101997865	Guadalajara		locality	1
-44510	101997877	Zapopan		locality	1
 44520	101997877	Zapopan		locality	1
-44530	101997865	Guadalajara		locality	1
+44530	101997865	Guadalajara		locality	2
 44540	101997865	Guadalajara		locality	1
 44550	101997865	Guadalajara		locality	2
-44580	101997865	Guadalajara		locality	1
-44600	101997865	Guadalajara		locality	14
+44580	101997865	Guadalajara		locality	2
+44600	101997865	Guadalajara		locality	21
 44610	101997865	Guadalajara		locality	2
 44620	101997865	Guadalajara		locality	2
-44630	101997865	Guadalajara		locality	4
+44630	101997865	Guadalajara		locality	6
 44638	101997865	Guadalajara		locality	1
 44645	1343634791	La Tijera		locality	1
 44648	101997865	Guadalajara		locality	1
-44670	101997865	Guadalajara		locality	2
+44660	101997865	Guadalajara		locality	1
+44670	101997865	Guadalajara		locality	4
+44680	101997865	Guadalajara		locality	1
 44690	101997865	Guadalajara		locality	6
 44700	101997865	Guadalajara		locality	1
+44710	101997865	Guadalajara		locality	2
+44720	101997865	Guadalajara		locality	3
 44730	101997865	Guadalajara		locality	4
-44770	101997865	Guadalajara		locality	2
+44760	101997865	Guadalajara		locality	3
+44770	101997865	Guadalajara		locality	7
 44790	101997865	Guadalajara		locality	1
 44820	101997865	Guadalajara		locality	1
 44860	101997865	Guadalajara		locality	1
 44870	101997865	Guadalajara		locality	2
-44890	101997865	Guadalajara		locality	1
+44890	101997865	Guadalajara		locality	2
 44897	101997865	Guadalajara		locality	1
 44900	101997865	Guadalajara		locality	1
+44909	101997865	Guadalajara		locality	1
 44910	101997865	Guadalajara		locality	7
-44940	101997865	Guadalajara		locality	1
-44960	101997865	Guadalajara		locality	2
+44940	101997865	Guadalajara		locality	2
+44950	101997865	Guadalajara		locality	3
+44960	101997865	Guadalajara		locality	3
 44980	101997865	Guadalajara		locality	2
-44987	101997865	Guadalajara		locality	1
-45000	101997865	Guadalajara		locality	1
-45010	101997877	Zapopan		locality	38
+44987	101997863	Tlaquepaque		locality	78
+44987	101997865	Guadalajara		locality	4
+44990	101997863	Tlaquepaque		locality	2
+45000	101997865	Guadalajara		locality	2
+45010	101997877	Zapopan		locality	44
 45010	101997865	Guadalajara		locality	1
-45018	101997877	Zapopan		locality	1
-45019	101997877	Zapopan		locality	13
-45020	101997877	Zapopan		locality	1
-45027	101997877	Zapopan		locality	3
-45030	101997877	Zapopan		locality	250
+45017	101997877	Zapopan		locality	5
+45018	101997877	Zapopan		locality	6
+45019	101997877	Zapopan		locality	17
+45020	101997877	Zapopan		locality	4
+45027	101997877	Zapopan		locality	4
+45027	101997865	Guadalajara		locality	1
+45030	101997877	Zapopan		locality	258
+45030	101997865	Guadalajara		locality	1
 45034	101997877	Zapopan		locality	5
 45037	1126058829	Xalisco		locality	1
-45040	101997877	Zapopan		locality	5
-45040	101997865	Guadalajara		locality	4
+45040	101997865	Guadalajara		locality	17
+45040	101997877	Zapopan		locality	9
 45047	101997877	Zapopan		locality	9
 45049	101997877	Zapopan		locality	1
-45050	101997877	Zapopan		locality	34
+45050	101997877	Zapopan		locality	37
 45051	1343634791	La Tijera		locality	1
-45053	101997877	Zapopan		locality	11
+45053	101997877	Zapopan		locality	14
+45054	101997877	Zapopan		locality	1
 45057	101997877	Zapopan		locality	1
-45058	101997877	Zapopan		locality	7
+45058	101997877	Zapopan		locality	6
 45059	101997877	Zapopan		locality	1
 45060	101997865	Guadalajara		locality	1
 45060	101997877	Zapopan		locality	1
-45069	101997877	Zapopan		locality	1
-45070	101997877	Zapopan		locality	18
-45079	101997877	Zapopan		locality	2
-45080	101997877	Zapopan		locality	6
+45066	101997877	Zapopan		locality	2
+45069	101997877	Zapopan		locality	3
+45070	101997877	Zapopan		locality	30
+45079	101997877	Zapopan		locality	22
+45080	101997877	Zapopan		locality	10
 45080	1125772213	San Pedro Tlaquepaque		locality	2
 45089	101997877	Zapopan		locality	2
 45100	101997877	Zapopan		locality	1
-45110	101997877	Zapopan		locality	2
+45110	101997877	Zapopan		locality	5
 45110	101997865	Guadalajara		locality	1
-45116	101997877	Zapopan		locality	4
+45116	101997877	Zapopan		locality	6
 45117	101997877	Zapopan		locality	1
-45130	101997877	Zapopan		locality	13
+45120	101997865	Guadalajara		locality	5
+45120	101997877	Zapopan		locality	1
+45130	101997877	Zapopan		locality	14
+45130	101997865	Guadalajara		locality	5
 45132	101997877	Zapopan		locality	1
 45134	101997877	Zapopan		locality	3
 45136	101997877	Zapopan		locality	5
-45138	101997877	Zapopan		locality	10
-45140	101997877	Zapopan		locality	9
+45138	101997877	Zapopan		locality	13
+45138	1126058829	Xalisco		locality	1
+45140	101997877	Zapopan		locality	12
 45145	101997877	Zapopan		locality	1
 45147	101997877	Zapopan		locality	2
-45150	101997877	Zapopan		locality	4
+45150	101997877	Zapopan		locality	6
+45170	101997877	Zapopan		locality	2
 45180	101997877	Zapopan		locality	4
+45186	101997877	Zapopan		locality	2
 45188	101997877	Zapopan		locality	2
 45189	101997877	Zapopan		locality	1
 45190	101997877	Zapopan		locality	8
-45200	101997877	Zapopan		locality	2
+45200	101997877	Zapopan		locality	8
 45201	1126058829	Xalisco		locality	1
-45221	101997877	Zapopan		locality	2
+45221	101997877	Zapopan		locality	3
 45221	101997929	La Venta del Astillero		locality	1
 45230	101997877	Zapopan		locality	2
 45236	101997877	Zapopan		locality	1
@@ -1067,107 +1421,144 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 45260	101997923	Ixtlahuacán del Río		locality	2
 45260;45280	1125783417	Mascuala		locality	1
 45280	1125783417	Mascuala		locality	5
-45320	101997793	Cuisillos		locality	15
+45320	101997793	Cuisillos		locality	11
+45380	101997931	Amatitán		locality	1
 45400	101997867	Tonalá		locality	2
+45400	1125804185	Salatitán		locality	2
 45400	1126058829	Xalisco		locality	1
+45405	1125804185	Salatitán		locality	13
 45405	1259950475	Loma Bonita		locality	1
+45406	101997867	Tonalá		locality	1
+45409	1125804185	Salatitán		locality	22
+45410	101997867	Tonalá		locality	1
 45425	101997867	Tonalá		locality	1
 45429	101997867	Tonalá		locality	1
-45430	101998047	Zapotlanejo		locality	3
+45430	101998047	Zapotlanejo		locality	6
 45430	1209079555	El Salitre		locality	1
+45438	101998047	Zapotlanejo		locality	39
 45470	101997921	Acatic		locality	5
 45500	1125772213	San Pedro Tlaquepaque		locality	4
+45510	1125935193	Tlaquepaque		locality	1
 45530	101997863	Tlaquepaque		locality	1
 45540	101997863	Tlaquepaque		locality	1
+45559	1125935193	Tlaquepaque		locality	1
 45560	101997865	Guadalajara		locality	2
 45580	101997863	Tlaquepaque		locality	2
 45588	101997863	Tlaquepaque		locality	2
+45590	101997865	Guadalajara		locality	1
 45590	101997863	Tlaquepaque		locality	1
 45599	101997863	Tlaquepaque		locality	1
 45601	1125772213	San Pedro Tlaquepaque		locality	1
-45602	1125772213	San Pedro Tlaquepaque		locality	3
+45602	1125772213	San Pedro Tlaquepaque		locality	4
 45602	101997863	Tlaquepaque		locality	1
 45604	101997863	Tlaquepaque		locality	1
+45608	101997863	Tlaquepaque		locality	4
 45608	101997865	Guadalajara		locality	1
-45608	101997863	Tlaquepaque		locality	1
 45609	101997863	Tlaquepaque		locality	2
 45610	101997863	Tlaquepaque		locality	1
+45615	101997863	Tlaquepaque		locality	1
 45625	101997863	Tlaquepaque		locality	1
 45640	101997691	Tlajomulco de Zuñiga		locality	5
 45640	101997865	Guadalajara		locality	1
 45643	1125994925	El Palomar		locality	3
-45645	101997691	Tlajomulco de Zuñiga		locality	3
-45645	101997677	Los Gavilanes		locality	2
+45645	101997691	Tlajomulco de Zuñiga		locality	4
+45645	101997677	Los Gavilanes negros		locality	2
+45653	101997669	Hacienda Santa Fe		locality	2
 45654	101997691	Tlajomulco de Zuñiga		locality	1
+45655	101997861	Santa Cruz del Valle		locality	2
 45684	101997681	San José del Castillo		locality	1
 45685	101997681	San José del Castillo		locality	1
+45690	101997779	El Salto		locality	1
 45693	101997779	El Salto		locality	1
 45693	101997865	Guadalajara		locality	1
 45700	101998083	Acatlán de Juárez Municipality		locality	4
+45720	101998083	Acatlán de Juárez Municipality		locality	1
 45730	101997563	Villa Corona		locality	2
+45750	101997597	Zacoalco de Torres		locality	5
 45860	101998051	Atequiza		locality	1
 45900	101998069	Chapala		locality	3
 45920	101998065	Ajijic		locality	1
 46121	101996369	Queretaro		locality	1
-46400	101997951	Tequila		locality	3
-46440	101997759	Hostotipaquillo		locality	1
-46560	101997727	San Juanito de Escobedo		locality	2
+46400	101997951	Tequila Municipality		locality	5
+46440	101997759	Hostotipaquillo		locality	2
+46470	101997953	Magdalena Municipality		locality	2
+46560	101997727	San Juanito de Escobedo		locality	4
+46600	101997879	Ameca		locality	4
+46730	101997943	Ahualulco de Mercado Municipality		locality	4
 46900	101997967	Mascota		locality	2
-46990	1226412921	San Sebastian del Oeste		locality	1
+46990	101997791	San Sebastián del Oeste		locality	2
 47000	101997699	San Juan de los Lagos		locality	3
+47017	101997877	Zapopan		locality	1
 47030	101997699	San Juan de los Lagos		locality	1
-47120	101997701	Jalostotitlán		locality	4
+47120	101997701	Jalostotitlán		locality	5
 47196	101997907	Santa María del Valle		locality	2
-47200	101998019	Teocaltiche		locality	5
+47200	101998019	Teocaltiche		locality	6
 47300	101997703	Yahualica de González Gallo Municipality		locality	1
-47400	101998033	Lagos de Moreno		locality	4
+47400	101998033	Lagos de Moreno		locality	5
 47425	101998033	Lagos de Moreno		locality	1
+47480	101998033	Lagos de Moreno		locality	1
 47600	101998045	Tepatitlán de Morelos		locality	6
-47640	101998045	Tepatitlán de Morelos		locality	1
+47620	101998045	Tepatitlán de Morelos		locality	5
+47640	101998045	Tepatitlán de Morelos		locality	2
 47680	101998045	Tepatitlán de Morelos		locality	1
+47700	101998083	Acatlán de Juárez Municipality		locality	1
 47730	101997571	Tototlán		locality	1
-47750	101997883	Atotonilco El Alto		locality	1
+47750	101997883	Atotonilco El Alto		locality	5
+47800	101997895	Ocotlán		locality	1
 47829	101997895	Ocotlán		locality	1
+47899	101997895	Ocotlán		locality	1
 47900	101997901	Jamay		locality	6
 48000	101997645	Unión de Tula		locality	2
 48050	101997613	Sayula		locality	5
 48200	101997797	Talpa de allende		locality	2
-48290	101997965	Puerto Vallarta		locality	4
-48310	101997965	Puerto Vallarta		locality	11
+48280	101997965	Puerto Vallarta		locality	1
+48282	101997965	Puerto Vallarta		locality	1
+48290	101997965	Puerto Vallarta		locality	5
+48300	101997965	Puerto Vallarta		locality	1
+48310	101997965	Puerto Vallarta		locality	14
 48312	101997965	Puerto Vallarta		locality	1
 48313	101997965	Puerto Vallarta		locality	4
-48326	101997965	Puerto Vallarta		locality	5
-48333	101997965	Puerto Vallarta		locality	4
-48335	101997965	Puerto Vallarta		locality	3
+48314	101997965	Puerto Vallarta		locality	1
+48315	101997965	Puerto Vallarta		locality	1
+48326	101997965	Puerto Vallarta		locality	1
+48333	101997965	Puerto Vallarta		locality	6
+48335	101997965	Puerto Vallarta		locality	7
 48343	101997965	Puerto Vallarta		locality	1
 48344	101997965	Puerto Vallarta		locality	2
-48350	101997965	Puerto Vallarta		locality	1
+48350	101997965	Puerto Vallarta		locality	2
 48354	101997965	Puerto Vallarta		locality	2
-48380	101997965	Puerto Vallarta		locality	1
+48380	101997965	Puerto Vallarta		locality	3
 48389	101997965	Puerto Vallarta		locality	1
-48390	101997965	Puerto Vallarta		locality	3
+48390	101997965	Puerto Vallarta		locality	4
+48500	101997565	Cocula		locality	3
 48530	101997749	La Cofradía de la Luz		locality	8
 48530	101997565	Cocula		locality	1
+48540	101997989	Tecolotlán		locality	1
 48570	101997647	Tenamaxtlán		locality	1
+48610	101997007	Santa María del Oro Municipality		locality	1
 48640	101997605	Chiquilistlán		locality	2
 48640	1343245133	Chiquilistlan		locality	1
 48740	101997579	El Grullo		locality	27
 48894	1226325649	Careyes		locality	3
 48898	1226225057	La Manzanilla		locality	1
+48900	101997577	Autlán de Navarro		locality	2
 48930	101997575	La Resolana		locality	1
 48980	101998003	San Patricio		locality	2
 48987	1125818025	Barra de Navidad		locality	5
 49000	101997617	Ciudad Guzmán		locality	4
+49300	101997613	Sayula		locality	1
+49314	101997613	Sayula		locality	3
 49400	101997811	Tizapán el Alto		locality	1
 49500	101997977	Mazamitla		locality	1
-49700	101997637	San Gabriel		locality	1
+49700	1125942549	Venustiano Carranza		locality	9
 49750	1209899209	La Parota (Loma de San Antonio)		locality	4
 49750	1309788749	Las Canoas		locality	2
 49750	1343644619	Santa Elena de La Cruz		locality	1
 49750	101997831	Tolimán Municipality		locality	1
 49840	101997841	Tonila		locality	1
-50000	101991705	Toluca		locality	102
-50010	101991705	Toluca		locality	7
+50000	101991705	Toluca		locality	104
+50010	101991705	Toluca		locality	8
+50019	101991705	Toluca		locality	1
 50020	101991705	Toluca		locality	16
 50030	101991705	Toluca		locality	2
 50040	101991705	Toluca		locality	105
@@ -1175,37 +1566,39 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 50060	101991705	Toluca		locality	6
 50066	101992735	Ecatepec de Morelos		locality	2
 50070	101991705	Toluca		locality	3
-50080	101991705	Toluca		locality	65
+50080	101991705	Toluca		locality	66
 50090	101991705	Toluca		locality	25
 50100	101991705	Toluca		locality	11
 50110	101991705	Toluca		locality	15
-50120	101991705	Toluca		locality	39
+50120	101991705	Toluca		locality	38
 50120	101992489	Ciudad Nezahualcóyotl		locality	3
-50130	101991705	Toluca		locality	1
+50130	101991705	Toluca		locality	15
 50140	101991705	Toluca		locality	1
 50150	101991705	Toluca		locality	4
 50160	101991705	Toluca		locality	2
 50170	101991705	Toluca		locality	8
 50180	101991705	Toluca		locality	9
-50200	101991705	Toluca		locality	10
+50200	101991705	Toluca		locality	7
 50210	101992155	San Mateo Atenco		locality	1
 50220	101991705	Toluca		locality	1
-50222	101991705	Toluca		locality	1
 50226	101991705	Toluca		locality	1
 50228	101991705	Toluca		locality	1
 50245	101991705	Toluca		locality	1
 50255	101991705	Toluca		locality	4
 50260	101991705	Toluca		locality	5
-50265	101991705	Toluca		locality	2
+50265	101991705	Toluca		locality	3
 50270	101991705	Toluca		locality	1
 50290	101991705	Toluca		locality	2
 50290	101991669	San Pablo Autopan		locality	1
 50293	101991705	Toluca		locality	1
 50300	101993221	Acambay		locality	2
+50300	101991937	Tenango de Arista		locality	1
 50360	101993201	Aculco Municipality		locality	3
 50414	1344129509	San Mateo el Viejo		locality	1
-50490	1125979829	Atlacomulco		locality	1
-50630	1277038267	Tapaxco		locality	31
+50490	101993135	Atlacomulco Municipality		locality	1
+50600	101992443	El Oro Municipality		locality	1
+50630	1277038267	Tapaxco		locality	29
+50700	101992489	Ciudad Nezahualcóyotl		locality	1
 50740	101992643	Ixtlahuaca de Rayón		locality	1
 50780	1209998775	San Antonio Bonixi		locality	1
 50900	101992489	Ciudad Nezahualcóyotl		locality	171
@@ -1216,47 +1609,53 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 50940	1125797387	Almoloya de Juarez Municipality		locality	1
 50960	101991599	Villa Victoria		locality	1
 51030	1125877587	Donato Guerra		locality	6
-51200	101991621	Valle de Bravo		locality	30
+51200	101991621	Valle de Bravo		locality	176
 51200	857683023	Mexico City		locality	2
+51200	1125989363	Avándaro		locality	1
 51350	101991587	San Miguel Zinacantepec		locality	3
 51354	101991587	San Miguel Zinacantepec		locality	1
 51355	101991587	San Miguel Zinacantepec		locality	1
 51360	101991575	Santa María del Monte		locality	2
 51361	101991705	Toluca		locality	1
 51367	101991587	San Miguel Zinacantepec		locality	1
-51400	101992099	Tejupilco de Hidalgo		locality	2
-51440	101992099	Tejupilco de Hidalgo		locality	1
+51400	101992099	Tejupilco		locality	2
+51440	101992099	Tejupilco		locality	1
 51760	101991605	Villa Guerrero		locality	4
 51760.0	101991605	Villa Guerrero		locality	2
 51760	101992489	Ciudad Nezahualcóyotl		locality	1
-51900	101992647	Ixtapan de la Sal		locality	10
+51900	101992647	Ixtapan de la Sal		locality	11
 51950.0	101991643	Tonatico Municipality		locality	4
 51950	101991643	Tonatico Municipality		locality	2
 51980.0	1260255251	Zumpahuacan		locality	20
 51980	1260255251	Zumpahuacan		locality	2
-52000	101992565	Lerma de Villada		locality	4
-52004	101992565	Lerma de Villada		locality	1
-52005	101992565	Lerma de Villada		locality	1
+52000	101992565	Lerma Municipality		locality	4
+52004	101992565	Lerma Municipality		locality	1
+52005	101992565	Lerma Municipality		locality	1
 52030	857683023	Mexico City		locality	1
-52040	101992565	Lerma de Villada		locality	3
+52040	101992565	Lerma Municipality		locality	3
 52040	101992557	San Miguel Ameyalco		locality	3
-52059	101992565	Lerma de Villada		locality	3
+52045	1125994359	Salazar		locality	1
+52059	101992565	Lerma Municipality		locality	3
+52070	101991595	Santa María Zolotepec		locality	4
+52100	101991621	Valle de Bravo		locality	1
 52104	1226412251	San Mateo Atenco		locality	5
 52105	101992155	San Mateo Atenco		locality	1
-52140	101992537	Metepec		locality	53
+52140	101992537	Metepec		locality	57
 52140	101991705	Toluca		locality	1
-52143	101992537	Metepec		locality	10
-52145	101992537	Metepec		locality	13
+52143	101992537	Metepec		locality	8
+52145	101992537	Metepec		locality	10
+52148	101992537	Metepec		locality	1
 52149	101991705	Toluca		locality	1
 52161	857683023	Mexico City		locality	1
 52161	101991705	Toluca		locality	1
 52169	101992537	Metepec		locality	2
 52169	101991705	Toluca		locality	1
-52172	101992537	Metepec		locality	5
+52172	101992537	Metepec		locality	6
 52172	857683023	Mexico City		locality	1
 52220	101992829	San Andrés Ocotlán		locality	1
 52230	101991705	Toluca		locality	3
 52240	101991705	Toluca		locality	2
+52240	101992759	Chapultepec		locality	1
 52300	101991937	Tenango de Arista		locality	1
 52300	101991705	Toluca		locality	1
 52370	101992573	Joquicingo Municipality		locality	2
@@ -1274,45 +1673,66 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 52640	101991723	San Pedro Tlaltizapan		locality	1
 52680	101992611	Xalatlaco		locality	3
 52690	101992611	Xalatlaco		locality	1
-52740	101992459	Ocoyoacac		locality	3
+52713	1226306303	Guadalupe Victoria		locality	2
+52740	101992459	Ocoyoacac		locality	4
 52740	857683023	Mexico City		locality	1
 52755	857683023	Mexico City		locality	1
 52760	101992695	Dos Ríos		locality	2
-52763	101992697	Huixquilucan de Degollado		locality	8
-52764	857683023	Mexico City		locality	7
-52764	101992697	Huixquilucan de Degollado		locality	7
+52763	101992697	Huixquilucan de Degollado		locality	12
+52764	101992697	Huixquilucan de Degollado		locality	13
+52764	857683023	Mexico City		locality	4
+52766	101992677	Santiago Yancuitlalpan		locality	2
 52770	101992489	Ciudad Nezahualcóyotl		locality	1
 52773	101992697	Huixquilucan de Degollado		locality	2
+52774	101992697	Huixquilucan de Degollado		locality	5
 52780	101992697	Huixquilucan de Degollado		locality	1
 52785	101992697	Huixquilucan de Degollado		locality	1
 52786	857683023	Mexico City		locality	1
 52787	101992697	Huixquilucan de Degollado		locality	1
 52900	101993137	Ciudad López Mateos		locality	1
-52926	1260248411	Adolfo Lopez Mateos		locality	1
-52940	1260248411	Adolfo Lopez Mateos		locality	1
+52926	101993137	Ciudad López Mateos		locality	1
+52940	101993137	Ciudad López Mateos		locality	1
+52949	101993137	Ciudad López Mateos		locality	1
+52950	101992489	Ciudad Nezahualcóyotl		locality	2
 53100	101992499	Naucalpan de Juárez Municipality		locality	2
 53100	857683023	Mexico City		locality	1
-53120	101992499	Naucalpan de Juárez Municipality		locality	2
+53120	101992499	Naucalpan de Juárez Municipality		locality	1
 53126	101992499	Naucalpan de Juárez Municipality		locality	1
 53140	857683023	Mexico City		locality	1
 53140	101992499	Naucalpan de Juárez Municipality		locality	1
+53150	101992499	Naucalpan de Juárez Municipality		locality	1
 53200	101992499	Naucalpan de Juárez Municipality		locality	1
-53270	1192988329	San Juan		locality	2
+53270	101999017	Totolac Municipality		locality	2
+53340	101992499	Naucalpan de Juárez Municipality		locality	1
+53390	101992499	Naucalpan de Juárez Municipality		locality	1
 53500	101992499	Naucalpan de Juárez Municipality		locality	2
 53569	101992499	Naucalpan de Juárez Municipality		locality	1
 53580	101992499	Naucalpan de Juárez Municipality		locality	2
+53660	1310075477	Colonia Juarez		locality	1
 53760	101992499	Naucalpan de Juárez Municipality		locality	1
-54000	1226506549	Baez		locality	2
-54020	101991513	Tlalnepantla		locality	1
+54020	101991513	Tlalnepantla		locality	2
+54020	102000287	Valle Dorado		locality	2
+54026	1343645223	Las Arboledas		locality	1
 54030	857683023	Mexico City		locality	1
 54030	101991513	Tlalnepantla		locality	1
 54054	101991513	Tlalnepantla		locality	1
+54055	857683023	Mexico City		locality	1
 54056	857683023	Mexico City		locality	1
+54060	101991513	Tlalnepantla		locality	1
 54070	101991513	Tlalnepantla		locality	4
+54090	101993305	Tlalnepantla		locality	7
 54090	101991513	Tlalnepantla		locality	3
 54099	101991513	Tlalnepantla		locality	1
 54110	101991513	Tlalnepantla		locality	1
+54119	857683023	Mexico City		locality	4
+54120	1125999633	Santa Cruz Acatlán		locality	2
+54126	101991513	Tlalnepantla		locality	6
+54130	101991513	Tlalnepantla		locality	116
+54130	1326812521	Acatitlan		locality	2
+54130	1125999633	Santa Cruz Acatlán		locality	1
+54149	101991513	Tlalnepantla		locality	2
 54150	101991513	Tlalnepantla		locality	11
+54150	857683023	Mexico City		locality	1
 54150	101993305	Tlalnepantla		locality	1
 54170	101991513	Tlalnepantla		locality	3
 54180	101991513	Tlalnepantla		locality	1
@@ -1320,44 +1740,58 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 54240	101991705	Toluca		locality	4
 54240	101992605	Jilotepec de Molina Enríquez		locality	1
 54270	1259656377	Ejido de Jilotepec		locality	1
+54325	101991611	Villa del Carbón Municipality		locality	1
+54430	1343244403	Puentecillas		locality	1
+54435	101992481	Ciudad Nicolás Romero		locality	2
 54457	101992481	Ciudad Nicolás Romero		locality	1
-54600	857683023	Mexico City		locality	2
+54476	1209497389	La Colmena		locality	1
+54600	857683023	Mexico City		locality	3
 54600	101991839	Tepotzotlán		locality	1
 54600	101993257	Tepoztlán		locality	1
 54604	101991839	Tepotzotlán		locality	1
 54605	101991839	Tepotzotlán		locality	2
-54660	101992807	Coyotepec		locality	9
+54650	101991839	Tepotzotlán		locality	1
+54660	101992807	Coyotepec		locality	10
+54680	101992723	San Bartolo		locality	1
 54700	101991533	Cuautitlán Izcalli		locality	1
+54710	101992539	Cuautitlán Izcalli		locality	5
 54710	101991533	Cuautitlán Izcalli		locality	2
+54710	101992489	Ciudad Nezahualcóyotl		locality	2
+54712	101991533	Cuautitlán Izcalli		locality	1
 54713	101992805	Cuautitlán		locality	1
 54715	857683023	Mexico City		locality	2
 54715	101991533	Cuautitlán Izcalli		locality	1
-54720	101991533	Cuautitlán Izcalli		locality	1
+54720	101991533	Cuautitlán Izcalli		locality	2
 54730	101991533	Cuautitlán Izcalli		locality	3
-54740	101991533	Cuautitlán Izcalli		locality	5
+54740	101991533	Cuautitlán Izcalli		locality	4
 54740	857683023	Mexico City		locality	1
 54750	101991533	Cuautitlán Izcalli		locality	1
 54753	101991533	Cuautitlán Izcalli		locality	1
 54760	101991533	Cuautitlán Izcalli		locality	3
 54764	101991533	Cuautitlán Izcalli		locality	1
 54766	101991533	Cuautitlán Izcalli		locality	1
+54769	101991533	Cuautitlán Izcalli		locality	7
 54769	101992539	Cuautitlán Izcalli		locality	6
-54769	101991533	Cuautitlán Izcalli		locality	5
 54770	101991895	Teoloyucan Municipality		locality	1
 54783	101991895	Teoloyucan Municipality		locality	1
 54800	101992805	Cuautitlán		locality	1
 54803	101992805	Cuautitlán		locality	1
 54807	101992805	Cuautitlán		locality	1
 54840	101992805	Cuautitlán		locality	1
+54880	101992489	Ciudad Nezahualcóyotl		locality	1
 54880	101992541	Melchor Ocampo		locality	1
 54910	101991635	Tultitlán de Mariano Escobedo		locality	3
 54915	101991635	Tultitlán de Mariano Escobedo		locality	1
 54930	101992813	San Francisco Coacalco		locality	2
+54930	101991631	San Pablo de las Salinas		locality	1
+54930	101991635	Tultitlán de Mariano Escobedo		locality	1
+54948	101991635	Tultitlán de Mariano Escobedo		locality	1
 54958	101991635	Tultitlán de Mariano Escobedo		locality	1
 54960	101991641	Tultepec		locality	10
-55000	101992735	Ecatepec de Morelos		locality	2
+55000	101992735	Ecatepec de Morelos		locality	6
 55010	101992735	Ecatepec de Morelos		locality	2
 55016	101992735	Ecatepec de Morelos		locality	1
+55020	101992735	Ecatepec de Morelos		locality	1
 55030	101992735	Ecatepec de Morelos		locality	1
 55036	101992735	Ecatepec de Morelos		locality	2
 55040	101992735	Ecatepec de Morelos		locality	2
@@ -1366,8 +1800,8 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 55060	101992735	Ecatepec de Morelos		locality	6
 55066	101992735	Ecatepec de Morelos		locality	3
 55070	101992735	Ecatepec de Morelos		locality	1
-55076	101992735	Ecatepec de Morelos		locality	9
-55080	101992735	Ecatepec de Morelos		locality	12
+55076	101992735	Ecatepec de Morelos		locality	8
+55080	101992735	Ecatepec de Morelos		locality	14
 55090	101992735	Ecatepec de Morelos		locality	3
 55107	101992735	Ecatepec de Morelos		locality	1
 55120	857683023	Mexico City		locality	3
@@ -1375,16 +1809,17 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 55127	857683023	Mexico City		locality	8
 55130	101992489	Ciudad Nezahualcóyotl		locality	3
 55240	101992735	Ecatepec de Morelos		locality	1
+55264	101992735	Ecatepec de Morelos		locality	1
 55310	1209261207	Xaloztoc		locality	7
-55317	1209261207	Xaloztoc		locality	8
+55317	1209261207	Xaloztoc		locality	9
 55320	101992735	Ecatepec de Morelos		locality	2
 55349	101992735	Ecatepec de Morelos		locality	1
 55400	101992735	Ecatepec de Morelos		locality	6
-55400	101992719	Santa María		locality	1
+55400	101991749	Santa Catarina del Monte		locality	1
 55404	101992735	Ecatepec de Morelos		locality	1
 55430	101992735	Ecatepec de Morelos		locality	3
 55490	101992489	Ciudad Nezahualcóyotl		locality	2
-55520	101992735	Ecatepec de Morelos		locality	9
+55520	101992735	Ecatepec de Morelos		locality	10
 55540	101992735	Ecatepec de Morelos		locality	20
 55547	101992735	Ecatepec de Morelos		locality	1
 55567	857683023	Mexico City		locality	1
@@ -1394,10 +1829,14 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 55620	101991549	San Juan Zitlaltepec		locality	6
 55650	101991813	Tequixquiac Municipality		locality	15
 55657	101991813	Tequixquiac Municipality		locality	1
+55660	101993155	Apaxco de Ocampo		locality	1
 55680	101992701	San Francisco Zacacalco		locality	2
 55700	857683023	Mexico City		locality	3
+55700	101993221	Acambay		locality	1
 55706	101992813	San Francisco Coacalco		locality	1
-55717	101992813	San Francisco Coacalco		locality	2
+55710	101992813	San Francisco Coacalco		locality	1
+55717	101992813	San Francisco Coacalco		locality	3
+55737	101992813	San Francisco Coacalco		locality	7
 55740	101992133	Tecámac de Felipe Villanueva		locality	6
 55740	1125960257	Tecámac Municipality		locality	1
 55755	101992129	Los Reyes Acozac		locality	1
@@ -1408,25 +1847,33 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 55770	101992117	Ojo de Agua		locality	1
 55780	101992607	Alborada Jaltenco		locality	2
 55780	857683023	Mexico City		locality	1
-55783	101992607	Alborada Jaltenco		locality	1359
+55783	101992607	Alborada Jaltenco		locality	1526
 55785	1125933639	Tonanitla		locality	1
 55789	101991517	Tonanitla		locality	1
 55790	857683023	Mexico City		locality	13
 55796	101992483	Ex-Hacienda Santa Inés		locality	3
 55845	101991883	Atlatongo		locality	1
+55850	101992157	San Martín de las Pirámides		locality	2
 55850	101991877	San Francisco Mazapa		locality	1
-55850	101992157	San Martín de las Pirámides		locality	1
+55885	1360166999	Tepexpan		locality	1
 55886	1276839821	Cuanalan		locality	2
-55980	101992087	Temascalapa Municipality		locality	4
-56100	101991795	Texcoco		locality	6
+55980	101992087	Temascalapa Municipality		locality	5
+56020	101991733	Tequisistlán		locality	1
+56020	1243037845	Tequisistlan Primero		locality	1
+56100	101991795	Texcoco		locality	7
 56110	101991795	Texcoco		locality	1
 56130	101991795	Texcoco		locality	1
+56140	101991795	Texcoco		locality	1
+56203	1310572371	La Magdalena		locality	1
 56250	101991795	Texcoco		locality	1
 56263	101991795	Texcoco		locality	2
 56270	101992747	Chiconcuac de Juárez		locality	5
+56280	101992747	Chiconcuac de Juárez		locality	3
 56300	101993151	San Salvador Atenco		locality	11
-56335	101992745	Chimalhuacán		locality	1
+56335	101992745	Chimalhuacán		locality	3
 56343	101992745	Chimalhuacán		locality	1
+56351	101992745	Chimalhuacán		locality	1
+56364	101992745	Chimalhuacán		locality	1
 56386	101992749	Chicoloapan de Juárez		locality	4
 56428	101992489	Ciudad Nezahualcóyotl		locality	2
 56429	101992489	Ciudad Nezahualcóyotl		locality	3
@@ -1437,51 +1884,68 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 56536	101992665	Ixtapaluca		locality	1
 56560	101992665	Ixtapaluca		locality	1
 56564	101992665	Ixtapaluca		locality	3
+56577	1209888811	Tlalpizahuac		locality	1
 56586	101992749	Chicoloapan de Juárez		locality	1
-56600	101992795	Chalco Municipality		locality	2
+56600	101992795	Chalco Municipality		locality	3
 56600	857683023	Mexico City		locality	2
 56605	101992795	Chalco Municipality		locality	1
 56617	101991529	Xico		locality	1
+56618	1276516145	Tlapizahua		locality	2
 56625	101992795	Chalco Municipality		locality	1
 56643	101992785	San Marcos Huixtoco		locality	1
-56644	1209473579	El Llano		locality	1
-56700	101991715	Tlalmanalco de Velázquez		locality	2
-56740	101991715	Tlalmanalco de Velázquez		locality	1
+56644	1126029175	San Martín Cuautlalpan		locality	1
+56680	101992809	Cocotitlán		locality	1
+56700	101991715	Tlalmanalco		locality	2
+56740	101991715	Tlalmanalco		locality	1
 56776	1276732321	Pahuacan		locality	1
 56777	1276732321	Pahuacan		locality	1
-56800	101992413	Ozumba de Alzate		locality	14
+56800	101992413	Ozumba		locality	15
+56800	101992489	Ciudad Nezahualcóyotl		locality	1
 56880	101991849	Tepetlixpa		locality	1
+56900	101993163	Amecameca de Juárez		locality	4
 56955	1125978973	San Diego Huehuecalco		locality	7
 56960	101991599	Villa Victoria		locality	1
 56970	101992853	Atlautla Municipality		locality	2
 56980	101992847	San Juan Tehuixtitlán		locality	1
 56993	1243233551	San Marcos Tecomaxusco		locality	2
-57000	1125785237	Ciudad Nezahualcóyotl		locality	2
-57120	1344226845	Guadalupana		locality	1
-57130	101992489	Ciudad Nezahualcóyotl		locality	32
-57139	101992489	Ciudad Nezahualcóyotl		locality	3
-57170	101992489	Ciudad Nezahualcóyotl		locality	13
+57000	1125785237	Ciudad Nezahualcóyotl		locality	170
+57100	101992489	Ciudad Nezahualcóyotl		locality	1
+57130	101992489	Ciudad Nezahualcóyotl		locality	35
+57139	101992489	Ciudad Nezahualcóyotl		locality	5
+57170	101992489	Ciudad Nezahualcóyotl		locality	19
 57179	101992489	Ciudad Nezahualcóyotl		locality	3
 57210	857683023	Mexico City		locality	1
+57300	101992489	Ciudad Nezahualcóyotl		locality	1
+57500	1125785237	Ciudad Nezahualcóyotl		locality	2
 57500	102001471	Cancún		locality	1
 57630	101992489	Ciudad Nezahualcóyotl		locality	1
+57700	1125785237	Ciudad Nezahualcóyotl		locality	2
+57700	101992813	San Francisco Coacalco		locality	1
+57710	1125785237	Ciudad Nezahualcóyotl		locality	10
 57730	1125785237	Ciudad Nezahualcóyotl		locality	1
 57740	1125785237	Ciudad Nezahualcóyotl		locality	7
 57745	1125785237	Ciudad Nezahualcóyotl		locality	1
+57809	1125785237	Ciudad Nezahualcóyotl		locality	5
+57820	1125785237	Ciudad Nezahualcóyotl		locality	6
 57840	1125785237	Ciudad Nezahualcóyotl		locality	1
 57900	1125785237	Ciudad Nezahualcóyotl		locality	1
-58000	101997341	Morelia		locality	134
+58000	101997341	Morelia		locality	146
 58020	101997341	Morelia		locality	7
 58030	101997341	Morelia		locality	4
 58040	101997341	Morelia		locality	1
 58069	101997341	Morelia		locality	2
 58070	101997341	Morelia		locality	3
 58080	101997341	Morelia		locality	1
+58089	101997341	Morelia		locality	1
+58100	101997341	Morelia		locality	1
 58170	101997341	Morelia		locality	1
-58190	101997341	Morelia		locality	7
-58195	101997341	Morelia		locality	3
-58200	101997341	Morelia		locality	1
+58175	101997341	Morelia		locality	1
+58190	101997341	Morelia		locality	9
+58195	101997341	Morelia		locality	9
+58200	101997341	Morelia		locality	2
 58210	101997341	Morelia		locality	1
+58230	101997341	Morelia		locality	1
+58240	101997341	Morelia		locality	1
 58250	101997341	Morelia		locality	1
 58260	101997341	Morelia		locality	1
 58270	101997341	Morelia		locality	1
@@ -1493,33 +1957,38 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 58343	101997341	Morelia		locality	1
 58348	101997341	Morelia		locality	1
 58350	101997341	Morelia		locality	2
+58380	1193117559	San Isidro		locality	1
 58420	101997277	Quiroga		locality	4
 58420.0	101997277	Quiroga		locality	2
-58430	101997277	Quiroga		locality	1
+58430	101997277	Quiroga		locality	2
 58430.0	101997277	Quiroga		locality	1
 58440.0	101997263	Tzintzuntzan		locality	12
 58440	101997263	Tzintzuntzan		locality	1
 58600	101997385	Zacapu		locality	3
-58880	101997361	Tarímbaro Municipality		locality	1
+58880	101997361	Tarímbaro Municipality		locality	2
 58963	857683023	Mexico City		locality	3
-58980	1209070127	Querendaro		locality	1
+58980	1209070127	Querendaro		locality	2
 59103	101997491	Sahuayo		locality	1
 59160	101997503	Venustiano Carranza		locality	2
 59250	101997553	Yurécuaro		locality	1
-59300	101997555	La Piedad		locality	2
+59300	101997555	La Piedad		locality	17
 59375	101997555	La Piedad		locality	1
 59380	101997555	La Piedad		locality	4
 59500	101997455	San José de Gracia		locality	2
 59512	101997473	Jiquilpan de Juárez		locality	1
 59514	101997473	Jiquilpan de Juárez		locality	1
 59530	101997473	Jiquilpan de Juárez		locality	1
-59750	101997407	Tangancícuaro de Arista		locality	1
+59720	1125785237	Ciudad Nezahualcóyotl		locality	1
+59720	101997471	Zamora		locality	1
+59760	1293576529	San Antonio de Cabras		locality	1
 59980	101997329	Tingüindín		locality	5
 60000	101997187	Uruapan		locality	6
 60040	101997187	Uruapan		locality	1
 60050	101997187	Uruapan		locality	1
-60180	101997187	Uruapan		locality	1
+60160	101997187	Uruapan		locality	1
+60180	101997187	Uruapan		locality	3
 60200	1327098297	Nuevo Zirosto		locality	4
+60280	101997283	Nahuatzen		locality	1
 60300	101997241	Los Reyes Municipality		locality	3
 60500	101997161	Buenavista		locality	1
 60540	101997151	Tepalcatepec		locality	6
@@ -1530,29 +1999,35 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 60950	101997067	Lázaro Cárdenas		locality	26
 60952	101997067	Lázaro Cárdenas		locality	3
 60953	101997067	Lázaro Cárdenas		locality	1
+60983	101997067	Lázaro Cárdenas		locality	2
+60985	101997073	Buenos Aires		locality	1
 60995	101997067	Lázaro Cárdenas		locality	14
+61051	1293462473	Tepetongo		locality	1
 61250	101997421	Maravatío		locality	2
 61420	101997229	Tuxpan		locality	2
 61426	101997229	Tuxpan		locality	3
 61500	1327106359	Zitacuaro [Parque Industrial]		locality	1
-61600.0	101997213	Pátzcuaro		locality	15
+61507	101997197	Zitácuaro		locality	1
+61600.0	101997213	Pátzcuaro		locality	16
 61600	101997213	Pátzcuaro		locality	7
 61604.0	101997213	Pátzcuaro		locality	1
 61606.0	101997213	Pátzcuaro		locality	1
-61609	101997213	Pátzcuaro		locality	1
+61609	101997213	Pátzcuaro		locality	2
 61609.0	101997213	Pátzcuaro		locality	1
 61610.0	101997213	Pátzcuaro		locality	1
 61611.0	101997213	Pátzcuaro		locality	1
 61614.0	101997213	Pátzcuaro		locality	1
+61615	101997213	Pátzcuaro		locality	2
 61630	101997245	Erongarícuaro		locality	1
 61630.0	101997245	Erongarícuaro		locality	1
 61640.0	101997221	Huiramba		locality	1
 61760	101997115	Nueva Italia		locality	1
-62000	101993267	Cuernavaca		locality	13
-62050	101993267	Cuernavaca		locality	5
+62000	101993267	Cuernavaca		locality	21
+62050	101993267	Cuernavaca		locality	4
+62070	101993267	Cuernavaca		locality	1
 62100	101993267	Cuernavaca		locality	4
 62115	101993267	Cuernavaca		locality	1
-62120	101993267	Cuernavaca		locality	5
+62120	101993267	Cuernavaca		locality	6
 62130	101993267	Cuernavaca		locality	10
 62130	1125892137	Tetela del Monte		locality	10
 62136	101993267	Cuernavaca		locality	1
@@ -1563,38 +2038,47 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 62158	101993267	Cuernavaca		locality	1
 62160	101993267	Cuernavaca		locality	1
 62166	101993267	Cuernavaca		locality	1
-62170	101993267	Cuernavaca		locality	5
+62170	101993267	Cuernavaca		locality	6
 62190	101993267	Cuernavaca		locality	1
+62209	101993267	Cuernavaca		locality	1
 62220	101993267	Cuernavaca		locality	2
 62230	101993267	Cuernavaca		locality	3
-62240	101993267	Cuernavaca		locality	3
+62240	101993267	Cuernavaca		locality	5
 62245	101993267	Cuernavaca		locality	3
 62250	101993267	Cuernavaca		locality	2
-62260	101993267	Cuernavaca		locality	8
+62260	101993267	Cuernavaca		locality	10
 62269	101993267	Cuernavaca		locality	1
-62270	101993267	Cuernavaca		locality	4
+62270	101993267	Cuernavaca		locality	5
 62290	101993267	Cuernavaca		locality	1
-62330	101993267	Cuernavaca		locality	1
+62330	101993267	Cuernavaca		locality	3
 62350	101993267	Cuernavaca		locality	2
-62370	101993267	Cuernavaca		locality	1
+62360	101993267	Cuernavaca		locality	1
+62370	101993267	Cuernavaca		locality	2
 62384	101993267	Cuernavaca		locality	1
-62410	101993267	Cuernavaca		locality	1
+62410	101993267	Cuernavaca		locality	4
 62448	101993267	Cuernavaca		locality	1
-62450	101993267	Cuernavaca		locality	1
+62450	101993267	Cuernavaca		locality	3
 62460	101993267	Cuernavaca		locality	1
+62515	101993251	Tres Marías		locality	1
 62520	101993257	Tepoztlán		locality	8
 62525	101993257	Tepoztlán		locality	1
-62550	101993343	Jiutepec		locality	8
-62550	101991571	Tejalpa		locality	3
+62550	101993343	Jiutepec		locality	9
+62550	101991571	Tejalpa		locality	2
 62553	101993343	Jiutepec		locality	17
-62555	101993343	Jiutepec		locality	2
 62564	101993343	Jiutepec		locality	1
-62570	101991571	Tejalpa		locality	21
+62570	101991571	Tejalpa		locality	8
 62570	101993343	Jiutepec		locality	2
 62574	101993343	Jiutepec		locality	3
-62578	101993343	Jiutepec		locality	1
-62580	101993227	Temixco		locality	1
+62578	101993343	Jiutepec		locality	3
+62580	101993227	Temixco		locality	9
+62580	1309688171	Eterna Primavera		locality	2
 62584	101993227	Temixco		locality	4
+62584	101993267	Cuernavaca		locality	1
+62586	101993227	Temixco		locality	1
+62588	101993227	Temixco		locality	3
+62590	101993227	Temixco		locality	2
+62595	1310281599	La Parota		locality	4
+62595	1327409917	Solidaridad		locality	3
 62595	1309688171	Eterna Primavera		locality	1
 62600	101993243	Miacatlán		locality	8
 62600.0	101993243	Miacatlán		locality	2
@@ -1604,189 +2088,250 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 62615.0	101993245	Coatlán del Río Municipality		locality	3
 62616.0	101993245	Coatlán del Río Municipality		locality	1
 62617	101993245	Coatlán del Río Municipality		locality	1
+62620	101993385	Tetecala		locality	2
 62620.0	101993385	Tetecala		locality	2
 62622.0	101993385	Tetecala		locality	1
 62630.0	101993223	Mazatepec		locality	1
+62660	101993383	Puente de Ixtla		locality	1
 62662	101993383	Puente de Ixtla		locality	1
 62665	101993383	Puente de Ixtla		locality	2
 62670	101993371	Xoxocotla		locality	1
 62680	101993363	San José Vista Hermosa		locality	1
+62680	101993371	Xoxocotla		locality	1
+62725	101993329	Ciudad Ayala		locality	1
 62732	101993225	Yautepec de Zaragoza		locality	1
-62738	101993273	Oaxtepec		locality	9
-62740	101993313	Cuautla		locality	1
+62738	101993273	Oaxtepec		locality	10
+62740	101993313	Cuautla		locality	2
 62744	101993313	Cuautla		locality	1
 62748	101993313	Cuautla		locality	4
 62748	101993227	Temixco		locality	1
+62760	101993267	Cuernavaca		locality	1
 62760	101993347	Emiliano Zapata		locality	1
+62765	101993347	Emiliano Zapata		locality	4
 62765	101993349	Crucero Tezoyuca		locality	1
-62765	101993347	Emiliano Zapata		locality	1
 62765	101993351	Tezoyuca		locality	1
+62766	101993347	Emiliano Zapata		locality	1
 62772	101993411	Tlaltizapán		locality	1
-62790	101993237	Xochitepec		locality	6
+62778	1327197389	Temimilcingo		locality	3
+62790	101993237	Xochitepec Municipality		locality	6
 62820	101993285	Yecapixtla		locality	1
 62827	101993285	Yecapixtla		locality	4
-62900	101993353	Jojutla		locality	2
-62906	101993353	Jojutla		locality	2
-62919	101993353	Jojutla		locality	4
-63000	1193254269	Laguna Tepic		locality	133
+62900	101993353	Jojutla Municipality		locality	2
+62900	101993361	Tehuixtla		locality	1
+62906	101993353	Jojutla Municipality		locality	2
+62919	101993353	Jojutla Municipality		locality	4
+63000	1193254269	Laguna Tepic		locality	142
+63000	101996983	Tepic		locality	2
+63010	101996983	Tepic		locality	2
 63010	1193254269	Laguna Tepic		locality	1
+63030	1193254269	Laguna Tepic		locality	1
 63060	1193254269	Laguna Tepic		locality	2
+63066	1193254269	Laguna Tepic		locality	1
 63070	1193254269	Laguna Tepic		locality	4
-63130	1193254269	Laguna Tepic		locality	2
+63119	1193254269	Laguna Tepic		locality	1
+63130	1193254269	Laguna Tepic		locality	3
 63139	101996983	Tepic		locality	1
 63150	101996983	Tepic		locality	1
 63156	101996983	Tepic		locality	2
-63157	101996983	Tepic		locality	19
+63157	101996983	Tepic		locality	20
 63158	101996983	Tepic		locality	1
 63159	101996983	Tepic		locality	3
 63160	101996983	Tepic		locality	4
 63169	101996983	Tepic		locality	1
-63173	101996983	Tepic		locality	2
+63173	101996983	Tepic		locality	4
 63175	101996983	Tepic		locality	8
 63176	101996983	Tepic		locality	1
-63190	101996983	Tepic		locality	1
+63190	101996983	Tepic		locality	2
 63193	101996983	Tepic		locality	2
 63194	1126058829	Xalisco		locality	1
 63195	101996983	Tepic		locality	6
-63196	101996983	Tepic		locality	2
+63196	101996983	Tepic		locality	14
+63205	101996977	Tuxpan		locality	1
+63221	101996977	Tuxpan		locality	1
 63300	101997005	Santiago Ixcuintla		locality	5
 63450	101996985	San Felipe Aztatán		locality	1
+63450	101996989	Tecuala		locality	1
 63508	1327309681	Camichin de Jauja		locality	32
 63511	101996979	San Cayetano		locality	1
 63527	1259549113	San Luis de Lozada		locality	5
 63530	1243148195	Huaynamota		locality	1
 63630	1226107933	Chilapa		locality	6
-63729	1125903225	San Francisco		locality	4
+63700	101996983	Tepic		locality	3
+63720	101996983	Tepic		locality	1
+63729	1125903225	San Francisco		locality	5
+63732	1209881773	Nuevo Vallarta		locality	4
 63732	101996965	Bucerías		locality	2
-63732	1209881773	Nuevo Vallarta		locality	2
 63734	1125903225	San Francisco		locality	6
-63734	1125849891	Sayulita		locality	2
+63734	1125849891	Sayulita		locality	6
 63734	1126051313	Punta de Mita		locality	1
 63735	1209881773	Nuevo Vallarta		locality	6
+63735	101996983	Tepic		locality	2
 63737	101996949	San Vicente		locality	1
-63740	101997019	San Blas		locality	7
+63740	101997019	San Blas		locality	8
 63780	1126058829	Xalisco		locality	2
+63784	1126058829	Xalisco		locality	2
 63788	101997031	Pantanal		locality	1
+63830	101996983	Tepic		locality	2
+63830	101997007	Santa María del Oro Municipality		locality	1
 63840	1193244067	Colonia Moderna		locality	6
 63900	101997055	Ahuacatlán		locality	1
-63940	101997039	Ixtlán del Río		locality	2
-64000	102000679	Monterrey		locality	658
-64000	102000723	Guadalupe		locality	3
+63940	101997039	Ixtlán del Río		locality	4
+63959	101997039	Ixtlán del Río		locality	1
+64000	102000679	Monterrey		locality	661
+64000	102000723	Guadalupe		locality	4
 64010	102000679	Monterrey		locality	1
-64060	102000679	Monterrey		locality	1
+64060	102000679	Monterrey		locality	2
 64070	102000679	Monterrey		locality	1
 64100	102000679	Monterrey		locality	3
 64102	102000679	Monterrey		locality	2
+64103	102000679	Monterrey		locality	1
 64116	102000679	Monterrey		locality	1
-64180	102000679	Monterrey		locality	2
+64117	102000679	Monterrey		locality	1
+64170	102000679	Monterrey		locality	1
+64180	102000679	Monterrey		locality	1
 64200	102000679	Monterrey		locality	1
 64210	102000679	Monterrey		locality	1
+64249	102000679	Monterrey		locality	1
 64280	102000679	Monterrey		locality	1
 64330	102000679	Monterrey		locality	1
 64346	102000679	Monterrey		locality	5
 64349	102000679	Monterrey		locality	2
 64350	102000679	Monterrey		locality	1
+64370	102000679	Monterrey		locality	1
 64410	102000679	Monterrey		locality	2
-64440	102000679	Monterrey		locality	2
+64440	102000679	Monterrey		locality	3
+64440	102000723	Guadalupe		locality	1
 64460	102000679	Monterrey		locality	1
 64480	102000679	Monterrey		locality	2
 64510	102000679	Monterrey		locality	1
+64570	102000679	Monterrey		locality	1
 64590	102000679	Monterrey		locality	2
-64610	102000679	Monterrey		locality	3
+64610	102000679	Monterrey		locality	4
 64619	102000679	Monterrey		locality	1
-64620	102000679	Monterrey		locality	1
+64620	102000679	Monterrey		locality	2
 64630	102000679	Monterrey		locality	1
-64700	102000679	Monterrey		locality	3
-64710	102000679	Monterrey		locality	2
+64650	102000679	Monterrey		locality	1
+64700	102000679	Monterrey		locality	4
+64710	102000679	Monterrey		locality	5
 64720	102000679	Monterrey		locality	2
+64720	102000723	Guadalupe		locality	1
 64750	102000679	Monterrey		locality	1
 64790	102000679	Monterrey		locality	2
 64820	102000679	Monterrey		locality	2
 64820	102000723	Guadalupe		locality	1
 64830	102000679	Monterrey		locality	2
 64850	102000679	Monterrey		locality	1
+64859	102000679	Monterrey		locality	2
 64920	102000679	Monterrey		locality	1
-64930	102000679	Monterrey		locality	1
+64930	102000679	Monterrey		locality	2
 64960	102000679	Monterrey		locality	2
-64984	102000723	Guadalupe		locality	1
 64984	102000679	Monterrey		locality	1
-64985	102000679	Monterrey		locality	1
-64988	102000679	Monterrey		locality	1
+64985	102000679	Monterrey		locality	2
+64988	102000679	Monterrey		locality	3
 64989	102000679	Monterrey		locality	4
+65150	102000783	Bustamante		locality	3
+65154	102000783	Bustamante		locality	1
+65270	102000667	Sabinas Hidalgo		locality	1
+65335	101992745	Chimalhuacán		locality	2
+65580	102000773	Ciénega de Flores		locality	4
 65600	102000651	Hidalgo		locality	4
+65900	102000775	Cerralvo Municipality		locality	1
 66000	102000809	Apodaca		locality	2
 66000	102000751	Valle de Lincoln		locality	1
+66003	102000755	García Municipality		locality	1
+66018	102000755	García Municipality		locality	2
 66023	1276723817	Los Parques		locality	2
-66024	102000755	García Municipality		locality	9
+66024	102000755	García Municipality		locality	8
+66025	1277141855	San Blas		locality	1
 66035	102000679	Monterrey		locality	1
-66050	102000741	General Escobedo		locality	2
+66050	102000741	General Escobedo		locality	11
+66056	102000741	General Escobedo		locality	24
 66059	1259703915	Escobedo		locality	6
+66061	102000741	General Escobedo		locality	1
+66072	102000741	General Escobedo		locality	2
 66100	102000649	Santa Catarina		locality	1
 66196	102000649	Santa Catarina		locality	1
 66197	102000649	Santa Catarina		locality	9
 66210	1276831277	San Pedro Garza Garcia		locality	1
 66214	1276831277	San Pedro Garza Garcia		locality	2
 66216	1276831277	San Pedro Garza Garcia		locality	1
-66220	102000745	San Pedro Garza García		locality	2
+66220	102000745	San Pedro Garza García		locality	4
+66230	1276831277	San Pedro Garza Garcia		locality	2
 66238	102000679	Monterrey		locality	1
 66250	102000745	San Pedro Garza García		locality	2
+66260	102000745	San Pedro Garza García		locality	1
 66265	102000745	San Pedro Garza García		locality	1
 66266	102000745	San Pedro Garza García		locality	1
 66267	102000745	San Pedro Garza García		locality	3
-66278	102000745	San Pedro Garza García		locality	2
+66278	102000745	San Pedro Garza García		locality	1
 66290	102000679	Monterrey		locality	1
+66290	102000745	San Pedro Garza García		locality	1
 66297	102000745	San Pedro Garza García		locality	1
+66350	102000649	Santa Catarina		locality	2
+66357	102000649	Santa Catarina		locality	1
+66358	102000649	Santa Catarina		locality	1
 66360	102000649	Santa Catarina		locality	8
 66367	102000649	Santa Catarina		locality	2
 66400	102000679	Monterrey		locality	1
+66400	102000653	San Nicolás de los Garza		locality	1
 66422	102000653	San Nicolás de los Garza		locality	2
+66455	102000653	San Nicolás de los Garza		locality	1
 66457	1326489047	Monterrey		locality	1
 66460	102000653	San Nicolás de los Garza		locality	2
 66465	102000653	San Nicolás de los Garza		locality	2
-66477	102000653	San Nicolás de los Garza		locality	2
+66473	102000653	San Nicolás de los Garza		locality	1
+66477	102000653	San Nicolás de los Garza		locality	3
 66478	102000653	San Nicolás de los Garza		locality	3
 66480	102000653	San Nicolás de los Garza		locality	1
-66490	102000653	San Nicolás de los Garza		locality	3
+66490	102000653	San Nicolás de los Garza		locality	4
 66490	102000723	Guadalupe		locality	1
 66491	102000653	San Nicolás de los Garza		locality	1
 66496	102000653	San Nicolás de los Garza		locality	1
 66600	102000809	Apodaca		locality	9
 66610	102000809	Apodaca		locality	1
+66612	102000809	Apodaca		locality	3
 66620	102000809	Apodaca		locality	1
 66632	102000809	Apodaca		locality	1
 66634	102000809	Apodaca		locality	2
-66636	102000809	Apodaca		locality	2
-66647	102000809	Apodaca		locality	1
+66636	102000809	Apodaca		locality	3
+66646	102000809	Apodaca		locality	3
+66647	102000809	Apodaca		locality	2
 66648	102000809	Apodaca		locality	1
-66650	102000675	Pesquería Municipality		locality	2
+66650	102000675	Pesquería Municipality		locality	9
 66655	102000675	Pesquería Municipality		locality	8
 66673	102000809	Apodaca		locality	1
 67110	102000723	Guadalupe		locality	12
 67116	102000723	Guadalupe		locality	2
-67130	102000723	Guadalupe		locality	4
+67129	102000723	Guadalupe		locality	1
+67130	102000723	Guadalupe		locality	5
 67140	102000723	Guadalupe		locality	1
 67150	102000723	Guadalupe		locality	1
 67170	102000723	Guadalupe		locality	1
 67174	102000723	Guadalupe		locality	1
 67176	102000723	Guadalupe		locality	1
-67180	102000723	Guadalupe		locality	1
+67180	102000723	Guadalupe		locality	2
 67188	102000723	Guadalupe		locality	1
-67300	102000647	Santiago		locality	1
+67193	102000723	Guadalupe		locality	31
+67194	102000723	Guadalupe		locality	2
+67198	102000723	Guadalupe		locality	1
+67250	102000709	Juárez		locality	1
+67300	102000647	Santiago		locality	2
 67303	102000647	Santiago		locality	1
 67318	102000647	Santiago		locality	1
 67320	102000647	Santiago		locality	1
-67330	1243119407	Gonzalez		locality	2
+67330	1327195945	Gonzales		locality	2
 67450	1209881039	Cadereyta Jimenez		locality	4
 67510	102000683	Montemorelos		locality	1
-67700	102000693	Linares		locality	1
+67700	102000693	Linares		locality	2
 67860	102000757	Galeana Municipality		locality	4
 67900	102000763	Doctor Arroyo		locality	1
 67901	102000763	Doctor Arroyo		locality	1
-68000	101995147	Oaxaca City		locality	37
+68000	101995147	Oaxaca City		locality	38
 68010	101995147	Oaxaca City		locality	3
 68020	101995147	Oaxaca City		locality	1
 68030	101995147	Oaxaca City		locality	2
-68039	101995147	Oaxaca City		locality	2
+68034	101995147	Oaxaca City		locality	1
+68039	101995147	Oaxaca City		locality	1
 68040	101995147	Oaxaca City		locality	3
 68050	101995147	Oaxaca City		locality	3
 68070	101995147	Oaxaca City		locality	3
@@ -1797,26 +2342,36 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 68150	101995147	Oaxaca City		locality	1
 68154	101995147	Oaxaca City		locality	1
 68220	101995665	San Pablo Huitzo		locality	6
-68251	101995139	Nazareno Etla		locality	1
+68236	1209288657	San Gabriel		locality	2
+68247	101995183	San Agustín Etla Municipality		locality	1
+68251	101995139	Guadalupe Etla		locality	1
+68263	1326494777	Guadalupe Hidalgo		locality	4
 68274	101995147	Oaxaca City		locality	2
 68287	101995199	San Andrés Huayapam		locality	5
 68297	101995853	Santa María del Tule		locality	1
 68300	101995405	San Juan Bautista Tuxtla		locality	2
 68310	101995405	San Juan Bautista Tuxtla		locality	2
+68364	101995405	San Juan Bautista Tuxtla		locality	2
 68365	101995405	San Juan Bautista Tuxtla		locality	1
 68400	101995147	Oaxaca City		locality	1
+68826	1260154885	Santa Maria Yaviche		locality	1
 69000	1125829283	Ciudad de Huajuapam de Leon		locality	2
 69000	101995073	Heroica Ciudad de Huajuapan de León		locality	2
+69000	1141907375	Huajuapan de León		locality	1
+69510	1125879941	Tamazulapam del Progreso		locality	1
 69600	101995003	Asunción Nochixtlán		locality	1
 69660	101996117	Santo Domingo Yanhuitlán		locality	9
 69800	101992363	Tlaxiaco		locality	1
-70000	101995085	Juchitán de Zaragoza		locality	8
+70000	101995085	Juchitán de Zaragoza		locality	9
 70014	101995085	Juchitán de Zaragoza		locality	1
-70140	101995001	Asunción Ixtaltepec		locality	1
-70150	101996239	Unión Hidalgo		locality	1
+70110	1125777713	Ixtepec		locality	3
+70110	101995021	Ciudad Ixtepec		locality	2
+70140	101995001	Asunción Ixtaltepec		locality	2
+70150	101996239	Unión Hidalgo Municipality		locality	1
 70220	1309955271	La Pena		locality	7
 70283	101995771	San Pedro y San Pablo Ayutla		locality	10
 70307	101995123	Matías Romero		locality	1
+70370	101995901	Colonia Rincón Viejo		locality	1
 70390	101996251	El Barrio de La Soledad		locality	1
 70400	101996185	Tlacolula de Matamoros		locality	1
 70406	101996185	Tlacolula de Matamoros		locality	1
@@ -1824,65 +2379,91 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 70430	101995673	Mitla		locality	1
 70613	101995147	Oaxaca City		locality	1
 70703	1226516407	Playa Brasil		locality	1
-70760	101996095	Santo Domingo Petapa		locality	1
+70760	101996263	Tehuantepec		locality	1
+70861	101995573	San Mateo Río Hondo		locality	1
 70900	1276296365	Zipolite		locality	1
-70902	101995147	Oaxaca City		locality	4
+70902	101995147	Oaxaca City		locality	3
+70902	101995733	Puerto Ángel		locality	1
 70904	1276296365	Zipolite		locality	4
-70934	101996231	Puerto Escondido		locality	1
+70934	101996231	Puerto Escondido		locality	2
+70947	101995147	Oaxaca City		locality	1
 70989	101995863	Huatulco		locality	1
-71200	101996229	Zimatlán de Álvarez		locality	2
+71200	101996229	Zimatlán de Álvarez		locality	3
+71220	1125995693	Santa María Atzompa		locality	1
 71228	101995147	Oaxaca City		locality	1
 71254	101995147	Oaxaca City		locality	1
+71256	101995251	San Bartolo Coyotepec		locality	2
+71290	101992377	Santa María Coyotepec		locality	1
 71313	101996215	Villa de Zaachila		locality	4
 71320	101995147	Oaxaca City		locality	1
+71324	101995147	Oaxaca City		locality	1
 71500	101995049	Ejutla de Crespo		locality	3
 71506	101995147	Oaxaca City		locality	1
 71520	101995225	San Antonino Castillo Velasco		locality	4
-71980	101996231	Puerto Escondido		locality	5
+71750	101996259	Pinotepa de Don Luis		locality	9
+71800	101996231	Puerto Escondido		locality	1
+71980	101996231	Puerto Escondido		locality	4
 71984	101996231	Puerto Escondido		locality	1
+71985	101995147	Oaxaca City		locality	1
 71996	101995717	Bajos de Chila		locality	3
-72000	101999639	Puebla City		locality	49
+72000	101999639	Puebla City		locality	63
 72014	101999639	Puebla City		locality	1
-72020	101999639	Puebla City		locality	5
-72060	101999639	Puebla City		locality	2
-72070	101999639	Puebla City		locality	19
+72020	101999639	Puebla City		locality	6
+72030	101999639	Puebla City		locality	1
+72030	1125797941	San Felipe Hueyotlipan		locality	1
+72060	101999639	Puebla City		locality	6
+72070	101999639	Puebla City		locality	21
 72080	101999639	Puebla City		locality	2
-72090	101999639	Puebla City		locality	2
+72090	101999639	Puebla City		locality	3
 72100	101999639	Puebla City		locality	1
 72110	101999639	Puebla City		locality	1
+72124	101999639	Puebla City		locality	1
+72130	101999639	Puebla City		locality	1
 72140	101999639	Puebla City		locality	3
-72160	101999639	Puebla City		locality	6
+72160	101999639	Puebla City		locality	7
+72176	101999639	Puebla City		locality	1
 72180	101999639	Puebla City		locality	1
 72190	101999639	Puebla City		locality	4
 72190	101999685	San Andrés Cholula		locality	1
-72197	101999639	Puebla City		locality	1
-72210	101999639	Puebla City		locality	1
+72197	101999639	Puebla City		locality	2
+72210	101999639	Puebla City		locality	2
+72220	101999639	Puebla City		locality	1
 72228	101999639	Puebla City		locality	1
 72229	101999639	Puebla City		locality	2
+72240	101999639	Puebla City		locality	1
 72270	101999639	Puebla City		locality	1
 72290	101999639	Puebla City		locality	2
+72310	101999639	Puebla City		locality	2
 72350	101999639	Puebla City		locality	3
 72350	102000065	Zaragoza		locality	1
 72365	101999639	Puebla City		locality	1
-72400	101999639	Puebla City		locality	4
+72380	101999639	Puebla City		locality	1
+72400	101999639	Puebla City		locality	5
 72400	1209777199	San Pedro Atoyac		locality	1
-72410	101999639	Puebla City		locality	6
+72410	101999639	Puebla City		locality	8
 72430	101999639	Puebla City		locality	1
-72450	101999639	Puebla City		locality	1
-72470	101999639	Puebla City		locality	2
-72490	101999639	Puebla City		locality	8
+72450	101999639	Puebla City		locality	2
+72470	101999639	Puebla City		locality	3
+72480	101999639	Puebla City		locality	3
+72490	101999639	Puebla City		locality	7
 72500	101999639	Puebla City		locality	3
 72520	101999639	Puebla City		locality	1
-72530	101999639	Puebla City		locality	2
+72530	101999639	Puebla City		locality	3
 72534	101999639	Puebla City		locality	3
+72540	101999639	Puebla City		locality	2
 72550	101999639	Puebla City		locality	1
 72570	101999639	Puebla City		locality	27
+72580	101999639	Puebla City		locality	1
 72590	101999639	Puebla City		locality	1
+72680	101999339	Coronango Municipality		locality	1
+72680	101999361	Cuautlancingo Municipality		locality	1
 72700	101999361	Cuautlancingo Municipality		locality	1
 72710	101999639	Puebla City		locality	1
 72743	101993313	Cuautla		locality	1
+72750	101999685	San Andrés Cholula		locality	45
 72750	101999761	Cholula		locality	3
 72750	101999639	Puebla City		locality	1
+72750|	101999685	San Andrés Cholula		locality	1
 72754	101999761	Cholula		locality	1
 72760	101999761	Cholula		locality	4
 72760	1293553499	San Cristobal Tepontla		locality	1
@@ -1891,72 +2472,95 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 72762	101999761	Cholula		locality	1
 72766	101999761	Cholula		locality	1
 72770	101999761	Cholula		locality	1
-72810	101999761	Cholula		locality	2
+72810	101999685	San Andrés Cholula		locality	1099
+72810|	101999685	San Andrés Cholula		locality	3
 72810	101999639	Puebla City		locality	1
 72820	1226100793	Tlaxcalancingo		locality	1
 72821	101999639	Puebla City		locality	2
 72828	101999685	San Andrés Cholula		locality	1
-72830	101999685	San Andrés Cholula		locality	1
+72830	101999605	San Andrés Cholula Municipality		locality	747
+72830	101999639	Puebla City		locality	7
+72830|	101999685	San Andrés Cholula		locality	1
 72840	101999639	Puebla City		locality	1
 72850	1243036949	Chalchihuapan		locality	20
-72850	101999639	Puebla City		locality	9
-72980	101999273	Amozoc de Mota		locality	10
+72850	101999639	Puebla City		locality	10
+72960	101999641	San Andrés Azumiatla		locality	1
+72960	101999657	San Pedro Zacachimalpa		locality	1
+72980	101999273	Amozoc de Mota		locality	11
 72990	101999639	Puebla City		locality	3
 72990	101999273	Amozoc de Mota		locality	1
+73080	102000013	Xicotepec de Juárez		locality	1
+73170	101999639	Puebla City		locality	1
 73180	101999257	Ahuazotepec Municipality		locality	1
-73310	102000055	Zacatlán		locality	1
+73310	102000055	Zacatlán Municipality		locality	2
 73611	1209579625	Tenepanigia (Santa Elena)		locality	2
-73680	102000089	Zacapoaxtla		locality	1
+73640	101999897	Tetela de Ocampo Municipality		locality	6
+73680	102000089	Zacapoaxtla Municipality		locality	1
 73700	102000065	Zaragoza		locality	1
+73780	1242838469	Libres		locality	29
 73780	101999561	Ciudad de Libres		locality	27
-73780	1242838469	Libres		locality	27
-73784	1242838469	Libres		locality	5
-73800	101999901	Teziutlán		locality	9
-73887	101999901	Teziutlán		locality	1
+73784	1242838469	Libres		locality	8
+73800	101999901	Teziutlán		locality	8
+73887	101999901	Teziutlán		locality	3
 73890	101999901	Teziutlán		locality	1
+73900	101999563	La Magdalena Tlatlauquitepec Municipality		locality	4
+73974	101999149	San José Xicohténcatl		locality	2
 74000	101999721	S. Martin Texmelucan		locality	3
 74128	1360253957	Tianguismanalco		locality	1
+74130	101999779	San Salvador el Verde		locality	9
 74155	101999399	San Nicolás Zecalacoayan		locality	1
-74160	101999495	Huejotzingo		locality	2
+74160	101999495	Huejotzingo Municipality		locality	4
 74165	1125796927	San Luis Coyotzingo		locality	7
-74190	101999753	San Nicolás de Los Ranchos Municipality		locality	4
-74200	101999289	Atlixco		locality	1
+74180	101999317	Calpan Municipality		locality	1
+74190	101999753	San Nicolás de Los Ranchos Municipality		locality	5
+74200	1125813071	San Pedro Atlixco		locality	1
 74260	101999639	Puebla City		locality	1
 74290	101999639	Puebla City		locality	1
+74293	1125813071	San Pedro Atlixco		locality	1
 74360	101999289	Atlixco		locality	1
 74400	101999525	Izúcar de Matamoros		locality	3
+74570	101999531	La Galarza		locality	2
 74800	101999845	Tehuitzingo Municipality		locality	1
 74900	101999519	Ixcaquixtla Municipality		locality	1
+75000	101999675	Rafael Lara Grajales Municipality		locality	2
 75050	101999929	Tlachichuca Municipality		locality	1
 75070	101999435	Chilchotla Municipality		locality	5
 75070	101999839	Tehuacán		locality	1
+75150	101999239	Acatzingo Municipality		locality	2
 75200	101999865	Tepeaca Municipality		locality	20
 75415	101999681	Benito Juárez		locality	6
+75460	101999661	Quecholac		locality	1
 75480	101999823	Tecamachalco Municipality		locality	1
 75482	101999823	Tecamachalco Municipality		locality	1
 75500	102001471	Cancún		locality	1
 75540	1293942109	Paso Carretas		locality	14
-75700	101999839	Tehuacán		locality	1
+75700	101999839	Tehuacán		locality	2
 75790	101999839	Tehuacán		locality	1
+75809	1343226157	Francisco Ignacio Madero		locality	1
 75855	101999839	Tehuacán		locality	1
+75857	101999839	Tehuacán		locality	1
 75880	101999701	San Gabriel Chilac		locality	1
 75910	101999263	Ciudad de Ajalpan		locality	13
 75910	101999839	Tehuacán		locality	6
-76000	101996369	Queretaro		locality	2
-76010	101996369	Queretaro		locality	1
+76000	101996369	Queretaro		locality	3
+76010	101996369	Queretaro		locality	2
 76020	101996369	Queretaro		locality	1
 76030	101996369	Queretaro		locality	1
 76058	101996369	Queretaro		locality	1
 76060	101996369	Queretaro		locality	1
+76074	101996369	Queretaro		locality	1
+76080	101996369	Queretaro		locality	1
 76087	101996369	Queretaro		locality	1
 76090	101996369	Queretaro		locality	1
-76100	101996369	Queretaro		locality	2
-76116	101996369	Queretaro		locality	3
-76118	101996369	Queretaro		locality	1
+76100	101996369	Queretaro		locality	3
+76113	101996369	Queretaro		locality	1
+76116	101996369	Queretaro		locality	5
+76118	101996369	Queretaro		locality	9
 76120	101996369	Queretaro		locality	4
 76125	101996369	Queretaro		locality	2
 76138	101996369	Queretaro		locality	4
-76148	101996369	Queretaro		locality	2
+76140	101996369	Queretaro		locality	2
+76148	101996369	Queretaro		locality	1
 76150	101996369	Queretaro		locality	1
 76157	101996369	Queretaro		locality	3
 76160	101996369	Queretaro		locality	16
@@ -1965,35 +2569,45 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 76180	101996369	Queretaro		locality	1
 76220	101996369	Queretaro		locality	1
 76220	101996395	Santa Rosa Jáuregui		locality	1
-76230	101996375	Juriquilla		locality	2
 76230	101996369	Queretaro		locality	2
-76240	1209182809	El Marques [Polo Club]		locality	1
+76230	101996375	Juriquilla		locality	1
+76240	101996313	La Cañada		locality	1
 76240	101996369	Queretaro		locality	1
 76246	101996369	Queretaro		locality	1
 76270	101996281	Colón		locality	1
+76278	101996281	Colón		locality	1
 76340	101996369	Queretaro		locality	1
 76500	101996277	Cadereyta de Montes		locality	3
 76505	101996277	Cadereyta de Montes		locality	2
 76506	101996277	Cadereyta de Montes		locality	2
-76720	101996357	San Clemente		locality	2
+76720	101996357	San Clemente		locality	1
 76750	101996369	Queretaro		locality	1
 76750	101996429	Tequisquiapan		locality	1
+76776	1125942711	Tequisquiapam		locality	1
 76800	101996407	San Juan del Río		locality	8
 76800	101996341	Pedro Escobedo		locality	1
 76800	1293127455	San Juan del Rio		locality	1
 76803	101996369	Queretaro		locality	1
 76804	101996407	San Juan del Río		locality	17
 76805	101996407	San Juan del Río		locality	1
-76815	1192988329	San Juan		locality	1
+76806	1225902633	El Organal		locality	1
+76815	101996519	Tierra Nueva		locality	1
 76830	101996407	San Juan del Río		locality	1
-76900	1125881993	Corregidora Municipality		locality	1
+76900	1125881993	Corregidora Municipality		locality	5
 76900	101996369	Queretaro		locality	1
 76903	1125881993	Corregidora Municipality		locality	1
 76903	101998113	Acayucan		locality	1
+76904	1125881993	Corregidora Municipality		locality	1
 76904	101996369	Queretaro		locality	1
-77000	102001489	Chetumal		locality	4
+76910	101996369	Queretaro		locality	1
+76920	1125881993	Corregidora Municipality		locality	1
+76950	101996369	Queretaro		locality	1
+76976	1209074831	Santa Teresa		locality	1
+77000	102001489	Chetumal		locality	5
 77013	102001489	Chetumal		locality	1
+77014	102001489	Chetumal		locality	1
 77020	102001489	Chetumal		locality	3
+77026	102001489	Chetumal		locality	1
 77029	102001489	Chetumal		locality	1
 77034	102001489	Chetumal		locality	1
 77035	102001489	Chetumal		locality	1
@@ -2002,107 +2616,152 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 77098	102001489	Chetumal		locality	2
 77310	1277134897	Isla Holbox		locality	3
 77330	102001345	Quintana Roo Municipality		locality	4
+77330	1326598507	Solferino		locality	1
 77400	102001495	Isla Mujeres Municipality		locality	3
 77400	102001471	Cancún		locality	1
-77500	102001471	Cancún		locality	36
+77500	102001471	Cancún		locality	43
 77500	1225879059	Benito Juarez		locality	1
 77501	102001471	Cancún		locality	2
 77504	102001471	Cancún		locality	3
+77505	102001471	Cancún		locality	1
 77506	1225879059	Benito Juarez		locality	1
 77508	102001471	Cancún		locality	1
 77509	102001471	Cancún		locality	2
-77510	102001471	Cancún		locality	4
+77510	102001471	Cancún		locality	8
 77513	102001471	Cancún		locality	2
 77514	102001471	Cancún		locality	1
+77516	102001471	Cancún		locality	3
+77518	102001471	Cancún		locality	2
 77520	102001471	Cancún		locality	1
+77524	102001471	Cancún		locality	1
+77528	102001471	Cancún		locality	2
 77530	102001471	Cancún		locality	1
-77533	102001471	Cancún		locality	1
+77533	102001471	Cancún		locality	4
+77533	102001345	Quintana Roo Municipality		locality	2
 77538	102001471	Cancún		locality	12
-77539	102001471	Cancún		locality	1
+77539	102001471	Cancún		locality	2
+77560	102001471	Cancún		locality	2
 77560	1125874437	Alfredo V. Bonfil		locality	1
-77565	102001471	Cancún		locality	1
-77569	102001471	Cancún		locality	2
-77580	102001453	Puerto Morelos		locality	14
-77600	102001507	San Miguel de Cozumel		locality	3
+77565	102001471	Cancún		locality	3
+77569	102001471	Cancún		locality	3
+77580	102001453	Puerto Morelos		locality	23
+77586	102001453	Puerto Morelos		locality	47
+77600	102001507	San Miguel de Cozumel		locality	4
 77600	1259451707	El Cedral		locality	1
 77622	102001507	San Miguel de Cozumel		locality	1
 77663	102001507	San Miguel de Cozumel		locality	2
+77666	102001507	San Miguel de Cozumel		locality	6
 77667	102001507	San Miguel de Cozumel		locality	1
-77710	102001459	Playa del Carmen		locality	24
+77710	102001459	Playa del Carmen		locality	38
 77710	1277030497	Riviera Maya		locality	1
 77712	102001459	Playa del Carmen		locality	4
 77714	102001459	Playa del Carmen		locality	1
-77717	102001459	Playa del Carmen		locality	1
-77720	102001459	Playa del Carmen		locality	2
+77717	102001459	Playa del Carmen		locality	36
+77720	102001459	Playa del Carmen		locality	8
 77723	102001459	Playa del Carmen		locality	3
-77728	102001459	Playa del Carmen		locality	1
+77726	102001459	Playa del Carmen		locality	1
+77728	102001459	Playa del Carmen		locality	6
 77750	102001459	Playa del Carmen		locality	1
 77750	102001457	Puerto Aventuras		locality	1
-77760	102001451	Tulum		locality	7
-77780	102001451	Tulum		locality	2
+77760	102001451	Tulum		locality	14
+77760	1125846053	Akumal		locality	1
+77764	102001451	Tulum		locality	1
+77780	102001451	Tulum		locality	6
 77782	102001457	Puerto Aventuras		locality	1
+77784	1125846053	Akumal		locality	1
+77788	102001451	Tulum		locality	1
 77793	1125883691	Cobá		locality	1
 77880	1209573519	Kantemo		locality	2
 77890	1193095115	Jose Maria Morelos		locality	31
-77930	102001487	Bacalar		locality	3
+77930	102001487	Bacalar		locality	7
 77940	1125964621	Mahahual		locality	1
-78000	101996483	S. Luis Potosi		locality	11
+78000	101996483	S. Luis Potosi		locality	12
+78030	101996483	S. Luis Potosi		locality	6
+78038	101996483	S. Luis Potosi		locality	1
+78049	101996483	S. Luis Potosi		locality	3
 78110	101996483	S. Luis Potosi		locality	1
 78140	101996483	S. Luis Potosi		locality	1
 78142	101996483	S. Luis Potosi		locality	1
-78216	101996483	S. Luis Potosi		locality	1
+78150	101996483	S. Luis Potosi		locality	2
+78165	101996483	S. Luis Potosi		locality	1
+78170	101996483	S. Luis Potosi		locality	4
+78173	101996483	S. Luis Potosi		locality	1
+78200	101996483	S. Luis Potosi		locality	8
+78216	101996483	S. Luis Potosi		locality	4
+78218	101996483	S. Luis Potosi		locality	4
 78220	101996483	S. Luis Potosi		locality	2
-78230	101996483	S. Luis Potosi		locality	1
-78239	101996483	S. Luis Potosi		locality	1
+78230	101996483	S. Luis Potosi		locality	4
+78239	101996483	S. Luis Potosi		locality	2
 78240	101996483	S. Luis Potosi		locality	1
 78250	101996483	S. Luis Potosi		locality	4
-78260	101996483	S. Luis Potosi		locality	1
-78269	101996483	S. Luis Potosi		locality	1
-78280	101996483	S. Luis Potosi		locality	2
+78260	101996483	S. Luis Potosi		locality	5
+78269	101996483	S. Luis Potosi		locality	3
+78270	101996483	S. Luis Potosi		locality	3
+78280	101996483	S. Luis Potosi		locality	6
 78290	101996483	S. Luis Potosi		locality	1
-78294	101996483	S. Luis Potosi		locality	1
-78295	101996483	S. Luis Potosi		locality	4
-78299	101996483	S. Luis Potosi		locality	1
+78294	101996483	S. Luis Potosi		locality	2
+78295	101996483	S. Luis Potosi		locality	117
+78299	101996483	S. Luis Potosi		locality	2
 78300	101996483	S. Luis Potosi		locality	1
+78320	101996483	S. Luis Potosi		locality	5
 78339	101996483	S. Luis Potosi		locality	1
-78340	101996483	S. Luis Potosi		locality	1
-78350	101996483	S. Luis Potosi		locality	4
+78340	101996483	S. Luis Potosi		locality	5
+78343	101996483	S. Luis Potosi		locality	3
+78350	101996483	S. Luis Potosi		locality	3
+78359	101996483	S. Luis Potosi		locality	2
+78360	101996483	S. Luis Potosi		locality	2
 78364	101996483	S. Luis Potosi		locality	1
+78370	101996483	S. Luis Potosi		locality	2
 78377	101996483	S. Luis Potosi		locality	1
+78380	101996483	S. Luis Potosi		locality	2
+78384	101996483	S. Luis Potosi		locality	5
 78385	101996483	S. Luis Potosi		locality	1
-78390	101996483	S. Luis Potosi		locality	1
-78395	101996483	S. Luis Potosi		locality	2
-78399	101996483	S. Luis Potosi		locality	2
-78421	101996483	S. Luis Potosi		locality	1
+78389	101996483	S. Luis Potosi		locality	1
+78390	101996483	S. Luis Potosi		locality	11
+78394	101996483	S. Luis Potosi		locality	5
+78395	101996483	S. Luis Potosi		locality	9
+78396	101996483	S. Luis Potosi		locality	2
+78398	101996483	S. Luis Potosi		locality	2
+78399	101996483	S. Luis Potosi		locality	14
+78413	101996483	S. Luis Potosi		locality	1
+78421	101996483	S. Luis Potosi		locality	6
+78422	101996483	S. Luis Potosi		locality	3
+78425	101996483	S. Luis Potosi		locality	1
 78430	1125911155	Soledad Díez Gutiérrez		locality	3
+78433	101996497	Soledad de Graciano Sánchez		locality	1
 78436	1126057353	Soledad de Graciano Sanchez		locality	1
 78437	1126057353	Soledad de Graciano Sanchez		locality	2
-78570	101996459	Charcas		locality	3
-78590	101996459	Charcas		locality	1
-78595	101996459	Charcas		locality	3
-78597	101996459	Charcas		locality	1
+78570	101996459	Charcas		locality	1
+78595	101996459	Charcas		locality	1
+78630	101996483	S. Luis Potosi		locality	1
 78700	1226610263	La Paz		locality	2
 78722	101996467	Matehuala		locality	1
 78806	101996407	San Juan del Río		locality	1
 79000	1260135487	Ciudad Valles		locality	14
 79010	101996457	Ciudad Valles		locality	1
 79040	1260135487	Ciudad Valles		locality	3
-79050	1260135487	Ciudad Valles		locality	3
+79050	1260135487	Ciudad Valles		locality	4
 79060	1260135487	Ciudad Valles		locality	1
-79080	1260135487	Ciudad Valles		locality	17
+79080	1260135487	Ciudad Valles		locality	11
 79082	1260135487	Ciudad Valles		locality	1
-79090	1193094617	Las Lomas		locality	1
+79100	1125828431	Ébano		locality	1
 79150	101996461	Ébano		locality	1
 79207	101996515	Tamuín		locality	1
+79220	101996515	Tamuín		locality	1
+79250	1260135487	Ciudad Valles		locality	1
+79382	101992997	Cárdenas		locality	1
 79400	101996449	Cerritos		locality	3
-79445	101996449	Cerritos		locality	2
+79421	101996449	Cerritos		locality	1
+79445	101996449	Cerritos		locality	1
 79447	101996449	Cerritos		locality	2
 79460	101993017	Villa Juárez		locality	1
 79526	101996535	Villa de Reyes		locality	1
 79560	101993045	Santa María del Río		locality	1
-79563	1310262325	Bernalejo		locality	14
+79563	1310262325	Bernalejo		locality	10
 79610	1125785197	Río Verde		locality	1
 79650	101996455	Ciudad Fernandez		locality	2
+79700	101996501	Tamasopo		locality	1
+79930	101996537	Axtla de Terrazas		locality	1
 79960	101996509	Tamazunchale		locality	2
 80000	101993731	Culiacán		locality	13
 80010	1125983249	Culiacán		locality	2
@@ -2131,7 +2790,7 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 80054	101993731	Culiacán		locality	3
 80055	101993731	Culiacán		locality	1
 80058	101993731	Culiacán		locality	20
-80058	1242632341	Rosales		locality	2
+80058	1242632341	Rosales		locality	3
 80059	101993731	Culiacán		locality	1
 80060	1125983249	Culiacán		locality	4
 80063	1125983249	Culiacán		locality	2
@@ -2140,10 +2799,10 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 80070	1125983249	Culiacán		locality	1
 80080	1125983249	Culiacán		locality	1
 80088	1125983249	Culiacán		locality	1
-80090	1125983249	Culiacán		locality	2
+80090	1125983249	Culiacán		locality	4
 80100	1242632341	Rosales		locality	5
 80100	101993731	Culiacán		locality	1
-80104	101993731	Culiacán		locality	2
+80104	101993731	Culiacán		locality	3
 80104	1242632341	Rosales		locality	1
 80107	101993731	Culiacán		locality	1
 80110	1242632341	Rosales		locality	2
@@ -2178,7 +2837,7 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 80199	1125983249	Culiacán		locality	10
 80199	101993731	Culiacán		locality	1
 80199	1242632341	Rosales		locality	1
-80200	101993731	Culiacán		locality	2
+80200	101993731	Culiacán		locality	3
 80210	1125983249	Culiacán		locality	1
 80220	1125983249	Culiacán		locality	1
 80227	1125983249	Culiacán		locality	1
@@ -2190,7 +2849,7 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 80247	1125983249	Culiacán		locality	4
 80248	1125983249	Culiacán		locality	2
 80249	1125983249	Culiacán		locality	7
-80249	1242632341	Rosales		locality	7
+80249	1242632341	Rosales		locality	5
 80250	1125983249	Culiacán		locality	1
 80260	1125983249	Culiacán		locality	1
 80270	1125983249	Culiacán		locality	1
@@ -2205,31 +2864,37 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 80300	1209770575	La Primavera		locality	2
 80300	1125983249	Culiacán		locality	1
 80301	101993731	Culiacán		locality	1
-80322	101993603	Navolato		locality	13
+80322	101993603	Navolato		locality	12
 80323	101993603	Navolato		locality	2
 80324	101993603	Navolato		locality	11
 80327	101993603	Navolato		locality	15
 80327	101993731	Culiacán		locality	1
 80349	101993603	Navolato		locality	1
-80370	101993603	Navolato		locality	16
+80370	101993603	Navolato		locality	13
 80378	101993603	Navolato		locality	5
+80450	101993725	Eldorado		locality	2
 80450	1125983249	Culiacán		locality	1
 80450	1242632341	Rosales		locality	1
-80450	101993725	Eldorado		locality	1
 80500	1276193211	Surutato		locality	2
+80800	101993631	Mocorito		locality	4
+80806	101993631	Mocorito		locality	1
 80810	101993631	Mocorito		locality	1
 81000	101993681	Guasave		locality	2
+081000	857683023	Mexico City		locality	1
 81018	101993681	Guasave		locality	1
+81020	101993681	Guasave		locality	3
 81020	101993613	Sinaloa de Leyva		locality	1
 81040	101993613	Sinaloa de Leyva		locality	2
+81101	101993613	Sinaloa de Leyva		locality	1
 81110	101993655	Juan José Ríos		locality	1
 81122	101993657	Gabriel Leyva Solano		locality	1
+81170	1209063385	Boca del Rio		locality	1
 81200	101993793	Los Mochis		locality	7
-81200	101993613	Sinaloa de Leyva		locality	1
+81200	1243402031	Sinaloa de Leyva		locality	1
 81210	101993793	Los Mochis		locality	2
 81216	101993793	Los Mochis		locality	1
 81220	101993793	Los Mochis		locality	2
-81223	101993793	Los Mochis		locality	1
+81223	101993793	Los Mochis		locality	2
 81230	101993793	Los Mochis		locality	1
 81233	101993793	Los Mochis		locality	1
 81234	101993793	Los Mochis		locality	1
@@ -2238,9 +2903,11 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 81255	101993793	Los Mochis		locality	3
 81259	101993793	Los Mochis		locality	1
 81260	101993793	Los Mochis		locality	1
-81270	101993793	Los Mochis		locality	4
+81270	101993793	Los Mochis		locality	15
+81293	101993793	Los Mochis		locality	1
 81304	101993761	San Miguel Zapotitlán		locality	2
 81310	101993791	Ahome		locality	1
+81336	101993759	Topolobampo		locality	1
 81400	101993621	Guamúchil		locality	2
 81420	1141907353	Guamúchil		locality	1
 81426	1141907353	Guamúchil		locality	2
@@ -2259,58 +2926,90 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 81479	101993621	Guamúchil		locality	3
 81480	1141907353	Guamúchil		locality	1
 81490	1141907353	Guamúchil		locality	4
-81610	1309962909	Sinaloa		locality	3
+81610	1309962909	Sinaloa		locality	6
+81610	101993747	Alhuey		locality	3
 81670	101993749	Angostura		locality	1
 81680	101993749	Angostura		locality	1
 81985	1242632337	Tobobampo		locality	1
-82000	101993641	Mazatlán		locality	3
+82000	101993641	Mazatlán		locality	4
 82010	101993641	Mazatlán		locality	1
+82018	101993641	Mazatlán		locality	2
 82036	101993641	Mazatlán		locality	1
 82059	101993641	Mazatlán		locality	1
+82070	101993641	Mazatlán		locality	1
 82100	101993641	Mazatlán		locality	1
-82110	101993641	Mazatlán		locality	3
+82110	101993641	Mazatlán		locality	6
 82112	101993641	Mazatlán		locality	1
-82120	101993641	Mazatlán		locality	1
+82127	101993641	Mazatlán		locality	1
+82149	101993641	Mazatlán		locality	3
 82180	101993641	Mazatlán		locality	1
-82198	101993641	Mazatlán		locality	3
+82198	101993641	Mazatlán		locality	4
 82199	1343923593	Sinaloa		locality	1
+82204	101993641	Mazatlán		locality	3
+82707	101993705	La Cruz		locality	1
 83000	101993983	Hermosillo		locality	6
 83010	101993983	Hermosillo		locality	1
-83100	1259350125	Hermosillo		locality	1
-83104	1259350125	Hermosillo		locality	1
+83050	101993983	Hermosillo		locality	2
+83100	1259350125	Hermosillo		locality	39
+83104	1259350125	Hermosillo		locality	2
 83105	1259350125	Hermosillo		locality	5
-83106	1259350125	Hermosillo		locality	2
-83117	1259350125	Hermosillo		locality	3
-83130	1259350125	Hermosillo		locality	1
+83106	1259350125	Hermosillo		locality	3
+83116	1259350125	Hermosillo		locality	2
+83117	1259350125	Hermosillo		locality	4
+83126	1259350125	Hermosillo		locality	1
+83130	1259350125	Hermosillo		locality	2
 83130	102000959	Ciudad Victoria		locality	1
+83137	1259350125	Hermosillo		locality	1
+83138	1259350125	Hermosillo		locality	4
+83139	1259350125	Hermosillo		locality	1
+83140	1259350125	Hermosillo		locality	4
 83147	1259350125	Hermosillo		locality	1
-83148	1259350125	Hermosillo		locality	2
+83148	1259350125	Hermosillo		locality	3
+83149	1259350125	Hermosillo		locality	3
 83150	101993983	Hermosillo		locality	1
 83150	1243402085	Sonora		locality	1
-83170	101993983	Hermosillo		locality	6
-83174	1259350125	Hermosillo		locality	1
-83180	1259350125	Hermosillo		locality	3
+83160	101993983	Hermosillo		locality	1
+83170	101993983	Hermosillo		locality	14
+83174	1259350125	Hermosillo		locality	4
+83175	1259350125	Hermosillo		locality	7
+83177	1259350125	Hermosillo		locality	50
+83178	1259350125	Hermosillo		locality	2
+83179	1259350125	Hermosillo		locality	6
+83180	1259350125	Hermosillo		locality	7
 83190	101993983	Hermosillo		locality	2
 83205	1259350125	Hermosillo		locality	1
 83210	1259350125	Hermosillo		locality	5
+83214	1259350125	Hermosillo		locality	2
+83224	1259350125	Hermosillo		locality	1
+83240	1259350125	Hermosillo		locality	1
 83246	101993983	Hermosillo		locality	1
 83249	1226612731	Santa Fe		locality	1
 83250	101993983	Hermosillo		locality	1
-83280	101993983	Hermosillo		locality	1
-83285	101993983	Hermosillo		locality	1
-83288	101993983	Hermosillo		locality	1
+83280	101993983	Hermosillo		locality	2
+83285	101993983	Hermosillo		locality	5
+83288	101993983	Hermosillo		locality	2
 83293	101993983	Hermosillo		locality	2
 83294	101993983	Hermosillo		locality	2
 83296	101993983	Hermosillo		locality	2
 83299	101993983	Hermosillo		locality	3
+83304	101993983	Hermosillo		locality	2
+83304	1243402085	Sonora		locality	1
+83323	1259350125	Hermosillo		locality	1
+83337	1343328881	Punta Chueca		locality	1
+83340	1125898331	Bahía de Kino		locality	3
+83340	101993831	Bahía de Kino		locality	1
+83348	1125898331	Bahía de Kino		locality	9
 83400	101994027	S. Luis Rio Colorado		locality	1
 83449	101994027	S. Luis Rio Colorado		locality	2
 83490	101994027	S. Luis Rio Colorado		locality	2
+83500	1209663091	Luis B. Sanchez		locality	1
 83550	101993829	Pto. Penasco		locality	1
 83553	101993829	Pto. Penasco		locality	2
-83554	101993829	Pto. Penasco		locality	1
+83554	101993829	Pto. Penasco		locality	3
 83555	101993829	Pto. Penasco		locality	1
-83624	101993817	Heroica Caborca		locality	1
+83600	101993817	Caborca		locality	1
+83624	101993817	Caborca		locality	1
+83750	101993863	Altar		locality	2
 83960	101993899	Puerto Libertad		locality	2
 83970	101993899	Puerto Libertad		locality	2
 84030	101993821	Nogales		locality	3
@@ -2319,16 +3018,22 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 84074	101993821	Nogales		locality	1
 84080	101993821	Nogales		locality	3
 84084	101993821	Nogales		locality	1
+84092	101993821	Nogales		locality	1
 84094	101993821	Nogales		locality	4
-84200	101993867	Agua Prieta		locality	1
+84200	101993867	Agua Prieta		locality	2
+84210	101993867	Agua Prieta		locality	2
 84340	1293444281	Nacozari de Garcia		locality	3
 84346	1293444281	Nacozari de Garcia		locality	1
+84400	101993977	Huachinera		locality	1
 84560	101993979	Moctezuma		locality	1
+84600	101993803	Santa Ana		locality	1
 84620	101993993	Cananea		locality	1
-85000	101993827	Ciudad Obregón		locality	7
+84900	101993987	Heroica Ciudad de Ures		locality	2
+85000	101993827	Ciudad Obregón		locality	9
 85000	101993973	Navojoa		locality	1
 85010	101993827	Ciudad Obregón		locality	2
-85040	101993827	Ciudad Obregón		locality	2
+85038	101993827	Ciudad Obregón		locality	1
+85040	101993827	Ciudad Obregón		locality	4
 85065	101993827	Ciudad Obregón		locality	1
 85080	101993827	Ciudad Obregón		locality	1
 85110	101993827	Ciudad Obregón		locality	2
@@ -2353,8 +3058,9 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 85290	101993871	Villa Juárez		locality	2
 85294	101993871	Villa Juárez		locality	3
 85330	101994015	Empalme		locality	1
-85349	1209181465	San Luis		locality	32
+85349	1209181465	San Luis		locality	34
 85350	1243402085	Sonora		locality	3
+85350	1209181465	San Luis		locality	1
 85440	101994013	Guaymas		locality	1
 85444	101994013	Guaymas		locality	1
 85448	101994013	Guaymas		locality	2
@@ -2367,12 +3073,13 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 85506	1125883331	San Carlos Nuevo Guaymas		locality	2
 85509	101994013	Guaymas		locality	2
 85534	101994015	Empalme		locality	1
+85710	1293259405	La Arizona (La Hacienda)		locality	1
 85770	1326897759	Guajaray		locality	1
 85777	1260356451	Alamos		locality	2
 85780	101993997	Yécora		locality	3
 85800	101993973	Navojoa		locality	3
 85820	101993973	Navojoa		locality	2
-85823	101993973	Navojoa		locality	1
+85823	101993973	Navojoa		locality	3
 85825	101993973	Navojoa		locality	1
 85827	101993973	Navojoa		locality	1
 85830	101993973	Navojoa		locality	6
@@ -2381,24 +3088,27 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 85845	101993973	Navojoa		locality	1
 85850	101993973	Navojoa		locality	4
 85860	101993973	Navojoa		locality	2
-85864	101993973	Navojoa		locality	2
+85864	101993973	Navojoa		locality	1
 85870	101993973	Navojoa		locality	3
+85874	101993973	Navojoa		locality	1
 85875	101993973	Navojoa		locality	1
 85890	101993973	Navojoa		locality	1
 85894	101993973	Navojoa		locality	1
 85895	101993973	Navojoa		locality	9
 85900	101993925	Huatabampo		locality	1
 85910	101993925	Huatabampo		locality	1
-86035	101994837	Villahermosa		locality	6
+86035	101994837	Villahermosa		locality	7
 86035	1125981831	Atasta de Serra		locality	1
 86038	101994837	Villahermosa		locality	2
 86040	101994837	Villahermosa		locality	2
-86068	101994837	Villahermosa		locality	6
+86068	101994837	Villahermosa		locality	7
 86077	101994837	Villahermosa		locality	1
+86080	101994837	Villahermosa		locality	1
 86090	101994837	Villahermosa		locality	4
 86100	101994837	Villahermosa		locality	3
 86120	101994837	Villahermosa		locality	1
 86150	101994837	Villahermosa		locality	2
+86179	101994837	Villahermosa		locality	1
 86190	101994837	Villahermosa		locality	3
 86200	101994961	Jalpa de Méndez		locality	6
 86246	101994799	Bosque de Saloya		locality	6
@@ -2406,15 +3116,21 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 86284	101994837	Villahermosa		locality	1
 86300	101994895	Comalcalco		locality	1
 86350	101994895	Comalcalco		locality	1
-86500	101994793	Cárdenas		locality	10
+86370	101994895	Comalcalco		locality	2
+86500	101994793	Cárdenas		locality	11
 86605	101994843	Paraíso		locality	2
+86611	101994843	Paraíso		locality	1
+86650	101994895	Comalcalco		locality	1
+86654	101994895	Comalcalco		locality	3
 86670	101994895	Comalcalco		locality	2
 86670	101994865	Chichicapa		locality	1
 86690	101994925	Cunduacán		locality	25
-86900	101994765	Tenosique de Pino Suárez		locality	3
-86901	101994765	Tenosique de Pino Suárez		locality	5
-86902	101994765	Tenosique de Pino Suárez		locality	8
-86904	101994765	Tenosique de Pino Suárez		locality	10
+86706	101994807	Benito Juárez (San Carlos)		locality	1
+86724	1309801559	Tabasco		locality	4
+86900	101994765	Tenosique de Pino Suárez		locality	45
+86901	101994765	Tenosique de Pino Suárez		locality	13
+86902	101994765	Tenosique de Pino Suárez		locality	20
+86904	101994765	Tenosique de Pino Suárez		locality	11
 86905	1209261993	Estapilla		locality	1
 86906	1209814001	Independencia		locality	1
 86980	101994931	Emiliano Zapata		locality	1
@@ -2422,19 +3138,35 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 86992	101994931	Emiliano Zapata		locality	2
 87000	102000959	Ciudad Victoria		locality	2
 87024	102000959	Ciudad Victoria		locality	5
+87025	102000959	Ciudad Victoria		locality	1
 87050	102000959	Ciudad Victoria		locality	3
 87080	102000959	Ciudad Victoria		locality	1
-87300	102000961	Heroica Matamoros		locality	3
+87093	102000959	Ciudad Victoria		locality	1
+87300	102000961	Heroica Matamoros		locality	5
 87313	102000961	Heroica Matamoros		locality	3
-87350	102000961	Heroica Matamoros		locality	1
+87314	102000961	Heroica Matamoros		locality	1
+87344	102000961	Heroica Matamoros		locality	1
+87347	102000961	Heroica Matamoros		locality	1
+87350	102000961	Heroica Matamoros		locality	2
 87360	102000961	Heroica Matamoros		locality	1
-87410	102000961	Heroica Matamoros		locality	2
+87380	102000961	Heroica Matamoros		locality	1
+87390	102000961	Heroica Matamoros		locality	1
+87400	102000961	Heroica Matamoros		locality	1
+87410	102000961	Heroica Matamoros		locality	4
+87450	102000961	Heroica Matamoros		locality	1
+87453	102000961	Heroica Matamoros		locality	1
+87458	102000961	Heroica Matamoros		locality	1
+87461	102000961	Heroica Matamoros		locality	1
+87462	102000961	Heroica Matamoros		locality	1
+87466	102000961	Heroica Matamoros		locality	1
 87477	102000961	Heroica Matamoros		locality	2
 87678	1310661835	Soto la Marina (Eleuterio Avalos M.)		locality	1
+87799	1125881395	Nuevo Padilla		locality	2
 87933	1209576693	La Independencia		locality	3
-87980	102001065	Ocampo		locality	1
+87980	102001065	Ocampo		locality	2
 87994	102001065	Ocampo		locality	2
 88123	102000965	Nuevo Laredo		locality	1
+88136	102000965	Nuevo Laredo		locality	2
 88170	102000965	Nuevo Laredo		locality	1
 88179	102000965	Nuevo Laredo		locality	1
 88209	102000965	Nuevo Laredo		locality	1
@@ -2442,10 +3174,13 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 88275	102000965	Nuevo Laredo		locality	1
 88283	102000965	Nuevo Laredo		locality	2
 88284	102000965	Nuevo Laredo		locality	1
-88400	1310448919	Camargo		locality	8
+88400	1310448919	Camargo		locality	7
 88400	102000973	Ciudad Camargo		locality	3
+88500	102000955	Reynosa		locality	1
 88620	102000955	Reynosa		locality	1
+88631	102000955	Reynosa		locality	1
 88703	102000955	Reynosa		locality	2
+88715	102000955	Reynosa		locality	1
 88730	102000955	Reynosa		locality	1
 88733	102000955	Reynosa		locality	1
 88740	102000955	Reynosa		locality	1
@@ -2453,9 +3188,11 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 88780	102000955	Reynosa		locality	2
 88783	102000955	Reynosa		locality	1
 88793	102000955	Reynosa		locality	3
-88900	102000963	Ciudad Río Bravo		locality	4
-88920	102000963	Ciudad Río Bravo		locality	3
-88923	102000963	Ciudad Río Bravo		locality	3
+88799	102000955	Reynosa		locality	1
+88900	102000963	Río Bravo		locality	4
+88920	102000963	Río Bravo		locality	3
+88923	102000963	Río Bravo		locality	3
+88950	102000963	Río Bravo		locality	1
 89000	102001087	Tampico		locality	1
 89080	102001087	Tampico		locality	1
 89110	102001087	Tampico		locality	1
@@ -2467,35 +3204,52 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 89318	1209175373	Tampico		locality	5
 89344	102001087	Tampico		locality	1
 89360	102001087	Tampico		locality	3
+89367	102001087	Tampico		locality	1
 89450	1309855201	Ciudad Madero		locality	1
+89460	1309855201	Ciudad Madero		locality	1
 89513	102001087	Tampico		locality	1
-89600	102001055	Altamira		locality	4
-89603	102001055	Altamira		locality	1
+89600	102001055	Altamira		locality	6
+89603	102001055	Altamira		locality	2
 89604	102001055	Altamira		locality	1
-90000	101999051	Tlaxcala City		locality	2
+90000	101999051	Tlaxcala City		locality	3
+90010	101999047	San Buenaventura Atempan		locality	1
 90111	101999033	San Sebastián Atlahapa		locality	3
 90160	1126046229	Acxotla Del Rio		locality	1
 90163	101999017	Totolac Municipality		locality	2
 90200	101999033	San Sebastián Atlahapa		locality	1
 90240	101999147	Hueyotlipan		locality	3
 90297	101999159	Españita Municipality		locality	1
+90300	101999197	Ciudad de Apizaco		locality	2
+90342	101999197	Ciudad de Apizaco		locality	1
+90357	101999197	Ciudad de Apizaco		locality	1
+90360	101999197	Ciudad de Apizaco		locality	1
+90401	101999191	San Luis Apizaquito		locality	1
+90407	101999197	Ciudad de Apizaco		locality	2
+90430	101999191	San Luis Apizaquito		locality	1
 90460	101999001	San Pedro Tlacotepec		locality	1
-90500	101999157	Huamantla		locality	1
+90470	101999189	Santa Anita Huiloac		locality	1
+90500	101999157	Huamantla		locality	2
+90501	101999157	Huamantla		locality	2
 90501	101999051	Tlaxcala City		locality	1
+90505	101999157	Huamantla		locality	1
 90610	101999203	Tlatempan		locality	1
 90620	101999213	Amaxac de Guerrero Municipality		locality	1
 90640	101999083	Santa Cruz Tlaxcala		locality	2
+90750	101998967	Zacatelco		locality	1
 90790	101998987	Papalotla		locality	1
-90810	101999173	Santa Ana Chiautempan		locality	4
-91000	101998437	Xalapa		locality	32
+90800	101999173	Chiautempan		locality	2
+90810	101999173	Chiautempan		locality	3
+91000	101998437	Xalapa		locality	35
 91010	101998437	Xalapa		locality	1
 91018	101998437	Xalapa		locality	1
-91020	101998437	Xalapa		locality	8
+91020	101998437	Xalapa		locality	11
 91030	101998437	Xalapa		locality	2
 91030	101998591	Perote		locality	1
+91049	101998437	Xalapa		locality	1
 91050	101998437	Xalapa		locality	3
 91056	101998437	Xalapa		locality	1
-91060	101998437	Xalapa		locality	4
+91060	101998437	Xalapa		locality	6
+91064	101998437	Xalapa		locality	1
 91070	101998437	Xalapa		locality	8
 91090	101998437	Xalapa		locality	15
 91093	101998437	Xalapa		locality	1
@@ -2506,32 +3260,43 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 91130	101998591	Perote		locality	5
 91130	101998437	Xalapa		locality	1
 91154	101998437	Xalapa		locality	3
-91170	101998437	Xalapa		locality	1
-91180	101998437	Xalapa		locality	1
+91170	101998437	Xalapa		locality	2
+91174	101998437	Xalapa		locality	13
+91180	101998437	Xalapa		locality	3
 91190	101998437	Xalapa		locality	1
 91193	101998437	Xalapa		locality	1
 91194	101998437	Xalapa		locality	2
 91210	101998437	Xalapa		locality	4
 91210	101998439	El Castillo		locality	2
-91260	101998591	Perote		locality	3
+91260	101998591	Perote		locality	5
+91260	1293146515	San Antonio Xoquitla		locality	1
 91350	101998525	Misantla		locality	1
 91367	1209460799	Emiliano Zapata		locality	1
-91460	101998133	Alto Lucero		locality	1
+91380	101998463	Jilotepec Municipality		locality	1
+91407	1259529187	Las Haldas		locality	5
+91433	1293743423	Mafafas		locality	8
+91460	101998133	Alto Lucero		locality	3
 91500	101998227	Coatepec		locality	7
 91539	101998227	Coatepec		locality	1
 91615	101998747	Teocelo		locality	1
-91637	1209460799	Emiliano Zapata		locality	5
+91637	1209460799	Emiliano Zapata		locality	8
+91640	1209460799	Emiliano Zapata		locality	1
 91697	1343741269	Colonia Veracruz		locality	1
 91698	101998843	Veracruz		locality	1
 91700	101998843	Veracruz		locality	2
 91712	101998843	Veracruz		locality	1
+91726	101998843	Veracruz		locality	1
 91779	101998843	Veracruz		locality	2
 91808	101998843	Veracruz		locality	1
+91809	101998843	Veracruz		locality	1
 91810	101998843	Veracruz		locality	2
-91897	101998843	Veracruz		locality	5
+91870	101998843	Veracruz		locality	2
+91897	101998843	Veracruz		locality	6
+91900	101998843	Veracruz		locality	2
 91910	101998843	Veracruz		locality	1
 91916	101998843	Veracruz		locality	2
-91919	101998203	Veracruz		locality	1
+91919	101998203	Veracruz		locality	2
+91947	101998203	Veracruz		locality	1
 92000	1344203195	Panuco (La Pitahaya) [Nuevo Centro de Poblacion]		locality	1
 92018	101998567	Moralillo		locality	1
 92030	101998619	Cd. Cuauhtémoc		locality	1
@@ -2543,7 +3308,11 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 92220	101998613	Poza Rica		locality	2
 92401	101998905	El Higo		locality	9
 92420	101998333	Chinampa de Gorostiza		locality	1
+92688	1293106721	Santa Margarita		locality	2
+92730	101998731	Álamo		locality	1
 92770	101998249	Coatzintla Municipality		locality	1
+92880	101998823	Tuxpan Municipality		locality	1
+92903	101998777	Tihuatlán Municipality		locality	1
 93160	1209274035	Escolin de Olarte		locality	3
 93160	101998571	Papantla		locality	1
 93160	101998613	Poza Rica		locality	1
@@ -2587,7 +3356,7 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 93393	101998613	Poza Rica		locality	1
 93396	101998613	Poza Rica		locality	3
 93399	101998613	Poza Rica		locality	4
-93400	101998571	Papantla		locality	93
+93400	101998571	Papantla		locality	94
 93401	101998571	Papantla		locality	1
 93410	101998571	Papantla		locality	3
 93418	101998571	Papantla		locality	1
@@ -2604,95 +3373,112 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 93484	101998571	Papantla		locality	2
 93486	101998571	Papantla		locality	1
 93520	101998571	Papantla		locality	1
+93532	101998581	El Volador		locality	2
 93534	101998571	Papantla		locality	1
 93548	1243209705	Vista Hermosa de Juarez		locality	1
+93556	101998373	Gutiérrez Zamora		locality	1
 93600	101998491	Martínez de la Torre Municipality		locality	3
 93603	101998491	Martínez de la Torre Municipality		locality	1
 93650	101998807	Tlapacoyan		locality	2
 93700	101998139	Altotonga Municipality		locality	2
 93821	101998525	Misantla		locality	2
+93960	101998839	Vega de Alatorre		locality	1
 93980	101998841	Emilio Carranza		locality	1
 93990	101998563	Pánuco		locality	8
 93995	101998563	Pánuco		locality	2
+94151	102000053	Las Lomas		locality	1
 94158	101994153	Ciudad Juarez		locality	1
 94235	1293439255	Mata de Agua		locality	1
-94235	101998129	Camarón de Tejeda		locality	1
 94240	101998693	Soledad de Doblado		locality	1
 94274	101998505	Medellín		locality	1
-94290	101998201	Boca del Río		locality	23
+94290	101998201	Boca del Río		locality	22
 94290	101998203	Veracruz		locality	1
 94294	101998201	Boca del Río		locality	1
 94294	101998203	Veracruz		locality	1
 94296	101998453	Jamapa		locality	1
+94296	101998203	Veracruz		locality	1
 94298	101998201	Boca del Río		locality	1
 94298	101998203	Veracruz		locality	1
 94299	101998201	Boca del Río		locality	3
-94300	101998551	Orizaba		locality	28
-94300	101998591	Perote		locality	2
+94300	101998551	Orizaba		locality	33
 94300	101998645	Río Blanco Municipality		locality	1
-94310	101998551	Orizaba		locality	1
+94300	101998591	Perote		locality	1
+94310	101998551	Orizaba		locality	2
 94320	101998551	Orizaba		locality	4
 94320	101998591	Perote		locality	2
 94329	101998551	Orizaba		locality	1
-94330	101998551	Orizaba		locality	2
+94330	101998551	Orizaba		locality	5
 94334	101998551	Orizaba		locality	2
 94339	101998551	Orizaba		locality	1
-94410	101998637	Rafael Delgado		locality	8
-94410	101998639	Jalapilla		locality	1
-94420	101998487	Mariano Escobedo		locality	14
+94340	101998551	Orizaba		locality	6
+94410	101998637	Rafael Delgado		locality	38
+94410	101998639	Jalapilla		locality	19
+94420	101998487	Mariano Escobedo		locality	23
+94420	101998551	Orizaba		locality	1
+94450	101998421	Ixtaczoquitlán		locality	1
 94470	101998365	Fortín de las Flores		locality	12
 94475	101998365	Fortín de las Flores		locality	1
-94500	101998261	Córdoba		locality	1
 94540	101998371	Córdoba (Santa Leticia)		locality	2
+94550	101998261	Córdoba		locality	1
 94557	101998261	Córdoba		locality	1
 94559	101998371	Córdoba (Santa Leticia)		locality	1
-94650	101998261	Córdoba		locality	2
-94720	101998541	Nogales		locality	5
-94732	101998645	Río Blanco Municipality		locality	1
+94560	101998261	Córdoba		locality	1
+94570	101998261	Córdoba		locality	1
+94590	101998261	Córdoba		locality	1
+94650	101998261	Córdoba		locality	1
+94720	101998541	Nogales		locality	4
+94732	101998645	Río Blanco Municipality		locality	2
 94740	101998207	Ciudad Mendoza		locality	1
+94940	101998151	Amatlán de los Reyes		locality	1
 94970	101998583	Paso del Macho		locality	1
-94990	1226604683	La Tinaja		locality	1
-95100	101998775	Tierra Blanca		locality	13
+94990	1125880285	Tinajitas		locality	1
+95100	101998775	Tierra Blanca		locality	16
 95110	101998775	Tierra Blanca		locality	3
 95120	101998775	Tierra Blanca		locality	2
 95150	101998775	Tierra Blanca		locality	7
-95400	101998273	Cosamaloapan		locality	2
+95180	101998775	Tierra Blanca		locality	1
+95252	101998141	Alvarado		locality	1
+95400	101998273	Cosamaloapan		locality	4
 95560	101998319	Chacaltianguis Municipality		locality	1
 95670	101998469	Juan Rodríguez Clara		locality	1
 95700	101998653	S. Andres Tuxtla		locality	3
 95700	1209288677	San Andres		locality	1
-95870	101998211	Catemaco		locality	1
-95870	101998613	Poza Rica		locality	1
+95805	101998653	S. Andres Tuxtla		locality	1
+95870	101998211	Santiago Tuxtla		locality	1
 96000	101998113	Acayucan		locality	2
 96070	1310203589	Veracruz		locality	1
+96160	101998547	Oluta		locality	2
 96349	101998291	Cosoleacaque Municipality		locality	1
-96400	101998237	Coatzacoalcos		locality	1
+96400	101998237	Coatzacoalcos		locality	2
+96410	101998237	Coatzacoalcos		locality	1
+96460	101998237	Coatzacoalcos		locality	1
 96496	101998237	Coatzacoalcos		locality	1
 96510	101998237	Coatzacoalcos		locality	1
 96523	1310203589	Veracruz		locality	1
 96535	101998237	Coatzacoalcos		locality	2
-96536	101998237	Coatzacoalcos		locality	1
+96536	101998237	Coatzacoalcos		locality	2
 96570	101998237	Coatzacoalcos		locality	1
+96680	101998901	Agua Dulce Municipality		locality	1
 96700	102000639	Minatitlán		locality	1
-96950	1309770641	Juan de la Luz Enriquez		locality	4
-96976	1309770641	Juan de la Luz Enriquez		locality	2
+96950	101998455	Jesús Carranza		locality	4
+96976	101998455	Jesús Carranza		locality	2
 96980	101998337	Las Choapas		locality	3
-97000	102001097	Mérida		locality	42
+97000	102001097	Mérida		locality	51
 97000	1209251369	Yucatan		locality	3
-97000	102001145	Umán		locality	1
+97000	102001145	Uman		locality	1
 97069	102001097	Mérida		locality	1
 97070	102001097	Mérida		locality	7
 97100	102001097	Mérida		locality	1
-97110	102001097	Mérida		locality	1
-97117	102001097	Mérida		locality	1
-97118	102001097	Mérida		locality	4
+97110	102001097	Mérida		locality	5
+97117	102001097	Mérida		locality	3
+97118	102001097	Mérida		locality	2
 97119	102001097	Mérida		locality	2
 97120	102001097	Mérida		locality	1
-97125	102001097	Mérida		locality	2
+97125	102001097	Mérida		locality	3
 97133	102001097	Mérida		locality	1
 97135	1209251369	Yucatan		locality	1
-97138	102001097	Mérida		locality	4
-97139	102001097	Mérida		locality	7
+97138	102001097	Mérida		locality	8
+97139	102001097	Mérida		locality	9
 97143	102001097	Mérida		locality	4
 97144	102001097	Mérida		locality	1
 97147	102001097	Mérida		locality	2
@@ -2701,44 +3487,57 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 97155	102001097	Mérida		locality	1
 97156	102001097	Mérida		locality	1
 97158	102001097	Mérida		locality	1
-97166	102001097	Mérida		locality	1
-97168	102001097	Mérida		locality	1
+97166	102001097	Mérida		locality	2
 97173	102001097	Mérida		locality	2
 97174	102001097	Mérida		locality	3
+97179	102001097	Mérida		locality	1
 97180	102001097	Mérida		locality	1
 97180	1209251369	Yucatan		locality	1
 97190	102001097	Mérida		locality	1
 97198	102001097	Mérida		locality	2
 97199	102001097	Mérida		locality	1
 97200	102001097	Mérida		locality	5
-97203	102001097	Mérida		locality	7
-97205	102001097	Mérida		locality	1
+97203	102001097	Mérida		locality	11
+97205	102001097	Mérida		locality	2
+97206	102001097	Mérida		locality	1
 97227	102001097	Mérida		locality	1
 97238	102001097	Mérida		locality	2
+97240	102001097	Mérida		locality	2
 97246	102001097	Mérida		locality	1
 97249	102001097	Mérida		locality	1
+97278	102001097	Mérida		locality	1
 97279	102001097	Mérida		locality	4
-97288	102001097	Mérida		locality	1
+97288	102001097	Mérida		locality	2
+97295	102001097	Mérida		locality	1
 97297	102001097	Mérida		locality	1
 97300	102001267	Chablekal		locality	3
 97300	102001359	Caucel		locality	2
-97302	102001267	Chablekal		locality	3
-97305	1310529965	Cholul		locality	2
+97302	102001267	Chablekal		locality	7
+97305	1310529965	Cholul		locality	1
 97305	102001097	Mérida		locality	1
+97306	1209251369	Yucatan		locality	1
 97310	102001097	Mérida		locality	2
-97314	102001097	Mérida		locality	5
+97314	102001097	Mérida		locality	9
+97314	102001359	Caucel		locality	1
 97315	1293820513	Molas		locality	1
 97320	102001367	Progreso		locality	16
 97329	102001367	Progreso		locality	1
+97340	102001127	Chicxulub Pueblo		locality	1
 97345	102001295	Conkal Municipality		locality	2
 97348	102001121	Yaxkukul Municipality		locality	3
-97370	102001161	Kanasín		locality	7
-97390	102001145	Umán		locality	3
+97357	102001215	Ucú Municipality		locality	10
+97370	102001161	Kanasín Municipality		locality	11
+97390	102001145	Uman		locality	41
 97390	102001097	Mérida		locality	1
+97392	1126034655	Idzincab		locality	1
+97392	102001097	Mérida		locality	1
 97466	102001299	Bokobá Municipality		locality	1
+97470	102001117	Tixkokob		locality	1
+97540	102001129	Izamal		locality	1
+97580	102001373	Homún Municipality		locality	10
 97606	1209251369	Yucatan		locality	1
 97616	102001109	San Felipe Municipality		locality	2
-97700	102001317	Tizimín		locality	3
+97700	102001317	Tizimín		locality	4
 97700	102001097	Mérida		locality	2
 97730	102001277	Espita		locality	2
 97740	102001233	Temozón Municipality		locality	1
@@ -2746,31 +3545,40 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 97768	102001327	Tekom Municipality		locality	1
 97770	102001187	Chemax		locality	2
 97775	102001317	Tizimín		locality	2
-97780	102001107	Valladolid		locality	308
+97780	102001107	Valladolid		locality	310
 97780	102001233	Temozón Municipality		locality	1
 97780	1209251369	Yucatan		locality	1
-97782	102001107	Valladolid		locality	1
-97783	102001107	Valladolid		locality	20
+97782	102001107	Valladolid		locality	2
+97783	102001107	Valladolid		locality	21
 97783	1209251369	Yucatan		locality	3
+97784	102001107	Valladolid		locality	1
 97785	102001309	Kanxoc		locality	1
-97789	102001107	Valladolid		locality	1
+97789	102001213	Valladolid		locality	1
 97796	102001107	Valladolid		locality	1
-97873	102001229	Ticul		locality	1
-98000	101994047	Zacatecas City		locality	2
+97860	102001229	Ticul Municipality		locality	1
+97873	102001229	Ticul Municipality		locality	1
+97880	102001353	Oxkutzcab Municipality		locality	2
+98000	101994047	Zacatecas City		locality	4
 98047	101994047	Zacatecas City		locality	1
 98050	101994047	Zacatecas City		locality	1
 98053	101994047	Zacatecas City		locality	1
+98064	101994047	Zacatecas City		locality	1
 98087	101994047	Zacatecas City		locality	1
 98090	101994047	Zacatecas City		locality	2
+98170	1327404397	Zacatecas		locality	2
+98181	101999157	Huamantla		locality	1
 98330	101992261	Miguel Auza		locality	1
-98608	101992875	Guadalupe		locality	1
+98380	101997965	Puerto Vallarta		locality	1
+98541	1225804277	San Antonio del Cipres		locality	9
+98608	101992875	Guadalupe		locality	3
 98613	101992875	Guadalupe		locality	1
 98615	101994047	Zacatecas City		locality	1
 98630	101992867	Tacoaleche		locality	17
 98710	101992243	Ojocaliente		locality	1
 98780	102001107	Valladolid		locality	1
-98900	101994047	Zacatecas City		locality	8
+98900	101994047	Zacatecas City		locality	9
 99000	101992909	Fresnillo		locality	1
+99030	101992909	Fresnillo		locality	1
 99109	1343817149	Villa Insurgentes (El Calabazal)		locality	118
 99109	1360133553	Villa Insurgentes		locality	96
 99240	101994077	Valparaíso		locality	1
@@ -2778,23 +3586,27 @@ tercera seccion	101996185	Tlacolula de Matamoros		locality	1
 99258	101994077	Valparaíso		locality	2
 99259	101994077	Valparaíso		locality	1
 99310	101992283	Jerez de García Salinas		locality	1
+99420	1259525017	Rio Grande		locality	1
 99600	101992859	Jalpa		locality	7
 99713	1125917007	El Cuyo		locality	1
+99780	1326771961	Florencia		locality	16
 99780	102001107	Valladolid		locality	1
-99800	101992205	Teúl de González Ortega		locality	1
+99800	101992205	Teúl de González Ortega		locality	3
 99970	101992277	Juchipila		locality	7
 99970	1327404397	Zacatecas		locality	1
 149000	857683023	Mexico City		locality	2
+252090	102000871	Saltillo		locality	1
 308830	1243066507	Tapachula [Algodonera]		locality	2
 384000	101996805	Valle de Santiago		locality	2
+438340	102000109	Zempoala		locality	1
 445100	101997877	Zapopan		locality	1
 501130	101991705	Toluca		locality	1
 509000	101992489	Ciudad Nezahualcóyotl		locality	7
-520000	101992565	Lerma de Villada		locality	1
+520000	101992565	Lerma Municipality		locality	1
 647770	102000679	Monterrey		locality	1
 675300	102000683	Montemorelos		locality	1
+728303	101999685	San Andrés Cholula		locality	8
 760080	101996369	Queretaro		locality	1
-775220	102001471	Cancún		locality	1
 917000	101998843	Veracruz		locality	1
 920611	101998741	Tempoal de Sánchez		locality	1
 977780	102001107	Valladolid		locality	1

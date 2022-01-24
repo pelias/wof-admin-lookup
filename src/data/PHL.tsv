@@ -1,1144 +1,1397 @@
-c-2003	421169213	Guagua		locality	2
-‎6118	421178743	Enrique B. Magalona		locality	2
 +6205	421182013	Pamplona		locality	1
 0000	890416311	Almeria		locality	1
-C-2005	421170429	Lubao		locality	1
+Cavite 4120	1276805859	Tagaytay		locality	1
 Iloilo	421185455	Passi		locality	1
-NCR 1007	1159397249	Manila		locality	1
-2	1159397279	National Capital Region		locality	1
+1AH26	421202107	Koronadal		locality	1
+002	1225872809	Caloocan City		locality	1
+4	421189447	Legazpi		locality	2
 20	421199759	San Fernando		locality	1
 52	890434103	Pinamalayan		locality	1
 63	421196343	Baclayon		locality	2
-65	421178781	Balangiga		locality	1
 110	1141907271	Quezon City		locality	1
 130	1159397273	Pasay		locality	1
-0560	1276819761	Valenzuela		locality	1
+200	421194647	Angeles City		locality	1
+231	421168915	Tarlac City		locality	1
+0550	1276819761	Valenzuela		locality	1
 639	421167523	Carmen		locality	1
 800	421168921	Davao City		locality	1
 0913	1159397249	Manila		locality	1
 917	1159397279	National Capital Region		locality	1
 0921	1159397273	Pasay		locality	1
-1000	1159397249	Manila		locality	34
-1001	1159397249	Manila		locality	38
-1002	1159397249	Manila		locality	58
-1003	1159397249	Manila		locality	13
-1004	1159397249	Manila		locality	70
-1004	1209416253	Malate		locality	4
+1000	1159397249	Manila		locality	108
+1000	1141907271	Quezon City		locality	1
+1001	1159397249	Manila		locality	42
+1001	421174695	Sampaloc		locality	1
+1002	1159397249	Manila		locality	76
+1003	1159397249	Manila		locality	17
+1004	1159397249	Manila		locality	146
+1004	1209416253	Malate		locality	5
+1004	1159397273	Pasay		locality	1
 1004	1141907271	Quezon City		locality	1
-1004	890416295	Angat		locality	1
-1005	1159397249	Manila		locality	18
+1004	890415599	Santa Cruz		locality	1
+1005	1159397249	Manila		locality	44
 1005	421185563	San Miguel		locality	1
-1006	1159397249	Manila		locality	39
+1006	1159397249	Manila		locality	46
 1006	421193399	Binondo		locality	1
-1006	890440023	Pagadian		locality	1
-1007	1159397249	Manila		locality	26
+1007	1159397249	Manila		locality	80
 1007	1242885535	Paco		locality	1
-1008	1159397249	Manila		locality	23
+1008	1159397249	Manila		locality	34
 1008	421174695	Sampaloc		locality	2
-1008	890416295	Angat		locality	1
-1009	1159397249	Manila		locality	127
+1008	890415599	Santa Cruz		locality	1
+1009	1159397249	Manila		locality	172
 1009	421198973	Santa Ana		locality	2
 1009	1159397261	Mandaluyong		locality	1
-1010	1159397249	Manila		locality	2
+1010	1159397249	Manila		locality	16
 1010	1209643373	San Nicolas		locality	1
-1011	1159397249	Manila		locality	2
-1012	1159397249	Manila		locality	33
+1011	1159397249	Manila		locality	20
+1011	421171553	Pandacan		locality	9
+1012	1159397249	Manila		locality	36
 1012	1326531067	Tondo		locality	2
-1013	1159397249	Manila		locality	6
-1014	1159397249	Manila		locality	11
-1014	890416295	Angat		locality	2
+1013	1159397249	Manila		locality	9
+1014	1159397249	Manila		locality	27
+1014	890415599	Santa Cruz		locality	2
 1015	1159397249	Manila		locality	30
-1016	1159397249	Manila		locality	46
-1017	1159397249	Manila		locality	10
+1016	1159397249	Manila		locality	52
+1017	1159397249	Manila		locality	22
 1018	1159397249	Manila		locality	9
 1019	1159397275	Pasig		locality	1
 1036	1141907271	Quezon City		locality	1
-1100	1141907271	Quezon City		locality	72
+1099	1141907271	Quezon City		locality	1
+1100	1141907271	Quezon City		locality	280
 1100	1159397263	Marikina		locality	1
-1101	1159397279	National Capital Region		locality	556
+1101	1159397279	National Capital Region		locality	560
 1101	1209049043	Teachers Village		locality	3
 1101	1209858099	Sikatuna		locality	1
-1102	1141907271	Quezon City		locality	20
-1103	1141907271	Quezon City		locality	466
-1104	1141907271	Quezon City		locality	53
-1105	1141907271	Quezon City		locality	41
-1106	1141907271	Quezon City		locality	102
-1107	1159397279	National Capital Region		locality	11
-1108	1159397279	National Capital Region		locality	29
-1109	1141907271	Quezon City		locality	67
-1110	1141907271	Quezon City		locality	46
-1111	1141907271	Quezon City		locality	44
+1102	1141907271	Quezon City		locality	62
+1103	1141907271	Quezon City		locality	527
+1104	1141907271	Quezon City		locality	60
+1105	1141907271	Quezon City		locality	74
+1106	1141907271	Quezon City		locality	112
+1107	1159397279	National Capital Region		locality	20
+1108	1159397279	National Capital Region		locality	35
+1109	1141907271	Quezon City		locality	74
+1109	1343691525	Cubao		locality	1
+1110	1141907271	Quezon City		locality	49
+1111	1141907271	Quezon City		locality	47
 1111	1310107057	Concepcion		locality	1
-1112	1141907271	Quezon City		locality	89
-1113	1141907271	Quezon City		locality	29
+1112	1141907271	Quezon City		locality	88
+1113	1141907271	Quezon City		locality	44
 1113	1310643065	Dona Josefa		locality	1
-1114	1141907271	Quezon City		locality	44
+1113	1343300259	Galas		locality	1
+1114	1141907271	Quezon City		locality	60
+1114	1225787497	La Loma		locality	1
+1114	1159397249	Manila		locality	1
+1114	1309844215	Santa Mesa Heights		locality	1
 1115	1141907271	Quezon City		locality	6
-1116	1141907271	Quezon City		locality	46
-1116	1225872809	Caloocan City		locality	2
-1117	1159397279	National Capital Region		locality	4
-1118	1159397279	National Capital Region		locality	27
-1119	1159397279	National Capital Region		locality	17
-1121	1159397279	National Capital Region		locality	6
+1116	1141907271	Quezon City		locality	76
+1116	1225872809	Caloocan City		locality	1
+1117	1159397279	National Capital Region		locality	144
+1118	1159397279	National Capital Region		locality	75
+1119	1159397279	National Capital Region		locality	43
+1121	1159397279	National Capital Region		locality	11
 1122	1159397279	National Capital Region		locality	1
-1123	1159397279	National Capital Region		locality	1
-1124	1159397279	National Capital Region		locality	4
-1125	1159397279	National Capital Region		locality	1
-1126	1159397279	National Capital Region		locality	13
-1127	1159397279	National Capital Region		locality	9
-1128	1141907271	Quezon City		locality	26
+1123	1159397279	National Capital Region		locality	4
+1124	1159397279	National Capital Region		locality	31
+1125	1159397279	National Capital Region		locality	7
+1126	1159397279	National Capital Region		locality	24
+1127	1159397279	National Capital Region		locality	35
+1127	1276362919	Holy Spirit		locality	1
+1128	1141907271	Quezon City		locality	33
 1148	1141907271	Quezon City		locality	1
-1200	1159397257	Makati		locality	286
+1200	1159397257	Makati		locality	281
 1200	1159397249	Manila		locality	1
 1201	1159397257	Makati		locality	3
-1202	1159397283	Taguig		locality	3
+1202	1159397283	Taguig		locality	4
 1202	1159397257	Makati		locality	1
 1203	1159397257	Makati		locality	89
 1204	1159397257	Makati		locality	17
-1205	1159397257	Makati		locality	8
+1205	1159397257	Makati		locality	9
 1207	1159397257	Makati		locality	2
-1208	1159397257	Makati		locality	9
-1209	1159397257	Makati		locality	25
-1210	1159397257	Makati		locality	58
+1208	1159397257	Makati		locality	10
+1209	1159397257	Makati		locality	28
+1210	1159397257	Makati		locality	70
 1210	1293811977	Poblacion		locality	1
-1211	1159397257	Makati		locality	11
-1212	1159397257	Makati		locality	24
+1211	1159397257	Makati		locality	12
+1212	1159397257	Makati		locality	25
 1213	1159397257	Makati		locality	5
 1214	1159397257	Makati		locality	3
-1215	1159397257	Makati		locality	1
-1216	1159397257	Makati		locality	2
+1215	1159397257	Makati		locality	3
+1216	1159397257	Makati		locality	3
 1217	1159397257	Makati		locality	3
 1218	1159397257	Makati		locality	4
 1219	1159397257	Makati		locality	6
 1220	1159397257	Makati		locality	32
 1221	1159397257	Makati		locality	1
 1223	1159397257	Makati		locality	4
-1224	1159397257	Makati		locality	1
-1225	1159397257	Makati		locality	4
-1226	1159397257	Makati		locality	37
+1224	1159397257	Makati		locality	2
+1225	1159397257	Makati		locality	5
+1226	1159397257	Makati		locality	45
 1227	1159397257	Makati		locality	201
-1228	1159397257	Makati		locality	6
-1229	1159397257	Makati		locality	135
-1230	1159397257	Makati		locality	24
-1231	1159397257	Makati		locality	100
+1228	1159397257	Makati		locality	7
+1229	1159397257	Makati		locality	157
+1230	1159397257	Makati		locality	31
+1231	1159397257	Makati		locality	108
 1232	1159397257	Makati		locality	11
-1233	1159397257	Makati		locality	41
-1234	1159397257	Makati		locality	36
+1233	1159397257	Makati		locality	46
+1233	1310331361	Pasay		locality	2
+1234	1159397257	Makati		locality	35
 1235	1159397257	Makati		locality	39
 1255	1159397257	Makati		locality	1
-1300	1159397273	Pasay		locality	124
-1300	1310331361	Pasay		locality	10
+1270	1159397269	Paranaque		locality	1
+1300	1159397273	Pasay		locality	132
+1300	1310331361	Pasay		locality	11
 1300	1159397249	Manila		locality	2
-1300	421197535	Imus		locality	1
 1300	421168915	Tarlac City		locality	1
 1301	1310331361	Pasay		locality	3
-1302	1159397273	Pasay		locality	6
+1302	1159397273	Pasay		locality	8
 1303	1159397273	Pasay		locality	1
 1304	1159397273	Pasay		locality	2
 1306	1159397273	Pasay		locality	1
 1307	1159397273	Pasay		locality	2
 1308	1159397273	Pasay		locality	2
-1309	1310331361	Pasay		locality	22
-1309	1159397249	Manila		locality	1
-1400	1159397249	Manila		locality	20
-1400	1159397245	Caloocan		locality	19
-1400	1225872809	Caloocan City		locality	4
-1400	1141907271	Quezon City		locality	1
-1401	1225872809	Caloocan City		locality	2
-1402	1159397245	Caloocan		locality	3
+1309	1310331361	Pasay		locality	26
+1400	1225872809	Caloocan City		locality	42
+1400	1159397245	Caloocan		locality	32
+1400	1159397249	Manila		locality	21
+1400d	1159397245	Caloocan		locality	6
+1400	1159397279	National Capital Region		locality	3
+1401	1225872809	Caloocan City		locality	3
+1402	1225872809	Caloocan City		locality	3
 1403	1225872809	Caloocan City		locality	6
 1403	1159397273	Pasay		locality	3
-1405	1225872809	Caloocan City		locality	5
+1405	1225872809	Caloocan City		locality	4
 1406	1225872809	Caloocan City		locality	1
 1409	1225872809	Caloocan City		locality	1
+1409	1159397259	Malabon		locality	1
 1410	1225872809	Caloocan City		locality	2
-1411	1225872809	Caloocan City		locality	1
-1420	1159397245	Caloocan		locality	2
-1423	1159397245	Caloocan		locality	1
-1427	1159397245	Caloocan		locality	4
-1428	1159397245	Caloocan		locality	4
+1420	1159397245	Caloocan		locality	3
+1421	1159397245	Caloocan		locality	4
+1422	1159397245	Caloocan		locality	3
+1423	1159397245	Caloocan		locality	2
+1427	1159397245	Caloocan		locality	6
+1428	1159397245	Caloocan		locality	8
 1438	1159397245	Caloocan		locality	1
-1440	1276819761	Valenzuela		locality	22
-1441	1276819761	Valenzuela		locality	11
-1442	1276819761	Valenzuela		locality	12
+1440	1159397285	Valenzuela		locality	31
+1440	1259891239	Malinta		locality	1
+1441	1276819761	Valenzuela		locality	15
+1442	1276819761	Valenzuela		locality	15
 1443	1276819761	Valenzuela		locality	3
-1444	1276819761	Valenzuela		locality	113
-1445	1276819761	Valenzuela		locality	1
+1444	1276819761	Valenzuela		locality	122
+1445	1276819761	Valenzuela		locality	8
 1446	1159397285	Valenzuela		locality	1
 1470	1159397259	Malabon		locality	55
 1470	1225872809	Caloocan City		locality	2
-1471	1159397259	Malabon		locality	9
-1475	1159397259	Malabon		locality	3
+1471	1159397259	Malabon		locality	10
+1475	1159397259	Malabon		locality	7
 1476	1159397259	Malabon		locality	1
 1478	1159397259	Malabon		locality	1
-1485	1259918161	Navotas		locality	2
-1489	1159397267	Navotas		locality	3
-1500	1159397281	San Juan		locality	94
-1500	1159397261	Mandaluyong		locality	14
-1502	1159397281	San Juan		locality	10
+1479	1259918161	Navotas		locality	1
+1480	1159397259	Malabon		locality	1
+1485	1259918161	Navotas		locality	5
+1489	1159397267	Navotas		locality	2
+1500	890428711	San Juan		locality	98
+1500	1159397261	Mandaluyong		locality	15
+1502	890428711	San Juan		locality	12
+1503	890428711	San Juan		locality	6
+1504	890428711	San Juan		locality	2
 1504	1159397249	Manila		locality	1
-1504	1159397281	San Juan		locality	1
-1550	1159397261	Mandaluyong		locality	157
-1550	1159397281	San Juan		locality	130
+1550	1159397261	Mandaluyong		locality	247
+1550	890428711	San Juan		locality	129
+1550	1159397249	Manila		locality	1
 1550	1293913093	Hulo		locality	1
 1550	1159397275	Pasig		locality	1
 1550	1159397283	Taguig		locality	1
-1551	1159397261	Mandaluyong		locality	1
-1552	1159397261	Mandaluyong		locality	29
+1551	1159397261	Mandaluyong		locality	3
+1552	1159397261	Mandaluyong		locality	38
 1552	1159397275	Pasig		locality	1
-1553	1159397261	Mandaluyong		locality	1
+1553	1159397261	Mandaluyong		locality	2
 1553	1159397275	Pasig		locality	1
-1554	1159397261	Mandaluyong		locality	3
+1554	1159397261	Mandaluyong		locality	1
 1555	1159397261	Mandaluyong		locality	2
 1556	1159397261	Mandaluyong		locality	1
-1600	1159397275	Pasig		locality	40
+1600	1159397275	Pasig		locality	50
 1600	1125855389	Bacolod City		locality	1
-1601	1159397275	Pasig		locality	10
-1602	1159397275	Pasig		locality	2
-1603	1159397275	Pasig		locality	24
-1604	1159397275	Pasig		locality	241
-1605	1159397275	Pasig		locality	111
+1601	1159397275	Pasig		locality	11
+1602	1159397275	Pasig		locality	5
+1603	1159397275	Pasig		locality	31
+1603	1159397283	Taguig		locality	1
+1604	1159397275	Pasig		locality	254
+1605	1159397275	Pasig		locality	120
+1605	1159397261	Mandaluyong		locality	2
 1605	1159397257	Makati		locality	1
-1605	1159397261	Mandaluyong		locality	1
-1606	1159397275	Pasig		locality	1
+1606	1159397275	Pasig		locality	5
 1607	1159397275	Pasig		locality	20
-1608	1159397275	Pasig		locality	2
-1609	1159397275	Pasig		locality	86
+1608	1159397275	Pasig		locality	20
+1609	1159397275	Pasig		locality	94
 1610	1159397263	Marikina		locality	1
 1610	1159397275	Pasig		locality	1
-1611	1159397275	Pasig		locality	25
-1620	1209968039	Pateros		locality	10
+1611	1159397275	Pasig		locality	27
+1612	1159397275	Pasig		locality	2
+1620	1209968039	Pateros		locality	11
 1621	1209968039	Pateros		locality	5
-1622	1209968039	Pateros		locality	7
-1623	1209968039	Pateros		locality	12
-1630	1159397283	Taguig		locality	65
+1622	1209968039	Pateros		locality	6
+1623	1209968039	Pateros		locality	13
+1630	1159397283	Taguig		locality	90
+1630	1159397257	Makati		locality	1
+1630	1159397249	Manila		locality	1
 1631	1159397283	Taguig		locality	1
-1632	1159397283	Taguig		locality	2
-1634	1159397283	Taguig		locality	100
+1632	1159397283	Taguig		locality	5
+1633	1159397283	Taguig		locality	5
+1634	1159397283	Taguig		locality	115
 1634	1193044299	Fort Bonifacio		locality	1
 1634	1159397249	Manila		locality	1
-1638	1159397283	Taguig		locality	1
+1637	1159397283	Taguig		locality	2
+1638	1159397283	Taguig		locality	5
 1650	1159397261	Mandaluyong		locality	1
-1700	1327185525	Paranaque City		locality	161
+1663	890415535	Sipalay		locality	1
+1670	421178791	Antipolo		locality	1
+1700	1327185525	Paranaque City		locality	174
 1700	1310331361	Pasay		locality	2
 1700	1159397265	Muntinlupa		locality	1
-1701	1327185525	Paranaque City		locality	51
-1702	1327185525	Paranaque City		locality	13
+1701	1327185525	Paranaque City		locality	45
+1702	1327185525	Paranaque City		locality	12
 1703	1327185525	Paranaque City		locality	1
 1704	1327185525	Paranaque City		locality	10
-1709	1327185525	Paranaque City		locality	6
-1711	1327185525	Paranaque City		locality	2
-1715	1327185525	Paranaque City		locality	2
-1720	1327185525	Paranaque City		locality	1
-1740	1243306177	Zapote		locality	536
-1742	1243306177	Zapote		locality	4
+1709	1327185525	Paranaque City		locality	7
+1711	1327185525	Paranaque City		locality	3
+1715	1327185525	Paranaque City		locality	4
+1720	1159397269	Paranaque		locality	10
+1720	1327185525	Paranaque City		locality	4
+1740	1243306177	Zapote		locality	566
+1741	1159397251	Las Pinas		locality	3
+1742	1243306177	Zapote		locality	10
 1742	1159397251	Las Pinas		locality	1
 1744	1159397251	Las Pinas		locality	2
-1747	1159397251	Las Pinas		locality	242
-1750	1159397251	Las Pinas		locality	3
-1751	1159397251	Las Pinas		locality	2
-1770	1159397265	Muntinlupa		locality	41
-1771	1159397265	Muntinlupa		locality	10
-1772	1159397265	Muntinlupa		locality	55
-1773	1159397265	Muntinlupa		locality	87
+1747	1159397251	Las Pinas		locality	252
+1750	1159397251	Las Pinas		locality	4
+1751	1159397251	Las Pinas		locality	19
+1770	1159397265	Muntinlupa		locality	43
+1771	1159397265	Muntinlupa		locality	28
+1772	1159397265	Muntinlupa		locality	62
+1773	1159397265	Muntinlupa		locality	108
+1773	421198593	Morong		locality	2
 1774	1159397265	Muntinlupa		locality	3
-1776	1159397265	Muntinlupa		locality	7
-1780	1159397265	Muntinlupa		locality	40
-1781	1159397265	Muntinlupa		locality	46
-1800	1159397263	Marikina		locality	63
+1776	1159397265	Muntinlupa		locality	16
+1780	1159397265	Muntinlupa		locality	41
+1781	1159397265	Muntinlupa		locality	52
+1783	1159397265	Muntinlupa		locality	1
+1800	1159397263	Marikina		locality	104
+1800	421180951	Bacolor		locality	2
+1800	421174393	Cainta		locality	2
 1800	1159397275	Pasig		locality	1
-1801	1159397263	Marikina		locality	41
-1801	1159397279	National Capital Region		locality	1
-1802	1159397263	Marikina		locality	6
-1803	1159397263	Marikina		locality	42
+1800	1141907271	Quezon City		locality	1
+1801	1159397263	Marikina		locality	43
+1802	1159397263	Marikina		locality	9
+1803	1159397263	Marikina		locality	44
 1804	1159397263	Marikina		locality	1
-1805	1159397263	Marikina		locality	88
+1805	1159397263	Marikina		locality	92
 1806	1159397263	Marikina		locality	12
-1807	1159397263	Marikina		locality	202
-1808	1159397263	Marikina		locality	7
-1809	1159397263	Marikina		locality	8
-1810	1159397263	Marikina		locality	12
-1811	1159397263	Marikina		locality	81
-1850	890434729	San Mateo		locality	23
-1860	421179901	Rodriguez		locality	13
-1860	1226180659	Rizal		locality	3
-1870	421178791	Antipolo		locality	23
-1900	421174393	Cainta		locality	503
-1900	1226180659	Rizal		locality	18
+1807	1159397263	Marikina		locality	207
+1808	1159397263	Marikina		locality	4
+1809	1159397263	Marikina		locality	33
+1810	1159397263	Marikina		locality	58
+1811	1159397263	Marikina		locality	60
+1850	890434729	San Mateo		locality	36
+1850	1226180659	Rizal		locality	1
+1860	421179901	Rodriguez		locality	26
+1860	421178791	Antipolo		locality	3
+1860	1226180659	Rizal		locality	2
+1870	421178791	Antipolo		locality	55
+1870	421178639	Taytay		locality	2
+1871	421178791	Antipolo		locality	17
+1872	421178791	Antipolo		locality	13
+1873	421178791	Antipolo		locality	1
+1874	421178791	Antipolo		locality	1
+1880	421174695	Sampaloc		locality	5
+1880	421178637	Teresa		locality	4
+1900	421174393	Cainta		locality	601
+1900	1226180659	Rizal		locality	21
 1900	421178639	Taytay		locality	4
+1900	421178791	Antipolo		locality	3
 1900	1159397275	Pasig		locality	3
-1900	421178791	Antipolo		locality	2
+1900	1159397249	Manila		locality	1
 1900	1209968039	Pateros		locality	1
 1900	1141907271	Quezon City		locality	1
-1910	421178935	Pililla		locality	17
-1920	421178639	Taytay		locality	706
+1901	421178791	Antipolo		locality	1
+1901	421178639	Taytay		locality	1
+1910	421178935	Pililla		locality	13
+1920	421178639	Taytay		locality	697
 1920	1193061947	Santa Ana		locality	9
-1920	1226180659	Rizal		locality	2
+1920	1226180659	Rizal		locality	3
 1929	421178639	Taytay		locality	1
-1930	421201209	Angono		locality	46
-1930	1193216431	San Isidro		locality	1
-1940	421170389	Binangonan		locality	7
+1930	421201209	Angono		locality	66
+1930	1226180659	Rizal		locality	2
+1930	890455983	San Isidro		locality	1
+1930 Rizal	421201209	Angono		locality	1
+1940	421170389	Binangonan		locality	13
+1940	1293621727	Pag-Asa		locality	9
 1940	421201209	Angono		locality	2
 1942	1159397249	Manila		locality	1
+1970	421194529	Baras		locality	2
 1980	421202125	Tanay		locality	34
-2000	421199759	San Fernando		locality	35
-2000	890450637	San Agustin		locality	1
-2001	421180951	Bacolor		locality	2
-2003	421169213	Guagua		locality	7
-2004	421183491	Sasmuan		locality	8
-2005	421170429	Lubao		locality	25
-2005	1125848375	Calangain		locality	2
-2005	1209315731	Concepcion		locality	1
-2005	1243068973	San Roque Arbol		locality	1
-2006	890436559	Floridablanca		locality	6
+2000	421199759	San Fernando		locality	61
+2000	890433983	San Fernando		locality	5
+2001	421199759	San Fernando		locality	1
+2002	890442959	Santa Rita		locality	3
+2003	421169213	Guagua		locality	1
+2004	421183491	Sasmuan		locality	1
+2005	421170429	Lubao		locality	14
+2005	1125848375	Calangain		locality	1
+2006	890436559	Floridablanca		locality	39
+2007	890436559	Floridablanca		locality	2
 2007	421194647	Angeles City		locality	1
-2008	890434091	Porac		locality	8
-2009	421194647	Angeles City		locality	94
-2009	421174487	Mabalacat		locality	3
-2009	890416211	Balibago		locality	1
-2009	1276454693	Dau		locality	1
-2010	421174487	Mabalacat		locality	11
-2011	890417815	Magalang		locality	15
-2012	1125986849	Arayat		locality	4
-2013	890416073	Candaba		locality	4
-2014	890450567	San Luis		locality	1
-2016	421196431	Apalit		locality	1
-2017	421169919	Masantol		locality	28
+2008	890434091	Porac		locality	6
+2009	421194647	Angeles City		locality	343
+2009	421174487	Mabalacat		locality	4
+2010	421174487	Mabalacat		locality	69
+2011	890417815	Magalang		locality	21
+2012	1125986849	Arayat		locality	5
+2015	421174487	Mabalacat		locality	1
+2015	421168549	San Simon		locality	1
+2016	421196431	Apalit		locality	3
+2017	421169919	Masantol		locality	25
 2018	421194237	Macabebe		locality	2
-2021	421199977	Mexico		locality	6
+2020	890443939	Santo Tomás		locality	5
+2021	421199977	Mexico		locality	28
 2021	890450851	Pandacaqui		locality	1
-2100	421176907	Balanga		locality	11
-2101	421202123	Pilar		locality	5
-2102	421167493	Orion		locality	21
-2103	421167841	Limay		locality	8
-2105	890442985	Mariveles		locality	3
-2106	890442985	Mariveles		locality	1
-2107	890422071	Bagac		locality	49
-2108	890433191	Morong		locality	1
+2023	421174487	Mabalacat		locality	9
+2100	421176907	Balanga		locality	28
+2100	421202123	Pilar		locality	1
+2101	421202123	Pilar		locality	6
+2102	421167493	Orion		locality	19
+2103	421167841	Limay		locality	9
+2105	890442985	Mariveles		locality	25
+2106	890442985	Mariveles		locality	5
+2107	890422071	Bagac		locality	59
+2107	1243302033	Bataan		locality	1
+2108	890433191	Morong		locality	13
 2109	890433191	Morong		locality	1
-2110	421175563	Dinalupihan		locality	4
-2112	421201027	Orani		locality	5
-2200	890434727	Olongapo City		locality	2943
+2110	421175563	Dinalupihan		locality	40
+2111	421200807	Hermosa		locality	19
+2112	421201027	Orani		locality	26
+2113	421180729	Samal		locality	12
+2114	421200085	Abucay		locality	21
+2200	890434727	Olongapo City		locality	2820
+2200	1242592457	Subic Bay Freeport Zone	SBFZ	locality	2
 2200	890433951	Subic		locality	1
-2200	1242592457	Subic Bay Freeport Zone	SBFZ	locality	1
-2201	421193845	Iba		locality	26
+2201	421193845	Iba		locality	31
 2202	421197439	Botolan		locality	11
 2203	421178765	Cabangan		locality	1
-2204	421186427	San Felipe		locality	6
+2204	421186427	San Felipe		locality	10
 2205	421203199	San Narciso		locality	2
-2206	890438511	San Antonio		locality	29
+2206	890438511	San Antonio		locality	24
 2207	421178663	San Marcelino		locality	12
-2208	1125848121	Castillejos		locality	18
-2209	890433951	Subic		locality	6608
-2209	1125848121	Castillejos		locality	367
+2208	1125848121	Castillejos		locality	15
+2209	890433951	Subic		locality	6627
+2209	1125848121	Castillejos		locality	376
 2209	1210027769	Subic		locality	115
 2209	890434727	Olongapo City		locality	1
 2210	421196423	Palauig		locality	3
-2211	421204721	Masinloc		locality	6
-2212	421175731	Candelaria		locality	9
-2213	421182161	Santa Cruz		locality	1
-2222	421200807	Hermosa		locality	5
-2222	890434727	Olongapo City		locality	5
-2300	421168915	Tarlac City		locality	16
+2211	421204721	Masinloc		locality	5
+2212	421175731	Candelaria		locality	11
+2213	421182161	Santa Cruz		locality	2
+2222	890434727	Olongapo City		locality	6
+2222	421200807	Hermosa		locality	4
+2300	421168915	Tarlac City		locality	57
 2301	421168915	Tarlac City		locality	5
+2302	890440449	Gerona		locality	139
+2302	1259394013	Pinasling		locality	8
+2302	1293304029	Poblacion		locality	3
 2302	421168915	Tarlac City		locality	1
-2303	890416079	Camiling		locality	6
-2306	890416079	Camiling		locality	18
-2307	890432589	Paniqui		locality	1
+2303	890416079	Camiling		locality	5
+2304	421186155	San Jose		locality	1
+2305	890434001	San Clemente		locality	1
+2306	890416079	Camiling		locality	15
+2306	421168915	Tarlac City		locality	1
+2307	890432589	Paniqui		locality	54
 2307	421168915	Tarlac City		locality	1
 2308	421168915	Tarlac City		locality	1
-2313	890442941	Victoria		locality	7
-2314	890437045	La Paz		locality	3
-2315	421178761	Capas		locality	4
-2316	890438365	Concepcion		locality	7
+2310	1209315433	Poblacion		locality	5
+2310	890428711	San Juan		locality	4
+2311	421168915	Tarlac City		locality	1
+2313	421168915	Tarlac City		locality	14
+2313	890442941	Victoria		locality	5
+2314	421168915	Tarlac City		locality	12
+2314	890437045	La Paz		locality	6
+2314	1293498957	Caramutan		locality	1
+2314	1226443771	Guevarra		locality	1
+2314	890453145	Lomboy		locality	1
+2314	890432275	Matayumtayum		locality	1
+2315	421178761	Capas		locality	35
+2316	890430519	Concepción		locality	65
 2316	421168915	Tarlac City		locality	2
 2316	421178761	Capas		locality	1
-2317	1125848981	Bamban		locality	2
+2316	1310107057	Concepcion		locality	1
+2317	1125848981	Bamban		locality	24
+2318	421186155	San Jose		locality	27
 2327	421168915	Tarlac City		locality	1
-2400	421195251	Dagupan		locality	20
+2400	421195251	Dagupan		locality	48
 2401	890438615	Lingayen		locality	9
-2402	890438161	Labrador		locality	8
-2403	890441355	Pangascasan		locality	8
-2403	890433953	Sual		locality	6
-2404	421203713	Alaminos		locality	99
-2404	890417833	Lucap		locality	16
-2404	1259492469	Alos		locality	8
-2404	1276882297	Tawintawin		locality	7
-2404	421186157	San Jose		locality	6
-2404	1344266101	Amangbangan		locality	5
-2404	890434095	Polo		locality	5
-2404	1243277699	Amandiego		locality	4
-2404	890434439	Bued		locality	4
-2404	1344070763	Dulacac		locality	4
-2404	1310314211	Balayang		locality	3
-2404	1276666797	Quibuar		locality	3
-2404	1276981437	Tangcarang		locality	3
-2404	890442941	Victoria		locality	3
+2402	890438161	Labrador		locality	5
+2403	890441355	Pangascasan		locality	7
+2403	890433953	Sual		locality	5
+2404	421203713	Alaminos		locality	170
+2404	890417833	Lucap		locality	6
+2404	1259492469	Alos		locality	4
 2404	1242586671	Magsaysay		locality	2
-2404	1276995005	Sabangan		locality	2
-2404	1259889047	Bisocol		locality	1
-2404	1310515229	Limmansangan		locality	1
-2404	1327232563	San Juan		locality	1
-2405	1243367051	Poblacion		locality	1
-2406	421200843	Bolinao		locality	13
+2404	890442941	Victoria		locality	2
+2404	890434095	polo		locality	1
+2404	1276995005	Sabangan		locality	1
+2405	890416297	Anda		locality	1
+2406	421200843	Bolinao		locality	14
 2406	1276457237	Patar		locality	1
 2407	1209923385	Bani		locality	1
-2413	890443001	Mangatarem		locality	10
+2410	1242883367	Burgos		locality	1
+2413	890443001	Mangatarem		locality	23
 2414	1125900817	Urbiztondo		locality	1
 2415	890416343	Aguilar		locality	1
-2417	421176911	Binmaley		locality	1
-2418	421192501	Calasiao		locality	100
-2420	1193276909	San Carlos		locality	10
-2421	1125963735	Malasiqui		locality	1
+2417	421176911	Binmaley		locality	3
+2418	421192501	Calasiao		locality	87
+2419	890438583	Santa Barbara		locality	1
+2420	1193276909	San Carlos		locality	9
+2421	1125963735	Malasiqui		locality	2
 2423	890452619	Bayambang		locality	1
 2424	1125965749	Bautista		locality	23
 2427	421192561	Villasis		locality	3
-2428	890432125	Urdaneta		locality	2
+2428	890432125	Urdaneta		locality	6
 2429	890429745	Mapandan		locality	1
-2432	890450989	Mangaldan		locality	2
-2432	421195251	Dagupan		locality	1
+2432	890450989	Mangaldan		locality	3
 2433	890438505	San Fabian		locality	2
-2435	421189459	Pozorrubio		locality	7
-2436	421198981	Binalonan		locality	5
+2435	421189459	Pozorrubio		locality	6
+2436	421198981	Binalonan		locality	6
 2439	890416265	Asingan		locality	1
-2441	890450683	Rosales		locality	17
-2445	890415131	Tayug		locality	3
-2446	890415699	Natividad		locality	1
-2500	890433983	San Fernando		locality	13
+2441	890450683	Rosales		locality	55
+2445	890415131	Tayug		locality	13
+2500	890433983	San Fernando		locality	26
 2501	890429519	Bauang		locality	1
-2502	890416111	Caba		locality	9
-2504	421173547	Agoo		locality	3
+2502	890416111	Caba		locality	5
+2504	421173547	Agoo		locality	8
 2506	890439967	Rosario		locality	4
-2508	890434065	Pugo		locality	1
-2514	890442803	San Juan		locality	5
-2515	890429495	Bacnotan		locality	7
+2508	890434065	Pugo		locality	3
+2511	890443663	Naguilian		locality	16
+2514	890428711	San Juan		locality	9
+2515	890429495	Bacnotan		locality	6
 2515	890433983	San Fernando		locality	1
-2518	890421979	Luna		locality	1
+2519	890432607	Bangar		locality	1
+2520	890433983	San Fernando		locality	1
 2525	890429495	Bacnotan		locality	1
-2600	421192581	Baguio City		locality	413
-2600	421169797	Tuba		locality	5
-2600	890433983	San Fernando		locality	3
+2600	421192581	Baguio City		locality	1204
+2600	421169797	Tuba		locality	4
 2600	421166903	La Trinidad		locality	1
-2601	421166903	La Trinidad		locality	61
-2603	421169797	Tuba		locality	17
-2603	1293101009	Benguet		locality	2
-2605	1293101009	Benguet		locality	1
-2605	1344066043	Poblacion		locality	1
+2600	890433983	San Fernando		locality	1
+2601	421166903	La Trinidad		locality	67
+2603	421169797	Tuba		locality	10
+2603	1293101009	Benguet		locality	1
 2607	1293101009	Benguet		locality	1
-2611	1293101009	Benguet		locality	1
-2611	890433347	Kibungan		locality	1
+2609	890431757	Mankayan		locality	1
 2612	890416257	Atok		locality	3
-2614	1125907377	Sablan		locality	9
-2616	421200845	Bontoc		locality	52
+2614	1125907377	Sablan		locality	8
+2616	421200845	Bontoc		locality	48
 2616	1343244855	Poblacion		locality	4
-2618	421198961	Besao		locality	2
-2619	890432497	Sagada		locality	93
-2625	421181823	Paracelis		locality	23
-2700	421189673	Vigan		locality	11
+2618	421198961	Besao		locality	1
+2619	890432497	Sagada		locality	88
+2625	421181823	Paracelis		locality	5
+2700	421189673	Vigan		locality	10
 2703	890438335	Santa		locality	2
 2704	890442973	Narvacan		locality	3
 2710	1125848191	Candon		locality	4
 2713	421182161	Santa Cruz		locality	1
 2714	1343860489	Alfonso Castaneda		locality	1
 2714	421189321	Tagudin		locality	1
-2715	890431775	Suyo		locality	9
+2715	890431775	Suyo		locality	1
 2724	421172495	Burgos		locality	1
-2732	1125848443	Cabugao		locality	1
-2800	421204703	Bangued		locality	32
+2732	1125848443	Cabugao		locality	2
+2800	421204703	Bangued		locality	33
 2804	1276627489	Penarrubia		locality	1
-2900	1141909201	Laoag		locality	5
+2900	1141909201	Laoag		locality	7
+2900	421189445	Laoag City		locality	2
 2903	421169529	Currimao		locality	1
-2906	890454059	Batac		locality	5
-2914	890443933	Sarrat		locality	3
+2906	890454059	Batac		locality	28
+2914	890443933	Sarrat		locality	7
 2915	890432497	Sagada		locality	4
 2915	421200079	Vintar		locality	3
-2916	890452673	Bacarra		locality	10
-2919	890434155	Pagudpud		locality	8
+2916	890452673	Bacarra		locality	13
+2917	421189457	Pasuquin		locality	1
+2919	890434155	Pagudpud		locality	11
 2920	890432591	Bangui		locality	2
-3000	421200227	Malolos		locality	127
+3000	421200227	Malolos		locality	139
+3001	421187699	Paombong		locality	3
 3002	1125986349	Hagonoy		locality	3
+3002	1243374869	San Agustin		locality	1
+3003	421180341	Calumpit		locality	15
 3003	421185743	Bulakan		locality	2
-3004	421178669	Plaridel		locality	4
-3005	421201145	Pulilan		locality	3
-3006	421201607	Baliuag		locality	25
+3004	421178669	Plaridel		locality	7
+3005	421201145	Pulilan		locality	6
+3006	421201607	Baliuag		locality	28
+3007	421203791	Bustos		locality	1
 3008	1243364557	Bolacan		locality	4
-3010	1243364557	Bolacan		locality	2
-3011	421193159	San Miguel		locality	8
+3008	421192527	San Rafael		locality	1
+3010	1243364557	Bolacan		locality	1
+3011	421193159	San Miguel		locality	17
 3011	1259690863	Bulacan		locality	3
-3013	890434169	Norzagaray		locality	2
-3013	1243364557	Bolacan		locality	1
+3012	890416295	Angat		locality	3
+3013	890434169	Norzagaray		locality	6
 3014	890441783	Pandi		locality	2
-3015	421180337	Guiguinto		locality	3
-3016	890422067	Balagtas		locality	8
-3017	421185743	Bulakan		locality	2
-3018	421197537	Bocaue		locality	10
-3019	421175073	Marilao		locality	91
-3019	1243364557	Bolacan		locality	47
-3019	1276443347	Patubig		locality	6
-3020	421175489	Meycauayan		locality	129
-3020	1243364557	Bolacan		locality	45
-3020	421185743	Bulakan		locality	1
-3020	1243465757	Iba		locality	1
+3015	421180337	Guiguinto		locality	6
+3016	890422067	Balagtas		locality	13
+3017	421185743	Bulakan		locality	5
+3018	421197537	Bocaue		locality	12
+3019	421175073	Marilao		locality	87
+3019	1243364557	Bolacan		locality	39
+3019	421175489	Meycauayan		locality	1
+3020	421175489	Meycauayan		locality	209
+3020	1243364557	Bolacan		locality	13
 3020	1159397285	Valenzuela		locality	1
 3020	1159397279	National Capital Region		locality	1
 3020	421202675	Obando		locality	1
-3021	421202675	Obando		locality	10
+3021	421202675	Obando		locality	9
+3021	1243364557	Bolacan		locality	1
+3022	1293590497	San Jose		locality	2
+3022	421174397	San Jose del Monte		locality	1
 3022	421184471	Santa Maria		locality	1
-3023	421174397	San Jose del Monte		locality	28
-3023	1243364557	Bolacan		locality	1
-3100	421168927	Cabanatuan City		locality	37
-3105	421192643	Gapan		locality	1
-3107	421200001	Cabiao		locality	1
-3108	890443945	San Antonio		locality	4
-3114	421178645	Talavera		locality	3
-3119	1125847421	Muñoz		locality	1
-3120	1125847421	Muñoz		locality	14
-3121	421186157	San Jose		locality	32
-3123	421182867	Carranglan		locality	1
-3131	1125776047	Gabaldon		locality	2
-3200	890440039	Baler		locality	55
+3023	421174397	San Jose del Monte		locality	35
+3023	1243364557	Bolacan		locality	2
+3023, 3024	421174397	San Jose del Monte		locality	2
+3100	421168927	Cabanatuan City		locality	38
+3100	1159397249	Manila		locality	1
+3105	421192643	Gapan		locality	2
+3107	421200001	Cabiao		locality	3
+3108	890443945	San Antonio		locality	3
+3108	1277025097	Nueva		locality	1
+3110	890450189	Zaragoza		locality	1
+3111	1125849317	Aliaga		locality	2
+3114	421178645	Talavera		locality	4
+3117	890436883	Cuyapo		locality	1
+3118	421169899	Talugtug		locality	1
+3119	1125847421	Muñoz		locality	8
+3119	421178645	Talavera		locality	1
+3120	1125847421	Muñoz		locality	6
+3121	421186157	San Jose		locality	64
+3128	421175829	Bongabon		locality	3
+3130	890434731	Palayan		locality	2
+3131	1125776047	Gabaldon		locality	1
+3200	890440039	Baler		locality	54
 3200	421169891	Aurora		locality	2
 3204	421196417	Casiguran		locality	4
 3204	421169891	Aurora		locality	2
-3205	421186217	Dilasag		locality	3
-3300	421187707	Ilagan		locality	1
-3305	890440033	Cauayan		locality	7
-3306	890438379	Alicia		locality	1
-3309	421178745	Echague		locality	4
-3311	890432129	Santiago		locality	25
+3205	421186217	Dilasag		locality	2
+3300	421187707	Ilagan		locality	4
+3305	890440033	Cauayan		locality	11
+3306	890438379	Alicia		locality	2
+3309	421178745	Echague		locality	1
+3311	890432129	Santiago		locality	36
 3312	1125847961	Cordon		locality	4
+3318	421197537	Bocaue		locality	1
+3319	890434039	Ramon		locality	1
 3320	890432515	Roxas		locality	2
+3323	421198971	Mallig		locality	2
 3324	890434041	Quezon		locality	2
 3325	1125776527	Tumauini		locality	2
 3328	421205233	Cabagan		locality	11
-3400	421198963	Cabarroguis		locality	7
+3400	421198963	Cabarroguis		locality	76
 3400	1310207173	Zamora		locality	1
 3404	421178717	Maddela		locality	1
-3500	421195883	Tuguegarao City		locality	69
+3500	421195883	Tuguegarao City		locality	75
+3500	1209617417	Bagay		locality	1
+3500	1310307137	Pengue		locality	1
 3506	890442489	Alcala		locality	1
 3508	421200809	Gattaran		locality	3
-3509	421200075	Lal-Lo		locality	1
+3509	421200075	Lal-Lo		locality	3
 3511	1125848597	Buguey		locality	2
 3512	890443941	Santa Teresita		locality	1
 3514	421194191	Santa Ana		locality	5
 3515	1125821915	Aparri		locality	1
-3601	890451597	Banaue		locality	14
+3600	890415899	Lagawe		locality	1
+3601	890451597	Banaue		locality	13
 3601	1343244855	Poblacion		locality	1
 3605	1126001991	Lamut		locality	1
 3629	1125793991	Tubigon		locality	1
 3700	421202677	Bayombong		locality	4
 3702	421167971	Bambang		locality	6
-3704	890444147	Aritao		locality	2
 3705	890434985	Santa Fe		locality	4
 3707	1343866135	Dupax del Sur		locality	4
 3709	421177739	Solano		locality	10
-3711	890440041	Bagabag		locality	3
-3712	890415995	Diadi		locality	5
+3711	890440041	Bagabag		locality	4
+3712	890415995	Diadi		locality	8
 3717	890440041	Bagabag		locality	1
-3807	1125847999	Conner		locality	3
+3800	890433947	Tabuk		locality	22
+3800	1242585475	Kalinga		locality	1
+3807	1125847999	Conner		locality	2
 3808	421198967	Liwan		locality	2
-3900	421194029	Basco		locality	4
+3809	421205215	Kabugao		locality	1
+3900	421194029	Basco		locality	5
 3903	421183499	Uyugan		locality	2
-4000	890434725	San Pablo City		locality	2295
+4000	890434725	San Pablo City		locality	2494
 4000	421176909	Alaminos		locality	1
-4001	421176909	Alaminos		locality	82
-4002	421172911	Nagcarlan		locality	20
-4003	421203975	Rizal		locality	13
-4005	421193495	Majayjay		locality	4
-4007	890415835	Magdalena		locality	5
-4008	421193161	Pagsanjan		locality	75
-4009	421179729	Santa Cruz		locality	103
-4010	421175815	Pila		locality	35
-4011	421172887	Victoria		locality	25
-4012	421192673	Calauan		locality	45
+4000	421192673	Calauan		locality	1
+4001	421176909	Alaminos		locality	98
+4001	890434725	San Pablo City		locality	1
+4002	421172911	Nagcarlan		locality	49
+4003	421203975	Rizal		locality	15
+4004	421198781	Liliw		locality	9
+4004	421203975	Rizal		locality	1
+4005	421193495	Majayjay		locality	8
+4007	890415835	Magdalena		locality	9
+4008	421193161	Pagsanjan		locality	61
+4009	421179729	Santa Cruz		locality	70
+4010	421175815	Pila		locality	47
+4011	421172887	Victoria		locality	38
+4011	890450961	Masapang		locality	1
+4012	421192673	Calauan		locality	72
+4013	890431881	Cavinti		locality	14
 4013	421197535	Imus		locality	4
-4013	890431881	Cavinti		locality	3
-4014	421202775	Lumban		locality	35
+4014	421202775	Lumban		locality	33
 4015	890438403	Kalayaan		locality	13
 4015	890416005	Daraga		locality	1
-4016	421193163	Paete		locality	18
-4017	421187703	Pakil		locality	14
-4018	890432597	Pangil		locality	12
-4019	421195051	Siniloan		locality	23
-4020	421175821	Mabitac		locality	5
-4021	890452559	Famy		locality	18
+4016	421193163	Paete		locality	17
+4017	421187703	Pakil		locality	12
+4018	890432597	Pangil		locality	11
+4019	421195051	Siniloan		locality	27
+4020	421175821	Mabitac		locality	4
+4021	890452559	Famy		locality	17
 4021	1209165611	Batuhan		locality	1
-4023	890429513	San Pedro		locality	175
-4023	890440037	Balete		locality	1
+4023	890429513	San Pedro		locality	236
 4023	421180349	Muntinlupa		locality	1
 4023	1209416257	San Vicente		locality	1
-4024	1193198109	Binan		locality	327
-4025	890440477	Cabuyao		locality	59
-4026	421176783	Santa Rosa		locality	183
-4027	421175825	Calamba		locality	392
-4027	1360027883	Calamba City		locality	6
+4024	1193198109	Binan		locality	364
+4025	890440477	Cabuyao		locality	79
+4025	1276805859	Tagaytay		locality	2
+4025	890451017	Mamatid		locality	1
+4026	421176783	Santa Rosa		locality	234
+4027	421175825	Calamba		locality	574
+4027	1360027883	Calamba City		locality	7
 4027	890440477	Cabuyao		locality	1
-4028	421175825	Calamba		locality	21
-4028	890434729	San Mateo		locality	1
-4029	421175825	Calamba		locality	3
-4030	421198779	Los Baños		locality	346
-4031	421198779	Los Baños		locality	822
-4032	421196615	Luisiana		locality	50
-4033	1125848757	Bay		locality	67
-4100	421194091	Cavite City		locality	28
-4102	421182051	Bacoor		locality	593
+4028	421175825	Calamba		locality	30
+4029	421175825	Calamba		locality	8
+4029	1360027883	Calamba City		locality	1
+4030	421198779	Los Baños		locality	394
+4030	1243123465	Maahas		locality	2
+4031	421198779	Los Baños		locality	844
+4032	421196615	Luisiana		locality	65
+4033	1125848757	Bay		locality	116
+4100	421194091	Cavite City		locality	39
+4101	421194091	Cavite City		locality	5
+4102	421182051	Bacoor		locality	666
+4102	421197535	Imus		locality	3
 4102	421167509	Kawit		locality	3
-4102	421197535	Imus		locality	2
-4103	421197535	Imus		locality	7038
-4103	421182051	Bacoor		locality	4
-4104	421167509	Kawit		locality	598
-4104	421177299	General Trias		locality	2
+4103	421197535	Imus		locality	7538
+4103	421182051	Bacoor		locality	5
+4104	421167509	Kawit		locality	626
+4104	421177299	General Trias		locality	4
+4104	421197535	Imus		locality	2
 4104	421178687	Noveleta		locality	2
-4105	421178687	Noveleta		locality	32
-4106	421202379	Rosario		locality	98
+4105	421178687	Noveleta		locality	29
+4106	421202379	Rosario		locality	100
 4106	421177299	General Trias		locality	2
 4106	421194091	Cavite City		locality	1
-4107	421177299	General Trias		locality	712
-4107	421170461	Dasmariñas		locality	17
-4107	421194091	Cavite City		locality	1
+4107	421177299	General Trias		locality	763
+4107	1343599681	Navarro		locality	23
+4107	421170461	Dasmariñas		locality	1
 4107	421202379	Rosario		locality	1
-4108	421183157	Tanza		locality	60
+4108	421183157	Tanza		locality	62
 4108	421194091	Cavite City		locality	5
 4108	890415561	Silang		locality	1
-4109	1326672289	Trece Martires City		locality	54
-4110	890415715	Naic		locality	33
-4111	421193113	Ternate		locality	11
-4112	421202119	Maragondon		locality	6
-4113	421174583	Magallanes		locality	9
-4114	421170461	Dasmariñas		locality	1399
+4109	1326672289	Trece Martires City		locality	67
+4110	890415715	Naic		locality	36
+4111	421193113	Ternate		locality	22
+4112	421202119	Maragondon		locality	25
+4113	421174583	Magallanes		locality	19
+4114	421170461	Dasmariñas		locality	1750
 4114	890444071	Carmona		locality	1
-4115	421170461	Dasmariñas		locality	99
-4116	890444071	Carmona		locality	86
+4115	421170461	Dasmariñas		locality	148
+4116	1193070233	Bancal		locality	1047
 4116	1242729167	General Mariano Alvarez		locality	2
-4117	1242729167	General Mariano Alvarez		locality	32
+4117	1242729167	General Mariano Alvarez		locality	38
 4117	421170461	Dasmariñas		locality	1
-4118	890415561	Silang		locality	283
+4118	890415561	Silang		locality	357
 4118	421194091	Cavite City		locality	5
 4118	1242729167	General Mariano Alvarez		locality	1
-4119	421200013	Amadeo		locality	46
-4120	1276805859	Tagaytay		locality	238
-4121	890434213	Mendez		locality	14
-4122	421167511	Indang		locality	51
+4119	421200013	Amadeo		locality	44
+4120	1276805859	Tagaytay		locality	260
+4120	421182051	Bacoor		locality	1
+4121	890434213	Mendez		locality	17
+4122	421167511	Indang		locality	61
 4122	421202119	Maragondon		locality	1
-4123	890416331	Alfonso		locality	16
+4123	890416331	Alfonso		locality	34
 4123	421182051	Bacoor		locality	1
-4124	421197429	General Emilio Aguinaldo		locality	2
-4126	421170461	Dasmariñas		locality	26
-4200	421169361	Batangas City		locality	209
-4200	421185385	San Jose		locality	1
-4201	421182697	Bauan		locality	20
+4124	421197429	General Emilio Aguinaldo		locality	7
+4126	421170461	Dasmariñas		locality	30
+4200	421169361	Batangas City		locality	612
+4200	421185385	San Jose		locality	2
+4201	421182697	Bauan		locality	73
 4201	421169361	Batangas City		locality	1
-4202	890438213	Mabini		locality	9
+4202	890438213	Mabini		locality	7
 4202	1226380831	Anilao		locality	2
-4204	421191411	San Pascual		locality	2
+4204	421191411	San Pascual		locality	4
 4208	421182199	Taal		locality	5
 4209	421170459	Lemery		locality	5
+4209	421169361	Batangas City		locality	2
+4209	1326868359	Maligaya		locality	1
 4210	421182697	Bauan		locality	1
-4212	890442851	Calaca		locality	1
-4213	890417917	Balayan		locality	5
-4213	421169361	Batangas City		locality	4
-4214	1125776517	Tuy		locality	1
-4215	421179481	Calatagan		locality	9
+4212	890442851	Calaca		locality	2
+4213	890417917	Balayan		locality	8
+4213	421169361	Batangas City		locality	5
+4214	1125776517	Tuy		locality	3
+4215	421179481	Calatagan		locality	11
 4216	421173373	Lian		locality	3
 4216	1125776517	Tuy		locality	2
 4216	1242971961	Batangas II		locality	1
-4217	421202405	Lipa City		locality	173
+4217	421202405	Lipa City		locality	243
 4217	421169361	Batangas City		locality	2
-4218	421202405	Lipa City		locality	7
-4218	421185385	San Jose		locality	7
-4219	890416213	Balete		locality	2
-4220	890442943	Talisay		locality	22
+04217	421202405	Lipa City		locality	1
+4218	421202405	Lipa City		locality	10
+4218	421185385	San Jose		locality	8
+4219	890416213	Balete		locality	7
+4220	890442943	Talisay		locality	26
 4220	421169361	Batangas City		locality	3
 4220	421174725	Tanauan		locality	3
 4221	890451151	Laurel		locality	1
-4222	421189437	Cuenca		locality	9
-4223	421176251	Mataasnakahoy		locality	1
-4224	421166437	Padre Garcia		locality	7
-4225	421187043	Rosario		locality	12
-4226	1125898499	San Juan		locality	28
+4222	421189437	Cuenca		locality	11
+4223	421176251	Mataasnakahoy		locality	10
+4223	421202405	Lipa City		locality	1
+4224	421166437	Padre Garcia		locality	12
+4224	1193066169	Bawi		locality	5
+4225	421187043	Rosario		locality	23
+4225	421169361	Batangas City		locality	2
+4226	421182457	San Juan		locality	33
+4226	1125898499	San Juan		locality	12
 4226	421169361	Batangas City		locality	5
 4226	421188285	Nasugbu		locality	1
-4227	421185385	San Jose		locality	2
-4228	421196641	Taysan		locality	1
-4230	890431829	Ibaan		locality	5
-4231	421188285	Nasugbu		locality	27
-4232	421174725	Tanauan		locality	100
+4227	421185385	San Jose		locality	4
+4228	421196641	Taysan		locality	2
+4229	890436803	Lobo		locality	1
+4230	890431829	Ibaan		locality	6
+4231	421188285	Nasugbu		locality	34
+4232	421174725	Tanauan		locality	116
 4232	421169361	Batangas City		locality	2
-4233	421178705	Malvar		locality	20
+4233	421178705	Malvar		locality	19
 4233	421169361	Batangas City		locality	1
-4234	421197925	Santo Tomas		locality	254
+4234	421197925	Santo Tomas		locality	269
 4234	1326681105	Anastacia		locality	1
-4302	890434157	Pagbilao		locality	8
-4303	890434167	Padre Burgos		locality	15
-4303	1226684589	Quezon		locality	6
-4303	1209352901	Burgos		locality	3
-4303	1276604485	Rizal		locality	1
+4302	890434157	Pagbilao		locality	10
+4303	890434167	Padre Burgos		locality	18
+4303	1226684589	Quezon		locality	3
 4303	1276272597	Basiao		locality	1
+4305	421170733	Unisan		locality	2
 4306	421197427	Gumaca		locality	5
-4307	421197427	Gumaca		locality	14
-4308	421175813	Pitogo		locality	1
+4307	421197427	Gumaca		locality	15
+4308	421175813	Pitogo		locality	6
 4311	421172903	Catanauan		locality	17
-4311	1226684589	Quezon		locality	1
-4316	421204717	Lopez		locality	21
-4318	890416091	Calauag		locality	10
-4321	421172889	Tagkawayan		locality	4
+4312	1125791179	Mulanay		locality	1
+4316	421204717	Lopez		locality	24
+4318	890416091	Calauag		locality	9
+4321	421172889	Tagkawayan		locality	12
 4321	421169897	Quezon		locality	2
-4322	421200761	Sariaya		locality	33
-4323	890416069	Candelaria		locality	91
+4322	421200761	Sariaya		locality	82
+4323	890416069	Candelaria		locality	47
 4323	890441807	Dolores		locality	2
 4323	1226684589	Quezon		locality	1
-4324	421169893	San Antonio		locality	4
-4325	890421891	Tiaong		locality	75
+4324	421169893	San Antonio		locality	3
+4325	890421891	Tiaong		locality	111
 4325	1141907271	Quezon City		locality	1
-4326	890441807	Dolores		locality	38
-4327	421197517	Tayabas		locality	37
-4328	421172913	Lucban		locality	65
+4326	890441807	Dolores		locality	29
+4327	421197517	Tayabas		locality	59
+4328	421172913	Lucban		locality	66
 4329	890432707	Sampaloc		locality	9
 4331	1125881425	Atimonan		locality	4
+4331	1226684589	Quezon		locality	1
 4335	421204753	Real		locality	6
 4336	890431303	Infanta		locality	1
-4339	1125907507	Polillo		locality	2
-4342	1259694149	Jomalig		locality	18
-4400	421204391	Naga		locality	46
+4338	1159397279	National Capital Region		locality	2
+4339	1125907507	Polillo		locality	3
+4339	1209457373	Poblacion		locality	1
+4342	1259694149	Jomalig		locality	17
+4344	890433177	Nabua		locality	3
+4400	421204391	Naga		locality	48
 4401	890453501	Camaligan		locality	6
 4408	890450421	Sipocot		locality	3
 4409	890417825	Lupi		locality	1
 4410	890450699	Ragay		locality	1
+4411	1125965561	Del Gallego		locality	1
 4413	421205221	Milaor		locality	1
 4416	890434145	Pamplona		locality	2
-4418	890430505	Pili		locality	5
+4418	890430505	Pili		locality	8
+4421	890450677	Sagñay		locality	1
+4422	421166807	Goa		locality	1
 4428	890431841	Garchitorena		locality	2
-4429	890453487	Caramoan		locality	28
-4430	1125939315	Bula		locality	7
+4429	890453487	Caramoan		locality	25
+4430	1125939315	Bula		locality	12
 4431	890429775	Iriga		locality	10
-4434	890433177	Nabua		locality	14
+4432	1125849131	Baao		locality	33
+4433	890444119	Buhi		locality	2
+4434	890433177	Nabua		locality	222
+4434	1193141725	Cagas		locality	1
 4435	890452621	Bato		locality	2
-4436	890416221	Balatan		locality	23
-4500	1141908547	Legazpi		locality	20
-4500	890442823	Legaspi City		locality	7
+4436	890416221	Balatan		locality	19
+4500	1141908547	Legazpi		locality	25
+4500	890442823	Legaspi City		locality	19
+4500	1226041253	Legaspi Port		locality	2
 4500	890416005	Daraga		locality	1
-4500	1226041253	Legaspi Port		locality	1
 4501	421189669	Daraga		locality	8
 4501	1343962703	Poblacion		locality	4
-4503	890444029	Guinobatan		locality	3
-4504	890452491	Ligao		locality	6
-4504	421196325	Oas		locality	5
+4501	1125848967	Banag		locality	2
+4501	890442823	Legaspi City		locality	1
+4503	890444029	Guinobatan		locality	4
+4504	890452491	Ligao		locality	8
+4504	421196325	Oas		locality	3
 4505	421196325	Oas		locality	1
-4506	890436853	Polangui		locality	4
-4507	1125939181	Libon		locality	4
-4508	890432093	Santo Domingo		locality	1
-4509	890437825	Bacacay		locality	3
+4506	890436853	Polangui		locality	6
+4507	1125939181	Libon		locality	2
+4508	1243165087	Santo Domingo		locality	1
+4509	890437825	Bacacay		locality	1
 4510	890415817	Malilipot		locality	1
-4511	421191869	Tabaco		locality	93
+4511	421191869	Tabaco		locality	73
 4513	890441417	Tiwi		locality	3
-4600	421189439	Daet		locality	183
+4517	421182737	Rapu-Rapu		locality	2
+4600	421189439	Daet		locality	198
 4601	890434207	Mercedes		locality	3
-4602	890431511	Talisay		locality	4
-4604	890443057	Labo		locality	2
+4602	890431511	Talisay		locality	2
+4604	890443057	Labo		locality	20
 4605	890452403	Paracale		locality	1
-4607	890434421	Capalonga		locality	1
-4700	890425747	Sorsogon City		locality	17
+4608	890454061	Basud		locality	3
+4700	890425747	Sorsogon City		locality	32
 4701	890425747	Sorsogon City		locality	1
 4702	890416041	Casiguran		locality	1
 4703	890451249	Juban		locality	1
-4705	890451061	Magallanes		locality	2
+4705	890451061	Magallanes		locality	1
 4706	890432471	Bulan		locality	1
-4707	421184267	Irosin		locality	1
+4707	421184267	Irosin		locality	3
 4708	421173375	Matnog		locality	5
-4715	421189883	Donsol		locality	15
-4715	1209909279	Dancalan		locality	1
-4800	890430449	Virac		locality	2
-4805	890450209	Viga		locality	1
-4810	890431639	San Andres		locality	1
+4715	421189883	Donsol		locality	14
+4715	890422021	Dangcalan		locality	1
+4800	890430449	Virac		locality	5
+4801	890443091	Bato		locality	12
+4806	1125867241	Panganiban		locality	12
+4808	421196619	Caramoran		locality	2
+4809	890434135	Pandan		locality	2
+4810	890431639	San Andrés		locality	1
 4811	1159397263	Marikina		locality	2
-4904	890453167	Buenavista		locality	3
+4904	890453167	Buenavista		locality	2
 4905	890444031	Gasan		locality	3
-5000	421168539	Iloilo City		locality	117
+5000	421168539	Iloilo City		locality	126
 5000	1226040051	Jaro		locality	3
-5000	1276465505	Mandurriao		locality	2
+5000	1276465505	Mandurriao		locality	1
 5000	1243255583	Molo		locality	1
 5000	890430467	San Joaquin		locality	1
-5001	421193603	Pavia		locality	1
+5001	421193603	Pavia		locality	2
 5002	421198599	Santa Barbara		locality	8
 5002	421168539	Iloilo City		locality	1
+5004	890450187	Zarraga		locality	28
+5008	421168539	Iloilo City		locality	1
 5008	890430497	Pototan		locality	1
-5017	890415973	Estancia		locality	3
+5017	890415973	Estancia		locality	4
 5018	421168539	Iloilo City		locality	1
-5019	890438683	Carles		locality	9
-5022	421168539	Iloilo City		locality	15
+5019	890438683	Carles		locality	10
+5020	890452421	Oton		locality	4
+5022	421168539	Iloilo City		locality	8
 5023	421179855	Miagao		locality	2
 5027	1310226649	Tubungan		locality	3
 5033	1210013887	Badiangan		locality	1
-5036	421168539	Iloilo City		locality	2
+5034	890444023	Janiuay		locality	3
+5036	421168539	Iloilo City		locality	1
 5037	421185455	Passi		locality	10
 5041	421168539	Iloilo City		locality	1
 5045	421191697	Jordan		locality	7
-5100	1276794677	Napsan		locality	1
+5100	421203973	Puerto Princesa City		locality	1
 5100	421179735	San Jose		locality	1
-5102	421205231	Calintaan		locality	1
 5103	890431759	Mamburao		locality	1
-5104	421175811	Sablayan		locality	38
+5104	421175811	Sablayan		locality	39
 5106	890431759	Mamburao		locality	7
-5200	421203795	Calapan		locality	1
-5202	421201441	San Teodoro		locality	23
+5200	421203795	Calapan		locality	5
+5202	421201441	San Teodoro		locality	14
 5203	890434067	Puerto Galera		locality	4
 5204	421196419	Naujan		locality	5
-5208	890434103	Pinamalayan		locality	86
-5300	421203973	Puerto Princesa City		locality	17
+5205	890417899	Victoria		locality	1
+5207	890415523	Socorro		locality	3
+5208	890434103	Pinamalayan		locality	87
+5300	421203973	Puerto Princesa City		locality	25
+5301	421203973	Puerto Princesa City		locality	1
+5302	890451577	Plaridel		locality	1
 5303	890431727	Narra		locality	2
-5305	1243004029	Brookes Point		locality	3
-5307	890444135	Balabac		locality	9
-5309	421174711	Port Barton		locality	2
-5313	421182289	El Nido		locality	19
-5316	890453483	Coron		locality	22
-5400	890442983	Masbate		locality	32
+5304	1243000987	Jose Rizal		locality	1
+5305	1243004029	Brookes Point		locality	10
+5307	890444135	Balabac		locality	11
+5309	421174711	Port Barton		locality	1
+5313	421182289	El Nido		locality	21
+5316	890453483	Coron		locality	20
+5317	1293028977	New Busuanga		locality	1
+5400	890442983	Masbate		locality	35
 5401	890423727	Brgy. Mobo, Kalibo		locality	6
+5404	890421955	Palanas		locality	1
 5409	1210021013	Cawayan		locality	1
 5410	890435933	Milagros		locality	2
 5417	890455211	San Jacinto		locality	2
-5505	890452429	Odiongan		locality	4
+5500	890432545	Romblon		locality	5
+5505	890452429	Odiongan		locality	5
 5507	890417851	Looc		locality	2
 5509	1293586521	Alcantara		locality	1
-5510	890442319	San Jose		locality	20
+5510	890442319	San Jose		locality	19
 5600	421187653	Kalibo		locality	12
-5604	421194239	Numancia		locality	1
-5608	421177155	Malay		locality	12
-5608	890434495	Balabag		locality	1
+5604	421194239	Numancia		locality	5
+5608	421177155	Malay		locality	13
+5608	890434495	Balabag		locality	2
 5608	890437289	Boracay Island		locality	1
+5614	890440037	Balete		locality	5
 5700	421195411	San Jose de Buenavista		locality	8
-5701	421178777	Belison		locality	3
+5701	421178777	Belison		locality	1
 5705	421186445	Laua-an		locality	1
 5711	421180333	Caluya		locality	1
+5716	421182863	Tobias Fornier		locality	1
 5717	1243451631	Poblacion		locality	2
-5800	421168917	Roxas		locality	22
-5801	421203031	Panay		locality	5
-5808	890415937	Jamindan		locality	13
+5800	421168917	Roxas		locality	26
+5801	421203031	Panay		locality	6
+5808	890415937	Jamindan		locality	14
 5812	421200419	Dumarao		locality	1
-5815	890450841	Panitan		locality	9
-6000	421175823	City of Cebu		locality	257
+5815	890450841	Panitan		locality	8
+6000	421175823	City of Cebu		locality	281
 6000	890415691	Guadalupe		locality	1
+6000	1343555529	Labangon		locality	1
+6000	1209409187	Pardo		locality	1
+6000	1226227861	Central		locality	1
 6000	1193003979	Zapatera		locality	1
-6001	421193847	Consolacion		locality	48
+6001	421193847	Consolacion		locality	109
+6001	421175823	City of Cebu		locality	2
 6002	421179733	Liloan		locality	5
+6002	421175823	City of Cebu		locality	1
 6003	1125795455	Compostela		locality	3
-6004	421199979	Danao		locality	1
+6004	421199979	Danao		locality	9
 6005	1226030549	Dauis		locality	1
-6009	890450309	Tarangnan		locality	5
-6010	421194751	Bogo		locality	5
-6010	421175823	City of Cebu		locality	1
+6009	890450309	Tarangnan		locality	1
+6010	421194751	Bogo		locality	8
+6010	421175823	City of Cebu		locality	2
 6012	421168339	Medellin		locality	1
+6013	890417857	Daanbantayan		locality	3
 6013	890453149	Logon		locality	3
-6013	890417857	Daanbantayan		locality	2
-6014	421178075	Mandaue		locality	120
-6014	421175823	City of Cebu		locality	2
+6014	421178075	Mandaue		locality	99
+6014	421175823	City of Cebu		locality	3
 6014	1310199313	Paknaan		locality	2
-6015	421166851	Lapu-Lapu City		locality	36
-6015	421175823	City of Cebu		locality	3
+6015	421166851	Lapu-Lapu City		locality	42
+6015	421175823	City of Cebu		locality	5
+6016	421166851	Lapu-Lapu City		locality	1
 6017	421175487	Cordova		locality	1
-6018	421175823	City of Cebu		locality	1
-6019	890451397	Carcar		locality	6
-6020	890417903	Sibonga		locality	5
+6019	890451397	Carcar		locality	5
+6020	890417903	Sibonga		locality	4
 6021	890431973	Argao		locality	3
-6022	890453161	Dalaguete		locality	2
+6022	890453161	Dalaguete		locality	3
 6022	421175823	City of Cebu		locality	1
-6024	890438347	Boljoon		locality	18
+6024	890438347	Boljoon		locality	17
 6024	421175823	City of Cebu		locality	2
 6025	890450897	Oslob		locality	1
 6025	1260176155	Tan-awan		locality	1
-6032	421175485	Moalboal		locality	7
+6030	1293585887	Alegria		locality	1
+6032	421175485	Moalboal		locality	9
 6032	1125848883	Basdiot		locality	1
+6033	421174553	Alcantara		locality	1
 6034	421205251	Ronda		locality	1
 6035	421194111	Dumanjug		locality	1
 6037	421178695	Naga		locality	1
-6038	890433771	Toledo City		locality	4
+6038	890433771	Toledo City		locality	7
+6043	421192759	Tuburan		locality	4
 6043	890453483	Coron		locality	1
-6045	421174857	Talisay		locality	3
+6045	421174857	Talisay		locality	14
 6045	421175823	City of Cebu		locality	1
+6046	421179731	Minglanilla		locality	4
 6046	421175823	City of Cebu		locality	2
-6046	421179731	Minglanilla		locality	1
-6047	890417909	Santa Fe		locality	2
+6047	890417909	Santa Fe		locality	4
+6047	421179731	Minglanilla		locality	1
 6047	1260385637	Northern Poblacion		locality	1
-6048	1293510041	Pilar		locality	1
+6048	1293510041	Pilar		locality	2
 6052	421180541	Bantayan		locality	1
 6052	421175823	City of Cebu		locality	1
-6100	1125855389	Bacolod City		locality	35
-6101	421186679	Bago		locality	1
+6100	1125855389	Bacolod City		locality	316
+6101	421186679	Bago		locality	3
+6102	890430495	Pulupandan		locality	1
 6107	421193537	Binalbagan		locality	1
 6108	1310331361	Pasay		locality	5
-6111	421198595	Kabankalan		locality	3
-6114	1209944429	Jinoba-an		locality	2
-6115	421202127	Talisay City		locality	3
-6116	421174817	Silay		locality	1
-6119	421191581	Victorias City		locality	2
-6121	1209643367	Cadiz		locality	2
-6122	1277107511	New Sagay		locality	2
+6111	421198595	Kabankalan		locality	14
+6112	421172861	Cauayan		locality	6
+6114	1209944429	Jinoba-an		locality	1
+6115	421202127	Talisay City		locality	211
+6116	421174817	Silay		locality	23
+6118	421178743	Enrique B. Magalona		locality	2
+6119	421191581	Victorias City		locality	66
+6121	1209643367	Cadiz		locality	3
+6122	890440465	Sagay		locality	4
+6124	890451329	Escalante		locality	2
 6125	421174313	Toboso		locality	1
-6127	421196227	San Carlos City		locality	4
-6127	890437307	San Carlos		locality	1
-6130	421182057	La Carlota		locality	1
-6200	421193993	Dumaguete City		locality	47
-6201	421198597	Sibulan		locality	4
+6127	890437307	San Carlos		locality	11
+6130	421182057	La Carlota		locality	2
+6200	421193993	Dumaguete City		locality	61
+6201	421198597	Sibulan		locality	9
+6202	890440021	San Jose		locality	1
+6204	890452385	Tanjay		locality	2
 6205	421182013	Pamplona		locality	13
-6214	421180733	Guihulngan		locality	1
+6211	890440019	Tayasan		locality	96
+6214	421180733	Guihulngan		locality	2
+6215	421198597	Sibulan		locality	1
 6215	890443613	Valencia		locality	1
 6217	1125776613	Dauin		locality	1
-6218	890450191	Zamboanguita		locality	7
-6220	421178655	Santa Catalina		locality	1
-6221	421176913	Bayawan		locality	7
+6218	890450191	Zamboanguita		locality	8
+6219	1125881081	Siaton		locality	1
+6221	421176913	Bayawan		locality	9
 6223	421204427	Canlaon		locality	1
-6225	890415533	Siquijor		locality	1
-6227	890437585	San Juan		locality	3
-6300	421178649	Tagbilaran City		locality	61
-6301	421196343	Baclayon		locality	37
+6225	890415533	Siquijor		locality	2
+6227	890437585	San Juan		locality	5
+6300	421178649	Tagbilaran City		locality	63
+6301	421196343	Baclayon		locality	36
 6301	421178649	Tagbilaran City		locality	1
-6302	421183493	Alburquerque		locality	11
-6303	421196209	Loay		locality	18
+6302	421183493	Alburquerque		locality	12
+6303	421196209	Loay		locality	17
 6306	890424183	Valencia		locality	1
 6308	890440027	Jagna		locality	2
+6310	1226428247	Bool		locality	1
 6312	1226428247	Bool		locality	2
 6312	421174299	Candijay		locality	1
 6315	1125793991	Tubigon		locality	1
 6316	421173363	Loboc		locality	14
 6319	421167523	Carmen		locality	1
+6323	1226428247	Bool		locality	2
 6327	1125860989	Loon		locality	3
 6328	890444087	Calape		locality	5
 6329	1125793991	Tubigon		locality	5
+6329	1293386693	Cawayanan		locality	1
 6336	421198783	Maribojoc		locality	1
 6338	421171031	Sikatuna		locality	1
-6340	421194539	Panglao		locality	9
+6339	421202113	Dauis		locality	1
+6340	421194539	Panglao		locality	10
 6340	1226428247	Bool		locality	4
 6340	890431535	Tawala		locality	3
 6340	890443387	Danao		locality	1
 6342	890451417	Balilihan		locality	1
-6400	421189423	Catarman		locality	7
+6345	421205375	San Isidro		locality	2
+6400	421189423	Catarman		locality	6
+6401	421198977	Bobon		locality	1
+6402	890442807	San Jose		locality	1
+6404	890451149	Lavezares		locality	1
+6405	890416317	Allen		locality	2
 6406	890437915	Victoria		locality	1
+6411	890415893	Laoang		locality	3
 6412	890429747	Mapanas		locality	10
 6413	890443969	Pambujan		locality	1
+6415	421193765	San Roque		locality	1
+6417	421182021	Mondragon		locality	1
 6421	890421951	Palapag		locality	1
-6500	421189465	Tacloban City		locality	192
+6500	421189465	Tacloban City		locality	198
 06500	421189465	Tacloban City		locality	1
 6500	421184269	Leyte		locality	1
-6501	890432221	Palo		locality	12
+6501	890432221	Palo		locality	19
 6501	421184269	Leyte		locality	6
-6502	421197923	Tanauan		locality	3
+6502	421197923	Tanauan		locality	5
 6502	890422193	Dulag		locality	2
-6503	421176095	Tolosa		locality	1
+6503	421176095	Tolosa		locality	11
 6505	890422193	Dulag		locality	4
-6506	890452573	Burauen		locality	1
+6505	421176095	Tolosa		locality	1
 6506	1260385637	Northern Poblacion		locality	1
 6507	421170353	Mayorga		locality	1
-6509	1293873593	Tarrogona		locality	2
+6509	1293873593	Tarrogona		locality	1
 6510	890452703	Abuyog		locality	17
-6510	890422045	Baybay		locality	1
-6511	421184269	Leyte		locality	8
+6511	421184269	Leyte		locality	2
 6512	890434255	Mahaplag		locality	1
-6515	1125986459	Dagami		locality	1
-6516	890452573	Burauen		locality	9
-6516	1260385637	Northern Poblacion		locality	1
-6517	890433193	Alangalang		locality	4
+6515	1125986459	Dagami		locality	2
+6516	890452573	Burauen		locality	8
+6517	890433193	Alangalang		locality	3
 6519	421184269	Leyte		locality	2
 6519	890416189	Barugo		locality	1
-6521	890422045	Baybay		locality	18
+6521	890422045	Baybay		locality	23
 6521-A	890422045	Baybay		locality	3
-6522	421197209	Inopacan		locality	1
-6523	890434345	Hindang		locality	7
-6524	421204739	Hilongos		locality	4
-6525	421175099	Bato		locality	13
-6526	421193497	Matalom		locality	9
+6522	421197209	Inopacan		locality	5
+6523	890434345	Hindang		locality	5
+6524	421204739	Hilongos		locality	49
+6525	421175099	Bato		locality	24
+6526	421193497	Matalom		locality	8
 6527	1125965507	Jaro		locality	1
-6529	421193535	Carigara		locality	2
-6530	421182065	Capoocan		locality	1
+6529	421193535	Carigara		locality	447
 6530	421184269	Leyte		locality	1
 6531	421178727	Kananya		locality	1
-6535	421205375	San Isidro		locality	2
-6536	421205141	Tabango		locality	2
+6535	421175237	Tomas Oppus		locality	2
+6536	421205141	Tabango		locality	1
 6537	890453995	Villaba		locality	7
-6538	890430511	Palompon		locality	5
-6539	890415943	Isabel		locality	1
+6538	890430511	Palompon		locality	6
+6539	890415943	Isabel		locality	2
 6540	421178703	Merida		locality	6
 6540	421204389	Ormoc City		locality	4
-6541	421204389	Ormoc City		locality	3
+6541	421204389	Ormoc City		locality	19
 6542	890437739	Albuera		locality	1
 6542	421204389	Ormoc City		locality	1
-6543	421189453	Naval		locality	20
+6543	421189453	Naval		locality	32
 6548	421182463	Biliran		locality	1
 6548	890431901	Caibiran		locality	1
-6549	421182463	Biliran		locality	6
-6600	890415849	Maasin		locality	19
-6601	890415845	Macrohon		locality	4
+6549	421182463	Biliran		locality	5
+6600	890415849	Maasin		locality	52
+6601	890415845	Macrohon		locality	8
 6602	1327418521	Padre Burgos		locality	1
+6604	421178983	Maasin		locality	11
 6604	1343848067	Bontoc		locality	1
-6605	421175237	Tomas Oppus		locality	1
-6606	421167809	Sogod		locality	3
+6606	421167809	Sogod		locality	15
+6607	890415563	Silago		locality	10
 6618	1242992617	Limasawa		locality	1
 6700	421197437	Catbalogan		locality	30
 6702	421205219	Motiong		locality	1
-6704	890450309	Tarangnan		locality	1
-6705	1242859137	Pagsanghan		locality	15
-6706	1125986379	Gandara		locality	24
+6703	890421863	Villareal		locality	3
+6704	890450309	Tarangnan		locality	2
+6705	1242859137	Pagsanghan		locality	9
+6706	1125986379	Gandara		locality	72
 6706	1276425665	Taanao		locality	2
 6706	1260375405	Casabahan		locality	1
 6707	1260385637	Northern Poblacion		locality	6
 6707	421194469	La Paz		locality	1
 6707	890415885	Lapaz		locality	1
-6709	421179819	Calbayog City		locality	12
-6709	421199971	Santa Margarita		locality	3
-6710	421179819	Calbayog City		locality	82
+6709	421179819	Calbayog City		locality	11
+6709	421199971	Santa Margarita		locality	2
+6710	421179819	Calbayog City		locality	94
+6715	421172863	Calbiga		locality	1
 6717	890421863	Villareal		locality	1
-6718	421199971	Santa Margarita		locality	1
-6721	421195245	Marabut		locality	8
+6718	421183225	Santa Rita		locality	1
+6720	421204701	Basey		locality	4
+6721	421195245	Marabut		locality	6
 6722	1125847911	Daram		locality	1
 6725	1242859127	Zumarraga		locality	1
-6796	1159397257	Makati		locality	1
-6800	421200599	Borongan		locality	12
-6801	421182725	Balangkayan		locality	1
+6796	1159397257	Makati		locality	2
+6800	421200599	Borongan		locality	18
+6801	421182725	Balangkayan		locality	2
+6802	421205129	Maydolong		locality	1
 6803	421178721	Llorente		locality	2
-6808	1193008161	Mercedes		locality	6
+6804	421178089	Hernani		locality	1
+6805	421177259	General MacArthur		locality	1
+6806	421183525	Can-avid		locality	1
+6808	1193008161	Mercedes		locality	3
 6809	890431517	Guiuan		locality	1
-6811	1125847821	Giporlos		locality	2
-6813	1242864183	Lawa-an		locality	6
+6810	421183383	Quinapondan		locality	1
+6811	1125847821	Giporlos		locality	1
+6813	1242864183	Lawa-an		locality	2
+6815	421178651	Sulat		locality	1
 6816	890433941	Taft		locality	1
 6817	421197433	Dolores		locality	1
 6819	421194471	Jipapad		locality	1
-7000	890429511	Zamboanga City		locality	225
+7000	890429511	Zamboanga City		locality	262
+7003	421199881	Titay		locality	1
+7007	421198259	Imelda		locality	1
+7008	890434113	Payao		locality	3
 7009	421178767	Buug		locality	2
 7014	890434279	Rancheria Payau		locality	2
-7016	890440023	Pagadian		locality	8
-7060	890440023	Pagadian		locality	1
-7100	421178749	Dipolog City		locality	7
-7101	421176737	Dapitan		locality	1
+7016	890440023	Pagadian		locality	28
+7017	1125821723	Labangan		locality	6
+7020	421168073	Aurora		locality	1
+7021	890440023	Pagadian		locality	2
+7023	421167497	Molave		locality	2
+7028	890434373	Dumingag		locality	3
+7040	890451439	Alicia		locality	1
+7100	421178749	Dipolog City		locality	14
+7101	421176737	Dapitan		locality	8
+7108	421203637	Sergio Osmeña Sr.		locality	6
 7109	421196421	Katipunan		locality	3
-7112	421203633	Sindangan		locality	6
-7117	421195249	Labason		locality	2
-7200	890415679	Ozamiz		locality	2
-7207	890452427	Oroquieta		locality	1
+7112	421203633	Sindangan		locality	5
+7117	421195249	Labason		locality	1
+07150	1159397251	Las Pinas		locality	9
+7150	1159397251	Las Pinas		locality	2
+7200	890415679	Ozamiz		locality	16
+7202	421183505	Tudela		locality	3
+7207	890452427	Oroquieta		locality	7
 7209	421174713	Plaridel		locality	1
+7214	421174723	Tangub		locality	4
+7215	1360163125	Bonifacio		locality	11
+7302	890421991	Lamitan		locality	6
 7303	890451023	Maluso		locality	1
-7400	890451257	Jolo		locality	2
-7500	890438345	Bongao		locality	37
+7304	890433777	Tipo-Tipo		locality	8
+7400	890451257	Jolo		locality	4
+7500	890438345	Bongao		locality	36
 7500	890452655	Panglima Sugala		locality	1
 7500	1243246867	Sibutu		locality	1
 7501	890452655	Panglima Sugala		locality	2
+7505	890415543	Simunul		locality	1
 7506	890450417	Venice of the Philippines		locality	1
-8000	421168921	Davao City		locality	331
+7507	890433935	Turtle Islands		locality	3
+7876	1141907271	Quezon City		locality	1
+8000	421168921	Davao City		locality	810
 8000	1226422849	Cabantian		locality	1
+8001	421177703	Santa Cruz		locality	61
 8001	890433169	Nabunturan		locality	2
-8001	421177703	Santa Cruz		locality	2
-8001	1276421015	Santa Cruz		locality	2
-8002	890434385	Digos		locality	6
-8003	1343835407	Sinaragan		locality	1
-8005	890433035	Bansalan		locality	1
-8006	1125986361	Hagonoy		locality	1
-8012	421174475	Malita		locality	1
-8016	421168921	Davao City		locality	11
-8024	421168921	Davao City		locality	1
-8100	1141907279	Tagum		locality	14
-8104	890434173	New Corella		locality	4
-8105	421187701	Panabo		locality	2
-8113	890443879	Kapalong		locality	1
-8119	421187677	Samal		locality	13
-8200	890434733	Mati		locality	1
+8001	1276421015	Santa Cruz		locality	1
+8002	890434385	Digos		locality	176
+8003	421173365	Matanao		locality	44
+8004	890415823	Magsaysay		locality	28
+8005	890433035	Bansalan		locality	35
+8005	421187701	Panabo		locality	3
+8006	1125986361	Hagonoy		locality	26
+8007	890443975	Padada		locality	18
+8008	890433357	Kiblawan		locality	31
+8009	890450383	Sulop		locality	29
+8010	890434253	Malalag		locality	19
+8012	421174475	Malita		locality	62
+8013	890451367	Don Marcelino		locality	24
+8015	890422167	Sarangani		locality	20
+8016	421168921	Davao City		locality	10
+8018	421168921	Davao City		locality	3
+8022	421168921	Davao City		locality	2
+8023	421168921	Davao City		locality	4
+8100	1141907279	Tagum		locality	50
+8101	890438677	Carmen		locality	27
+8102	421173107	Asuncion		locality	9
+8104	890434173	New Corella		locality	6
+8105	421187701	Panabo		locality	123
+8112	421200213	Santo Tomas		locality	35
+8112	1344035019	Santo Tomas		locality	1
+8113	890443879	Kapalong		locality	3
+8118	890416019	Cogon		locality	1
+8119	421187677	Samal		locality	63
+8200	890434733	Mati		locality	5
+8202	421175361	Manay		locality	3
+8203	421178759	Caraga		locality	17
+8205	890416039	Cateel		locality	13
+8209	890455987	San Isidro		locality	23
+8210	890432187	Governor Generoso		locality	2
 8240	421167971	Bambang		locality	1
-8300	421178641	Tandag		locality	2
-8308	890438575	Tagbina		locality	2
-8309	890432553	Barobo		locality	5
-8310	421178737	Hinatuan		locality	1
-8311	421200083	Bislig		locality	10
+8300	421178641	Tandag		locality	3
+8302	421197207	Tago		locality	2
+8308	890438575	Tagbina		locality	6
+8309	890432553	Barobo		locality	4
+8310	421178737	Hinatuan		locality	2
+8311	421200083	Bislig		locality	11
 8317	890415673	Parang		locality	1
-8400	421189463	Surigao		locality	40
-8400	890443913	Surigao City		locality	16
-8404	890415529	Sison		locality	1
-8417	890452567	Dapa		locality	9
-8419	1310487771	General Luna		locality	13
+8318	890431889	Carrascal		locality	2
+8400	890443913	Surigao City		locality	45
+8400	1343632517	Badas		locality	1
+8410	421182733	Claver		locality	1
+8417	890452567	Dapa		locality	13
+8419	1310487771	General Luna		locality	12
+8419	1326701363	Malinao		locality	1
 8419	890443913	Surigao City		locality	1
-8420	421178677	Pilar		locality	3
-8425	421183363	Alegria		locality	5
-8501	421169917	San Francisco		locality	12
-8502	421195893	Bayugan		locality	9
+8420	421178677	Pilar		locality	1
+8425	421183363	Alegria		locality	4
+8501	421169917	San Francisco		locality	17
+8502	421195893	Bayugan		locality	15
 8503	421201517	Sibagat		locality	3
+8504	890442241	Rosario		locality	11
 8504	1209425161	Poblacion		locality	1
-8504	890442241	Rosario		locality	1
 8505	421202569	Trento		locality	2
-8512	421196671	Santa Josefa		locality	7
+8507	421183007	Loreto		locality	10
+8508	421193217	La Paz		locality	5
+8509	421196645	Veruela		locality	4
+8510	421174295	Talacogon		locality	7
+8511	421178665	San Luis		locality	21
+8512	421196671	Santa Josefa		locality	9
 8512	1310681435	Awao		locality	3
-8513	890415987	Esperanza		locality	2
-8600	421197513	Butuan		locality	84
+8513	890415987	Esperanza		locality	4
+8600	421197513	Butuan		locality	85
 8600`	421189421	Butuan City		locality	1
-8604	890417813	Magallanes		locality	1
-8605	421204537	Cabadbaran		locality	1
+8604	890417813	Magallanes		locality	3
+8605	421204537	Cabadbaran		locality	2
+8607	421182731	Jabonga		locality	4
 8609	421199309	Kitcharao		locality	2
-8611	1243383749	Remedios		locality	1
-8700	890421971	Malaybalay		locality	18
+8700	890421971	Malaybalay		locality	38
 8700	890431175	Kibangay		locality	1
+8702	421185453	Impasugong		locality	3
 8702	1225940005	Lantapan		locality	1
-8703	421177297	Manolo Fortich		locality	3
-8707	1225833573	Imbatug		locality	2
-8708	421178647	Talakag		locality	6
-8709	421199583	Valencia		locality	17
-8711	890431833	Halapitan		locality	3
-8712	421174379	Don Carlos		locality	1
-8723	890444915	Cabanglasan		locality	6
-8800	890433169	Nabunturan		locality	3
-9000	421168925	Cagayan de Oro		locality	549
-9001	421174489	Tagoloan		locality	3
-9002	421178053	Villanueva		locality	4
-9003	1125965503	Jasaan		locality	4
-9004	421178757	Claveria		locality	1
-9005	890416209	Balingasag		locality	4
-9007	421200769	Salay		locality	1
+8703	421177297	Manolo Fortich		locality	4
+8704	1125965317	Malitbog		locality	1
+8706	890443039	Libona		locality	4
+8707	1225833573	Imbatug		locality	3
+8708	421178647	Talakag		locality	9
+8709	421199583	Valencia		locality	25
+8710	1125792191	Maramag		locality	1
+8711	1209084641	San Fernando		locality	9
+8711	890431833	Halapitan		locality	4
+8712	421174379	Don Carlos		locality	2
+8714	1125792191	Maramag		locality	2
+8715	890430493	Quezon		locality	5
+8716	421178725	Kitaotao		locality	2
+8720	421169901	Kibawe		locality	5
+8723	890444915	Cabanglasan		locality	8
+8800	890433169	Nabunturan		locality	19
+8801	890433201	Montevista		locality	18
+8802	1125847561	Mawab		locality	15
+8803	1125795461	Compostela		locality	6
+8804	890434183	New Bataan		locality	9
+8805	890434195	Monkayo		locality	23
+8806	1125847571	Maco		locality	10
+8807	1310185469	Mabini		locality	2
+8809	890431697	Pantukan		locality	17
+9000	421168925	Cagayan de Oro		locality	692
+9001	421174489	Tagoloan		locality	5
+9002	421178053	Villanueva		locality	5
+9003	1125965503	Jasaan		locality	5
+9004	421178757	Claveria		locality	7
+9005	890416209	Balingasag		locality	2
+9007	421200769	Salay		locality	3
 9009	421198975	Sugbongcogon		locality	1
 9011	421197157	Balingoan		locality	1
-9012	421189327	Talisayan		locality	4
-9013	421173377	Medina		locality	3
-9014	421195413	Gingoog		locality	28
-9015	421173593	Magsaysay		locality	3
-9017	421178375	El Salvador		locality	66
-9017	421185593	Opol		locality	1
+9012	421189327	Talisayan		locality	2
+9013	421173377	Medina		locality	4
+9014	421195413	Gingoog		locality	27
+9015	421173593	Magsaysay		locality	1
+9016	421185593	Opol		locality	1
+9017	421178375	El Salvador		locality	33
 9017	1159397273	Pasay		locality	1
-9018	421194035	Alubijid		locality	3
-9019	421189319	Laguindingan		locality	12
-9021	421202121	Naawan		locality	1
-9022	421178087	Initao		locality	11
-9023	421202121	Naawan		locality	1
+9018	421194035	Alubijid		locality	9
+9019	421189319	Laguindingan		locality	10
+9022	421178087	Initao		locality	10
+9023	421202121	Naawan		locality	13
 9024	421189531	Manticao		locality	11
-9100	890415791	Mambajao		locality	21
+9025	890433233	Lugait		locality	2
+9100	890415791	Mambajao		locality	20
 9100	890450193	Yumbing		locality	3
 9100	1260169787	Anito		locality	1
 9100	1260073875	Binoni		locality	1
 9100	1225940001	Bonbon		locality	1
 9100	890434137	Pandan		locality	1
-9101	421175075	Mahinog		locality	7
-9101	421194201	Guinsiliban		locality	2
+9101	421175075	Mahinog		locality	6
 9101	1260073875	Binoni		locality	1
+9101	421194201	Guinsiliban		locality	1
 9102	421194201	Guinsiliban		locality	1
 9104	421174855	Catarman		locality	8
 9104	1225940001	Bonbon		locality	1
-9200	890429515	Iligan		locality	15
-9200	1141907275	Iligan		locality	6
+9200	890429515	Iligan		locality	18
+9200	1141907275	Iligan		locality	15
 9201	890451115	Linamon		locality	8
-9300	890437013	Malabang		locality	1
-9400	890431169	Kidapawan		locality	5
+9205	421167527	Bacolod		locality	4
+9207	890452427	Oroquieta		locality	1
+9214	421174303	Kapatagan		locality	10
+9221	421173593	Magsaysay		locality	4
+9300	890437013	Malabang		locality	9
+9305	421174711	Port Barton		locality	1
+9400	890431169	Kidapawan		locality	14
+9401	421176685	Makilala		locality	23
+9402	421195087	M'lang		locality	1
+9404	421178711	Magpet		locality	1
+9405	421203635	President Roxas		locality	4
 9406	421189435	Cotabato City		locality	1
+9406	421199437	Matalam		locality	1
+9407	421180975	Kabacan		locality	3
 9410	421189435	Cotabato City		locality	1
 9410	421178699	Midsayap		locality	1
-9500	421167513	General Santos		locality	300
-9500	890434451	Buayan		locality	1
-9501	421180319	Alabel		locality	12
-9503	890415797	Malungon		locality	2
-9504	890437855	Polomolok		locality	7
-9506	421202107	Koronadal		locality	6
+9413	421193635	Alamada		locality	3
+9500	421167513	General Santos		locality	303
+9501	421180319	Alabel		locality	30
+9502	421182735	Maasim		locality	7
+9503	890415797	Malungon		locality	26
+9504	890437855	Polomolok		locality	24
+9505	890431319	Tupi		locality	2
+9506	421202107	Koronadal		locality	54
+9507	421175365	Tampakan		locality	7
 9510	890442295	Tantangan		locality	2
 9511	421199427	Banga		locality	2
 9511	421202107	Koronadal		locality	1
-9512	421187705	Surallah		locality	7
-9514	890415577	Sebu		locality	115
-9517	421178959	Glan		locality	4
-9600	890442827	Cotabato City		locality	13
-9600	421189435	Cotabato City		locality	7
+9512	421187705	Surallah		locality	6
+9514	890415577	Sebu		locality	80
+9516	421178707	Malapatan		locality	6
+9517	421178959	Glan		locality	10
+9600	890442827	Cotabato City		locality	24
+9600	421189435	Cotabato City		locality	9
 9605	890442947	Sultan Kudarat		locality	1
-9609	421198085	Ampatuan		locality	1
-9700	421175265	Marawi		locality	2
-9805	421204431	Isulan		locality	1
+9607	421204847	Datu Piang		locality	1
+9607	421198085	Ampatuan		locality	1
+9608	421197073	Shariff Aguak		locality	1
+9609	421198085	Ampatuan		locality	3
+9616	421180971	Buluan		locality	3
+9632	1309876247	Paglat		locality	16
+9700	421175265	Marawi		locality	6
+9716	890432619	Wao		locality	1
+9801	1125821873	Columbio		locality	9
+9803	421202581	Lutayan		locality	5
+9805	421204431	Isulan		locality	2
+9806	890443065	Esperanza		locality	2
+9809	421192299	Palimbang		locality	2
+9810	1259556977	Bagumbayan		locality	12
 52078	890434103	Pinamalayan		locality	4
 65012	421175823	City of Cebu		locality	1
 70160716	890440023	Pagadian		locality	1

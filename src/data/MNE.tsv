@@ -4,67 +4,77 @@
 33000	421179033	Budva		locality	1
 58310	421179033	Budva		locality	1
 80001	1125934969	Podgorica		locality	1
-81000	1125934969	Podgorica		locality	259
+81000	1125934969	Podgorica		locality	316
 81000	1360003893	Sutorina		locality	1
+81101	1125934969	Podgorica		locality	1
 81110	1125934969	Podgorica		locality	1
-81206	1125934969	Podgorica		locality	2
-81210	421179027	Kolašin		locality	9
-81250	421179031	Cetinje		locality	1
-81305	890429777	Virpazar		locality	4
+81210	421179027	Kolašin		locality	8
+81250	421179031	Cetinje		locality	2
+81304	421177621	Golubovci		locality	3
+81305	890429777	Virpazar		locality	5
 81310	421179033	Budva		locality	1
-81340	421181411	Herceg Novi		locality	1
-81400	421182595	Nikšić		locality	7
+81400	421182595	Nikšić		locality	13
+81410	421179029	Danilovgrad		locality	3
+81412	1125776971	Spuž		locality	1
 81435	421183729	Plužine		locality	1
 83510	421179033	Budva		locality	1
 83547	421201437	Igalo		locality	1
 83560	1125871721	Ulcinj		locality	1
 84000	421179035	Bijelo Polje		locality	9
 84205	421199391	Mojkovac		locality	1
-84210	1243347029	Pljevlja		locality	6
+84210	1243347029	Pljevlja		locality	4
 84220	421173129	Žabljak		locality	6
-84300	421180017	Berane		locality	16
+84300	421180017	Berane		locality	20
 84310	890428885	Rožaje		locality	3
 84320	1293797873	Andrijevica		locality	9
+84323	1243085899	Pepice		locality	1
 84325	421168559	Plav		locality	1
 84326	421193575	Gusinje		locality	1
-85000	421182129	Bar		locality	34
-85000	1293689981	Dobra Voda		locality	15
+85000	421182129	Bar		locality	41
+85000	1293689981	Dobra Voda		locality	16
 85000	421181411	Herceg Novi		locality	9
-85000	1310510199	Utjeha		locality	1
 85000	421179025	Stari Bar		locality	1
+85000	890429925	Sutomore		locality	1
 85000	890441849	Šušanj		locality	1
 85300	890436709	Petrovac		locality	6
 85300	421179033	Budva		locality	1
 85306	421183441	Ostros		locality	2
-85310	421179033	Budva		locality	69
+85310	421179033	Budva		locality	76
 85310	421200645	Bečići		locality	1
 85310	1309920349	Katun		locality	1
+85310	890436709	Petrovac		locality	1
 85310	1276247175	Rafajlovici		locality	1
 85313	421179033	Budva		locality	1
 85315	421189833	Sveti Stefan		locality	3
+85315	421200645	Bečići		locality	1
 85316	421200645	Bečići		locality	2
-85318	1293400051	Bratesici		locality	4
-85320	421194723	Tivat		locality	14
-85330	421201439	Kotor		locality	84
+85320	421194723	Tivat		locality	18
+85323	421194723	Tivat		locality	1
+85330	421201439	Kotor		locality	87
 85330	890444571	Dobrota		locality	9
 85330	890431039	Plagente		locality	1
 85336	421187425	Perast		locality	4
 85337	421180315	Risan		locality	1
-85340	421181411	Herceg Novi		locality	67
+85340	421181411	Herceg Novi		locality	77
+85340	1259397447	Meljine		locality	11
 85340	421201439	Kotor		locality	2
-85340	1343575829	Lustica		locality	1
+85340	1343575829	Lustica		locality	2
+85340	1259897923	Prijevor		locality	1
+85345	1209433089	Kumbor		locality	3
 85345	1126015255	Đenovići		locality	1
-85347	421201437	Igalo		locality	12
-85347	421181411	Herceg Novi		locality	2
+85346	1209433089	Kumbor		locality	1
+85347	421201437	Igalo		locality	42
+85347	421181411	Herceg Novi		locality	1
 85353	1293689981	Dobra Voda		locality	1
 85354	421182129	Bar		locality	1
-85355	890429925	Sutomore		locality	12
+85355	890429925	Sutomore		locality	10
 85355	421182129	Bar		locality	1
 85355	1310510199	Utjeha		locality	1
-85356	1310510199	Utjeha		locality	4
-85356	1293689981	Dobra Voda		locality	2
-85360	1125871721	Ulcinj		locality	9
+85356	1293689981	Dobra Voda		locality	3
+85356	1310510199	Utjeha		locality	3
+85360	1125871721	Ulcinj		locality	15
 85360	1326540071	Donji Stoj		locality	1
+85366	1344218827	Vladimir		locality	1
 85434	890434759	Bijela		locality	1
 85635	421183441	Ostros		locality	1
 86000	421179033	Budva		locality	2

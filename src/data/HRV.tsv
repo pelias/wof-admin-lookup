@@ -2,10 +2,10 @@ HR-33000	101835353	Virovitica		locality	3
 Žminj	1293001075	Cukrici		locality	3
 Žminj	1259507469	Jursici		locality	3
 Boljun	1242683963	Vranja		locality	2
-HR10437	101835385	Bestovje		locality	2
 Žminj	1209010557	Bibici		locality	2
 Žminj	1125876827	Svetvinčenat		locality	2
 HR - 21322	1125862671	Brela		locality	1
+HR -51554	1126023203	Nerezine		locality	1
 HR-21333	1276209329	Podaca		locality	1
 HR-31000	101751779	Esseg		locality	1
 HR10430	101792391	Samobor		locality	1
@@ -14,70 +14,83 @@ Lupoglav	1344063037	Semic		locality	1
 Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 Žminj	1276118455	Cabrunici		locality	1
 Žminj	1276663427	Stokovci		locality	1
-3	101835329	Andrijaševci		locality	1
-4	101792391	Samobor		locality	1
 10.000	101751659	Zagreb		locality	1
 23 244	101795755	Starigrad		locality	1
 40 305	101834383	Nedelišće		locality	8
 40 305	1125937255	Dunjkovec		locality	1
-53 291	101844763	Novaglia		locality	128
 71	101794679	Lovran		locality	1
 1010	101751659	Zagreb		locality	1
-1045	101793549	Jaska		locality	1
+1233	1344076889	Price		locality	59
+1275	1344076889	Price		locality	1
 2000	101797977	Dubrovnik		locality	1
+2116	1344076889	Price		locality	19
 2130	101836423	Signo		locality	1
 2210	101795803	Rovigno D'istria		locality	1
+2311	1344076889	Price		locality	235
 4036	1292990567	Macinec		locality	1
 4280	101794673	Gora		locality	1
-5252	1243157747	Gorici		locality	1
+8344	1344076889	Price		locality	1
+8361	1344076889	Price		locality	2
 9000	1226019331	Donja Pusca		locality	55
-10000	101751659	Zagreb		locality	3153
+9244	1344076889	Price		locality	11
+10000	101751659	Zagreb		locality	4818
 10000	101857849	Veliko Polje		locality	40
 10000	101835357	Zaprešić		locality	2
-10010	101751659	Zagreb		locality	68
-10010	1125788361	Buzin		locality	2
-10020	101751659	Zagreb		locality	301
+10010	101751659	Zagreb		locality	235
+10010	101857849	Veliko Polje		locality	17
+10010	1125788361	Buzin		locality	6
+10020	101751659	Zagreb		locality	1007
 10020	1125853633	Odra		locality	3
 10020	101844793	Odranski Obrež		locality	1
-10040	101751659	Zagreb		locality	99
-10090	101751659	Zagreb		locality	174
-10110	101751659	Zagreb		locality	14
-10240	101751659	Zagreb		locality	201
-10250	101792345	Lučko		locality	8
+10040	101751659	Zagreb		locality	313
+10040	101754511	Sesvete		locality	1
+10040	101792397	Dubrava		locality	1
+10090	101751659	Zagreb		locality	274
+10104	101751659	Zagreb		locality	4
+10106	101751659	Zagreb		locality	1
+10110	101751659	Zagreb		locality	44
+10135	101751659	Zagreb		locality	7
+10150	101751659	Zagreb		locality	1
+10240	101751659	Zagreb		locality	64
+10250	1126038875	Lučko		locality	11
+10250	101792373	Donji Stupnik		locality	3
 10251	1125809369	Hrvatski Leskovac		locality	70
+10253	1309686151	Donji Dragonozec		locality	17
 10253	101751659	Zagreb		locality	2
-10253	1309686151	Donji Dragonozec		locality	1
 10255	101792371	Gornji Stupnik		locality	4
-10255	101792373	Donji Stupnik		locality	1
-10257	101751659	Zagreb		locality	51
-10290	101835357	Zaprešić		locality	3174
-10290	1309970849	Ivanec Bistranski		locality	322
+10255	101792373	Donji Stupnik		locality	3
+10257	101751659	Zagreb		locality	52
+10257	1125809369	Hrvatski Leskovac		locality	4
+10290	101835357	Zaprešić		locality	3157
+10290	1309970849	Ivanec Bistranski		locality	321
 10290	101792365	Jablanovec		locality	4
+10291	101792369	Prigorje Brdovečko		locality	4
 10291	101835361	Brdovec		locality	2
-10291	101792369	Prigorje Brdovečko		locality	2
-10292	1326604415	Senkovec		locality	5
+10292	1326604415	Senkovec		locality	4
+10292	1209577367	Donji Laduc		locality	1
 10293	1310080125	Dubravica		locality	3
-10294	101792361	Pojatno		locality	443
+10294	101792361	Pojatno		locality	442
 10294	1226019331	Donja Pusca		locality	310
-10294	1209175987	Gornja Pusca		locality	257
+10294	1209175987	Gornja Pusca		locality	256
 10294	1226618663	Dubrava		locality	117
-10294	1343356033	Hrusevec		locality	48
+10294	1343356033	Hrusevec		locality	45
 10295	1310466739	Kupljenovo		locality	330
 10295	1343356033	Hrusevec		locality	176
-10296	1309867493	Luka		locality	189
+10296	1309867493	Luka		locality	190
 10296	1226606797	Krajska Ves		locality	71
 10297	101844797	Jakovje		locality	5
-10298	101792365	Jablanovec		locality	540
-10298	101792375	Poljanica Bistranska		locality	7
-10298	101792363	Bistra Donja		locality	5
+10298	101792365	Jablanovec		locality	541
+10298	101792375	Poljanica Bistranska		locality	6
 10298	101792377	Gornja Bistra		locality	4
+10298	101792363	Bistra Donja		locality	3
 10298	1243337941	Novaki Bistranski		locality	1
 10298	1260243533	Oborovo		locality	1
 10299	1327398817	Marija Gorica		locality	2
 10310	101835367	Ivanić-Grad		locality	105
 10311	1310067473	Posavski Bregi		locality	2
 10312	1226204175	Beslinec		locality	38
-10312	101835371	Kloštar Ivanić		locality	7
+10312	101835371	Kloštar Ivanić		locality	10
+10312	1344032239	Sobocani		locality	1
 10313	1343822721	Sumecani		locality	2
 10313	1226304599	Graberje Ivanicko		locality	1
 10314	101835365	Križ		locality	3
@@ -85,83 +98,109 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 10315	1327195787	Obedisce		locality	2
 10315	1293554201	Okesinec		locality	1
 10315	1209188645	Vezisce		locality	1
-10340	101792395	Vrbovec		locality	19
+10340	1259658151	Poljanski Lug		locality	155
+10340	101792395	Vrbovec		locality	25
+10340	1226006513	Greda Peskovecka		locality	22
 10340	1125910117	Lonjica		locality	2
-10342	101792397	Dubrava		locality	4
+10342	1226724347	Koritna		locality	68
+10342	1310675311	Markovac Dubravski		locality	28
+10342	1226019327	Ladina		locality	17
+10342	101792397	Dubrava		locality	13
 10344	1259347693	Farkasevac		locality	15
-10360	1259542429	Popovec Sasinovecki		locality	285
-10360	101754511	Sesvete		locality	48
-10360	101751659	Zagreb		locality	5
+10345	1125937275	Gradec		locality	1
+10360	1259542429	Popovec Sasinovecki		locality	286
+10360	101754511	Sesvete		locality	60
+10360	101751659	Zagreb		locality	6
 10360	101792399	Sveti Ivan Zelina		locality	1
 10360	1209674381	Sasinovec		locality	1
-10361	1260139193	Sesvetski Kraljevec		locality	2
-10362	101835349	Kašina		locality	10
+10361	1209990565	Cerje		locality	35
+10361	1209790209	Sop		locality	15
+10361	1260139193	Sesvetski Kraljevec		locality	4
+10362	101835349	Kašina		locality	11
+10362	1293448777	Luzan		locality	10
+10363	1125928853	Adamovec		locality	6
 10363	1226808057	Belovar		locality	1
-10370	101835375	Dugo Selo		locality	40
+10370	101792401	Brckovljani		locality	151
+10370	101835373	Dugo Selo		locality	84
 10370	1310279413	Jezevo		locality	2
 10370	1209677407	Bozjakovina		locality	1
 10370	1360047133	Obedisce Jezevsko		locality	1
-10372	1326991803	Rugvica		locality	10
+10372	1326991803	Rugvica		locality	29
 10372	1344118601	Oborovo		locality	1
-10373	101758595	Ivanja Reka		locality	1
+10373	101758595	Ivanja Reka		locality	4
 10375	101751659	Zagreb		locality	1
-10380	101792399	Sveti Ivan Zelina		locality	11
+10380	101792399	Sveti Ivan Zelina		locality	13
 10381	1242937941	Bedenica		locality	3
 10382	1326694991	Donja Zelina		locality	3
 10383	1309867537	Komin		locality	1
 10408	101792347	Velika Mlaka		locality	3
-10410	101835377	Nagygoricza		locality	807
+10410	101835377	Nagygoricza		locality	812
 10410	1260364065	Petina		locality	15
-10410	101792379	Novo Čiče		locality	13
+10410	101792379	Novo Čiče		locality	12
 10410	1293165733	Selnica Scitarjevska		locality	9
+10410	101792383	Donja Lomnica		locality	8
+10410	1276508617	Okuje		locality	3
+10410	1292962691	Scitarjevo		locality	3
 10410	1226317229	Kobilic		locality	1
 10410	101793553	Kuče		locality	1
+10410	1309867495	Mala Kosnica		locality	1
 10411	1310675431	Orle		locality	2
-10412	1260350719	Gudci		locality	5
+10412	1260350719	Gudci		locality	17
 10412	101792383	Donja Lomnica		locality	1
 10412	101835377	Nagygoricza		locality	1
 10413	1276723745	Siljakovina		locality	20
 10413	1343922767	Gornji Hrusevec		locality	1
+10413	1242839251	Kravarsko		locality	1
 10414	1226814015	Opatija		locality	2
 10414	1360246793	Pokupsko		locality	2
-10415	101792379	Novo Čiče		locality	231
-10417	1125957997	Buševec		locality	2
+10415	101792379	Novo Čiče		locality	229
+10417	1125957997	Buševec		locality	3
 10419	101793553	Kuče		locality	6
 10419	1125913565	Vukovina		locality	2
-10430	101792391	Samobor		locality	461
-10430	1276296697	Mala Rakovica		locality	58
-10430	101857853	Rude		locality	2
+10419	1259841229	Staro Cice		locality	1
+10430	101792391	Samobor		locality	1738
+10430	1276296697	Mala Rakovica		locality	70
+10430	1276952765	Velika Rakovica		locality	18
+10430	1343723829	Kladje		locality	4
+10430	1243225459	Kravljak		locality	3
+10430	101857853	rudeness		locality	3
 10430	1193240107	Slani Dol		locality	2
-10430	1276952765	Velika Rakovica		locality	2
-10431	101835383	Nedjelja		locality	10
-10432	101792393	Bregana		locality	5
-10434	101835381	Strmec		locality	2
-10434	1126015241	Strmec Samoborski		locality	1
+10430	1242642207	Bobovica		locality	1
+10430	1226006493	Cerje		locality	1
+10431	101835383	Nedjelja		locality	32
+10431	101844799	Kerestinec		locality	6
+10431	101835391	Brezje		locality	5
+10431	101835381	Strmec		locality	2
+10432	101792393	Bregana		locality	18
+10433	101792391	Samobor		locality	1
+10434	101835381	Strmec		locality	21
 10435	1192980255	Sveti Martin pod Okicem		locality	2
-10436	101857843	Horvati		locality	471
-10436	101792389	Rakov Potok		locality	1
-10437	101835385	Bestovje		locality	4
-10437	101857855	Rakitje		locality	1
-10450	101793549	Jaska		locality	60
-10450	1277050079	Cvetkovic		locality	6
-10450	101844803	Klinča Sela		locality	5
+10436	101857843	Horvati		locality	470
+10436	1360159167	Kalinovica		locality	1
+10436	1243519277	Rakov Potok		locality	1
+10437	101835385	Bestovje		locality	9
+10437	101857855	Rakitje		locality	4
+10437	1209880977	Novaki Samoborski		locality	1
+10450	101793549	Jaska		locality	104
+10450	1277050079	Cvetkovic		locality	5
+10450	1226711747	Donji Desinec		locality	4
+10450	101844803	Klinča Sela		locality	2
 10450	1327298723	Prhoc		locality	2
-10450	1125937703	Crna Mlaka		locality	1
-10450	1226711747	Donji Desinec		locality	1
 10450	1293551175	Lokosin Dol		locality	1
 10450	1327208339	Petrovina		locality	1
 10450	1277050061	Plesivica		locality	1
+10450	1327004365	Slavetic		locality	1
 10450	1226204141	Volavje		locality	1
 10451	1225906081	Pisarovina		locality	2
+10452	101844803	Klinča Sela		locality	4
 10452	1192992793	Donja Zdencina		locality	1
 10453	1226009567	Dol		locality	1
 10454	1344022909	Budinjak		locality	13
-10454	1226416947	Krasic		locality	8
+10454	1226416947	Krasic		locality	11
 10455	1343425845	Kostanjevac		locality	3
-10455	1360047121	Ivancici		locality	1
-10456	1344019847	Kalje		locality	2
+10456	1344019847	Kalje		locality	3
 10492	101792361	Pojatno		locality	1
-20000	101797977	Dubrovnik		locality	105
+20000	101797977	Dubrovnik		locality	133
 20040	101751659	Zagreb		locality	1
 20103	101797977	Dubrovnik		locality	1
 20106	101797977	Dubrovnik		locality	1
@@ -172,26 +211,31 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 20205	1277076395	Topolo		locality	1
 20207	1293489447	Mlini		locality	7
 20207	1226547571	Srebreno		locality	2
+20207	1293791205	Gornji Brgat		locality	1
 20207	1125987815	Kupari		locality	1
 20210	101846135	Cavtat		locality	6
-20213	1125778717	Čilipi		locality	4
-20215	1125802527	Gruda		locality	5
-20215	1125982745	Molunat		locality	5
+20213	1125778717	Čilipi		locality	5
+20215	1125982745	Molunat		locality	6
+20215	1125802527	Gruda		locality	4
+20215	1259685847	Komaji		locality	1
 20216	1209915861	Dubravka		locality	1
-20221	1326631811	Kolocep		locality	2
-20222	1125882921	Lopud		locality	8
-20223	1209316535	Sipanska Luka		locality	1
+20221	1326631811	Kolocep		locality	49
+20222	1125882921	Lopud		locality	86
+20223	1209316535	Sipanska Luka		locality	26
+20223	1226755299	Sudurad		locality	24
 20224	1126023197	Maranovići		locality	1
 20225	1293495161	Babino Polje		locality	9
 20226	1125833223	Goveðari		locality	1
-20230	1126027633	Ston		locality	6
+20226	1125921989	Polače		locality	1
+20230	1126027633	Ston		locality	10
 20230	1242789181	Hodilje		locality	1
 20231	1309805241	Zaton Doli		locality	1
-20232	1125850847	Slano		locality	54
+20232	1125850847	Slano		locality	56
 20232	1243179511	Donji Majkovi		locality	1
 20234	101911595	Orašac		locality	1
 20235	1243365611	Zaton		locality	2
-20236	101836401	Mokošica		locality	1
+20236	101836401	Mokošica		locality	3
+20236	1209523085	Komolac		locality	1
 20236	101911595	Orašac		locality	1
 20240	1125938431	Trpanj		locality	2
 20242	1343869871	Oskorusno		locality	1
@@ -199,17 +243,17 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 20244	1125922031	Potomje		locality	4
 20245	1125837013	Trstenik		locality	4
 20246	1343273711	Sreser		locality	6
-20246	1125921939	Janjina		locality	2
+20246	1125921939	Janjina		locality	3
 20247	1126040749	Žuljana		locality	6
 20248	1293391913	Putnikovic		locality	1
-20250	101796871	Sabbioncello		locality	21
-20260	101796863	Curzola		locality	13
+20250	101796871	Sabbioncello		locality	23
+20260	101796863	Curzola		locality	24
 20263	101796859	Lumbarda		locality	2
 20263	1125774307	Lovište		locality	1
 20264	1125988003	Račišće		locality	3
-20267	1126019257	Kućište		locality	2
-20269	1125774307	Lovište		locality	2
-20270	101796853	Velika Luka		locality	7
+20267	1126019257	Kućište		locality	3
+20269	1125774307	Lovište		locality	3
+20270	101796853	Velika Luka		locality	9
 20271	101796855	Blato		locality	10
 20272	101796857	Smoquizza		locality	1
 20273	1225852283	Cara		locality	2
@@ -219,23 +263,23 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 20279	1125988121	Uble		locality	1
 20289	1309719345	Pasadur		locality	1
 20289	1125988121	Uble		locality	1
-20290	1125801941	Lastovo		locality	11
+20290	1125801941	Lastovo		locality	13
 20290	1126026421	Zaklopatica		locality	1
-20340	101796879	Kardeljevo		locality	7
+20340	101796879	Kardeljevo		locality	10
 20341	1126027527	Kula Norinska		locality	2
 20342	1343969719	Otric-Seoci		locality	1
 20343	1125850839	Rogotin		locality	1
 20344	101857801	Komin		locality	1
 20345	1125975593	Staševica		locality	1
-20350	101796875	Metković		locality	23
+20350	101796875	Metković		locality	26
 20352	1309723719	Vid		locality	2
 20353	1193277515	Mliniste		locality	1
 20355	101796877	Fort'opus		locality	40
-20356	1309815047	Klek		locality	2
+20356	1309815047	Klek		locality	3
 20356	1209617061	Komarna		locality	1
 20356	1344264347	Slivno Ravno		locality	1
-20357	1310407561	Blace		locality	1
-21000	101751767	Split		locality	2627
+20357	1310407561	Blace		locality	2
+21000	101751767	Split		locality	3192
 21000	101796873	Lesina		locality	2
 21101	101751767	Split		locality	1
 21102	101751767	Split		locality	1
@@ -252,80 +296,84 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 21113	101751767	Split		locality	1
 21114	101751767	Split		locality	1
 21115	101751767	Split		locality	1
-21119	101751767	Split		locality	1
-21201	1343344307	Prgomet		locality	1
+21119	101758573	Kamen		locality	4
+21119	101751767	Split		locality	2
+21201	1343344307	Prgomet		locality	4
 21202	1326800729	Lecevica		locality	1
 21203	1243524909	Donji Muc		locality	4
-21204	101796889	Dugopolje		locality	4
+21204	101796889	Dugopolje		locality	26
 21204	101760467	Clissa		locality	2
 21206	1243246441	Donje Ogorje		locality	1
 21207	1360068319	Kostanje		locality	1
 21208	1125959223	Kučiće		locality	1
 21209	101758575	Salona		locality	1
-21210	101758575	Salona		locality	31
+21210	101758575	Salona		locality	36
 21210	1344127215	Blaca		locality	2
 21211	1125995565	Mastrinka		locality	3
-21211	101758575	Salona		locality	1
-21212	101758569	Kaštel Sućurac		locality	8
+21211	101758571	Vranjic		locality	2
+21212	101758569	Kaštel Sućurac		locality	9
 21212	1125980029	Kaštela		locality	6
 21213	1125850757	Kaštel Gomilica		locality	10
 21213	1125980029	Kaštela		locality	1
-21214	1125991731	Kaštel Kambelovac		locality	21
-21215	101758561	Kaštel Lukšić		locality	18
-21216	101758559	Kaštel Stari		locality	56
+21214	1125991731	Kaštel Kambelovac		locality	23
+21215	101758561	Kaštel Lukšić		locality	19
+21216	101758559	Kaštel Stari		locality	59
 21216	1125980029	Kaštela		locality	6
-21216	101758557	Kaštel Novi		locality	2
-21216	101758555	Kastel Stafilic		locality	2
-21217	101758555	Kastel Stafilic		locality	5
+21216	101758557	Kaštel Novi		locality	3
+21216	101758555	Kastel Stafilic		locality	3
+21217	101758555	Kastel Stafilic		locality	7
 21217	1125980029	Kaštela		locality	5
+21217	101758557	Kaštel Novi		locality	2
 21217	1125910013	Gradište		locality	2
 21218	101836411	Seget Donji		locality	14
 21218	101836409	Seget Vranjica		locality	2
 21219	101836405	Trau		locality	2
-21220	101836405	Trau		locality	78
+21220	101836405	Trau		locality	112
 21220	1125991787	Arbanija		locality	7
+21220	1326503449	Plano		locality	3
+21220	1125995565	Mastrinka		locality	1
 21220	101836407	Okrug Gornji		locality	1
-21220	1326503449	Plano		locality	1
 21220	1125817593	Žedno		locality	1
 21222	101796887	Marina		locality	556
+21222	1125788619	Sevid		locality	1
 21222	1125817575	Vrsine		locality	1
-21223	101836407	Okrug Gornji		locality	41
-21223	101836405	Trau		locality	1
-21224	1125886375	Slatine		locality	33
+21223	101836407	Okrug Gornji		locality	57
+21224	1125886375	Slatine		locality	34
 21224	1125991787	Arbanija		locality	3
-21226	1125938455	Vinišće		locality	4
+21226	1125938455	Vinišće		locality	7
 21227	1343543993	Primorski Dolac		locality	1
 21228	1309685419	Blizna		locality	1
-21230	101836423	Signo		locality	2491
-21231	101760467	Clissa		locality	8
-21232	1243437133	Dicmo		locality	4
-21233	101857817	Hrvatice		locality	1
-21234	101874227	Brnaze		locality	4
+21230	101836423	Signo		locality	2493
+21231	101760467	Clissa		locality	30
+21232	1243437133	Dicmo		locality	5
+21233	101857817	Hrvatice		locality	2
+21234	101874227	Brnaze		locality	5
 21236	1126038147	Vrlika		locality	7
 21236	1243537535	Garjak		locality	1
 21238	101795729	Isola		locality	1
 21240	101795731	Trilj		locality	4
 21241	1292974055	Obrovac Sinjski		locality	1
 21242	1125954923	Grab		locality	1
-21244	101857807	Cista Velika		locality	2
+21244	101857807	Cista Velika		locality	3
 21246	1209388163	Arzano		locality	1
 21247	1125784459	Neorić		locality	1
 21250	1125937309	Katuni		locality	115
 21250	1360167583	Kresevo		locality	86
-21250	1225914389	Sestanovac		locality	1
-21251	101844749	Žrnovnica		locality	2
-21251	1192988813	Donje Sitno		locality	1
-21251	1209494523	Sitno Donje		locality	1
+21250	1225914389	Sestanovac		locality	11
+21250	1225815603	Trnbusi		locality	3
+21251	1192988813	Donje Sitno		locality	12
+21251	1125795027	Gornje Sitno		locality	7
+21251	101844749	Žrnovnica		locality	6
 21252	1293183723	Tugare		locality	1
 21253	1125921927	Gata		locality	1
 21254	1242751117	Blato na Cetini		locality	3
 21255	1125845141	Zadvarje		locality	2
 21256	1343534489	Cista Provo		locality	1
 21257	1125992643	Lovreć		locality	5
-21260	101836421	Imoschi		locality	40
+21260	101836421	Imoschi		locality	48
 21261	1310420787	Runovici		locality	1
 21261	101796893	Runovići		locality	1
-21262	1259756373	Kamenmost		locality	1
+21262	1259756373	Kamenmost		locality	2
 21263	1276854007	Krivodol		locality	1
 21264	101796895	Donji Proložac		locality	1
 21265	1326813245	Studenci		locality	1
@@ -339,422 +387,486 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 21276	101846141	Vergoraz		locality	7
 21277	1326803703	Veliki Prolog		locality	1
 21285	101758575	Salona		locality	1
-21300	101796899	Makarska		locality	30
+21292	101844745	Srinjine		locality	6
+21300	101796899	Makarska		locality	34
 21310	1343831115	Stanici		locality	344
 21310	101874229	Omiš		locality	333
 21310	101874225	Duće		locality	1
-21311	1126009479	Stobreč		locality	3
-21312	101857821	Postrana		locality	108
+21311	1126009479	Stobreč		locality	18
+21312	101857821	Postrana		locality	109
 21314	101836415	Jesenice		locality	1
 21315	101836417	Dugi Rat		locality	94
 21315	101874225	Duće		locality	1
 21315	1293701915	Mali Rat		locality	1
 21317	1276302597	Celina		locality	172
-21317	1125885055	Lokva Rogoznica		locality	162
+21317	1125885055	Lokva Rogoznica		locality	164
 21317	101874229	Omiš		locality	1
-21318	1125922723	Mimice		locality	9
-21320	1125990377	Baška Voda		locality	8
-21322	1125862671	Brela		locality	11
-21323	1125913029	Promajna		locality	2
+21318	1125922723	Mimice		locality	11
+21320	1125990377	Baška Voda		locality	9
+21322	1125862671	Brela		locality	14
+21323	1125913029	Promajna		locality	3
 21325	101792339	Tucepa		locality	7
-21327	101796901	Podgora		locality	6
+21327	101796901	Podgora		locality	75
 21329	1192991473	Porat		locality	2
 21329	1125817345	Igrane		locality	1
 21330	101796907	Gradac		locality	6
 21331	101911597	Živogošće		locality	1
 21333	1310674101	Drvenik		locality	2
 21334	1125988145	Zaostrog		locality	1
+21335	1276209329	Podaca		locality	10
 21335	1276199155	Brist		locality	8
-21335	1276209329	Podaca		locality	7
-21400	101846137	S Pietro Della Brazza		locality	87
+21400	101846137	S Pietro Della Brazza		locality	93
 21400	1125767769	Milna		locality	1
 21403	1125876817	Sutivan		locality	89
 21404	1125835293	Ložišća		locality	1
 21405	1125767769	Milna		locality	4
 21410	101796883	Postira		locality	74
 21412	101857803	Pučišća		locality	1
-21413	1125850831	Povlja		locality	93
+21413	1125850831	Povlja		locality	94
 21414	1259566145	Gornji Humac		locality	1
-21420	101796881	Bol		locality	52
+21420	101796881	Bol		locality	51
 21423	1276520819	Nerezisce		locality	1
 21424	1225818607	Praznice		locality	1
 21425	1125987931	Selca		locality	261
 21425	1125994567	Sumartin		locality	1
 21426	1125994567	Sumartin		locality	1
 21430	1125817279	Grohote		locality	14
-21430	1260265783	Solta		locality	1
 21430	1277147299	Maslinica		locality	1
+21430	1310674103	Necujam		locality	1
 21430	1125862949	Rogač		locality	1
 21432	1125873637	Stomorska		locality	77
+21432	1310674103	Necujam		locality	1
 21439	1277147299	Maslinica		locality	2
-21450	101796873	Lesina		locality	27
+21450	101796873	Lesina		locality	35
 21454	1126048265	Brusje		locality	1
-21460	1126033577	Stari Grad		locality	13
+21460	1126033577	Stari Grad		locality	19
 21460	1292971231	Dol		locality	4
 21462	1125913447	Vrbanj		locality	1
 21463	1125809461	Vrboska		locality	4
-21465	101796913	Jelsa		locality	14
+21465	101796913	Jelsa		locality	18
 21465	1125922691	Zavala		locality	3
+21465	1125868219	Sveta Nedjelja		locality	1
 21466	1125922097	Zastražišće		locality	1
 21467	1259556725	Gdinj		locality	2
 21468	1327000379	Bogomolje		locality	1
 21469	1259556851	Sucuraj		locality	2
-21480	101796869	Lissa		locality	26
+21480	101796869	Lissa		locality	27
 21480	1125788601	Rukavac		locality	3
 21483	1125932663	Podšpilje		locality	1
-21485	101796865	Comisa		locality	2
-22000	101836427	Šibenik		locality	109
+21485	101796865	Comisa		locality	22
+22000	101836427	Šibenik		locality	181
+22000	1125853565	Grebaštica		locality	39
+22000	1277055591	Vrpolje		locality	5
+22000	101857823	Šibenik		locality	3
 22000	101836429	Bilice		locality	2
-22000	101857823	Dubrava kod Šibenika		locality	2
-22000	1125853565	Grebaštica		locality	1
+22000	1125847231	Brodarica		locality	1
 22010	1125847231	Brodarica		locality	5
-22010	1125853565	Grebaštica		locality	3
-22010	1326609485	Zaboric		locality	1
-22030	1225821677	Zablace		locality	1
+22010	1125853565	Grebaštica		locality	2
+22030	101836427	Šibenik		locality	1
 22100	101795745	Vodice		locality	1
-22101	101836427	Šibenik		locality	1
-22102	101836427	Šibenik		locality	1
+22101	101836427	Šibenik		locality	2
+22102	101836427	Šibenik		locality	3
 22103	101836427	Šibenik		locality	1
 22104	101836427	Šibenik		locality	1
+22105	101836427	Šibenik		locality	1
 22106	101836427	Šibenik		locality	1
 22108	1125847231	Brodarica		locality	1
 22108	101836427	Šibenik		locality	1
-22202	101796909	Primošten		locality	46
-22203	1125920965	Rogoznica		locality	29
+22202	101796909	Primošten		locality	162
+22202	1226626359	Bile		locality	1
+22203	1125920965	Rogoznica		locality	78
 22205	1327310249	Perkovic		locality	1
-22211	101795745	Vodice		locality	23
+22211	101795745	Vodice		locality	26
 22212	101795743	Tribunj		locality	2
-22213	101795741	Pirovac		locality	99
+22213	101795741	Pirovac		locality	94
 22214	1309992265	Velika Cista		locality	1
 22215	101795747	Zaton		locality	3
-22221	1125995351	Lozovac		locality	2
+22221	1125995351	Lozovac		locality	6
+22221	1260259237	Konjevrate		locality	2
 22222	1126023289	Skradin		locality	3
-22232	1125853199	Zlarin		locality	3
-22233	1125867005	Prvić Luka		locality	1
+22232	1125853199	Zlarin		locality	4
+22233	1125867005	Prvić Luka		locality	3
 22234	1125987991	Prvić Šepurine		locality	1
 22235	1293568609	Kaprije		locality	1
 22236	1293575687	Zirje		locality	1
-22240	101844739	Tisno		locality	8
+22240	101844739	Tisno		locality	9
 22240	1343336791	Drage		locality	2
 22242	1125809377	Jezera		locality	2
-22243	101795727	Murter		locality	23
+22243	101795727	Murter		locality	26
 22244	1209085729	Betina		locality	2
-22300	101795737	Knin		locality	75
+22300	101795737	Knin		locality	76
 22301	1126015243	Golubić		locality	1
+22303	1343556811	Banovci		locality	117
 22303	1343437429	Oklaj		locality	1
-22305	101844753	Kistanje		locality	2
+22305	1343556811	Banovci		locality	1093
+22305	101844753	Kistanje		locality	7
 22310	1326716689	Civljane		locality	17
 22310	1226828357	Cetina		locality	10
 22310	1327016237	Kijevo		locality	2
-22320	101795739	Drniš		locality	4
+22320	101795739	Drniš		locality	5
 22321	1276850165	Siveric		locality	1
 22322	1293560511	Gradac		locality	1
 22323	1259865907	Unesic		locality	1
 22324	1125938303	Drinovci		locality	1
-23000	101751769	Zadar		locality	370
+23000	101751769	Zadar		locality	582
+23000	1243519999	Crno		locality	2
 23000	1327196485	Murvica		locality	2
 23000	101795763	Poličnik		locality	2
 23103	101751769	Zadar		locality	1
 23104	101751769	Zadar		locality	1
-23105	101751769	Zadar		locality	3
+23105	101751769	Zadar		locality	2
 23107	101751769	Zadar		locality	1
-23205	101754497	Bibinje		locality	7
-23206	101754499	Sukosan		locality	4
-23207	101836435	Sv. Filipi i Jakov		locality	19
+23205	101754497	Bibinje		locality	17
+23206	1125988237	Sukosan		locality	6
+23207	101836435	Sv. Filipi i Jakov		locality	21
 23207	101836433	Turanj		locality	11
 23207	1293355981	Sveti Petar na Moru		locality	2
-23210	101795765	Biograd na Moru		locality	41
+23210	101795765	Biograd na Moru		locality	43
+23210	1126027553	Dobrinj		locality	1
 23210	1343336783	Tinj		locality	1
-23211	1125994643	Pakoštane		locality	65
+23211	1125994643	Pakoštane		locality	70
 23211	1343336791	Drage		locality	3
-23212	1125913137	Tkon		locality	382
-23223	1277142511	Privlaka		locality	65
-23223	101795759	Škabrnja		locality	1
+23212	1125913137	Tkon		locality	381
+23222	101844759	Galovac		locality	1
+23222	1243419935	Zemunik Gornji		locality	1
+23223	1277142511	Privlaka		locality	66
+23223	101795759	Škabrnja		locality	6
+23223	1192981011	Prkos		locality	2
 23226	101844761	Pridraga		locality	1
-23231	101912587	Petrčane		locality	5
-23232	1343923487	Zaton		locality	15
-23232	101795773	Nin		locality	10
-23233	1277142511	Privlaka		locality	6
-23234	101795749	Vir		locality	6
-23235	101795775	Vrsi		locality	3
+23231	101912587	Petrčane		locality	6
+23232	1343923487	Zaton		locality	41
+23232	101795773	Nin		locality	14
+23233	1277142511	Privlaka		locality	9
+23233	101795773	Nin		locality	1
+23234	101795749	Vir		locality	13
+23235	101795775	Vrsi		locality	6
 23241	101795763	Poličnik		locality	1
-23242	101795761	Posedarje		locality	3
+23242	101795761	Posedarje		locality	4
+23243	1259448593	Maslenica		locality	3
 23243	101857825	Jasenice		locality	2
-23243	101795779	Obrovac		locality	1
-23243	1226305443	Rovanjska		locality	1
+23243	1226305443	Rovanjska		locality	2
 23244	1226814683	Seline		locality	574
-23244	101795755	Starigrad		locality	198
-23248	101795777	Ražanac		locality	4
+23244	101795755	Starigrad		locality	200
+23248	101795777	Ražanac		locality	6
 23249	1360060559	Povljana		locality	29
-23250	101795753	Pag		locality	47
-23251	1126023171	Kolan		locality	3
+23250	101795753	Pag		locality	52
+23251	1126023171	Kolan		locality	7
+23251	1125905689	Kolanjski Gajac		locality	6
 23251	1293859025	Simuni		locality	2
 23251	101844763	Novaglia		locality	1
-23262	101911001	Paµman		locality	1
-23263	1125922115	Ždrelac		locality	1
-23264	1343820505	Mrljane		locality	1
-23264	1126043583	Neviđane		locality	1
-23271	1125987799	Kukljica		locality	1
-23272	101844751	Kali		locality	1
-23273	1125972403	Preko		locality	7
-23273	1293176137	Poljana		locality	4
-23273	1276845599	Sutomiscica		locality	1
+23262	101911001	Pašman		locality	2
+23263	1125922115	Ždrelac		locality	5
+23264	1126043583	Neviđane		locality	3
+23271	1125987799	Kukljica		locality	3
+23272	101844751	Kali		locality	4
+23273	1125972403	Preko		locality	9
+23273	1293176137	Poljana		locality	3
 23274	1125987839	Lukoran		locality	1
 23275	101795735	Ugljan		locality	5
-23281	1125988229	Sali		locality	4
+23281	1125988229	Sali		locality	5
 23282	1242938639	Zman		locality	1
 23283	1343820475	Rava		locality	1
 23284	1125922079	Veli Iž		locality	1
 23285	1125783935	Brbinj		locality	1
-23286	1126027545	Božava		locality	2
-23287	1125987955	Veli Rat		locality	1
+23286	1126027545	Božava		locality	5
+23287	1125987955	Veli Rat		locality	3
+23291	1326805619	Sestrunj		locality	1
 23292	1226404919	Molat		locality	1
-23293	1226517457	Ist		locality	1
-23294	1343737533	Premuda		locality	1
-23296	1193099651	Olib		locality	1
+23293	1226517457	Ist		locality	2
+23294	1343737533	Premuda		locality	3
+23295	1293564207	Silba		locality	12
+23296	1193099651	Olib		locality	3
 23312	1259445527	Novigrad		locality	1
-23420	101795767	Benkovac		locality	8
-23422	1293464973	Stankovci		locality	2
-23423	101844755	Polača		locality	87
-23440	101844757	Gračac		locality	4
+23420	101795767	Benkovac		locality	10
+23420	1360147263	Lisane Tinjske		locality	1
+23420	1209881653	Medviga		locality	1
+23422	1293464973	Stankovci		locality	3
+23423	101844755	Polača		locality	86
+23440	101844757	Gračac		locality	6
 23445	1360150357	Srb		locality	2
+23450	101795779	Obrovac		locality	65
 23450	1243329119	Krusevo - Crna Punta		locality	36
-23450	101795779	Obrovac		locality	5
 23450	1125887989	Ribnica		locality	2
 23452	1243329119	Krusevo - Crna Punta		locality	14
 23452	1259745743	Karin		locality	6
-24430	1343550199	Ada		locality	1
-31000	101751779	Esseg		locality	1966
-31000	101792427	Sarvaš		locality	154
+24430	1343550199	Ada		locality	2
+25100	1125959255	Vinkuran		locality	1
+31000	101751779	Esseg		locality	2258
+31000	101792427	Sarvaš		locality	158
 31000	1360269165	Podravlje		locality	11
-31000	101844809	Brijest		locality	6
+31000	101844809	Brijest		locality	7
+31000	101754517	Klisa		locality	5
 31000	1243352483	Nemetin		locality	1
 31200	101796899	Makarska		locality	1
-31204	101792427	Sarvaš		locality	5
+31204	101792427	Sarvaš		locality	7
+31204	101792429	Bijelo Brdo		locality	4
+31205	1293772819	Aljmas		locality	6
+31206	1125936893	Erdut		locality	3
 31207	1242863209	Klisa		locality	28
-31207	101793561	Tenja		locality	3
+31207	101793561	Tenja		locality	8
 31208	101792413	Petrijevci		locality	36
+31214	101793601	Laslovo		locality	3
 31214	1242671491	Silas		locality	1
-31215	101793599	Ernestinovo		locality	3
-31216	101793563	Antunovac		locality	28
+31215	101793599	Ernestinovo		locality	6
+31216	101793563	Antunovac		locality	42
 31216	1209604277	Divos		locality	4
-31216	101793603	Ivanovac		locality	1
-31220	101754515	Višnjevac		locality	34
+31216	101793603	Antunovac		locality	4
+31220	101754515	Višnjevac		locality	36
 31221	101758597	Josipovac		locality	89
 31222	101792411	Bizovac		locality	5
 31223	1226225955	Novaki Bizovacki		locality	2
+31223	1343645381	Broganci		locality	1
 31224	101792431	Koška		locality	1
 31224	1259672705	Niza		locality	1
 31225	1226832911	Breznica Nasicka		locality	6
-31226	101793611	Dalj		locality	7
-31300	101785785	Monostor		locality	94
+31226	101793611	Dalj		locality	10
+31300	101785785	Monostor		locality	103
+31300	1309695929	Bolman		locality	5
 31300	101844807	Popovac		locality	1
 31301	101791219	Branjin Vrh		locality	2
-31303	101844807	Popovac		locality	6
+31303	101844807	Popovac		locality	9
 31304	1276968243	Dubosevica		locality	2
 31305	1209101203	Draz		locality	5
-31306	101791221	Batina		locality	1
+31306	101791221	Batina		locality	7
+31307	1125853185	Zmajevac		locality	4
+31309	101792415	Kneževi Vinogradi		locality	10
 31309	1125995317	Lug		locality	7
-31309	101792415	Kneževi Vinogradi		locality	3
+31315	101792419	Karanac		locality	7
 31321	1125958907	Petlovac		locality	1
 31322	1259372027	Baranjsko Petrovo Selo		locality	2
 31322	1343954085	Novi Bezdan		locality	2
-31324	101844805	Jagodnja		locality	2
-31325	101792417	Čeminac		locality	124
+31323	1309695929	Bolman		locality	1
+31324	101844805	Jagodnja		locality	6
+31325	101792417	Čeminac		locality	137
 31325	1226337529	Kozarac		locality	1
-31326	101792425	Darda		locality	3
-31326	1125937363	Mece		locality	2
-31327	101792423	Belje		locality	11
-31327	1209510313	Kopacevo		locality	1
-31328	1125995317	Lug		locality	1
+31326	101792425	Darda		locality	33
+31326	1125937363	Mece		locality	3
+31327	101792423	Belje		locality	14
+31327	1209510313	Kopacevo		locality	3
+31328	1125995317	Lug		locality	2
 31328	1327327303	Zlatna Greda		locality	1
-31329	1125995317	Lug		locality	1
-31400	101793593	Djakovo		locality	118
-31400	1242671311	Ivanovci Gorjanski		locality	7
+31329	1327327303	Zlatna Greda		locality	1
+31400	101793593	Djakovo		locality	138
+31400	1225927711	Ivanovci		locality	19
+31400	101793597	Budrovci		locality	15
+31400	1310389187	Lapovci		locality	4
 31400	1125858477	Kuševac		locality	1
-31401	101793587	Viškovci		locality	1
+31401	101793587	Viškovci		locality	2
+31402	1326613945	Forkusevci		locality	51
 31402	101793589	Semeljci		locality	1
 31403	101793583	Vuka		locality	1
 31404	101793579	Vladislavci		locality	1
-31410	101874235	Strizivojna		locality	9
-31417	101793607	Piškorevci		locality	4
-31424	1259466823	Josipovac Punitovacki		locality	58
+31410	101874235	Strizivojna		locality	12
+31417	101793607	Piškorevci		locality	8
+31418	1293507931	Drenje		locality	4
+31422	101793581	Gorjan		locality	5
+31424	1259466823	Josipovac Punitovacki		locality	59
 31424	1259672693	Punitovci		locality	1
-31431	1226768075	Livana		locality	147
-31431	101835397	Čepin		locality	107
+31431	1226768075	Livana		locality	148
+31431	101835397	Čepin		locality	111
 31431	101751779	Esseg		locality	10
 31431	1259963443	Cokadinci		locality	5
 31431	1260063939	Beketinci		locality	2
 31431	1259973409	Cepinski Martinci		locality	1
 31433	1125958973	Podgorač		locality	1
-31500	101835403	Našice		locality	11
-31500	101793577	Jelisavac		locality	2
+31500	101835403	Našice		locality	29
+31500	101793577	Jelisavac		locality	3
+31500	1126005469	Vukojevci		locality	2
+31500	1293672863	Granice		locality	1
+31500	1293478789	Lila		locality	1
 31500	101835401	Markovac Našički		locality	1
+31511	101793569	Đurđenovac		locality	8
 31511	1193262153	Susine		locality	1
-31511	101793569	Đurđenovac		locality	1
-31512	101793567	Feričanci		locality	5
-31531	101792433	Viljevo		locality	55
-31540	101792435	Donja Miholjac		locality	96
+31512	101793567	Feričanci		locality	10
+31513	101793571	Moticina		locality	3
+31531	101792433	Viljevo		locality	158
+31540	101792435	Donja Miholjac		locality	137
+31542	1326625667	Kucanci		locality	1
 31542	1310495401	Magadenovac		locality	1
-31550	101792409	Valpovo		locality	185
+31543	1209410279	Miholjacki Porec		locality	4
+31543	1225927599	Golinci		locality	3
+31543	1125770861	Rakitovica		locality	3
+31550	101792409	Valpovo		locality	186
 31550	1209095221	Satnica		locality	51
-31550	1293583011	Nard		locality	36
+31550	1293583011	Nard		locality	38
 31550	1327251653	Sag		locality	26
-31550	1310094539	Bocanjevci		locality	20
+31550	1310094539	Bocanjevci		locality	22
 31550	1243252565	Gorica Valpovacka		locality	12
 31550	101792407	Ladimirevci		locality	6
 31550	1225829057	Samatovci		locality	5
-31551	101835395	Belišće		locality	13
-31551	101835407	Bistrinci		locality	1
+31551	101835395	Belišće		locality	177
+31551	101835407	Bistrinci		locality	2
+31552	1243347315	Podgajci Podravski		locality	4
 31553	1125909347	Črnkovci		locality	4
+31554	1276537883	Gat		locality	3
+31554	1226063231	Tiborjanci		locality	2
+31554	1226635123	Vinogradci		locality	1
 31555	1125958661	Marijanci		locality	1
-32000	101835325	Vukovar		locality	304
+32000	101835325	Vukovar		locality	475
+32000	101835313	Vinkovcze		locality	1
 32010	1226611727	Lipovaca		locality	83
-32010	101835325	Vukovar		locality	8
+32010	101835325	Vukovar		locality	7
 32010	1343325079	Borovo Naselje		locality	2
 32011	101835325	Vukovar		locality	1
-32100	1126024873	Vinkovci		locality	84
+32100	1126024873	Vinkovci		locality	147
 32100	101835325	Vukovar		locality	1
 32101	101835313	Vinkovcze		locality	1
 32103	101835313	Vinkovcze		locality	4
-32212	1243135335	Gabos		locality	1
+32212	1243135335	Gabos		locality	4
 32213	1125958679	Markušica		locality	2
 32214	1125947723	Tordinci		locality	1
+32221	101793485	Nuštar		locality	57
 32221	101793487	Cerić		locality	4
-32221	101793485	Nuštar		locality	1
 32222	101793489	Bršadin		locality	2
 32224	101793491	Trpinja		locality	1
 32225	101793515	Bobota		locality	1
-32227	1125784775	Borovo		locality	15
+32227	1125784775	Borovo		locality	144
 32229	1125860543	Petrovci		locality	1
 32232	1126038107	Sotin		locality	9
 32233	1310567575	Opatovac		locality	1
 32234	1126029947	Šarengrad		locality	1
 32235	101793517	Bapska		locality	1
-32236	101793521	Ilok		locality	10
-32237	1344132791	Mohovo		locality	23
+32236	101793521	Ilok		locality	334
+32237	1344132791	Mohovo		locality	19
 32237	101844785	Lovas		locality	2
 32238	1209381049	Miklosevcy		locality	9
 32238	1326605969	Cakovci		locality	1
 32239	101793493	Negoslavci		locality	1
-32240	101835317	Mirkovci		locality	3
+32240	101835317	Mirkovci		locality	26
 32241	101835319	Stari Jankovci		locality	2
-32242	101793503	Slakovci		locality	381
+32242	101793503	Slakovci		locality	385
 32242	1209381049	Miklosevcy		locality	10
 32243	1343228285	Orolik		locality	1
-32244	1209280659	Deletovci		locality	1
-32245	101794681	Nemci		locality	2
-32246	101794699	Lipovac		locality	2
+32244	1209280659	Deletovci		locality	2
+32245	101794681	Nemci		locality	3
+32246	101794699	Lipovac		locality	44
 32247	1293452921	Banovci		locality	1
 32248	101793497	Ilača		locality	2
-32249	101793495	Tovarnik		locality	32
-32251	101793499	Privlaka		locality	1
+32249	101793495	Tovarnik		locality	22
+32251	101793499	Privlaka		locality	2
 32252	101794683	Otok		locality	16
 32253	101794685	Komletinci		locality	41
-32254	101794703	Vrbanje		locality	3
+32254	101794703	Vrbanje		locality	5
 32256	1309969303	Strosinci		locality	1
 32257	101794705	Drenovci		locality	3
+32257	1326796833	Durici		locality	1
 32258	101794711	Posavski Podgajci		locality	1
-32260	101794709	Gunja		locality	3
-32270	101794693	Zsupanja		locality	36
-32271	101835327	Rokovci		locality	6
-32271	1126020741	Andrijaševci		locality	4
+32260	101794709	Gunja		locality	4
+32270	101794693	Zsupanja		locality	42
+32271	101835327	Rokovci		locality	8
+32271	1126020741	Andrijaševci		locality	6
 32273	101794687	Gradište		locality	10
 32275	101794695	Bošnjaci		locality	3
 32276	101794697	Babina Greda		locality	1
 32281	101793513	Ivankovo		locality	3
-32284	1259677621	Vrbica		locality	4
-33000	101835353	Virovitica		locality	20
+32284	1360281425	Durdanci		locality	6
+32284	1259677621	Vrbica		locality	5
+32284	101835331	Stari Mikanovci		locality	1
+32660	101794709	Gunja		locality	1
+33000	101835353	Virovitica		locality	25
 33000	101857847	Milanovac		locality	1
 33000	1326718579	Podgorje Pozesko		locality	1
-33405	101791213	Pitomača		locality	5
+33405	101791213	Pitomača		locality	16
 33410	101835355	Suhopolje		locality	6
 33412	1125958031	Cabuna		locality	4
 33507	1343632871	Crnac		locality	3
-33515	101793547	Orahovica		locality	140
+33515	101793547	Orahovica		locality	141
 33515	1326993701	Stara Josava		locality	11
+33515	1126039135	Mikleuš		locality	1
 33517	1126039135	Mikleuš		locality	1
-33520	101792357	Slatina		locality	4
+33520	101792357	Slatina		locality	19
 33523	1259555017	Cadavica		locality	1
-34000	101835309	Požega		locality	63
-34308	101844781	Jakšić		locality	3
-34310	101835303	Peternica		locality	8
+34000	101835309	Požega		locality	1219
+34000	1243532741	Mihaljevci		locality	1
+34000	1209202689	Novo Selo Pozesko		locality	1
+34000	101835301	Vidovci		locality	1
+34308	101844781	Jakšić		locality	8
+34310	101835303	Peternica		locality	7
+34310	101791213	Pitomača		locality	1
 34322	1125962959	Brestovac		locality	3
-34330	101844777	Velika		locality	141
-34334	101793481	Kaptol		locality	2
+34330	101844777	Velika		locality	814
+34334	101793481	Kaptol		locality	5
 34340	1126038077	Kutjevo		locality	6
 34350	1293270359	Rusevo		locality	3
-34350	1242765863	Caglin		locality	2
+34350	1242765863	Caglin		locality	3
 34543	1226634209	Poljana		locality	3
-34550	101835307	Pakrac		locality	16
-34551	101835305	Lipik		locality	134
+34550	101835307	Pakrac		locality	30
+34551	101835305	Lipik		locality	136
 34551	1243442657	Donji Caglic		locality	1
-35000	101751773	Brod		locality	202
+35000	101751773	Brod		locality	230
 35000	101754505	Brodski Varoš		locality	2
 35107	101754503	Podvinje		locality	6
-35208	101844771	Rušćica		locality	2
-35208	101754501	Vrba Gornja		locality	1
+35208	101754501	Vrba Gornja		locality	12
+35208	101844771	Klakar		locality	2
 35210	101793565	Vrpolje		locality	3
-35212	101794637	Garčin		locality	9
-35214	101794639	Donji Andrijevci		locality	12
+35212	101794637	Garčin		locality	10
+35214	101794639	Donji Andrijevci		locality	13
 35215	1242973993	Sredanci		locality	1
-35221	101794631	Velica Kopanica		locality	1
+35220	101836447	Kruševica		locality	7
+35221	101794631	Velica Kopanica		locality	114
+35222	101794633	Gundinci		locality	5
 35250	101835285	Oriovac		locality	2
 35254	1125958399	Kaniža		locality	83
-35400	101835295	Ljupina		locality	13
+35400	101835295	Nova Gradiška		locality	30
 35403	101835299	Rešetari		locality	3
+35404	101835291	Cernik		locality	8
 35404	1309816547	Sumetlica Cernicka		locality	1
 35410	101794645	Nova Kapela		locality	1
 35420	101794649	Staro Petrovo Selo		locality	5
-35430	101794651	Okučani		locality	5
-35435	1343371849	Stara Gradiska		locality	1
-40000	101834371	Čakovec		locality	3219
-40000	101834375	Šenkovec		locality	141
+35430	101794651	Okučani		locality	7
+35435	1343371849	Stara Gradiska		locality	4
+35551	101835395	Belišće		locality	1
+40000	101834371	Čakovec		locality	3335
+40000	101834375	Šenkovec		locality	140
 40000	101834377	Strahoninec		locality	27
 40000	101874237	Mačkovec		locality	11
+40000	101834381	Pribislavec		locality	10
 40000	101834373	Savska Ves		locality	2
 40000	1260272841	Stefanec		locality	2
 40000	101874241	Mihovljan		locality	1
-40000	101834381	Pribislavec		locality	1
 40035	101834383	Nedelišće		locality	1
-40305	101834383	Nedelišće		locality	192
+40139	1126001155	Bela		locality	5
+40305	101834383	Nedelišće		locality	458
 40305	101791319	Pušćine		locality	2
 40305	101858921	Kuršanec		locality	1
-40306	1292990567	Macinec		locality	42
-40311	1125765767	Lopatinec		locality	46
+40306	1292990567	Macinec		locality	40
+40311	1125765767	Lopatinec		locality	23
 40311	1293508547	Vucetinec		locality	3
-40312	1293276709	Strigova		locality	2035
+40312	1293276709	Strigova		locality	1885
 40312	1343847773	Sveti Martin na Muri		locality	1
-40313	1343847773	Sveti Martin na Muri		locality	1864
+40313	1343847773	Sveti Martin na Muri		locality	1817
 40313	101834375	Šenkovec		locality	7
 40313	1242863823	Hlapicina		locality	2
-40314	101790173	Selnica		locality	32
+40314	101790173	Selnica		locality	33
 40314	1225940763	Praporcan		locality	13
-40315	101790161	Mursko Središće		locality	1186
-40316	1125978121	Vratišinec		locality	12
-40319	101790177	Belica		locality	4
+40315	101790161	Mursko Središće		locality	1184
+40316	1125978121	Vratišinec		locality	11
+40317	101790165	Podturen		locality	8
+40318	1125937221	Dekanovec		locality	4
+40318	101790185	Domašinec		locality	1
+40319	1126001155	Bela		locality	6
 40320	101790183	Donji Kraljevec		locality	1
+40320	101790181	Hodošan		locality	1
 40321	101790179	Mala Subotica		locality	7
 40321	1326951321	Sveti Kriz		locality	2
 40322	101790167	Orehovica		locality	5
-40323	101790187	Prelog		locality	12
+40323	101790187	Prelog		locality	29
 40323	1125809227	Cirkovljan		locality	4
-40324	101790191	Goričan		locality	36
-40328	101790197	Donja Dubrava		locality	1
-40329	101790193	Kotoriba		locality	6
-40332	101790191	Goričan		locality	1
-42000	101834359	Varasd		locality	290
-42000	101791303	Gornji Kućan		locality	3
+40324	101790191	Goričan		locality	37
+40329	101790193	Kotoriba		locality	10
+40332	101790191	Goričan		locality	2
+42000	101834359	Varasd		locality	345
+42000	1343543331	Gojanec		locality	32
+42000	101791303	Varaždin		locality	3
 42000	101834365	Jalkovec		locality	1
-42020	101791315	Trnovec		locality	1
+42008	101834353	Gornje Vratno		locality	1
+42020	101791315	Trnovec Bartolovečki		locality	1
 42103	101834359	Varasd		locality	1
-42104	101834359	Varasd		locality	1
-42105	101834359	Varasd		locality	1
-42201	101791293	Bertinec		locality	1
-42202	101791315	Trnovec		locality	5
+42201	101791293	Bertinec		locality	2
+42202	101791315	Trnovec Bartolovečki		locality	5
 42203	101791301	Jalžabet		locality	3
 42204	1343631061	Crnec Biskupecki		locality	17
-42204	1310673283	Turcin		locality	5
+42204	1310673283	Turcin		locality	8
 42204	1343744355	Donji Kneginec		locality	2
 42204	101791311	Gornji Kneginec		locality	1
 42205	1125975567	Vidovec		locality	3
@@ -762,67 +874,74 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 42206	1277159491	Majerje		locality	9
 42207	101834357	Vinica		locality	4
 42207	1343731867	Marcan		locality	1
-42208	1243336015	Cestica		locality	15
+42208	1243336015	Cestica		locality	8
 42209	101834367	Sračinec		locality	12
+42214	1343734733	Sveti Ilija		locality	3
 42220	101791299	Novi Marof		locality	9
 42222	101791309	Ljubešćica		locality	2
-42223	101791313	Varaždinske Toplice		locality	16
-42225	1276735089	Breznicki Hum		locality	2
-42226	1125996839	Bisag		locality	1
+42223	101791313	Varaždinske Toplice		locality	17
+42225	1276735089	Breznicki Hum		locality	3
+42226	1125996839	Bisag		locality	2
 42230	101791317	Ludbreg		locality	14
-42231	1226312543	Veliki Bukovec		locality	2
-42233	1226124599	Sveti Durd		locality	1
-42240	101791285	Ivanci		locality	21
+42233	1226124599	Sveti Durd		locality	3
+42240	101791285	Ivanci		locality	32
 42243	1309887901	Marusevec		locality	1
-42244	101857875	Klenovnik		locality	3
+42244	1125975525	Lovnik		locality	3
+42250	1209487831	Kamenica		locality	65
 42250	101791289	Lepoglav		locality	24
 42253	1259849117	Bednja		locality	3
+42253	1125882947	Trakošćan		locality	1
 42255	1259765439	Donja Visnjica		locality	2
-43000	101835417	Bjelovar		locality	81
-43000	101835409	Trojstveni Markovac		locality	26
-43000	1243038803	Popovaca		locality	1
+43000	101835417	Bjelovar		locality	103
+43000	101835409	Trojstveni Markovac		locality	28
 43000	101857859	Predavac		locality	1
 43203	1310309093	Kapela		locality	1
+43226	101791223	Trojstvo Veliko		locality	1
 43231	1125993737	Ivanska		locality	1
 43240	101792437	Čazma		locality	8
-43270	101792445	Veliki Grđevac		locality	4
+43270	101792445	Veliki Grđevac		locality	5
 43270	101835417	Bjelovar		locality	1
+43271	101792443	Velika Pisanica		locality	1
 43272	1293497275	Nova Raca		locality	1
-43280	1125880673	Garešnica		locality	10
+43280	1125880673	Garešnica		locality	9
 43284	101792447	Hercegovac		locality	3
 43290	101792449	Grubišno Polje		locality	9
 43293	101792451	Veliki Zdenci		locality	1
-43500	101793613	Daruvar		locality	53
+43500	101793613	Daruvar		locality	59
 43505	1126038055	Končanica		locality	1
-44000	101874233	Sziszek		locality	904
-44010	101874233	Sziszek		locality	2
+43506	101857861	Dežanovac		locality	7
+43532	1293897587	Dulovac		locality	3
+44000	101874233	Sziszek		locality	910
+44010	101874233	Sziszek		locality	3
 44103	101874233	Sziszek		locality	1
-44104	101874233	Sziszek		locality	1
+44201	1243528285	Martinska Ves		locality	3
 44202	1126038121	Topolovac		locality	1
 44203	1276951845	Lonja		locality	2
 44210	101793533	Sunja		locality	2
 44217	1209288277	Zazina		locality	1
-44250	101793525	Petrinja		locality	24
-44253	1259849117	Bednja		locality	1
+44250	101793525	Petrinja		locality	17
 44272	101793523	Lekenik		locality	4
 44316	1277156037	Velika Ludina		locality	2
-44317	1243038803	Popovaca		locality	7
+44317	1243038803	Popovaca		locality	12
 44317	1226728723	Podbrge		locality	1
 44320	101835345	Kutina		locality	35
 44320	1243046891	Kutinska Slatina		locality	1
 44321	1293754755	Banova Jaruga		locality	1
-44322	101793529	Lipovljani		locality	139
-44324	1126023149	Jasenovac		locality	2
-44330	101793527	Novska		locality	22
-44330	1309695719	Paklenica		locality	2
-44400	101794717	Glina		locality	19
-44410	101844789	Gvozd / Vrginmost		locality	43
-44415	1293854881	Topusko		locality	102
+44322	101793529	Lipovljani		locality	140
+44323	1276424447	Borovac		locality	1
+44323	1242761323	Rozdanik		locality	1
+44323	1326701279	Vocarica		locality	1
+44324	1126023149	Jasenovac		locality	3
+44330	101793527	Novska		locality	28
+44400	101794717	Glina		locality	16
+44410	101844789	Gvozd / Vrginmost		locality	42
+44415	1293854881	Topusko		locality	107
 44415	1260053879	Gregani		locality	1
-44430	101794715	Hrvatska Kostajnica		locality	3
+44430	101794715	Hrvatska Kostajnica		locality	5
+44430	1125817211	Dubica		locality	3
 44440	101844787	Dvor		locality	2
-44450	1125817211	Dubica		locality	1
-47000	101793541	Karlovac		locality	803
+44450	1125817211	Dubica		locality	4
+47000	101793541	Karlovac		locality	945
 47103	101793541	Karlovac		locality	1
 47104	101793541	Karlovac		locality	1
 47105	101793541	Karlovac		locality	1
@@ -832,60 +951,66 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 47201	101793541	Karlovac		locality	1
 47206	1276251919	Lasinja		locality	2
 47212	1276476485	Skakavac		locality	1
-47220	101794727	Vojnić		locality	31
+47220	101794727	Vojnić		locality	32
 47222	1243295683	Cetingrad		locality	1
-47240	101794721	Slunj		locality	115
+47240	101794721	Slunj		locality	130
+47241	101793541	Karlovac		locality	2
 47241	1326829265	Cerovac Vukmanicki		locality	1
 47241	1243176923	Tusilovic		locality	1
 47242	1310500631	Krnjak		locality	1
-47245	1126016705	Rakovica		locality	13
+47245	1126016705	Rakovica		locality	14
 47245	1344079505	Grabovac		locality	2
 47245	1327052879	Jelov Klanac		locality	1
 47245	1276767509	Seliste		locality	1
 47246	1125921887	Drežnik Grad		locality	2
 47246	1276767509	Seliste		locality	1
 47250	101793539	Duga Resa		locality	36
-47251	1225844197	Bosiljevo		locality	2
+47251	1225844197	Bosiljevo		locality	5
 47252	1326534501	Barilovic		locality	1
 47254	1126016705	Rakovica		locality	1
-47262	1243368353	Generalski Stol		locality	1
+47261	1310404827	Donji Zvecaj		locality	2
+47262	1243368353	Generalski Stol		locality	7
 47264	1293593955	Tounj		locality	1
 47271	1360308125	Netretic		locality	3
 47272	1343857345	Ribnik		locality	1
 47276	1243559499	Zakanje		locality	1
-47280	101793543	Ozalj		locality	72
+47280	101793543	Ozalj		locality	87
 47280	1243090177	Doljani Zumberacki		locality	25
 47281	1343661107	Mali Erjavec		locality	1
 47282	1309928617	Kamanje		locality	1
-47286	1293906361	Mahicno		locality	12
+47286	1293906361	Mahicno		locality	11
 47286	1226574659	Levkusje		locality	2
-47300	101794729	Ogulin		locality	17
-47303	1126008775	Josipdol		locality	2
+47300	101794729	Ogulin		locality	22
+47303	1126008775	Josipdol		locality	3
 47304	101794719	Plaški		locality	3
 47306	1242700571	Saborsko		locality	1
-48000	101834349	Kopreinitz		locality	85
+48000	101834349	Kopreinitz		locality	470
 48000	1326823467	Heresin		locality	12
 48214	101791281	Sveti Ivan Žabno		locality	3
 48222	1293609073	Dabar		locality	1
 48241	101791281	Sveti Ivan Žabno		locality	1
-48260	101791283	Kreuz		locality	44
+48260	101791283	Kreuz		locality	63
 48260	1327226363	Klostar Vojakovacki		locality	1
+48269	1125959195	Kalnik		locality	1
+48305	101791253	Reka		locality	2
 48306	1259901979	Lepavina		locality	1
+48314	101844813	Koprivnički Ivanec		locality	2
 48316	101791247	Đelekovec		locality	1
 48317	101791245	Legrad		locality	1
 48323	101791259	Hlebine		locality	9
-48325	101791257	Novigrad Podravski		locality	1
+48325	101791257	Novigrad Podravski		locality	2
 48326	101791267	Virje		locality	1
-48327	101791265	Molve		locality	1
-48350	101791271	Đurđevac		locality	15
+48327	101791265	Molve		locality	5
+48350	1126023085	Đurđevac		locality	18
 48350	1242871851	Cepelovac		locality	2
 48361	101791273	Kalinovac		locality	5
-49000	101791235	Krapina		locality	19
-49210	101791227	Zabok		locality	25
+49000	101791235	Krapina		locality	30
+49210	101791227	Zabok		locality	36
+49210	1226137147	Pavlovec-Zabocki		locality	14
 49214	1310127253	Veliko Trgovisce		locality	5
 49215	1226437007	Tuhelj		locality	4
-49216	1309733229	Desinic		locality	4
-49217	101791239	Krapinske Toplice		locality	37
+49216	1309733229	Desinic		locality	5
+49217	101791239	Krapinske Toplice		locality	46
 49217	1327125995	Vrtnjakovec		locality	1
 49218	101791237	Pregrada		locality	10
 49219	1226036631	Vinagora		locality	1
@@ -894,27 +1019,31 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 49223	1209019433	Sveti Kriz Zacretje		locality	6
 49223	1242669203	Sveti Kriz		locality	2
 49223	1226744425	Sveti Kriz Zacretje		locality	1
+49224	1125862737	Lepajci		locality	1
 49225	1327354975	Durmanec		locality	8
 49225	1259874005	Macelj		locality	1
 49228	1243193663	Brestovec		locality	1
 49231	101857871	Hum		locality	3
-49232	101857867	Radobolj		locality	5
+49231	1310199571	Lupinjak		locality	1
+49232	101857867	Radobolj		locality	6
 49233	1344178529	Gornje Jesenje		locality	3
 49234	1225839597	Petrovsko		locality	4
 49240	101844811	Stubica-Dolnji		locality	13
-49243	101835425	Oroslavje		locality	9
-49243	1344249773	Mokrice Miholecke		locality	1
+49243	101835425	Oroslavje		locality	13
+49243	1344249773	Mokrice Miholecke		locality	6
 49243	1276438755	Stubicka Slatina		locality	1
-49244	101835427	Stubičke Toplice		locality	7
+49244	101835427	Stubičke Toplice		locality	8
 49244	1276325635	Strmec Stubicki		locality	1
 49245	1326521895	Gornja Stubica		locality	3
 49245	1276218453	Dubovec		locality	1
 49245	1343879587	Hum Stubicki		locality	1
-49246	101791243	Marija Bistrica		locality	7
+49245	1259675567	Samci		locality	1
+49246	101791243	Marija Bistrica		locality	8
 49246	101751659	Zagreb		locality	1
 49247	101791241	Zlatar Bistrica		locality	6
 49247	1276465227	Zlatar bistrica		locality	1
-49250	101791231	Zlatar		locality	9
+49249	1293680975	Kraljevec na Sutli		locality	2
+49250	101791231	Zlatar		locality	10
 49251	1343256469	Mace		locality	2
 49252	101857863	Mihovlan		locality	3
 49253	1310693077	Lobor		locality	4
@@ -922,11 +1051,11 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 49255	1276325605	Novi Golubovec		locality	3
 49282	1243285231	Konjscina		locality	5
 49284	1326551569	Budinscina		locality	2
-49290	1126017849	Klanjec		locality	4
+49290	1126017849	Klanjec		locality	5
 49294	1293680975	Kraljevec na Sutli		locality	3
 49295	1327026823	Kumrovec		locality	6
 49296	1293580879	Zagorska Sela		locality	2
-51000	101751775	Rijeka		locality	2137
+51000	101751775	Rijeka		locality	2368
 51000	1125850403	Klimno		locality	1
 51103	101751775	Rijeka		locality	1
 51104	101751775	Rijeka		locality	1
@@ -939,120 +1068,130 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 51115	101751775	Rijeka		locality	1
 51116	101751775	Rijeka		locality	1
 51118	101751775	Rijeka		locality	1
-51120	101795803	Rovigno D'istria		locality	2
+51120	101795803	Rovigno D'istria		locality	1
 51208	1125809449	Rab		locality	1
 51211	101758587	Matulgi		locality	6
 51212	1344143993	Vele Mune		locality	1
 51213	1226319829	Jurdani		locality	3
 51214	1209201655	Lipa		locality	13
 51214	1260367255	Sapjane		locality	3
-51215	101760469	Castua		locality	15
-51216	101758583	Viškovo		locality	6
+51215	101760469	Castua		locality	34
+51216	101758583	Viškovo		locality	7
 51216	101794677	Jadranovo		locality	4
-51217	1126005495	Klana		locality	1
+51217	1126005495	Klana		locality	3
 51218	101857837	Dražice		locality	1
-51219	101758579	Čavle		locality	4
+51219	101758579	Čavle		locality	5
 51219	101751775	Rijeka		locality	1
-51221	1125817393	Kostrena		locality	4
+51221	1125817393	Kostrena		locality	6
 51222	101794663	Bakovac		locality	4
 51223	1125951173	Škrljevo		locality	5
-51224	101794659	Krasica		locality	1
+51224	101794659	Krasica		locality	4
 51226	101794667	Hreljin		locality	1
-51227	1125937345	Kukuljanovo		locality	2
+51227	1125937345	Kukuljanovo		locality	3
 51236	101794669	Vrbovsko		locality	4
-51241	1242854627	Krizisce		locality	1
-51242	1125954907	Drivenik		locality	4
+51241	1242854627	Krizisce		locality	2
+51242	1125954907	Drivenik		locality	2
 51243	1243054909	Tribalj		locality	3
-51244	1326917345	Grizane		locality	1
+51244	1326917345	Grizane		locality	3
 51250	101794657	Novi		locality	12
 51251	1125963007	Ledenice		locality	1
 51252	1125788459	Klenovica		locality	1
 51253	101794655	Bribir		locality	2
-51260	101836455	Cirquenizza		locality	27
+51260	101836455	Cirquenizza		locality	49
 51261	1327313993	Bakarac		locality	1
 51262	101794661	Porto Re		locality	18
-51263	1326810473	Smrika		locality	1
+51263	1326810473	Smrika		locality	2
 51264	101794677	Jadranovo		locality	3
 51265	101836457	Dramalj		locality	13
-51266	101836453	Selce		locality	14
-51280	1125809449	Rab		locality	40
+51266	101836453	Selce		locality	18
+51269	101836455	Cirquenizza		locality	1
+51280	1125809449	Rab		locality	55
 51280	101836439	Banjol		locality	1
-51281	101844767	Lopar		locality	10
+51281	101844767	Lopar		locality	14
 51300	101794675	Delnice		locality	9
 51301	1242851537	Brod na Kupi		locality	1
 51303	1226229385	Plesce		locality	1
 51304	1276966397	Gerovo		locality	1
-51305	1209702949	Trsce		locality	1
-51306	1293279319	Zamost		locality	27
+51305	1209702949	Trsce		locality	3
 51306	1125937201	Čabar		locality	7
+51306	1293279319	Zamost		locality	4
 51307	1125959053	Prezid		locality	1
-51311	1125807205	Skrad		locality	1
+51311	1125807205	Skrad		locality	2
 51312	1326717371	Brod Moravice		locality	1
 51313	1327111797	Kupjak		locality	3
 51314	101794673	Gora		locality	4
 51315	1125872503	Mrkopalj		locality	2
 51316	1125817473	Lokve		locality	2
-51317	1344034941	Crni Lug		locality	1
+51317	1344034941	Crni Lug		locality	2
 51317	1310382727	Malo Selo		locality	1
-51322	1125921907	Fužine		locality	3
+51322	1125921907	Fužine		locality	4
 51322	1327213955	Benkovac Fuzinski		locality	1
-51323	1243152199	Lic		locality	1
+51323	1243152199	Lic		locality	4
 51324	1125817609	Zlobin		locality	1
-51326	101794669	Vrbovsko		locality	4
+51326	101794669	Vrbovsko		locality	5
 51327	1326807537	Gomirje		locality	1
 51328	1226031977	Lukovdol		locality	2
 51329	1343845149	Severin na Kupi		locality	2
 51329	1360262261	Zdihovo		locality	1
-51410	101758593	Abbazia		locality	34
+51410	101758593	Abbazia		locality	37
 51410	1193258551	Volosko		locality	1
 51413	101758593	Abbazia		locality	1
-51414	1260067295	Icici		locality	4
+51414	1260067295	Icici		locality	3
 51415	1276206603	Opric		locality	20
-51415	101794679	Lovran		locality	17
-51415	1126023137	Ika		locality	2
-51417	1125892885	Mošćenička Draga		locality	2
+51415	101794679	Lovran		locality	18
+51415	1126023137	Ika		locality	3
+51417	1125892885	Mošćenička Draga		locality	6
 51417	1226319757	Moscenice		locality	1
-51500	101792343	Veglia		locality	47
+51500	101792343	Veglia		locality	132
 51500	1125913179	Kornić		locality	1
 51500	1326617283	Pinezici		locality	1
 51500	1243441421	Vrh		locality	1
-51511	1125809405	Malinska		locality	32
+51511	1125809405	Malinska		locality	36
+51511	1126027553	Dobrinj		locality	2
 51511	1193124359	Sveti Vid-Miholjice		locality	2
-51511	1126027553	Dobrinj		locality	1
+51511	1125963109	Porat		locality	1
 51512	101794603	Njivice		locality	8
-51513	1125890051	Omišalj		locality	3
-51514	1126027553	Dobrinj		locality	3
+51513	1125890051	Omišalj		locality	5
+51514	1126027553	Dobrinj		locality	4
 51514	1125850403	Klimno		locality	2
 51514	1326807485	Gostinjac		locality	1
+51514	1277056265	Kras		locality	1
+51514	1226122675	Cizici		locality	1
 51515	1193117275	Silo		locality	19
-51516	1125812957	Vrbnik		locality	4
+51516	1125812957	Vrbnik		locality	13
 51516	1327016883	Garica		locality	3
-51517	1125913179	Kornić		locality	2
-51521	101795799	Punca		locality	7
+51517	1125913179	Kornić		locality	5
+51517	1293763747	Lakmartin		locality	1
+51521	101795799	Punca		locality	8
+51521	1125977947	Stara Baška		locality	1
 51522	1125921877	Draga Bašćanska		locality	1
+51523	1276206697	Jurandvor		locality	1
 51542	1125977903	Osor		locality	1
-51550	101795783	Mali Lošinj		locality	57
+51550	101795783	Mali Lošinj		locality	62
 51550	1310192317	Cunski		locality	1
-51551	1126003371	Veli Losinj		locality	5
+51551	1126003371	Veli Losinj		locality	6
 51552	1310192255	Ilovik		locality	1
 51553	101795783	Mali Lošinj		locality	1
-51554	1126023203	Nerezine		locality	12
+51554	1126023203	Nerezine		locality	13
 51554	1125977903	Osor		locality	1
 51556	1125913193	Martinšćica		locality	1
-51557	101795797	Cherso		locality	151
+51557	101795797	Cherso		locality	153
 51561	1125935003	Susak		locality	4
-51562	1209795783	Unije		locality	98
+51562	1209795783	Unije		locality	106
 51564	1310192317	Cunski		locality	1
-52000	101794627	Pisino		locality	14
+52000	101794627	Pisino		locality	25
+52000	1276341239	Pagubice		locality	16
 52000	101751771	Pluj		locality	11
 52000	1193022131	Butoniga		locality	1
 52000	1276335505	Zarecje		locality	1
-52100	101751771	Pluj		locality	5803
+52100	101751771	Pluj		locality	5903
+52100	1125987925	Premantura		locality	16
+52100	1126023061	Banjole		locality	5
 52100	1309929923	Muntic		locality	3
-52100	1126023061	Banjole		locality	2
 52100	101795813	Fasana D'istria		locality	2
-52100	1125987925	Premantura		locality	2
 52100	1243478399	Stinjan		locality	2
+52100	1125959255	Vinkuran		locality	2
+52100	1125921013	Ližnjan		locality	1
 52100	101795811	Medolino		locality	1
 52100	1125922017	Pomer		locality	1
 52100	101751775	Rijeka		locality	1
@@ -1063,37 +1202,41 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 52106	101751771	Pluj		locality	1
 52107	101751771	Pluj		locality	26
 52109	101751771	Pluj		locality	1
-52203	101795811	Medolino		locality	125
-52203	1125921013	Ližnjan		locality	2
-52203	1125987925	Premantura		locality	2
-52204	1125921013	Ližnjan		locality	8
+52203	101795811	Medolino		locality	134
+52203	1125987925	Premantura		locality	24
+52203	1126023061	Banjole		locality	2
+52203	1125921013	Ližnjan		locality	1
+52204	1125921013	Ližnjan		locality	9
 52204	1276986959	Sisan		locality	1
 52205	1125987925	Premantura		locality	1
 52206	1310210987	Orbanici		locality	80
-52206	101795807	Marzana D'istria		locality	1
+52206	101795807	Marzana D'istria		locality	38
+52206	1225845565	Krnica		locality	4
 52206	1309929923	Muntic		locality	1
 52207	1125783919	Barban		locality	22
 52208	1225845565	Krnica		locality	6
-52210	101795803	Rovigno D'istria		locality	601
-52211	1125853577	Bale		locality	539
-52212	101795813	Fasana D'istria		locality	88
+52208	1327232105	Peruski		locality	2
+52210	101795803	Rovigno D'istria		locality	3882
+52211	1125853577	Bale		locality	668
+52212	101795813	Fasana D'istria		locality	113
 52212	101751771	Pluj		locality	2
 52212	1327140383	Brijuni		locality	1
 52212	1326854463	Valbandon		locality	1
-52215	1210022687	Peroj		locality	1865
-52215	101795809	Dignano		locality	194
+52215	1210022687	Peroj		locality	1867
+52215	101795809	Dignano		locality	267
 52215	1125853577	Bale		locality	2
 52215	101795813	Fasana D'istria		locality	1
 52215	1243264219	Gajana		locality	1
 52216	101795801	Galižana		locality	3
-52220	101836443	Albona		locality	143
-52220	1344157625	Ravni		locality	1
-52221	101794609	Rabac		locality	10
+52220	101836443	Albona		locality	172
+52220	1360091069	Drenje		locality	2
+52220	1344157625	Ravni		locality	2
+52221	101794609	Rabac		locality	12
 52222	1243073541	Koromacno		locality	1
 52223	101794607	Raša		locality	1
 52224	1193276203	Trget		locality	1
 52230	101836443	Albona		locality	1
-52231	1209521433	Nedescina		locality	3
+52231	1209521433	Nedescina		locality	2
 52232	1242801847	Krsan		locality	1
 52233	1259583833	Susnjevica		locality	1
 52234	1125938383	Plomin		locality	3
@@ -1101,20 +1244,20 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 52234	1225868775	Vozilici		locality	1
 52332	1226575901	Pican		locality	1
 52333	1343668017	Potpican		locality	1
-52341	1125817621	Žminj		locality	28
+52341	1125817621	Žminj		locality	63
 52342	1125876827	Svetvinčenat		locality	107
 52342	1360108891	Boskari		locality	1
+52352	1125956191	Kanfanar		locality	84
 52352	1310525391	Matohanci		locality	23
-52352	1125956191	Kanfanar		locality	19
 52352	1259903895	Brajkovici		locality	8
 52352	1226646451	Sosici		locality	2
-52370	101795793	Zengg		locality	1
+52370	101795793	Zengg		locality	2
 52400	1125890475	Vrsar		locality	1
-52402	1276769153	Cerovlje		locality	2
+52402	1276769153	Cerovlje		locality	3
 52402	1259789503	Grimalda		locality	2
 52403	1310634001	Gracisce		locality	13
-52404	1125913371	Sveti Petar u Šumi		locality	4
-52420	101794623	Pinguente		locality	76
+52404	1125913371	Sveti Petar u Šumi		locality	5
+52420	101794623	Pinguente		locality	75
 52420	1209320809	Vodice		locality	69
 52420	1344263127	Slum		locality	53
 52420	1243073721	Dane		locality	45
@@ -1130,92 +1273,113 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 52422	1225868905	Prapoce		locality	52
 52422	1293595423	Brgudac		locality	50
 52422	1327431949	Raspor		locality	21
-52424	1125890977	Motovun		locality	6
+52424	1125890977	Motovun		locality	7
 52425	1125999539	Roč		locality	2
 52426	1125963053	Lupoglav		locality	142
 52426	1226631675	Pod		locality	62
 52426	1344063037	Semic		locality	61
 52426	1310311275	Dolenja Vas		locality	55
-52427	1125817459	Livade		locality	9
-52428	1125809431	Oprtalj		locality	2
+52427	1125817459	Livade		locality	59
+52428	1125809431	Oprtalj		locality	69
 52428	1276657547	Cepic		locality	1
-52429	1126023089	Grožnjan		locality	4
+52429	1126023089	Grožnjan		locality	156
 52434	1360009531	Boljunsko Polje		locality	93
 52434	1327357671	Boljun		locality	76
 52434	1242683963	Vranja		locality	71
-52440	101794625	Poreč		locality	90
+52440	101794625	Poreč		locality	114
+52440	1209816069	Kukci		locality	1
 52440	1125873627	Nova Vas		locality	1
 52440	1327431943	Veli Maj		locality	1
+52440	1125890475	Vrsar		locality	1
 52441	101794625	Poreč		locality	1
 52442	101794625	Poreč		locality	1
 52443	101794625	Poreč		locality	1
-52444	1242577993	Tinjan		locality	5
+52444	1242577993	Tinjan		locality	8
 52445	1293889889	Baderna		locality	2
-52446	1125873627	Nova Vas		locality	4
+52446	1125873627	Nova Vas		locality	5
+52446	1209816069	Kukci		locality	1
 52446	101794625	Poreč		locality	1
-52447	1125982811	Vižinada		locality	1
-52448	1243178437	Sveti Lovrec Pazenaticki		locality	3
+52447	1125982811	Vižinada		locality	132
+52447	1310702195	Vranje Selo		locality	2
+52448	1243178437	Sveti Lovrec Pazenaticki		locality	4
 52449	1125782281	Červar-Porat		locality	1
-52450	1125890475	Vrsar		locality	145
-52452	1125809355	Funtana		locality	476
-52460	101794619	Buie		locality	10
+52450	1125890475	Vrsar		locality	242
+52452	1125809355	Funtana		locality	477
+52460	101794619	Buie		locality	12
 52460	1226576105	Kaldanija		locality	1
 52460	1259684407	Momjan		locality	1
 52462	1259684407	Momjan		locality	2
-52463	1326830657	Visignano		locality	28
+52463	1326830657	Visignano		locality	31
+52463	1293201113	Radosi kod Visnjana		locality	2
 52463	1309718239	Rapavel		locality	1
 52465	1125938413	Tar		locality	4
+52465	101794625	Poreč		locality	1
 52465	1259784075	Vabriga		locality	1
-52466	101794613	Cittanova		locality	57
-52470	101794621	Umago		locality	69
+52466	101794613	Cittanova		locality	63
+52466	1125820461	Karigador		locality	1
+52470	101794621	Umago		locality	74
 52470	1243460459	Petrovija		locality	1
 52470	1125994553	Savudrija		locality	1
 52474	1125878783	Brtonigla		locality	11
 52474	1125820461	Karigador		locality	1
-52475	1125994553	Savudrija		locality	5
-52475	1193138255	Zambratija		locality	1
+52475	1125994553	Savudrija		locality	7
+52475	1193138255	Zambratija		locality	4
+52475	1343561533	Basanija		locality	1
 52745	1343561533	Basanija		locality	1
-53000	101795795	Gosnidj		locality	12
-53000	1226535613	Mogoric		locality	2
-53201	101795791	Lički Osik		locality	1
-53202	1125992653	Perušić		locality	6
-53211	1309891297	Smiljan		locality	1
-53220	101795785	Otočac		locality	9
+53000	101795795	Gosnidj		locality	59
+53000	1226535613	Mogoric		locality	3
+53201	101795791	Lički Osik		locality	7
+53202	1125992653	Perušić		locality	5
+53211	1309891297	Smiljan		locality	3
+53220	101795785	Otočac		locality	99
 53220	1276856801	Covici		locality	2
-53223	1277062055	Vrhovine		locality	3
-53230	101795789	Korenica		locality	8
-53231	1226564391	Plitvica Lakes		locality	5
-53231	1125851243	Plitvička Jezera		locality	4
+53220	1209512057	Zuta Lokva		locality	1
+53223	1277062055	Vrhovine		locality	9
+53223	1259669179	Rudopolje		locality	2
+53230	1226262787	Krbavica		locality	22
+53230	101795789	Korenica		locality	9
+53231	1226564391	Plitvica Lakes		locality	7
+53231	1125851243	Plitvička Jezera		locality	6
+53231	1209400265	Rastovaca		locality	5
+53231	1226462587	Jezerce		locality	2
 53231	1310597047	Smoljanac		locality	2
-53231	1226462587	Jezerce		locality	1
+53231	101795789	Korenica		locality	1
 53231	1360175357	Mukinje		locality	1
-53231	1209400265	Rastovaca		locality	1
 53231	1276767509	Seliste		locality	1
-53234	1225835753	Udbina		locality	2
+53233	1293283061	Licko Petrovo Selo		locality	1
+53234	1225835753	Udbina		locality	3
+53244	1226133317	Sveti Rok		locality	2
 53244	1125921029	Lovinac		locality	1
-53250	1343546719	Donji Lapac		locality	2
-53260	101792341	Brinje		locality	3
+53250	1343546719	Donji Lapac		locality	4
+53260	101792341	Brinje		locality	152
 53270	101795793	Zengg		locality	8
 53271	1209412159	Vratarusa		locality	1
 53274	1259975101	Krasno Polje		locality	1
 53284	1225842015	Jurjevo		locality	1
 53287	1125903203	Jablanac		locality	1
-53288	1125836193	Karlobag		locality	4
+53288	1125836193	Karlobag		locality	10
+53288	1225830831	Cesarica		locality	1
+53288	1293509549	Lukovo Sugarje		locality	1
+53291	101844763	Novaglia		locality	89
 53291	1125767263	Stara Novalja		locality	1
-53295	1226061353	Gajac		locality	1
+53294	1242768473	Lun		locality	17
 53296	1276463823	Kustici		locality	4
 53296	1242574651	Metajna		locality	2
 53296	1125882253	Zubovići		locality	2
+53465	101794625	Poreč		locality	1
+55203	101795811	Medolino		locality	1
 72270	1260247543	Vlasici		locality	1
-74450	101751773	Brod		locality	4
 78320	1259778999	Licki Ribnik		locality	1
 79288	1259778999	Licki Ribnik		locality	2
 81281	101844767	Lopar		locality	2
+98716	101796889	Dugopolje		locality	2
+102555	101792373	Donji Stupnik		locality	1
+222020	101796909	Primošten		locality	1
 223000	101795737	Knin		locality	1
-522342	1360309277	Butkovici		locality	157
+522342	1360309277	Butkovici		locality	158
 522342	1125876827	Svetvinčenat		locality	157
 522342	1276118455	Cabrunici		locality	141
-522342	1259507469	Jursici		locality	125
+522342	1259507469	Jursici		locality	124
 522342	1225845337	Rezanci		locality	103
 522342	1276663427	Stokovci		locality	95
 522342	1293001075	Cukrici		locality	80
@@ -1225,4 +1389,3 @@ Ulica 126.brigade Hrvatske vojske	101836423	Signo		locality	1
 522342	1193143097	Peresiji		locality	32
 522342	1360108891	Boskari		locality	24
 522342	1259985817	Smoljanci		locality	6
-524785	1125994553	Savudrija		locality	1

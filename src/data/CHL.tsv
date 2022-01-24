@@ -1,43 +1,54 @@
-Av. Circunvalación	102017123	Punta Arenas		locality	1
+?>??	102017173	Providencia		locality	1
+???	102016915	Santiago		locality	1
 Lourdes	102017057	Rancagua		locality	1
+m	102017247	Peñalolén		locality	1
 w	102017463	Lo Barnechea		locality	1
 1	102017463	Lo Barnechea		locality	2
-02	102017041	Recoleta		locality	1
 3	102017173	Providencia		locality	1
 3	102016915	Santiago		locality	1
 5	102017135	Puerto Varas		locality	1
 32	102016833	Valparaíso		locality	1
 045	102016885	Temuco		locality	1
 64	102017501	La Unión		locality	1
+0000157	102017899	Caldera		locality	1
 567	102016837	Valdivia		locality	1
+569	102017641	Frutillar		locality	2
 648	102016991	San Bernardo		locality	1
+732	102017479	Linares		locality	1
 9408	421178981	28 de Noviembre		locality	2
-16639	102016915	Santiago		locality	1
+16639	102017173	Providencia		locality	1
 17009	102017509	La Serena		locality	1
 43000	102017479	Linares		locality	1
 57000	102017971	Ancud		locality	2
+100000	102017549	La Huaica		locality	1
 301000	890517661	Coínco		locality	1
 301000	1209701293	El Rulo		locality	1
 320000	102017215	Pichilemu		locality	1
 334000	102017711	Curicó		locality	1
 336000	102016883	Teno		locality	1
 340001	102017711	Curicó		locality	2
+346000	102016893	Talca		locality	1
 378000	102017827	Chillán		locality	1
 430000	102017479	Linares		locality	1
-492000	102017165	Pucón		locality	1
+455000	102017347	Nacimiento		locality	41
 506202	102017113	Purranque		locality	1
+509000	102016837	Valdivia		locality	1
 571000	102017971	Ancud		locality	2
 590000	890517455	Quellón		locality	1
 590000	102018005	Quellón		locality	1
 616000	102017143	Puerto Natales		locality	1
 755009	102016915	Santiago		locality	1
 820000	102016915	Santiago		locality	1
+1000000	102017227	Pica		locality	3
+1000000	102017953	Arica		locality	1
 1000434	102017953	Arica		locality	1
 1001110	102017953	Arica		locality	1
-1100000	102017581	Iquique		locality	9
+1100000	102017581	Iquique		locality	8
 1100026	102017581	Iquique		locality	1
 1130000	102017977	Alto Hospicio		locality	1
+1140000	102017605	Huara		locality	1
 1240000	102017963	Antofagasta		locality	5
+1270199	102017963	Antofagasta		locality	1
 1310000	1141908953	Mejillones		locality	1
 1390000	102017963	Antofagasta		locality	1
 1390000	102017903	Calama		locality	1
@@ -48,24 +59,33 @@ w	102017463	Lo Barnechea		locality	1
 1570000	102017899	Caldera		locality	1
 1580000	1141906587	Tierra Amarilla		locality	1
 1610000	102016835	Vallenar		locality	3
-1700000	102017509	La Serena		locality	2
+1700000	102017509	La Serena		locality	5
 1710368	102017509	La Serena		locality	1
 1711017	102017509	La Serena		locality	1
+1720229	102017509	La Serena		locality	2
 1720468	102017509	La Serena		locality	1
 1721411	102017509	La Serena		locality	1
+1721664	102017509	La Serena		locality	1
 1721885	102017509	La Serena		locality	1
+1760000	102016823	Vicuña		locality	1
 1780000	102017747	Coquimbo		locality	3
 1780000	1259374767	El Palqui		locality	1
 1790437	102017747	Coquimbo		locality	1
+1840000	102017293	Ovalle		locality	1
+1840612	102017293	Ovalle		locality	1
+1880000	102017353	Monte Patria		locality	4
 1890000	1125826865	Combarbalá		locality	2
 1890000	1141906589	Combarbalá		locality	1
+1950000	102016997	Salamanca		locality	2
 2030000	1175611243	La Ligua		locality	1
+2100000	102017443	Los Andes		locality	1
 2210000	102017271	Panquehue		locality	1
 2217315	890517899	Valparaíso		locality	1
-2240000	890517531	Limache		locality	2
-2290000	102017569	La Calera		locality	1
+2240000	890517531	Limache		locality	3
+2260000	102017075	Quillota		locality	3
+2290000	102017569	La Calera		locality	2
 2300304	890517921	Nogales		locality	1
-2340000	102016833	Valparaíso		locality	7
+2340000	102016833	Valparaíso		locality	9
 2362704	890517899	Valparaíso		locality	1
 2362829	890517899	Valparaíso		locality	1
 2362834	102016833	Valparaíso		locality	1
@@ -79,38 +99,53 @@ w	102017463	Lo Barnechea		locality	1
 2380484	102016833	Valparaíso		locality	1
 2390103	890517899	Valparaíso		locality	1
 2390382	102016833	Valparaíso		locality	1
+2390418	890517899	Valparaíso		locality	1
 2420622	102017073	Quilpué		locality	1
 2421183	102017073	Quilpué		locality	1
-2430000	102017073	Quilpué		locality	2
+2430000	102017073	Quilpué		locality	3
 2450934	102016815	Villa Alemana		locality	1
 2510000	102017757	Concón		locality	7
 2510513	102017757	Concón		locality	1
-2520000	102016801	Valparaiso		locality	3
+2520000	102016801	Valparaiso		locality	2
 2520096	102016801	Valparaiso		locality	2
-2520112	102016801	Valparaiso		locality	1
+2520112	102016801	Valparaiso		locality	2
 2520214	102016801	Valparaiso		locality	5
 2520314	102016801	Valparaiso		locality	1
+2520534	102016801	Valparaiso		locality	1
 2520707	102016801	Valparaiso		locality	1
 2520977	102016801	Valparaiso		locality	1
+2540070	102016801	Valparaiso		locality	1
+2540114	102016801	Valparaiso		locality	2
+2540119	102016801	Valparaiso		locality	1
+2542457	102016801	Valparaiso		locality	1
 2562126	102016801	Valparaiso		locality	1
+2571190	102016801	Valparaiso		locality	1
 2571498	102016801	Valparaiso		locality	1
-2571501	102016801	Valparaiso		locality	2
+2571501	102016801	Valparaiso		locality	3
 2580347	102016801	Valparaiso		locality	1
 2580727	102016801	Valparaiso		locality	4
-2720000	102018097	Santo Domingo		locality	2
+2581540	102016801	Valparaiso		locality	1
+2690000	102017669	El Tabo		locality	1
+2720000	102018097	Santo Domingo		locality	1
 2770000	890518295	Hanga Roa		locality	2
-2820000	102017057	Rancagua		locality	1
-2850546	102017057	Rancagua		locality	4
+2820000	102017057	Rancagua		locality	2
+2820816	1343843555	Rancagua		locality	1
+2841048	1343843555	Rancagua		locality	1
+2850546	102017057	Rancagua		locality	2
 2852046	102017057	Rancagua		locality	1
+2910000	102017417	Machalí		locality	1
 2910786	102017417	Machalí		locality	3
-2950000	102017255	Pelequén		locality	28
-2970000	890517819	San Vicente de Tagua Tagua		locality	2
+2940000	102017033	Rengo		locality	1
+2950000	102017255	Pelequén		locality	20
+2970000	890517819	San Vicente de Tagua Tagua		locality	3
 2980000	102017217	Pichidegua		locality	1
+2990000	102017229	Peumo		locality	1
 3010000	890517661	Coínco		locality	1
+3070000	102018039	San Fernando		locality	3
 3070116	102018039	San Fernando		locality	3
 3070662	102018039	San Fernando		locality	1
 3070825	102018039	San Fernando		locality	5
-3071082	102018039	San Fernando		locality	1
+3071082	102018039	San Fernando		locality	2
 3071085	102018039	San Fernando		locality	1
 3071086	102018039	San Fernando		locality	1
 3071090	102018039	San Fernando		locality	1
@@ -119,23 +154,24 @@ w	102017463	Lo Barnechea		locality	1
 3071112	102018039	San Fernando		locality	1
 3071117	102018039	San Fernando		locality	2
 3071118	102018039	San Fernando		locality	9
-3071119	102018039	San Fernando		locality	3
+3071119	102018039	San Fernando		locality	1
 3071123	102018039	San Fernando		locality	4
 3071124	102018039	San Fernando		locality	4
-3071240	102018039	San Fernando		locality	3
 3071253	102018039	San Fernando		locality	1
+3071379	102018039	San Fernando		locality	1
 3071507	102018039	San Fernando		locality	1
 3071510	102018039	San Fernando		locality	7
 3071511	102018039	San Fernando		locality	5
 3071514	102018039	San Fernando		locality	1
 3071524	102018039	San Fernando		locality	1
-3071527	102018039	San Fernando		locality	3
-3071529	102018039	San Fernando		locality	5
-3071530	102018039	San Fernando		locality	1
+3071527	102018039	San Fernando		locality	6
+3071529	102018039	San Fernando		locality	6
+3071530	102018039	San Fernando		locality	5
 3071541	102018039	San Fernando		locality	4
 3071620	102018039	San Fernando		locality	2
 3071621	102018039	San Fernando		locality	1
 3071622	102018039	San Fernando		locality	2
+3071773	102018039	San Fernando		locality	2
 3071819	102018039	San Fernando		locality	2
 3071937	102018039	San Fernando		locality	1
 3071991	102018039	San Fernando		locality	23
@@ -143,7 +179,7 @@ w	102017463	Lo Barnechea		locality	1
 3072197	102018039	San Fernando		locality	5
 3072268	102018039	San Fernando		locality	8
 3130000	102016925	Santa Cruz		locality	2
-3140000	102017461	Lolol		locality	2
+3140000	102017461	Lolol		locality	1
 3200856	102017755	Constitución		locality	1
 3220000	102017215	Pichilemu		locality	4
 3340000	102017711	Curicó		locality	4
@@ -153,89 +189,151 @@ w	102017463	Lo Barnechea		locality	1
 3345389	102017711	Curicó		locality	16
 3345390	102017711	Curicó		locality	4
 3345392	102017711	Curicó		locality	8
-3460000	102016893	Talca		locality	2
+3460000	102016893	Talca		locality	119
+3520000	102016985	San Clemente		locality	1
 3560515	102017755	Constitución		locality	1
-3570000	102017711	Curicó		locality	1
-3610000	102017479	Linares		locality	8
+3580000	102017479	Linares		locality	1
+3581004	102017479	Linares		locality	1
+3610000	102017479	Linares		locality	5
 3610000	102017783	Colbún		locality	1
 3630000	102017261	Parral		locality	1
 3710000	102018139	Pelluhue		locality	1
-3780000	102017827	Chillán		locality	19
+3780000	102017827	Chillán		locality	22
 3800708	102017827	Chillán		locality	2
+3800720	102017827	Chillán		locality	1
+3880000	102017827	Chillán		locality	1
 3930000	102017927	Bulnes		locality	1
-3940000	102017077	Quillón		locality	2
 3970000	102017791	Coelemu		locality	1
-4030000	102017759	Concepción		locality	2
+4030000	102017759	Concepción		locality	18
 4030000	102017883	Cañete		locality	1
 4030425	102017759	Concepción		locality	2
 4030442	102017759	Concepción		locality	1
-4030575	102017759	Concepción		locality	1
 4030603	102017759	Concepción		locality	1
 4040237	102017759	Concepción		locality	1
 4050044	102017759	Concepción		locality	1
 4051381	102017759	Concepción		locality	1
-4070032	102017759	Concepción		locality	5
+4061735	102017759	Concepción		locality	1
+4070032	102017759	Concepción		locality	4
+4070268	102017759	Concepción		locality	1
 4070713	102017759	Concepción		locality	1
 4081375	102017759	Concepción		locality	1
+4091007	102017759	Concepción		locality	1
+4100693	102017833	Chiguayante		locality	1
+4100722	102017833	Chiguayante		locality	6
+4100729	102017833	Chiguayante		locality	2
+4100730	102017833	Chiguayante		locality	2
+4100731	102017833	Chiguayante		locality	4
+4100732	102017833	Chiguayante		locality	4
+4100733	102017833	Chiguayante		locality	2
+4100734	102017833	Chiguayante		locality	2
+4100735	102017833	Chiguayante		locality	4
+4100736	102017833	Chiguayante		locality	4
+4100746	102017833	Chiguayante		locality	4
+4100747	102017833	Chiguayante		locality	6
+4100748	102017833	Chiguayante		locality	1
+4100756	102017833	Chiguayante		locality	4
+4100757	102017833	Chiguayante		locality	4
+4100758	102017833	Chiguayante		locality	4
+4100769	102017833	Chiguayante		locality	4
+4100770	102017833	Chiguayante		locality	4
+4100771	102017833	Chiguayante		locality	4
+4100783	102017833	Chiguayante		locality	4
+4100784	102017833	Chiguayante		locality	4
+4100785	102017833	Chiguayante		locality	4
+4100786	102017833	Chiguayante		locality	4
+4100787	102017833	Chiguayante		locality	4
+4100788	102017833	Chiguayante		locality	4
+4100807	102017833	Chiguayante		locality	8
+4100812	102017833	Chiguayante		locality	9
 4121707	1343880515	Lomas Coloradas		locality	1
-4160000	102016861	Tomé		locality	7
+4160000	102016861	Tomé		locality	5
 4161024	102016861	Tomé		locality	1
-4190000	102017739	Coronel		locality	2
+4190000	102017739	Coronel		locality	1
 4261172	102016891	Talcahuano		locality	1
 4300525	102016891	Talcahuano		locality	1
 4323315	102016915	Santiago		locality	4
+4350000	102017967	Angol		locality	1
 4370000	102017719	Curanilahue		locality	3
 4390000	102017883	Cañete		locality	1
 4440000	102017441	Los Angeles		locality	1
 4510000	1141906597	Santa Bárbara		locality	1
-4550000	102017347	Nacimiento		locality	2
+4520000	102017089	Quilaco		locality	1
+4520099	102017089	Quilaco		locality	1
+4540000	102017337	Negrete		locality	1
+4550000	102017347	Nacimiento		locality	1439
+4560000	102017543	Laja		locality	1
+4560570	102017543	Laja		locality	1
+4560575	102017543	Laja		locality	1
+4560592	102017543	Laja		locality	1
+4600000	102017607	Hualpén		locality	2
 4600770	102017607	Hualpén		locality	1
 4650000	102017967	Angol		locality	1
 4700000	102017725	Curacautín		locality	1
 4720000	102016825	Victoria		locality	6
 4720359	102016825	Victoria		locality	1
 4730000	102016853	Traiguén		locality	2
-4780000	102016885	Temuco		locality	3
+4740000	102017881	Capitán Pastene		locality	3
+4780000	102016885	Temuco		locality	6
+4780000	102017627	Gorbea		locality	1
 4780000	1293390451	San Patricio		locality	1
 4780764	102016885	Temuco		locality	1
-4781132	102016885	Temuco		locality	1
 4781158	102016885	Temuco		locality	1
 4790703	102016885	Temuco		locality	1
 4790839	102016885	Temuco		locality	1
 4791047	102016885	Temuco		locality	1
-4791083	102016885	Temuco		locality	1
+4791083	102016885	Temuco		locality	2
 4800567	102016885	Temuco		locality	1
 4800601	102016885	Temuco		locality	1
 4800996	102016885	Temuco		locality	1
-4801072	102016885	Temuco		locality	4
+4801011	102016885	Temuco		locality	1
+4801072	102016885	Temuco		locality	1
 4802670	102016885	Temuco		locality	1
+4810370	102016885	Temuco		locality	1
 4811161	102016885	Temuco		locality	1
+4823435	102016885	Temuco		locality	1
 4850000	102017289	Padre Las Casas		locality	1
-4920000	102017165	Pucón		locality	4
+4860000	102017499	Lautaro		locality	1
+4861600	102017289	Padre Las Casas		locality	1
+4920000	102017165	Pucón		locality	4640
 4920334	102017165	Pucón		locality	1
+4920488	102017165	Pucón		locality	1
 4920561	102017165	Pucón		locality	1
+4930611	102016805	villarica		locality	1
+4940000	102018197	Freire		locality	2
 4990000	102016879	Teodoro Schmidt		locality	1
-5090000	102016837	Valdivia		locality	21
+5030000	102017633	Galvarino		locality	2
+5090000	102016837	Valdivia		locality	23
+5090397	102016837	Valdivia		locality	1
+5100861	102016837	Valdivia		locality	1
 5110212	102016837	Valdivia		locality	1
+5110244	102016837	Valdivia		locality	1
 5110655	102016837	Valdivia		locality	1
 5110842	102016837	Valdivia		locality	1
 5110853	102016837	Valdivia		locality	1
+5180000	102017635	Futrono		locality	3
 5210000	102016909	Choshuenco		locality	2
-5220000	102017501	La Unión		locality	13
+5220000	102017501	La Unión		locality	120
 5230000	102017283	Paillaco		locality	2
 5240000	102017015	Río Bueno		locality	1
-5290000	102017297	Osorno		locality	1
+5290000	102017297	Osorno		locality	3
 5300615	102017297	Osorno		locality	1
 5301065	102017297	Osorno		locality	1
 5301568	102017297	Osorno		locality	1
 5310847	102017297	Osorno		locality	1
-5480000	102017145	Port Montt		locality	7
+5312321	102017297	Osorno		locality	2
+5480000	102017145	Port Montt		locality	15
 5503778	102017145	Port Montt		locality	2
-5550000	102017135	Puerto Varas		locality	113
-5550176	102017135	Puerto Varas		locality	1
+5507138	102017145	Port Montt		locality	1
+5550000	102017135	Puerto Varas		locality	218
+5550000	102017145	Port Montt		locality	1
+5550176	102017135	Puerto Varas		locality	20
 5550451	102017135	Puerto Varas		locality	2
+5550596	102017135	Puerto Varas		locality	1
+5550988	102017135	Puerto Varas		locality	1
+5610000	102017467	Llanquihue		locality	2
 5620106	890518417	Frutillar		locality	1
 5620166	890518417	Frutillar		locality	1
+5620194	102017641	Frutillar		locality	1
 5700000	102017865	Castro		locality	1
 5710000	102017971	Ancud		locality	1
 5720000	890517635	Quemchi		locality	1
@@ -245,12 +343,14 @@ w	102017463	Lo Barnechea		locality	1
 5950000	102017787	Coyhaique		locality	1
 6000000	1141908659	Puerto Aisén		locality	6
 6000000	102017157	Puerto Aisén		locality	1
+6000186	102017157	Puerto Aisén		locality	1
 6050000	102017829	Chile Chico		locality	5
 6110000	890429613	Villa O'Higgins		locality	3
 6120000	102016857	Caleta Tortel		locality	1
-6160000	102017143	Puerto Natales		locality	1
+6160000	102017143	Puerto Natales		locality	4
 6160534	102017143	Puerto Natales		locality	1
-6200000	102017123	Punta Arenas		locality	3
+6200000	102017123	Punta Arenas		locality	5
+6200537	102017123	Punta Arenas		locality	1
 6200729	102017123	Punta Arenas		locality	2
 6201025	102017123	Punta Arenas		locality	2
 6201065	102017123	Punta Arenas		locality	1
@@ -264,16 +364,18 @@ w	102017463	Lo Barnechea		locality	1
 7500503	102017173	Providencia		locality	4
 7500519	102017173	Providencia		locality	1
 7500519	102016915	Santiago		locality	1
+7500571	102017173	Providencia		locality	1
 7500599	102017173	Providencia		locality	1
+7500644	102017173	Providencia		locality	1
 7501184	102017173	Providencia		locality	1
 7501231	102017173	Providencia		locality	2
 7501297	102017173	Providencia		locality	2
 7501354	102016915	Santiago		locality	1
-7510021	102017173	Providencia		locality	1
+7510021	102017173	Providencia		locality	2
 7510198	102017173	Providencia		locality	1
 7510216	102017173	Providencia		locality	2
 7510241	102017173	Providencia		locality	1
-7510250	102017173	Providencia		locality	1
+7510250	102017173	Providencia		locality	2
 7510271	102017173	Providencia		locality	4
 7510272	102017173	Providencia		locality	3
 7510273	102017173	Providencia		locality	4
@@ -287,81 +389,107 @@ w	102017463	Lo Barnechea		locality	1
 7510362	102017173	Providencia		locality	3
 7510363	102017173	Providencia		locality	1
 7510401	102017173	Providencia		locality	1
+7510974	102017173	Providencia		locality	1
 7511002	102017173	Providencia		locality	1
 7530116	102017173	Providencia		locality	1
 7530215	102017173	Providencia		locality	2
-7550000	102016915	Santiago		locality	2
+7550000	102017517	Las Condes		locality	3
 7550024	102017517	Las Condes		locality	1
 7550076	102017517	Las Condes		locality	1
 7550089	102017517	Las Condes		locality	2
+7550099	102017517	Las Condes		locality	1
 7550143	102017517	Las Condes		locality	1
 7550157	102017517	Las Condes		locality	1
 7550163	102017517	Las Condes		locality	1
 7550184	102017517	Las Condes		locality	2
 7550201	102017517	Las Condes		locality	1
+7550227	102017517	Las Condes		locality	1
 7550344	102017517	Las Condes		locality	3
 7560846	102017517	Las Condes		locality	1
-7560995	102017517	Las Condes		locality	2
+7560903	102017517	Las Condes		locality	1
+7560995	102017517	Las Condes		locality	3
 7570534	102017517	Las Condes		locality	1
-7630000	102016915	Santiago		locality	2
+7570685	102017517	Las Condes		locality	1
+7580566	102017517	Las Condes		locality	1
+7630000	102016915	Santiago		locality	1
 7630249	102016799	Vitacura		locality	4
 7630412	102016799	Vitacura		locality	1
 7630479	102016799	Vitacura		locality	1
+7630578	102016799	Vitacura		locality	1
+7640165	102016915	Santiago		locality	1
 7640639	102016799	Vitacura		locality	1
 7650191	102016799	Vitacura		locality	1
+7650558	102016799	Vitacura		locality	1
 7690286	102016915	Santiago		locality	1
 7700651	102016915	Santiago		locality	1
+7710053	102017463	Lo Barnechea		locality	1
 7710240	102016915	Santiago		locality	1
 7750000	1108980381	Ñuñoa		locality	2
 7750030	102016915	Santiago		locality	1
 7750495	102016915	Santiago		locality	1
 7760247	1108980381	Ñuñoa		locality	1
+7770300	1108980381	Ñuñoa		locality	1
 7770386	1108980381	Ñuñoa		locality	1
 7770417	102016915	Santiago		locality	1
-7770427	1108980381	Ñuñoa		locality	1
+7770427	1108980381	Ñuñoa		locality	4
+7770438	1108980381	Ñuñoa		locality	1
 7770482	102016915	Santiago		locality	1
 7770484	102016915	Santiago		locality	1
+7770529	102016915	Santiago		locality	1
+7770613	1108980381	Ñuñoa		locality	3
 7790097	1108980381	Ñuñoa		locality	1
 7790108	1108980381	Ñuñoa		locality	1
-7790550	1108980381	Ñuñoa		locality	1
 7790569	1108980381	Ñuñoa		locality	1
 7790829	1108980381	Ñuñoa		locality	1
 7790932	1108980381	Ñuñoa		locality	1
 7810677	102017415	Macul		locality	2
 7830198	102017415	Macul		locality	1
+7850000	102017521	La Reina		locality	1
 7850633	102017521	La Reina		locality	1
 7870154	102017521	La Reina		locality	1
 7940697	102016915	Santiago		locality	1
 7970000	1108980109	La Cisterna		locality	2
-7970000	102016939	San Ramón		locality	1
+7970000	102018057	San Ramón		locality	1
 7970000	102016915	Santiago		locality	1
 7970671	1108980109	La Cisterna		locality	1
 7980008	1108980109	La Cisterna		locality	217
+8150000	102017163	Puente bajo		locality	1
 8150513	102017163	Puente bajo		locality	1
 8151746	102016915	Santiago		locality	2
+8153644	102016915	Santiago		locality	1
 8220093	102016915	Santiago		locality	1
+8231472	102017557	La Florida		locality	1
 8240000	102017557	La Florida		locality	1
 8240000	102016915	Santiago		locality	1
 8240494	102016915	Santiago		locality	1
 8260183	102017557	La Florida		locality	1
 8290879	102016915	Santiago		locality	1
-8320000	102016915	Santiago		locality	5
+8320000	102016915	Santiago		locality	6
 8320012	102016915	Santiago		locality	1
 8320069	102016915	Santiago		locality	1
 8320070	102016915	Santiago		locality	1
+8320123	102016915	Santiago		locality	1
 8320129	102016915	Santiago		locality	1
 8320151	102016915	Santiago		locality	2
-8320263	102016915	Santiago		locality	2
+8320202	102016915	Santiago		locality	1
+8320263	102016915	Santiago		locality	6
 8320328	102016915	Santiago		locality	1
 8329001	102016915	Santiago		locality	1
 8330069	102016915	Santiago		locality	1
-8330150	102016915	Santiago		locality	1
+8330150	102016915	Santiago		locality	2
+8330164	102016915	Santiago		locality	1
 8330565	102016915	Santiago		locality	1
+8330843	102016915	Santiago		locality	1
+8330844	102016915	Santiago		locality	1
+8330845	102016915	Santiago		locality	1
+8330846	102016915	Santiago		locality	1
 8330924	102016915	Santiago		locality	1
 8331059	102016915	Santiago		locality	1
+8340309	102016915	Santiago		locality	3
 8340431	102016915	Santiago		locality	1
 8340431	102016801	Valparaiso		locality	1
-8350485	102016915	Santiago		locality	1
+8350485	102016915	Santiago		locality	2
+8360481	102016915	Santiago		locality	1
 8360848	102016915	Santiago		locality	1
 8360874	102016915	Santiago		locality	1
 8361020	102016915	Santiago		locality	1
@@ -370,21 +498,31 @@ w	102017463	Lo Barnechea		locality	1
 8370403	102016915	Santiago		locality	1
 8370456	102016915	Santiago		locality	1
 8370471	102016915	Santiago		locality	1
-8370723	102016915	Santiago		locality	1
-8440389	102017041	Recoleta		locality	1
+8370723	102016915	Santiago		locality	4
+8370778	102016915	Santiago		locality	1
+8370809	102016915	Santiago		locality	1
+8370968	102016915	Santiago		locality	1
+8420000	102016915	Santiago		locality	1
+8440389	102017041	Recoleta		locality	2
 8580670	102018219	Huechuraba		locality	1
-8580973	102016915	Santiago		locality	1
-8800298	102018149	La Granja		locality	2
+8581150	102018219	Huechuraba		locality	1
+8710022	102016915	Santiago		locality	1
 8900084	102016915	Santiago		locality	1
 8910086	890518105	San Miguel		locality	1
+8910257	890518105	San Miguel		locality	1
+8910339	890518105	San Miguel		locality	2
 8940855	890517493	San Joaquín		locality	1
+8980000	102018027	Lo Prado		locality	1
 9020000	102018223	Pudahuel		locality	1
 9020078	102018223	Pudahuel		locality	3
-9030950	102016915	Santiago		locality	1
+9030950	102018223	Pudahuel		locality	1
 9100080	102016915	Santiago		locality	1
+9160000	102017859	Estación Central		locality	2
 9210007	102017857	Cerrillos		locality	1
+9250000	102017297	Osorno		locality	1
 9251542	102017409	Maipú		locality	1
 9252307	102016915	Santiago		locality	1
+9480000	102017203	Pirque		locality	1
 9480018	102017203	Pirque		locality	3
 9580000	102017369	Melipilla		locality	2
 9580887	102017369	Melipilla		locality	1

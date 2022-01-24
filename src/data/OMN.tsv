@@ -1,24 +1,28 @@
 PC. 133	421178455	Muscat		locality	1
 المرحلة 5 Stage 5	421178455	Muscat		locality	1
-111	421178455	Muscat		locality	24
+100	421178455	Muscat		locality	1
+111	421178455	Muscat		locality	22
+112	421178455	Muscat		locality	3
 113	421178455	Muscat		locality	1
 115	421178455	Muscat		locality	1
 116	421178455	Muscat		locality	1
 118	421178455	Muscat		locality	1
-121	890430371	Seeb		locality	1
+121	890430371	Seeb		locality	2
 124	421188307	Rusayl		locality	1
-130	421178455	Muscat		locality	3
+130	421178455	Muscat		locality	4
 133	421178455	Muscat		locality	2
 211	890439893	Salalah		locality	6
 311	890443201	Sohar		locality	1
 312	1125819087	Barkā’		locality	1
+317	1293111669	Al `Awabi		locality	1
 320	1125819087	Barkā’		locality	1
-400	1125819051	Ibrā’		locality	1
-411	890443199	Sur		locality	2
-611	890443205	Nizwa		locality	1
+400	421191151	Ibra		locality	1
+411	421191161	Sur		locality	2
+421	1209022939	Bidiyah		locality	1
+611	421185715	Nizwa		locality	1
 614	421204891	Izki		locality	1
 621	890443205	Nizwa		locality	1
-811	890443207	Khasab		locality	5
+811	421191131	Khasab		locality	5
 911	421178455	Muscat		locality	1
 940	421178455	Muscat		locality	1
 1189 PC 114	421178455	Muscat		locality	1

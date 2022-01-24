@@ -5,37 +5,44 @@ EC160150	421166689	Puyo		locality	7
 EC020155	421177571	Salinas		locality	6
 EC010109	421169119	Cuenca		locality	5
 EC090606	421186705	Guayaquil		locality	5
-EC170510	421173233	Quito		locality	4
+EC170510	421173233	Quito		locality	5
+EC080118	421201283	Esmeraldas		locality	4
 EC170526	421173233	Quito		locality	4
 +0593	421186705	Guayaquil		locality	3
 +0593	421195739	Posorja		locality	3
 EC010101	421169119	Cuenca		locality	3
-EC010113	421169119	Cuenca		locality	3
 EC080102	421201283	Esmeraldas		locality	3
 EC100401	421192715	Otavalo		locality	3
 EC170104	421173233	Quito		locality	3
+EC170402	421173233	Quito		locality	3
 EC180301	421179433	Baños		locality	3
 EC240209	421168531	Salinas		locality	3
 EC 200102	421174579	Puerto Ayora		locality	2
-EC010107	421169119	Cuenca		locality	2
 EC010110	421169119	Cuenca		locality	2
+EC010113	421169119	Cuenca		locality	2
+EC0601	421169107	Riobamba		locality	2
 EC070202	421201387	Machala		locality	2
-EC080850	421181713	La Concordia		locality	2
+EC080850	421181713	La Concordia Canton		locality	2
 EC090112	421186705	Guayaquil		locality	2
 EC100350	421179427	Cotacachi		locality	2
+EC150150	421201385	Tena		locality	2
 EC180160	421169125	Ambato		locality	2
 EC180250	1243338735	Banos de Agua Santa		locality	2
 EC190102	421176325	Zamora		locality	2
 EC241550	421168531	Salinas		locality	2
 +593	421169125	Ambato		locality	1
++593	1243138267	Ascazubi		locality	1
++593	421169115	Ibarra		locality	1
 +593	1141907579	Macas		locality	1
 +593	421169111	Piñas		locality	1
 +593	421201383	Portoviejo		locality	1
++593	1326925157	Quininde		locality	1
 00000	421186705	Guayaquil		locality	1
 00000	421173233	Quito		locality	1
 BODEGAS FERCONSA	421186705	Guayaquil		locality	1
 Conocoto	421173233	Quito		locality	1
 EC000000	421169119	Cuenca		locality	1
+EC010107	421169119	Cuenca		locality	1
 EC010114	421169119	Cuenca		locality	1
 EC020107	421177571	Salinas		locality	1
 EC030350	421172291	Cañar		locality	1
@@ -44,6 +51,7 @@ EC060107	421169107	Riobamba		locality	1
 EC060155	421169107	Riobamba		locality	1
 EC070150	421201387	Machala		locality	1
 EC07020	421201387	Machala		locality	1
+EC090150	421186705	Guayaquil		locality	1
 EC090513	421186705	Guayaquil		locality	1
 EC09103	421186705	Guayaquil		locality	1
 EC1002	421169115	Ibarra		locality	1
@@ -53,82 +61,104 @@ EC110103	421169563	Loja		locality	1
 EC110108	421169563	Loja		locality	1
 EC120150	421176343	Babahoyo		locality	1
 EC131450	421179437	Bahía de Caráquez		locality	1
-EC150150	421201385	Tena		locality	1
 EC170102	421173233	Quito		locality	1
 EC170124	421173233	Quito		locality	1
 EC170135	421173233	Quito		locality	1
 EC170138	421173233	Quito		locality	1
 EC170144	421173233	Quito		locality	1
 EC170157	421178975	Cumbayá		locality	1
+EC170180	421173233	Quito		locality	1
+EC170303	421173233	Quito		locality	1
 EC170501	421173233	Quito		locality	1
+EC170512	421173233	Quito		locality	1
 EC170515	421173233	Quito		locality	1
 EC170523	421173233	Quito		locality	1
 EC170810	421173233	Quito		locality	1
+EC170902	421173233	Quito		locality	1
 EC200350	421174579	Puerto Ayora		locality	1
 EC200358	421197711	Santa Cruz		locality	1
+EC60102	421169107	Riobamba		locality	1
 Ec170143	421173233	Quito		locality	1
+SIN CODIGO	421169107	Riobamba		locality	1
 ec130101	421201383	Portoviejo		locality	1
+https://goo.gl/maps/pqB93eHzuPyKgrY66	421169111	Piñas		locality	1
 1	421186705	Guayaquil		locality	2
+001	421186705	Guayaquil		locality	1
 001	421169563	Loja		locality	1
 1	421173233	Quito		locality	1
 06	421169107	Riobamba		locality	1
 09-01-9636	421186705	Guayaquil		locality	1
+11D01	421169563	Loja		locality	9
 11	421186705	Guayaquil		locality	1
 17-01-04	421173233	Quito		locality	1
+17-01-2759	421173233	Quito		locality	1
 0101	421169119	Cuenca		locality	1
 143	1209180557	El Carmen		locality	1
 180	421169125	Ambato		locality	3
 513	421169119	Cuenca		locality	2
-593	421173233	Quito		locality	22
+593	421173233	Quito		locality	23
+593	421169107	Riobamba		locality	6
 593	1141907579	Macas		locality	3
 593	421176803	Santo Domingo de los Colorados		locality	3
 593	421169117	Guaranda		locality	2
+593	421166689	Puyo		locality	2
 593	421169125	Ambato		locality	1
 593	421174581	Azogues		locality	1
 593	421169119	Cuenca		locality	1
 593	421173793	Eugenio Espejo		locality	1
+593	421186705	Guayaquil		locality	1
 593	421167779	Huaquillas		locality	1
 593	421201389	La Libertad		locality	1
-593	421169107	Riobamba		locality	1
 593	421200055	San Miguel		locality	1
+0601	421169107	Riobamba		locality	7
 1101	421169563	Loja		locality	5
-1104	421172781	Macará		locality	2
+1104	421172781	Macará		locality	1
 1234	421173233	Quito		locality	1
 1320	421169119	Cuenca		locality	1
 3631	421172779	Manta		locality	18
+04115	1310632571	El Carmelo		locality	1
+6544-544	421169123	Cayambe		locality	2
+6544-545	421169123	Cayambe		locality	1
+6544-547	421169123	Cayambe		locality	1
 9201	421186705	Guayaquil		locality	1
+09221	421174811	Playas		locality	1
+09601	421186705	Guayaquil		locality	1
 10045	421192715	Otavalo		locality	1
-010101	421169119	Cuenca		locality	15
+010101	421169119	Cuenca		locality	20
 010102	421169119	Cuenca		locality	3
-010104	421169119	Cuenca		locality	8
-010105	421169119	Cuenca		locality	3
+010103	421169119	Cuenca		locality	3
+010104	421169119	Cuenca		locality	10
+010105	421169119	Cuenca		locality	5
+10105	421169115	Ibarra		locality	1
 010106	1344060247	Sinincay		locality	2
-010107	421169119	Cuenca		locality	2
+010106	421169119	Cuenca		locality	1
+010107	421169119	Cuenca		locality	4
+010108	421169119	Cuenca		locality	1
+10108	421169115	Ibarra		locality	1
 010109	421169119	Cuenca		locality	149
 010109	1326933655	Ucubamba		locality	6
 010109	1193149865	San Juanpamba		locality	1
 010110	421169119	Cuenca		locality	1
-10110	421169119	Cuenca		locality	1
 010111	421169119	Cuenca		locality	7
 010112	421169119	Cuenca		locality	1
-010113	421169119	Cuenca		locality	1
-010150	421169119	Cuenca		locality	4
+010112	1259883061	Sayausi		locality	1
+010150	421169119	Cuenca		locality	27
 010151	421179433	Baños		locality	1
-010201	421169119	Cuenca		locality	1
+010201	421169119	Cuenca		locality	4
 010202	421169119	Cuenca		locality	2
 010203	421169119	Cuenca		locality	6
-010204	421169119	Cuenca		locality	4
+010204	421169119	Cuenca		locality	6
 010205	421169119	Cuenca		locality	6
-010206	421169119	Cuenca		locality	1
+010206	421169119	Cuenca		locality	2
 010207	421169119	Cuenca		locality	3
 010208	421169119	Cuenca		locality	2
 010210	421169119	Cuenca		locality	2
-010215	421169119	Cuenca		locality	5
+010215	421169119	Cuenca		locality	7
 010218	421169119	Cuenca		locality	1
-10252	1276321643	Natabuela		locality	1
+010220	1344160073	Cumbe		locality	2
+010304	1326542991	Pelincay		locality	1
 010501	1327240405	El Cabo		locality	1
 010601	1276771789	Guachapala		locality	1
-010606	1226606799	San Cristobal		locality	1
 010703	1276670859	Camilo Ponce Enriquez		locality	2
 010950	1343971011	Sigsig		locality	1
 11019	421192183	Vilcabamba		locality	1
@@ -136,186 +166,224 @@ ec130101	421201383	Portoviejo		locality	1
 020101	421169117	Guaranda		locality	1
 020150	421169117	Guaranda		locality	1
 020301	421200055	San Miguel		locality	1
-030102	421174581	Azogues		locality	4
-030105	1293006729	Loyola		locality	1
-030106	421184021	Biblián		locality	1
+030102	421174581	Azogues		locality	5
+030106	421184021	Biblián Canton		locality	1
 030107	1226342807	Guapan		locality	1
 30155	1243338735	Banos de Agua Santa		locality	1
-030302	421201843	La Troncal		locality	1
+030302	421201843	La Troncal		locality	2
 030303	421201843	La Troncal		locality	1
 030450	421201843	La Troncal		locality	1
-040102	1141906237	Tulcán		locality	48
-040103	1141906237	Tulcán		locality	2
+040102	1141906237	Tulcán		locality	30
+040103	1141906237	Tulcán		locality	3
 040108	1292902709	Huaca		locality	1
+040115	1310632571	El Carmelo		locality	1
 040201	421199617	San Gabriel		locality	1
 040650	1292902709	Huaca		locality	4
-050102	421203673	Latacunga		locality	6
+050101	421203673	Latacunga		locality	2
+050102	421203673	Latacunga		locality	11
+050103	421203673	Latacunga		locality	1
+050104	421203673	Latacunga		locality	1
+050107	421203673	Latacunga		locality	11
 050108	421203673	Latacunga		locality	3
 050450	421173105	Pujilí		locality	1
+050455	1226239535	La Victoria		locality	1
+050555	421200055	San Miguel		locality	1
 59310	421204181	San Antonio		locality	1
-060101	421169107	Riobamba		locality	3
-060102	421169107	Riobamba		locality	2
-060103	421169107	Riobamba		locality	7
-060104	421169107	Riobamba		locality	1
+060101	421169107	Riobamba		locality	52
+060102	421169107	Riobamba		locality	64
+060103	421169107	Riobamba		locality	120
+060104	421169107	Riobamba		locality	29
 060105	421169107	Riobamba		locality	1
+060106	421169107	Riobamba		locality	67
+060107	421169107	Riobamba		locality	4
+060111	421169107	Riobamba		locality	1
 060112	1360177349	Yaruquies		locality	1
 060114	1193135009	Lican		locality	2
-060116	1276680641	Chambo		locality	3
+060114	421169107	Riobamba		locality	1
+060116	1276680641	Chambo		locality	4
 060118	1344054449	Calpi		locality	2
 060119	1209908823	Pungala		locality	1
-060150	421169107	Riobamba		locality	5
+060150	421169107	Riobamba		locality	34
 060207	1210009209	Tixan		locality	1
-060250	421169127	Alausí		locality	1
-060250	1327333773	San Pedro		locality	1
+060250	421169127	Alausí		locality	2
 060410	421176607	Cajabamba		locality	1
 060650	421200571	Guamote		locality	2
+070102	421201387	Machala		locality	2
 070104	421202747	Pasaje		locality	5
 070113	1343647193	Chilla		locality	1
 070150	421201387	Machala		locality	1
 070201	421201387	Machala		locality	1
 070206	421201387	Machala		locality	1
-070210	421201387	Machala		locality	1
+070210	421201387	Machala		locality	2
+070301	421198033	Zaruma		locality	1
 070401	421172223	San Roque		locality	1
 070403	421181751	Balsas		locality	2
 070404	421181751	Balsas		locality	1
 070505	1360104821	Arenillas		locality	4
 070703	421194623	Jambelí		locality	1
 080108	421201283	Esmeraldas		locality	1
+080118	421201283	Esmeraldas		locality	2
+080150	421201283	Esmeraldas		locality	1
 080301	1209025225	Mompiche		locality	1
 080303	1209025225	Mompiche		locality	1
+080305	421173805	Atacames		locality	1
 080450	1326925157	Quininde		locality	1
 080650	421173805	Atacames		locality	1
-080701	421181713	La Concordia		locality	10
+080701	421181713	La Concordia Canton		locality	10
+080702	421181713	La Concordia Canton		locality	2
+080703	1276866311	La Villegas		locality	1
 090101	421186705	Guayaquil		locality	7
-090102	421186705	Guayaquil		locality	2
+090102	421186705	Guayaquil		locality	4
 090103	421186705	Guayaquil		locality	2
 090105	421186705	Guayaquil		locality	3
 090106	421186705	Guayaquil		locality	6
 090107	421186705	Guayaquil		locality	7
 090108	421186705	Guayaquil		locality	4
-090109	421186705	Guayaquil		locality	3
+090109	421186705	Guayaquil		locality	4
 090110	421186705	Guayaquil		locality	3
-090112	421186705	Guayaquil		locality	2
+090112	421186705	Guayaquil		locality	8
 90112	421186705	Guayaquil		locality	1
-090154	421186705	Guayaquil		locality	8
-090154	421192175	Pascuales		locality	1
+090114	421186705	Guayaquil		locality	1
 090201	421186705	Guayaquil		locality	4
 090202	421186705	Guayaquil		locality	4
 090203	421186705	Guayaquil		locality	8
-090204	421186705	Guayaquil		locality	1
+090204	421186705	Guayaquil		locality	4
+090205	421186705	Guayaquil		locality	1
 090206	421186705	Guayaquil		locality	3
+090211	421186705	Guayaquil		locality	1
 090301	421186705	Guayaquil		locality	3
 090302	421186705	Guayaquil		locality	5
-090303	421186705	Guayaquil		locality	5
+090303	421186705	Guayaquil		locality	10
 090304	421186705	Guayaquil		locality	2
 090305	421186705	Guayaquil		locality	5
-090306	421186705	Guayaquil		locality	4
+090306	421186705	Guayaquil		locality	5
 090306	421178911	Guayas		locality	1
 090307	421186705	Guayaquil		locality	10
 090308	421186705	Guayaquil		locality	4
 090312	421186705	Guayaquil		locality	2
-090401	421186705	Guayaquil		locality	5
-090402	421186705	Guayaquil		locality	4
+090313	421178911	Guayas		locality	1
+090401	421186705	Guayaquil		locality	4
+090402	421186705	Guayaquil		locality	3
 090403	421186705	Guayaquil		locality	2
 090404	421186705	Guayaquil		locality	2
-090404	421167981	Durán		locality	1
 090405	421186705	Guayaquil		locality	3
-090406	421186705	Guayaquil		locality	7
+090406	421186705	Guayaquil		locality	8
 090501	421186705	Guayaquil		locality	1
-090502	421186705	Guayaquil		locality	2
+090502	421186705	Guayaquil		locality	3
 090503	421186705	Guayaquil		locality	1
-090504	421186705	Guayaquil		locality	1
-090505	421186705	Guayaquil		locality	4
+090504	421186705	Guayaquil		locality	2
+090505	421186705	Guayaquil		locality	3
 090506	421186705	Guayaquil		locality	2
-090507	421186705	Guayaquil		locality	22
-090508	421186705	Guayaquil		locality	1
-090509	421186705	Guayaquil		locality	1
-090511	1243161221	Tenguel		locality	4
+090507	421186705	Guayaquil		locality	32
+090509	421186705	Guayaquil		locality	2
+090510	421186705	Guayaquil		locality	1
+090511	1243161221	Tenguel		locality	3
 090511	421186705	Guayaquil		locality	1
 090511	1193126313	San Rafael		locality	1
-090512	421186705	Guayaquil		locality	3
-090513	421186705	Guayaquil		locality	5
-090514	421186705	Guayaquil		locality	1
-090601	421186705	Guayaquil		locality	3
-090603	421186705	Guayaquil		locality	15
+090512	421186705	Guayaquil		locality	4
+090513	421186705	Guayaquil		locality	6
+090514	421186705	Guayaquil		locality	2
+090601	421186705	Guayaquil		locality	6
+090602	421186705	Guayaquil		locality	1
+090603	421186705	Guayaquil		locality	18
 090604	421186705	Guayaquil		locality	3
 090605	421186705	Guayaquil		locality	5
-090607	421186705	Guayaquil		locality	5
+090606	421186705	Guayaquil		locality	3
+090607	421186705	Guayaquil		locality	8
+090615	421186705	Guayaquil		locality	18
 090701	421186705	Guayaquil		locality	6
+090701	421173491	Durán		locality	2
 090702	421186705	Guayaquil		locality	4
-090703	421186705	Guayaquil		locality	3
+090703	421186705	Guayaquil		locality	4
 090704	421186705	Guayaquil		locality	2
+090705	421186705	Guayaquil		locality	1
 090707	421186705	Guayaquil		locality	2
-090802	421186705	Guayaquil		locality	2
-090803	421186705	Guayaquil		locality	5
-090804	421186705	Guayaquil		locality	1
+090802	421186705	Guayaquil		locality	3
+090803	421186705	Guayaquil		locality	7
+090804	421186705	Guayaquil		locality	3
 090808	421186705	Guayaquil		locality	1
 090809	421186705	Guayaquil		locality	1
-090811	421186705	Guayaquil		locality	1
+090811	421186705	Guayaquil		locality	2
+090901	421194387	Chongón		locality	3
 090901	421186705	Guayaquil		locality	3
-090901	421194387	Chongón		locality	1
-090902	421186705	Guayaquil		locality	10
+090902	421186705	Guayaquil		locality	11
 091001	1343479251	Data de Posorja		locality	1
+091003	421186705	Guayaquil		locality	1
 091003	1343635159	Rendon		locality	1
+091025	1141907575	Milagro		locality	2
 091101	1209095341	Simon Bolivar		locality	1
 091201	1226560083	Naranjal		locality	2
 091204	1226560083	Naranjal		locality	3
 091205	1209610393	Taura		locality	1
+091302	1326801397	Balzar		locality	1
+091307	1276220801	Palestina		locality	1
 091405	421173485	Lomas de Sargentillo		locality	3
 091602	421194499	El Triunfo		locality	1
 091605	1242575047	Bucay		locality	1
 091703	1141907575	Milagro		locality	3
-091711	1141907575	Milagro		locality	3
+091711	1141907575	Milagro		locality	4
 091715	1327013657	Mariscal Sucre		locality	1
 091804	421180669	Coronel Marcelino Maridueña		locality	2
 091906	1226437733	Nobol		locality	2
 091906	1293478917	Pajonal		locality	1
-091910	1293578295	Aurora		locality	1
+091910	1225940271	Aurora		locality	1
 091910	1225834181	La Aurora		locality	1
 092002	1276753079	General Vernaza		locality	1
 092101	1125860981	Yaguachi		locality	1
 092104	1226733649	General Pedro J. Montero		locality	1
 092201	421174811	Playas		locality	2
+092302	1242956999	Buijo		locality	1
 092303	1242962279	Boca de Cana		locality	1
 092303	1292984627	Tarifa		locality	1
-092401	421167981	Durán		locality	3
+092401	421167981	Durán		locality	4
 092402	421167981	Durán		locality	1
-092404	421167981	Durán		locality	2
-092405	421167981	Durán		locality	2
+092404	421167981	Durán		locality	3
+092405	421167981	Durán		locality	3
 092406	421167981	Durán		locality	1
 092408	421173491	Durán		locality	2
 092409	421173491	Durán		locality	4
 092410	421167981	Durán		locality	2
-100101	421169115	Ibarra		locality	11
+100101	421169115	Ibarra		locality	12
 100108	421169115	Ibarra		locality	1
 100110	421169115	Ibarra		locality	1
 100112	421169115	Ibarra		locality	3
 100115	1277057355	La Magdalena		locality	1
+100117	421199609	Pimampiro		locality	10
 100118	1293670379	Pablo Arenas		locality	4
-100150	421169115	Ibarra		locality	4
+100150	421169115	Ibarra		locality	5
 100155	1226033135	Lita		locality	1
+100156	421196149	Salinas		locality	1
 100201	421192715	Otavalo		locality	4
-100201	421193391	Atuntaqui		locality	1
+100201	421193391	Atuntaqui		locality	2
 100202	421193391	Atuntaqui		locality	1
+100208	421192165	San José de Quichinche		locality	1
 100210	421192715	Otavalo		locality	1
-100216	421193391	Atuntaqui		locality	2
+100216	421193391	Atuntaqui		locality	3
+100217	1276321643	Natabuela		locality	1
+100301	421179427	Cotacachi		locality	1
+100302	421179427	Cotacachi		locality	1
+100305	1242961393	Penaherrera		locality	3
 100350	421179427	Cotacachi		locality	1
 100401	421192715	Otavalo		locality	1
-100450	421192715	Otavalo		locality	3
+100450	421192715	Otavalo		locality	4
 100456	421192715	Otavalo		locality	1
 100650	1344045511	Urcuqui		locality	1
 100702	421192715	Otavalo		locality	1
+0101150	421169119	Cuenca		locality	4
 103401	1209180557	El Carmen		locality	1
-110101	421169563	Loja		locality	35
+110061	421192183	Vilcabamba		locality	1
+110101	421169563	Loja		locality	37
 110102	421169563	Loja		locality	2
 110103	421169563	Loja		locality	3
-110105	421169563	Loja		locality	9
+110105	421169563	Loja		locality	10
 110107	421169563	Loja		locality	2
-110108	421169563	Loja		locality	13
+110108	421169563	Loja		locality	16
 110110	421169563	Loja		locality	1
-110150	421169563	Loja		locality	4
+110119	421192183	Vilcabamba		locality	1
+110150	421169563	Loja		locality	6
 110160	421169563	Loja		locality	1
 110406	1276313185	Alamor		locality	1
+110406	421169563	Loja		locality	1
 110501	1310678149	Amaluza		locality	1
 110703	1293178089	Susuco		locality	1
 110704	1293763861	Tacamoros		locality	1
@@ -323,28 +391,37 @@ ec130101	421201383	Portoviejo		locality	1
 120109	1209494571	Caracol		locality	1
 120111	1260055237	Montalvo		locality	2
 120115	1276739383	Baba		locality	1
+120201	1209197863	Pueblo Viejo		locality	2
+120201	421186705	Guayaquil		locality	1
 120205	1327009211	Puebloviejo		locality	2
 120313	1310587417	Mocache		locality	1
 120401	1193121579	Ventanas		locality	4
 120406	1193121579	Ventanas		locality	1
+120502	421181725	Vinces		locality	1
+120553	1209024563	San Carlos		locality	1
 120602	1360168505	Buena Fe		locality	1
 120602	1293870155	San Jacinto de Buena Fe		locality	1
 123456	421173233	Quito		locality	1
 130101	421201383	Portoviejo		locality	2
-130103	421201383	Portoviejo		locality	2
+130103	421201383	Portoviejo		locality	1
 130105	421201383	Portoviejo		locality	8
 130108	421201383	Portoviejo		locality	1
 130109	421201383	Portoviejo		locality	1
 130110	1259657417	Picoaza		locality	1
 130153	421201383	Portoviejo		locality	2
 130154	421201383	Portoviejo		locality	1
-130206	421172779	Manta		locality	2
-130207	421172779	Manta		locality	2
+130201	421172779	Manta		locality	1
+130206	421172779	Manta		locality	3
+130207	421172779	Manta		locality	1
 130208	421172779	Manta		locality	3
+130214	421172779	Manta		locality	1
 130215	421172779	Manta		locality	3
 130219	421202915	Montecristi		locality	1
-130503	1209180557	El Carmen		locality	1
-130902	421202915	Montecristi		locality	17
+130233	1360068965	El Arroyo		locality	1
+130401	1209180557	El Carmen		locality	11
+130503	1209180557	El Carmen		locality	3
+130702	421179419	Santa Ana		locality	1
+130902	421202915	Montecristi		locality	16
 130904	1360268915	Cascol		locality	1
 131008	421180843	Tabuga		locality	4
 131008	1276220911	Jama		locality	1
@@ -352,132 +429,163 @@ ec130101	421201383	Portoviejo		locality	1
 131110	421179437	Bahía de Caráquez		locality	1
 131401	1209699511	Olon		locality	1
 131751	1209486277	Cojimies		locality	1
-140101	1141907579	Macas		locality	2
+132250	421173795	San Vicente Canton		locality	3
+140101	1141907579	Macas		locality	4
 140150	1141907579	Macas		locality	1
+140201	421177865	Palora		locality	2
 140402	1242748461	San Juan Bosco		locality	1
-140557	1209788985	Chinimbimi		locality	15
+140501	1327117299	Taisha		locality	1
+140557	1209788985	Chinimbimi		locality	16
 140606	1309878931	Indanza		locality	1
 140650	421182561	Sucúa		locality	4
-150150	421201385	Tena		locality	2
-160101	421166689	Puyo		locality	3
+150101	421201385	Tena		locality	1
+150150	421201385	Tena		locality	3
+160101	421166689	Puyo		locality	4
+160104	421166689	Puyo		locality	2
 160150	421166689	Puyo		locality	5
-160450	1242754247	Arajuno		locality	4
+160450	1242754247	Arajuno		locality	5
 170102	421173233	Quito		locality	3
-170104	421173233	Quito		locality	1
+170103	421173233	Quito		locality	2
+170104	421173233	Quito		locality	2
 170105	421173233	Quito		locality	2
 170105	421201385	Tena		locality	1
 170107	421173233	Quito		locality	1
 170111	421173233	Quito		locality	4
 170118	421173233	Quito		locality	1
+170120	421181111	Pomasqui		locality	1
+170121	421173233	Quito		locality	1
 170122	421173233	Quito		locality	1
 170123	421173233	Quito		locality	3
-170129	421173233	Quito		locality	3
+170124	421173233	Quito		locality	6
+170129	421173233	Quito		locality	4
 170131	421173233	Quito		locality	2
-170133	421173233	Quito		locality	2
+170133	421173233	Quito		locality	4
 170134	421173233	Quito		locality	11
 170135	421173233	Quito		locality	30
-170136	421173233	Quito		locality	2
-170138	421173233	Quito		locality	2
+170136	421173233	Quito		locality	4
+170138	421173233	Quito		locality	3
+170140	421173233	Quito		locality	1
 170141	421173233	Quito		locality	2
 170143	421173233	Quito		locality	2
 170146	421173233	Quito		locality	1
 170147	421173233	Quito		locality	1
+170149	421173233	Quito		locality	1
 170150	421173233	Quito		locality	2
 170155	421173233	Quito		locality	2
 170156	421173233	Quito		locality	2
 170157	421173233	Quito		locality	1
-170167	421204179	Mindo		locality	3
-170184	421173233	Quito		locality	2
+170167	421204179	Mindo		locality	5
+170184	421173233	Quito		locality	3
 170184	421178975	Cumbayá		locality	1
+170184	421184073	Lloa		locality	1
 170184	1276832599	Tumbaco		locality	1
+170201	421173233	Quito		locality	1
+170202	1293167049	Calderon		locality	1
+170203	1293167049	Calderon		locality	2
 170204	421173233	Quito		locality	1
 170206	421173233	Quito		locality	1
-170301	421173233	Quito		locality	1
-170303	421173233	Quito		locality	7
-170304	421173233	Quito		locality	1
+170301	421173233	Quito		locality	2
+170303	421173233	Quito		locality	9
+170304	421173233	Quito		locality	2
 170307	421173233	Quito		locality	1
 170310	421173233	Quito		locality	3
 170313	421181717	Puéllaro		locality	1
-170401	421173233	Quito		locality	7
-170402	421173233	Quito		locality	4
-170403	421173233	Quito		locality	1
+170401	421173233	Quito		locality	8
+170402	421173233	Quito		locality	5
+170403	421173233	Quito		locality	2
 170404	421173233	Quito		locality	5
-170405	421173233	Quito		locality	1
-170410	421173233	Quito		locality	1
+170405	421173233	Quito		locality	3
+170408	421173233	Quito		locality	2
+170410	421173233	Quito		locality	3
 170411	421173233	Quito		locality	1
 170413	421173233	Quito		locality	1
 170419	421173233	Quito		locality	1
-170501	421173233	Quito		locality	4
-170502	421173233	Quito		locality	4
-170503	421173233	Quito		locality	172
-170504	421173233	Quito		locality	4
-170505	421173233	Quito		locality	12
-170506	421173233	Quito		locality	4
+170501	421173233	Quito		locality	8
+170502	421173233	Quito		locality	8
+170503	421173233	Quito		locality	214
+170504	421173233	Quito		locality	6
+170505	421173233	Quito		locality	14
+170506	421173233	Quito		locality	8
 170507	421173233	Quito		locality	22
-170508	421173233	Quito		locality	2
-170509	421173233	Quito		locality	2
+170508	421173233	Quito		locality	3
+170509	421173233	Quito		locality	3
 170510	421173233	Quito		locality	1
-170511	421173233	Quito		locality	1
-170512	421173233	Quito		locality	2
-170513	421173233	Quito		locality	37
-170514	421173233	Quito		locality	1
+170511	421173233	Quito		locality	3
+170512	421173233	Quito		locality	3
+170513	421173233	Quito		locality	38
+170514	421173233	Quito		locality	2
 170515	421173233	Quito		locality	7
-170517	421173233	Quito		locality	21
-170518	421173233	Quito		locality	1
-170520	421173233	Quito		locality	2
+170516	421173233	Quito		locality	1
+170517	421173233	Quito		locality	23
+170518	421173233	Quito		locality	2
+170520	421173233	Quito		locality	5
 170521	421173233	Quito		locality	5
-170522	421173233	Quito		locality	4
-170523	421173233	Quito		locality	4
-170524	421173233	Quito		locality	5
-170525	421173233	Quito		locality	7
+170522	421173233	Quito		locality	5
+170523	421173233	Quito		locality	7
+170524	421173233	Quito		locality	11
+170525	421173233	Quito		locality	6
 170526	421173233	Quito		locality	2
 170527	421173233	Quito		locality	5
+170528	421173233	Quito		locality	1
 170529	421173233	Quito		locality	1
 170530	421173233	Quito		locality	2
-170601	421173233	Quito		locality	2
-170602	421173233	Quito		locality	3
+170601	421173233	Quito		locality	4
+170602	421173233	Quito		locality	4
 170603	421173233	Quito		locality	1
-170606	421173233	Quito		locality	3
+170606	421173233	Quito		locality	7
 170608	421173233	Quito		locality	2
+170701	421173233	Quito		locality	2
 170702	421173233	Quito		locality	1
 170703	421173233	Quito		locality	1
-170707	421173233	Quito		locality	1
+170707	421173233	Quito		locality	2
 170708	421173233	Quito		locality	3
 170717	421169115	Ibarra		locality	1
 170721	421173233	Quito		locality	2
 170751	421204179	Mindo		locality	3
 170809	421173233	Quito		locality	2
 170901	421178975	Cumbayá		locality	1
+170902	421173233	Quito		locality	12
 170902	1276832599	Tumbaco		locality	10
-170902	421173233	Quito		locality	6
-170902	421178975	Cumbayá		locality	1
-170903	421173233	Quito		locality	3
-170907	1293268117	Tababela		locality	1
+170902	421178975	Cumbayá		locality	2
+170907	1293268117	Tababela		locality	2
+170907	421173233	Quito		locality	1
 170910	1276832599	Tumbaco		locality	1
-170911	1243453521	Quinche		locality	1
+170911	421173233	Quito		locality	1
+171002	421169123	Cayambe		locality	1
 171010	1226608373	Malchingui		locality	1
 171101	421204477	Sangolquí		locality	1
-171102	421204477	Sangolquí		locality	4
+171102	421204477	Sangolquí		locality	3
 171102	421181597	San Rafael		locality	1
-171103	421204477	Sangolquí		locality	1
+171103	421204477	Sangolquí		locality	10
 171104	421204477	Sangolquí		locality	1
 171106	1343246495	Tambillo		locality	1
 171111	421200739	Machachi		locality	1
+171202	421175839	San Miguel de Los Bancos		locality	1
 171204	1293076937	Puerto Quito		locality	2
-180101	421169125	Ambato		locality	1
-180103	421169125	Ambato		locality	2
+171819	1310667081	Pifo		locality	1
+180101	421169125	Ambato		locality	6
+180103	421169125	Ambato		locality	3
+180104	421169125	Ambato		locality	2
 180106	1259942559	Atahualpa		locality	1
+180108	1343527007	Ambatillo		locality	1
+180108	421169125	Ambato		locality	1
 180109	1293365491	Augusto N. Martinez		locality	2
+180110	421169125	Ambato		locality	2
 180110	1259649205	Izamba		locality	1
 180201	421169125	Ambato		locality	1
+180202	421169125	Ambato		locality	2
 180205	421169125	Ambato		locality	2
+180213	1226505023	Juan Benigno Vela		locality	1
 180250	1243338735	Banos de Agua Santa		locality	6
 180250	421179433	Baños		locality	4
 180250	1226355153	Martinez		locality	1
 180253	421179433	Baños		locality	1
-180301	1243338735	Banos de Agua Santa		locality	1
+180301	1243338735	Banos de Agua Santa		locality	2
 180350	421179433	Baños		locality	1
+180403	421176327	Pelileo		locality	2
 180403	1343724547	Benitez		locality	1
+180403	1276401907	Garcia Moreno		locality	1
+180503	1309677585	San Miguelito		locality	1
 180550	1343923511	Patate		locality	1
 190102	421176325	Zamora		locality	2
 190553	1260255679	Los Encuentros		locality	1
@@ -487,30 +595,35 @@ ec130101	421201383	Portoviejo		locality	1
 200350	421174579	Puerto Ayora		locality	2
 210150	421192153	Lago Agrio		locality	1
 210304	1293740395	Tarapoa		locality	1
-210401	1360054331	Shushufindi		locality	2
-220206	421186865	Coca		locality	1
-230101	421176803	Santo Domingo de los Colorados		locality	3
-230102	421176803	Santo Domingo de los Colorados		locality	3
+210401	1360054331	Shushufindi		locality	3
+220206	421186865	coca leaf		locality	1
+230101	421176803	Santo Domingo de los Colorados		locality	2
+230102	421176803	Santo Domingo de los Colorados		locality	7
 230103	421176803	Santo Domingo de los Colorados		locality	4
-230106	421176803	Santo Domingo de los Colorados		locality	1
+230106	421176803	Santo Domingo de los Colorados		locality	6
 230107	421176803	Santo Domingo de los Colorados		locality	2
 230108	421176803	Santo Domingo de los Colorados		locality	1
-230109	421176803	Santo Domingo de los Colorados		locality	2
-230150	421181713	La Concordia		locality	13
+230109	421176803	Santo Domingo de los Colorados		locality	4
+230112	421176803	Santo Domingo de los Colorados		locality	7
+230150	421181713	La Concordia Canton		locality	14
+230204	421176803	Santo Domingo de los Colorados		locality	1
 230206	421176803	Santo Domingo de los Colorados		locality	2
 240103	421180761	Santa Elena		locality	2
 240104	421194625	San Pablo		locality	2
 240104	421180761	Santa Elena		locality	1
 240105	1327217545	Jambeli		locality	1
 240105	1309824121	Monteverde		locality	1
+240105	421192173	Palmar		locality	1
 240109	1310695755	Colonche		locality	1
 240109	1209694769	Pueblo Nuevo		locality	1
+240203	421201389	La Libertad		locality	1
+240207	421168531	Salinas		locality	2
 240209	421168531	Salinas		locality	4
 240209	421195739	Posorja		locality	1
 241702	421180761	Santa Elena		locality	1
 241754	1225829071	Montanita		locality	1
 241754	421180761	Santa Elena		locality	1
-0905008	421186705	Guayaquil		locality	1
+900004	1293749927	Las Golondrinas		locality	1
 1701499	421173233	Quito		locality	1
 2451562	421173233	Quito		locality	1
 593090104	421186705	Guayaquil		locality	1

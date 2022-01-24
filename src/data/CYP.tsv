@@ -2,9 +2,10 @@ Kaimakli	101749141	Nicosia		locality	3
 CY-7735	101803579	Kophinou		locality	1
 CY8073	101749143	Paphos		locality	1
 755	101837459	Kiti		locality	1
-1010	101749141	Nicosia		locality	3
-1011	101749141	Nicosia		locality	2
-1016	101749141	Nicosia		locality	1
+1010	101749141	Nicosia		locality	5
+1011	101749141	Nicosia		locality	3
+1015	101749141	Nicosia		locality	1
+1016	101749141	Nicosia		locality	2
 1026	101749141	Nicosia		locality	37
 1037	101749141	Nicosia		locality	2
 1040	101749141	Nicosia		locality	1
@@ -12,160 +13,230 @@ CY8073	101749143	Paphos		locality	1
 1048	101749141	Nicosia		locality	1
 1060	101749141	Nicosia		locality	2
 1061	101749141	Nicosia		locality	1
-1065	101749141	Nicosia		locality	5
-1066	101749141	Nicosia		locality	10
+1065	101749141	Nicosia		locality	8
+1066	101749141	Nicosia		locality	11
 1070	101749141	Nicosia		locality	3
 1075	101749141	Nicosia		locality	1
-1076	101749141	Nicosia		locality	1
-1077	101749141	Nicosia		locality	1
-1080	101749141	Nicosia		locality	2
+1076	101749141	Nicosia		locality	2
+1077	101749141	Nicosia		locality	5
+1080	101749141	Nicosia		locality	6
 1082	101749141	Nicosia		locality	4
 1086	101749141	Nicosia		locality	1
 1087	101749141	Nicosia		locality	1
+1090	101756153	Egkomi Lefkosias		locality	1
+1090	101753033	Strovolos		locality	1
 1095	101749141	Nicosia		locality	1
-1096	101749141	Nicosia		locality	9
+1096	101749141	Nicosia		locality	11
 1097	101749141	Nicosia		locality	8
+1100	1326754549	Agios Andreas		locality	1
 1100	101749141	Nicosia		locality	1
 1101	101749141	Nicosia		locality	1
 1102	101749141	Nicosia		locality	1
+1105	101749141	Nicosia		locality	1
+1107	101749141	Nicosia		locality	1
+1421	101749141	Nicosia		locality	1
+1424	101749141	Nicosia		locality	1
+1439	101749141	Nicosia		locality	1
+1448	101749141	Nicosia		locality	1
 1461	101749141	Nicosia		locality	2
+1461	101753033	Strovolos		locality	1
+1463	101749141	Nicosia		locality	1
+1513	101749141	Nicosia		locality	1
 1523	101749141	Nicosia		locality	1
+1687	101753033	Strovolos		locality	1
 1687	101749141	Nicosia		locality	1
-1955	101756179	Livadhia		locality	3
 2000	101749141	Nicosia		locality	1
-2001	101753033	Strovolos		locality	4
+2001	101753033	Strovolos		locality	5
+2002	101753033	Strovolos		locality	1
+2003	101753033	Strovolos		locality	2
+2006	101749141	Nicosia		locality	1
+2011	101749141	Nicosia		locality	2
+2012	101749141	Nicosia		locality	2
 2013	101749141	Nicosia		locality	2
+2013	101753033	Strovolos		locality	1
+2023	101753033	Strovolos		locality	2
 2023	101749141	Nicosia		locality	1
 2024	101749141	Nicosia		locality	1
-2025	101753033	Strovolos		locality	2
+2025	101753033	Strovolos		locality	4
+2029	101753033	Strovolos		locality	1
+2030	101749141	Nicosia		locality	2
+2032	101753033	Strovolos		locality	1
+2033	101753033	Strovolos		locality	1
+2035	101753033	Strovolos		locality	2
+2042	101749141	Nicosia		locality	1
 2045	101749141	Nicosia		locality	1
+2046	101753033	Strovolos		locality	1
 2047	101753033	Strovolos		locality	1
+2048	101753033	Strovolos		locality	1
 2049	101749141	Nicosia		locality	1
+2049	101753033	Strovolos		locality	1
+2054	101753033	Strovolos		locality	1
 2055	101753033	Strovolos		locality	24
-2057	101753033	Strovolos		locality	1
+2057	101753033	Strovolos		locality	2
+2059	101753033	Strovolos		locality	1
 2060	101753033	Strovolos		locality	1
-2064	101753033	Strovolos		locality	1
-2101	101749141	Nicosia		locality	3
+2063	101749141	Nicosia		locality	1
+2064	101753033	Strovolos		locality	3
+2101	101749141	Nicosia		locality	2
 2102	101749141	Nicosia		locality	1
+2103	101756149	Aglandjia		locality	3
 2103	101749141	Nicosia		locality	1
 2107	101749141	Nicosia		locality	1
 2108	101749141	Nicosia		locality	1
+2109	101756149	Aglandjia		locality	4
+2113	101756149	Aglandjia		locality	1
 2113	101749141	Nicosia		locality	1
 2114	101749141	Nicosia		locality	1
+2116	101756149	Aglandjia		locality	1
+2121	101756149	Aglandjia		locality	1
+2143	101756153	Egkomi Lefkosias		locality	1
+2220	101756145	Latsia		locality	1
 2220	101749141	Nicosia		locality	1
 2230	101756145	Latsia		locality	1
 2234	101756145	Latsia		locality	2
-2235	101756145	Latsia		locality	1
-2236	101756145	Latsia		locality	1
-2311	101756155	Kato Lakatamia		locality	2
+2235	101756145	Latsia		locality	3
+2236	101756145	Latsia		locality	2
+2237	101756145	Latsia		locality	1
+2302	101749141	Nicosia		locality	1
+2304	101756155	Kato Lakatamia		locality	1
+2305	101756155	Kato Lakatamia		locality	1
+2306	101756155	Kato Lakatamia		locality	1
+2310	101749141	Nicosia		locality	3
+2311	101756155	Kato Lakatamia		locality	3
 2320	101756155	Kato Lakatamia		locality	1
 2324	101756155	Kato Lakatamia		locality	1
+2326	101756155	Kato Lakatamia		locality	1
 2363	101749141	Nicosia		locality	1
 2365	101749141	Nicosia		locality	1
+2370	101756153	Egkomi Lefkosias		locality	3
 2370	101756147	Ayios Dhometios		locality	1
-2401	101756153	Έγκωμη		locality	5
-2402	101756153	Έγκωμη		locality	1
+2373	101756147	Ayios Dhometios		locality	1
+2401	101756153	Egkomi Lefkosias		locality	5
+2402	101756153	Egkomi Lefkosias		locality	1
+2406	101756153	Egkomi Lefkosias		locality	5
 2406	101749141	Nicosia		locality	1
+2408	101756153	Egkomi Lefkosias		locality	2
+2409	101756153	Egkomi Lefkosias		locality	2
+2409	101749141	Nicosia		locality	1
+2411	101756153	Egkomi Lefkosias		locality	3
 2413	101749141	Nicosia		locality	3
-2414	101756153	Έγκωμη		locality	1
-2415	101756153	Έγκωμη		locality	1
+2414	101756153	Egkomi Lefkosias		locality	1
+2415	101756153	Egkomi Lefkosias		locality	2
+2417	101756153	Egkomi Lefkosias		locality	1
+2417	101749141	Nicosia		locality	1
 2480	101749141	Nicosia		locality	1
 2480	101803481	Xeri		locality	1
 2571	101749141	Nicosia		locality	2
 2572	101837399	Nisou		locality	1
 2617	101803411	Agrokipia		locality	1
 2643	101803425	Ergates		locality	1
-2671	101749141	Nicosia		locality	1
-2682	101803429	Paliometocho		locality	5
-2682	101749141	Nicosia		locality	1
-2901	101756149	Aglandjia		locality	1
-2901	101749141	Nicosia		locality	1
+2660	101803433	Kokkini Trimithia		locality	2
+2660	101749141	Nicosia		locality	1
+2671	101803427	Ayii Trimithias		locality	12
+2671	101749141	Nicosia		locality	3
+2679	101803435	Mammari		locality	1
+2682	101803429	Paliometocho		locality	9
+2861	101803471	Yerakies		locality	10
+3010	101749147	Limassol		locality	1
 3011	101749147	Limassol		locality	1
 3012	101749147	Limassol		locality	1
-3021	101749147	Limassol		locality	4
-3022	101749147	Limassol		locality	1
-3025	101749147	Limassol		locality	3
-3027	101749147	Limassol		locality	3
+3016	101749147	Limassol		locality	1
+3017	101749147	Limassol		locality	1
+3020	101749147	Limassol		locality	1
+3021	101749147	Limassol		locality	21
+3022	101749147	Limassol		locality	2
+3025	101749147	Limassol		locality	240
+3027	101749147	Limassol		locality	9
 3030	101749147	Limassol		locality	89
-3031	101749147	Limassol		locality	19
-3032	101749147	Limassol		locality	49
-3035	101749147	Limassol		locality	44
-3036	101749147	Limassol		locality	3
+3031	101749147	Limassol		locality	22
+3032	101749147	Limassol		locality	50
+3035	101749147	Limassol		locality	50
+3036	101749147	Limassol		locality	6
 3040	101749147	Limassol		locality	2
-3041	101749147	Limassol		locality	2
+3041	101749147	Limassol		locality	9
 3042	101749147	Limassol		locality	6
 3045	101749147	Limassol		locality	3
-3046	101749147	Limassol		locality	4
+3046	101749147	Limassol		locality	5
 3046	1193159913	Zakaki		locality	1
 3047	101749147	Limassol		locality	1
 3052	101749147	Limassol		locality	1
 3056	101749147	Limassol		locality	1
+3060	101749147	Limassol		locality	1
 3067	101749147	Limassol		locality	1
 3075	101749147	Limassol		locality	1
-3082	101749147	Limassol		locality	1
-3083	101749147	Limassol		locality	1
-3085	101749147	Limassol		locality	2
-3086	101749147	Limassol		locality	2
+3076	101749147	Limassol		locality	1
+3082	101749147	Limassol		locality	2
+3083	101749147	Limassol		locality	2
+3085	101749147	Limassol		locality	1
+3086	101749147	Limassol		locality	1
 3087	101749147	Limassol		locality	1
 3090	101749147	Limassol		locality	2
 3095	101749147	Limassol		locality	24
 3096	101749147	Limassol		locality	1
-3100	101749147	Limassol		locality	1
-3101	101749147	Limassol		locality	52
-3101 Limassol	101756185	Saint Athanasios		locality	1
-3103	101749147	Limassol		locality	2
-3105	101749147	Limassol		locality	47
-3106	101749147	Limassol		locality	39
-3107	101749147	Limassol		locality	5
-3117	101749147	Limassol		locality	1
+3101	101749147	Limassol		locality	66
+3101	101756185	Saint Athanasios		locality	1
+3103	101749147	Limassol		locality	1
+3105	101749147	Limassol		locality	49
+3106	101749147	Limassol		locality	37
+3107	101749147	Limassol		locality	13
+3115	101749147	Limassol		locality	2
+3117	101749147	Limassol		locality	2
 3120	101749147	Limassol		locality	1
 3150	101749147	Limassol		locality	17
 3151	101749147	Limassol		locality	1
 3507	101749147	Limassol		locality	1
+3508	101749147	Limassol		locality	1
 3509	101749147	Limassol		locality	1
 3601	101749147	Limassol		locality	2
 3722	101804649	Parekklisha		locality	1
+4001	101756197	Mesa Yitonia		locality	2
 4001	101749147	Limassol		locality	1
-4001	101756197	Mesa Yitonia		locality	1
 4003	101749147	Limassol		locality	1
 4003	101756197	Mesa Yitonia		locality	1
+4004	101749147	Limassol		locality	7
 4006	101749147	Limassol		locality	1
 4006	101756197	Mesa Yitonia		locality	1
-4040	101749147	Limassol		locality	299
-4041	101749147	Limassol		locality	350
-4042	101749147	Limassol		locality	374
-4043	101749147	Limassol		locality	446
-4044	101758493	Yermasoyia		locality	7
-4046	101749147	Limassol		locality	556
+4040	101749147	Limassol		locality	305
+4041	101749147	Limassol		locality	354
+4042	101749147	Limassol		locality	388
+4043	101749147	Limassol		locality	460
+4044	101758493	Yermasoyia		locality	8
+4046	101749147	Limassol		locality	588
 4047	101749147	Limassol		locality	160
-4047	101758493	Yermasoyia		locality	1
-4048	101749147	Limassol		locality	130
+4047	101758493	Yermasoyia		locality	2
+4048	101749147	Limassol		locality	127
 4048	101758493	Yermasoyia		locality	2
 4061	101749147	Limassol		locality	1
 4062	101749147	Limassol		locality	1
 4100	101749147	Limassol		locality	1
-4101	101749147	Limassol		locality	12
+4101	101749147	Limassol		locality	11
 4102	101749147	Limassol		locality	47
-4103	101749147	Limassol		locality	189
+4103	101749147	Limassol		locality	201
 4104	101749147	Limassol		locality	1
+4105	101756185	Saint Athanasios		locality	2
 4105	101749147	Limassol		locality	1
 4107	101749147	Limassol		locality	11
 4150	101756199	Kato Polemidhia		locality	1
 4152	101749147	Limassol		locality	2
 4153	101749147	Limassol		locality	1
+4154	101749147	Limassol		locality	1
 4155	101749147	Limassol		locality	1
-4156	101749147	Limassol		locality	2
-4180	101756191	Ypsonas		locality	1
+4156	101749147	Limassol		locality	3
+4180	101756191	Ypsonas		locality	2
 4182	101756191	Ypsonas		locality	1
+4189	101756191	Ypsonas		locality	1
 4193	101756191	Ypsonas		locality	3
 4520	101749147	Limassol		locality	8
-4521	101749147	Limassol		locality	48
-4525	101875245	Moni		locality	2
+4520	101804649	Parekklisha		locality	1
+4520	101804651	Pyrgos		locality	1
+4521	101749147	Limassol		locality	53
+4521	101756195	Ayios Tykhonas		locality	7
+4525	101875245	Moni		locality	3
 4529	101749147	Limassol		locality	41
-4529	101804651	Πύργος		locality	1
+4529	101804651	Pyrgos		locality	26
 4531	101749147	Limassol		locality	133
-4532	101749147	Limassol		locality	437
-4533	101749147	Limassol		locality	81
+4532	101749147	Limassol		locality	445
+4533	101749147	Limassol		locality	80
 4534	101749147	Limassol		locality	254
 4549	101804645	Palodhia		locality	1
 4604	101749147	Limassol		locality	2
@@ -175,6 +246,7 @@ CY8073	101749143	Paphos		locality	1
 4631	101804667	Kandou		locality	153
 4632	101804665	Kolossi		locality	1
 4636	101749147	Limassol		locality	1
+4636	101804665	Kolossi		locality	1
 4640	101804657	Akrotiri		locality	5
 4700	101804683	Pakhna		locality	1
 4713	1209913379	Zanakia		locality	109
@@ -190,63 +262,76 @@ CY8073	101749143	Paphos		locality	1
 5296	1125820627	Protaras		locality	5
 5309	101837387	Paralimni		locality	1
 5310	101837387	Paralimni		locality	1
-5330	101837391	Agia Napa		locality	2
+5330	101837391	Agia Napa		locality	4
+5340	101837391	Agia Napa		locality	1
 5341	101837391	Agia Napa		locality	1
 5343	101837391	Agia Napa		locality	2
 5402	101837387	Paralimni		locality	1
+6010	101749145	Larnaca		locality	3
+6012	101749145	Larnaca		locality	3
 6016	101749145	Larnaca		locality	2
 6017	101749145	Larnaca		locality	3
+6018	101749145	Larnaca		locality	11
 6020	101749145	Larnaca		locality	1
-6021	101749145	Larnaca		locality	1
-6022	101749145	Larnaca		locality	3
+6021	101749145	Larnaca		locality	2
+6022	101749145	Larnaca		locality	4
 6023	101749145	Larnaca		locality	2
 6027	101749145	Larnaca		locality	1
 6035	101749145	Larnaca		locality	1
-6050	101749145	Larnaca		locality	1
+6043	101749145	Larnaca		locality	1
+6047	101749145	Larnaca		locality	1
+6050	101749145	Larnaca		locality	2
 6051	101749145	Larnaca		locality	1
 6052	101749145	Larnaca		locality	2
+6057	101749145	Larnaca		locality	3
+6058	101749145	Larnaca		locality	1
 6301	101749145	Larnaca		locality	2
 6303	101749145	Larnaca		locality	1
 6305	101749145	Larnaca		locality	1
 6306	101749145	Larnaca		locality	1
 6531	101749145	Larnaca		locality	1
-7020	101749145	Larnaca		locality	2
-7041	101756181	Voroklini		locality	3
-7060	101749145	Larnaca		locality	1
+7020	101749145	Larnaca		locality	3
+7041	101756181	Voroklini		locality	6
+7044	101804629	Tokhni		locality	1
 7100	101756183	Aradhippou		locality	1
-7101	101749145	Larnaca		locality	2
+7101	101749145	Larnaca		locality	5
 7102	101756183	Aradhippou		locality	1
 7103	101756183	Aradhippou		locality	2
+7104	101756183	Aradhippou		locality	1
 7104	101749145	Larnaca		locality	1
-7505	101803539	Troulli		locality	4
+7505	101803539	Troulli		locality	3
 7530	101749145	Larnaca		locality	1
 7560	101749145	Larnaca		locality	1
-7572	101804623	Alaminos		locality	1
 7577	101803551	Mazotos		locality	29
 7600	101803585	Athienou		locality	10
-7700	101803583	Pano Lefkara		locality	4
+7649	101803573	Psevdhas		locality	2
+7700	101803583	Pano Lefkara		locality	3
 7733	101749145	Larnaca		locality	1
 7737	101749145	Larnaca		locality	1
+7740	101804629	Tokhni		locality	2
 7740	101804633	Psematismenos		locality	1
 7743	101804633	Psematismenos		locality	3
 8010	101749143	Paphos		locality	4
 8011	101837447	Armou		locality	1
 8015	101749143	Paphos		locality	2
 8020	101749143	Paphos		locality	3
-8021	101749143	Paphos		locality	12
+8021	101749143	Paphos		locality	13
 8035	101749143	Paphos		locality	1
 8036	101749143	Paphos		locality	2
 8040	101749143	Paphos		locality	1
-8041	101749143	Paphos		locality	9
-8042	101749143	Paphos		locality	5
+8041	101749143	Paphos		locality	7
+8042	101749143	Paphos		locality	7
 8045	101749143	Paphos		locality	1
 8046	101749143	Paphos		locality	3
 8047	101749143	Paphos		locality	2
 8049	101749143	Paphos		locality	2
+8062	101749143	Paphos		locality	1
 8075	101749143	Paphos		locality	1
+8200	101756177	Yeroskipos		locality	1
 8201	101756177	Yeroskipos		locality	1
+8220	101756167	Chloraka		locality	20
+8220	1125773531	Chloraka		locality	4
 8220	101749143	Paphos		locality	2
-8220	1125773531	Chloraka		locality	1
 8221	101756167	Chloraka		locality	1
 8222	1125773531	Chloraka		locality	1
 8250	101756167	Chloraka		locality	1
@@ -254,29 +339,37 @@ CY8073	101749143	Paphos		locality	1
 8290	101756175	Mesa Chorio		locality	1
 8300	101756165	Konia		locality	1
 8310	101756177	Yeroskipos		locality	1
+8502	101804559	Anarita		locality	1
 8504	101804555	Mandria		locality	1
+8509	101804551	Kouklia		locality	1
 8540	101804565	Tsadha		locality	1
 8541	101804575	Kallepia		locality	1
-8544	101749143	Paphos		locality	1
 8560	101804583	Peyia		locality	4
 8573	101804581	Kathikas		locality	1
 8574	101804549	Kissonerga		locality	1
 8574	101749143	Paphos		locality	1
 8575	101804583	Peyia		locality	2
+8577	101804547	Tala		locality	1
+8630	1125932747	Praitori		locality	2
 8630	101875175	Praitori		locality	1
-8630	1125932747	Praitori		locality	1
 8726	101875207	Miliou		locality	1
+8728	101875211	Kholi		locality	1
 8800	101804601	Lyso		locality	21
 8812	101804599	Simou		locality	1
-8820	101804615	Polis		locality	2
+8820	101804615	Polis		locality	3
 8870	101749143	Paphos		locality	1
+9930	101749139	Kyrenia		locality	5
+14447	101749141	Nicosia		locality	1
+99000	101749141	Nicosia		locality	1
 99010	101749141	Nicosia		locality	2
 99010	101756159	Gönyeli		locality	1
+99040	101803493	Mia Milia		locality	4
+99150	101756159	Gönyeli		locality	1
 99300	101749139	Kyrenia		locality	4
 99350	101749139	Kyrenia		locality	3
 99350	101756139	Karava		locality	2
 99420	101749139	Kyrenia		locality	2
-99450	101749137	Famagusta		locality	9
+99450	101749137	Famagusta		locality	10
 99540	101749137	Famagusta		locality	2
 99850	101803205	Trikomo		locality	1
 99860	101803205	Trikomo		locality	3

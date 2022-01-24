@@ -1,13 +1,17 @@
 +237	890437831	Mutengene		locality	1
 +237	421204495	Yaoundé		locality	1
-B.P. 1156	421204495	Yaoundé		locality	1
 B.P. 2697	421204495	Yaoundé		locality	1
 B.P. 8195	421189877	Douala		locality	1
+BP 4496	421189877	Douala		locality	1
 BP 8114 yde	421204495	Yaoundé		locality	1
+BP411	421204495	Yaoundé		locality	1
 P.O. Box 554 Buea	421175867	Buea		locality	1
+Po box 266	421175867	Buea		locality	1
 63	421175867	Buea		locality	1
+134	421204495	Yaoundé		locality	1
 213	1225850977	Diang		locality	7
 00237	421204497	Limbe		locality	2
+00237	421189877	Douala		locality	1
 00237	421204495	Yaoundé		locality	1
 287	421175869	Bertoua		locality	2
 351	421168939	Bafia		locality	1
@@ -17,7 +21,11 @@ P.O. Box 554 Buea	421175867	Buea		locality	1
 608	421204497	Limbe		locality	1
 1543	421189877	Douala		locality	2
 1561	421204495	Yaoundé		locality	1
-4362 Ydé	421204495	Yaoundé		locality	1
+4496	421189877	Douala		locality	1
+4723	421204495	Yaoundé		locality	1
 5112	421169257	Bamenda		locality	1
 7198	421204495	Yaoundé		locality	1
 11852	421204495	Yaoundé		locality	1
+14966	421204495	Yaoundé		locality	1
+30921	421204495	Yaoundé		locality	1
+55344	421204495	Yaoundé		locality	1

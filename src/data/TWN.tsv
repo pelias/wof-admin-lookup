@@ -1,420 +1,468 @@
-No. 1	102026643	Tainan City		locality	1
+No. 1	890471629	Tainan		locality	1
 ˋˇˊ	102026649	Taichung		locality	1
+南投縣	1226042887	Jiji		locality	1
+嘉義縣	102026687	Minxiong		locality	1
 臺北	102026641	Taipei		locality	1
-41	890471629	台南市		locality	1
-45	890471629	台南市		locality	1
-46	102026643	Tainan City		locality	1
-50	890471629	台南市		locality	1
-53	890471629	台南市		locality	3
-59	890471629	台南市		locality	1
+41	102026643	Tainan City		locality	1
+45	102026643	Tainan City		locality	1
+46	890471629	Tainan		locality	1
+50	102026643	Tainan City		locality	1
+50	102026701	Kaohsiung City		locality	1
+53	102026643	Tainan City		locality	3
+59	102026643	Tainan City		locality	1
 72	102026643	Tainan City		locality	1
-100	1125867167	Taipei		locality	1121
-103	1125867167	Taipei		locality	47
-104	102026641	Taipei		locality	1485
-104	1125867167	Taipei		locality	647
-105	102026641	Taipei		locality	245
-106	1125867167	Taipei		locality	1366
+100	1125867167	Taipei		locality	1181
+102	102026641	Taipei		locality	1
+103	1125867167	Taipei		locality	62
+104	102026641	Taipei		locality	1521
+105	102026641	Taipei		locality	271
+106	1125867167	Taipei		locality	1427
 107	1125867167	Taipei		locality	1
-108	1125867167	Taipei		locality	304
-110	102026641	Taipei		locality	311
-111	102026641	Taipei		locality	1113
-111	890469231	桃園市		locality	1
-112	1125867167	Taipei		locality	107
-112	102026641	Taipei		locality	91
-112	102026681	Beitou		locality	2
-114	102026641	Taipei		locality	313
-115	102026641	Taipei		locality	107
-116	1125867167	Taipei		locality	1086
+108	1125867167	Taipei		locality	323
+110	102026641	Taipei		locality	329
+111	102026641	Taipei		locality	1133
+112	102026641	Taipei		locality	159
+112	102026681	Beitou District		locality	2
+114	102026641	Taipei		locality	319
+115	102026641	Taipei		locality	115
+116	1125867167	Taipei		locality	1249
 180	1125867167	Taipei		locality	10
 182	102026701	Kaohsiung City		locality	1
-200	890470811	基隆市		locality	16
-201	890470811	基隆市		locality	7
-202	890470811	基隆市		locality	11
-203	102026749	Keelung City		locality	19
-204	102026749	Keelung City		locality	11
-205	890470811	基隆市		locality	19
-206	890470811	基隆市		locality	4
+200	102026749	Keelung City		locality	21
+201	102026749	Keelung City		locality	9
+202	102026749	Keelung City		locality	20
+203	102026749	Keelung City		locality	34
+204	102026749	Keelung City		locality	12
+205	102026749	Keelung City		locality	21
+206	102026749	Keelung City		locality	3
 220	102026665	Banqiao District		locality	2
 228	1344064361	Gongliao District		locality	1
-235	102026665	Banqiao District		locality	12
-260	102026707	Ilan City		locality	2
-261	890471915	頭城鎮		locality	4
+260	102026707	Ilan City		locality	3
+260	1310702767	Zhuangwei		locality	2
+261	1343685723	Toucheng		locality	4
 262	102026707	Ilan City		locality	1
+263	1310702767	Zhuangwei		locality	5
 263	1310205217	Guting		locality	1
 264	102026603	Yuanshan		locality	1
-265	890470937	羅東鎮		locality	7
-270	890469947	蘇澳鎮		locality	1
-300	102026725	Hsinchu City		locality	128
-302	102026743	Zhubei		locality	19
+265	1193016899	Luodong		locality	5
+267	1293595077	Datong		locality	2
+268	1293784517	Wujie		locality	2
+270	1260290955	Su'ao		locality	2
+272	1260284477	Nan'ao		locality	2
+300	102026725	Hsinchu City		locality	166
 302	102026725	Hsinchu City		locality	1
-305	890472001	新埔鎮		locality	1
-306	890467971	關西鎮		locality	1
-310	890468279	竹東鎮		locality	2
-312	890469231	桃園市		locality	1
-320	890469231	桃園市		locality	106
-320	890471027	中壢市		locality	9
+304	1243068791	Xinfeng		locality	1
+306	1327334033	Guanxi		locality	1
+307	1326530863	Xionglin		locality	3
+308	1310029701	Baoshan		locality	1
+310	1310411927	Zhudong		locality	3
+311	1260188799	Wufeng		locality	2
+315	1209112057	Emei		locality	1
+320	890471027	Zhongli		locality	8
+320	890469231	Taoyuan		locality	1
 320	102026747	Zhongli District		locality	1
-324	890469231	桃園市		locality	9
+320	102026631	Taoyuan District		locality	1
 324	1343662159	Pingzhen District		locality	1
-325	890469231	桃園市		locality	17
-326	890469231	桃園市		locality	40
-327	890469231	桃園市		locality	6
-328	890469231	桃園市		locality	3
-330	890469231	桃園市		locality	82
-333	890469231	桃園市		locality	156
-334	890469231	桃園市		locality	8
-334	890470923	八德市		locality	6
-335	890469231	桃園市		locality	12
+326	890471641	Taoyuan County		locality	2
+327	890471641	Taoyuan County		locality	1
+330	890469231	Taoyuan		locality	1
+330	102026631	Taoyuan District		locality	1
+334	890470923	Bade District		locality	6
 335	102026631	Taoyuan District		locality	1
-336	890469231	桃園市		locality	5
-337	890469231	桃園市		locality	18
-338	890469231	桃園市		locality	18
-350	890470685	竹南鎮		locality	2
-351	102026627	Toufen Township		locality	3
-351	890469161	頭份鎮		locality	3
-357	890471449	通霄鎮		locality	1
-358	890470813	苑裡鎮		locality	1
+336	890469131	Taoyuan County		locality	1
+350	1209420879	Zhunan		locality	2
+351	102026627	Toufen Township		locality	2
 360	102026689	Miaoli		locality	9
+363	1243460537	Gongguan		locality	2
+367	1293784559	Sanyi		locality	1
 400	102026649	Taichung		locality	1
-401	102026649	Taichung		locality	66
+401	102026649	Taichung		locality	68
 402	102026649	Taichung		locality	4
-403	102026649	Taichung		locality	45
-404	102026649	Taichung		locality	6
+403	102026649	Taichung		locality	49
+404	102026649	Taichung		locality	25
 404-45	102026649	Taichung		locality	1
-406	102026649	Taichung		locality	13
-407	102026649	Taichung		locality	34
-407	890468197	台中市		locality	7
-408	102026649	Taichung		locality	21
-408	890468197	台中市		locality	2
+406	102026649	Taichung		locality	22
+407	102026649	Taichung		locality	69
+408	102026649	Taichung		locality	29
 411	102026649	Taichung		locality	482
-412	102026649	Taichung		locality	398
-412	102026647	Fengyuan		locality	1
-413	102026611	Wufeng District		locality	99
-413	102026649	Taichung		locality	67
-414	102026649	Taichung		locality	7
-420	102026649	Taichung		locality	55
-420	890468197	台中市		locality	17
-421	102026649	Taichung		locality	17
-421	890468197	台中市		locality	2
-422	102026649	Taichung		locality	451
-423	102026649	Taichung		locality	118
-424	102026649	Taichung		locality	6
-426	102026649	Taichung		locality	8
-426	102026769	Xinshequ		locality	7
-427	102026649	Taichung		locality	25
-427	890468197	台中市		locality	1
-428	102026649	Taichung		locality	12
-428	890468197	台中市		locality	2
+412	102026649	Taichung		locality	409
+412	890471059	Taichung County		locality	1
+413	102026611	Wufeng District		locality	90
+413	102026649	Taichung		locality	80
+414	102026649	Taichung		locality	9
+420	102026649	Taichung		locality	68
+421	102026649	Taichung		locality	22
+422	102026649	Taichung		locality	1519
+423	102026649	Taichung		locality	128
+424	102026649	Taichung		locality	10
+426	102026649	Taichung		locality	10
+426	102026769	Xinshequ		locality	5
+427	102026649	Taichung		locality	29
+428	102026649	Taichung		locality	18
+429	102026649	Taichung		locality	2
 432	1343882195	Xizhou		locality	1
 432	102026649	Taichung		locality	1
-433	890468197	台中市		locality	4
-434	102026649	Taichung		locality	3
-435	890468197	台中市		locality	3
-435	102026649	Taichung		locality	3
-436	102026649	Taichung		locality	9
-436	890468197	台中市		locality	1
+433	102026649	Taichung		locality	4
+434	102026649	Taichung		locality	8
+435	102026649	Taichung		locality	5
+436	102026649	Taichung		locality	10
 437	102026649	Taichung		locality	2
-437	890468197	台中市		locality	1
-439	890468197	台中市		locality	1
-439	102026649	Taichung		locality	1
-540	890469309	南投市		locality	5
-542	890470591	草屯鎮		locality	2
-545	890472007	埔里鎮		locality	4
-557	102026741	Zhushan		locality	5
-600	102026757	Chiayi City		locality	90
+438	102026649	Taichung		locality	2
+439	102026649	Taichung		locality	2
+447	102026649	Taichung		locality	1
+500	102026761	Changhua		locality	9
+503	1259979881	Huatan		locality	3
+505	102026695	Lukang		locality	1
+510	102026605	Yuanlin		locality	1
+540	102026683	Nantou City		locality	6
+542	102026625	Caotun		locality	2
+544	1293493799	Guoxing		locality	1
+545	102026675	Puli		locality	6
+546	1209739639	Renai		locality	3
+551	1259690059	Mingjian		locality	1
+553	1210016963	Shuili		locality	2
+556	1293883963	Xinyi		locality	1
+557	102026741	Zhushan		locality	4
+600	102026757	Chiayi City		locality	152
 602	1292909359	Fanlu		locality	1
-612	1141906261	Taibao		locality	4
-613	1141906821	Puzi		locality	1
-700	102026643	Tainan City		locality	71
-700	890471629	台南市		locality	42
-701	102026643	Tainan City		locality	94
-701	890471629	台南市		locality	50
-702	102026643	Tainan City		locality	61
-702	890471629	台南市		locality	12
-704	890471629	台南市		locality	85
-704	102026643	Tainan City		locality	44
-708	890471629	台南市		locality	18
-708	102026643	Tainan City		locality	2
-709	890471629	台南市		locality	10
-709	102026643	Tainan City		locality	1
-710	890471629	台南市		locality	25
-710	102026643	Tainan City		locality	10
+603	1259880287	Meishan		locality	1
+608	1209615499	Shuishang		locality	1
+612	1141906261	Taibao		locality	3
+613	1209716545	Pozi		locality	1
+614	1327437759	Dongshi		locality	3
+621	102026687	Minxiong		locality	11
+627	890471641	Taoyuan County		locality	1
+654	1309744905	Sihu		locality	1
+700	102026643	Tainan City		locality	81
+701	102026643	Tainan City		locality	122
+701	890471629	Tainan		locality	1
+702	102026643	Tainan City		locality	148
+704	102026643	Tainan City		locality	87
+708	102026643	Tainan City		locality	22
+709	102026643	Tainan City		locality	21
+710	102026643	Tainan City		locality	32
 711	102026643	Tainan City		locality	14
-711	890471629	台南市		locality	4
-712	102026643	Tainan City		locality	8
+712	102026643	Tainan City		locality	28
 713	102026643	Tainan City		locality	1
-714	102026643	Tainan City		locality	3
-715	102026643	Tainan City		locality	2
-717	102026643	Tainan City		locality	5
-717	890471629	台南市		locality	2
-718	890471629	台南市		locality	24
+713-41	102026643	Tainan City		locality	1
+714	102026643	Tainan City		locality	7
+715	102026643	Tainan City		locality	3
+716	102026643	Tainan City		locality	4
+717	102026643	Tainan City		locality	9
+718	102026643	Tainan City		locality	24
 718	1326963163	Xinbu		locality	1
+719	102026643	Tainan City		locality	1
 720	102026643	Tainan City		locality	4
-721	102026643	Tainan City		locality	4
+721	102026643	Tainan City		locality	5
+721	1209338543	Madou		locality	1
 722	102026643	Tainan City		locality	2
 723	102026643	Tainan City		locality	3
-723	1326554241	Baihe		locality	2
+723	1326554241	Baihe		locality	1
+724	102026643	Tainan City		locality	3
 725	102026643	Tainan City		locality	12
 726	102026643	Tainan City		locality	1
-730	102026643	Tainan City		locality	6
-730	1243555015	Xinying District		locality	1
+727	102026643	Tainan City		locality	1
+730	102026643	Tainan City		locality	7
 731	102026643	Tainan City		locality	1
 732	102026643	Tainan City		locality	13
 732	1326554241	Baihe		locality	1
-733	102026643	Tainan City		locality	2
+733	102026643	Tainan City		locality	3
+734	102026643	Tainan City		locality	1
 735	102026643	Tainan City		locality	1
-736	102026643	Tainan City		locality	6
-737	102026643	Tainan City		locality	3
+736	102026643	Tainan City		locality	7
+737	102026643	Tainan City		locality	4
 741	102026643	Tainan City		locality	53
-744	102026643	Tainan City		locality	53
+743	102026643	Tainan City		locality	1
+744	102026643	Tainan City		locality	55
 745	102026643	Tainan City		locality	1
-800	102026701	Kaohsiung City		locality	15
-801	102026701	Kaohsiung City		locality	3
-802	102026701	Kaohsiung City		locality	23
-803	102026701	Kaohsiung City		locality	50
-804	102026701	Kaohsiung City		locality	66
-805	102026701	Kaohsiung City		locality	2
-806	102026701	Kaohsiung City		locality	45
-807	102026701	Kaohsiung City		locality	64
-811	102026701	Kaohsiung City		locality	107
-812	102026701	Kaohsiung City		locality	24
-813	102026701	Kaohsiung City		locality	226
-814	102026701	Kaohsiung City		locality	2
-815	102026701	Kaohsiung City		locality	11
-820	102026701	Kaohsiung City		locality	11
-821	102026701	Kaohsiung City		locality	7
-822	102026701	Kaohsiung City		locality	3
-824	102026701	Kaohsiung City		locality	20
-825	102026701	Kaohsiung City		locality	55
-826	102026701	Kaohsiung City		locality	15
+800	102026701	Kaohsiung City		locality	25
+801	102026701	Kaohsiung City		locality	15
+802	102026701	Kaohsiung City		locality	73
+803	102026701	Kaohsiung City		locality	74
+804	102026701	Kaohsiung City		locality	154
+805	102026701	Kaohsiung City		locality	7
+806	102026701	Kaohsiung City		locality	88
+807	102026701	Kaohsiung City		locality	191
+811	102026701	Kaohsiung City		locality	181
+812	102026701	Kaohsiung City		locality	32
+813	102026701	Kaohsiung City		locality	309
+814	102026701	Kaohsiung City		locality	13
+815	102026701	Kaohsiung City		locality	24
+820	102026701	Kaohsiung City		locality	59
+821	102026701	Kaohsiung City		locality	8
+822	102026701	Kaohsiung City		locality	4
+823	102026701	Kaohsiung City		locality	3
+824	102026701	Kaohsiung City		locality	23
+825	102026701	Kaohsiung City		locality	112
+826	102026701	Kaohsiung City		locality	17
 828	102026701	Kaohsiung City		locality	1
-830	102026701	Kaohsiung City		locality	8
-830	890472055	Fongshan District		locality	3
-831	102026701	Kaohsiung City		locality	1
-832	102026701	Kaohsiung City		locality	2
-833	102026701	Kaohsiung City		locality	1
-840	102026701	Kaohsiung City		locality	4
-842	102026701	Kaohsiung City		locality	13
+830	102026701	Kaohsiung City		locality	57
+831	102026701	Kaohsiung City		locality	4
+832	102026701	Kaohsiung City		locality	4
+833	102026701	Kaohsiung City		locality	6
+840	102026701	Kaohsiung City		locality	6
+842	102026701	Kaohsiung City		locality	21
+842	1293296141	Qishan		locality	19
 843	102026701	Kaohsiung City		locality	8
-849	102026701	Kaohsiung City		locality	1
-880	890469299	馬公市		locality	4
-900	890471999	屏東市		locality	5
-920	890470129	潮州鎮		locality	7
+844	102026701	Kaohsiung City		locality	4
+845	102026701	Kaohsiung City		locality	5
+847	102026701	Kaohsiung City		locality	18
+848	102026701	Kaohsiung City		locality	5
+849	102026701	Kaohsiung City		locality	4
+851	102026701	Kaohsiung City		locality	2
+852	102026701	Kaohsiung City		locality	9
+880	890472077	Magong		locality	2
+885	1343864335	Huxi		locality	1
+900	102026677	Pingtung City		locality	12
+908	1343762679	Changzhi		locality	23
+909	1293206381	Linluo		locality	1
+920	1293488539	Chaozhou		locality	4
 922	1293784313	Laiyi		locality	1
+927	1309712441	Linbian		locality	1
 940	102026739	Fangliao		locality	2
-946	890468961	恆春鎮		locality	3
-946	102026735	Hengchun		locality	2
-950	102026785	Taitung City		locality	11
-950	890468321	Taitung City		locality	1
-961	890470133	成功鎮		locality	1
-970	102026715	Hualien City		locality	49
+941	1193050911	Fangshan		locality	6
+946	102026735	Hengchun		locality	8
+946	102026677	Pingtung City		locality	1
+950	890468321	Taitung City		locality	10
+961	1276585635	Chenggong		locality	2
+965	102026785	Taitung City		locality	1
+970	102026715	Hualien City		locality	50
+971	1226342809	Xincheng		locality	7
 971	102026715	Hualien City		locality	2
-971	890471541	花蓮市		locality	1
-974	102026659	Shoufeng		locality	46
-975	890468997	鳳林鎮		locality	2
+972	1293790187	Xiulin		locality	1
+973	1343662105	Chi-an		locality	1
+973	102026715	Hualien City		locality	1
+974	102026659	Shoufeng		locality	15
+975	1259783841	Fenglin		locality	2
 981	102026599	Yuli		locality	3
-1039	102026611	Wufeng District		locality	1
-1070	890471629	台南市		locality	1
-10001	1125867167	Taipei		locality	1
+982	1293487903	Zhuoxi		locality	1
+1039	102026649	Taichung		locality	2
+1070	102026643	Tainan City		locality	1
+10001	1125867167	Taipei		locality	2
 10005	1125867167	Taipei		locality	1
 10006	1125867167	Taipei		locality	1
 10007	1125867167	Taipei		locality	1
 10008	1125867167	Taipei		locality	1
-10012	1125867167	Taipei		locality	1
 10013	1125867167	Taipei		locality	1
 10014	1125867167	Taipei		locality	1
-10015	1125867167	Taipei		locality	1
+10015	1125867167	Taipei		locality	2
 10016	1125867167	Taipei		locality	2
 10018	1125867167	Taipei		locality	3
 10020	1125867167	Taipei		locality	1
 10041	1125867167	Taipei		locality	58
-10042	1125867167	Taipei		locality	21
+10042	1125867167	Taipei		locality	20
 10043	1125867167	Taipei		locality	8
-10044	1125867167	Taipei		locality	21
-10045	1125867167	Taipei		locality	36
+10044	1125867167	Taipei		locality	20
+10045	1125867167	Taipei		locality	37
 10046	1125867167	Taipei		locality	30
 10047	1125867167	Taipei		locality	65
-10048	1125867167	Taipei		locality	42
-10049	1125867167	Taipei		locality	11
+10048	1125867167	Taipei		locality	57
+10049	1125867167	Taipei		locality	14
 10050	1125867167	Taipei		locality	18
-10051	1125867167	Taipei		locality	7
-10052	1125867167	Taipei		locality	5
+10051	1125867167	Taipei		locality	15
+10052	1125867167	Taipei		locality	6
 10053	1125867167	Taipei		locality	5
-10054	1125867167	Taipei		locality	3
-10055	1125867167	Taipei		locality	1
+10054	1125867167	Taipei		locality	4
+10055	1125867167	Taipei		locality	2
 10056	1125867167	Taipei		locality	2
-10058	1125867167	Taipei		locality	10
+10058	1125867167	Taipei		locality	12
 10060	1125867167	Taipei		locality	1
 10061	1125867167	Taipei		locality	2
 10062	1125867167	Taipei		locality	2
 10063	1125867167	Taipei		locality	1
-10065	1125867167	Taipei		locality	31
-10066	1125867167	Taipei		locality	26
+10065	1125867167	Taipei		locality	33
+10066	1125867167	Taipei		locality	29
 10067	1125867167	Taipei		locality	1
 10068	1125867167	Taipei		locality	2
-10069	1125867167	Taipei		locality	8
-10070	1125867167	Taipei		locality	5
+10069	1125867167	Taipei		locality	9
+10070	1125867167	Taipei		locality	6
+10071	1125867167	Taipei		locality	1
+10072	1125867167	Taipei		locality	1
 10074	1125867167	Taipei		locality	18
-10075	1125867167	Taipei		locality	17
+10075	1125867167	Taipei		locality	16
 10075 臺北市重慶南路2段45號	1125867167	Taipei		locality	1
 10076	1125867167	Taipei		locality	2
-10078	1125867167	Taipei		locality	9
+10078	1125867167	Taipei		locality	10
 10079	1125867167	Taipei		locality	1
-10081	1125867167	Taipei		locality	4
-10084	1125867167	Taipei		locality	10
-10085	1125867167	Taipei		locality	2
-10086	1125867167	Taipei		locality	1
-10087	1125867167	Taipei		locality	4
+10081	1125867167	Taipei		locality	5
+10084	1125867167	Taipei		locality	11
+10085	1125867167	Taipei		locality	3
+10086	1125867167	Taipei		locality	2
+10087	1125867167	Taipei		locality	6
 10088	1125867167	Taipei		locality	3
 10089	1125867167	Taipei		locality	3
 10090	1125867167	Taipei		locality	8
-10091	1125867167	Taipei		locality	16
-10092	1125867167	Taipei		locality	6
+10091	1125867167	Taipei		locality	19
+10092	1125867167	Taipei		locality	7
 10093	1125867167	Taipei		locality	2
-10341	1125867167	Taipei		locality	8
+10341	1125867167	Taipei		locality	6
 10342	1125867167	Taipei		locality	2
 10344	1125867167	Taipei		locality	1
 10345	1125867167	Taipei		locality	1
 10346	1125867167	Taipei		locality	2
 10347	1125867167	Taipei		locality	3
 10349	1125867167	Taipei		locality	6
-10351	1125867167	Taipei		locality	7
-10352	1125867167	Taipei		locality	3
-10354	1125867167	Taipei		locality	4
+10351	1125867167	Taipei		locality	9
+10352	1125867167	Taipei		locality	2
+10353	1125867167	Taipei		locality	1
+10354	1125867167	Taipei		locality	7
 10355	1125867167	Taipei		locality	1
-10356	1125867167	Taipei		locality	3
+10356	1125867167	Taipei		locality	4
 10357	1125867167	Taipei		locality	1
 10358	1125867167	Taipei		locality	1
-10359	1125867167	Taipei		locality	2
-10360	1125867167	Taipei		locality	1
-10361	1125867167	Taipei		locality	1
+10359	1125867167	Taipei		locality	3
+10360	1125867167	Taipei		locality	2
+10361	1125867167	Taipei		locality	3
 10362	1125867167	Taipei		locality	1
-10365	1125867167	Taipei		locality	1
+10364	1125867167	Taipei		locality	2
+10365	1125867167	Taipei		locality	6
+10366	1125867167	Taipei		locality	1
 10367	1125867167	Taipei		locality	2
-10371	1125867167	Taipei		locality	2
+10369	1125867167	Taipei		locality	1
+10370	1125867167	Taipei		locality	1
+10371	1125867167	Taipei		locality	3
+10375	1125867167	Taipei		locality	1
 10402	102026641	Taipei		locality	1
+10404	102026641	Taipei		locality	1
 10410	1125867167	Taipei		locality	1
 10412	1125867167	Taipei		locality	4
 10441	1125867167	Taipei		locality	3
+10443	1125867167	Taipei		locality	1
 10444	1125867167	Taipei		locality	13
-10446	1125867167	Taipei		locality	18
-10448	1125867167	Taipei		locality	5
+10446	1125867167	Taipei		locality	10
+10448	1125867167	Taipei		locality	4
 10449	1125867167	Taipei		locality	1
-10450	1125867167	Taipei		locality	3
+10450	1125867167	Taipei		locality	2
 10451	1125867167	Taipei		locality	6
-10452	1125867167	Taipei		locality	3
+10452	1125867167	Taipei		locality	4
 10455	1125867167	Taipei		locality	1
 10456	1125867167	Taipei		locality	1
 10457	1125867167	Taipei		locality	6
 10458	1125867167	Taipei		locality	1
-10461	1125867167	Taipei		locality	3
-10462	102026641	Taipei		locality	6
+10461	1125867167	Taipei		locality	4
+10462	102026641	Taipei		locality	13
 10463	102026641	Taipei		locality	4
-10464	102026641	Taipei		locality	3
-10465	102026641	Taipei		locality	2
+10464	102026641	Taipei		locality	6
+10465	102026641	Taipei		locality	5
 10466	102026641	Taipei		locality	1
 10467	1125867167	Taipei		locality	4
-10468	1125867167	Taipei		locality	1
+10468	1125867167	Taipei		locality	3
 10469	1125867167	Taipei		locality	2
 10470	1125867167	Taipei		locality	2
 10472	102026641	Taipei		locality	1
+10476	102026641	Taipei		locality	1
 10477	1125867167	Taipei		locality	1
-10478	102026641	Taipei		locality	3
+10478	102026641	Taipei		locality	4
+10480	102026641	Taipei		locality	1
 10481	102026641	Taipei		locality	2
-10482	102026641	Taipei		locality	3
+10482	102026641	Taipei		locality	4
 10483	1125867167	Taipei		locality	2
-10485	1125867167	Taipei		locality	6
+10484	1125867167	Taipei		locality	1
+10485	1125867167	Taipei		locality	7
 10486	1125867167	Taipei		locality	10
-10487	1125867167	Taipei		locality	1
+10487	102026641	Taipei		locality	2
 10488	1125867167	Taipei		locality	1
 10488	102026641	Taipei		locality	1
-10489	1125867167	Taipei		locality	5
-10490	1125867167	Taipei		locality	2
-10491	1125867167	Taipei		locality	14
+10489	1125867167	Taipei		locality	7
+10490	1125867167	Taipei		locality	3
+10491	1125867167	Taipei		locality	17
 10492	1125867167	Taipei		locality	5
 10543	102026641	Taipei		locality	1
-10544	102026641	Taipei		locality	2
+10544	102026641	Taipei		locality	3
+10545	102026641	Taipei		locality	1
 10547	102026641	Taipei		locality	2
-10548	102026641	Taipei		locality	3
-10550	102026641	Taipei		locality	4
+10548	102026641	Taipei		locality	5
+10550	102026641	Taipei		locality	3
 10552	102026641	Taipei		locality	3
 10553	102026641	Taipei		locality	1
 10554	102026641	Taipei		locality	2
-10557	102026641	Taipei		locality	33
-10559	102026641	Taipei		locality	2
+10556	1125867167	Taipei		locality	1
+10559	102026641	Taipei		locality	3
 10560	102026641	Taipei		locality	1
-10565	102026641	Taipei		locality	2
+10561	102026641	Taipei		locality	2
+10565	102026641	Taipei		locality	3
 10566	102026641	Taipei		locality	10
-10567	102026641	Taipei		locality	5
-10569	102026641	Taipei		locality	1
+10567	102026641	Taipei		locality	6
+10569	102026641	Taipei		locality	3
 10574	102026641	Taipei		locality	1
 10576	102026641	Taipei		locality	1
+10582	102026641	Taipei		locality	4
 10585	102026641	Taipei		locality	1
 10595	102026641	Taipei		locality	1
 10603	1125867167	Taipei		locality	1
-10617	1125867167	Taipei		locality	3
+10607	1125867167	Taipei		locality	1
+10608	1125867167	Taipei		locality	1
+10612	102026641	Taipei		locality	1
+10617	1125867167	Taipei		locality	5
 10634	1125867167	Taipei		locality	1
-10641	1125867167	Taipei		locality	2
-10642	1125867167	Taipei		locality	2
-10643	1125867167	Taipei		locality	7
+10641	1125867167	Taipei		locality	3
+10642	1125867167	Taipei		locality	3
+10643	1125867167	Taipei		locality	8
 10644	1125867167	Taipei		locality	1
-10645	1125867167	Taipei		locality	3
-10647	1125867167	Taipei		locality	7
+10645	1125867167	Taipei		locality	5
+10646	1125867167	Taipei		locality	1
+10647	1125867167	Taipei		locality	6
 10649	1125867167	Taipei		locality	1
-10650	1125867167	Taipei		locality	3
+10650	1125867167	Taipei		locality	5
 10652	1125867167	Taipei		locality	3
 10653	1125867167	Taipei		locality	1
 10654	1125867167	Taipei		locality	1
-10655	1125867167	Taipei		locality	1
-10656	1125867167	Taipei		locality	2
+10655	1125867167	Taipei		locality	2
+10656	1125867167	Taipei		locality	4
 10657	1125867167	Taipei		locality	1
-10658	1125867167	Taipei		locality	1
+10658	1125867167	Taipei		locality	2
 10659	1125867167	Taipei		locality	3
 10660	1125867167	Taipei		locality	1
-10663	1125867167	Taipei		locality	1
-10664	1125867167	Taipei		locality	1
+10663	1125867167	Taipei		locality	3
+10664	1125867167	Taipei		locality	2
 10665	1125867167	Taipei		locality	3
-10666	1125867167	Taipei		locality	3
-10667	1125867167	Taipei		locality	2
-10668	1125867167	Taipei		locality	1
+10666	1125867167	Taipei		locality	4
+10667	1125867167	Taipei		locality	7
+10668	1125867167	Taipei		locality	3
 10669	1125867167	Taipei		locality	5
 10669	102026641	Taipei		locality	1
-10671	1125867167	Taipei		locality	3
+10670	1125867167	Taipei		locality	1
+10671	1125867167	Taipei		locality	8
 10672	1125867167	Taipei		locality	2
-10673	1125867167	Taipei		locality	16
-10674	1125867167	Taipei		locality	1
+10673	1125867167	Taipei		locality	19
+10674	1125867167	Taipei		locality	4
 10675	1125867167	Taipei		locality	2
-10676	1125867167	Taipei		locality	1
+10676	1125867167	Taipei		locality	4
 10677	1125867167	Taipei		locality	1
-10681	1125867167	Taipei		locality	2
+10679	1125867167	Taipei		locality	1
+10681	1125867167	Taipei		locality	4
 10684	1125867167	Taipei		locality	2
 10685	1125867167	Taipei		locality	2
 10686	1125867167	Taipei		locality	2
 10687	1125867167	Taipei		locality	1
-10688	1125867167	Taipei		locality	4
+10688	1125867167	Taipei		locality	5
 10689	1125867167	Taipei		locality	2
 10691	1125867167	Taipei		locality	4
 10694	102026641	Taipei		locality	4
+10696	102026641	Taipei		locality	1
 10802	1125867167	Taipei		locality	1
 10807	1125867167	Taipei		locality	1
-10841	1125867167	Taipei		locality	3
+10841	1125867167	Taipei		locality	5
 10842	1125867167	Taipei		locality	3
 10843	1125867167	Taipei		locality	3
 10844	1125867167	Taipei		locality	15
-10845	1125867167	Taipei		locality	11
+10845	1125867167	Taipei		locality	12
 10846	1125867167	Taipei		locality	5
 10847	1125867167	Taipei		locality	2
 10848	1125867167	Taipei		locality	2
-10849	1125867167	Taipei		locality	3
+10849	1125867167	Taipei		locality	4
 10851	1125867167	Taipei		locality	1
-10852	1125867167	Taipei		locality	4
+10852	1125867167	Taipei		locality	5
 10856	1125867167	Taipei		locality	1
-10857	1125867167	Taipei		locality	1
+10857	1125867167	Taipei		locality	2
+10858	1125867167	Taipei		locality	1
+10860	1125867167	Taipei		locality	2
 10862	1125867167	Taipei		locality	3
-10863	1125867167	Taipei		locality	2
-10864	1125867167	Taipei		locality	1
-10869	1125867167	Taipei		locality	1
+10863	1125867167	Taipei		locality	3
+10864	1125867167	Taipei		locality	3
+10869	1125867167	Taipei		locality	3
 10872	1125867167	Taipei		locality	1
+10877	1125867167	Taipei		locality	1
 10881	1125867167	Taipei		locality	1
 10884	1125867167	Taipei		locality	2
 11001	102026641	Taipei		locality	1
@@ -423,86 +471,113 @@ No. 1	102026643	Tainan City		locality	1
 11011	102026641	Taipei		locality	3
 11012	102026641	Taipei		locality	6
 11025	102026641	Taipei		locality	1
-11031	102026641	Taipei		locality	3
+11031	102026641	Taipei		locality	4
+11041	102026641	Taipei		locality	1
 11047	102026641	Taipei		locality	3
 11049	102026641	Taipei		locality	8
 11051	102026641	Taipei		locality	3
-11052	102026641	Taipei		locality	1
+11052	102026641	Taipei		locality	2
 11053	1125867167	Taipei		locality	1
 11054	1125867167	Taipei		locality	1
 11060	102026641	Taipei		locality	1
 11061	102026641	Taipei		locality	2
+11062	102026641	Taipei		locality	1
 11065	102026641	Taipei		locality	4
-11072	102026641	Taipei		locality	6
-11073	102026641	Taipei		locality	12
+11069	102026641	Taipei		locality	1
+11070	102026641	Taipei		locality	1
+11071	102026641	Taipei		locality	1
+11072	102026641	Taipei		locality	5
+11073	102026641	Taipei		locality	13
 11075	102026641	Taipei		locality	1
-11080	102026641	Taipei		locality	2
+11079	102026641	Taipei		locality	1
+11080	102026641	Taipei		locality	5
+11081	102026641	Taipei		locality	1
+11082	102026641	Taipei		locality	1
 11085	102026641	Taipei		locality	3
 11087	102026641	Taipei		locality	4
 11088	102026641	Taipei		locality	1
+11103	102026641	Taipei		locality	1
 11111	102026641	Taipei		locality	1
-11114	102026641	Taipei		locality	1
-11141	102026641	Taipei		locality	1
+11114	102026641	Taipei		locality	5
+11141	102026641	Taipei		locality	2
+11142	102026641	Taipei		locality	1
 11143	102026641	Taipei		locality	7
-11144	102026641	Taipei		locality	3
+11144	102026641	Taipei		locality	4
 11147	102026641	Taipei		locality	2
+11149	102026641	Taipei		locality	2
 11151	102026641	Taipei		locality	1
-11154	102026641	Taipei		locality	3
-11155	102026641	Taipei		locality	2
+11152	102026641	Taipei		locality	1
+11153	102026641	Taipei		locality	1
+11154	102026641	Taipei		locality	4
+11155	102026641	Taipei		locality	3
 11157	102026641	Taipei		locality	2
 11158	102026641	Taipei		locality	62
+11159	102026641	Taipei		locality	1
+11160	102026641	Taipei		locality	1
 11162	102026641	Taipei		locality	1
-11163	102026641	Taipei		locality	133
-11169	102026641	Taipei		locality	25
+11163	102026641	Taipei		locality	132
+11165	1125867167	Taipei		locality	3
+11166	102026641	Taipei		locality	1
+11167	102026641	Taipei		locality	1
+11169	102026641	Taipei		locality	27
 11174	1125867167	Taipei		locality	1
-11192	102026641	Taipei		locality	2
-11193	102026641	Taipei		locality	2
+11191	102026641	Taipei		locality	1
+11192	102026641	Taipei		locality	3
+11193	102026641	Taipei		locality	4
 11201	1125867167	Taipei		locality	1
 11202	102026641	Taipei		locality	1
-11241	102026641	Taipei		locality	1
-11243	102026641	Taipei		locality	4
+11218	102026641	Taipei		locality	1
+11221	102026641	Taipei		locality	1
+11241	102026641	Taipei		locality	2
+11243	102026641	Taipei		locality	6
 11244	102026641	Taipei		locality	1
 11246	102026641	Taipei		locality	15
-11247	102026641	Taipei		locality	3
+11247	102026641	Taipei		locality	4
+11248	102026641	Taipei		locality	2
 11252	102026641	Taipei		locality	15
 11256	102026641	Taipei		locality	1
-11257	102026641	Taipei		locality	2
-11259	1125867167	Taipei		locality	1
+11257	102026641	Taipei		locality	3
+11259	1125867167	Taipei		locality	4
 11260	1125867167	Taipei		locality	2
-11263	102026641	Taipei		locality	8
+11263	102026641	Taipei		locality	9
 11264	102026641	Taipei		locality	2
 11265	102026641	Taipei		locality	1
-11268	102026641	Taipei		locality	2
+11268	102026641	Taipei		locality	3
 11270	102026641	Taipei		locality	2
 11271	102026641	Taipei		locality	3
 11280	102026641	Taipei		locality	1
+11287	102026641	Taipei		locality	2
 11289	102026641	Taipei		locality	19
 11290	102026641	Taipei		locality	1
-11291	102026641	Taipei		locality	1
+11291	102026641	Taipei		locality	3
 11442	102026641	Taipei		locality	1
 11443	102026641	Taipei		locality	1
 11444	102026641	Taipei		locality	2
-11446	102026641	Taipei		locality	2
+11446	102026641	Taipei		locality	3
 11455	102026641	Taipei		locality	2
 11463	102026641	Taipei		locality	52
-11466	102026641	Taipei		locality	2
+11464	102026641	Taipei		locality	1
+11466	102026641	Taipei		locality	3
+11468	102026641	Taipei		locality	1
+11469	102026641	Taipei		locality	1
 11475	102026641	Taipei		locality	1
 11476	102026641	Taipei		locality	4
 11477	102026641	Taipei		locality	3
+11480	102026641	Taipei		locality	1
 11484	102026641	Taipei		locality	1
 11485	102026641	Taipei		locality	1
 11486	102026641	Taipei		locality	6
 11489	102026641	Taipei		locality	1
 11490	102026641	Taipei		locality	1
-11491	102026641	Taipei		locality	1
+11491	102026641	Taipei		locality	3
 11492	102026641	Taipei		locality	7
 11493	102026641	Taipei		locality	5
 11494	102026641	Taipei		locality	14
 11503	102026641	Taipei		locality	1
-11529	102026641	Taipei		locality	1
-11551	102026641	Taipei		locality	1
+11529	102026641	Taipei		locality	2
+11551	102026641	Taipei		locality	2
 11558	102026641	Taipei		locality	8
-11561	102026641	Taipei		locality	8
+11561	102026641	Taipei		locality	4
 11562	102026641	Taipei		locality	1
 11564	102026641	Taipei		locality	1
 11567	102026641	Taipei		locality	2
@@ -512,95 +587,114 @@ No. 1	102026643	Tainan City		locality	1
 11574	102026641	Taipei		locality	2
 11575	102026641	Taipei		locality	2
 11581	102026641	Taipei		locality	1
-11605	1125867167	Taipei		locality	3
+11605	1125867167	Taipei		locality	4
 11643	1125867167	Taipei		locality	28
 11644	1125867167	Taipei		locality	1
-11645	1125867167	Taipei		locality	2
-11648	1125867167	Taipei		locality	1
-11653	1125867167	Taipei		locality	1
-11656	1125867167	Taipei		locality	7
+11645	1125867167	Taipei		locality	3
+11646	1125867167	Taipei		locality	1
+11648	1125867167	Taipei		locality	4
+11649	1125867167	Taipei		locality	1
+11650	1125867167	Taipei		locality	2
+11652	1125867167	Taipei		locality	3
+11653	1125867167	Taipei		locality	4
+11656	1125867167	Taipei		locality	13
 11658	1125867167	Taipei		locality	1
-11660	1125867167	Taipei		locality	1
-11662	1125867167	Taipei		locality	1
-11666	1125867167	Taipei		locality	3
-11669	1125867167	Taipei		locality	4
-11670	1125867167	Taipei		locality	53
-11671	1125867167	Taipei		locality	19
-11673	1125867167	Taipei		locality	9
-11674	1125867167	Taipei		locality	71
+11660	1125867167	Taipei		locality	2
+11662	1125867167	Taipei		locality	2
+11665	1125867167	Taipei		locality	1
+11666	1125867167	Taipei		locality	2
+11669	1125867167	Taipei		locality	9
+11670	1125867167	Taipei		locality	52
+11671	1125867167	Taipei		locality	20
+11673	1125867167	Taipei		locality	12
+11674	1125867167	Taipei		locality	76
 11675	1125867167	Taipei		locality	6
-11676	1125867167	Taipei		locality	3
-11677	1125867167	Taipei		locality	2
-11678	1125867167	Taipei		locality	4
-11681	1125867167	Taipei		locality	12
-11684	1125867167	Taipei		locality	7
+11676	1125867167	Taipei		locality	5
+11677	1125867167	Taipei		locality	3
+11678	1125867167	Taipei		locality	6
+11681	1125867167	Taipei		locality	15
+11684	1125867167	Taipei		locality	8
 11686	1125867167	Taipei		locality	1
-11687	1125867167	Taipei		locality	5
+11687	1125867167	Taipei		locality	6
 11688	1125867167	Taipei		locality	1
 11689	1125867167	Taipei		locality	1
-11694	1125867167	Taipei		locality	1
-11696	1125867167	Taipei		locality	3
-11698	1125867167	Taipei		locality	2
+11691	1125867167	Taipei		locality	1
+11692	1125867167	Taipei		locality	2
+11693	1125867167	Taipei		locality	2
+11694	1125867167	Taipei		locality	4
+11695	1125867167	Taipei		locality	1
+11696	1125867167	Taipei		locality	11
+11698	1125867167	Taipei		locality	3
 13044	1125867167	Taipei		locality	1
-20018	890470811	基隆市		locality	1
-20040	890470811	基隆市		locality	1
-20041	890470811	基隆市		locality	8
-20042	890470811	基隆市		locality	8
-20043	890470811	基隆市		locality	2
-20044	890470811	基隆市		locality	4
-20045	890470811	基隆市		locality	6
-20047	890470811	基隆市		locality	3
-20048	890470811	基隆市		locality	4
-20050	890470811	基隆市		locality	1
-20101	890470811	基隆市		locality	1
-20103	890470811	基隆市		locality	1
-20141	890470811	基隆市		locality	2
-20145	890470811	基隆市		locality	3
-20146	890470811	基隆市		locality	3
-20147	890470811	基隆市		locality	6
-20148	890470811	基隆市		locality	1
-20150	890470811	基隆市		locality	1
-20151	890470811	基隆市		locality	1
-20202	890470811	基隆市		locality	1
-20241	890470811	基隆市		locality	10
-20242	890470811	基隆市		locality	1
-20243	890470811	基隆市		locality	1
-20246	890470811	基隆市		locality	2
-20248	890470811	基隆市		locality	20
-20249	890470811	基隆市		locality	4
-20250	890470811	基隆市		locality	2
-20251	890470811	基隆市		locality	2
-20341	890470811	基隆市		locality	1
-20342	890470811	基隆市		locality	2
-20343	890470811	基隆市		locality	1
-20345	102026749	Keelung City		locality	5
+20018	102026749	Keelung City		locality	1
+20040	102026749	Keelung City		locality	1
+20041	102026749	Keelung City		locality	9
+20042	102026749	Keelung City		locality	8
+20043	102026749	Keelung City		locality	2
+20044	102026749	Keelung City		locality	4
+20045	102026749	Keelung City		locality	6
+20047	102026749	Keelung City		locality	2
+20048	102026749	Keelung City		locality	5
+20050	102026749	Keelung City		locality	1
+20101	102026749	Keelung City		locality	1
+20103	102026749	Keelung City		locality	1
+20141	102026749	Keelung City		locality	2
+20142	102026749	Keelung City		locality	1
+20143	102026749	Keelung City		locality	1
+20144	102026749	Keelung City		locality	1
+20145	102026749	Keelung City		locality	2
+20146	102026749	Keelung City		locality	5
+20147	102026749	Keelung City		locality	6
+20148	102026749	Keelung City		locality	1
+20150	102026749	Keelung City		locality	1
+20151	102026749	Keelung City		locality	1
+20202	102026749	Keelung City		locality	1
+20224	102026749	Keelung City		locality	2
+20241	102026749	Keelung City		locality	10
+20242	102026749	Keelung City		locality	2
+20243	102026749	Keelung City		locality	1
+20246	102026749	Keelung City		locality	1
+20247	102026749	Keelung City		locality	1
+20248	102026749	Keelung City		locality	20
+20249	102026749	Keelung City		locality	4
+20250	102026749	Keelung City		locality	2
+20251	102026749	Keelung City		locality	2
+20301	102026749	Keelung City		locality	1
+20341	102026749	Keelung City		locality	1
+20342	102026749	Keelung City		locality	2
+20343	102026749	Keelung City		locality	1
+20345	102026749	Keelung City		locality	6
 20346	102026749	Keelung City		locality	2
 20347	102026749	Keelung City		locality	1
-20348	102026749	Keelung City		locality	10
+20348	102026749	Keelung City		locality	8
 20349	102026749	Keelung City		locality	3
-20441	890470811	基隆市		locality	1
-20443	890470811	基隆市		locality	2
+20401	102026749	Keelung City		locality	1
+20441	102026749	Keelung City		locality	1
+20443	102026749	Keelung City		locality	2
 20446	102026749	Keelung City		locality	1
-20448	890470811	基隆市		locality	1
-20541	890470811	基隆市		locality	2
-20543	890470811	基隆市		locality	3
-20544	890470811	基隆市		locality	1
-20547	890470811	基隆市		locality	1
-20644	890470811	基隆市		locality	1
-20646	890470811	基隆市		locality	1
-20650	890470811	基隆市		locality	1
-20653	890470811	基隆市		locality	1
-20845	102026749	Keelung City		locality	1
-22147	102026731	Xizhi District		locality	1
+20448	102026749	Keelung City		locality	1
+20541	102026749	Keelung City		locality	2
+20542	102026749	Keelung City		locality	1
+20543	102026749	Keelung City		locality	3
+20544	102026749	Keelung City		locality	2
+20545	102026749	Keelung City		locality	1
+20547	102026749	Keelung City		locality	1
+20644	102026749	Keelung City		locality	1
+20646	102026749	Keelung City		locality	2
+20650	102026749	Keelung City		locality	1
+20653	102026749	Keelung City		locality	1
+24944	1242978297	Bali		locality	1
 26058	102026707	Ilan City		locality	1
-26541	890470937	羅東鎮		locality	5
-26542	890470937	羅東鎮		locality	2
-26548	890470937	羅東鎮		locality	2
-26550	890470937	羅東鎮		locality	1
-30010	102026725	Hsinchu City		locality	2
+26541	1193016899	Luodong		locality	3
+26542	1193016899	Luodong		locality	2
+26548	1193016899	Luodong		locality	2
+26550	1193016899	Luodong		locality	1
+30010	102026725	Hsinchu City		locality	4
 30012	102026725	Hsinchu City		locality	2
+30013	102026725	Hsinchu City		locality	1
+30041	102026725	Hsinchu City		locality	1
 30042	102026725	Hsinchu City		locality	1
-30046	102026725	Hsinchu City		locality	1
+30046	102026725	Hsinchu City		locality	2
 30048	102026725	Hsinchu City		locality	1
 30052	102026725	Hsinchu City		locality	4
 30053	102026725	Hsinchu City		locality	3
@@ -609,153 +703,35 @@ No. 1	102026643	Tainan City		locality	1
 30060	102026725	Hsinchu City		locality	2
 30062	102026725	Hsinchu City		locality	1
 30070	102026725	Hsinchu City		locality	2
-30072	102026725	Hsinchu City		locality	4
+30072	102026725	Hsinchu City		locality	6
 30076	102026725	Hsinchu City		locality	1
 30077	102026725	Hsinchu City		locality	1
-30078	102026725	Hsinchu City		locality	1
+30078	102026725	Hsinchu City		locality	3
 30082	102026725	Hsinchu City		locality	1
 30091	102026725	Hsinchu City		locality	1
-30095	102026725	Hsinchu City		locality	1
-30264	102026743	Zhubei		locality	3
-31061	890468279	竹東鎮		locality	1
-32003	102026631	Taoyuan District		locality	5
-32003	890469231	桃園市		locality	2
-32023	102026747	Zhongli District		locality	1
-32024	890469231	桃園市		locality	1
-32041	890469231	桃園市		locality	7
-32042	890469231	桃園市		locality	1
-32043	890469231	桃園市		locality	2
-32046	890469231	桃園市		locality	4
-32054	890469231	桃園市		locality	1
-32055	890469231	桃園市		locality	1
-32058	890469231	桃園市		locality	3
-32063	890469231	桃園市		locality	1
-32067	890469231	桃園市		locality	1
-32068	890469231	桃園市		locality	3
-32072	890469231	桃園市		locality	1
-32073	890469231	桃園市		locality	1
-32078	890469231	桃園市		locality	1
-32082	890469231	桃園市		locality	1
-32083	890469231	桃園市		locality	9
-32085	890469231	桃園市		locality	14
-32086	890469231	桃園市		locality	2
-32088	890469231	桃園市		locality	2
-32441	890469231	桃園市		locality	2
-32443	890469231	桃園市		locality	1
-32446	890469231	桃園市		locality	1
-32447	890469231	桃園市		locality	1
-32448	890469231	桃園市		locality	2
-32449	890469231	桃園市		locality	1
-32450	890469231	桃園市		locality	1
-32465	890469231	桃園市		locality	2
-32467	890469231	桃園市		locality	1
-32543	890469231	桃園市		locality	1
-32550	890469231	桃園市		locality	1
-32552	890469231	桃園市		locality	1
-32557	890469231	桃園市		locality	1
-32559	890469231	桃園市		locality	1
-32560	890469231	桃園市		locality	2
-32647	890469231	桃園市		locality	1
-32649	890469231	桃園市		locality	3
-32651	890469231	桃園市		locality	1
-32654	890469231	桃園市		locality	1
-32655	890469231	桃園市		locality	1
-32658	890469231	桃園市		locality	1
-32661	890469231	桃園市		locality	1
-32666	890469231	桃園市		locality	1
-32744	890469231	桃園市		locality	1
-32745	890469231	桃園市		locality	1
-32844	890469231	桃園市		locality	1
-32847	890469231	桃園市		locality	3
-32849	890469231	桃園市		locality	1
-33004	890469231	桃園市		locality	1
-33041	890469231	桃園市		locality	3
-33042	890469231	桃園市		locality	2
-33043	890469231	桃園市		locality	1
-33044	890469231	桃園市		locality	6
-33045	890469231	桃園市		locality	3
-33046	890469231	桃園市		locality	1
-33047	890469231	桃園市		locality	3
-33048	890469231	桃園市		locality	3
-33049	890469231	桃園市		locality	6
-33050	890469231	桃園市		locality	15
-33051	890469231	桃園市		locality	1
-33052	890469231	桃園市		locality	3
-33053	890469231	桃園市		locality	2
-33055	890469231	桃園市		locality	3
-33056	890469231	桃園市		locality	1
-33058	890469231	桃園市		locality	1
-33065	890469231	桃園市		locality	6
-33066	890469231	桃園市		locality	6
-33068	890469231	桃園市		locality	1
-33069	890469231	桃園市		locality	2
-33070	890469231	桃園市		locality	1
-33071	890469231	桃園市		locality	1
-33076	890469231	桃園市		locality	1
-33301	890469231	桃園市		locality	1
-33306	890469231	桃園市		locality	1
-33343	890469231	桃園市		locality	2
-33347	890469231	桃園市		locality	2
-33348	890469231	桃園市		locality	2
-33350	890469231	桃園市		locality	2
-33351	890469231	桃園市		locality	9
-33352	890469231	桃園市		locality	1
-33354	890469231	桃園市		locality	1
-33373	890469231	桃園市		locality	1
-33379	890469231	桃園市		locality	1
-33380	890469231	桃園市		locality	2
-33383	890469231	桃園市		locality	3
-33442	890469231	桃園市		locality	6
-33446	890469231	桃園市		locality	1
-33447	890469231	桃園市		locality	1
-33450	890469231	桃園市		locality	1
-33451	890469231	桃園市		locality	2
-33453	890469231	桃園市		locality	1
-33455	890469231	桃園市		locality	1
-33458	890469231	桃園市		locality	1
-33462	890469231	桃園市		locality	1
-33463	890469231	桃園市		locality	1
-33464	102026631	Taoyuan District		locality	1
-33543	890469231	桃園市		locality	4
-33545	890469231	桃園市		locality	1
-33550	890469231	桃園市		locality	1
-33554	890469231	桃園市		locality	1
-33556	890469231	桃園市		locality	4
-33644	890469231	桃園市		locality	2
-33742	890469231	桃園市		locality	1
-33743	890469231	桃園市		locality	3
-33744	890469231	桃園市		locality	3
-33746	890469231	桃園市		locality	1
-33748	890469231	桃園市		locality	2
-33749	890469231	桃園市		locality	2
-33752	890469231	桃園市		locality	1
-33755	890469231	桃園市		locality	1
-33756	890469231	桃園市		locality	1
-33758	890469231	桃園市		locality	7
-33801	890469231	桃園市		locality	5
-33843	890469231	桃園市		locality	1
-33845	890469231	桃園市		locality	4
-33847	890469231	桃園市		locality	1
-33848	890469231	桃園市		locality	1
-33850	890469231	桃園市		locality	1
-33857	890469231	桃園市		locality	1
-33859	890469231	桃園市		locality	1
-33860	890469231	桃園市		locality	2
-33861	890469231	桃園市		locality	1
-33862	890469231	桃園市		locality	2
-35056	890470685	竹南鎮		locality	1
-35741	890471449	通霄鎮		locality	2
-35860	890470813	苑裡鎮		locality	1
+30095	102026725	Hsinchu City		locality	2
+30442	1243068791	Xinfeng		locality	2
+30443	1243068791	Xinfeng		locality	1
+30444	1243068791	Xinfeng		locality	1
+30447	1243068791	Xinfeng		locality	1
+31061	1310411927	Zhudong		locality	1
+31441	1259985927	Beibu		locality	8
+31442	1259985927	Beibu		locality	1
+33464	890469231	Taoyuan		locality	1
+35056	1209420879	Zhunan		locality	1
+35341	1310205311	Nanzhuang		locality	2
+35343	1310205311	Nanzhuang		locality	2
 36003	102026689	Miaoli		locality	1
-36046	890469301	苗栗市		locality	4
+36046	102026689	Miaoli		locality	3
 36047	102026689	Miaoli		locality	1
-36056	890469301	苗栗市		locality	1
+36056	102026689	Miaoli		locality	1
 36057	102026689	Miaoli		locality	3
+36441	1242678337	Dahu		locality	8
 40001	102026649	Taichung		locality	2
 40041	102026649	Taichung		locality	12
-40042	102026649	Taichung		locality	12
+40042	102026649	Taichung		locality	13
 40043	102026649	Taichung		locality	10
-40044	102026649	Taichung		locality	12
+40044	102026649	Taichung		locality	11
 40045	102026649	Taichung		locality	18
 40046	102026649	Taichung		locality	22
 40141	102026649	Taichung		locality	2
@@ -767,7 +743,7 @@ No. 1	102026643	Tainan City		locality	1
 40147	102026649	Taichung		locality	4
 40149	102026649	Taichung		locality	6
 40150	102026649	Taichung		locality	7
-40151	102026649	Taichung		locality	2
+40151	102026649	Taichung		locality	3
 40152	102026649	Taichung		locality	4
 40153	102026649	Taichung		locality	11
 40154	102026649	Taichung		locality	7
@@ -776,21 +752,21 @@ No. 1	102026643	Tainan City		locality	1
 40242	102026649	Taichung		locality	4
 40243	102026649	Taichung		locality	1
 40244	102026649	Taichung		locality	1
-40245	102026649	Taichung		locality	3
+40245	102026649	Taichung		locality	4
 40246	102026649	Taichung		locality	7
 40247	102026649	Taichung		locality	4
 40248	102026649	Taichung		locality	3
 40249	102026649	Taichung		locality	4
 40250	102026649	Taichung		locality	7
-40252	102026649	Taichung		locality	4
+40252	102026649	Taichung		locality	5
 40253	102026649	Taichung		locality	1
 40254	102026649	Taichung		locality	7
 40255	102026649	Taichung		locality	1
-40256	102026649	Taichung		locality	12
+40256	102026649	Taichung		locality	13
 40306	102026649	Taichung		locality	1
 40341	102026649	Taichung		locality	13
-40342	102026649	Taichung		locality	13
-40343	102026649	Taichung		locality	9
+40342	102026649	Taichung		locality	15
+40343	102026649	Taichung		locality	10
 40344	102026649	Taichung		locality	5
 40345	102026649	Taichung		locality	9
 40346	102026649	Taichung		locality	2
@@ -800,57 +776,58 @@ No. 1	102026643	Tainan City		locality	1
 40350	102026649	Taichung		locality	4
 40351	102026649	Taichung		locality	6
 40352	102026649	Taichung		locality	9
-40352	890468197	台中市		locality	6
-40353	102026649	Taichung		locality	12
+40353	102026649	Taichung		locality	14
 40354	102026649	Taichung		locality	7
 40355	102026649	Taichung		locality	7
 40356	102026649	Taichung		locality	18
 40357	102026649	Taichung		locality	3
-40358	102026649	Taichung		locality	1
-40359	102026649	Taichung		locality	6
-40360	102026649	Taichung		locality	27
-40360	890468197	台中市		locality	2
+40358	102026649	Taichung		locality	3
+40359	102026649	Taichung		locality	7
+40360	102026649	Taichung		locality	22
 40361	102026649	Taichung		locality	11
+40401	102026649	Taichung		locality	1
+40402	102026649	Taichung		locality	1
 40403	102026649	Taichung		locality	1
+40404	102026649	Taichung		locality	1
 40441	102026649	Taichung		locality	3
-40442	102026649	Taichung		locality	1
+40442	102026649	Taichung		locality	2
 40443	102026649	Taichung		locality	6
 40444	102026649	Taichung		locality	10
 40445	102026649	Taichung		locality	4
-40446	102026649	Taichung		locality	8
-40447	102026649	Taichung		locality	2
+40446	102026649	Taichung		locality	11
+40447	102026649	Taichung		locality	3
 40448	102026649	Taichung		locality	11
 40449	102026649	Taichung		locality	9
 40450	102026649	Taichung		locality	1
 40451	102026649	Taichung		locality	3
-40452	102026649	Taichung		locality	8
-40453	102026649	Taichung		locality	10
-40454	102026649	Taichung		locality	5
-40455	102026649	Taichung		locality	8
+40452	102026649	Taichung		locality	7
+40453	102026649	Taichung		locality	11
+40454	102026649	Taichung		locality	6
+40455	102026649	Taichung		locality	12
 40456	102026649	Taichung		locality	4
 40457	102026649	Taichung		locality	3
 40458	102026649	Taichung		locality	13
 40459	102026649	Taichung		locality	3
 40460	102026649	Taichung		locality	5
-40461	102026649	Taichung		locality	9
+40461	102026649	Taichung		locality	8
 40462	102026649	Taichung		locality	7
 40463	102026649	Taichung		locality	6
 40464	102026649	Taichung		locality	4
 40465	102026649	Taichung		locality	9
-40466	102026649	Taichung		locality	5
+40466	102026649	Taichung		locality	6
 40601	102026649	Taichung		locality	1
 40641	102026649	Taichung		locality	11
-40642	102026649	Taichung		locality	7
+40642	102026649	Taichung		locality	9
 40643	102026649	Taichung		locality	3
 40644	102026649	Taichung		locality	1
-40645	102026649	Taichung		locality	7
+40645	102026649	Taichung		locality	8
 40646	102026649	Taichung		locality	3
 40647	102026649	Taichung		locality	3
 40648	102026649	Taichung		locality	1
 40649	102026649	Taichung		locality	3
 40650	102026649	Taichung		locality	3
 40651	102026649	Taichung		locality	13
-40652	102026649	Taichung		locality	7
+40652	102026649	Taichung		locality	6
 40653	102026649	Taichung		locality	13
 40654	102026649	Taichung		locality	14
 40661	102026649	Taichung		locality	10
@@ -860,51 +837,51 @@ No. 1	102026643	Tainan City		locality	1
 40667	102026649	Taichung		locality	3
 40668	102026649	Taichung		locality	3
 40669	102026649	Taichung		locality	1
-40670	102026649	Taichung		locality	2
+40670	102026649	Taichung		locality	3
 40671	102026649	Taichung		locality	1
-40673	102026649	Taichung		locality	11
-40674	102026649	Taichung		locality	5
+40673	102026649	Taichung		locality	12
+40674	102026649	Taichung		locality	4
 40675	102026649	Taichung		locality	3
 40676	102026649	Taichung		locality	16
-40677	102026649	Taichung		locality	5
+40677	102026649	Taichung		locality	6
 40678	102026649	Taichung		locality	3
 40679	102026649	Taichung		locality	8
 40680	102026649	Taichung		locality	3
 40681	102026649	Taichung		locality	2
 40682	102026649	Taichung		locality	3
 40701	102026649	Taichung		locality	3
-40704	102026649	Taichung		locality	19
-40705	102026649	Taichung		locality	9
+40704	102026649	Taichung		locality	23
+40705	102026649	Taichung		locality	10
 40708	102026649	Taichung		locality	1
 40709	102026649	Taichung		locality	1
 40721	102026649	Taichung		locality	2
-40724	102026649	Taichung		locality	5
+40724	102026649	Taichung		locality	4
 40741	102026649	Taichung		locality	36
-40742	102026649	Taichung		locality	61
-40743	102026649	Taichung		locality	30
+40742	102026649	Taichung		locality	57
+40743	102026649	Taichung		locality	29
 40744	102026649	Taichung		locality	96
 40745	102026649	Taichung		locality	38
-40746	102026649	Taichung		locality	40
-40747	102026649	Taichung		locality	24
-40748	102026649	Taichung		locality	18
-40749	102026649	Taichung		locality	31
-40750	102026649	Taichung		locality	17
+40746	102026649	Taichung		locality	42
+40747	102026649	Taichung		locality	27
+40748	102026649	Taichung		locality	20
+40748	102026719	Xitun District		locality	1
+40749	102026649	Taichung		locality	32
+40750	102026649	Taichung		locality	19
 40751	102026649	Taichung		locality	8
 40752	102026649	Taichung		locality	2
 40753	102026649	Taichung		locality	24
 40754	102026649	Taichung		locality	8
-40755	102026649	Taichung		locality	26
+40755	102026649	Taichung		locality	28
 40756	102026649	Taichung		locality	49
-40757	102026649	Taichung		locality	62
+40757	102026649	Taichung		locality	61
 40758	102026649	Taichung		locality	31
 40759	102026649	Taichung		locality	12
 40760	102026649	Taichung		locality	72
-40761	102026649	Taichung		locality	8
-40762	102026649	Taichung		locality	23
-40763	102026649	Taichung		locality	37
-40764	102026649	Taichung		locality	57
+40761	102026649	Taichung		locality	9
+40762	102026649	Taichung		locality	25
+40763	102026649	Taichung		locality	38
+40764	102026649	Taichung		locality	59
 40765	102026649	Taichung		locality	33
-40765	890468197	台中市		locality	1
 40766	102026649	Taichung		locality	11
 40767	102026649	Taichung		locality	19
 40768	102026649	Taichung		locality	5
@@ -912,28 +889,27 @@ No. 1	102026643	Tainan City		locality	1
 40842	102026649	Taichung		locality	1
 40843	102026649	Taichung		locality	1
 40844	102026649	Taichung		locality	3
-40848	102026649	Taichung		locality	19
+40848	102026649	Taichung		locality	23
 40849	102026649	Taichung		locality	5
 40850	102026649	Taichung		locality	3
 40851	102026649	Taichung		locality	4
-40852	102026649	Taichung		locality	9
-40854	102026649	Taichung		locality	5
+40852	102026649	Taichung		locality	10
+40854	102026649	Taichung		locality	6
 40855	102026649	Taichung		locality	12
 40857	102026649	Taichung		locality	2
 40858	102026649	Taichung		locality	5
-40859	102026649	Taichung		locality	23
+40859	102026649	Taichung		locality	26
 40861	102026649	Taichung		locality	29
 40862	102026649	Taichung		locality	1
 40863	102026649	Taichung		locality	2
 40864	102026649	Taichung		locality	6
 40866	102026649	Taichung		locality	6
-40866	890468197	台中市		locality	1
-40867	102026649	Taichung		locality	6
+40867	102026649	Taichung		locality	8
 40869	102026649	Taichung		locality	10
 40871	102026649	Taichung		locality	1
-40873	102026649	Taichung		locality	14
+40873	102026649	Taichung		locality	16
 40874	102026649	Taichung		locality	8
-40876	102026649	Taichung		locality	3
+40876	102026649	Taichung		locality	4
 40877	102026649	Taichung		locality	2
 40878	102026649	Taichung		locality	5
 41141	102026649	Taichung		locality	1
@@ -943,10 +919,10 @@ No. 1	102026643	Tainan City		locality	1
 41147	102026649	Taichung		locality	1
 41148	102026649	Taichung		locality	3
 41150	102026649	Taichung		locality	8
-41151	102026649	Taichung		locality	11
-41152	102026649	Taichung		locality	11
+41151	102026649	Taichung		locality	12
+41152	102026649	Taichung		locality	12
 41153	102026649	Taichung		locality	8
-41155	102026649	Taichung		locality	26
+41155	102026649	Taichung		locality	27
 41156	102026649	Taichung		locality	18
 41157	102026649	Taichung		locality	15
 41159	102026649	Taichung		locality	1
@@ -956,8 +932,8 @@ No. 1	102026643	Tainan City		locality	1
 41164	102026649	Taichung		locality	2
 41165	102026649	Taichung		locality	2
 41167	102026649	Taichung		locality	5
-41168	102026649	Taichung		locality	5
-41169	102026649	Taichung		locality	45
+41168	102026649	Taichung		locality	4
+41169	102026649	Taichung		locality	43
 41170	102026649	Taichung		locality	15
 41171	102026649	Taichung		locality	16
 41172	102026649	Taichung		locality	5
@@ -965,6 +941,8 @@ No. 1	102026643	Tainan City		locality	1
 41180	102026649	Taichung		locality	2
 41199	102026649	Taichung		locality	1
 41245	102026649	Taichung		locality	1
+41247	102026649	Taichung		locality	1
+41248	102026649	Taichung		locality	1
 41254	102026649	Taichung		locality	1
 41256	102026649	Taichung		locality	3
 41258	102026649	Taichung		locality	1
@@ -972,27 +950,31 @@ No. 1	102026643	Tainan City		locality	1
 41261	102026649	Taichung		locality	2
 41263	102026649	Taichung		locality	2
 41264	102026649	Taichung		locality	1
-41266	102026649	Taichung		locality	20
-41267	102026649	Taichung		locality	1
-41270	102026649	Taichung		locality	7
+41266	102026649	Taichung		locality	21
+41267	102026649	Taichung		locality	2
+41270	102026649	Taichung		locality	8
 41271	102026649	Taichung		locality	1
 41279	102026649	Taichung		locality	2
-41280	102026649	Taichung		locality	17
+41280	102026649	Taichung		locality	16
 41283	102026649	Taichung		locality	6
-41284	102026649	Taichung		locality	1
+41284	102026649	Taichung		locality	4
 41341	102026649	Taichung		locality	4
 41343	102026611	Wufeng District		locality	1
 41344	102026611	Wufeng District		locality	2
-41349	102026649	Taichung		locality	7
+41349	102026649	Taichung		locality	9
+41354	102026649	Taichung		locality	2
+41359	102026649	Taichung		locality	1
 41363	102026649	Taichung		locality	4
 41364	102026649	Taichung		locality	1
+41401	102026649	Taichung		locality	1
 41441	102026649	Taichung		locality	1
 41442	102026649	Taichung		locality	1
 41443	102026649	Taichung		locality	1
 41445	102026649	Taichung		locality	1
+41450	102026649	Taichung		locality	1
 41451	102026649	Taichung		locality	1
 41452	102026649	Taichung		locality	1
-41453	102026649	Taichung		locality	3
+41453	102026649	Taichung		locality	4
 41454	102026649	Taichung		locality	1
 41456	102026649	Taichung		locality	2
 41457	102026649	Taichung		locality	1
@@ -1005,8 +987,9 @@ No. 1	102026643	Tainan City		locality	1
 42003	102026649	Taichung		locality	1
 42007	102026649	Taichung		locality	1
 42041	102026649	Taichung		locality	1
-42043	890468197	台中市		locality	1
+42043	102026649	Taichung		locality	1
 42044	102026649	Taichung		locality	1
+42045	102026649	Taichung		locality	1
 42047	102026649	Taichung		locality	2
 42048	102026649	Taichung		locality	4
 42051	102026649	Taichung		locality	1
@@ -1014,52 +997,51 @@ No. 1	102026643	Tainan City		locality	1
 42054	102026649	Taichung		locality	1
 42055	102026649	Taichung		locality	1
 42056	102026649	Taichung		locality	2
-42056	890468197	台中市		locality	1
 42057	102026649	Taichung		locality	1
-42058	890468197	台中市		locality	1
+42058	102026649	Taichung		locality	1
 42059	102026649	Taichung		locality	1
-42060	890468197	台中市		locality	1
 42060	102026649	Taichung		locality	1
 42074	102026649	Taichung		locality	1
 42075	102026649	Taichung		locality	1
-42079	890468197	台中市		locality	1
+42079	102026649	Taichung		locality	1
 42080	102026649	Taichung		locality	1
 42081	102026649	Taichung		locality	3
-42082	890468197	台中市		locality	1
 42082	102026649	Taichung		locality	1
-42083	890468197	台中市		locality	1
+42083	102026649	Taichung		locality	1
 42084	102026649	Taichung		locality	1
 42085	102026649	Taichung		locality	1
 42086	102026649	Taichung		locality	1
 42087	102026649	Taichung		locality	1
-42141	890468197	台中市		locality	1
-42142	890468197	台中市		locality	1
+42141	102026649	Taichung		locality	4
+42142	102026649	Taichung		locality	1
 42144	102026649	Taichung		locality	2
-42146	890468197	台中市		locality	1
+42146	102026649	Taichung		locality	1
 42147	102026649	Taichung		locality	1
 42149	102026649	Taichung		locality	1
 42152	102026649	Taichung		locality	2
 42156	102026649	Taichung		locality	7
-42265	102026649	Taichung		locality	2
+42265	102026649	Taichung		locality	1
 42275	102026649	Taichung		locality	1
-42341	102026649	Taichung		locality	1
-42343	102026649	Taichung		locality	4
+42341	102026649	Taichung		locality	3
+42343	102026649	Taichung		locality	5
 42347	102026649	Taichung		locality	1
-42351	102026649	Taichung		locality	12
+42351	102026649	Taichung		locality	13
 42353	102026649	Taichung		locality	1
+42354	102026649	Taichung		locality	3
 42413	102026649	Taichung		locality	1
-42444	102026649	Taichung		locality	3
+42444	102026649	Taichung		locality	4
 42450	102026649	Taichung		locality	1
 42641	102026649	Taichung		locality	2
 42644	102026649	Taichung		locality	1
 42645	102026649	Taichung		locality	3
 42646	102026649	Taichung		locality	3
-42702	102026649	Taichung		locality	1
+42702	102026649	Taichung		locality	2
 42743	102026649	Taichung		locality	11
 42750	102026649	Taichung		locality	3
 42751	102026649	Taichung		locality	1
 42752	102026649	Taichung		locality	2
-42754	890468197	台中市		locality	1
+42753	102026649	Taichung		locality	1
+42754	102026649	Taichung		locality	1
 42755	102026649	Taichung		locality	5
 42756	102026649	Taichung		locality	2
 42757	102026649	Taichung		locality	1
@@ -1068,16 +1050,15 @@ No. 1	102026643	Tainan City		locality	1
 42849	102026649	Taichung		locality	1
 42853	102026649	Taichung		locality	3
 42854	102026649	Taichung		locality	1
-42856	102026649	Taichung		locality	16
+42856	102026649	Taichung		locality	18
 42867	102026649	Taichung		locality	1
-42869	102026649	Taichung		locality	6
+42869	102026649	Taichung		locality	7
 42871	102026649	Taichung		locality	1
 42872	102026649	Taichung		locality	1
 42875	102026649	Taichung		locality	1
-42878	102026649	Taichung		locality	8
+42878	102026649	Taichung		locality	9
 42880	102026649	Taichung		locality	4
-42941	890468197	台中市		locality	1
-42943	890468197	台中市		locality	1
+42941	102026649	Taichung		locality	1
 42943	102026649	Taichung		locality	1
 42945	102026649	Taichung		locality	1
 42946	102026649	Taichung		locality	3
@@ -1093,10 +1074,10 @@ No. 1	102026643	Tainan City		locality	1
 43251	102026649	Taichung		locality	1
 43252	102026649	Taichung		locality	5
 43301	102026649	Taichung		locality	1
-43302	890468197	台中市		locality	1
-43303	102026649	Taichung		locality	1
+43302	102026649	Taichung		locality	1
+43303	102026649	Taichung		locality	2
 43306	102026649	Taichung		locality	1
-43341	102026649	Taichung		locality	10
+43341	102026649	Taichung		locality	9
 43342	102026649	Taichung		locality	10
 43343	102026649	Taichung		locality	3
 43344	102026649	Taichung		locality	4
@@ -1108,31 +1089,29 @@ No. 1	102026643	Tainan City		locality	1
 43350	102026649	Taichung		locality	11
 43351	102026649	Taichung		locality	3
 43352	102026649	Taichung		locality	4
-43353	102026649	Taichung		locality	5
+43353	102026649	Taichung		locality	7
 43354	102026649	Taichung		locality	6
-43391	102026649	Taichung		locality	1
+43391	102026649	Taichung		locality	2
 43401	102026649	Taichung		locality	1
 43444	102026649	Taichung		locality	2
 43447	102026649	Taichung		locality	2
 43448	102026649	Taichung		locality	1
-43449	102026649	Taichung		locality	2
-43450	102026649	Taichung		locality	3
+43449	102026649	Taichung		locality	4
+43450	102026649	Taichung		locality	4
 43452	102026649	Taichung		locality	11
 43491	102026649	Taichung		locality	2
 43501	102026649	Taichung		locality	2
 43541	102026649	Taichung		locality	6
 43542	102026649	Taichung		locality	1
 43545	102026649	Taichung		locality	3
-43545	890468197	台中市		locality	1
-43548	890468197	台中市		locality	2
+43548	102026649	Taichung		locality	2
 43550	102026649	Taichung		locality	20
 43641	102026649	Taichung		locality	1
 43642	102026649	Taichung		locality	7
-43643	102026649	Taichung		locality	6
+43643	102026649	Taichung		locality	7
 43644	102026649	Taichung		locality	1
 43645	102026649	Taichung		locality	3
 43646	102026649	Taichung		locality	2
-43646	890468197	台中市		locality	1
 43647	102026649	Taichung		locality	2
 43648	102026649	Taichung		locality	3
 43650	102026649	Taichung		locality	3
@@ -1143,9 +1122,9 @@ No. 1	102026643	Tainan City		locality	1
 43741	102026649	Taichung		locality	9
 43742	102026649	Taichung		locality	4
 43743	102026649	Taichung		locality	2
-43744	102026649	Taichung		locality	5
+43744	102026649	Taichung		locality	4
 43745	102026649	Taichung		locality	3
-43746	102026649	Taichung		locality	13
+43746	102026649	Taichung		locality	12
 43747	102026649	Taichung		locality	4
 43748	102026649	Taichung		locality	6
 43749	102026649	Taichung		locality	5
@@ -1156,8 +1135,7 @@ No. 1	102026643	Tainan City		locality	1
 43769	102026649	Taichung		locality	2
 43770	102026649	Taichung		locality	1
 43771	102026649	Taichung		locality	2
-43771	890468197	台中市		locality	1
-43774	890468197	台中市		locality	2
+43774	102026649	Taichung		locality	2
 43857	102026649	Taichung		locality	8
 43859	102026649	Taichung		locality	1
 43865	102026649	Taichung		locality	1
@@ -1165,91 +1143,108 @@ No. 1	102026643	Tainan City		locality	1
 43952	102026649	Taichung		locality	2
 43953	102026649	Taichung		locality	2
 43963	102026649	Taichung		locality	1
-54067	890469309	南投市		locality	1
-54558	890472007	埔里鎮		locality	1
-60002	102026757	Chiayi City		locality	2
-60041	102026757	Chiayi City		locality	2
+54067	102026683	Nantou City		locality	1
+54558	102026675	Puli		locality	3
+55345	1210016963	Shuili		locality	4
+60002	102026757	Chiayi City		locality	1
+60005	102026757	Chiayi City		locality	1
+60041	102026757	Chiayi City		locality	5
 60043	102026757	Chiayi City		locality	3
 60044	102026757	Chiayi City		locality	1
 60045	102026757	Chiayi City		locality	1
 60049	102026757	Chiayi City		locality	1
 60054	102026757	Chiayi City		locality	1
 60059	102026757	Chiayi City		locality	1
-60069	102026757	Chiayi City		locality	1
+60069	102026757	Chiayi City		locality	2
 60070	102026757	Chiayi City		locality	2
 60072	102026757	Chiayi City		locality	1
 60074	102026757	Chiayi City		locality	3
+60075	102026757	Chiayi City		locality	1
 60076	102026757	Chiayi City		locality	1
 60078	102026757	Chiayi City		locality	1
 60081	102026757	Chiayi City		locality	1
-60082	102026757	Chiayi City		locality	1
-62249	890469121	大林鎮		locality	3
+60082	102026757	Chiayi City		locality	3
+60088	102026757	Chiayi City		locality	1
+60090	102026757	Chiayi City		locality	1
+60341	1259880287	Meishan		locality	1
+60342	1259880287	Meishan		locality	1
+62153	102026687	Minxiong		locality	1
+62212	1360085891	Dalin		locality	2
 70011	102026643	Tainan City		locality	1
 70041	102026643	Tainan City		locality	1
-70043	890471629	台南市		locality	1
-70043	102026643	Tainan City		locality	1
+70043	102026643	Tainan City		locality	3
 70044	102026643	Tainan City		locality	1
 70047	102026643	Tainan City		locality	1
 70049	102026643	Tainan City		locality	1
 70050	102026643	Tainan City		locality	3
-70101	102026643	Tainan City		locality	22
+70101	102026643	Tainan City		locality	25
 70102	102026643	Tainan City		locality	1
-70131	890471629	台南市		locality	2
+70131	102026643	Tainan City		locality	2
 70141	102026643	Tainan City		locality	1
-70143	890471629	台南市		locality	6
-70143	102026643	Tainan City		locality	3
-70146	102026643	Tainan City		locality	5
-70146	890471629	台南市		locality	4
+70142	102026643	Tainan City		locality	1
+70143	102026643	Tainan City		locality	6
+70145	102026643	Tainan City		locality	1
+70146	102026643	Tainan City		locality	7
 70154	102026643	Tainan City		locality	24
-70157	102026643	Tainan City		locality	2
+70157	102026643	Tainan City		locality	3
 70158	102026643	Tainan City		locality	1
 70160	102026643	Tainan City		locality	1
-70161	890471629	台南市		locality	1
-70163	890471629	台南市		locality	1
+70161	102026643	Tainan City		locality	3
+70163	102026643	Tainan City		locality	1
 70165	102026643	Tainan City		locality	2
 70174	102026643	Tainan City		locality	1
-70175	102026643	Tainan City		locality	1
+70175	890471629	Tainan		locality	1
 70448	102026643	Tainan City		locality	1
-70449	102026643	Tainan City		locality	1
+70449	890471629	Tainan		locality	1
 70451	102026643	Tainan City		locality	1
 70457	102026643	Tainan City		locality	1
 70801	102026643	Tainan City		locality	1
+70841	102026643	Tainan City		locality	2
 70848	102026643	Tainan City		locality	2
-70963	890471629	台南市		locality	1
+70948	102026643	Tainan City		locality	1
 70963	102026643	Tainan City		locality	1
 70970	102026643	Tainan City		locality	1
-71002	102026643	Tainan City		locality	1
-71005	102026643	Tainan City		locality	22
-71071	890471629	台南市		locality	1
+71002	102026643	Tainan City		locality	2
+71005	102026643	Tainan City		locality	29
+71071	102026643	Tainan City		locality	1
+71072	102026643	Tainan City		locality	1
 71073	102026643	Tainan City		locality	1
 71075	102026643	Tainan City		locality	1
 71080	102026643	Tainan City		locality	1
 71082	102026643	Tainan City		locality	1
-71084	890471629	台南市		locality	1
-71088	890471629	台南市		locality	1
+71084	102026643	Tainan City		locality	1
 71088	102026643	Tainan City		locality	1
-71149	890471629	台南市		locality	1
-71742	102026643	Tainan City		locality	1
+71149	102026643	Tainan City		locality	1
+71247	102026643	Tainan City		locality	1
+71443	102026643	Tainan City		locality	1
+71542	102026643	Tainan City		locality	2
+71703	102026643	Tainan City		locality	1
+71710	102026643	Tainan City		locality	1
+71742	102026643	Tainan City		locality	2
 72041	102026643	Tainan City		locality	3
 72044	102026643	Tainan City		locality	1
 72045	102026643	Tainan City		locality	1
 72148	102026643	Tainan City		locality	1
 72345	102026643	Tainan City		locality	1
 72346	102026643	Tainan City		locality	1
+72447	102026643	Tainan City		locality	1
+72550	102026643	Tainan City		locality	1
 73010	102026643	Tainan City		locality	1
 73146	102026643	Tainan City		locality	1
 73211	102026643	Tainan City		locality	1
 73242	102026643	Tainan City		locality	4
 73256	102026643	Tainan City		locality	1
 73742	102026643	Tainan City		locality	1
-74147	102026643	Tainan City		locality	3
+74147	102026643	Tainan City		locality	5
 74252	102026643	Tainan City		locality	1
 74444	102026643	Tainan City		locality	1
 74447	102026643	Tainan City		locality	1
 74449	102026643	Tainan City		locality	4
+74450	102026643	Tainan City		locality	1
 74543	102026643	Tainan City		locality	1
-80027	102026701	Kaohsiung City		locality	1
+80027	102026701	Kaohsiung City		locality	2
 80049	102026701	Kaohsiung City		locality	5
+80054	102026701	Kaohsiung City		locality	2
 80078	102026701	Kaohsiung City		locality	1
 80147	102026701	Kaohsiung City		locality	1
 80148	102026701	Kaohsiung City		locality	2
@@ -1261,38 +1256,51 @@ No. 1	102026643	Tainan City		locality	1
 80272	102026701	Kaohsiung City		locality	1
 80274	102026701	Kaohsiung City		locality	1
 80343	102026701	Kaohsiung City		locality	2
-80453	102026701	Kaohsiung City		locality	1
+80444	102026701	Kaohsiung City		locality	3
+80446	102026701	Kaohsiung City		locality	3
+80453	102026701	Kaohsiung City		locality	2
 80454	102026701	Kaohsiung City		locality	6
-80457	102026701	Kaohsiung City		locality	2
+80457	102026701	Kaohsiung City		locality	5
 80460	102026701	Kaohsiung City		locality	1
 80462	102026701	Kaohsiung City		locality	1
+80467	102026701	Kaohsiung City		locality	1
 80469	102026701	Kaohsiung City		locality	3
 80470	102026701	Kaohsiung City		locality	1
+80472	102026701	Kaohsiung City		locality	2
 80541	102026701	Kaohsiung City		locality	1
 80544	102026701	Kaohsiung City		locality	1
+80641	102026701	Kaohsiung City		locality	1
+80647	102026701	Kaohsiung City		locality	1
+80652	102026701	Kaohsiung City		locality	1
 80658	102026701	Kaohsiung City		locality	1
 80660	102026701	Kaohsiung City		locality	1
 80661	102026701	Kaohsiung City		locality	1
+80665	102026701	Kaohsiung City		locality	2
 80673	102026701	Kaohsiung City		locality	1
+80742	102026701	Kaohsiung City		locality	1
 80748	102026701	Kaohsiung City		locality	2
 80749	102026701	Kaohsiung City		locality	1
 80750	102026701	Kaohsiung City		locality	2
+80752	102026701	Kaohsiung City		locality	1
 80754	102026701	Kaohsiung City		locality	1
 80757	102026701	Kaohsiung City		locality	1
 80765	102026701	Kaohsiung City		locality	1
 80768	102026701	Kaohsiung City		locality	1
 80774	102026701	Kaohsiung City		locality	1
-80778	102026701	Kaohsiung City		locality	4
+80777	102026701	Kaohsiung City		locality	1
+80778	102026701	Kaohsiung City		locality	5
 80789	102026701	Kaohsiung City		locality	1
-80794	102026701	Kaohsiung City		locality	32
+80793	102026701	Kaohsiung City		locality	1
+80794	102026701	Kaohsiung City		locality	51
 81045	102026701	Kaohsiung City		locality	1
-81148	102026701	Kaohsiung City		locality	1
+81148	102026701	Kaohsiung City		locality	2
 81149	102026701	Kaohsiung City		locality	4
 81149 高雄市楠梓區右昌街617號	102026701	Kaohsiung City		locality	1
 81152	102026701	Kaohsiung City		locality	1
-81153	102026701	Kaohsiung City		locality	9
+81153	102026701	Kaohsiung City		locality	8
 81154	102026701	Kaohsiung City		locality	4
 81156	102026701	Kaohsiung City		locality	1
+81157	102026701	Kaohsiung City		locality	1
 81160	102026701	Kaohsiung City		locality	3
 81161	102026701	Kaohsiung City		locality	2
 81162	102026701	Kaohsiung City		locality	4
@@ -1302,97 +1310,344 @@ No. 1	102026643	Tainan City		locality	1
 81242	102026701	Kaohsiung City		locality	2
 81246	102026701	Kaohsiung City		locality	1
 81248	102026701	Kaohsiung City		locality	1
-81252	102026701	Kaohsiung City		locality	3
+81252	102026701	Kaohsiung City		locality	5
 81267	102026701	Kaohsiung City		locality	1
 81268	102026701	Kaohsiung City		locality	2
 81273	102026701	Kaohsiung City		locality	1
 81325	102026701	Kaohsiung City		locality	1
-81343	102026701	Kaohsiung City		locality	1
+81343	102026701	Kaohsiung City		locality	2
 81347	102026701	Kaohsiung City		locality	3
 81355	102026701	Kaohsiung City		locality	15
-81357	102026701	Kaohsiung City		locality	7
-81358	102026701	Kaohsiung City		locality	7
-81359	102026701	Kaohsiung City		locality	3
+81357	102026701	Kaohsiung City		locality	5
+81358	102026701	Kaohsiung City		locality	8
+81359	102026701	Kaohsiung City		locality	4
 81360	102026701	Kaohsiung City		locality	2
-81361	102026701	Kaohsiung City		locality	2
-81362	102026701	Kaohsiung City		locality	8
+81361	102026701	Kaohsiung City		locality	3
+81362	102026701	Kaohsiung City		locality	9
 81363	102026701	Kaohsiung City		locality	6
-81366	102026701	Kaohsiung City		locality	1
+81364	102026701	Kaohsiung City		locality	1
+81366	102026701	Kaohsiung City		locality	2
 81367	102026701	Kaohsiung City		locality	2
-81368	102026701	Kaohsiung City		locality	1
+81368	102026701	Kaohsiung City		locality	3
 81369	102026701	Kaohsiung City		locality	1
 81454	102026701	Kaohsiung City		locality	1
-81455	102026701	Kaohsiung City		locality	7
-81456	102026701	Kaohsiung City		locality	1
+81455	102026701	Kaohsiung City		locality	5
+81456	102026701	Kaohsiung City		locality	20
 81461	102026701	Kaohsiung City		locality	1
-81463	102026701	Kaohsiung City		locality	10
-81464	102026701	Kaohsiung City		locality	2
+81463	102026701	Kaohsiung City		locality	5
+81464	102026701	Kaohsiung City		locality	1
 81544	102026701	Kaohsiung City		locality	1
 81546	102026701	Kaohsiung City		locality	1
-81547	102026701	Kaohsiung City		locality	8
+81547	102026701	Kaohsiung City		locality	9
+82050	102026701	Kaohsiung City		locality	1
 82051	102026701	Kaohsiung City		locality	2
 82063	102026701	Kaohsiung City		locality	1
 82152	102026701	Kaohsiung City		locality	1
 82241	102026701	Kaohsiung City		locality	1
 82307	102026701	Kaohsiung City		locality	1
-82541	102026701	Kaohsiung City		locality	3
-82543	102026701	Kaohsiung City		locality	2
-82546	102026701	Kaohsiung City		locality	2
-82548	102026701	Kaohsiung City		locality	4
+82444	102026701	Kaohsiung City		locality	2
+82445	102026701	Kaohsiung City		locality	1
+82541	102026701	Kaohsiung City		locality	4
+82546	102026701	Kaohsiung City		locality	1
+82548	102026701	Kaohsiung City		locality	3
 82549	102026701	Kaohsiung City		locality	2
-83002	102026701	Kaohsiung City		locality	1
+82945	102026701	Kaohsiung City		locality	1
+83051	102026701	Kaohsiung City		locality	1
 83054	102026701	Kaohsiung City		locality	1
-83067	102026701	Kaohsiung City		locality	1
+83058	102026701	Kaohsiung City		locality	1
+83067	102026701	Kaohsiung City		locality	2
 83069	102026701	Kaohsiung City		locality	1
 83079	102026701	Kaohsiung City		locality	1
 83080	102026701	Kaohsiung City		locality	1
 83101	102026701	Kaohsiung City		locality	1
+83347	102026701	Kaohsiung City		locality	1
 83349	102026701	Kaohsiung City		locality	1
 84049	102026701	Kaohsiung City		locality	1
 84241	102026701	Kaohsiung City		locality	1
-84243	102026701	Kaohsiung City		locality	1
+84243	102026701	Kaohsiung City		locality	2
 84244	102026701	Kaohsiung City		locality	1
 84247	102026701	Kaohsiung City		locality	1
 84256	102026701	Kaohsiung City		locality	1
 84445	102026701	Kaohsiung City		locality	1
-84941	102026701	Kaohsiung City		locality	1
+84649	102026701	Kaohsiung City		locality	1
+84941	102026701	Kaohsiung City		locality	2
+85241	102026701	Kaohsiung City		locality	1
 85243	102026701	Kaohsiung City		locality	1
 88241	1260285203	Wang'an		locality	1
-90086	890471999	屏東市		locality	1
-95001	102026785	Taitung City		locality	1
-95002	102026785	Taitung City		locality	2
-95043	102026785	Taitung City		locality	1
-95044	102026785	Taitung City		locality	1
-95047	102026785	Taitung City		locality	3
+90086	102026677	Pingtung City		locality	1
+90442	1326535901	Jiuru		locality	1
+90846	1343762679	Changzhi		locality	1
+95002	890468321	Taitung City		locality	1
 95047	890468321	Taitung City		locality	1
-95050	102026785	Taitung City		locality	1
-95051	102026785	Taitung City		locality	1
-95060	102026785	Taitung City		locality	2
-95062	102026785	Taitung City		locality	1
-95063	102026785	Taitung City		locality	1
-95642	890470695	關山鎮		locality	20
-95651	890470695	關山鎮		locality	2
-95653	890470695	關山鎮		locality	3
-95655	890470695	關山鎮		locality	1
-95657	890470695	關山鎮		locality	1
-95661	890470695	關山鎮		locality	1
-95662	890470695	關山鎮		locality	5
-95664	890470695	關山鎮		locality	1
-96141	890470133	成功鎮		locality	7
-96142	890470133	成功鎮		locality	3
-96143	890470133	成功鎮		locality	6
-96145	890470133	成功鎮		locality	7
-97002	102026715	Hualien City		locality	1
-97041	102026715	Hualien City		locality	1
+95060	102026785	Taitung City		locality	1
+95543	1344262867	Luye		locality	1
+95642	1293390975	Guanshan		locality	15
+95662	1293390975	Guanshan		locality	4
+95741	1343958283	Haiduan		locality	1
+96141	1276585635	Chenggong		locality	4
+97005	102026715	Hualien City		locality	1
 97049	102026715	Hualien City		locality	2
-97052	102026715	Hualien City		locality	1
-97054	102026715	Hualien City		locality	2
-97055	102026715	Hualien City		locality	10
-97057	890471541	花蓮市		locality	2
+97054	102026715	Hualien City		locality	1
+97055	102026715	Hualien City		locality	6
+97057	102026715	Hualien City		locality	1
+97062	102026715	Hualien City		locality	1
 97068	102026715	Hualien City		locality	1
 97071	102026715	Hualien City		locality	1
-97074	102026715	Hualien City		locality	1
+97342	1343662105	Chi-an		locality	2
+97343	1343662105	Chi-an		locality	2
+97344	1343662105	Chi-an		locality	1
+97345	1343662105	Chi-an		locality	1
+97347	1343662105	Chi-an		locality	1
+97349	1343662105	Chi-an		locality	1
+97362	1343662105	Chi-an		locality	1
+97365	1343662105	Chi-an		locality	2
 97365	102026715	Hualien City		locality	1
-97401	102026659	Shoufeng		locality	3
-97441	890469929	志學村		locality	2
+97401	102026659	Shoufeng		locality	1
+97792	1226448651	Fengbin		locality	2
+97844	1260080535	Ruisui		locality	1
+100002	1125867167	Taipei		locality	1
+100003	1125867167	Taipei		locality	1
+100004	1125867167	Taipei		locality	1
+100005	1125867167	Taipei		locality	7
+100006	1125867167	Taipei		locality	1
+100007	1125867167	Taipei		locality	4
+100008	1125867167	Taipei		locality	8
+100009	1125867167	Taipei		locality	2
+100013	1125867167	Taipei		locality	10
+100015	1125867167	Taipei		locality	1
+100029	1125867167	Taipei		locality	1
+100046	1125867167	Taipei		locality	1
+100216	1125867167	Taipei		locality	1
+103001	1125867167	Taipei		locality	6
+103002	1125867167	Taipei		locality	5
+103003	1125867167	Taipei		locality	12
+103005	1125867167	Taipei		locality	8
+103007	1125867167	Taipei		locality	13
+103008	1125867167	Taipei		locality	3
+103009	1125867167	Taipei		locality	4
+103010	1125867167	Taipei		locality	12
+103011	1125867167	Taipei		locality	1
+103012	1125867167	Taipei		locality	15
+103020	1125867167	Taipei		locality	1
+103024	1125867167	Taipei		locality	8
+103205	1125867167	Taipei		locality	1
+103210	1125867167	Taipei		locality	1
+103211	1125867167	Taipei		locality	1
+103212	1125867167	Taipei		locality	1
+103301	1125867167	Taipei		locality	1
+103601	1125867167	Taipei		locality	1
+103602	1125867167	Taipei		locality	1
+104002	1125867167	Taipei		locality	2
+104003	1125867167	Taipei		locality	10
+104004	1125867167	Taipei		locality	5
+104006	1125867167	Taipei		locality	4
+104007	1125867167	Taipei		locality	3
+104008	1125867167	Taipei		locality	14
+104009	1125867167	Taipei		locality	5
+104010	1125867167	Taipei		locality	1
+104011	1125867167	Taipei		locality	12
+104012	1125867167	Taipei		locality	1
+104052	102026641	Taipei		locality	1
+104096	1125867167	Taipei		locality	1
+104107	102026641	Taipei		locality	1
+104477	102026641	Taipei		locality	1
+105045	102026641	Taipei		locality	1
+105403	102026641	Taipei		locality	2
+105405	102026641	Taipei		locality	1
+106009	1125867167	Taipei		locality	3
+106021	1125867167	Taipei		locality	1
+106059	102026641	Taipei		locality	1
+106243	1125867167	Taipei		locality	1
+106302	1125867167	Taipei		locality	1
+106613	1125867167	Taipei		locality	1
+108002	1125867167	Taipei		locality	2
+108004	1125867167	Taipei		locality	3
+110055	102026641	Taipei		locality	1
+110061	102026641	Taipei		locality	1
+110069	102026641	Taipei		locality	1
+111032	102026641	Taipei		locality	1
+111056	102026641	Taipei		locality	1
+112303	102026641	Taipei		locality	1
+114004	102026641	Taipei		locality	8
+114051	102026641	Taipei		locality	1
+114705	102026641	Taipei		locality	1
+115003	102026641	Taipei		locality	10
+115011	102026641	Taipei		locality	43
+115028	102026641	Taipei		locality	8
+115029	102026641	Taipei		locality	4
+116069	1125867167	Taipei		locality	1
+200001	102026749	Keelung City		locality	1
+200002	102026749	Keelung City		locality	5
+200003	102026749	Keelung City		locality	3
+200005	102026749	Keelung City		locality	2
+200009	102026749	Keelung City		locality	1
+200011	102026749	Keelung City		locality	1
+200202	102026749	Keelung City		locality	1
+201012	102026749	Keelung City		locality	1
+201013	102026749	Keelung City		locality	1
+201015	102026749	Keelung City		locality	1
+202001	102026749	Keelung City		locality	2
+202003	102026749	Keelung City		locality	1
+202008	102026749	Keelung City		locality	2
+202009	102026749	Keelung City		locality	1
+202010	102026749	Keelung City		locality	1
+202201	102026749	Keelung City		locality	2
+202202	102026749	Keelung City		locality	1
+202301	102026749	Keelung City		locality	2
+203001	102026749	Keelung City		locality	1
+203004	102026749	Keelung City		locality	2
+203006	102026749	Keelung City		locality	1
+203010	102026749	Keelung City		locality	6
+203011	102026749	Keelung City		locality	2
+203012	102026749	Keelung City		locality	3
+300047	102026725	Hsinchu City		locality	1
+300195	102026725	Hsinchu City		locality	2
+300196	102026725	Hsinchu City		locality	1
+401006	102026649	Taichung		locality	1
+403019	102026649	Taichung		locality	1
+404011	102026649	Taichung		locality	1
+404025	102026649	Taichung		locality	1
+404030	102026649	Taichung		locality	2
+404351	102026649	Taichung		locality	1
+407010	102026649	Taichung		locality	1
+407027	102026649	Taichung		locality	1
+408012	102026649	Taichung		locality	3
+411002	102026649	Taichung		locality	1
+411028	102026649	Taichung		locality	2
+411029	102026649	Taichung		locality	3
+411031	102026649	Taichung		locality	1
+411037	102026649	Taichung		locality	1
+411202	102026649	Taichung		locality	1
+412031	102026649	Taichung		locality	1
+412406	102026649	Taichung		locality	1
+423012	102026649	Taichung		locality	8
+423311	102026649	Taichung		locality	1
+428019	102026649	Taichung		locality	1
+429003	102026649	Taichung		locality	1
+433106	102026649	Taichung		locality	1
+500013	102026761	Changhua		locality	5
+600014	102026757	Chiayi City		locality	1
+600077	102026757	Chiayi City		locality	1
+640154	102026597	Touliu City		locality	1
+647005	1326730597	Citong		locality	1
+653004	1293413815	Kouhu		locality	1
+700002	102026643	Tainan City		locality	1
+700004	102026643	Tainan City		locality	2
+700005	102026643	Tainan City		locality	3
+700007	102026643	Tainan City		locality	2
+700008	102026643	Tainan City		locality	2
+700011	102026643	Tainan City		locality	6
+700015	102026643	Tainan City		locality	1
+700016	102026643	Tainan City		locality	4
+700017	102026643	Tainan City		locality	2
+700019	102026643	Tainan City		locality	1
+700021	102026643	Tainan City		locality	1
+700022	102026643	Tainan City		locality	1
+700024	102026643	Tainan City		locality	1
+700201	102026643	Tainan City		locality	1
+700202	102026643	Tainan City		locality	1
+700280	102026643	Tainan City		locality	1
+701041	102026643	Tainan City		locality	1
+702002	102026643	Tainan City		locality	1
+702006	102026643	Tainan City		locality	1
+702010	102026643	Tainan City		locality	2
+702012	102026643	Tainan City		locality	1
+702020	102026643	Tainan City		locality	1
+702023	102026643	Tainan City		locality	1
+702024	102026643	Tainan City		locality	2
+702033	102026643	Tainan City		locality	1
+704003	102026643	Tainan City		locality	2
+704004	102026643	Tainan City		locality	5
+704005	102026643	Tainan City		locality	1
+704008	102026643	Tainan City		locality	4
+704010	102026643	Tainan City		locality	1
+704011	102026643	Tainan City		locality	1
+704013	102026643	Tainan City		locality	1
+704016	102026643	Tainan City		locality	1
+704028	102026643	Tainan City		locality	1
+708004	102026643	Tainan City		locality	1
+708007	102026643	Tainan City		locality	1
+709007	102026643	Tainan City		locality	1
+709022	102026643	Tainan City		locality	1
+709034	102026643	Tainan City		locality	1
+709040	102026643	Tainan City		locality	3
+709042	102026643	Tainan City		locality	2
+709201	102026643	Tainan City		locality	2
+709301	102026643	Tainan City		locality	1
+709404	102026643	Tainan City		locality	1
+710042	102026643	Tainan City		locality	1
+711010	102026643	Tainan City		locality	1
+711012	102026643	Tainan City		locality	1
+711014	102026643	Tainan City		locality	1
+711015	102026643	Tainan City		locality	1
+711206	102026643	Tainan City		locality	1
+711208	102026643	Tainan City		locality	1
+712001	102026643	Tainan City		locality	14
+712002	102026643	Tainan City		locality	1
+712003	102026643	Tainan City		locality	7
+712004	102026643	Tainan City		locality	3
+712005	102026643	Tainan City		locality	4
+712007	102026643	Tainan City		locality	1
+712010	102026643	Tainan City		locality	1
+712011	102026643	Tainan City		locality	1
+714001	102026643	Tainan City		locality	2
+714002	102026643	Tainan City		locality	1
+716001	102026643	Tainan City		locality	2
+716002	102026643	Tainan City		locality	12
+716004	102026643	Tainan City		locality	1
+717001	102026643	Tainan City		locality	1
+717003	102026643	Tainan City		locality	2
+717005	102026643	Tainan City		locality	4
+717010	102026643	Tainan City		locality	2
+717015	102026643	Tainan City		locality	3
+717501	102026643	Tainan City		locality	2
+722012	102026643	Tainan City		locality	1
+722037	102026643	Tainan City		locality	1
+725030	102026643	Tainan City		locality	3
+725035	102026643	Tainan City		locality	1
+727008	102026643	Tainan City		locality	3
+741006	102026643	Tainan City		locality	1
+741011	102026643	Tainan City		locality	1
+744094	102026643	Tainan City		locality	1
+745002	102026643	Tainan City		locality	3
+745005	102026643	Tainan City		locality	1
+800012	102026701	Kaohsiung City		locality	1
+802006	102026701	Kaohsiung City		locality	1
+802012	102026701	Kaohsiung City		locality	1
+802014	102026701	Kaohsiung City		locality	1
+802211	102026701	Kaohsiung City		locality	2
+802213	102026701	Kaohsiung City		locality	2
+802221	102026701	Kaohsiung City		locality	1
+802301	102026701	Kaohsiung City		locality	2
+802306	102026701	Kaohsiung City		locality	1
+802313	102026701	Kaohsiung City		locality	1
+802694	102026701	Kaohsiung City		locality	1
+803007	102026701	Kaohsiung City		locality	1
+804052	102026701	Kaohsiung City		locality	1
+806003	102026701	Kaohsiung City		locality	1
+806008	102026701	Kaohsiung City		locality	1
+807039	102026701	Kaohsiung City		locality	1
+807711	102026701	Kaohsiung City		locality	4
+811005	102026701	Kaohsiung City		locality	1
+811020	102026701	Kaohsiung City		locality	1
+811023	102026701	Kaohsiung City		locality	1
+811622	102026701	Kaohsiung City		locality	1
+811694	102026701	Kaohsiung City		locality	1
+812008	102026701	Kaohsiung City		locality	1
+812034	102026701	Kaohsiung City		locality	1
+813006	102026701	Kaohsiung City		locality	2
+814017	102026701	Kaohsiung City		locality	1
+820004	102026701	Kaohsiung City		locality	1
+822301	102026701	Kaohsiung City		locality	1
+824004	102026701	Kaohsiung City		locality	2
+828304	102026701	Kaohsiung City		locality	1
+829302	102026701	Kaohsiung City		locality	1
+830014	102026701	Kaohsiung City		locality	1
 830019	102026701	Kaohsiung City		locality	1
+830025	102026701	Kaohsiung City		locality	1
+830029	102026701	Kaohsiung City		locality	1
+830060	102026701	Kaohsiung City		locality	1
+830202	102026701	Kaohsiung City		locality	1
+844001	102026701	Kaohsiung City		locality	1
+848002	102026701	Kaohsiung City		locality	2
+975004	1259783841	Fenglin		locality	1

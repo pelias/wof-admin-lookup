@@ -1,35 +1,43 @@
 00000	421199619	Dakar	DK	locality	1
 BP 332	421195693	Saint-Louis		locality	1
+GND13	421195693	Saint-Louis		locality	1
+NDT)!	421195693	Saint-Louis		locality	1
+RUE IN-52	421195693	Saint-Louis		locality	1
 Sacré-Cœur 3	421199619	Dakar	DK	locality	1
 escale	1260382855	Mboro		locality	1
 skf	1260382855	Mboro		locality	1
 25	421199619	Dakar	DK	locality	7
 113	421199619	Dakar	DK	locality	1
 499	1310493419	Sali		locality	1
+1700	421190917	Pikine		locality	1
 3370	421199619	Dakar	DK	locality	1
 5640	421199619	Dakar	DK	locality	1
 5915	421199619	Dakar	DK	locality	3
 6405	421199619	Dakar	DK	locality	1
 7726	421199619	Dakar	DK	locality	1
-10000	421199619	Dakar	DK	locality	3
+8181	421199619	Dakar	DK	locality	1
+10000	421199619	Dakar	DK	locality	2
 10000	1293504981	Keur Massar		locality	2
 10200	421199619	Dakar	DK	locality	3
 10500	421199619	Dakar	DK	locality	1
-10700	421199619	Dakar	DK	locality	9
+10700	421199619	Dakar	DK	locality	10
 11000	421199619	Dakar	DK	locality	4
 11500	421199619	Dakar	DK	locality	4
+12000	421199619	Dakar	DK	locality	1
+12500	1293505035	Mbaw		locality	2
 13000	421199619	Dakar	DK	locality	1
 13500	421199619	Dakar	DK	locality	1
 14000	421199619	Dakar	DK	locality	2
 15150	421199619	Dakar	DK	locality	1
 16000	421190917	Pikine		locality	2
+17000	421190917	Pikine		locality	20
 17000	1293504981	Keur Massar		locality	4
-17000	1259801353	Yeumbeul sud		locality	3
-17000	421190917	Pikine		locality	2
+17000	1259801353	Yeumbeul sud		locality	2
 17000	1293505035	Mbaw		locality	1
 18524	421199619	Dakar	DK	locality	1
 20000	1360099117	Rufisque nord		locality	2
 20000	421201973	Rufisque		locality	2
+20000	1209419063	Yene Kaw		locality	1
 20100	1243564169	Toubab Dialaw		locality	4
 20100	421178143	Bargny		locality	1
 21000	421203859	Thiès		locality	10
@@ -37,7 +45,7 @@ skf	1260382855	Mboro		locality	1
 21600	1141907081	Diourbel		locality	5
 22352	421199619	Dakar	DK	locality	1
 23000	421173173	M'Bour		locality	3
-23002	1310493419	Sali		locality	6
+23002	1310493419	Sali		locality	10
 23400	1276866343	Djilor		locality	2
 23400	1343942223	Fimela		locality	1
 24000	421168951	Kaolack		locality	1
@@ -46,10 +54,11 @@ skf	1260382855	Mboro		locality	1
 27000	421201979	Ziguinchor		locality	4
 30018	421199619	Dakar	DK	locality	1
 31000	421168949	Louga		locality	3
-32000	421195693	Saint-Louis		locality	2
+32000	421195693	Saint-Louis		locality	4
 32001	421195693	Saint-Louis		locality	1
 33022	421173173	M'Bour		locality	1
 38110	421199619	Dakar	DK	locality	1
 38168	421173173	M'Bour		locality	1
 46024	421195693	Saint-Louis		locality	1
 99000	421199619	Dakar	DK	locality	1
+200000	421201973	Rufisque		locality	1

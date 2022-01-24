@@ -1,105 +1,122 @@
+???	421171925	San José		locality	18
 00011	421179405	Esparza		locality	1
 122-1007	421193003	Escazú District		locality	2
 200-4003	421169097	Alajuela		locality	1
 506	421174731	La Fortuna		locality	4
 00506	421169097	Alajuela		locality	1
-506	1343562841	Matambu		locality	1
+506	421187227	Santo Domingo		locality	1
 908	421169097	Alajuela		locality	1
-1100	421183567	San Juan de Tibás		locality	1
-2100	421170203	Guadalupe		locality	1
+1100	421183567	San Juan de Tibás		locality	10
+1100	421199321	San Juan		locality	6
 4050	421169097	Alajuela		locality	1
 6100	421178401	Colón		locality	1
-10101	421171925	San José		locality	6
+10101	421171925	San José		locality	8
 10102	421171925	San José		locality	1
 10103	421171925	San José		locality	2
 10103	1343558445	Desamparados		locality	1
 10104	421171925	San José		locality	5
 10105	421171925	San José		locality	1
+10105	1209026405	Zapote		locality	1
+10107	421171925	San José		locality	2
 10107	1259703733	Uruca		locality	2
-10107	421171925	San José		locality	1
-10108	421171925	San José		locality	2
-10109	1260268563	Pavas		locality	1
+10108	421171925	San José		locality	3
+10109	1260268563	Pavas		locality	2
 10109	421171925	San José		locality	1
 10111	1242673149	San Sebastian		locality	1
-10203	890444881	San Rafael		locality	1
+10203	890444881	San Rafael		locality	4
 10302	421197683	San Miguel		locality	7
 10302	1226636657	Rosario		locality	1
-10309	1226636657	Rosario		locality	12
+10309	1226636657	Rosario		locality	11
+10309	1343558445	Desamparados		locality	1
 10609	421178401	Colón		locality	1
-10803	421179411	Calle Blancos		locality	3
-10804	1343747417	Mata de Platano		locality	1
+10803	421179411	Calle Blancos		locality	4
+10804	1343747417	Mata de Platano		locality	11
 10805	421194559	Ipís de Goicoechea		locality	1
+10901	421169997	Santa Ana		locality	3
 10903	1326921103	Pozos		locality	2
+10904	1276641575	San Rafael		locality	1
 10905	1259503547	Piedades		locality	2
 11000	421169537	Drake		locality	1
 11004	421191987	Concepción		locality	1
+11103	1209500569	Dulce Nombre de Jesus		locality	1
 11201	421197685	San Ignacio		locality	1
 11302	1360190739	Isla de Tibas		locality	1
-11303	421190345	Llorente		locality	3
 11305	421179407	Colima		locality	1
 11401	1243181001	Moravia		locality	1
-11501	421186575	San Pedro		locality	12
-11501	421171925	San José		locality	2
+11401	890435335	San Vicente		locality	1
+11501	421186575	San Pedro		locality	15
+11501	421171925	San José		locality	3
 11501-2060	421186575	San Pedro		locality	1
-11503	421179401	Mercedes		locality	1
-11503	421186575	San Pedro		locality	1
-11801	421187207	Curridabat		locality	2
-11901	421201275	San Isidro de El General		locality	1
+11503	421179401	Mercedes		locality	5
+11801	421187207	Curridabat		locality	3
+11801	421171925	San José		locality	1
+11901	421201275	San Isidro de El General		locality	2
 11904	1243439705	Rivas		locality	1
-20101	421169097	Alajuela		locality	6
+20101	421169097	Alajuela		locality	7
+20101	1343578781	Ciruelas		locality	1
 20102	421171925	San José		locality	1
 20104	421180737	San Antonio		locality	1
+20105	421187195	Guácima		locality	1
 20107	421201141	Sabanilla		locality	1
 20108	421199323	San Rafael		locality	4
 20109	421204825	Río Segundo		locality	1
 20111	1293700879	Turrucares		locality	5
 20112	421193933	Tambor		locality	3
-20113	421199355	La Garita		locality	1
 20113	421193933	Tambor		locality	1
 020201	421181333	San Ramón		locality	1
 20202	421198421	Santiago		locality	2
 20202	421181333	San Ramón		locality	1
-20206	421199323	San Rafael		locality	1
 20208	1293407675	Angeles		locality	1
 20303	421171925	San José		locality	1
 20305	1226650103	Tacares		locality	1
-20501	421170395	Atenas		locality	1
 20502	421170395	Atenas		locality	1
-20601	421197691	Naranjo de Alajuela		locality	1
 20606	421197691	Naranjo de Alajuela		locality	1
-20801	421169999	San Pedro		locality	5
+20801	421169999	San Pedro		locality	3
 20802	890441921	San Juan		locality	1
-20804	421179409	Carrillos		locality	14
-21001	421193173	Quesada		locality	3
-21007	421174731	La Fortuna		locality	5
+20804	421179409	Carrillos		locality	13
+21001	421193173	Quesada		locality	5
+21007	421174731	La Fortuna		locality	4
+021007	421174731	La Fortuna		locality	1
 21019	421204825	Río Segundo		locality	1
-21304	421201687	Bijagua		locality	3
+21304	421201687	Bijagua		locality	4
 21304	421169097	Alajuela		locality	1
-21401	421181329	Los Chiles		locality	2
-30101	890439979	Cartago		locality	4
+21401	421181329	Los Chiles		locality	3
+30101	890439979	Cartago		locality	6
 30102	890439979	Cartago		locality	4
+30104	890439979	Cartago		locality	2
+30302	421193075	San Diego de La Unión		locality	85
+30302	421199321	San Juan		locality	1
 30305	421191987	Concepción		locality	2
 30403	421179397	Pejibaye		locality	1
 30501	421201281	Turrialba		locality	2
+30801	1344165761	El Tejar		locality	6
+30801	421170203	Guadalupe		locality	1
 40101	421170397	Heredia		locality	2
 40102	421179401	Mercedes		locality	2
-40103	421170397	Heredia		locality	1
+40103	421170397	Heredia		locality	2
+40104	421170397	Heredia		locality	1
 40104	421171925	San José		locality	1
-40203	421197681	San Pablo		locality	1
-40404	1226366633	Barrio Jesus		locality	3
-40501	421197679	San Rafael		locality	3
+40203	421197681	San Pablo Canton		locality	1
+40301	421187227	Santo Domingo		locality	1
+40302	890435335	San Vicente		locality	1
+40302	421187227	Santo Domingo		locality	1
+40303	421197683	San Miguel		locality	1
+40404	1226366633	Barrio Jesus		locality	4
+40501	421197679	San Rafael		locality	4
 40601	421192725	San Isidro		locality	3
+40701	421180737	San Antonio		locality	4
 40701	421170397	Heredia		locality	1
 40703	890430725	La Asunción		locality	1
-40901	421197681	San Pablo		locality	1
-41001	1276443033	Puerto Viejo de Sarapiqui		locality	3
+40901	421197681	San Pablo Canton		locality	1
+41001	1276443033	Puerto Viejo de Sarapiqui		locality	4
 50101	421187201	Liberia		locality	13
-50101	1209216603	Guanacaste		locality	2
+50101	1209216603	Guanacaste		locality	1
 50102	1327146125	Curubande		locality	1
 50103	421187201	Liberia		locality	2
 50104	421187201	Liberia		locality	3
-50105	1327146125	Curubande		locality	4
+50105	1327146125	Curubande		locality	5
 50205	421182125	Sámara		locality	1
+50301	421186389	Santa Cruz		locality	2
 50303	1276229571	Playas del Coco		locality	2
 50306	1243271715	San Juanillo		locality	2
 50308	1226144657	Brasilito		locality	1
@@ -107,28 +124,37 @@
 50309	1226344201	Tamarindo		locality	6
 50309	421186389	Santa Cruz		locality	1
 50501	421177433	Filadelfia de Guanacaste		locality	1
-50807	421180193	Nuevo Arenal		locality	2
-51001	421201139	La Cruz		locality	1
+50503	1276229571	Playas del Coco		locality	1
+50807	1259981729	Nuevo Arenal		locality	2
+50901	1226154621	Carmona		locality	1
+51001	421201139	La Cruz		locality	3
 51101	1343562841	Matambu		locality	3
-60101	421186573	Puntarenas		locality	2
-60108	1226537655	Barranca		locality	1
+51101	421176759	Hojancha		locality	1
+60101	421186573	Puntarenas		locality	3
+60108	1226537655	Barranca		locality	2
 60109	421173647	Monteverde		locality	1
+60111	421175831	Mal País		locality	2
 60111	421202957	Cóbano		locality	1
-60501	421202809	Ciudad Cortés		locality	10
+60111	1209800947	Santa Teresa		locality	1
+60402	421193951	Tres Ríos		locality	1
+60501	421202809	Ciudad Cortés		locality	9
+60503	421169537	Drake		locality	1
 60504	421176785	Uvita		locality	1
 60601	1293904885	Manuel Antonio		locality	2
+60601	421181331	Quepos		locality	2
+60602	421182085	Savegre		locality	1
 60701	421172763	Golfito		locality	1
 60801	421177315	San Vito		locality	2
 60901	421202813	Parrita		locality	1
 61001	1344253877	Neily		locality	1
-61101	421174733	Jacó		locality	48
+61101	421174733	Jacó		locality	52
 70101	421172761	Limón		locality	1
 70201	421173025	Guápiles		locality	5
-70205	1293197977	Cariari		locality	2
+70205	1293197977	Cariari		locality	5
 70206	421181335	Tortuguero		locality	1
-70301	421176299	Siquirres		locality	1
+70301	421176299	Siquirres		locality	2
 70403	1292901331	Talamanca		locality	3
-70403	421197699	Cahuita		locality	1
+70403	421187213	Cahuita		locality	2
 70403	1276358411	Puerto Viejo de Talamanca		locality	1
 100102	421171925	San José		locality	1
 3084050	421169097	Alajuela		locality	1

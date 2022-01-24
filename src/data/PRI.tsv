@@ -1,206 +1,236 @@
-00601	101919137	Adjuntas		locality	1
-00602	101919143	Aguada		locality	28
+00601	101919137	Adjuntas		locality	2
+00602	101919143	Aguada		locality	29
 00602	101919017	Aguadilla		locality	1
 00602	101919277	Isabela		locality	1
-00603	101919017	Aguadilla		locality	472
+00603	101919017	Aguadilla		locality	487
 00603	1125844087	Bajo		locality	1
 00603-1100	101919017	Aguadilla		locality	1
 00604	101919017	Aguadilla		locality	7
 00605	101919017	Aguadilla		locality	9
-00610	101919029	Añasco		locality	5
-00612	101919135	Arecibo		locality	12
+00606	101919117	Maricao		locality	1
+00610	101919029	Añasco		locality	7
+00611	101919023	Utuado		locality	1
+00612	101919135	Arecibo		locality	15
 00613	101919135	Arecibo		locality	3
 00614	101919135	Arecibo		locality	2
-00617	101919157	Barceloneta		locality	11
-00623	101919039	Cabo Rojo		locality	9
+00617	101919157	Barceloneta		locality	12
+00622	101919039	Cabo Rojo		locality	1
+00623	101919039	Cabo Rojo		locality	11
 00623-0910	101919039	Cabo Rojo		locality	1
 00624	1125875661	Peñuelas		locality	3
 00626	101918923	Toa Alta		locality	1
-00627	101918937	Camuy		locality	2
+00627	101918937	Camuy		locality	3
 00631-1003	1327364733	Castaner		locality	1
 00637	101919329	Sabana Grande		locality	1
-00641	101919023	Utuado		locality	4
+00638	101919179	Ciales		locality	1
+00641	101919023	Utuado		locality	5
 00641-0590	101919023	Utuado		locality	1
-00646	101919291	Dorado		locality	17
+00646	101919291	Dorado		locality	18
 00646	1343991571	Higuillar		locality	2
 00650	101919219	Florida		locality	3
 00653	1125913019	Guánica		locality	1
-00656	101919369	Guayanilla		locality	1
-00659	101919275	Hatillo		locality	4
-00660	101919265	Hormigueros		locality	1
+00656	101919369	Guayanilla		locality	2
+00656	1125875661	Peñuelas		locality	1
+00659	101919275	Hatillo		locality	3
+00660	101919265	Hormigueros		locality	2
+00660	101919095	San Germán		locality	1
 00662	101919277	Isabela		locality	7
-00667	101919081	Lajas		locality	4
-00669	101918963	Lares		locality	35
-00670	101919053	Las Marías		locality	1
+00667	101919081	Lajas		locality	6
+00669	101918963	Lares		locality	38
+00670	101919053	Las Marías		locality	2
 00674	1125993505	Manatí		locality	27
-00674	101919377	Manatí		locality	3
+00674	101919377	Manatí		locality	4
 00674-1142	101919377	Manatí		locality	2
 00674	1126027957	Tierras Nuevas Saliente		locality	1
 00674-0532	1125804903	Bayamón		locality	1
 00674-0532	101919377	Manatí		locality	1
+00676	101919385	Moca		locality	13
 00676	101919017	Aguadilla		locality	2
-00676	101919385	Moca		locality	2
 00677	1125848679	Rincon		locality	3
 00677	101918995	Rincón		locality	2
-00680	1141908375	Mayagüez		locality	15
-00680	101918899	Mayagüez		locality	6
+00678	101919295	Quebradillas		locality	2
+00680	1141908375	Mayagüez		locality	27
+00680	101918899	Mayagüez		locality	7
 00680	101919385	Moca		locality	1
-00681	1141908375	Mayagüez		locality	2
-00682	1141908375	Mayagüez		locality	8
+00681	1141908375	Mayagüez		locality	3
+00682	1141908375	Mayagüez		locality	14
+00682-6615	1141908375	Mayagüez		locality	1
 00683	1125961147	San Germán		locality	2
 00683-0285	1125961147	San Germán		locality	1
 00685	101919005	San Sebastián		locality	2
-00687	101919111	Morovis		locality	16
+00685	1125849693	San Sebastián		locality	2
+00687	101919111	Morovis		locality	17
 00690	101919017	Aguadilla		locality	8
 00690	101919011	San Antonio		locality	2
-00692	101919313	Vega Alta		locality	2
-00693	101919403	Vega Baja		locality	23
-00698	1125968295	Yauco		locality	13
+00692	101919313	Vega Alta		locality	3
+00693	101919403	Vega Baja		locality	24
+00694	101919403	Vega Baja		locality	1
+00698	1125968295	Yauco		locality	14
 00698-0068	101919405	Yauco		locality	1
-00703	101919009	Aguas Buenas		locality	2
-00704	1327170541	Aguirre		locality	1
-00705	101919147	Aibonito		locality	4
+00703	101919009	Aguas Buenas		locality	4
+00704	1327170541	Aguirre		locality	2
+00705	101919147	Aibonito		locality	5
+00707	101919215	Maunabo		locality	1
+00714	101919057	Arroyo		locality	1
 00715	1125784209	Mercedita		locality	2
-00716	101918891	Ponce		locality	4
-00717	101918891	Ponce		locality	1
+00715	101918891	Ponce		locality	1
+00716	101918891	Ponce		locality	5
+00717	101918891	Ponce		locality	3
 00717-1318	101918891	Ponce		locality	1
-00718	101919395	Naguabo		locality	101
-00719	101919383	Naranjito		locality	1
+00718	101919395	Naguabo		locality	108
+00719	101919383	Naranjito		locality	3
 00720	1226578039	Sabana		locality	1
 00720-2105	101918993	Orocovis		locality	1
-00725	101919173	Caguas		locality	15
+00723	101918913	Patillas		locality	1
+00725	101919173	Caguas		locality	52
+00726	101919173	Caguas		locality	1
 00726-4964	101919173	Caguas		locality	1
 00726-4980	101919173	Caguas		locality	1
 00727	101919173	Caguas		locality	11
-00728	101918891	Ponce		locality	3
+00728	101918891	Ponce		locality	4
 00728	1125981321	Magueyes		locality	1
 00728-3511	101918891	Ponce		locality	1
-00729	101919183	Canóvanas		locality	38
+00729	101919183	Canóvanas		locality	39
 00729-9998	101919183	Canóvanas		locality	1
 00730	1125981321	Magueyes		locality	9
-00730	101918891	Ponce		locality	6
-00731	101918891	Ponce		locality	17
+00730	101918891	Ponce		locality	7
+00731	101918891	Ponce		locality	19
 00733-1910	101918891	Ponce		locality	1
 00733-6810	101918891	Ponce		locality	1
 00734	101918891	Ponce		locality	4
-00735	101919091	Ceiba		locality	1
-00736	101919201	Cayey		locality	8
+00735	101919091	Ceiba		locality	2
+00736	101919201	Cayey		locality	11
 00737	101919201	Cayey		locality	1
 00738	101918905	Fajardo		locality	8
 00738-0846	101918905	Fajardo		locality	1
-00739	101919103	Cidra		locality	2
+00739	101919103	Cidra		locality	4
 00739-1400	101919103	Cidra		locality	1
 00741	101919245	Humacao		locality	1
 00741	101919243	Punta Santiago		locality	1
+00745	101919255	Río Grande		locality	5
 00745	101919183	Canóvanas		locality	1
-00751	101919423	Salinas		locality	2
+00751	101919423	Salinas		locality	4
 00751	1343293025	Rio Jueyes		locality	1
-00754	101918957	San Lorenzo		locality	4
+00754	101918957	San Lorenzo		locality	5
 00754-4214	101918957	San Lorenzo		locality	1
-00757	101918985	Santa Isabel		locality	7
-00765	1293237797	Vieques		locality	2
+00757	101918985	Santa Isabel		locality	8
+00765	101919119	Vieques		locality	5
 00765	101919047	Puerto Real		locality	1
+00766	101919035	Villalba		locality	1
 00767	101918971	Yabucoa		locality	5
-00769	101918947	Coamo		locality	9
-00771	101919331	Las Piedras		locality	70
+00769	101918947	Coamo		locality	10
+00771	101919331	Las Piedras		locality	134
+00771-3600	101919331	Las Piedras		locality	13
+00771-3615	101919331	Las Piedras		locality	11
+00771-3616	101919331	Las Piedras		locality	10
+00771-3606	101919331	Las Piedras		locality	5
 00772	101919337	Loíza		locality	40
-00773	101918919	Luquillo		locality	49
-00775	101919287	Culebra		locality	8
+00773	101918919	Luquillo		locality	50
+00775	101919287	Culebra		locality	9
 00775-0969	101919287	Culebra		locality	1
 00775-9998	101919287	Culebra		locality	1
-00777	101918861	Juncos		locality	1
-00778	101919363	Gurabo		locality	35
+00777	101918861	Juncos		locality	2
+00778	101919363	Gurabo		locality	36
 00780	101918895	Coto Laurel		locality	2
 00780	101918891	Ponce		locality	2
-00782	101918909	Comerío		locality	1
+00780	1126027783	Juana Díaz		locality	1
+00782	101918909	Comerío		locality	17
 00783	101919089	Corozal		locality	2
-00784	101919309	Guayama		locality	6
-00784	1125948459	Algarrobo		locality	1
+00784	101919309	Guayama		locality	7
 00785	101919309	Guayama		locality	8
-00791	101919245	Humacao		locality	8
-00791	101919237	Palmas del Mar		locality	1
+00791	101919245	Humacao		locality	43
+00791	101919237	Palmas Del Mar Beach Resort		locality	1
 00791-0859	101919245	Humacao		locality	1
 00792	1125966443	Humacao		locality	3
-00795	101919349	Juana Díaz		locality	7
-00901	1209953029	Old San Juan		locality	15
-00901	1126038493	San Juan		locality	10
-00907	1126038493	San Juan		locality	1748
+00794	101919193	Barranquitas		locality	1
+00795	101919349	Juana Díaz		locality	8
+00901	101919427	San Juan		locality	22
+00901	1209953029	Old San Juan		locality	16
+00907	101919427	San Juan		locality	1742
 00907	1209348039	Santurce		locality	13
-00907-5104	1126038493	San Juan		locality	1
-907	1126038493	San Juan		locality	1
-00908	1126038493	San Juan		locality	64
-00909	1126038493	San Juan		locality	839
-00909	1209348039	Santurce		locality	4
-00910	101919427	San Juan		locality	117
+00907-5104	101919427	San Juan		locality	1
+907	101919427	San Juan		locality	1
+00908	101919427	San Juan		locality	67
+00909	101919427	San Juan		locality	834
+00909	1209348039	Santurce		locality	3
+00910	101919427	San Juan		locality	120
 00910-0540	101919427	San Juan		locality	45
-00911	101919427	San Juan		locality	891
-00911	1209348039	Santurce		locality	67
-00912	1126038493	San Juan		locality	106
-00913	101919427	San Juan		locality	5
-00914	1126038493	San Juan		locality	2
+00910-3428	101919427	San Juan		locality	1
+00911	101919427	San Juan		locality	898
+00911	1209348039	Santurce		locality	68
+00912	101919427	San Juan		locality	108
+00913	101919427	San Juan		locality	6
+00914	101919427	San Juan		locality	2
 00915	101919427	San Juan		locality	215
-00917	101919427	San Juan		locality	11
+00917	101919427	San Juan		locality	14
 00917	1293424891	Oriente		locality	1
-00918	101919427	San Juan		locality	34
+00917	101918891	Ponce		locality	1
+00918	101919427	San Juan		locality	38
 00918	1209348039	Santurce		locality	1
 00919	101919427	San Juan		locality	2
 00919-0828	101919427	San Juan		locality	1
 00919-1079	101919427	San Juan		locality	1
 00919-1811	101919427	San Juan		locality	1
 00919-1921	101919427	San Juan		locality	1
+00920	101919427	San Juan		locality	4
 00920	101919293	Guaynabo		locality	2
-00920	1126038493	San Juan		locality	1
 00921	101919427	San Juan		locality	7
 00921	1125804903	Bayamón		locality	1
 00921-6528	101919427	San Juan		locality	1
 00922	101919427	San Juan		locality	2
 00922-2116	101919427	San Juan		locality	1
-00923	1126038493	San Juan		locality	5
+00923	101919427	San Juan		locality	9
 00923	101919293	Guaynabo		locality	1
 00924	101919427	San Juan		locality	59
 00924	101919197	Carolina		locality	19
-00925	101919427	San Juan		locality	8
-00926	101919427	San Juan		locality	18
-00926	1125853795	Cupey		locality	2
+00925	101919427	San Juan		locality	26
+00926	101919427	San Juan		locality	23
+00926	1125853795	Cupey		locality	1
 00926	1276160261	Monacillo		locality	1
+00927	101919427	San Juan		locality	18
 00927	101919293	Guaynabo		locality	1
-00927	101919427	San Juan		locality	1
-00928	101919427	San Juan		locality	1
+00928	101919427	San Juan		locality	2
 00929	101919427	San Juan		locality	1
+00930	101919427	San Juan		locality	1
 00931	101919427	San Juan		locality	1
 00935	101919427	San Juan		locality	1
-00936	1126038493	San Juan		locality	5
+00936	101919427	San Juan		locality	5
 00936-8344	101919427	San Juan		locality	2
+00936-5028	101919427	San Juan		locality	1
 00939-4708	101919427	San Juan		locality	1
-00949	101919067	Toa Baja		locality	32
-00953	101918923	Toa Alta		locality	1
-00954	1125968257	Toa Alta		locality	7
+00949	101919067	Toa Baja		locality	36
+00953	1125968257	Toa Alta		locality	3
+00954	1125968257	Toa Alta		locality	8
 00956	101919125	Bayamón		locality	9
-00957	101919125	Bayamón		locality	4
+00957	101919125	Bayamón		locality	5
 00957	1243292729	Cana		locality	1
 00958	101919125	Bayamón		locality	1
-00959	1125804903	Bayamón		locality	4
+00959	1125804903	Bayamón		locality	6
 00959	101919125	Bayamón		locality	3
 00960	1125804903	Bayamón		locality	2
-00961	1125804903	Bayamón		locality	53
+00961	1125804903	Bayamón		locality	57
+00962	1125941309	Cataño		locality	275
 00962	101918955	Cataño		locality	6
-00962	101919313	Vega Alta		locality	2
+00962	101919313	Vega Alta		locality	3
 00962	101919067	Toa Baja		locality	1
+00962steve	1125941309	Cataño		locality	1
+00963	1125941309	Cataño		locality	11
 00965	101919293	Guaynabo		locality	5
 00966	101919293	Guaynabo		locality	5
-00968	101919293	Guaynabo		locality	9
-00969	101919293	Guaynabo		locality	36
+00968	101919293	Guaynabo		locality	11
+00969	101919293	Guaynabo		locality	39
 00970	101919293	Guaynabo		locality	3
 00971	101919293	Guaynabo		locality	5
-00976	101918965	Trujillo Alto		locality	20
-00979	101919197	Carolina		locality	28
+00976	101918965	Trujillo Alto		locality	27
+00979	101919197	Carolina		locality	33
 00979	1125994789	Cangrejo Arriba		locality	1
 00979-7022	101919197	Carolina		locality	1
-00982	101919197	Carolina		locality	8
+00982	101919197	Carolina		locality	10
 00983	101919197	Carolina		locality	4
 00984	101919197	Carolina		locality	2
-00985	101919197	Carolina		locality	4
+00985	101919197	Carolina		locality	5
+00985	1126006081	Loíza		locality	1
 00986	101919197	Carolina		locality	1
 00987	101919197	Carolina		locality	6
-00987	101919427	San Juan		locality	1
-009010	101919427	San Juan		locality	1
+00987	101919427	San Juan		locality	2
+09010	101919427	San Juan		locality	1

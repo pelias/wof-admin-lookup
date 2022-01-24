@@ -88,6 +88,7 @@ tape('tests', (test) => {
       .addParent( 'locality', 'Baltimore', '85949461')
       .addParent( 'locality', 'Perry Hall', '85950213')
       .addParent( 'locality', 'White Marsh', '85950229')
+      .addParent( 'locality', 'Fullerton', '1310025487')
       .setAddress('zip', '21236');
 
     const resolver = {
@@ -218,6 +219,7 @@ tape('tests', (test) => {
       .addParent( 'locality', 'Baltimore', '85949461', undefined)
       .addParent( 'locality', 'Perry Hall', '85950213', undefined)
       .addParent( 'locality', 'White Marsh', '85950229', undefined)
+      .addParent( 'locality', 'Fullerton', '1310025487')
       .addParent( 'locality', 'Locality 1', '2', 'ABC')
       .setAddress('zip', '21236');
 
@@ -281,6 +283,7 @@ tape('tests', (test) => {
       .addParent( 'country', 'United States', '1', 'USA')
       .addParent( 'locality', 'Hummelstown', '101717689', undefined)
       .addParent( 'locality', 'Hershey', '101719813', undefined)
+      .addParent( 'locality', 'Harrisburg', '101717693', undefined)
       .addParent( 'locality', 'Locality 1', '2', 'ABC')
       .setAddress('zip', '17036');
 

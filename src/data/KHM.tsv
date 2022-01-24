@@ -1,16 +1,17 @@
-Sangkat 4	1125939721	Sihanoukville		locality	4
-(+855) 12 49 99 28	1125853197	Phnom Penh		locality	1
+Sangkat 4	1125939721	Sihanoukville		locality	3
 +855	1310605923	Kampong Svay		locality	1
 00000	890444157	Siem Reap		locality	1
-Kampot Province	890440165	Kampot		locality	1
+១២០០០	1125853197	Phnom Penh		locality	1
+១២៣៥៤	1125853197	Phnom Penh		locality	1
 053	890412899	Battambang		locality	1
 0090	890444157	Siem Reap		locality	1
 171	421188891	Siem Reap		locality	1
-855	1125853197	Phnom Penh		locality	12
+855	1125853197	Phnom Penh		locality	14
 855	890412899	Battambang		locality	1
 855	890440165	Kampot		locality	1
-1200	1125853197	Phnom Penh		locality	2
+1200	1125853197	Phnom Penh		locality	3
 1202	1125853197	Phnom Penh		locality	1
+01407	421198993	Poipet		locality	25
 1528	890444157	Siem Reap		locality	1
 1600	1226100407	Banlung		locality	1
 1700	890444157	Siem Reap		locality	2
@@ -23,21 +24,25 @@ Kampot Province	890440165	Kampot		locality	1
 07401	890440165	Kampot		locality	1
 07416	890440165	Kampot		locality	2
 08555	890440165	Kampot		locality	2
+11213	1125853197	Phnom Penh		locality	2
 11311	1125853197	Phnom Penh		locality	1
-12000	1125853197	Phnom Penh		locality	4
-12000	890444157	Siem Reap		locality	1
+12000	1125853197	Phnom Penh		locality	7
 12086	1125853197	Phnom Penh		locality	1
+12100	1125853197	Phnom Penh		locality	2
 12101	1125853197	Phnom Penh		locality	4
 12102	1125853197	Phnom Penh		locality	5
+12108	1125853197	Phnom Penh		locality	1
 12110	1125853197	Phnom Penh		locality	1
-12112	1125853197	Phnom Penh		locality	1
+12112	1125853197	Phnom Penh		locality	2
 12130	1125853197	Phnom Penh		locality	1
 12150	1125853197	Phnom Penh		locality	1
 12151	1125853197	Phnom Penh		locality	3
 12152	1125853197	Phnom Penh		locality	3
 12153	1125853197	Phnom Penh		locality	1
 12154	890440165	Kampot		locality	1
+12154	1125853197	Phnom Penh		locality	1
 12155	1125853197	Phnom Penh		locality	1
+12156	1125853197	Phnom Penh		locality	1
 12157	1125853197	Phnom Penh		locality	2
 12158	1125853197	Phnom Penh		locality	1
 12160	1125853197	Phnom Penh		locality	1
@@ -45,57 +50,72 @@ Kampot Province	890440165	Kampot		locality	1
 12201	1125853197	Phnom Penh		locality	6
 12202	1125853197	Phnom Penh		locality	3
 12203	1125853197	Phnom Penh		locality	2
-12204	1125853197	Phnom Penh		locality	2
+12203	890444157	Siem Reap		locality	1
+12204	1125853197	Phnom Penh		locality	8
 12205	1125853197	Phnom Penh		locality	1
-12206	1125853197	Phnom Penh		locality	1
-12207	1125853197	Phnom Penh		locality	5
+12206	1125853197	Phnom Penh		locality	4
+12207	1125853197	Phnom Penh		locality	8
 12209	1125853197	Phnom Penh		locality	2
 12210	1125853197	Phnom Penh		locality	2
-12211	1125853197	Phnom Penh		locality	4
+12211	1125853197	Phnom Penh		locality	5
 12250	1125853197	Phnom Penh		locality	1
 12251	1125853197	Phnom Penh		locality	1
 12253	1125853197	Phnom Penh		locality	1
-12301	1125853197	Phnom Penh		locality	2
-12302	1125853197	Phnom Penh		locality	19
+12301	1125853197	Phnom Penh		locality	3
+12302	1125853197	Phnom Penh		locality	20
 12304	1125853197	Phnom Penh		locality	3
+12305	1125853197	Phnom Penh		locality	3
 12305	1293796951	Phumi Trabek		locality	2
-12305	1125853197	Phnom Penh		locality	2
 12306	1125853197	Phnom Penh		locality	4
 12308	1125853197	Phnom Penh		locality	2
 12309	1125853197	Phnom Penh		locality	1
-12310	1125853197	Phnom Penh		locality	3
-12311	1125853197	Phnom Penh		locality	1
+12310	1125853197	Phnom Penh		locality	5
+12311	1125853197	Phnom Penh		locality	2
 12351	1125853197	Phnom Penh		locality	2
 12352	1125853197	Phnom Penh		locality	3
 12353	1125853197	Phnom Penh		locality	1
-12357	1125853197	Phnom Penh		locality	1
+12356	1125853197	Phnom Penh		locality	1
+12357	1125853197	Phnom Penh		locality	2
 12402	890444157	Siem Reap		locality	1
 12405	1125853197	Phnom Penh		locality	1
+12410	1125853197	Phnom Penh		locality	1
+12411	1125853197	Phnom Penh		locality	2
 12694	1125853197	Phnom Penh		locality	1
-13205	890440165	Kampot		locality	2
+13205	890440165	Kampot		locality	3
 16452	1209571657	Phum Labang Siek		locality	1
-17000	890444157	Siem Reap		locality	7
+17000	890444157	Siem Reap		locality	6
 17006	890444157	Siem Reap		locality	1
 17210	890444157	Siem Reap		locality	1
 17251	421188891	Siem Reap		locality	3
 17252	890444157	Siem Reap		locality	26
 17252	421188891	Siem Reap		locality	1
-17254	890444157	Siem Reap		locality	12
-17256	890444157	Siem Reap		locality	1
-17259	890444157	Siem Reap		locality	16
+17254	890444157	Siem Reap		locality	20
+17256	890444157	Siem Reap		locality	2
+17259	890444157	Siem Reap		locality	17
 17260	890444157	Siem Reap		locality	45
 17262	421188891	Siem Reap		locality	1
 17295	421188891	Siem Reap		locality	1
 17452	890444157	Siem Reap		locality	1
 17524	890444157	Siem Reap		locality	3
 17659	421188891	Siem Reap		locality	1
+17714	421188891	Siem Reap		locality	1
 18000	1125939721	Sihanoukville		locality	4
 18201	1125939721	Sihanoukville		locality	1
-18205	1327353679	Kaoh Rong		locality	2
-023855	1125853197	Phnom Penh		locality	1
+18205	1327353679	Kaoh Rong		locality	1
 27252	890444157	Siem Reap		locality	1
+050415	890435371	Kampong Speu		locality	1
+70206	890440165	Kampot		locality	1
 85523	1125853197	Phnom Penh		locality	1
 85563	890444157	Siem Reap		locality	1
 93101	890444157	Siem Reap		locality	2
+120101	1125853197	Phnom Penh		locality	1
 120104	1125853197	Phnom Penh		locality	1
+120109	1125853197	Phnom Penh		locality	1
+120210	1125853197	Phnom Penh		locality	2
+120501	1125853197	Phnom Penh		locality	2
+120802	1125853197	Phnom Penh		locality	1
+120806	1125853197	Phnom Penh		locality	1
+171000	890444157	Siem Reap		locality	1
+180000	1125939721	Sihanoukville		locality	1
+220201	890434553	Krong Kep		locality	10
 077253598	1125853197	Phnom Penh		locality	1

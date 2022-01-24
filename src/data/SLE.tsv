@@ -9,16 +9,16 @@
 ,321	1125869365	Pendembu		locality	1
 East	1141907087	Kenema		locality	1
 Eastern	1141907087	Kenema		locality	1
+Hanga Rd	1141907087	Kenema		locality	1
 Test	421176817	Freetown		locality	1
-rh5	1193033615	London		locality	1
 wr	421176817	Freetown		locality	1
 2$2	1125869365	Pendembu		locality	1
 223	421176817	Freetown		locality	1
-232	890444383	Kailahun		locality	481
-232	421195921	Bo		locality	449
-232	890452049	Freetown		locality	190
-232	1125913819	Kambia		locality	126
-232	1343971839	Buedu		locality	95
+232	890444383	Kailahun		locality	478
+232	421195921	Bo		locality	450
+232	890452049	Freetown		locality	189
+232	1125913819	Kambia		locality	125
+232	890435453	Bwedu		locality	95
 232	1326844275	Koindu		locality	75
 232	1226256961	Sandaru		locality	45
 232	1276119983	Jendema		locality	32
@@ -35,9 +35,9 @@ wr	421176817	Freetown		locality	1
 232	1141907087	Kenema		locality	6
 232	1259497497	Kpuya		locality	6
 232	1125792503	Manowa		locality	6
+00232	890452049	Freetown		locality	3
 232	1209824471	Fintonia		locality	3
 232	1226663819	Gofor		locality	3
-00232	890452049	Freetown		locality	2
 232	1259792561	Kamaron		locality	2
 232	1293108329	Nyandehun		locality	2
 232	1327143985	Bendu		locality	1
@@ -57,3 +57,4 @@ wr	421176817	Freetown		locality	1
 323	890452049	Freetown		locality	1
 2327	890444383	Kailahun		locality	1
 2328	890444383	Kailahun		locality	1
+42215	1326636317	Devil Hole		locality	1

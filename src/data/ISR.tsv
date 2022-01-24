@@ -1,23 +1,29 @@
+PO box 14150	421168681	Jerusalem		locality	1
 12235	421201221	Dafna		locality	1
 12325	1209015975	Tuval		locality	1
+12900	1276562851	Qatzrin		locality	1
 14100	421180789	Teverya		locality	1
 14950	421192459	Migdal		locality	1
 16161	421175077	Nazareth		locality	2
 31064	421168693	Haifa		locality	1
 32203	421168693	Haifa		locality	1
+33855	421168693	Haifa		locality	1
 34001	421168693	Haifa		locality	1
 34455	421168693	Haifa		locality	1
 36810	421178939	Nesher		locality	2
 38428	421202397	Hedora		locality	4
 42202	421182059	Netanya		locality	1
+42347	421182059	Netanya		locality	1
+42845	421192455	Hadass		locality	1
 43557	421169469	Ra‘anana		locality	1
 46621	421174879	Taba		locality	1
 49950	421175081	Nehalim		locality	1
 53100	421177425	Giv‘atayim		locality	1
+54409	421168681	Jerusalem		locality	1
 58404	421179743	Holon		locality	1
 58505	421179743	Holon		locality	1
+58672	421179743	Holon		locality	1
 61083	1125955239	Tel Aviv		locality	1
-61084	1125955239	Tel Aviv		locality	1
 61163	1125955239	Tel Aviv		locality	1
 61501	1125955239	Tel Aviv		locality	1
 62382	1125955239	Tel Aviv		locality	1
@@ -25,11 +31,12 @@
 63405	1125955239	Tel Aviv		locality	1
 63453	1125955239	Tel Aviv		locality	1
 64239	1125955239	Tel Aviv		locality	1
-64731	1125955239	Tel Aviv		locality	4
+64731	1125955239	Tel Aviv		locality	1
 64733	1125955239	Tel Aviv		locality	1
 65206	1125955239	Tel Aviv		locality	1
 68037	1125955239	Tel Aviv		locality	1
 68125	1125955239	Tel Aviv		locality	2
+69513	1125955239	Tel Aviv		locality	1
 77452	421175859	Ashdod Yam		locality	1
 78100	1125842083	Ashquelon		locality	1
 78503	1125842083	Ashquelon		locality	1
@@ -37,7 +44,8 @@
 85360	1293403899	Mabbu`im		locality	1
 85545	1343575013	Telalim		locality	1
 86815	421204711	Hatzeva		locality	1
-88000	421200307	Eilat		locality	1
+88000	421200307	Eilat		locality	2
+88104	421200307	Eilat		locality	1
 88112	421200307	Eilat		locality	1
 91004	421168681	Jerusalem		locality	1
 91008	421168681	Jerusalem		locality	2
@@ -60,9 +68,13 @@
 1029200	421203903	Metula		locality	7
 1080300	421182597	Nir David		locality	1
 1222500	421172231	HaGoshrim		locality	10
+1292000	1310519679	Haspin		locality	1
 1311502	421204749	Sfat		locality	1
 1529500	1243265749	Mizpa		locality	1
+1710801	421204713	Nazareth Illit		locality	8
 1756103	421175077	Nazareth		locality	1
+1789064	421204713	Nazareth Illit		locality	1
+1789089	421204713	Nazareth Illit		locality	1
 1839010	421174085	Afule		locality	1
 2017600	421170907	Avtalion		locality	1
 2104302	1125841901	Tarchiha		locality	1
@@ -73,12 +85,21 @@
 2195106	421167851	Carmiel		locality	1
 2196024	421167851	Carmiel		locality	1
 2220903	421187755	Nahariya		locality	5
+2235813	421187755	Nahariya		locality	1
+2304923	421198933	Magidal		locality	2
+2306990	421198933	Magidal		locality	1
 2307037	421192459	Migdal		locality	1
 2350827	421192459	Migdal		locality	1
+2353401	421192459	Migdal		locality	1
+2431106	421202497	Akre		locality	1
 2451308	421202497	Akre		locality	1
 2628858	421168693	Haifa		locality	1
+2630050	421168693	Haifa		locality	1
 3006500	421173409	Yagur		locality	16
+3056502	421200973	Binyamina		locality	1
+3057703	421200973	Binyamina		locality	4
 3085000	421200779	tzrufa		locality	14
+3268341	421168693	Haifa		locality	1
 3269702	421168693	Haifa		locality	6
 3280802	421168693	Haifa		locality	1
 3341231	421168693	Haifa		locality	1
@@ -88,27 +109,38 @@
 3501321	421168693	Haifa		locality	1
 3522321	421168693	Haifa		locality	1
 3559134	421168693	Haifa		locality	1
+3657700	421192327	Alonim		locality	1
 3688520	421178939	Nesher		locality	1
+3786800	1193143145	Qazir		locality	1
+3844415	421202397	Hedora		locality	1
 3884500	1276769127	Maggal		locality	2
 3955022	421176929	Tirat Hakarmel		locality	1
-4210001	421182059	Netanya		locality	1
+4082027	1276550549	El`ad		locality	1
 4224204	421182059	Netanya		locality	1
 4224206	421182059	Netanya		locality	1
+4246382	421182059	Netanya		locality	1
 4249330	421182059	Netanya		locality	1
 4250519	421182059	Netanya		locality	1
+4250609	421182059	Netanya		locality	1
 4250708	421182059	Netanya		locality	1
 4282300	421182385	Zoran		locality	1
+4283000	1360088287	Tenuvot		locality	1
+4334522	421169469	Ra‘anana		locality	2
 4335107	421169469	Ra‘anana		locality	1
 4335234	421169469	Ra‘anana		locality	1
 4335439	421169469	Ra‘anana		locality	1
 4343310	421169469	Ra‘anana		locality	1
 4352450	421169469	Ra‘anana		locality	1
 4353404	421169469	Ra‘anana		locality	1
+4528276	421202395	Hod HaSharon		locality	1
+4624802	421174205	Hertsliyah		locality	1
 4642261	421174205	Hertsliyah		locality	1
 4648528	421174205	Hertsliyah		locality	2
+4651107	421174205	Hertsliyah		locality	1
 4664915	421174205	Hertsliyah		locality	1
-5120261	421190661	Bnei Brak		locality	1
-5158103	1226449895	Baraq		locality	1
+4672415	421174205	Hertsliyah		locality	1
+4945138	421202049	Petah Tikva		locality	1
+5325707	421177425	Giv‘atayim		locality	1
 5804543	890428211	Yazir		locality	1
 5829212	421179743	Holon		locality	1
 5832337	421179743	Holon		locality	1
@@ -119,17 +151,27 @@
 5850903	421179743	Holon		locality	1
 5850905	421179743	Holon		locality	1
 5850907	421179743	Holon		locality	1
-6019000	421199517	Yehud		locality	2
-6340506	1125955239	Tel Aviv		locality	1
+6019000	421199517	Yehud		locality	8
+6094600	1209228667	Bizzaron		locality	1
+6340506	1125955239	Tel Aviv		locality	2
 6473804	1125955239	Tel Aviv		locality	1
 6511604	1125955239	Tel Aviv		locality	1
 6511609	1125955239	Tel Aviv		locality	1
+6652434	1125955239	Tel Aviv		locality	1
 6775393	1125955239	Tel Aviv		locality	1
 6803608	1125955239	Tel Aviv		locality	1
+6811155	1125955239	Tel Aviv		locality	1
+6811156	1125955239	Tel Aviv		locality	1
 7147308	421187757	Lod		locality	1
+7173709	1259496235	Modiin		locality	1
 7177657	1259496235	Modiin		locality	2
+7627603	421191583	Rehovot		locality	1
+7646016	421191583	Rehovot		locality	2
+7683400	1276670737	Sitriyya		locality	1
 7742202	421175859	Ashdod Yam		locality	3
+7745258	421175859	Ashdod Yam		locality	1
 7745273	421175859	Ashdod Yam		locality	1
+7745646	421175859	Ashdod Yam		locality	3
 7748611	421175859	Ashdod Yam		locality	1
 7751619	421175859	Ashdod Yam		locality	1
 7757320	421175859	Ashdod Yam		locality	1
@@ -145,18 +187,28 @@
 8535700	1209328547	Rahat		locality	1
 8681500	421204711	Hatzeva		locality	3
 8682500	421192685	Sapir		locality	3
+8684000	1343570755	`Iddan		locality	2
 8882000	421192469	Yotvata		locality	1
 9100902	421168681	Jerusalem		locality	1
 9107202	421168681	Jerusalem		locality	1
 9108402	421168681	Jerusalem		locality	1
+9114001	421168681	Jerusalem		locality	1
+9119001	421168681	Jerusalem		locality	1
 9214423	421168681	Jerusalem		locality	1
 9214705	421168681	Jerusalem		locality	1
 9218812	421168681	Jerusalem		locality	1
 9219005	421168681	Jerusalem		locality	1
+9313099	421168681	Jerusalem		locality	1
 9323008	421168681	Jerusalem		locality	1
 9338556	421168681	Jerusalem		locality	1
+9350004	421168681	Jerusalem		locality	1
+9355223	421168681	Jerusalem		locality	1
 9362522	421168681	Jerusalem		locality	1
+9378322	421168681	Jerusalem		locality	1
 9419008	421168681	Jerusalem		locality	1
 9426222	421168681	Jerusalem		locality	1
+9546105	421168681	Jerusalem		locality	1
+9546522	421168681	Jerusalem		locality	1
 9695102	421168681	Jerusalem		locality	1
 9711769	421168681	Jerusalem		locality	1
+97240105	421168691	Ramla		locality	1

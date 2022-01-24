@@ -1,9 +1,13 @@
-965	421190475	Salmiya		locality	1
-965	421189403	Al Manqaf		locality	1
+965	421190475	Abu Fateira		locality	1
+965	421189403	Manqaf		locality	1
+3000	421172941	Hawally		locality	1
+13001	421202465	Kuwait City		locality	1
 13009	421202465	Kuwait City		locality	2
-30000	1141906111	Hawalli		locality	1
-30007	421190475	Salmiya		locality	2
-54001	890430377	Al Mahbūlah		locality	1
+30000	421172941	Hawally		locality	1
+30007	421190475	Abu Fateira		locality	2
+32001	421202689	Bayan		locality	1
+54001	421184441	Mahboula		locality	2
 55000	421202465	Kuwait City		locality	1
 64058 Al Shuwaikh,70451	421202465	Kuwait City		locality	1
-15549979	421190475	Salmiya		locality	1
+600001	421190381	Ahmadi		locality	1
+15549979	421190475	Abu Fateira		locality	1
