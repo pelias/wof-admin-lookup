@@ -6,7 +6,7 @@ CP 55100	1125983085	Cienfuegos		locality	1
 90	1125952325	Santiago de Cuba		locality	1
 95-100	1125983077	Guantánamo		locality	2
 01010	421169359	Viñales		locality	1
-1400	1125939059	Havana		locality	1
+1400	421186583	Havana		locality	1
 2300	1125785267	Sancti Spíritus		locality	1
 2400	421169359	Viñales		locality	1
 3502	1125983085	Cienfuegos		locality	1
@@ -14,49 +14,50 @@ CP 55100	1125983085	Cienfuegos		locality	1
 10000	1125939059	Havana		locality	2
 10055	1125939059	Havana		locality	1
 10100	1125939059	Havana		locality	25
-10200	1125939059	Havana		locality	9
+10200	1125939059	Havana		locality	10
 10200	1310419825	Sandino		locality	3
 10200	1125785267	Sancti Spíritus		locality	1
 10249	1125939059	Havana		locality	1
-10300	1125939059	Havana		locality	4
+10300	1125939059	Havana		locality	17
 10303	1125939059	Havana		locality	1
 10308	1125939059	Havana		locality	1
-10400	1125939059	Havana		locality	126
-10400	421186583	Havana		locality	3
-10400	1125983085	Cienfuegos		locality	2
+10400	421186583	Havana		locality	164
+10400	1125983085	Cienfuegos		locality	1
 10400	421180739	Santa Cruz del Norte		locality	1
 10500	1125939059	Havana		locality	5
-10600	1125939059	Havana		locality	8
+10600	1125939059	Havana		locality	9
 10700	1125939059	Havana		locality	2
-10800	1125939059	Havana		locality	1
+10800	1125939059	Havana		locality	4
 10900	421192023	Guanabo		locality	1
 10900	1125939059	Havana		locality	1
 11000	1344194501	Barrio Obrero		locality	1
 11000	1125939059	Havana		locality	1
 11000	1242690701	La Rosalia		locality	1
 11100	1125939059	Havana		locality	50
-11200	1259714467	Regla		locality	2
 11200	1125939059	Havana		locality	1
-11300	1125939059	Havana		locality	16
-11309	1125939059	Havana		locality	1
-11600	1125939059	Havana		locality	2
-11649	1125939059	Havana		locality	1
-12000	1125939059	Havana		locality	1
-12100	1125939059	Havana		locality	11
+11200	1259714467	Regla		locality	1
+11300	421186583	Havana		locality	18
+11309	421186583	Havana		locality	1
+11500	1125939059	Havana		locality	2
+11600	421186583	Havana		locality	2
+11649	421186583	Havana		locality	1
+12000	1125939059	Havana		locality	7
+12100	421186583	Havana		locality	13
 12200	421188379	Jaimanitas		locality	1
 12800	1125939059	Havana		locality	1
 13200	1125939059	Havana		locality	1
 13400	1125939059	Havana		locality	1
-14000	1125939059	Havana		locality	2
+14000	421186583	Havana		locality	2
+19100	421186583	Havana		locality	1
 19101	421186583	Havana		locality	1
 19220	1125939059	Havana		locality	2
 19298	890434851	Santiago de las Vegas		locality	1
-19340	1125939059	Havana		locality	1
+19340	421186583	Havana		locality	1
 20100	890442079	Pinar del Río		locality	2
-21016	1125939059	Havana		locality	1
+21016	421186583	Havana		locality	1
 22300	1343771619	La Sabana		locality	1
-22400	421169359	Viñales		locality	75
-22400	890442079	Pinar del Río		locality	3
+22400	421169359	Viñales		locality	80
+22400	890442079	Pinar del Río		locality	4
 22400	1277001887	Santa Marta		locality	1
 22900	890435775	Los Palacios		locality	2
 23000	421176205	Consolación del Sur		locality	1
@@ -64,27 +65,32 @@ CP 55100	1125983085	Cienfuegos		locality	1
 24520	1310222843	La Coloma		locality	65
 25100	890442087	Nueva Gerona		locality	7
 27200	1326636155	La Fe		locality	2
-30331	1125939059	Havana		locality	1
+30331	421186583	Havana		locality	1
 30600	1125785271	Artemisa		locality	1
-32600	890434875	Bejucal		locality	18
+32400	1125785271	Artemisa		locality	1
+32400	421177477	Playa Baracoa		locality	1
+32600	890434875	Bejucal		locality	19
 32900	421180739	Santa Cruz del Norte		locality	1
 33300	1343976807	Melena del Sur		locality	1
-33500	421199331	Quivicán		locality	9
+33500	421199331	Quivicán		locality	20
 33500	890438801	La Salud		locality	1
 33800	1125785271	Artemisa		locality	1
 33800	421178095	Cayajabos		locality	1
 37210	1226052281	Las Terrazas		locality	2
-40100	890442091	Matanzas		locality	11
+38100	890442093	Holguín		locality	1
+40100	890442091	Matanzas		locality	61
 40100	890451709	Pedro Betancourt		locality	4
-40100	1259390147	Torriente		locality	1
+40119	890442091	Matanzas		locality	1
 40200	890442091	Matanzas		locality	1
+41100	890442091	Matanzas		locality	2
 42110	890451715	Cárdenas		locality	3
-42200	421201285	Varadero		locality	22
+42200	421201285	Varadero		locality	31
+42200	1277001887	Santa Marta		locality	1
 42400	890444801	Colón		locality	1
 42700	890451709	Pedro Betancourt		locality	3
 42700	1259594929	Cuba Libre		locality	1
 42800	1343370675	Limonar		locality	1
-43000	890432593	Playa Larga		locality	13
+43000	890432593	Playa Larga		locality	15
 44170	1309811059	Boca de Camarioca		locality	2
 44170	1193139319	Carbonera		locality	1
 44170	890442091	Matanzas		locality	1
@@ -92,9 +98,9 @@ CP 55100	1125983085	Cienfuegos		locality	1
 44190	421201285	Varadero		locality	1
 44500	890429555	Jagüey Grande		locality	1
 44510	890431409	Playa Girón		locality	5
+44789	421186583	Havana		locality	1
 50100	890444793	Santa Clara		locality	25
 50100	1193248097	Matagua		locality	1
-50100	421176085	Placetas		locality	1
 50200	890444793	Santa Clara		locality	1
 50404	890444793	Santa Clara		locality	1
 52310	890442077	Sagua La Grande		locality	2
@@ -104,73 +110,82 @@ CP 55100	1125983085	Cienfuegos		locality	1
 52700	890434865	Remedios		locality	5
 52800	421176085	Placetas		locality	2
 53100	890434867	Ranchuelo		locality	2
+54200	1276195369	Camajuani		locality	1
 54290	1226027003	San Antonio de las Vueltas		locality	2
-54590	1209597441	Jibacoa		locality	2
-55100	1125983085	Cienfuegos		locality	73
+54540	421199327	Esperanza		locality	2
+54590	1209597441	Jibacoa		locality	1
+55100	1125983085	Cienfuegos		locality	79
 55100	1242679643	El Cuba		locality	1
 55108	1125983085	Cienfuegos		locality	1
 55400	1125983085	Cienfuegos		locality	2
 57200	1293779515	Cartagena		locality	1
-57300	421192705	Palmira		locality	49
-57600	421202823	Cumanayagua		locality	2
+57300	421192705	Palmira		locality	50
+57600	421202823	Cumanayagua		locality	3
 60100	1125785267	Sancti Spíritus		locality	5
-60200	1141907587	Sancti Spíritus		locality	180
-62100	421179077	Yaguajay		locality	7
+60200	1141907587	Sancti Spíritus		locality	181
+60200	1125785267	Sancti Spíritus		locality	1
+62100	421179077	Yaguajay		locality	8
 62100	1360256137	Meneses		locality	1
+62200	890441873	Jatibonico		locality	1
 62500	421202963	Fomento		locality	3
-62600	421201289	Trinidad		locality	424
+62600	421201289	Trinidad		locality	432
+62600	1209197917	La Boca		locality	15
 62600	1243437783	Casilda		locality	12
-62600	1209197917	La Boca		locality	11
 64300	1243437783	Casilda		locality	3
 64310	890429307	Topes de Collantes		locality	8
 65100	1125983095	Ciego de Ávila		locality	3
 65103	1141906521	Ciego de Ávila		locality	1
 65200	1243384815	La Cuba		locality	1
-67100	421181935	Chambas		locality	1
-67210	890442089	Morón		locality	1
-70100	1141908619	Camagüey		locality	16
+67100	421181935	Chambas		locality	2
+67210	890442089	Morón		locality	2
+69110	1309733029	Maximo Gomez		locality	1
+70100	1141908619	Camagüey		locality	17
 70200	1125983109	Camagüey		locality	3
 70300	1141908619	Camagüey		locality	1
 70700	1125983109	Camagüey		locality	1
 71300	1125983109	Camagüey		locality	4
-72810	890434873	Florida		locality	3
+72810	890434873	Florida		locality	8
 74100	1276232573	Piedrecitas		locality	2
 74250	1260206473	Playa Santa Lucia		locality	1
 74650	1141908619	Camagüey		locality	1
 75100	890444797	Las Tunas		locality	7
 75200	890444797	Las Tunas		locality	1
+77210	421180213	Puerto Padre		locality	2
 77300	1310181575	Jesus Menendez		locality	1
 77700	1259769523	Amancio		locality	1
-80100	890442093	Holguín		locality	9
+80100	890442093	Holguín		locality	20
 80500	890442093	Holguín		locality	1
 82100	890440889	Gibara		locality	10
-82200	1276320635	Santa Lucia		locality	5
+82200	1276320635	Santa Lucia		locality	7
 82200	890442093	Holguín		locality	2
-82300	421204151	Samá		locality	122
-82300	890440189	Banes		locality	2
+82300	421204151	Samá		locality	204
+82300	890440189	Banes		locality	4
 82300	1226222269	Canadon		locality	1
 82800	1344133991	San German		locality	1
 83000	421195369	Mayarí		locality	4
 83100	1209602375	Cayo Mambi		locality	1
 83300	421204443	Moa		locality	1
-83320	421204443	Moa		locality	11
+83320	421204443	Moa		locality	10
 83330	421204443	Moa		locality	2
 84170	1209903325	Guardalavaca		locality	3
-85100	890430271	Bayamo		locality	10
-85300	890430271	Bayamo		locality	1
+84200	890440889	Gibara		locality	2
+85100	890430271	Bayamo		locality	11
+85300	890430271	Bayamo		locality	6
+87100	890430271	Bayamo		locality	1
 87300	1310401573	Minas Sun		locality	11
 87300	1209689025	Las Minas		locality	8
-87510	421174741	Manzanillo		locality	11
+87510	421174741	Manzanillo		locality	12
 87600	421174741	Manzanillo		locality	1
 87800	890434869	Niquero		locality	2
 87900	421174739	Pilón		locality	2
 88000	1259773095	Bartolome Maso		locality	1
 88100	1276538541	Buey Arriba		locality	11
-90100	1125952325	Santiago de Cuba		locality	32
+90100	1125952325	Santiago de Cuba		locality	41
 90107	1125952325	Santiago de Cuba		locality	1
+90109	1125952325	Santiago de Cuba		locality	1
 90300	1125952325	Santiago de Cuba		locality	2
 90400	1125952325	Santiago de Cuba		locality	2
-90900	1125952325	Santiago de Cuba		locality	5
+90900	1125952325	Santiago de Cuba		locality	6
 92100	890444807	Contramaestre		locality	1
 92610	890442083	Palma Soriano		locality	5
 92800	1259566205	Chivirico		locality	1
@@ -178,7 +193,8 @@ CP 55100	1125983085	Cienfuegos		locality	1
 95100	1125983077	Guantánamo		locality	3
 95100	1141908621	Guantánamo		locality	1
 95400	1141908621	Guantánamo		locality	1
-97310	890434877	Baracoa		locality	20
+97310	890434877	Baracoa		locality	23
 97500	1242761559	Imias		locality	1
 120122	421192023	Guanabo		locality	1
+120122	1125939059	Havana		locality	1
 230901	1125939059	Havana		locality	1

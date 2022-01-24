@@ -1,78 +1,95 @@
 003	1293629871	Miliana		locality	1
+07.000	421195721	Biskra		locality	1
+40.000	1310537379	Khenchela		locality	1
+0100	1141909121	Adrar		locality	1
+123	890440141	Touggourt		locality	3
 332	421195271	Ghardaïa		locality	1
 0400	890444477	Oum El Bouaghi		locality	1
 01000	1141909121	Adrar		locality	20
-01000	421196119	Adrar		locality	8
+01000	421196119	Adrar		locality	10
 1001	890436901	Timimoun		locality	1
-01003	890437127	Aoulef		locality	15
+01003	890437127	Aoulef		locality	24
 1003	890437127	Aoulef		locality	1
 1004	890440309	Reggane		locality	1
-1101	1141909397	Tamanrasset		locality	1
+1101	1141909397	Tamanrasset		locality	3
+01200	890440309	Reggane		locality	4
 1900	421196001	Sétif		locality	1
-02000	1141908235	Chlef		locality	63
-02006	1309840639	Tenes		locality	10
+02000	1141908235	Chlef		locality	64
+02006	1309840639	Tenes		locality	11
 02007	1141908235	Chlef		locality	1
 02011	421180377	Oued Sly		locality	1
 02017	1326664551	Beni Haoua		locality	2
 02025	1259517053	Sendjas		locality	3
-02100	421178863	Oued Fodda		locality	23
+02100	421178863	Oued Fodda		locality	20
 02200	1309840639	Tenes		locality	1
 2600	1125915099	Médéa		locality	1
-03000	890444485	Laghouat		locality	9
+03000	890444485	Laghouat		locality	11
 3000	890444479	Ouargla		locality	1
+03002	890444485	Laghouat		locality	1
 03016	890444485	Laghouat		locality	1
-03300	1225899715	Hassi R’mel		locality	1
-04000	890444477	Oum El Bouaghi		locality	299
+3600	1326761495	El Tarf		locality	1
+3900	1141908231	El Oued		locality	7
+04000	890444477	Oum El Bouaghi		locality	398
 04000	1243214549	Ain M'Lila		locality	1
 04006	890432341	Aïn Kercha		locality	1
-04018	1277020753	Ksar Sbahi		locality	16
+04018	1277020753	Ksar Sbahi		locality	17
 04020	1343708851	'Ain Babouche		locality	19
 04200	421177627	Aïn Beïda		locality	3
 4400	1209255317	Ain Defla		locality	1
 4600	890432335	Aïn Témouchent		locality	1
-05000	421175991	Batna City		locality	144
-05001	1125881741	Barika		locality	10
+05000	421175991	Batna City		locality	147
+05000	1125881741	Barika		locality	1
+05001	1125881741	Barika		locality	13
 05010	421175991	Batna City		locality	1
+05011	421178261	Castra Lambaesis		locality	1
+05041	1276443879	Bouzina		locality	15
 05057	1343673385	Boumagueur		locality	2
 05066	1293246649	Slimane		locality	2
+05300	421178865	Merouana		locality	1
 05400	1125881741	Barika		locality	6
-06000	890444495	Béjaïa		locality	78
+06000	890444495	Béjaïa		locality	48
+06000	421189565	Bejaia		locality	12
 06001	421198999	Akbou		locality	1
+06001	890444495	Béjaïa		locality	1
 06003	421178269	El-Kseur		locality	1
 06005	1226208613	Sidi Aich		locality	8
 06006	1344231097	Tazmalt		locality	2
-06007	1242640725	Aokas		locality	1
 06008	421200183	Amizour		locality	1
 06010	1309985071	Tigrine		locality	3
+06011	421198661	Seddouk		locality	1
 06019	1276617225	Akabiou		locality	6
-06020	1243247047	Semaoun		locality	3
+06020	1276943593	Semaoune		locality	3
 06022	421178273	Chemini		locality	4
-06028	890444495	Béjaïa		locality	1
 06037	1276617181	Tinebdar		locality	4
 06074	421189373	Kherrata		locality	1
-06084	1276943593	Semaoune		locality	1
-06087	1226832491	Tibane		locality	4
+06084	1276943593	Semaoune		locality	2
+06087	1226832491	Tibane		locality	2
 06115	1243031225	Ait Maamar		locality	3
 06200	421198999	Akbou		locality	1
-06300	421200183	Amizour		locality	39
+06300	421200183	Amizour		locality	52
 06300	890444495	Béjaïa		locality	2
 06310	421178269	El-Kseur		locality	4
 06600	421189373	Kherrata		locality	3
 06612	421177877	Souk El-Thenine		locality	1
-07000	1141909131	Biskra		locality	21
-07015	421195721	Biskra		locality	1
-07034	1209778149	Mekhadma		locality	7
+07000	1141909131	Biskra		locality	78
+07007	1243137671	Doucen		locality	1
+07015	421195721	Biskra		locality	17
+07034	1209778149	Mekhadma		locality	5
 07086	1141909131	Biskra		locality	1
 07300	421168191	Tolga		locality	12
+07400	1327468177	Djellal		locality	1
+07410	1243137671	Doucen		locality	1
 07430	421195721	Biskra		locality	1
-08000	1125915287	Béchar		locality	20
-08000	1141909123	Béchar		locality	17
+08000	1141909123	Béchar		locality	18
+08000	1125915287	Béchar		locality	17
 8000	1141909123	Béchar		locality	1
-08011	1343996611	Kenadsa		locality	9
-09000	1141908243	Blida		locality	260
+08011	1343996611	Kenadsa		locality	8
+09000	421189567	Blida		locality	257
+09000	1141908243	Blida		locality	15
 09000	1293323243	Ouled Aiche		locality	2
 09000	1242570169	Sidi Moussa		locality	1
 09001	421185647	Boufarik		locality	1
+09008	421167727	Bougara		locality	2
 09011	421197479	El Affroun		locality	9
 09025	421205385	Chiffa		locality	5
 09100	1293323243	Ouled Aiche		locality	61
@@ -84,102 +101,111 @@
 09350	421167727	Bougara		locality	1
 09400	421185647	Boufarik		locality	1
 09450	890437157	Bouïnian		locality	3
-10000	421168285	Bouïra		locality	75
+09480	1226711721	Guerrouaou		locality	3
+10000	421168285	Bouïra		locality	82
 10001	421168285	Bouïra		locality	2
-10022	1141908245	Bouïra		locality	1
+10006	1260256659	Kadiria		locality	1
 10089	1293828765	Taghzout		locality	1
 10089	1141908245	Bouïra		locality	1
-11000	1141909397	Tamanrasset		locality	15
-12000	1360039471	Tébessa		locality	13
+10100	421168285	Bouïra		locality	1
+11000	1141909397	Tamanrasset		locality	30
+11009	1141909397	Tamanrasset		locality	2
+12000	1360039471	Tébessa		locality	145
 12002	890432329	Cheria		locality	4
-12005	890434657	El Aouinet		locality	1
-12016	890436703	Hammamet		locality	8
+12016	890436703	Hammamet		locality	2
 12200	890432331	Bir el-Ater		locality	1
 12815	1277028429	Ben S'Rour		locality	1
-13000	890440143	Tlemcen		locality	53
+13000	890440143	Tlemcen		locality	50
 13000	890432327	Chetouane		locality	1
-13002	1243041161	Ghazaouet		locality	1
+13001	1293766565	Maghnia		locality	1
+13002	1243041161	Ghazaouet		locality	3
 13004	1125915113	Nedroma		locality	1
 13006	421170775	Sebdou		locality	4
-13009	421200241	Hennaya		locality	4
+13009	421200241	Hennaya		locality	5
 13012	1327216587	'Ain Tellout		locality	2
 13190	1125915077	Sidi Abdelli		locality	1
-13300	1293766565	Maghnia		locality	11
-13430	1243041161	Ghazaouet		locality	1
-13600	1125915113	Nedroma		locality	3
-14000	1310184551	Tiaret		locality	89
+13300	1293766565	Maghnia		locality	9
+13600	1125915113	Nedroma		locality	2
+14000	1310184551	Tiaret		locality	73
 14013	1326506635	Medrissa		locality	1
 14200	1125914865	Sougueur		locality	2
 14400	890434649	Frenda		locality	1
-15000	1277156047	Tizi Ouzou		locality	82
-15002	1277156047	Tizi Ouzou		locality	1
-15012	421178867	Freha		locality	1
+15000	1277156047	Tizi Ouzou		locality	78
+15002	421189585	Tizi Ouzou		locality	1
+15005	421173953	Draâ El Mizan		locality	1
+15012	421178867	Freha		locality	2
 15019	1209799057	Tigzirt		locality	5
 15022	1125788759	Aghrib		locality	17
 15029	1277156047	Tizi Ouzou		locality	1
 15041	890437139	Makouda		locality	3
 15042	1276746725	Mechtras		locality	1
-15100	421167723	Draâ Ben Khedda		locality	4
+15088	1343335469	Ait Hichem		locality	1
+15100	421167723	Draâ Ben Khedda		locality	3
 15144	1293767075	Tala Atmane		locality	1
 15191	1277156047	Tizi Ouzou		locality	3
 15300	421198997	Azazga		locality	1
 15340	421178867	Freha		locality	2
 15341	1243342285	Tamda		locality	1
-15621	1141906187	Tizi Ouzou		locality	2
+15621	421189585	Tizi Ouzou		locality	2
 15622	1226113179	Akaoudj		locality	3
 15623	1209298019	Djebla		locality	3
-15630	890429575	Boudjima		locality	5
-15631	890429575	Boudjima		locality	1
-16000	421174649	Algiers		locality	27
+15630	890429575	Boudjima		locality	4
+16000	421174649	Algiers		locality	33
+16000	1293237781	El Achour		locality	6
+16000	1276695487	Deli Ibrahim		locality	3
 16000	1276909149	Draria		locality	2
 16000	421174925	'Ain Benian		locality	1
 16000	421185651	Bab Ezzouar		locality	1
 16000	1293328709	Baba Ali		locality	1
 16000	1243488705	Baba Hassen		locality	1
 16000	421174317	Chéraga		locality	1
+16000	1226751727	Oued Smar		locality	1
+16000	421175989	Staouéli		locality	1
 16001	421174649	Algiers		locality	1
-16002	421174317	Chéraga		locality	8
-16002	421174649	Algiers		locality	1
+16002	421174317	Chéraga		locality	7
+16002	421174649	Algiers		locality	2
 16005	421174649	Algiers		locality	1
-16006	421194227	Rouïba		locality	1
+16006	421194227	Rouïba		locality	5
 16007	421174649	Algiers		locality	2
 16009	421174649	Algiers		locality	1
 16010	421174649	Algiers		locality	1
 16011	421174649	Algiers		locality	1
-16012	421194227	Rouïba		locality	17
+16012	421194227	Rouïba		locality	18
 16012	421174649	Algiers		locality	1
 16012	421167725	Dar El Beïda		locality	1
 16013	421194227	Rouïba		locality	3
-16013	421174649	Algiers		locality	2
+16013	421174649	Algiers		locality	1
 16014	421174317	Chéraga		locality	1
-16014	421174649	Algiers		locality	1
 16016	421174649	Algiers		locality	2
 16018	421174925	'Ain Benian		locality	1
 16021	421174649	Algiers		locality	1
 16022	421174649	Algiers		locality	1
-16029	421174649	Algiers		locality	2
+16029	421174649	Algiers		locality	1
 16031	421174321	Bordj El Kiffan		locality	2
 16032	421178263	Réghaïa		locality	2
-16033	421167725	Dar El Beïda		locality	1
 16033	421174649	Algiers		locality	1
+16033	421167725	Dar El Beïda		locality	1
 16035	421174649	Algiers		locality	1
 16037	421174649	Algiers		locality	1
 16040	421174649	Algiers		locality	1
 16042	421185651	Bab Ezzouar		locality	2
 16044	421174649	Algiers		locality	1
 16045	1326761293	Birtouta		locality	2
+16046	1192983373	El Bordj		locality	3
 16046	421174649	Algiers		locality	1
-16046	421172707	Bordj El Bahri		locality	1
-16046	1192983373	El Bordj		locality	1
 16050	1276909149	Draria		locality	2
 16053	421174649	Algiers		locality	9
+16054	1292917683	Bourouba		locality	1
 16057	1226751727	Oued Smar		locality	1
-16058	421174649	Algiers		locality	4
+16058	421174649	Algiers		locality	5
+16058	421174321	Bordj El Kiffan		locality	1
 16062	421175989	Staouéli		locality	1
 16063	421202325	Zéralda		locality	1
+16065	421193211	Birkhadem		locality	2
 16070	421174649	Algiers		locality	1
-16081	1243488705	Baba Hassen		locality	2
+16070	1276695487	Deli Ibrahim		locality	1
 16081	421174925	'Ain Benian		locality	1
+16081	1243488705	Baba Hassen		locality	1
 16084	1327470293	La Trappe		locality	1
 16084	1327262655	Ouled Fayet		locality	1
 16094	1327262655	Ouled Fayet		locality	24
@@ -188,6 +214,7 @@
 16100	421194227	Rouïba		locality	4
 16100	421174649	Algiers		locality	3
 16101	421175989	Staouéli		locality	1
+16104	421193211	Birkhadem		locality	8
 16104	1293237781	El Achour		locality	1
 16120	421174649	Algiers		locality	1
 16130	421174649	Algiers		locality	1
@@ -196,7 +223,9 @@
 16200	1309944363	El Harrach		locality	1
 16202	421174925	'Ain Benian		locality	1
 16205	421174649	Algiers		locality	1
+16210	421173951	Baraki		locality	1
 16211	421174649	Algiers		locality	1
+16230	1292917683	Bourouba		locality	17
 16300	1276909149	Draria		locality	1
 16302	1276695487	Deli Ibrahim		locality	1
 16307	421174649	Algiers		locality	1
@@ -204,152 +233,191 @@
 16309	1226751727	Oued Smar		locality	1
 16311	421185651	Bab Ezzouar		locality	1
 16312	421174649	Algiers		locality	1
+16320	1276695487	Deli Ibrahim		locality	1
 16330	421193211	Birkhadem		locality	1
 16330	1210025927	El Hamiz		locality	1
+16340	421178869	El Abadia		locality	1
 16403	1293237781	El Achour		locality	1
 16411	421174321	Bordj El Kiffan		locality	2
 16600	421174649	Algiers		locality	1
-17000	1141909133	Djelfa		locality	53
-17001	421178875	Aïn Oussera		locality	8
+17000	1141909133	Djelfa		locality	55
+17001	421178875	Aïn Oussera		locality	7
 17002	1310669617	Hassi Bahbah		locality	37
 17003	421199005	Messaâd		locality	1
-17014	421199003	Birine		locality	1
+17008	1141909133	Djelfa		locality	2
+17014	421199003	Birine		locality	2
 17015	890437151	Charef		locality	1
 17020	890434653	El Idrissia		locality	2
-17200	421178875	Aïn Oussera		locality	2
+17200	421178875	Aïn Oussera		locality	3
+17200	421199003	Birine		locality	1
 17400	421199005	Messaâd		locality	1
 18000	1141906181	Jijel		locality	11
 18001	1209472861	El Milia		locality	1
 18002	1326698347	Taher		locality	8
+18005	1326698347	Taher		locality	1
 18113	1327391879	Arago		locality	1
-19000	421196001	Sétif		locality	47
-19000	1141909135	Sétif		locality	4
-19007	1276213961	'Ain Azel		locality	2
-19013	421178857	Salah Bey		locality	1
-19058	1225924113	'Ain el Kebira		locality	1
-19066	1259960023	Hammam Sokhna		locality	1
-19066	1326458797	Hammam		locality	1
+19000	421196001	Sétif		locality	59
+19000	1141909135	Sétif		locality	2
+19001	421176617	El Eulma		locality	6
+19002	1293864027	Ain Oulmene		locality	1
+19007	1276213961	'Ain Azel		locality	1
+19120	421196001	Sétif		locality	1
 19200	1141909135	Sétif		locality	1
 19400	1225924113	'Ain el Kebira		locality	3
-19600	421176617	El Eulma		locality	27
-20000	890444469	Saïda		locality	2
-20002	890444469	Saïda		locality	3
+19600	421176617	El Eulma		locality	28
+20000	890444469	Saïda		locality	3
+20002	890444469	Saïda		locality	2
 20100	421172101	Aïn El Hadjar		locality	1
 21000	421169023	Skikda		locality	20
 21000	421178863	Oued Fodda		locality	1
 21001	890417881	Azzaba		locality	1
-21005	421180069	Tamalous		locality	106
+21005	421180069	Tamalous		locality	109
+21012	1292935085	Azakour		locality	1
+21017	421169023	Skikda		locality	1
 21022	1193174013	Salah Bouchaour		locality	31
 21200	1226278941	Collo		locality	1
-21300	890417881	Azzaba		locality	8
-22000	421169025	Sidi Bel Abbes		locality	17
-23000	890440139	Annaba		locality	44
-23014	1310339945	Chetaibi		locality	29
+21300	890417881	Azzaba		locality	10
+22000	421169025	Sidi Bel Abbes		locality	22
+22007	1260242223	Telagh		locality	3
+23000	890440139	Annaba		locality	54
+23000	421189563	Annaba		locality	42
+23000	890439959	Constantine		locality	1
+23005	890440139	Annaba		locality	1
+23014	1310339945	Chetaibi		locality	27
 23016	890440139	Annaba		locality	2
-23130	1310339945	Chetaibi		locality	8
-24000	1125915157	Guelma		locality	52
-24010	1259639741	Tamlouka		locality	7
+23130	1310339945	Chetaibi		locality	7
+24000	1125915157	Guelma		locality	54
+24010	1259639741	Tamlouka		locality	26
+24013	1326998749	'Ain Makhlouf		locality	1
+24019	1326786627	El Fedjoudj		locality	1
+24048	1125915157	Guelma		locality	1
 24100	1276180681	Belkheir		locality	1
 24100	1125915157	Guelma		locality	1
-24380	1259639741	Tamlouka		locality	1
-25000	890439959	Constantine		locality	100
+25000	890439959	Constantine		locality	94
 25000	421167721	Hamma Bouziane		locality	3
-25000	1292938717	Ali Mendjeli		locality	1
+25000	1292938717	Ali Mendjeli		locality	2
+25000	421178271	El Khroub		locality	1
+25003	890439959	Constantine		locality	1
 25005	890439959	Constantine		locality	1
 25008	890439959	Constantine		locality	1
 25012	890439959	Constantine		locality	4
 25015	421203675	Aïn Abid		locality	3
-25024	421200237	Didouche Mourad		locality	45
+25024	421200237	Didouche Mourad		locality	44
 25024	890439959	Constantine		locality	3
 25025	890439959	Constantine		locality	1
+25040	421178271	El Khroub		locality	1
 25100	421178271	El Khroub		locality	2
 25301	890439959	Constantine		locality	2
-26000	1125915099	Médéa		locality	38
+26000	1125915099	Médéa		locality	39
 26001	1276680765	Beni Slimane		locality	21
 26001	1141908247	Médéa		locality	1
-26002	890432333	Berrouaghia		locality	1
+26002	890432333	Berrouaghia		locality	2
 26040	1259605551	Aziz		locality	2
-26200	890432333	Berrouaghia		locality	16
+26200	890432333	Berrouaghia		locality	11
 26300	421196683	Ksar Boukhari		locality	10
-26500	890442517	’Aïn Boucif		locality	6
+26500	890442517	Aïn Boucif		locality	6
 26800	1125915099	Médéa		locality	2
-27000	890444481	Mostaganem		locality	17
+27000	890444481	Mostaganem		locality	18
 27002	1310427065	Sidi Ali		locality	1
-27013	1293581023	Touahria		locality	20
+27013	1293581023	Touahria		locality	22
 27100	1293580925	Hassi Maameche		locality	7
 27120	1326524635	Mazagran		locality	30
-28000	1277028439	M'Sila		locality	9
-28001	421202759	Bou Saâda		locality	16
-28016	1243119781	Medjedel		locality	3
+28000	1277028439	M'Sila		locality	8
+28001	421202759	Bou Saâda		locality	15
+28001	1277028439	M'Sila		locality	1
+28016	1243119781	Medjedel		locality	16
 28130	1276393105	Berhoum		locality	10
 28200	421202759	Bou Saâda		locality	1
 28215	1277028429	Ben S'Rour		locality	3
-28300	421196691	Sidi Aissa		locality	1
-29000	1141908239	Mascara		locality	34
-29001	1141908239	Mascara		locality	5
+28300	421196691	Sidi Aïssa		locality	2
+29000	1141908239	Mascara		locality	32
+29000	1260343573	El Mamounia		locality	2
+29000	421199007	Sig		locality	2
+29001	1141908239	Mascara		locality	4
 29007	1141908239	Mascara		locality	2
 29088	1141908239	Mascara		locality	1
 29200	1309761029	Tighenif		locality	1
-30000	890444479	Ouargla		locality	31
-30002	890440141	Touggourt		locality	20
+30000	890444479	Ouargla		locality	34
+30000	890440141	Touggourt		locality	15
+30002	890440141	Touggourt		locality	17
 30016	890440141	Touggourt		locality	1
-30500	421205389	Hassi Messaoud		locality	20
-31000	421170449	Oran		locality	168
+30033	890444479	Ouargla		locality	1
+30200	890440141	Touggourt		locality	1
+30500	421205389	Hassi Messaoud		locality	18
+31000	421170449	Oran		locality	162
 31000	421166917	Bir El Djir		locality	3
-31000	1225940793	Falcon		locality	1
 31000	890434651	Es Sénia		locality	1
-31006	421170449	Oran		locality	1
-31007	421170449	Oran		locality	2
+31006	890434651	Es Sénia		locality	1
+31007	421170449	Oran		locality	4
 31009	421170449	Oran		locality	1
 31014	421170449	Oran		locality	1
+31017	1293185395	Gdyel		locality	1
 31019	421170449	Oran		locality	2
-31023	421170449	Oran		locality	7
+31020	421170449	Oran		locality	1
+31023	421170449	Oran		locality	5
 31023	421166917	Bir El Djir		locality	1
 31025	421170449	Oran		locality	8
-31200	421195165	Arzew		locality	24
-31311	421170449	Oran		locality	1
-32000	1141908229	El Bayadh		locality	26
+31026	1310294635	El Kerma		locality	1
+31100	890434651	Es Sénia		locality	3
+31130	421166917	Bir El Djir		locality	1
+31200	421195165	Arzew		locality	19
+31260	1293185395	Gdyel		locality	2
+32000	1141908229	El Bayadh		locality	14
+32000	1260010039	Bougtob		locality	1
+32002	1260010039	Bougtob		locality	1
+32010	1260010039	Bougtob		locality	2
 32012	1141908229	El Bayadh		locality	1
 32014	1209651197	Boussemghoun		locality	2
-33000	890444487	Illizi		locality	9
+33000	890444487	Illizi		locality	8
 33100	1141908223	Djanet		locality	1
-34000	1141906189	Bordj Bou Arréridj		locality	24
+34000	1141906189	Bordj Bou Arréridj		locality	25
+34000	1226216581	Bouïra		locality	2
 34001	421185621	Ras El Oued		locality	1
 34002	1141906189	Bordj Bou Arréridj		locality	2
 34009	1276693329	Medjana		locality	6
 34195	421185643	El Achir		locality	1
-35000	421180345	Boumerdès		locality	27
+35000	421180345	Boumerdès		locality	28
+35000	1259775939	Ouled Bouachra		locality	2
+35000	421196637	Boudouaou		locality	1
+35004	890432319	Dellys		locality	2
 35010	421167715	Khemis El-Khechna		locality	1
 35011	1344099237	Zouggara		locality	6
+35011	1259775939	Ouled Bouachra		locality	1
 35014	421180345	Boumerdès		locality	1
 35043	1226281025	Ouled Haddaj		locality	1
 35200	1326968501	Bordj Menaïel		locality	1
 35400	421196637	Boudouaou		locality	1
-36000	1326761495	El Tarf		locality	16
+36000	1326761495	El Tarf		locality	13
 36000	1326964817	Mokhtar		locality	1
-36002	890420423	El Kala		locality	2
+36001	1326761495	El Tarf		locality	1
+36001	890420423	El Kala		locality	1
+36002	890420423	El Kala		locality	3
 36100	890420423	El Kala		locality	2
-36200	890437145	Dréan		locality	7
-37000	1141909125	Tindouf		locality	4
+36200	890437145	Dréan		locality	16
+37000	1141909125	Tindouf		locality	5
 37100	1141909125	Tindouf		locality	1
-38000	1326464999	Tissemsilt		locality	45
+38000	1326464999	Tissemsilt		locality	37
 38100	1209451341	Khemisti		locality	14
 38200	890435463	Théniet El Had		locality	9
 39000	1141908231	El Oued		locality	71
+39003	890432321	Debila		locality	1
 39004	1309740969	Kouinine		locality	1
+39009	1141908231	El Oued		locality	1
 39014	1326567021	Hassi Khelifa		locality	1
 39017	421182753	Robbah		locality	1
 39023	1293424687	Djedida		locality	1
+39100	1326761495	El Tarf		locality	2
 39450	1309740969	Kouinine		locality	1
-40000	1310537379	Khenchela		locality	42
+40000	1310537379	Khenchela		locality	87
+40006	1226571601	Babar		locality	1
 41000	1141908249	Souk Ahras		locality	7
 41002	1343797027	M'Daourouch		locality	1
 41005	1327090593	Mechroha		locality	3
 41200	890436701	Sedrata		locality	1
-42000	1326664483	Tipasa		locality	50
+42000	421189583	Tipaza		locality	51
 42000	1276266747	Bou Haroun		locality	1
 42001	421185703	Hadjout		locality	27
-42003	421168053	Koléa		locality	193
+42003	421168053	Koléa		locality	191
 42003	1326664483	Tipasa		locality	1
 42004	890437155	Bou Ismaïl		locality	21
 42005	1209749863	Ahmer el 'Ain		locality	2
@@ -360,52 +428,62 @@
 42015	1343296173	Douaouda		locality	1
 42021	1293518237	Sidi Ghiles		locality	5
 42023	1276260495	Tagourait		locality	1
-42100	421174927	Cherchell		locality	31
+42100	421174927	Cherchell		locality	29
 42200	421185703	Hadjout		locality	28
+42202	421185703	Hadjout		locality	1
 42230	1343888753	Bourkika		locality	2
 42250	1209849403	Sidi Rached		locality	2
 42300	1326664483	Tipasa		locality	2
 42400	421168053	Koléa		locality	1
-42415	890437155	Bou Ismaïl		locality	10
+42415	890437155	Bou Ismaïl		locality	11
 42440	1243008985	Fouka		locality	1
 43000	890435749	Mila		locality	30
 43000	1209751867	Tadjenanet		locality	1
 43200	890437147	Chelghoum Laïd		locality	1
+43220	1209751867	Tadjenanet		locality	1
 43250	890435465	Telerghma		locality	13
-44000	1209255317	Ain Defla		locality	78
+44000	1209255317	Ain Defla		locality	89
 44000	421180073	Khemis Miliana		locality	1
 44002	421175473	El Attaf		locality	1
-44003	1293629871	Miliana		locality	9
+44002	421180073	Khemis Miliana		locality	1
+44003	1293629871	Miliana		locality	11
 44006	421178869	El Abadia		locality	13
+44010	1243021733	El Amra		locality	1
 44012	421180073	Khemis Miliana		locality	1
 44016	1293629871	Miliana		locality	1
+44019	1242722775	Ain Soltane		locality	1
 44027	1243217193	Sidi Lakhdar		locality	1
 44040	1344092935	Karaa Chira		locality	6
 44100	1260124743	Djelida		locality	1
-44135	1243021733	El Amra		locality	8
+44135	1243021733	El Amra		locality	5
 44140	1243316975	Mekhatria		locality	3
 44200	1293629871	Miliana		locality	7
 44200	1293728819	'Ain N'Sour		locality	1
-44210	1344092935	Karaa Chira		locality	16
-44225	421180073	Khemis Miliana		locality	22
+44210	1344092935	Karaa Chira		locality	15
+44225	421180073	Khemis Miliana		locality	21
+44300	1326870753	Ouled Moussa		locality	1
 44304	1327278709	Sidi Bouabida		locality	4
 44360	1360038829	Ain Bouyahia		locality	3
 44370	1242926943	Rouina		locality	18
 45000	890444483	Naâma		locality	8
-46000	890432335	Aïn Témouchent		locality	137
+45100	1309840381	Mecheria		locality	2
+45102	1309840381	Mecheria		locality	1
+46000	890432335	Aïn Témouchent		locality	202
 46001	421185649	Béni Saf		locality	3
+46005	421200239	Hammam Bouhadjar		locality	1
 46007	890441439	El Malah		locality	2
 46009	1209768519	'Ain el Arbaa		locality	1
-47000	421195271	Ghardaïa		locality	31
+46240	1343910891	Tamzoura		locality	7
+47000	421195271	Ghardaïa		locality	27
 47001	1141909129	El Goléa		locality	1
 47003	1125988305	Berriane		locality	1
 47004	1344090907	Guerara		locality	1
 47007	1326761285	Zelfana		locality	1
 47008	1141909399	Ghardaia		locality	1
 47032	421195271	Ghardaïa		locality	1
-48000	1343989319	Relizane		locality	21
+47110	1344090907	Guerara		locality	2
+48000	1343989319	Relizane		locality	20
 48001	421178861	Oued Rhiou		locality	2
 48002	421173955	Mazouna		locality	1
-48024	1209348235	Ramka		locality	1
 48200	421173955	Mazouna		locality	6
-48300	421178861	Oued Rhiou		locality	1
+48300	421178861	Oued Rhiou		locality	2

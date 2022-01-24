@@ -1,4 +1,4 @@
-00000	421173003	Orange Walk		locality	2
+00000	421173003	Orange Walk		locality	6
 000000	421173023	San Ignacio		locality	2
 POB219	890442105	Belmopan		locality	2
 0000	421202807	Corozal		locality	1
@@ -6,10 +6,20 @@ POB219	890442105	Belmopan		locality	2
 BZ1000	890442105	Belmopan		locality	1
 Belize	890434951	San Pedro Town		locality	1
 26	1242678113	Shipyard		locality	1
+49	890442105	Belmopan		locality	1
+53	890442105	Belmopan		locality	2
+91	890442105	Belmopan		locality	1
 209	1242678113	Shipyard		locality	3
+274	1226454185	Cristo Rey		locality	1
+330 Corozal Town	1360287245	Chunox		locality	1
+388	890442105	Belmopan		locality	1
+536	890442105	Belmopan		locality	1
+563	890442105	Belmopan		locality	1
+570	890442105	Belmopan		locality	1
 593	1344170001	Spanish Lookout		locality	1
 602	1343861491	Spanish Lookout		locality	1
 635	1344170001	Spanish Lookout		locality	1
+976	1141908121	Belize City		locality	1
 1021	1141908121	Belize City		locality	1
 2493	1242691935	Tropical Park		locality	1
 17001	1327043877	Caye Caulker		locality	1

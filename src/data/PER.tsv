@@ -1,20 +1,20 @@
 Lima 27	421187381	San Isidro		locality	8
 lima 36	421186805	Lima		locality	4
 Cusc 01	890442185	Sicuani		locality	3
-Lima 33	421185905	Surco		locality	3
+Lima 01	421186805	Lima		locality	3
+Lima 09	421187377	Chorrillos		locality	3
 Lima 34	421186789	Surquillo		locality	3
 lima31	1276305037	San Martin de Porres		locality	3
 Callao 02	421202935	Bellavista		locality	2
-L-33	421185905	Surco		locality	2
 L31	421186805	Lima		locality	2
 LIMA 21	421200635	Pueblo Libre		locality	2
 LPZ	1293463641	Huayllani		locality	2
 La Victoria 15034	421192217	La Victoria		locality	2
-Lima 01	421186805	Lima		locality	2
 Lima 13	421192217	La Victoria		locality	2
+Lima 29	1310488523	San Juan de Miraflores		locality	2
 Lima 31	421186805	Lima		locality	2
-an Isidro 15036	421187381	San Isidro		locality	2
 +051	421200637	Comas		locality	1
++51	890435251	San Jerónimo		locality	1
 +51 (073)	421186801	Piura		locality	1
 +56	421200633	Huacachina		locality	1
 000	421186819	Nauta		locality	1
@@ -27,11 +27,11 @@ LPZ	1327297901	Quillviri		locality	1
 LPZ	1226813203	Collo Collo		locality	1
 LPZ	1259356909	Yanahuaya		locality	1
 La Victoria 15033	421192217	La Victoria		locality	1
+Lima	421186805	Lima		locality	1
 Lima	1243141921	Los Olivos		locality	1
 Lima 06	1260163597	Carabayllo		locality	1
 Lima 06	421186805	Lima		locality	1
 Lima 07	421200637	Comas		locality	1
-Lima 09	421187377	Chorrillos		locality	1
 Lima 14	421179891	Lince		locality	1
 Lima 15023	1327117083	Monterrico		locality	1
 Lima 15332	421186777	Independencia		locality	1
@@ -40,34 +40,37 @@ Lima 21	421186805	Lima		locality	1
 Lima 25	421185903	Rímac		locality	1
 Lima 27	421186805	Lima		locality	1
 Lima 28	421186777	Independencia		locality	1
-Lima 29	1310488523	San Juan de Miraflores		locality	1
 Lima 31	421200637	Comas		locality	1
 Lima 31	1276305037	San Martin de Porres		locality	1
 Lima 33	421186805	Lima		locality	1
 Lima 34	421186805	Lima		locality	1
+Lima 40	421186805	Lima		locality	1
 Lima 51	421186805	Lima		locality	1
 Lima 8	421186053	Chaclacayo		locality	1
 Lima03	421173833	Ate		locality	1
 Lima41	421186805	Lima		locality	1
+PE	1310303413	Condorcocha		locality	1
 PIUR 01	421186801	Piura		locality	1
 PUNO01	421170101	Puno		locality	1
 Tacna 23000	421170099	Tacna		locality	1
 Universidad Nacional Federico Villarreal	421186805	Lima		locality	1
+an Isidro 15036	421187381	San Isidro		locality	1
 callao 2	421202935	Bellavista		locality	1
 ica01	421186795	Ica		locality	1
 l 05	421186805	Lima		locality	1
 lima 39	1243141921	Los Olivos		locality	1
 01	421169179	Callao		locality	15
-01	421186805	Lima		locality	11
+01	421186805	Lima		locality	10
 01	421186801	Piura		locality	6
 001	890435257	Písac		locality	3
+001	421186805	Lima		locality	2
 1Lima	421186805	Lima		locality	2
 001	421192217	La Victoria		locality	1
-001	421186805	Lima		locality	1
 01	1309888433	Barrios Altos		locality	1
 02	421202935	Bellavista		locality	1
+03	421186805	Lima		locality	2
 03	421173833	Ate		locality	1
-03	421186805	Lima		locality	1
+03	421169179	Callao		locality	1
 4	421186805	Lima		locality	2
 06	1260362219	Ventanilla		locality	1
 07	421200637	Comas		locality	1
@@ -83,10 +86,10 @@ lima 39	1243141921	Los Olivos		locality	1
 27	421187381	San Isidro		locality	4
 27	421186805	Lima		locality	2
 28	421186777	Independencia		locality	4
-29	1310488523	San Juan de Miraflores		locality	6
+29	1310488523	San Juan de Miraflores		locality	4
 31	1276305037	San Martin de Porres		locality	2
+33	421186805	Lima		locality	4
 033	421186805	Lima		locality	1
-33	421186805	Lima		locality	1
 33	421185905	Surco		locality	1
 34	421186789	Surquillo		locality	3
 36	421186805	Lima		locality	176
@@ -94,92 +97,99 @@ lima 39	1243141921	Los Olivos		locality	1
 39	1243141921	Los Olivos		locality	2
 39	1327403701	Urbanizacion Pro		locality	1
 41	421193073	San Borja		locality	5
-041	1326800291	Cieneguilla		locality	2
 041	890435987	Chachapoyas		locality	1
+041	1326800291	Cieneguilla		locality	1
 042	421200839	Moyobamba		locality	2
-042	890436733	Soritor		locality	1
+042	890436733	Soritor District		locality	1
 043	890445053	Huaraz		locality	4
 043	1141906385	Casma		locality	1
-044	421186803	Trujillo		locality	1
+044	421186803	Trujillo		locality	3
+051	421170101	Puno		locality	4
 051	1141909347	Cusco		locality	3
-051	421170101	Puno		locality	3
+051	421186805	Lima		locality	2
 51	421186805	Lima		locality	2
+0051	421186801	Piura		locality	1
 051	1276501399	Aguaytia		locality	1
 051	1141908511	Ayacucho		locality	1
 051	890445067	Chiclayo		locality	1
 051	421187377	Chorrillos		locality	1
+051	421200637	Comas		locality	1
 051	890442203	Juliaca		locality	1
-051	421186805	Lima		locality	1
 051	890442195	Nazca		locality	1
 051	421186783	Paucarpata		locality	1
-051	421185905	Surco		locality	1
 051	1243551759	Tembladera		locality	1
 51	1141908511	Ayacucho		locality	1
 51	890445053	Huaraz		locality	1
-51	1276305037	San Martin de Porres		locality	1
 053	1141908825	Ilo		locality	1
-054	890445225	Arequipa		locality	9
+054	890445225	Arequipa		locality	12
 054	421199643	Camaná		locality	2
 054	421186765	Cayma		locality	2
 54	890445225	Arequipa		locality	1
 056	421186795	Ica		locality	2
-056	421201909	Pisco		locality	1
+056	421201909	Pisco		locality	2
 0064	890442211	Huancayo		locality	1
 64	421174549	Junín		locality	1
 066	1141908511	Ayacucho		locality	4
 073	421186801	Piura		locality	1
 074	890445067	Chiclayo		locality	2
+076	1141907055	Cajabamba		locality	2
 76	421176505	Cajamarca		locality	1
 082	1141909347	Cusco		locality	2
-084	1141909347	Cusco		locality	7
+084	1141909347	Cusco		locality	10
 084	1326514793	Accha		locality	1
 84	1141909347	Cusco		locality	1
+140	890445067	Chiclayo		locality	1
 159	421170101	Puno		locality	12
-442	421186801	Piura		locality	6
-511	421185905	Surco		locality	1
 0800	1141909347	Cusco		locality	1
 01000	890435987	Chachapoyas		locality	1
 01000	1343467875	Huancas		locality	1
-01001	890435987	Chachapoyas		locality	21
+01001	890435987	Chachapoyas		locality	22
 1079	421186805	Lima		locality	1
-01420	1276349345	Colcamar		locality	7
+01415	1259592397	Tingo		locality	1
+01420	1276349345	Colcamar		locality	6
 01450	1276766077	Leymebamba		locality	1
 1533	421186805	Lima		locality	1
 02000	890445053	Huaraz		locality	58
-02001	890445053	Huaraz		locality	25
+02001	890445053	Huaraz		locality	26
 2002	890445053	Huaraz		locality	2
-02125	890435199	Carhuas		locality	4
-02127	890435199	Carhuas		locality	33
+02125	890435199	Carhuas		locality	5
+02127	890435199	Carhuas		locality	55
 02133	1209427593	Shilla		locality	5
 02710	890445065	Chimbote		locality	4
 02711	890445065	Chimbote		locality	6
+02712	890445065	Chimbote		locality	1
 02800	890445065	Chimbote		locality	1
 03701	421201201	Andahuaylas		locality	1
-04000	890445225	Arequipa		locality	3
+03730	1226443433	Pacucha		locality	1
+04000	890445225	Arequipa		locality	5
 04000	421200643	Yanahuara		locality	1
-04001	890445225	Arequipa		locality	4
+04001	890445225	Arequipa		locality	27
 04001	1243033703	Miraflores		locality	4
+4001	890445067	Chiclayo		locality	1
 04002	890445225	Arequipa		locality	2
 04003	890445225	Arequipa		locality	1
 04004	1243033703	Miraflores		locality	4
 04004	890445225	Arequipa		locality	1
+04008	421186783	Paucarpata		locality	1
 04009	1326730027	Socabaya		locality	1
-04012	1326730027	Socabaya		locality	5
+04012	1326730027	Socabaya		locality	6
 04013	421200643	Yanahuara		locality	4
 04013	890445225	Arequipa		locality	2
+04014	890445225	Arequipa		locality	4
+04014	421200643	Yanahuara		locality	1
 04017	421200643	Yanahuara		locality	3
 04020	890445225	Arequipa		locality	1
 04140	1343761873	Yanque		locality	6
 04416	421201445	Mollendo		locality	1
 05000	1141908511	Ayacucho		locality	1
-05001	1141908511	Ayacucho		locality	1
+05001	1141908511	Ayacucho		locality	2
 05002	1141908511	Ayacucho		locality	1
-05003	1141908511	Ayacucho		locality	3
+05003	1141908511	Ayacucho		locality	4
 05011	1141908511	Ayacucho		locality	1
+05151	421170101	Puno		locality	1
 5151	421170101	Puno		locality	1
-5154	890445225	Arequipa		locality	1
-06000	421176505	Cajamarca		locality	1
-06003	421176505	Cajamarca		locality	1
+06000	421176505	Cajamarca		locality	3
+06003	421176505	Cajamarca		locality	2
 06011	421202935	Bellavista		locality	1
 07001	421169179	Callao		locality	11
 07001	421202935	Bellavista		locality	6
@@ -190,68 +200,79 @@ lima 39	1243141921	Los Olivos		locality	1
 07011	421169179	Callao		locality	4
 07016	421169179	Callao		locality	13
 07016	421202935	Bellavista		locality	3
-07021	421202935	Bellavista		locality	5
+07021	421202935	Bellavista		locality	6
 07021	421169179	Callao		locality	4
 07031	421169179	Callao		locality	6
-07036	421169179	Callao		locality	3
-07041	421169179	Callao		locality	28
-08000	1141909347	Cusco		locality	8
+07031	421186805	Lima		locality	2
+07036	421169179	Callao		locality	9
+07041	421169179	Callao		locality	29
+07046	421186805	Lima		locality	1
+08000	1141909347	Cusco		locality	9
 08000	1293091063	Quillabamba		locality	1
 08001	1141909347	Cusco		locality	3
-08002	1141909347	Cusco		locality	16
-08003	1141909347	Cusco		locality	2
+08002	1141909347	Cusco		locality	19
+08003	1141909347	Cusco		locality	4
+08006	1141909347	Cusco		locality	1
+08006	421182317	San Sebastián		locality	1
+08360	1310390143	Suyckutambo		locality	1
 008400	1141909347	Cusco		locality	1
+08471	1343659245	Huayllabamba		locality	1
 08626	421173307	Huarocondo		locality	1
 08645	1293091059	Pucyura		locality	3
+08660	421173123	Urubamba		locality	1
 08661	421173123	Urubamba		locality	1
-08676	421186889	Ollantaytambo		locality	1
-09001	890445215	Huancavelica		locality	10
+08676	421186889	Ollantaytambo		locality	2
+08741	1293091063	Quillabamba		locality	1
+09000	421182075	Pampas		locality	1
+09001	890445215	Huancavelica		locality	8
 10001	890445055	Huánuco		locality	1
 10003	890445055	Huánuco		locality	1
-10051	421185905	Surco		locality	1
 10061	890445055	Huánuco		locality	1
-10853	421185905	Surco		locality	1
 11000	421186795	Ica		locality	2
 11000	1343438317	San Jose de Los Molinos		locality	1
-12000	890442211	Huancayo		locality	2
+11500	421186769	Guadalupe		locality	1
 12000	421186771	El Tambo		locality	1
-12001	890442211	Huancayo		locality	2
-12002	890442211	Huancayo		locality	3
+12000	890442211	Huancayo		locality	1
+12001	890442211	Huancayo		locality	3
+12002	890442211	Huancayo		locality	5
 12125	421169683	Concepción		locality	6
 12260	890442187	Satipo		locality	2
-12741	890435271	Carhuamayo		locality	1
+12480	890442211	Huancayo		locality	3
+12741	890435271	Carhuamayo District		locality	1
+13001	421186803	Trujillo		locality	6
 13001	421186781	La Esperanza		locality	2
-13001	421186803	Trujillo		locality	1
+13006	421186803	Trujillo		locality	1
 13007	421186803	Trujillo		locality	1
-13008	421186803	Trujillo		locality	2
-13009	421187385	Víctor Larco Herrera		locality	1
+13008	421186803	Trujillo		locality	3
+13009	421187385	Víctor Larco Herrera District		locality	1
 14001	890445067	Chiclayo		locality	2
+14009	890445067	Chiclayo		locality	2
 15000	421186805	Lima		locality	1
+15001	421186805	Lima		locality	8
 15001	1309888433	Barrios Altos		locality	7
-15001	421186805	Lima		locality	7
 15001	421192217	La Victoria		locality	1
 15002	421166427	El Agustino		locality	1
-15003	421166427	El Agustino		locality	3
-15006	421166427	El Agustino		locality	5
-15012	1209384785	La Molina		locality	10
+15003	421166427	El Agustino		locality	4
+15006	421166427	El Agustino		locality	7
+15012	1209384785	La Molina		locality	19
+15012	421173833	Ate		locality	1
 15012	421186805	Lima		locality	1
-15013	421192217	La Victoria		locality	1
-15018	421192217	La Victoria		locality	16
-15018	421186805	Lima		locality	1
+15018	421192217	La Victoria		locality	24
+15018	421186805	Lima		locality	2
 15019	421188581	Santa Luisa		locality	2
 15019	421173833	Ate		locality	1
 15019	421192217	La Victoria		locality	1
-15021	421193073	San Borja		locality	4
+15021	421193073	San Borja		locality	5
 15021	421200635	Pueblo Libre		locality	2
 15021	421187381	San Isidro		locality	1
 15022	421173833	Ate		locality	3
-15023	421185905	Surco		locality	6
+15022	421188581	Santa Luisa		locality	1
+15023	1209384785	La Molina		locality	3
 15023	421186805	Lima		locality	2
 15023	1327117083	Monterrico		locality	2
 15023	421173833	Ate		locality	1
-15023	1209384785	La Molina		locality	1
 15024	1209384785	La Molina		locality	8
-15024	421186805	Lima		locality	2
+15024	421186805	Lima		locality	4
 15025	421185903	Rímac		locality	1
 15026	1209384785	La Molina		locality	3
 15027	421187381	San Isidro		locality	3
@@ -261,85 +282,89 @@ lima 39	1243141921	Los Olivos		locality	1
 15033	421192217	La Victoria		locality	1
 15033	421186805	Lima		locality	1
 15033	1327117083	Monterrico		locality	1
-15033	421185905	Surco		locality	1
-15034	421192217	La Victoria		locality	10
+15034	421192217	La Victoria		locality	12
 15034	421186805	Lima		locality	1
 15034	1243141921	Los Olivos		locality	1
-15036	421187381	San Isidro		locality	11
-15036	421193073	San Borja		locality	7
-15036	421186789	Surquillo		locality	5
+15036	421187381	San Isidro		locality	12
+15036	421193073	San Borja		locality	8
+15036	421186789	Surquillo		locality	6
 15036	421192217	La Victoria		locality	1
 15036	421186805	Lima		locality	1
 15037	421186805	Lima		locality	1
 15037	421193073	San Borja		locality	1
-15038	421185905	Surco		locality	6
 15038	421186789	Surquillo		locality	2
 15038	421186341	Miraflores District		locality	1
-15039	421185905	Surco		locality	5
-15039	421186805	Lima		locality	2
-15041	421193073	San Borja		locality	5
-15046	421187381	San Isidro		locality	38
+15039	421186805	Lima		locality	5
+15041	421193073	San Borja		locality	4
+15046	421187381	San Isidro		locality	44
+15046	421186341	Miraflores District		locality	30
 15046	421179891	Lince		locality	29
-15046	421186341	Miraflores District		locality	29
-15046	421186805	Lima		locality	3
-15047	421186341	Miraflores District		locality	26
+15046	421186805	Lima		locality	6
+15047	421186341	Miraflores District		locality	27
 15047	421203811	Barranco		locality	10
 15047	421186789	Surquillo		locality	7
 15047	421186805	Lima		locality	6
 15047	421187381	San Isidro		locality	3
-15048	421186341	Miraflores District		locality	14
+15048	421186341	Miraflores District		locality	15
 15048	421186789	Surquillo		locality	14
-15048	421185905	Surco		locality	8
-15048	421186805	Lima		locality	3
+15048	421186805	Lima		locality	5
 15048	421203811	Barranco		locality	2
 15049	421203811	Barranco		locality	8
-15049	421185905	Surco		locality	3
 15049	421186805	Lima		locality	1
 15051	1209384785	La Molina		locality	1
-15056	421185905	Surco		locality	1
-15063	421203811	Barranco		locality	46
+15063	421203811	Barranco		locality	47
 15063	421186805	Lima		locality	3
 15063	421187377	Chorrillos		locality	1
-15063	421185905	Surco		locality	1
 15064	421187377	Chorrillos		locality	6
 15066	421187377	Chorrillos		locality	7
 15067	421187377	Chorrillos		locality	1
 15067	421186805	Lima		locality	1
+15072	421186805	Lima		locality	2
 15072	421200635	Pueblo Libre		locality	2
-15072	421186805	Lima		locality	1
-15073	421187381	San Isidro		locality	59
-15073	421186341	Miraflores District		locality	14
+15073	421187381	San Isidro		locality	60
+15073	421186341	Miraflores District		locality	15
 15073	421179891	Lince		locality	6
 15073	421186805	Lima		locality	2
-15073	421185905	Surco		locality	2
-15074	421186341	Miraflores District		locality	560
-15074	421186805	Lima		locality	25
-15074	421203811	Barranco		locality	3
+15074	421186341	Miraflores District		locality	573
+15074	421186805	Lima		locality	28
 15074	421187381	San Isidro		locality	3
+15074	421203811	Barranco		locality	2
 15074	421187377	Chorrillos		locality	1
 15074	421200635	Pueblo Libre		locality	1
+15076	421186805	Lima		locality	2
 15076	421187381	San Isidro		locality	2
-15079	421186805	Lima		locality	1
+15079	421186805	Lima		locality	2
 15079	421185903	Rímac		locality	1
-15081	421186805	Lima		locality	1
-15082	421185903	Rímac		locality	3
+15081	421186805	Lima		locality	3
+15082	421186805	Lima		locality	7
+15082	421185903	Rímac		locality	7
 15084	421200635	Pueblo Libre		locality	15
+15087	421186805	Lima		locality	1
 15088	421186805	Lima		locality	1
 15088	421170101	Puno		locality	1
-15093	421186805	Lima		locality	1
+15093	421186805	Lima		locality	2
+15094	421185903	Rímac		locality	1
+15096	421186805	Lima		locality	1
 15096	421185903	Rímac		locality	1
+15101	1276305037	San Martin de Porres		locality	2
 15101	421186805	Lima		locality	1
-15101	1276305037	San Martin de Porres		locality	1
-15102	1276305037	San Martin de Porres		locality	1
+15102	1276305037	San Martin de Porres		locality	3
 15106	421186805	Lima		locality	1
 15106	421193073	San Borja		locality	1
 15106	1276305037	San Martin de Porres		locality	1
 15107	421186805	Lima		locality	1
+15108	421186805	Lima		locality	1
+15108	1276305037	San Martin de Porres		locality	1
 15109	1243141921	Los Olivos		locality	4
 15109	1276305037	San Martin de Porres		locality	1
-15123	421186805	Lima		locality	3
-15123	421195675	Ancón		locality	1
-15169	890435221	Barranca		locality	1
+15113	421186805	Lima		locality	1
+15121	421186805	Lima		locality	1
+15123	421195675	Ancón		locality	3
+15123	421186805	Lima		locality	2
+15136	890442213	Huacho		locality	1
+15169	890435221	Barranca		locality	2
+15301	421186805	Lima		locality	1
+15302	421186805	Lima		locality	1
 15302	1243141921	Los Olivos		locality	1
 15304	1243141921	Los Olivos		locality	2
 15306	1243141921	Los Olivos		locality	1
@@ -351,50 +376,77 @@ lima 39	1243141921	Los Olivos		locality	1
 15316	421200637	Comas		locality	3
 15316	1260163597	Carabayllo		locality	1
 15318	1260163597	Carabayllo		locality	1
-15321	1260163597	Carabayllo		locality	283
-15321	1209602121	Vista Alegre		locality	33
-15321	1310392345	Pacifico		locality	10
-15321	1226719813	Alto Peru		locality	1
-15328	421200637	Comas		locality	2
+15321	1260163597	Carabayllo		locality	174
+15324	421200637	Comas		locality	1
+15326	421200637	Comas		locality	1
+15328	421200637	Comas		locality	1
 15331	421186777	Independencia		locality	1
-15333	421186777	Independencia		locality	1
-15401	1293372633	San Juan de Lurigancho		locality	2
-15419	1293372633	San Juan de Lurigancho		locality	6
+15332	421186777	Independencia		locality	1
+15333	421186777	Independencia		locality	2
+15401	1293372633	San Juan de Lurigancho		locality	4
+15401	421186805	Lima		locality	1
+15404	1293372633	San Juan de Lurigancho		locality	1
+15419	1293372633	San Juan de Lurigancho		locality	8
+15423	1293372633	San Juan de Lurigancho		locality	1
 15427	1293372633	San Juan de Lurigancho		locality	1
 15431	1293372633	San Juan de Lurigancho		locality	4
+15457	421186805	Lima		locality	1
+15464	1293372633	San Juan de Lurigancho		locality	1
 15468	890442215	Chosica		locality	1
 15472	421186053	Chaclacayo		locality	1
 15474	421186053	Chaclacayo		locality	1
+15476	421186053	Chaclacayo		locality	1
 15487	421173833	Ate		locality	1
 15498	421173833	Ate		locality	3
 15608	890441995	Mala		locality	1
+15701	421174821	San Vicente de Cañete		locality	1
+15712	421184317	Quilmaná		locality	1
+15804	1310488523	San Juan de Miraflores		locality	1
 15823	421173125	Lurín		locality	1
+15841	421173125	Lurín		locality	1
 15842	421173125	Lurín		locality	1
 15842	1310488523	San Juan de Miraflores		locality	1
+15846	1243537207	Punta Hermosa		locality	1
+15851	1293274843	Punta Negra		locality	1
+15866	421186843	Pucusana		locality	1
 16000	421186799	Iquitos		locality	1
-16001	421186799	Iquitos		locality	5
+16001	421186799	Iquitos		locality	9
 16002	421186799	Iquitos		locality	7
+16301	421186819	Nauta		locality	4
+16501	890445021	Yurimaguas		locality	3
 17001	421170097	Puerto Maldonado		locality	1
+18600	890442197	Moquegua		locality	6
+18600	1141908825	Ilo		locality	1
 18601	1141908825	Ilo		locality	1
 20000	421186801	Piura		locality	1
-20001	421186801	Piura		locality	1
+20001	421186801	Piura		locality	3
 20009	421186801	Piura		locality	1
 20100	890435985	Sullana		locality	1
+20840	1276736933	Los Organos		locality	1
 20851	421173127	Máncora		locality	1
 21000	421170101	Puno		locality	1
 21101	1326588433	Sandia		locality	1
-22001	421200839	Moyobamba		locality	2
-22200	421170085	Tarapoto		locality	4
-22202	421170085	Tarapoto		locality	1
+22001	421200839	Moyobamba		locality	3
+22200	421170085	Tarapoto		locality	6
+22202	421170085	Tarapoto		locality	4
+22330	421186051	sauce		locality	2
 22601	421205017	Juanjuí		locality	1
-23000	421170099	Tacna		locality	2
-23001	890445181	Tacna		locality	4
-23003	421170099	Tacna		locality	1
+23000	421170099	Tacna		locality	3
+23001	890445181	Tacna		locality	12
+23003	421170099	Tacna		locality	3
+23004	421170099	Tacna		locality	1
+23006	421170099	Tacna		locality	1
+23200	890451761	Tarata		locality	7
+25000	890442157	Pucallpa		locality	6
+25000	421184477	Puerto Callao		locality	1
+25004	421184477	Puerto Callao		locality	12
+25004	890442157	Pucallpa		locality	4
 51015	421187381	San Isidro		locality	1
 51131	1276305037	San Martin de Porres		locality	1
 51132	421186805	Lima		locality	1
 54174	421200643	Yanahuara		locality	1
 140101	890445067	Chiclayo		locality	1
-150140	421185905	Surco		locality	1
+150501	421174821	San Vicente de Cañete		locality	1
+160001	421186799	Iquitos		locality	3
 170001	421170097	Puerto Maldonado		locality	1
 5106300	1276439011	Llacanora		locality	1

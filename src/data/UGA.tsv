@@ -1,11 +1,14 @@
-P.O.BOX89	421200889	Entebbe		locality	3
+N/A	421168679	Masaka		locality	6
 +256	890433275	Wakiso Town		locality	2
 P.O. Box 36152 Kampala	421173185	Kampala		locality	2
+P.O.BOX89	421200889	Entebbe		locality	2
 PO Box 4153	421173185	Kampala		locality	2
 +256	1126002023	Kamwenge		locality	1
 +256	421173185	Kampala		locality	1
 P. O. Box 16440 Kampala	421173185	Kampala		locality	1
 P.O BOX 9 MBARARA	421173185	Kampala		locality	1
+P.O. Box 107	1226682193	Nakirebe		locality	1
+P.O. Box 11368, Kampala	421173185	Kampala		locality	1
 P.O. Box 15207	421173185	Kampala		locality	1
 P.O. Box 182 - Entebbe	1277013381	Kisubi		locality	1
 P.O. Box 21481	421173185	Kampala		locality	1
@@ -22,13 +25,18 @@ PO box 50	1277013381	Kisubi		locality	1
 16	421200889	Entebbe		locality	1
 35	421200889	Entebbe		locality	1
 36	421199639	Lira		locality	4
-148	890454723	Adjumani		locality	2
+88	421173185	Kampala		locality	1
+91	421199639	Lira		locality	1
+100 Kabiiso, Hoima	1242608043	Mugalike		locality	1
+148	890454723	Adjumani		locality	1
+166	421174765	Gulu		locality	1
 189	421173183	Mbale		locality	1
 235	421168679	Masaka		locality	1
 256	1327468879	Bunamwaya		locality	12
-256	421173185	Kampala		locality	10
+256	421173185	Kampala		locality	12
 256	421176815	Jinja		locality	9
 256	890453985	Hoima		locality	7
+256	890454081	Busia		locality	2
 256	421200889	Entebbe		locality	2
 256	1360121717	Kaliro		locality	2
 256	1326866417	Buyaga		locality	1
@@ -40,33 +48,42 @@ PO box 50	1277013381	Kisubi		locality	1
 333	421173185	Kampala		locality	1
 471	890442039	Kasese		locality	1
 481	421172823	Arua		locality	1
+495	1310136375	Kitale		locality	1
 495	421173181	Mukono Town		locality	1
 544	890433349	Pader		locality	1
+725	421172823	Arua		locality	1
 1446	421173185	Kampala		locality	1
 1628	421168679	Masaka		locality	1
-2021	421173183	Mbale		locality	1
+2021	421173183	Mbale		locality	2
 2359	421173185	Kampala		locality	1
 2555	421173183	Mbale		locality	1
+3021	421173185	Kampala		locality	2
+3200	421173185	Kampala		locality	1
 3813	421173185	Kampala		locality	1
+4036	421173185	Kampala		locality	1
 4540	421173185	Kampala		locality	2
 5220	421173185	Kampala		locality	1
 5827	890454723	Adjumani		locality	1
 6189	421173185	Kampala		locality	2
 6884 Kampala	421173185	Kampala		locality	1
 6971	421173185	Kampala		locality	1
+7051	421173185	Kampala		locality	1
 7063	421173185	Kampala		locality	1
 7096	421173185	Kampala		locality	1
+7112	1243203241	Kira		locality	2
 7112	421173185	Kampala		locality	1
 7114	421173185	Kampala		locality	1
 12274	421173185	Kampala		locality	1
 12874	421173185	Kampala		locality	1
 16284	1226373239	Mbalala		locality	1
+21706	421173185	Kampala		locality	1
 22693	421173185	Kampala		locality	1
-24144	421173185	Kampala		locality	1
+24144	421173185	Kampala		locality	2
 24498	421173185	Kampala		locality	1
 24526	421173185	Kampala		locality	1
 26138	421200889	Entebbe		locality	1
 27933	421173185	Kampala		locality	1
+29880	421173185	Kampala		locality	1
 30532 Kampala, Uganda	421173185	Kampala		locality	1
 31304	421200889	Entebbe		locality	1
 33903	421173185	Kampala		locality	1

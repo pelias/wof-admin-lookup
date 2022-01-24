@@ -1,5 +1,5 @@
++84	421177479	Hanoi		locality	4
 Ben Nghe Ward, Dist. 1	421176809	Ho Chi Minh City		locality	3
-+84	421177479	Hanoi		locality	2
 00000	1209430387	Tam Diep		locality	2
 +84	421176809	Ho Chi Minh City		locality	1
 +84	1226584425	Hoang Hoa		locality	1
@@ -11,11 +11,14 @@ Ben Nghe Ward, Dist. 1	421176809	Ho Chi Minh City		locality	3
 +84 93 899 06 02	421168911	Can Tho		locality	1
 +84 94 835 83 93	421168911	Can Tho		locality	1
 00000	421177479	Hanoi		locality	1
+000000	421177479	Hanoi		locality	1
+0000000	421177479	Hanoi		locality	1
 KP3	1141906937	Phan Thiet		locality	1
 Thanh Khê	421168907	Da Nang		locality	1
 04	421177479	Hanoi		locality	4
 08	421176809	Ho Chi Minh City		locality	1
 08	1343435091	Quan Phu Nhuan		locality	1
+24	421177479	Hanoi		locality	1
 028	421176809	Ho Chi Minh City		locality	2
 031	890440107	Haiphong		locality	3
 35	421176809	Ho Chi Minh City		locality	1
@@ -23,22 +26,25 @@ Thanh Khê	421168907	Da Nang		locality	1
 053	1225954931	Quang Tri		locality	1
 054	890439925	Huế		locality	1
 064	1226253405	Ba Ria		locality	2
-67	421168901	Long Xuyen		locality	1
 084	421177479	Hanoi		locality	18
-84	421177479	Hanoi		locality	3
+84	421177479	Hanoi		locality	2
 00084	421176809	Ho Chi Minh City		locality	1
 084	421176809	Ho Chi Minh City		locality	1
 084	1276996813	Do Ha		locality	1
+84	421176031	Bến Tre		locality	1
 84	421176809	Ho Chi Minh City		locality	1
 162/8 Hồ Bá Kiện , P15 ,Q10	421176809	Ho Chi Minh City		locality	1
 170	421177479	Hanoi		locality	1
-0210	890443887	Việt Trì		locality	2
-0225	890440107	Haiphong		locality	1
+0210	890443887	Việt Trì		locality	1
+0219	1125880601	Ha Giang		locality	1
+0225	421197851	Haiphong		locality	1
 234	890439925	Huế		locality	1
 0235	421195877	Hoi An		locality	1
 0236	421168907	Da Nang		locality	1
 0241	890451571	Bắc Ninh		locality	1
+00251	421168903	Lang Son		locality	1
 0253	421168903	Lang Son		locality	1
+0274	1293333187	Hoa Phu		locality	1
 0351	1243183125	Ha Nam		locality	1
 0363	421185731	Thái Bình		locality	1
 491	890439925	Huế		locality	2
@@ -46,167 +52,296 @@ Thanh Khê	421168907	Da Nang		locality	1
 510	1277118759	Dai Loc		locality	1
 0511	421168907	Da Nang		locality	2
 0610	421177479	Hanoi		locality	1
-844	421177479	Hanoi		locality	1
 00848	421176809	Ho Chi Minh City		locality	1
 1000	421177479	Hanoi		locality	12
-01235	421177479	Hanoi		locality	1
+02000	1259498813	Van Don		locality	2
+02033	421187047	Móng Cái		locality	2
+02306	421194767	Uông Bí		locality	1
+02363	421168907	Da Nang		locality	1
 02633	890435345	Da Lat		locality	1
+03118	421197241	Hai Duong		locality	1
 03513	1243183125	Ha Nam		locality	1
 04000-05000	421197851	Haiphong		locality	1
 4300	890453121	Ninh Bình		locality	1
-5600	421195877	Hoi An		locality	3
+5600	421195877	Hoi An		locality	4
+6000	421195447	Kon Tum		locality	1
+06118	421185731	Thái Bình		locality	1
 7000	421176809	Ho Chi Minh City		locality	1
 08000	890453121	Ninh Bình		locality	1
 8000	1141906937	Phan Thiet		locality	1
 8200	421168911	Can Tho		locality	1
 08213	890453121	Ninh Bình		locality	1
+08251	1141906931	Ninh Bình		locality	1
+08408	421176809	Ho Chi Minh City		locality	1
 08443	421177479	Hanoi		locality	1
 8454	890439925	Huế		locality	1
-10000	421177479	Hanoi		locality	56
+10000	421177479	Hanoi		locality	63
+10000	421195691	Vinh		locality	1
+10298	421177479	Hanoi		locality	1
 10999	421177479	Hanoi		locality	1
-18000	890440107	Haiphong		locality	1
+11150	421177479	Hanoi		locality	1
+11617	421177479	Hanoi		locality	1
+11622	421177479	Hanoi		locality	1
+11718	421177479	Hanoi		locality	1
+12627	421177479	Hanoi		locality	1
+12910	1226766611	Me Linh		locality	1
+15000	890436999	Vĩnh Yên		locality	1
+18000	421197851	Haiphong		locality	3
+20000	890440087	Quảng Ngãi		locality	1
+20152	1125880601	Ha Giang		locality	1
 21000	421197159	Bắc Giang		locality	1
 21110	421167909	Cao Bằng		locality	1
+24000	421176029	Thái Nguyên		locality	2
 25000	421176029	Thái Nguyên		locality	4
+25000	421168903	Lang Son		locality	2
+26920	421197159	Bắc Giang		locality	1
 30000	421176809	Ho Chi Minh City		locality	1
+31153	890439923	Lao Cai		locality	1
+33000	890439923	Lao Cai		locality	1
 33000	1242989753	Sapa		locality	1
 33000	421185731	Thái Bình		locality	1
 34000	421197241	Hai Duong		locality	3
 35999	890440107	Haiphong		locality	1
+36107	890435363	Hoa Binh		locality	1
+36119	890435363	Hoa Binh		locality	1
+40000	1243183125	Ha Nam		locality	3
 40000	890453121	Ninh Bình		locality	1
+40000	890431499	Thanh Hóa		locality	1
 41000	890431499	Thanh Hóa		locality	1
+41312	1327274693	Cam Thuy		locality	1
+42000	890433759	Nam Định		locality	1
+43000	1343677447	Quynh Luu		locality	6
+45100	421195449	Hà Tĩnh		locality	1
+46003	421195449	Hà Tĩnh		locality	1
 48058	421179863	Nha Trang		locality	1
 49000	421177479	Hanoi		locality	1
-53000	890439925	Huế		locality	1
+51000	421203037	Ðiện Bàn		locality	1
+53000	890439925	Huế		locality	6
 53000;530000	890439925	Huế		locality	1
 55000	421168907	Da Nang		locality	3
-57000	421179863	Nha Trang		locality	1
+55200	890440085	Qui Nhon		locality	1
+56120	890443889	Tuy Hoa		locality	1
+57000	421179863	Nha Trang		locality	2
+57000	890440087	Quảng Ngãi		locality	1
+59000	890440085	Qui Nhon		locality	1
 60000	421203845	Pleiku		locality	1
 61000	890435345	Da Lat		locality	1
 62000	421203845	Pleiku		locality	1
+63000	890443893	Buon Ma Thuot		locality	7
+63406	1293898811	Krong Nang		locality	1
+65000	421179863	Nha Trang		locality	1
+66113	890435345	Da Lat		locality	1
+66115	890435345	Da Lat		locality	1
 67000	890435345	Da Lat		locality	2
-70000	421176809	Ho Chi Minh City		locality	34
+67106	890431501	Dong Xoai		locality	2
+70000	421176809	Ho Chi Minh City		locality	64
+70000	1226206875	Thu Duc		locality	5
+70000	1326489421	An Phu Dong		locality	2
 70000	421197241	Hai Duong		locality	1
 70000	421179863	Nha Trang		locality	1
-70206	421176809	Ho Chi Minh City		locality	1
+70000	1226106679	Linh Xuan		locality	1
+70000	1259457085	Linh Dong		locality	1
+70000	1243131229	Tan Hung		locality	1
+71006	421176809	Ho Chi Minh City		locality	3
 71108	421176809	Ho Chi Minh City		locality	1
+71211	1226206875	Thu Duc		locality	1
 71409	421176809	Ho Chi Minh City		locality	1
+71500	421176809	Ho Chi Minh City		locality	1
+71509	421176809	Ho Chi Minh City		locality	1
 71514	421176809	Ho Chi Minh City		locality	1
+71716	1293563265	Trung Chanh		locality	1
 71812	421176809	Ho Chi Minh City		locality	3
-72000	421176809	Ho Chi Minh City		locality	2
+72000	421176809	Ho Chi Minh City		locality	4
+72011	421176809	Ho Chi Minh City		locality	1
+72012	421176809	Ho Chi Minh City		locality	1
+72106	421176809	Ho Chi Minh City		locality	2
+72117	421176809	Ho Chi Minh City		locality	1
+72210	421176809	Ho Chi Minh City		locality	1
+72300	421176809	Ho Chi Minh City		locality	1
+72716	421176809	Ho Chi Minh City		locality	1
+72800	421176809	Ho Chi Minh City		locality	1
+72806	421176809	Ho Chi Minh City		locality	1
 72915	421176809	Ho Chi Minh City		locality	1
+73118	421176809	Ho Chi Minh City		locality	1
+75000	1293114079	Thuan An		locality	3
+75000	1209834507	Ben Cat		locality	1
+75000	890433751	Thu Dau Mot		locality	1
+75107	890433751	Thu Dau Mot		locality	1
+75214	1293114079	Thuan An		locality	1
+76000	421176809	Ho Chi Minh City		locality	2
+76000	1276453973	Long Thanh		locality	1
+76310	421189679	Biên Hòa		locality	1
 77000	421176809	Ho Chi Minh City		locality	1
-78000	890443885	Saint James		locality	2
+78000	890443885	Saint James		locality	3
+78107	1226253405	Ba Ria		locality	1
+78207	890443885	Saint James		locality	1
 79000	890451571	Bắc Ninh		locality	2
+79000	1226253405	Ba Ria		locality	1
 79000	890443885	Saint James		locality	1
+79000	1293705689	Thanh Pho Ba Ria		locality	1
+80000	1141906937	Phan Thiet		locality	1
+81800	890433755	Sa Đéc		locality	1
+82000	890439907	Tan An		locality	2
+84000	421177479	Hanoi		locality	1
 84208	421176029	Thái Nguyên		locality	1
+86116	421176031	Bến Tre		locality	1
+90000	421168911	Can Tho		locality	1
+90000	421168901	Long Xuyen		locality	1
 92000	421168911	Can Tho		locality	1
+92000	421202489	Phú Quốc		locality	1
 93000	421176031	Bến Tre		locality	1
+94908	1259998619	An Thanh		locality	1
+96113	421176021	Sóc Trăng		locality	1
 97000	421189537	Bạc Liêu		locality	1
-100000	421177479	Hanoi		locality	130
+100000	421177479	Hanoi		locality	199
+100000	1327446807	Cau Dien		locality	1
+100000	1344075961	Trung Van		locality	1
+100000	421193843	Vĩnh Phúc		locality	1
+100000	1309924799	Doi Can		locality	1
+100000	1276778953	Duc Thang		locality	1
 100000	1326640561	Thanh Tri		locality	1
 100000	1209630703	Dong Anh		locality	1
 100081	421176809	Ho Chi Minh City		locality	1
-100925	421177479	Hanoi		locality	1
+100925	421177479	Hanoi		locality	2
+100999	421177479	Hanoi		locality	1
+110214	421177479	Hanoi		locality	1
 111000	421177479	Hanoi		locality	1
 111501	421177479	Hanoi		locality	1
 115005	421177479	Hanoi		locality	3
-118443	421177479	Hanoi		locality	2
+118443	421177479	Hanoi		locality	1
 118508	421177479	Hanoi		locality	1
 120406	421177479	Hanoi		locality	3
+120911	421177479	Hanoi		locality	1
 120939	421177479	Hanoi		locality	1
 122000	421177479	Hanoi		locality	1
 122863	421177479	Hanoi		locality	1
 123456	1193227481	Cam Pha		locality	1
 124115	421177479	Hanoi		locality	1
 124224	421177479	Hanoi		locality	1
-124415	421177479	Hanoi		locality	1
+124415	421177479	Hanoi		locality	2
 125041	421177479	Hanoi		locality	14
 126227	421177479	Hanoi		locality	1
 143315	421177479	Hanoi		locality	1
 163503	421193969	Hưng Yên		locality	1
 163906	421193969	Hưng Yên		locality	1
 170000	1276239061	Gia Loc		locality	1
+170000	1293799327	Tu Ky		locality	1
+180000	421197851	Haiphong		locality	8
 180000	1242648371	Cat Ba		locality	2
-180000	890440107	Haiphong		locality	2
-187315	890440107	Haiphong		locality	1
-190000	421176019	Sa Pá		locality	1
-200000	890431719	Ha Long		locality	1
+186450	890440107	Haiphong		locality	1
+187315	421197851	Haiphong		locality	1
+190000	421176019	Sa Pa		locality	1
+193824	421177479	Hanoi		locality	1
+200000	890431719	Ha Long		locality	2
 200000	1259994907	Quang Ninh		locality	1
 202437	890431719	Ha Long		locality	1
 206800	421187047	Móng Cái		locality	1
 220000	890451571	Bắc Ninh		locality	1
 230000	421197159	Bắc Giang		locality	1
 250000	421176029	Thái Nguyên		locality	3
-270000	421168911	Can Tho		locality	19
-290000	890443887	Việt Trì		locality	1
+270000	421168911	Can Tho		locality	20
+280000	890436999	Vĩnh Yên		locality	1
+290000	890443887	Việt Trì		locality	3
+291000	890443887	Việt Trì		locality	1
 310000	1141906939	Ha Giang		locality	2
 321800	421203841	Yên Bái		locality	4
+330000	421176019	Sa Pa		locality	2
 330000	890439923	Lao Cai		locality	1
-330000	421176019	Sa Pá		locality	1
-333320	421176019	Sa Pá		locality	4
+333320	421176019	Sa Pa		locality	4
 333864	890439923	Lao Cai		locality	1
 350000	1243182957	Mai Chau		locality	1
 351541	890435363	Hoa Binh		locality	1
 360000	890435359	Sơn La		locality	2
-400000	1343873689	Quynh		locality	1
+400000	890440447	Phủ Lý		locality	1
 410000	1141906003	Thái Bình		locality	1
 430000	890453121	Ninh Bình		locality	6
-460000	421195691	Vinh		locality	2
+431990	890453121	Ninh Bình		locality	1
+440000	890431499	Thanh Hóa		locality	2
+442380	1209699449	Hoang Mai		locality	1
+460000	421195691	Vinh		locality	3
+483700	1225955127	Hong Linh		locality	1
 510000	421176023	Đồng Hới		locality	3
 511860	421176023	Đồng Hới		locality	6
 511860	1326449281	Phong Nha		locality	4
 520000	421189543	Đông Hà		locality	1
-530000	890439925	Huế		locality	5
-550000	421168907	Da Nang		locality	29
+530000	890439925	Huế		locality	7
+550000	421168907	Da Nang		locality	53
+550000	890433751	Thu Dau Mot		locality	1
 550000	1209430295	Ngu Hanh Son		locality	1
+551300	1226656675	Hai Chau		locality	1
 551591	421168907	Da Nang		locality	1
 554320	421168907	Da Nang		locality	1
-560000	421195877	Hoi An		locality	8
-560000	1293138743	Duy Xuyen		locality	3
+555700	421168907	Da Nang		locality	1
+560000	421195877	Hoi An		locality	7
+560000	1293138743	Duy Xuyen		locality	4
 560000	421181929	Tam Kỳ		locality	1
 563868	421195877	Hoi An		locality	1
+564910	1277118759	Dai Loc		locality	5
 570000	1310520531	Binh Son		locality	1
+590000	890433751	Thu Dau Mot		locality	2
 590000	1276563805	An Lao		locality	1
+590000	421189681	Qui Nhơn		locality	1
 590000	890440085	Qui Nhon		locality	1
-590000	890433751	Thu Dau Mot		locality	1
-600000	421203845	Pleiku		locality	10
+600000	421203845	Pleiku		locality	11
 600000	890451565	Hung Yen		locality	1
+610000	890435345	Da Lat		locality	1
 611017	890435345	Da Lat		locality	1
 620000	890443889	Tuy Hoa		locality	1
-630000	890443893	Buon Ma Thuot		locality	2
-650000	421179863	Nha Trang		locality	20
+630000	890443893	Buon Ma Thuot		locality	4
+633460	1259890683	Ea Knop		locality	1
+650000	421179863	Nha Trang		locality	25
+650000	890443893	Buon Ma Thuot		locality	1
 650000	890431503	Cam Ranh		locality	1
 650000	1193152439	Dien Khanh		locality	1
+650000	421195097	Ninh Hòa		locality	1
 652063	421179863	Nha Trang		locality	1
 652510	421179863	Nha Trang		locality	1
 661300	890439923	Lao Cai		locality	1
-670000	890435345	Da Lat		locality	4
-700000	421176809	Ho Chi Minh City		locality	19
+670000	890435345	Da Lat		locality	8
+671461	890435345	Da Lat		locality	1
+700000	421176809	Ho Chi Minh City		locality	24
+700000	421177479	Hanoi		locality	1
 700000	1125906847	Phan Thiết		locality	1
+700000	1293354869	An Phu		locality	1
 700000	1277093107	Phuoc Binh		locality	1
+700000	1225800589	Tan Quy		locality	1
 700000	1293114079	Thuan An		locality	1
+700000	1226206875	Thu Duc		locality	1
 700000	1310064747	Tan Kien		locality	1
 700900	421176809	Ho Chi Minh City		locality	1
 708000	421176809	Ho Chi Minh City		locality	2
 710200	421176809	Ho Chi Minh City		locality	1
+710880	421176809	Ho Chi Minh City		locality	2
+713100	421176809	Ho Chi Minh City		locality	1
+713388	421176809	Ho Chi Minh City		locality	1
 720000	421176809	Ho Chi Minh City		locality	1
 725060	421176809	Ho Chi Minh City		locality	1
+729521	421176809	Ho Chi Minh City		locality	1
 731128	421176809	Ho Chi Minh City		locality	1
 736463	421176809	Ho Chi Minh City		locality	1
+736923	421176809	Ho Chi Minh City		locality	1
 741039	421176809	Ho Chi Minh City		locality	1
 756604	421176809	Ho Chi Minh City		locality	2
+764000	1259995075	Thong Nhat		locality	1
 790000	890443885	Saint James		locality	3
 790000	890451571	Bắc Ninh		locality	1
-800000	1125906847	Phan Thiết		locality	3
+790000	1243378887	Phu Tu Son		locality	1
+800000	1125906847	Phan Thiết		locality	7
+800000	421176809	Ho Chi Minh City		locality	2
+800000	421170217	Lagi		locality	1
 800000	1141906937	Phan Thiet		locality	1
 801090	1141906937	Phan Thiet		locality	4
-810000	421189679	Biên Hòa		locality	3
+810000	421189679	Biên Hòa		locality	1
+820000	890433751	Thu Dau Mot		locality	2
+820000	1260095655	Binh Duong		locality	1
 820000	421195991	Dĩ An		locality	1
+820000	421166559	Bong Son		locality	1
 820000	890440085	Qui Nhon		locality	1
-820000	890433751	Thu Dau Mot		locality	1
-840000	890441781	Tây Ninh		locality	1
+824461	1293114079	Thuan An		locality	2
+840000	421177479	Hanoi		locality	2
+840000	890441781	Tây Ninh		locality	2
 860000	421184479	Cai Lậy		locality	1
+860000	1193202699	Tan Hiep		locality	1
 861003	421176811	Mỹ Tho		locality	6
 861006	421176811	Mỹ Tho		locality	1
 861007	421176811	Mỹ Tho		locality	1
@@ -215,20 +350,23 @@ Thanh Khê	421168907	Da Nang		locality	1
 861026	421176811	Mỹ Tho		locality	1
 861047	421176811	Mỹ Tho		locality	1
 861051	421176811	Mỹ Tho		locality	2
-861054	421176811	Mỹ Tho		locality	1
+861054	421176811	Mỹ Tho		locality	2
 861061	421176811	Mỹ Tho		locality	2
+861062	421176811	Mỹ Tho		locality	1
 861343	421176811	Mỹ Tho		locality	4
 861620	421176811	Mỹ Tho		locality	3
 861653	421176811	Mỹ Tho		locality	1
-900000	421168911	Can Tho		locality	4
+900000	421168911	Can Tho		locality	8
 900000	421176809	Ho Chi Minh City		locality	1
 920000	421202489	Phú Quốc		locality	4
 920000	421176025	Duong Dong		locality	1
 922204	421202489	Phú Quốc		locality	1
 922221	421202489	Phú Quốc		locality	1
 950000	421176021	Sóc Trăng		locality	1
-1000000	421177479	Hanoi		locality	4
+970000	890440163	Cà Mau		locality	1
+1000000	421177479	Hanoi		locality	6
 1000001	421177479	Hanoi		locality	1
-7000000	421176809	Ho Chi Minh City		locality	1
+7000000	421176809	Ho Chi Minh City		locality	2
 0914663166	421177479	Hanoi		locality	1
 0947733060	421177479	Hanoi		locality	1
+4601526098	1243382619	Phu Luong		locality	1

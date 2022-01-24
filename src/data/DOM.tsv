@@ -1,96 +1,129 @@
+???	890429209	Santo Domingo		locality	4
 00000	890429209	Santo Domingo		locality	1
+DO	890429209	Santo Domingo		locality	1
 0001	1141906103	Cotuí		locality	1
-1809	1344196353	El Cajuilito		locality	1
 2890	890429209	Santo Domingo		locality	1
 3100	421171801	San Francisco de Macorís		locality	1
 5100	421177029	Santiago de los Caballeros		locality	1
 10101	890429209	Santo Domingo		locality	1
-10107	890429209	Santo Domingo		locality	7
+10103	890429209	Santo Domingo		locality	1
+10107	890429209	Santo Domingo		locality	8
 10109	890429209	Santo Domingo		locality	5
-10111	890429209	Santo Domingo		locality	4
+10111	890429209	Santo Domingo		locality	5
+10112	890429209	Santo Domingo		locality	1
 10113	890429209	Santo Domingo		locality	2
 10114	890429209	Santo Domingo		locality	1
-10115	890429209	Santo Domingo		locality	1
+10115	890429209	Santo Domingo		locality	2
 10118	890429209	Santo Domingo		locality	2
 10119	890429209	Santo Domingo		locality	4
 10120	890429209	Santo Domingo		locality	1
-10121	890429209	Santo Domingo		locality	7
-10122	890429209	Santo Domingo		locality	74
+10121	890429209	Santo Domingo		locality	8
+10122	890429209	Santo Domingo		locality	75
 10124	890429209	Santo Domingo		locality	3
-10125	890429209	Santo Domingo		locality	73
+10125	890429209	Santo Domingo		locality	68
 10126	1276175129	Dominica		locality	1
-10126	890429209	Santo Domingo		locality	1
-10127	890429209	Santo Domingo		locality	3
-10129	890429209	Santo Domingo		locality	38
+10127	890429209	Santo Domingo		locality	4
+10128	890429209	Santo Domingo		locality	1
+10129	890429209	Santo Domingo		locality	37
+10130	890429209	Santo Domingo		locality	1
+10131	1326784333	Los Prados		locality	1
+10131	890429209	Santo Domingo		locality	1
 10132	890429209	Santo Domingo		locality	1
+10133	890429209	Santo Domingo		locality	2
 10136	890429209	Santo Domingo		locality	1
 10137	890429209	Santo Domingo		locality	1
 10143	890429209	Santo Domingo		locality	2
 10145	890429209	Santo Domingo		locality	1
-10147	890429209	Santo Domingo		locality	6
-10148	890429209	Santo Domingo		locality	3
-10149	890429209	Santo Domingo		locality	94
+10147	1276175129	Dominica		locality	13
+10147	890429209	Santo Domingo		locality	13
+10148	890429209	Santo Domingo		locality	4
+10148	1276175129	Dominica		locality	1
+10149	890429209	Santo Domingo		locality	101
 10201	890429209	Santo Domingo		locality	1
 10202	890429209	Santo Domingo		locality	2
 10203	890429209	Santo Domingo		locality	5
 10204	890429209	Santo Domingo		locality	1
-10205	890429209	Santo Domingo		locality	7
+10205	890429209	Santo Domingo		locality	10
 10209	890429209	Santo Domingo		locality	1
-10210	890429209	Santo Domingo		locality	2
+10210	890429209	Santo Domingo		locality	5
 10302	890429209	Santo Domingo		locality	17
 10308	890429209	Santo Domingo		locality	1
 10309	890429209	Santo Domingo		locality	2
-10401	890429209	Santo Domingo		locality	1
+10401	890429209	Santo Domingo		locality	2
 10410	890429209	Santo Domingo		locality	1
 10412	890429209	Santo Domingo		locality	1
 10413	890429209	Santo Domingo		locality	15
+10502	890429209	Santo Domingo		locality	1
 10507	890429209	Santo Domingo		locality	5
+10510	890429209	Santo Domingo		locality	1
 10514	890429209	Santo Domingo		locality	5
 10602	890429209	Santo Domingo		locality	1
 10604	890429209	Santo Domingo		locality	1
-10901	1293154661	Santo Domingo Oeste		locality	38
-10902	1293154661	Santo Domingo Oeste		locality	44
+10605	890429209	Santo Domingo		locality	1
+10901	1293154661	Santo Domingo Oeste		locality	39
+10902	1293154661	Santo Domingo Oeste		locality	46
 10904	1293154661	Santo Domingo Oeste		locality	1
 10905	1293154661	Santo Domingo Oeste		locality	2
 11005	890429209	Santo Domingo		locality	1
 11101	890429209	Santo Domingo		locality	1
-11108	890429209	Santo Domingo		locality	5
+11102	890429209	Santo Domingo		locality	1
+11108	890429209	Santo Domingo		locality	6
 11109	890429209	Santo Domingo		locality	200
 11110	890429209	Santo Domingo		locality	1
 11111	890429209	Santo Domingo		locality	3
 11112	890429209	Santo Domingo		locality	2
-11113	1293154661	Santo Domingo Oeste		locality	1
 11114	890429209	Santo Domingo		locality	4
 11206	1225896101	Villa Mella		locality	1
 11207	890429209	Santo Domingo		locality	1
 11211	1293176721	Sosua, Cabarete		locality	1
 11302	1225896101	Villa Mella		locality	1
-11501	1293922531	Santo Domingo Este		locality	6
+11403	1293922531	Santo Domingo Este		locality	1
+11501	1293922531	Santo Domingo Este		locality	7
 11504	1293922531	Santo Domingo Este		locality	4
+11505	1293922531	Santo Domingo Este		locality	1
 11506	1293922531	Santo Domingo Este		locality	2
 11507	1293922531	Santo Domingo Este		locality	1
+11508	1293922531	Santo Domingo Este		locality	2
+11509	1293922531	Santo Domingo Este		locality	5
+11509	890429209	Santo Domingo		locality	1
+11510	1293922531	Santo Domingo Este		locality	2
 11512	1293922531	Santo Domingo Este		locality	2
+11515	1293922531	Santo Domingo Este		locality	2
+11517	1293922531	Santo Domingo Este		locality	1
+11602	1293922531	Santo Domingo Este		locality	1
 11604	1293922531	Santo Domingo Este		locality	1
 11708	1293922531	Santo Domingo Este		locality	12
+11801	1293922531	Santo Domingo Este		locality	8
+11802	1293922531	Santo Domingo Este		locality	183
 11802	890429209	Santo Domingo		locality	1
+11803	1293922531	Santo Domingo Este		locality	4
+11804	1293922531	Santo Domingo Este		locality	2
+11805	1293922531	Santo Domingo Este		locality	4
+11806	1293922531	Santo Domingo Este		locality	2
+11807	1293922531	Santo Domingo Este		locality	3
+11809	1242620447	Los Alcarrizos		locality	1
+11809	1293922531	Santo Domingo Este		locality	1
 11901	1293922531	Santo Domingo Este		locality	3
 11911	1293922531	Santo Domingo Este		locality	1
 15700	421179071	Boca Chica		locality	2
 15701	421179071	Boca Chica		locality	1
+21000	421187077	San Pedro de Macorís		locality	1
 22000	421174429	La Romana		locality	11
-23000	1126024505	Punta Cana		locality	7
-23000	1226225937	Bavaro		locality	4
+23000	1126024505	Punta Cana		locality	19
+23000	1226225937	Bavaro		locality	6
 23000	421174429	La Romana		locality	3
+23000	1125982923	Salvaleón de Higüey		locality	2
 23000	1226426189	Bayahibe		locality	1
-23000	1141906127	Higuey		locality	1
-23301	1126024505	Punta Cana		locality	2
+23300	1310200331	Pantanal		locality	2
+23301	1126024505	Punta Cana		locality	4
 23301	1276292923	Batey La Altagracia		locality	1
 25000	421172963	Sabana de la Mar		locality	15
 25000	421176199	Hato Mayor del Rey		locality	1
 25100	421172963	Sabana de la Mar		locality	1
 30000	421171801	San Francisco de Macorís		locality	6
-31000	421171801	San Francisco de Macorís		locality	82
+31000	421171801	San Francisco de Macorís		locality	86
 31000	890429531	Castillo		locality	14
+31000	890455309	La Peña		locality	6
 31000	890434793	Las Guáranas		locality	6
 31000	421169221	Pimentel		locality	4
 31000	1226464621	La Yagueiza		locality	2
@@ -99,19 +132,19 @@
 31000	1242675103	Gueiza		locality	1
 31000	1209512827	La Joya		locality	1
 32000	1276952695	Las Galeras		locality	5
-32000	1125938531	Las Terrenas		locality	2
+32000	1125938531	Las Terrenas		locality	3
 32000	890444701	Santa Bárbara de Samaná		locality	1
 33000	421171801	San Francisco de Macorís		locality	8
 33000	421169221	Pimentel		locality	4
 33000	421174655	Nagua		locality	3
-33000	421182699	Cabrera		locality	2
 33000	890429531	Castillo		locality	2
 33000	1226339915	Mata Larga		locality	2
+33000	421182699	Cabrera		locality	1
 33000	890434793	Las Guáranas		locality	1
 34000	890438785	Tenares		locality	19
 34000	1192980955	Conuco		locality	1
 34000	1141906121	Salcedo		locality	1
-41000	890442067	Concepción de la Vega		locality	15
+41000	890442067	Concepción de la Vega		locality	21
 41000	1276174255	El Ranchito		locality	6
 41000	890429527	Jarabacoa		locality	4
 41000	890454119	Rincón		locality	2
@@ -119,27 +152,31 @@
 41009	890442067	Concepción de la Vega		locality	9
 42000	890444785	Bonao		locality	8
 42002	890444785	Bonao		locality	1
-42006	890444785	Bonao		locality	15
+42006	890444785	Bonao		locality	14
 43000	890444765	Fantino		locality	4
+43000	1226003593	Villa La Mata		locality	2
 43000	1141906103	Cotuí		locality	1
-51000	1209073891	La Lomota		locality	10
-51000	421177029	Santiago de los Caballeros		locality	9
+43000	1310164557	La Mata		locality	1
+43002	1141906103	Cotuí		locality	1
+44000	1141906103	Cotuí		locality	3
+51000	421177029	Santiago de los Caballeros		locality	12
+51000	1226139901	Licey al Medio		locality	1
 51000	1259836973	Pontezuela Abajo		locality	1
 51000	890444707	Sabana Iglesia		locality	1
 51000	1327189525	Bella Vista		locality	1
-51043	1209073891	La Lomota		locality	22
+51043	421177029	Santiago de los Caballeros		locality	22
 51052	1243509747	Hoya del Caimito		locality	1
 51072	421177029	Santiago de los Caballeros		locality	14
-51072	1209073891	La Lomota		locality	1
-51103	890422091	La Canela		locality	15
+51100	421179061	San José de las Matas		locality	2
+51103	890422091	La Canela		locality	17
 51103	1277144671	Sabana Grande		locality	4
 55000	890444719	Moca		locality	2
 56000	890444719	Moca		locality	7
 56000	890422231	Río San Juan		locality	2
 56000	421179067	Gaspar Hernández		locality	1
 56011	890444719	Moca		locality	1
-57000	1125868457	Cabarete		locality	4
-57000	890438783	Puerto Plata		locality	3
+57000	1125868457	Cabarete		locality	5
+57000	890438783	Puerto Plata		locality	5
 57000	890438793	Sosúa		locality	3
 57100	890438793	Sosúa		locality	2
 57600	1293176721	Sosua, Cabarete		locality	2
@@ -147,12 +184,15 @@
 71000	890434795	Las Charcas		locality	1
 71000	421176197	Padre Las Casas		locality	1
 71001	890442071	Azua		locality	10
+71002	890442071	Azua		locality	2
 71003	890442071	Azua		locality	1
 71007	1343509985	Vallejo		locality	1
+72000	1125938573	Las Matas de Farfán		locality	5
 73000	421177523	Hondo Valle		locality	31
 81503	890422235	Polo		locality	9
 82000	890444715	Neiba		locality	1
+91000	421172745	Benemérita de San Cristóbal		locality	3
 94000	421170373	Baní		locality	1
 420006	890444785	Bonao		locality	2
 430000	1141906103	Cotuí		locality	2
-510000	1209073891	La Lomota		locality	1
+510000	421177029	Santiago de los Caballeros		locality	1

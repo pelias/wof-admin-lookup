@@ -1,68 +1,81 @@
 +970	101921387	Nablus		locality	1
 +972	101920881	Jenin		locality	1
+P7870027	1175613229	Hebron		locality	1
 02	1125962967	Ramallah		locality	1
-14	101921881	Birzeit		locality	1
-164	101922347	Beit Jala		locality	4
+02	101922085	Jericho		locality	1
+14	1125855173	Birzeit		locality	1
 0221	101920881	Jenin		locality	1
+233	101920983	Al Mughayyir		locality	1
 302	1125834307	Tulkarm		locality	1
 390	1125824847	Salfit		locality	3
-500	101919759	Gaza City		locality	1
+500	101919639	Gaza City		locality	1
 631	101921973	Ramallah		locality	3
-702	1175613229	Hebron		locality	1
-00970	101919639	Gaza City		locality	7
+00970	101919639	Gaza City		locality	8
 00970	1125834307	Tulkarm		locality	5
 00970	101921387	Nablus		locality	5
-00970	101922005	Al-Bireh		locality	3
-00970	1125825087	Dura		locality	2
-970	1175613229	Hebron		locality	2
-00970	101921953	Ramallah		locality	1
-00970	101922085	Jericho		locality	1
+00970	101921975	Al-Bireh		locality	3
+00970	101920881	Jenin		locality	1
+00970	101921973	Ramallah		locality	1
 00970	1125861479	Al Birah		locality	1
 970	101919639	Gaza City		locality	1
+970	101921387	Nablus		locality	1
+00972	101919639	Gaza City		locality	4
 00972	101921387	Nablus		locality	3
-00972	1175613229	Hebron		locality	2
 00972	1125841687	Rafah		locality	2
-00972	101921881	Birzeit		locality	1
-00972	101919639	Gaza City		locality	1
+00972	101921975	Al-Bireh		locality	1
+00972	1125855173	Birzeit		locality	1
 00972	101919435	Qalqilya		locality	1
 00972	1125962967	Ramallah		locality	1
 00972	101921181	Tulkarm		locality	1
-00972	101922773	Dura		locality	1
 00972	1175613317	Rafat		locality	1
-972	101921943	Ramallah		locality	1
-972	1125824629	Yatta		locality	1
-972+	1175613229	Hebron		locality	1
-1212	1125861479	Al Birah		locality	1
+972	1125962967	Ramallah		locality	1
+1212	101921975	Al-Bireh		locality	1
+4570	101921973	Ramallah		locality	1
 5715	101921387	Nablus		locality	1
+45614	101920687	Rafah		locality	2
 61210	101921447	Tell		locality	1
 62489	101921447	Tell		locality	1
+63117	101921447	Tell		locality	1
 63904	101921447	Tell		locality	1
+64731	101921447	Tell		locality	3
+64739	101921447	Tell		locality	3
 65252	101921447	Tell		locality	3
 66550	101921447	Tell		locality	1
 69362	101921447	Tell		locality	1
 69395	101921447	Tell		locality	1
 69975	101921447	Tell		locality	1
+71940	1360221557	Pedu'el		locality	1
 84950	101921447	Tell		locality	1
+86815z	101921029	Arraba		locality	1
 90100	1175613229	Hebron		locality	1
 90622	101921447	Tell		locality	83
-90907	101922341	Bethlehem		locality	2
-90907	1125885929	Beit Jala		locality	1
-91193	1125841841	Beit Sahour		locality	1
-99903	101919745	Gaza City		locality	1
+90627	1276266329	Ofra		locality	1
+99903	101919639	Gaza City		locality	1
+123456	101921387	Nablus		locality	1
+4060056	1126023901	Tell		locality	1
+4075419	890452103	Ariel		locality	1
 6230231	101921447	Tell		locality	1
 6274422	101921447	Tell		locality	1
 6296802	101921447	Tell		locality	1
+6423806	101921447	Tell		locality	1
 6492808	101921447	Tell		locality	1
 6515701	101921447	Tell		locality	1
-6525216	101921447	Tell		locality	1
+6525216	101921447	Tell		locality	2
 6527401	101921447	Tell		locality	1
 6560330	101921447	Tell		locality	1
 6560334	101921447	Tell		locality	1
 6688209	101921447	Tell		locality	1
 6688218	101921447	Tell		locality	1
 6713521	101921447	Tell		locality	1
+6777517	101921447	Tell		locality	1
 6806546	101921447	Tell		locality	2
 6812509	101921447	Tell		locality	1
 6812513	101921447	Tell		locality	1
 6812526	101921447	Tell		locality	1
+6962342	101921447	Tell		locality	1
+6962343	101921447	Tell		locality	1
+7194000	1360221557	Pedu'el		locality	3
+9020000	1175613229	Hebron		locality	1
+9045634	1209250771	Efrata		locality	10
 9067000	101922085	Jericho		locality	1
+00972599625770	101919639	Gaza City		locality	1

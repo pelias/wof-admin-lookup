@@ -3,161 +3,221 @@ AB210	1209416123	Allai		locality	11
 KS26 2AA	1293223891	Kallar Saiyidan		locality	3
 AK210	1209416123	Allai		locality	1
 Baltistan	421194809	Skardu		locality	1
-RC8 6AE	421173213	Rawalpindi		locality	1
 RC8 6AF	421173213	Rawalpindi		locality	1
 RC8 6AW	1326814999	Rāwal		locality	1
-041	421181503	Faisalabad		locality	1
 531	421204525	Lahore		locality	1
+1556	421187073	Muzaffargarh		locality	1
 2500	1293299531	Hayātābād		locality	1
 2500	421191105	Peshawar		locality	1
 2528	1293299425	Marwat		locality	1
+3645+66R	1276659505	Sabura		locality	1
 3800	421181503	Faisalabad		locality	5
-4400	421168811	Islamabad		locality	1
 4600	421173213	Rawalpindi		locality	1
-7100	421168813	Hyderabad		locality	1
+5400	1125892183	Pasrur Tehsil		locality	1
+5400	421194183	Daska Tehsil		locality	1
+7100	421168813	Hyderabad		locality	2
+7200	421174195	Chitrāl		locality	1
+10250	1259681095	New Mirpur		locality	7
 10530	1293494437	Ak		locality	2
 12200	890430629	Rawlakot		locality	1
-15100	421168817	Gilgit		locality	9
+13100	421187637	Muzaffarabad		locality	3
+15100	421168817	Gilgit		locality	60
+15100	1327454111	Gulmit		locality	7
+15100	1343647339	Jutial		locality	6
+15100	421169615	Karimabad		locality	3
 15400	421168817	Gilgit		locality	1
-15750	1226236197	Hunza		locality	1
+15700	421169615	Karimabad		locality	1
+15750	421169615	Karimabad		locality	1
 17200	1293201409	Reshun		locality	1
-19130	421172857	Mingora		locality	7
-19200	421172857	Mingora		locality	2
+18000	421167273	Dīr		locality	3
+18600	1327036727	Buddhu		locality	1
+19100	1276442841	Lilownai		locality	1
+19130	421172857	Mingora		locality	8
+19200	421172857	Mingora		locality	7
+19200	1343762935	Swat		locality	3
 19200	1209707619	Abad		locality	1
 20500	421166671	Besham		locality	2
-21010	1209416123	Allai		locality	60
+21010	1209416123	Allai		locality	67
+21010	1293105495	Khana		locality	2
 21010	1193017151	Kharg		locality	1
-21011	1209416123	Allai		locality	22
-21040	1226748615	Battagram		locality	5
-21300	1276344421	Warana		locality	55
+21011	1209416123	Allai		locality	25
+21040	1226748615	Battagram		locality	6
+21300	1276344421	Warana		locality	54
 21300	1344263763	Shagai		locality	2
 21300	1225951007	Judba		locality	1
 21300	421200431	Karak		locality	1
 22010	1141906435	Abbottabad		locality	17
+22850	1193276387	Tarbela Dam		locality	1
 23020	1259792657	Agara		locality	5
 23050	1243172859	Dheri		locality	19
 23050	421190987	Bat Khela		locality	4
 23060	1242971547	Dargai		locality	1
-23200	421178591	Mardan		locality	2
+23160	1309804675	Bhai Kalle		locality	1
+23200	421178591	Mardan		locality	3
 23421	421202487	Swābi		locality	2
 23460	421167207	Topi		locality	1
-25000	421191105	Peshawar		locality	27
+24000	421167283	Chārsadda		locality	1
+24420	421167283	Chārsadda		locality	1
+25000	421191105	Peshawar		locality	28
+26190	421167263	Hangu		locality	5
 27001	421200431	Karak		locality	1
 27200	421200431	Karak		locality	15
 27300	421200431	Karak		locality	1
-28100	421195435	Bannu		locality	30
+28100	421195435	Bannu		locality	29
+29540	421205185	Wana		locality	2
+31200	421178579	Layyah		locality	1
 32000	421178579	Layyah		locality	1
+33000	421197395	Jampur Tehsil		locality	1
+35090	1243576965	Sial		locality	1
 35460	1276546783	Chenab Nagar		locality	4
 36000	421181503	Faisalabad		locality	1
-36300	421167217	Pir Mahal		locality	1
-38000	421181503	Faisalabad		locality	44
+36300	421167217	Pir Mahal		locality	2
+38000	421181503	Faisalabad		locality	58
 38000	1209514993	Peoples Colony		locality	1
 38001	421181503	Faisalabad		locality	4
-40100	421175531	Sargodha		locality	1
+38900	421181503	Faisalabad		locality	1
+40100	421175531	Sargodha		locality	4
 41100	1260085529	Naushera		locality	1
+41300	1326535391	Gunjyal		locality	1
 42200	421200339	Mianwali		locality	1
 42200	1343267095	Thammewali		locality	1
 42250	421200339	Mianwali		locality	1
 43600	1309911479	Attock		locality	2
-44000	421168811	Islamabad		locality	50
-44000	421173213	Rawalpindi		locality	3
+43730	421204521	Hasan Abdal		locality	4
+44000	421168811	Islamabad		locality	23
+44000	421173213	Rawalpindi		locality	7
+44000	1243269663	Alipur		locality	1
 44000	421191105	Peshawar		locality	1
-44220	421168811	Islamabad		locality	2
-44790	421168811	Islamabad		locality	1
+44800	421168811	Islamabad		locality	1
 45000	421173213	Rawalpindi		locality	1
+45210	421168811	Islamabad		locality	39
 45600	1243269663	Alipur		locality	1
+45710	421168811	Islamabad		locality	1
 45730	421173213	Rawalpindi		locality	1
-46000	421173213	Rawalpindi		locality	35
-46000	421168811	Islamabad		locality	3
+45750	421168811	Islamabad		locality	1
+46000	421173213	Rawalpindi		locality	61
+46220	421173213	Rawalpindi		locality	1
+46222	421173213	Rawalpindi		locality	1
 46600	421173213	Rawalpindi		locality	1
+47040	421180705	Wah		locality	1
+47080	421201765	Taxila		locality	1
+48530	421174199	Kallar Kahar		locality	2
 48610	1242897179	Murid		locality	1
-49600	421180063	Alexandria Bucephalous		locality	1
+49100	1276768235	Pinanwal		locality	1
+49400	1276759409	Dina		locality	1
+49600	421180063	Alexandria Bucephalous		locality	2
 50130	890436603	Kharian		locality	1
 50220	1125902953	Lalamusa		locality	4
+50280	421201105	Dinga		locality	1
 50430	421200445	Phalia		locality	1
-50700	890443589	Gujrat		locality	1
-51010	421194183	Daska Tehsil		locality	2
+50700	890443589	Gujrat		locality	3
+51010	421194183	Daska Tehsil		locality	13
+51220	421175525	Sialkot		locality	1
+51300	421175525	Sialkot		locality	1
+51310	421175525	Sialkot		locality	9
 51310	1243090691	Hundal		locality	4
-51310	421175525	Sialkot		locality	4
 51800	421196451	Shakargarh		locality	2
 51800	1209721057	Kartarpur		locality	1
 52080	1242879677	Alipur Chatha		locality	1
-52250	421182299	Gujranwala		locality	4
-52400	421204525	Lahore		locality	1
+52110	890433631	Hafizabad District		locality	1
+52250	421182299	Gujranwala		locality	8
+52470	421182299	Gujranwala		locality	3
+53200	421204525	Lahore		locality	1
+53400	421204525	Lahore		locality	1
 53700	421204525	Lahore		locality	3
-54000	421204525	Lahore		locality	417
+54000	421204525	Lahore		locality	459
 54010	421204525	Lahore		locality	1
 54357	421204525	Lahore		locality	1
 54500	421204525	Lahore		locality	5
-54590	421204525	Lahore		locality	2
-54600	421204525	Lahore		locality	12
-54660	421204525	Lahore		locality	6
-54700	421204525	Lahore		locality	7
+54570	421204525	Lahore		locality	3
+54590	421204525	Lahore		locality	3
+54600	421204525	Lahore		locality	14
+54660	421204525	Lahore		locality	10
+54700	421204525	Lahore		locality	13
 54770	421204525	Lahore		locality	1
+54780	421204525	Lahore		locality	1
+54782	421204525	Lahore		locality	6
 54786	421204525	Lahore		locality	2
-54792	421204525	Lahore		locality	3
+54792	421204525	Lahore		locality	10
 54810	421204525	Lahore		locality	3
-54950	421204525	Lahore		locality	2
+54950	421204525	Lahore		locality	3
 55000	421204525	Lahore		locality	1
-55050	421203947	Kasur		locality	5
-55270	1209105857	Manga Mandi		locality	1
+55050	421203947	Kasur		locality	7
+55250	421182299	Gujranwala		locality	2
+55270	1209105857	Manga Mandi		locality	2
 56180	1125865763	Dipalpur		locality	1
-56300	1242896937	Mouza Akbar		locality	8
+56300	1242896937	Mouza Akbar		locality	9
+56300	421201121	Okara		locality	5
+56300	1310606779	Akbar		locality	4
 56301	1242896937	Mouza Akbar		locality	3
+56301	1310606779	Akbar		locality	1
 57000	890443583	Montgomery		locality	4
+57200	421170321	Chichawatni		locality	1
 57201	421170321	Chichawatni		locality	1
 57400	421167225	Pakpattan		locality	2
 58000	421167235	Mian Channu		locality	3
 58000	421204525	Lahore		locality	1
 58150	1260290311	Khanewal		locality	2
-60000	890443585	Multan		locality	14
+58200	421175011	Jahania		locality	11
+60000	890443585	Multan		locality	21
+60700	890443585	Multan		locality	2
 61010	1260181491	Mandi Burewala		locality	1
-61100	421193927	Vehari		locality	1
-63100	421200425	Bahāwalpur		locality	4
+61100	421193927	Vehari		locality	2
+63100	421200425	Bahāwalpur		locality	5
 63350	1344256653	Okara Cantonment		locality	1
-64200	1141906431	Rahim Yar Khan		locality	4
+64000	1343364609	Liaquatpur		locality	1
+64100	421197855	Khanpur		locality	1
+64200	1141906431	Rahim Yar Khan		locality	7
 66020	421200705	Khairpur		locality	1
-71000	421168813	Hyderabad		locality	5
+67210	421200447	Sakrand		locality	2
+70010	421185581	Tando Allahyar		locality	1
+71000	421168813	Hyderabad		locality	8
 71503	421193713	Nooriabad		locality	1
+71800	421168813	Hyderabad		locality	1
 72590	421191101	Karachi		locality	1
-74000	421191101	Karachi		locality	1
-74200	421191101	Karachi		locality	48
+74000	421191101	Karachi		locality	4
+74200	421191101	Karachi		locality	47
+74200	421204525	Lahore		locality	1
+74300	421191101	Karachi		locality	1
 74400	421191101	Karachi		locality	4
 74500	421191101	Karachi		locality	1
 74550	421191101	Karachi		locality	2
-74600	421191101	Karachi		locality	1
-74700	421191101	Karachi		locality	1089
+74600	421191101	Karachi		locality	2
+74700	421191101	Karachi		locality	1075
 74900	421191101	Karachi		locality	1
 75000	421191101	Karachi		locality	1
-75010	421191101	Karachi		locality	19
+75010	421191101	Karachi		locality	21
 75010	1209218979	Steel Town		locality	4
-75020	421191101	Karachi		locality	90
+75020	421191101	Karachi		locality	93
 75030	421191101	Karachi		locality	1
 75080	421191101	Karachi		locality	3
-75160	421191101	Karachi		locality	1
+75160	421191101	Karachi		locality	2
 75190	421191101	Karachi		locality	3
 75230	421191101	Karachi		locality	1
 75280	421191101	Karachi		locality	1
-75290	421191101	Karachi		locality	3
-75300	421191101	Karachi		locality	20
-75350	421191101	Karachi		locality	4
+75290	421191101	Karachi		locality	4
+75300	421191101	Karachi		locality	29
+75330	421191101	Karachi		locality	1
+75350	421191101	Karachi		locality	18
 75390	421191101	Karachi		locality	1
-75400	421191101	Karachi		locality	322
-75460	421191101	Karachi		locality	682
-75500	421191101	Karachi		locality	224
+75400	421191101	Karachi		locality	12
+75460	421191101	Karachi		locality	314
+75500	421191101	Karachi		locality	235
 75530	421191101	Karachi		locality	1
-75600	421191101	Karachi		locality	5
+75600	421191101	Karachi		locality	7
+75800	421191101	Karachi		locality	2
 75840	421191101	Karachi		locality	1
-75850	421191101	Karachi		locality	3
+75850	421191101	Karachi		locality	4
 75890	421191101	Karachi		locality	1
-75950	421191101	Karachi		locality	2
+75950	421191101	Karachi		locality	3
 75990	421191101	Karachi		locality	1
+78100	1343254659	Mian Sahib		locality	1
 89100	1125820187	Khuzdār		locality	1
 152001	1292903023	Chak Two Hundred Three Gugera Branch		locality	1
-180001	102029991	Jammu		locality	4
-180002	102029991	Jammu		locality	1
+180001	102029991	Jammu		locality	5
+180002	102029991	Jammu		locality	2
 180003	1293770599	Satwari		locality	1
-180004	102029991	Jammu		locality	1
+180004	102029991	Jammu		locality	2
 180005	102029991	Jammu		locality	3
 180007	102029991	Jammu		locality	4
 180010	102029991	Jammu		locality	2
@@ -165,38 +225,46 @@ RC8 6AW	1326814999	Rāwal		locality	1
 182101	102028373	Udhampur		locality	1
 182142	890502907	Kud		locality	2
 182144	1126012463	Ramban		locality	1
-182202	890506963	Doda		locality	1
+182161	102028373	Udhampur		locality	1
+182202	890506963	Doda		locality	4
+182203	1343541131	Thathri		locality	5
 182204	890504121	Kishtwar		locality	1
 182320	890502963	Reasi		locality	1
-184102	102029799	Kathua		locality	3
+184102	102029799	Kathua		locality	2
 184104	102029799	Kathua		locality	1
 184121	1125874175	Samba		locality	1
 184141	1125874175	Samba		locality	2
 185101	1259859189	Haveli		locality	1
 185131	890501421	Rajauri		locality	1
 190001	102028565	Srinagar		locality	3
-190003	102028565	Srinagar		locality	1
+190002	102028565	Srinagar		locality	2
+190003	102028565	Srinagar		locality	2
 190004	102028565	Srinagar		locality	1
 190005	102028565	Srinagar		locality	1
-190006	102028565	Srinagar		locality	2
+190006	102028565	Srinagar		locality	4
 190010	102028565	Srinagar		locality	1
-190011	102028565	Srinagar		locality	1
+190011	102028565	Srinagar		locality	2
 190015	102028565	Srinagar		locality	2
+190019	102028565	Srinagar		locality	1
 191111	890506453	Budgam		locality	1
 191113	890506453	Budgam		locality	1
 191121	102028565	Srinagar		locality	1
-191201	890502191	Ganderbal		locality	1
-192101	1125976777	Anantnag		locality	1
+191201	890502191	Ganderbal		locality	2
+192101	1125976777	Anantnag		locality	2
 192121	102028565	Srinagar		locality	1
 192201	1310680835	Achhibal		locality	5
 192210	1125976777	Anantnag		locality	1
+192211	1125976777	Anantnag		locality	1
 192231	890508979	Kulgam		locality	1
 192301	890504583	Pulwama		locality	1
 192303	890510573	Shupiyan		locality	2
 193101	890510837	Baramulla		locality	1
 193221	1276739737	Handwara		locality	1
 193403	102030175	Gulmarg		locality	1
-194101	102029575	Leh		locality	4
-230843	421182299	Gujranwala		locality	1
-440000	421168811	Islamabad		locality	2
+193501	890511623	Hajan		locality	15
+194101	102029575	Leh		locality	5
+194101	1226736667	Alchi Goempa		locality	2
+194302	1260157721	Padam		locality	1
+194401	890449775	Nubra Valley		locality	1
+230843	421182299	Gujranwala		locality	2
 540000	421204525	Lahore		locality	11

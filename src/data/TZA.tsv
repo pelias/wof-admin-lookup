@@ -1,16 +1,16 @@
-+255	421189813	Dar es Salaam		locality	3
++255	421189813	Dar es Salaam		locality	2
+00000	421189813	Dar es Salaam		locality	2
+TZA	890442543	Maswa District		locality	2
 +255	421189811	Bukoba		locality	1
 +255	1125957569	Kamachumu		locality	1
 +255	1209878761	Kayanga		locality	1
 +255	1126002779	Shinyanga		locality	1
 +255 22 2664203	421189813	Dar es Salaam		locality	1
--	421189813	Dar es Salaam		locality	1
-Dar es Salaam	421189813	Dar es Salaam		locality	1
+0000	421189813	Dar es Salaam		locality	1
+00000	421181459	Arusha		locality	1
 Kassambya	1310168003	Missenyi		locality	1
-Kipunguni B	421189813	Dar es Salaam		locality	1
 M87W+9C	421189829	Moshi		locality	1
-P.O Box 35103	421189813	Dar es Salaam		locality	1
-TZA	1125952847	Maswa		locality	1
+00025	421181605	Iringa		locality	1
 027	421178423	Bariadi		locality	1
 36	421189827	Mbeya		locality	1
 66	421181463	Bagamoyo		locality	1
@@ -21,17 +21,18 @@ TZA	1125952847	Maswa		locality	1
 186	1225832195	Magu		locality	1
 255	1126002779	Shinyanga		locality	10
 255	421189387	Bunda Town		locality	6
-255	421189813	Dar es Salaam		locality	5
+255	421189813	Dar es Salaam		locality	4
 255	421178443	Kasulu		locality	4
 255	421189827	Mbeya		locality	3
 255	421192689	Dodoma		locality	2
 0255	421181459	Arusha		locality	1
+0255	421176891	Monduli		locality	1
 255	421181459	Arusha		locality	1
 255	421178423	Bariadi		locality	1
 255	421177209	Morogoro		locality	1
 255	421205429	Mpanda		locality	1
 255	421201987	Tanga		locality	1
-255	421167003	Igunga		locality	1
+255	890442361	Igunga District		locality	1
 255	421177211	Mwanza		locality	1
 348	421192689	Dodoma		locality	1
 00502	1209234463	Mara		locality	1
@@ -41,35 +42,45 @@ TZA	1125952847	Maswa		locality	1
 1234	421192689	Dodoma		locality	1
 1288	1126002779	Shinyanga		locality	1
 1440 Arusha	421181459	Arusha		locality	1
+1749	421189835	Stone Town		locality	1
 1941	421170425	Zanzibar City		locality	1
-2555	421170425	Zanzibar City		locality	1
 2562	1126002779	Shinyanga		locality	1
 2651	890429631	Nungwi		locality	1
+2800	890439857	Kiwengwa		locality	1
 3120	421189835	Stone Town		locality	1
-4023	421189813	Dar es Salaam		locality	1
+3918	421189813	Dar es Salaam		locality	1
+4053	421189835	Stone Town		locality	1
+4053	421170425	Zanzibar City		locality	1
+4087	421170425	Zanzibar City		locality	1
+4110	421177211	Mwanza		locality	1
 4897	1209473929	Jambiani		locality	1
-5983	421189813	Dar es Salaam		locality	1
 6350	421189827	Mbeya		locality	1
 9452	421189813	Dar es Salaam		locality	1
 11000	421189813	Dar es Salaam		locality	2
-11007	421189813	Dar es Salaam		locality	1
-11101	421189813	Dar es Salaam		locality	3
+11101	421189813	Dar es Salaam		locality	4
 14110	421189813	Dar es Salaam		locality	1
+14128	421189813	Dar es Salaam		locality	4
+15118	421189813	Dar es Salaam		locality	93
+15188	421189813	Dar es Salaam		locality	53
+23101	421181459	Arusha		locality	2
+23103	421181459	Arusha		locality	3
+23104	421181459	Arusha		locality	1
+23105	421181459	Arusha		locality	3
 23114	421181459	Arusha		locality	1
 25107	890443195	Moshi		locality	1
+31100	421170445	Musoma		locality	3
 31537	421189813	Dar es Salaam		locality	2
 32116 Kijitonyama	421189813	Dar es Salaam		locality	2
-33102	421177211	Mwanza		locality	2
 33214	421177211	Mwanza		locality	1
-33221	421177211	Mwanza		locality	1
 33332	421177211	Mwanza		locality	1
 35091	1209604925	Songwe		locality	7
 35091	421199089	Tunduma		locality	1
 37306	1126002779	Shinyanga		locality	1
 47000	421189817	Kigoma		locality	1
+67000	421177209	Morogoro		locality	44
 71101	421189835	Stone Town		locality	6
 71103	421189835	Stone Town		locality	1
-71201	421170425	Zanzibar City		locality	2
+71201	421170425	Zanzibar City		locality	1
 71485	421189813	Dar es Salaam		locality	1
 72110	421170425	Zanzibar City		locality	2
-73000	890429631	Nungwi		locality	1
+155188	421189813	Dar es Salaam		locality	36

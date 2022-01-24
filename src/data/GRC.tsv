@@ -1,437 +1,423 @@
-GR-85 101	101752345	Rhodes		locality	3
 GR 70200	1125872059	Pitsidia		locality	1
-GR-10674	1175612731	Athens		locality	1
-TK 49080	1125963763	Corfu		locality	1
-΄43100	101875543	Karditsa		locality	1
-18 900	101849689	Koulouri		locality	1
-24	1175612731	Athens		locality	1
+GR-85 101	101752345	Rhodes		locality	1
+Πλατεία Αγ. Ευσταθίου	1126000085	Nea Ionia		locality	1
+18 900	101849689	Koulouri		locality	4
 24 100	101848349	Kalamata		locality	1
-46 100	101875715	Igoumenitsa		locality	659
+46 100	101875715	Igoumenitsa		locality	662
 50-300	101855077	Siatista		locality	3
 57 001	1125811423	Thessaloniki		locality	1
 82 102	1125835473	Piryi		locality	1
-84 300	1209950583	Agios Prokopios		locality	3
-104 47	1175612731	Athens		locality	6
-105 64	1175612731	Athens		locality	2
-105 53	1175612731	Athens		locality	1
-116 34	1175612731	Athens		locality	3
-117 45	1175612731	Athens		locality	2
-121 37	1125793049	Petroupoli		locality	79
-124 61	1125839627	Chaidari		locality	11
-131 21	1125836299	Nea Liosia		locality	7
-132 32	1125793049	Petroupoli		locality	2
-132 01	1125793049	Petroupoli		locality	1
-132 31	1175612731	Athens		locality	1
-136 73	1125809947	Acharnes		locality	3
-143 42	1125997691	Nea Filadelfeia		locality	3
-145 75	101875577	Drosia		locality	1
-151 27	1126009777	Melissia		locality	6
-151 26	1125766371	Marousi		locality	1
-151 29	1175612731	Athens		locality	1
-154 51	1175612731	Athens		locality	1
-155 61	1125983671	Cholargos		locality	2
-157 71	1175612731	Athens		locality	5
-161 22	1125851449	Kaisariani		locality	11
-175 62	1125814879	Old Faliron		locality	2
-180 10	101848227	Aiyina		locality	85
-185 34	101752341	Piraeus		locality	292
-185 35	101752341	Piraeus		locality	291
-185 32	101752341	Piraeus		locality	206
-185 33	101752341	Piraeus		locality	138
-185 31	101752341	Piraeus		locality	121
-185 45	101752341	Piraeus		locality	62
-185 36	101752341	Piraeus		locality	50
-185 39	101752341	Piraeus		locality	41
-185 37	101752341	Piraeus		locality	31
-185 38	101752341	Piraeus		locality	19
-185 47	101752341	Piraeus		locality	13
-185 41	101752341	Piraeus		locality	12
-185 42	101752341	Piraeus		locality	3
+84 300	1209950583	Agios Prokopios		locality	2
+143 42	1125997691	Nea Filadelfeia		locality	6
+145 62	1125995731	Kifissia		locality	1
+176 75	1326660397	Kallithea		locality	1
+180 10	101848227	Aiyina		locality	1
+180 20	101875721	Poros		locality	1
 190 03	101849451	Kouvaras		locality	1
-190 09	1225875677	Drafi		locality	1
+190 13	101875589	Anavyssos		locality	1
 190 94	101875573	Kapandriti		locality	1
+210 60	1125780647	Drepano		locality	1
 220 12	1243399719	Rizes		locality	1
 230 51	101848199	Skala		locality	1
 230 52	101875615	Asopos		locality	1
 230 56	101875615	Asopos		locality	1
 250 06	1126048125	Akrata		locality	1
 270 54	1259412331	Agios Ilias		locality	1
-272 00	101849477	Amaliada		locality	1
 282 00	101849611	Lixouri		locality	1
 290 92	1125766351	Laganas		locality	1
 291 00	1276260689	Sarakinado		locality	1
 300 19	1243208461	Kastos		locality	2
 310 80	1293625279	Vafkeri		locality	1
+310 80	1126013095	Karya		locality	1
 310 80	1326666575	Kollyvata		locality	1
 310 82	1293919397	Marantochori		locality	1
+311 00	1126013095	Karya		locality	1
+332 00	1125779845	Kirra		locality	3
 332 00	1125920147	Itéa		locality	2
-332 00	1125779845	Kirra		locality	2
+340 04	1310235511	Pili		locality	1
+340 10	1360321799	Strofylia		locality	1
+350 09	101849291	Agios Serafeim		locality	1
 351 32	101849285	Lamia		locality	1
 370 03	101849465	Skopelos Town		locality	1
-413 35	101752323	Larissa		locality	1
-454 45	101752333	Ioannina		locality	1
-491 00	1125880835	Corfu		locality	15
+454 45	101752333	Ioannina		locality	2
+491 00	1125880835	Corfu		locality	19
 491 31	1125880835	Corfu		locality	2
-491 00	1125963763	Corfu		locality	1
-542 50	1125811423	Thessaloniki		locality	2
 542 50	101752331	Thessaloniki		locality	1
-551??	1125857593	Kalamaria		locality	1
 552 36	101856013	Panorama		locality	5
 555 35	1125857593	Kalamaria		locality	1
-564 30	101752331	Thessaloniki		locality	88
+564 30	101752331	Thessaloniki		locality	91
+565 33	1125779963	Polichni		locality	1
+572 00	1126046371	Kolchikó		locality	12
 572 00	1125925187	Agios Vasileios		locality	1
-591 00	1125860443	Veroia		locality	3
+575 00	101855993	Epanomi		locality	1
+591 00	1125860443	Veroia		locality	11
+600 65	1125953579	Paralia Panteleimonos		locality	2
 600 64	101855155	Kolindros		locality	1
-601 32	101752327	Katerini		locality	351
-601 34	101752327	Katerini		locality	269
-601 33	101752327	Katerini		locality	239
+600 65	1209248395	Platamonas		locality	1
+601 32	101752327	Katerini		locality	362
+601 34	101752327	Katerini		locality	271
+601 33	101752327	Katerini		locality	244
+601 50	1125884985	Olympiaki Akti		locality	86
 601 31	101752327	Katerini		locality	61
-601 00	101855171	Peristasi		locality	15
-601 00	101752327	Katerini		locality	8
-601 00	101855173	Svoronos		locality	6
-601 00	1125777703	Paralia Katerinis		locality	5
-601 00	1125781575	Kallithea		locality	3
-601 00	1125933497	Ganochora		locality	2
-601 00	1125980745	Andromachi		locality	1
+601 50	101855171	Peristasi		locality	15
+601 50	101855175	Paralia Katerinis		locality	14
+601 50	101752327	Katerini		locality	8
+601 50	101855173	Svoronos		locality	6
+601 50	1125781575	Kallithea		locality	3
+601 50	1125933497	Ganochora		locality	2
+601 50	1125777703	Paralia Katerinis		locality	1
+601 50	1125980745	Andromachi		locality	1
+611 00	101857573	Kilkis		locality	2
 630 72	1125788709	Sykia		locality	1
 630 75	1125933011	Toroni		locality	1
 630 85	1209345999	Pefkochori		locality	1
+654 03	1125972721	Kavala		locality	1
+691 00	1125858323	Komotini		locality	29
+700 07	1125810589	Malia		locality	2
 700 14	1126046359	Hersonissos		locality	2
-700 07	1125810589	Malia		locality	1
+703 00	101848285	Arkalokhorion		locality	1
 704 00	101848289	Moires		locality	2
-713 07	1126042217	Heraklion		locality	3
+713 07	1126042217	Heraklion		locality	5
+714 14	101752339	Heraklion		locality	2
 715 00	1126009923	Gournes		locality	2
 715 00	1126042441	Kokkini Chani		locality	2
 716 01	1125970601	Nea Alikarnassos		locality	2
 720 53	1126009903	Plaka		locality	1
 720 53	1125791923	Elounda		locality	1
-720 59	1276909851	Etia		locality	1
+720 55	1125906095	Analipsi		locality	1
 720 59	1126033057	Makrigialos		locality	1
 722 00	1276265663	Selakano		locality	1
-723 00	101848177	Seteia		locality	9
+723 00	101848177	Seteia		locality	10
 730 14	101848375	Ayia Marina		locality	4
+730 03	1125768961	Armenoi		locality	1
+730 07	1343397053	Georgioupolis		locality	1
 730 08	101752343	Canea		locality	1
 730 11	1243298005	Loutro		locality	1
-731 00	101752343	Canea		locality	5
-740 60	1125805673	Plakias		locality	5
+731 00	101752343	Canea		locality	7
+731 33	101752343	Canea		locality	1
+740 60	1125805673	Plakias		locality	7
 740 54	1209244079	Drosia		locality	1
+843 00	101848261	Naxos		locality	13
+843 00	101848363	Mykonos		locality	13
 845 00	1125947203	Andros		locality	1
 846 00	1125839771	Mykonos		locality	10
 846 00	1260110627	Agios Stefanos		locality	2
-851 00	101752345	Rhodes		locality	40
-851 00	101848447	ΑΦΑΝΤΟΥ		locality	1
+846 00	1125828617	Ornos		locality	1
+847 00	1360216137	Katoikies		locality	1
+851 00	101752345	Rhodes		locality	41
+851 00	101848447	Afantou		locality	1
+851 03	101848447	Afantou		locality	1
+851 09	1260111351	Plimmiri		locality	1
 853 02	1125886771	Mastihari		locality	1
 1330	1125799707	Griva		locality	12
 2622	101752325	Patras		locality	1
-8400	1125859043	Milos		locality	1
-10010	1175612731	Athens		locality	1
-10232	1175612731	Athens		locality	1
-10431	1175612731	Athens		locality	47
-10432	1175612731	Athens		locality	96
-10433	1175612731	Athens		locality	166
-10434	1175612731	Athens		locality	216
-10435	1175612731	Athens		locality	6
-10436	1175612731	Athens		locality	14
-10437	1175612731	Athens		locality	38
-10438	1175612731	Athens		locality	40
-10439	1175612731	Athens		locality	126
+7410	101848303	Rethimnon		locality	21
+10431	1175612731	Athens		locality	60
+10432	1175612731	Athens		locality	120
+10433	1175612731	Athens		locality	171
+10434	1175612731	Athens		locality	254
+10435	1175612731	Athens		locality	11
+10436	1175612731	Athens		locality	22
+10437	1175612731	Athens		locality	69
+10438	1175612731	Athens		locality	46
+10439	1175612731	Athens		locality	130
 10440	1175612731	Athens		locality	296
-10441	1175612731	Athens		locality	4
-10442	1175612731	Athens		locality	28
-10443	1175612731	Athens		locality	738
-10444	1175612731	Athens		locality	846
-10445	1175612731	Athens		locality	635
-10446	1175612731	Athens		locality	531
-10551	1175612731	Athens		locality	117
-10552	1175612731	Athens		locality	168
-10553	1175612731	Athens		locality	39
-10554	1175612731	Athens		locality	51
-10555	1175612731	Athens		locality	95
-10556	1175612731	Athens		locality	44
-10557	1175612731	Athens		locality	128
-10558	1175612731	Athens		locality	234
-10558	1259817883	Tavros		locality	1
-10559	1175612731	Athens		locality	108
-10560	1175612731	Athens		locality	264
-10561	1175612731	Athens		locality	104
-10562	1175612731	Athens		locality	194
-10563	1175612731	Athens		locality	314
-10564	1175612731	Athens		locality	67
-10671	1175612731	Athens		locality	20
-10672	1175612731	Athens		locality	15
-10673	1175612731	Athens		locality	17
-10674	1175612731	Athens		locality	39
-10675	1175612731	Athens		locality	23
-10676	1175612731	Athens		locality	15
-10677	1175612731	Athens		locality	37
-10678	1175612731	Athens		locality	30
-10679	1175612731	Athens		locality	50
-10680	1175612731	Athens		locality	123
-10681	1175612731	Athens		locality	154
-10681	1125851449	Kaisariani		locality	8
-10682	1175612731	Athens		locality	148
-10683	1175612731	Athens		locality	8
-11141	1175612731	Athens		locality	16
-11142	1175612731	Athens		locality	2
-11143	1175612731	Athens		locality	33
-11144	1175612731	Athens		locality	69
-11145	1175612731	Athens		locality	9
-11146	1125908059	Galatsi		locality	7
-11147	1125908059	Galatsi		locality	9
-11251	1175612731	Athens		locality	200
-11252	1175612731	Athens		locality	117
+10441	1175612731	Athens		locality	32
+10442	1175612731	Athens		locality	48
+10443	1175612731	Athens		locality	750
+10444	1175612731	Athens		locality	848
+10445	1175612731	Athens		locality	659
+10446	1175612731	Athens		locality	534
+10447	1175612731	Athens		locality	10
+10551	1175612731	Athens		locality	92
+10552	1175612731	Athens		locality	196
+10553	1175612731	Athens		locality	41
+10554	1175612731	Athens		locality	89
+10555	1175612731	Athens		locality	79
+10556	1175612731	Athens		locality	45
+10557	1175612731	Athens		locality	140
+10558	1175612731	Athens		locality	158
+10559	1175612731	Athens		locality	109
+10560	1175612731	Athens		locality	163
+10561	1175612731	Athens		locality	106
+10562	1175612731	Athens		locality	199
+10562	1125995731	Kifissia		locality	1
+10563	1175612731	Athens		locality	196
+10564	1175612731	Athens		locality	72
+10671	1175612731	Athens		locality	36
+10672	1175612731	Athens		locality	31
+10673	1175612731	Athens		locality	20
+10674	1175612731	Athens		locality	41
+10675	1175612731	Athens		locality	28
+10676	1175612731	Athens		locality	19
+10677	1175612731	Athens		locality	43
+10678	1175612731	Athens		locality	44
+10679	1175612731	Athens		locality	51
+10680	1175612731	Athens		locality	127
+10681	1175612731	Athens		locality	157
+10682	1175612731	Athens		locality	156
+10683	1175612731	Athens		locality	9
+11141	1175612731	Athens		locality	64
+11142	1175612731	Athens		locality	94
+11143	1175612731	Athens		locality	37
+11144	1175612731	Athens		locality	76
+11145	1175612731	Athens		locality	11
+11146	1125908059	Galatsi		locality	57
+11147	1125908059	Galatsi		locality	75
+11251	1175612731	Athens		locality	202
+11252	1175612731	Athens		locality	116
 11253	1175612731	Athens		locality	20
 11254	1175612731	Athens		locality	3
-11255	1175612731	Athens		locality	4
-11256	1175612731	Athens		locality	4
-11257	1175612731	Athens		locality	175
+11255	1175612731	Athens		locality	22
+11256	1175612731	Athens		locality	23
+11257	1175612731	Athens		locality	203
 11301	1175612731	Athens		locality	1
-11361	1175612731	Athens		locality	72
-11362	1175612731	Athens		locality	68
-11363	1175612731	Athens		locality	143
+11361	1175612731	Athens		locality	114
+11362	1175612731	Athens		locality	75
+11363	1175612731	Athens		locality	141
+11364	1175612731	Athens		locality	24
 11471	1175612731	Athens		locality	101
 11471;11472	1175612731	Athens		locality	1
-11472	1175612731	Athens		locality	241
-11473	1175612731	Athens		locality	76
-11474	1175612731	Athens		locality	21
-11475	1175612731	Athens		locality	9
-11476	1175612731	Athens		locality	80
-11521	1175612731	Athens		locality	85
-11522	1175612731	Athens		locality	52
-11523	1175612731	Athens		locality	153
-11524	1175612731	Athens		locality	159
-11525	1175612731	Athens		locality	4
-11526	1175612731	Athens		locality	12
-11527	1175612731	Athens		locality	31
-11527	1108979899	Papagou		locality	1
-11528	1175612731	Athens		locality	77
+11472	1175612731	Athens		locality	240
+11473	1175612731	Athens		locality	77
+11474	1175612731	Athens		locality	22
+11475	1175612731	Athens		locality	10
+11476	1175612731	Athens		locality	81
+11521	1175612731	Athens		locality	98
+11522	1175612731	Athens		locality	56
+11523	1175612731	Athens		locality	163
+11524	1175612731	Athens		locality	160
+11525	1175612731	Athens		locality	11
+11526	1175612731	Athens		locality	70
+11527	1175612731	Athens		locality	74
+11528	1175612731	Athens		locality	200
 11631	1175612731	Athens		locality	5
-11632	1175612731	Athens		locality	5
-11633	1175612731	Athens		locality	3
-11635	1175612731	Athens		locality	29
-11636	1175612731	Athens		locality	6
-11741	1175612731	Athens		locality	53
-11742	1175612731	Athens		locality	316
-11743	1175612731	Athens		locality	8
-11744	1175612731	Athens		locality	1
-11745	1175612731	Athens		locality	3
-11745	1326660397	Kallithea		locality	1
-11851	1175612731	Athens		locality	57
-11852	1175612731	Athens		locality	9
-11852	1293032253	Petralona		locality	5
-11853	1175612731	Athens		locality	13
-11854	1175612731	Athens		locality	28
-11855	1175612731	Athens		locality	3
-12131	1126016457	Peristeri		locality	16
+11632	1175612731	Athens		locality	7
+11633	1175612731	Athens		locality	22
+11634	1175612731	Athens		locality	12
+11634	1125851449	Kaisariani		locality	1
+11635	1175612731	Athens		locality	70
+11636	1175612731	Athens		locality	9
+11741	1175612731	Athens		locality	78
+11742	1175612731	Athens		locality	327
+11743	1175612731	Athens		locality	17
+11744	1175612731	Athens		locality	7
+11745	1175612731	Athens		locality	10
+11851	1175612731	Athens		locality	65
+11852	1175612731	Athens		locality	30
+11853	1175612731	Athens		locality	131
+11854	1175612731	Athens		locality	39
+11855	1175612731	Athens		locality	10
+12043	1125910835	Egaleo		locality	1
+12131	1126016457	Peristeri		locality	31
 12132	1126016457	Peristeri		locality	12
-12133	1126016457	Peristeri		locality	3
-12134	1126016457	Peristeri		locality	17
-12135	1126016457	Peristeri		locality	12
-12136	1126016457	Peristeri		locality	15
-12137	1126016457	Peristeri		locality	7
-12137;132 31	1125793049	Petroupoli		locality	1
+12133	1126016457	Peristeri		locality	10
+12134	1126016457	Peristeri		locality	34
+12135	1126016457	Peristeri		locality	16
+12136	1126016457	Peristeri		locality	17
+12137	1126016457	Peristeri		locality	86
 12210	1125910835	Egaleo		locality	1
-12241	1125910835	Egaleo		locality	1
-12242	1125910835	Egaleo		locality	1
-12243	1125910835	Egaleo		locality	6
-12244	1125910835	Egaleo		locality	10
-12462	1125839627	Chaidari		locality	6
-12462	1175612731	Athens		locality	1
-13122	1125836299	Nea Liosia		locality	16
-13123	1125836299	Nea Liosia		locality	7
-13123	1125793049	Petroupoli		locality	2
-13231	1125793049	Petroupoli		locality	164
-13245	1175612731	Athens		locality	2
-13341	101875533	Ano Liosia		locality	181
+12241	1125910835	Egaleo		locality	7
+12242	1125910835	Egaleo		locality	4
+12243	1125910835	Egaleo		locality	8
+12244	1125910835	Egaleo		locality	15
+12341	1125776171	Agia Varvara		locality	1
+12351	1125776171	Agia Varvara		locality	17
+12461	1126018411	Haidari		locality	22
+12462	1126018411	Haidari		locality	7
+13121	1125836299	Nea Liosia		locality	10
+13122	1125836299	Nea Liosia		locality	21
+13122	1125878395	Agioi Anargyroi		locality	1
+13123	1125836299	Nea Liosia		locality	10
+13231	1125793049	Petroupoli		locality	262
+13341	101875533	Ano Liosia		locality	199
 13341	101849145	Fili		locality	1
-13343	101875533	Ano Liosia		locality	3
+13343	101875533	Ano Liosia		locality	4
 13351	101849145	Fili		locality	3
-13451	1309741239	Zefyri		locality	3
-13561	1125878395	Agioi Anargyroi		locality	4
-13562	1125878395	Agioi Anargyroi		locality	1
-13671	1125809947	Acharnes		locality	14
-13672	1125809947	Acharnes		locality	3
-13674	1125809947	Acharnes		locality	4
-13675	1125809947	Acharnes		locality	2
+13451	1126013351	Kamatero		locality	8
+13561	1125878395	Agioi Anargyroi		locality	9
+13562	1125878395	Agioi Anargyroi		locality	3
+13671	1125809947	Acharnes		locality	20
+13672	1125809947	Acharnes		locality	4
+13673	1125809947	Acharnes		locality	5
+13674	1125809947	Acharnes		locality	5
+13675	1125809947	Acharnes		locality	7
 13675	1175612731	Athens		locality	1
-13676	1209952937	Thrakomakedones		locality	2
-13677	1125809947	Acharnes		locality	9
-13678	1125809947	Acharnes		locality	2
-13679	1125809947	Acharnes		locality	2
-14121	1327364719	Irakleio		locality	31
-14122	1327364719	Irakleio		locality	22
+13676	1209952937	Thrakomakedones		locality	4
+13677	1125809947	Acharnes		locality	17
+13678	1125809947	Acharnes		locality	5
+13679	1125809947	Acharnes		locality	1
+14121	1327364719	Irakleio		locality	29
+14122	1327364719	Irakleio		locality	32
 14122	1126000085	Nea Ionia		locality	1
-14231	1126000085	Nea Ionia		locality	46
-14232	1126000085	Nea Ionia		locality	707
-14232	1175612731	Athens		locality	1
-14233	1126000085	Nea Ionia		locality	432
-14234	1126000085	Nea Ionia		locality	134
-14235	1126000085	Nea Ionia		locality	5
-14341	1125997691	Nea Filadelfeia		locality	22
-14451	1276803713	Metamorfosi		locality	6
-14452	1276803713	Metamorfosi		locality	5
-14561	1125995731	Kifissia		locality	8
-14561	1175612731	Athens		locality	1
-14561	1125766371	Marousi		locality	1
-14562	1125995731	Kifissia		locality	8
+14123	1126016465	Lykovrysi		locality	4
+14132	1126000085	Nea Ionia		locality	1
+14231	1126000085	Nea Ionia		locality	218
+14232	1126000085	Nea Ionia		locality	1484
+14232	1175612731	Athens		locality	5
+14233	1126000085	Nea Ionia		locality	1470
+14234	1126000085	Nea Ionia		locality	343
+14235	1126000085	Nea Ionia		locality	13
+14341	1125997691	Nea Filadelfeia		locality	33
+14343	1276263201	Nea Chalkidona		locality	2
+14343	1125997691	Nea Filadelfeia		locality	1
+14451	1276803713	Metamorfosi		locality	17
+14452	1276803713	Metamorfosi		locality	9
+14561	1125995731	Kifissia		locality	14
+14562	1125995731	Kifissia		locality	17
 14562	1175612731	Athens		locality	1
-14563	1175612731	Athens		locality	1
-14564	1125995731	Kifissia		locality	16
-14564	1126017197	Nea Erythraia		locality	1
-14565	101875591	Ayios Stefanos		locality	5
+14563	1125995731	Kifissia		locality	2
+14564	1125995731	Kifissia		locality	28
+14565	101875591	Ayios Stefanos		locality	6
 14565	1343498161	Agios Stefanos		locality	1
 14569	101875575	Anoixis		locality	2
-14572	101875577	Drosia		locality	1
-14575	101875607	Stamata		locality	1
-14576	101849447	Dionysos		locality	1
-14671	1126017197	Nea Erythraia		locality	30
-14671	1125995731	Kifissia		locality	1
-15121	1125897913	Pefki		locality	22
-15122	1125766371	Marousi		locality	7
-15123	1125931525	Marousi		locality	8
+14572	101875577	Drosia		locality	2
+14575	101875607	Stamata		locality	3
+14576	101849447	Dionysos		locality	2
+14671	1126017197	Nea Erythraia		locality	36
+15121	1125897913	Pefki		locality	42
+15122	1125766371	Marousi		locality	23
+15123	1125931525	Marousi		locality	12
+15123	1175612731	Athens		locality	1
 15123	1125906689	Chalandri		locality	1
-15124	1125766371	Marousi		locality	42
-15125	1125766371	Marousi		locality	13
+15124	1125766371	Marousi		locality	151
+15125	1125766371	Marousi		locality	21
 15125	1175612731	Athens		locality	2
-15151	1175612731	Athens		locality	1
-15231	1125906689	Chalandri		locality	12
-15231	1125879483	Chalandri		locality	7
-15232	1125879483	Chalandri		locality	51
-15233	1125879483	Chalandri		locality	20
-15234	1125879483	Chalandri		locality	28
-15234	1175612731	Athens		locality	1
-15234	1125906689	Chalandri		locality	1
-15235	1125839209	Vrilissia		locality	10
-15235	1175612731	Athens		locality	1
-15236	1260010159	Nea Penteli		locality	1
-15237	1343891815	Filothei		locality	2
-15341	1125926009	Agia Paraskevi		locality	1
-15341	1175612731	Athens		locality	1
-15342	1125926009	Agia Paraskevi		locality	4
-15342	1175612731	Athens		locality	2
-15343	1125926009	Agia Paraskevi		locality	6
+15126	1125766371	Marousi		locality	8
+15127	1126009777	Melissia		locality	20
+15129	1125766371	Marousi		locality	1
+15231	1125879483	Chalandri		locality	32
+15232	1125906689	Chalandri		locality	67
+15233	1125906689	Chalandri		locality	29
+15234	1125906689	Chalandri		locality	37
+15235	1125839209	Vrilissia		locality	610
+15236	1260010159	Nea Penteli		locality	2
+15236	1125777691	Penteli		locality	1
+15237	1343891815	Filothei		locality	27
+15341	1125926009	Agia Paraskevi		locality	11
+15342	1125926009	Agia Paraskevi		locality	14
+15343	1125926009	Agia Paraskevi		locality	15
 15343	1175612731	Athens		locality	1
-15344	101875583	Gerakas		locality	143
-15344	1175612731	Athens		locality	1
+15344	101875583	Gerakas		locality	148
 15349	1293718321	Anthousa		locality	11
-15351	101875601	Pallini		locality	18
+15351	101875601	Pallini		locality	17
 15351	1293718321	Anthousa		locality	6
-15354	1125926009	Agia Paraskevi		locality	1
-15451	1193171359	Neo Psychiko		locality	4
-15451	1175612729	Psychiko		locality	2
-15452	1175612729	Psychiko		locality	8
-15561	1175612731	Athens		locality	1
-15562	1125983671	Cholargos		locality	6
-15669	1108979899	Papagou		locality	7
-15710	1125826093	Zográfos		locality	1
-15771	1125826093	Zográfos		locality	30
-15772	1125826093	Zográfos		locality	63
-15772	1175612731	Athens		locality	53
-15773	1125826093	Zográfos		locality	14
-15773	1175612731	Athens		locality	5
-16121	1125851449	Kaisariani		locality	57
-16121	1175612731	Athens		locality	6
-16231	1175612731	Athens		locality	1
-16232	1175612731	Athens		locality	3
-16342	1125764549	Ilioupoli		locality	2
-16343	1125764549	Ilioupoli		locality	1
+15354	1125878385	Glyka Nera		locality	20
+15451	1193171359	Neo Psychiko		locality	12
+15451	1125906689	Chalandri		locality	1
+15452	1175612729	Psychiko		locality	12
+15461	1125995731	Kifissia		locality	1
+15561	1125983671	Cholargos		locality	6
+15561	1125851449	Kaisariani		locality	1
+15562	1125983671	Cholargos		locality	11
+15771	1125826093	Zográfos		locality	84
+15771	1175612731	Athens		locality	1
+15772	1125826093	Zográfos		locality	109
+15773	1125826093	Zográfos		locality	39
+16121	1125851449	Kaisariani		locality	79
+16121	1175612731	Athens		locality	2
+16122	1125851449	Kaisariani		locality	11
+16341	1125764549	Ilioupoli		locality	1
+16342	1125764549	Ilioupoli		locality	11
+16343	1125764549	Ilioupoli		locality	10
 16344	1125764549	Ilioupoli		locality	2
-16345	1125764549	Ilioupoli		locality	1
-16346	1125764549	Ilioupoli		locality	2
-16346	1175612731	Athens		locality	1
+16345	1125764549	Ilioupoli		locality	5
+16346	1125764549	Ilioupoli		locality	8
 16371	1125809947	Acharnes		locality	1
-16451	1125995725	Argyroupoli		locality	92
-16452	1125995725	Argyroupoli		locality	225
-16561	1125925607	Glyfada		locality	8
-16561	1125953675	Glyfada		locality	1
+16451	1125995725	Argyroupoli		locality	96
+16452	1125995725	Argyroupoli		locality	299
+16561	1125925607	Glyfada		locality	11
 16562	1125925607	Glyfada		locality	8
-16671	101875703	Vouliagmeni		locality	4
-16672	101875701	Vari		locality	5
-16672	1125915645	Varkiza		locality	1
-16673	101849693	Voula		locality	2
-16674	1125953675	Glyfada		locality	15
-16674	1175612731	Athens		locality	1
-16675	1125925607	Glyfada		locality	20
-16675	1175612731	Athens		locality	1
-16675	1125953675	Glyfada		locality	1
-16777	1125873409	Elliniko		locality	144
-17121	1126028555	Nea Smyrni		locality	11
-17122	1126028555	Nea Smyrni		locality	7
-17123	1126028555	Nea Smyrni		locality	9
-17124	1126028555	Nea Smyrni		locality	7
-17234	1125835375	Dafni		locality	1
-17235	1175612731	Athens		locality	1
-17235	1125978095	Agios Dimitrios		locality	1
-17235	1125835375	Dafni		locality	1
-17236	1125835375	Dafni		locality	1
-17237	1175612731	Athens		locality	2
-17341	1125978095	Agios Dimitrios		locality	4
-17342	1125978095	Agios Dimitrios		locality	11
-17343	1125978095	Agios Dimitrios		locality	5
-17343	1175612731	Athens		locality	1
-17455	1126016475	Alimos		locality	87
-17455	1125876567	Alimos		locality	1
-17456	1126016475	Alimos		locality	6
-17456	1175612731	Athens		locality	2
-17561	1125814879	Old Faliron		locality	28
-17561	1175612731	Athens		locality	1
-17562	1125814879	Old Faliron		locality	4
-17563	1125814879	Old Faliron		locality	2
-17563	1175612731	Athens		locality	1
-17564	1125814879	Old Faliron		locality	6
-17575	1326660397	Kallithea		locality	2
-17671	1326660397	Kallithea		locality	22
-17672	1326660397	Kallithea		locality	32
-17672	1175612731	Athens		locality	1
-17673	1326660397	Kallithea		locality	45
-17674	1326660397	Kallithea		locality	39
-17675	1326660397	Kallithea		locality	17
-17676	1326660397	Kallithea		locality	128
-17676	1175612731	Athens		locality	2
-17778	1259817883	Tavros		locality	259
-17778	1326660397	Kallithea		locality	4
-17778	1175612731	Athens		locality	3
+16671	101875703	Vouliagmeni		locality	7
+16672	101875701	Vari		locality	14
+16673	101849693	Voula		locality	10
+16674	1125953675	Glyfada		locality	27
+16675	1125925607	Glyfada		locality	32
+16777	1125873409	Elliniko		locality	235
+17121	1126028555	Nea Smyrni		locality	35
+17122	1126028555	Nea Smyrni		locality	9
+17123	1126028555	Nea Smyrni		locality	13
+17124	1126028555	Nea Smyrni		locality	8
+17234	1125835375	Dafni		locality	4
+17235	1125835375	Dafni		locality	6
+17341	1125978095	Agios Dimitrios		locality	7
+17342	1125978095	Agios Dimitrios		locality	16
+17343	1125978095	Agios Dimitrios		locality	8
+17455	1125876567	Alimos		locality	86
+17456	1126016475	Alimos		locality	119
+17561	1125814879	Old Faliron		locality	32
+17562	1125814879	Old Faliron		locality	12
+17563	1125814879	Old Faliron		locality	7
+17564	1125814879	Old Faliron		locality	14
+17671	1326660397	Kallithea		locality	28
+17671	1175612731	Athens		locality	1
+17672	1326660397	Kallithea		locality	35
+17673	1326660397	Kallithea		locality	48
+17674	1326660397	Kallithea		locality	42
+17675	1326660397	Kallithea		locality	31
+17676	1326660397	Kallithea		locality	137
+17778	1259817883	Tavros		locality	600
+18010	101848227	Aiyina		locality	126
 18010	1125884929	Agia Marina		locality	3
+18010	1125842681	Vayia		locality	1
 18020	101875721	Poros		locality	1
-18040	101848259	Idhra		locality	4
+18030	101848357	Methana		locality	2
+18040	101848259	Idhra		locality	5
 18050	101848189	Spetsai		locality	1
-18120	1125885425	Korydallos		locality	16
-18122	1125885425	Korydallos		locality	1
-18233	1125941939	Agios Ioannis		locality	60
-18233	1310334385	Agios Ioannis Rentis		locality	3
+18120	1125885425	Korydallos		locality	21
+18121	1125885425	Korydallos		locality	1
+18122	1125885425	Korydallos		locality	5
+18233	1310334385	Agios Ioannis Rentis		locality	41
+18233	1125941939	Agios Ioannis		locality	28
+18344	1125819467	Moschato		locality	29
+18345	1125867091	Moschato		locality	10
+18346	1125867091	Moschato		locality	7
 18450	1276909935	Nikaia		locality	3
 18452	1276909935	Nikaia		locality	18
-18454	1276909935	Nikaia		locality	4
+18454	1276909935	Nikaia		locality	3
 18510	101752341	Piraeus		locality	4
-18531	101752341	Piraeus		locality	2
-18532	101752341	Piraeus		locality	1
+18531	101752341	Piraeus		locality	137
+18532	101752341	Piraeus		locality	220
+18533	101752341	Piraeus		locality	141
+18534	101752341	Piraeus		locality	299
+18535	101752341	Piraeus		locality	309
+18536	101752341	Piraeus		locality	57
+18537	101752341	Piraeus		locality	34
+18538	101752341	Piraeus		locality	19
+18539	101752341	Piraeus		locality	53
 18540	101752341	Piraeus		locality	5
-18543	101752341	Piraeus		locality	10
+18541	101752341	Piraeus		locality	14
+18542	101752341	Piraeus		locality	5
+18543	101752341	Piraeus		locality	13
+18545	101752341	Piraeus		locality	64
 18546	101752341	Piraeus		locality	1
-18547	1125947447	Neo Faliro		locality	1
+18547	101752341	Piraeus		locality	23
 18648	1293326831	Drapetsona		locality	4
 18756	1125995743	Keratsini		locality	7
-18757	1125995743	Keratsini		locality	6
+18757	1125995743	Keratsini		locality	7
 18758	1125995743	Keratsini		locality	16
-18863	101849695	Perama		locality	10
-18900	101849689	Koulouri		locality	2
+18863	101849695	Perama		locality	19
 18902	1125986249	Ampelakia		locality	2
 19001	101849453	Keratea		locality	3
 19001	101849451	Kouvaras		locality	2
-19002	101875597	Paiania		locality	7
+19002	101875597	Paiania		locality	10
+19003	101875587	Markopoulo		locality	4
 19003	1125828415	Porto Rafti		locality	2
-19004	1259717655	Loutsa		locality	41
+19004	1259717655	Loutsa		locality	40
 19004	101850197	Spata		locality	3
 19004	1175612731	Athens		locality	1
-19005	101849457	Nea Makri		locality	4
+19005	101849457	Nea Makri		locality	23
 19007	1125941065	Marathon		locality	4
+19007	1260317345	Paralia		locality	1
 19007	1293725567	Vranas		locality	1
 19008	1125817527	Erythres		locality	1
-19009	101850193	Rafina		locality	17
+19009	1125810835	Rafina		locality	18
+19009	101849461	Pikermi		locality	1
 19009	101849457	Nea Makri		locality	1
+19009	101850193	Rafina		locality	1
+19010	1125861311	Kalyvia Thorikou		locality	4
 19010	101849449	Kalyvia Thorikou		locality	3
-19010	1125861311	Kalyvia Thorikou		locality	3
-19013	101848187	Saronida		locality	573
+19013	101848187	Saronida		locality	577
 19013	101875589	Anavyssos		locality	3
 19013	101875611	Palaia Fokaia		locality	1
 19014	1193047343	Polydendri		locality	5
@@ -439,15 +425,17 @@ TK 49080	1125963763	Corfu		locality	1
 19014	101849437	Kiourka		locality	1
 19015	101849459	Nea Palatia		locality	1
 19016	1259717655	Loutsa		locality	6
+19018	101875535	Magoula		locality	1
 19019	101850197	Spata		locality	2
 19100	101849153	Megara		locality	8
-19200	1125947271	Elefsina		locality	4
-19300	1360220719	Aspropyrgos		locality	4
-19400	101875609	Koropion		locality	4
+19200	1125947271	Elefsina		locality	15
+19300	1360220719	Aspropyrgos		locality	6
+19400	101875609	Koropion		locality	10
 19400	1243393987	Agia Marina		locality	1
 19500	101848183	Ergasteria		locality	2
 19500	1125796191	Agios Konstantinos		locality	1
 20002	101849655	Velo		locality	1
+20005	101849675	Athikia		locality	1
 20006	1125972753	Vrachati		locality	1
 20006	1259714671	Zevgolatio		locality	1
 20007	101849669	Old Corinth		locality	1
@@ -455,10 +443,12 @@ TK 49080	1125963763	Corfu		locality	1
 20015	1343992229	Throfari		locality	2
 20015	1225881407	Mikros Valtos		locality	1
 20016	1293523881	Kastania		locality	2
-20100	101849665	Corinth		locality	4
+20100	101849665	Corinth		locality	9
+20100	1343994639	Loutra Oraias Elenis		locality	1
 20100	1360121311	Kavos		locality	1
+20131	101849665	Corinth		locality	2
 20200	101849653	Kiato		locality	2
-20300	101849507	Loutraki		locality	3
+20300	101849507	Loutraki		locality	4
 20400	101849649	Xylokastro		locality	13
 20400	101849685	Kamari		locality	4
 20400	1276580825	Riza		locality	3
@@ -466,30 +456,44 @@ TK 49080	1125963763	Corfu		locality	1
 20400	1360118667	Zemeno		locality	1
 20400	1126013057	Melissi		locality	1
 20400	1360315921	Mertikaiika		locality	1
-20500	101849673	Nemea		locality	3
+20500	101849673	Nemea		locality	2
+20500	1243491369	Koutsi		locality	1
 20500	1125799379	Archaia Nemea		locality	1
 20500	1327262797	Leontio		locality	1
 21051	101848423	Ermioni		locality	2
-21052	1126025135	Lygourio		locality	1
-21056	1125776615	Tolo		locality	5
-21056	101848429	Tolo		locality	2
+21052	1126025135	Lygourio		locality	4
+21053	101848411	Nea Kios		locality	4
+21056	1125776615	Tolo		locality	7
+21056	101848429	Tolo		locality	5
 21060	1125781473	Iria		locality	4
 21060	1126046443	Vivari		locality	2
 21060	101875735	Nafplion		locality	1
-21100	101875735	Nafplion		locality	14
+21100	101875735	Nafplion		locality	61
+21100	101848429	Tolo		locality	1
 21100	1293328861	Kantia		locality	1
-21200	101848403	Argos		locality	12
-22029	1125798971	Tyros		locality	36
-22100	101875525	Tripoli		locality	5
-22131	1125860367	Tripoli		locality	2
+21200	101848403	Argos		locality	45
+21200	1293724457	Inachos		locality	1
+21200	1125991797	Prosymna		locality	1
+21231	101848403	Argos		locality	27
+21232	101848403	Argos		locality	113
+21300	101848425	Kranidi		locality	1
+22029	1125798971	Tyros		locality	29
+22100	1125862483	Tripoli		locality	7
+22131	1125862483	Tripoli		locality	3
+22132	1125860367	Tripoli		locality	3
 22200	101848151	Megalopolis		locality	2
-23052	101848205	Molaoi		locality	1
+23051	101848199	Skala		locality	18
+23052	101848205	Molaoi		locality	433
+23052	1209043081	Metamorfosi		locality	2
+23052	1243208527	Elaia		locality	1
 23053	1226578225	Neapoli		locality	1
+23054	101848193	ΞΗΡΟΚΑΜΠΙΟΝ		locality	1
 23055	101848197	ΒΛΑΧΙΩΤΗΣ		locality	1
 23056	1125959579	Plytra		locality	6
 23062	1125947455	Areopolis		locality	1
-23070	1125924663	Monemvasía		locality	1
-23100	1209946147	Sparti		locality	125
+23063	1259813851	Pyrgos Dirou		locality	1
+23070	1125924663	Monemvasía		locality	2
+23100	1209946147	Sparti		locality	290
 23200	1125861157	Gýtheion		locality	1
 23200	1293231223	Mavrovouni		locality	1
 24001	101848341	Pylos		locality	13
@@ -498,42 +502,56 @@ TK 49080	1125963763	Corfu		locality	1
 24001	1125789213	Romanos		locality	1
 24001	1309941821	Skhinolakka		locality	1
 24002	101848315	Meligalas		locality	2
+24002	1226472785	Mavrommation		locality	1
 24002	1242811491	Mila		locality	1
 24004	101848345	Koroni		locality	6
+24005	101848339	Petalidi		locality	1
 24006	1209035411	Methoni		locality	5
 24006	1193046677	Foinikounta		locality	1
+24009	1242613955	Agios Floros		locality	1
+24024	1226279135	Aghios Nikolaos		locality	2
 24024	1226278961	Pyrgos		locality	1
-24024	1226279135	Aghios Nikolaos		locality	1
-24100	101848349	Kalamata		locality	184
+24024	1327167881	Lefktro		locality	1
+24100	101848349	Kalamata		locality	190
+24131	101848349	Kalamata		locality	1
+24133	101848349	Kalamata		locality	1
+24200	101848333	Messini		locality	1
 24300	101848319	Filiatra		locality	1
-24500	101848313	ΚΥΠΑΡΙΣΣΙΑ		locality	5
+24500	101848313	Kyparissia		locality	5
 24500	1309841007	Stasio		locality	1
 24600	101848331	ΧΩΡΑ		locality	2
-25001	101849421	Kalavryta		locality	1
+25001	101849421	Kalavryta		locality	7
 25006	1126048125	Akrata		locality	1
-25100	101849401	Aigio		locality	6
+25100	101849401	Aigio		locality	8
 25100	1277013649	Valimitika		locality	1
+25100	101849397	Selianitika		locality	1
 25200	101849413	Kato Achaia		locality	1
 26000	101752325	Patras		locality	1
-26221	101752325	Patras		locality	12
+26221	101752325	Patras		locality	13
 26222	101752325	Patras		locality	2
-26223	101752325	Patras		locality	2
+26223	101752325	Patras		locality	5
+26224	101752325	Patras		locality	1
+26225	101752325	Patras		locality	1
+26226	101752325	Patras		locality	2
 26331	101752325	Patras		locality	1
 26332	101752325	Patras		locality	3
-26333	101752325	Patras		locality	2
-26441	101752325	Patras		locality	6
-26442	101752325	Patras		locality	7
-26500	101875567	Mintilogli		locality	6
-26500	101752325	Patras		locality	1
-26504	101849393	Rio		locality	6
+26333	101752325	Patras		locality	3
+26334	101752325	Patras		locality	1
+26441	101752325	Patras		locality	9
+26442	101752325	Patras		locality	31
+26442	101849169	Proastio		locality	1
+26443	101752325	Patras		locality	1
+26500	101875567	Mintilogli		locality	5
+26500	101752325	Patras		locality	2
+26504	101849393	Rio		locality	11
 26504	1125793945	Agios Vasileios		locality	2
 26504	101752325	Patras		locality	1
 26504	1125878367	Psathopyrgos		locality	1
 26504	1360322303	Aktaio		locality	1
 27052	101849471	Varda		locality	1
 27053	101849491	Lechaina		locality	1
+27054	101848237	Zacharo		locality	3
 27054	1260016409	Prasidhakion		locality	3
-27054	101848237	Zacharo		locality	1
 27055	101848245	Krestena		locality	1
 27061	1125983805	Andritsaina		locality	1
 27063	1327268539	Lampeia		locality	24
@@ -548,7 +566,8 @@ TK 49080	1125963763	Corfu		locality	1
 27100	1276909751	Agios Ioannis		locality	1
 27100	1243207165	Skafidia		locality	1
 27100	1209140367	Chanakia		locality	1
-27131	1126000091	Pyrgos		locality	15
+27131	1126000091	Pyrgos		locality	20
+27200	101849477	Amaliada		locality	3
 27300	101849479	Gastouni		locality	1
 28080	101849613	Sami		locality	2
 28080	1259718409	Grizata		locality	1
@@ -556,12 +575,13 @@ TK 49080	1125963763	Corfu		locality	1
 28082	1344093069	Ratzakli		locality	3
 28082	1125825477	Markopoulo		locality	1
 28083	1309937205	Lourdas		locality	1
-28084	1125984487	Fiskardo		locality	1
 28086	1125901385	Skala		locality	1
 28086	1277014081	Poros		locality	1
+28100	1125841407	Argostoli		locality	3
+28100	101849609	Argostoli		locality	1
+28100	1309740727	Lourdata		locality	1
 28100	1293424769	Metaxata		locality	1
 28100	1242907961	Trapezaki		locality	1
-28100	1125841407	Argostoli		locality	1
 28200	101849611	Lixouri		locality	3
 28300	101849099	Vathy		locality	1
 29090	1126048735	Alykes		locality	3
@@ -570,67 +590,84 @@ TK 49080	1125963763	Corfu		locality	1
 29100	1276151911	Tsilivi		locality	2
 29100	1125845207	Argassi		locality	1
 29100	1125838663	Kampi		locality	1
-29100	101848313	ΚΥΠΑΡΙΣΣΙΑ		locality	1
-30002	101849515	Vonitsa		locality	20
+29100	101848313	Kyparissia		locality	1
+30001	1125834925	Neochori		locality	1
+30002	101849515	Vonitsa		locality	17
 30012	101849523	Pálairos		locality	1
-30020	1125818513	Antirrio		locality	1
 30100	101875633	Agrinio		locality	11
 30131	101875633	Agrinio		locality	1
-30200	101849561	Messolonghi		locality	4
-30300	101875639	Nafpaktos		locality	8
+30132	101875633	Agrinio		locality	1
+30200	101849561	Messolonghi		locality	6
+30300	101875639	Nafpaktos		locality	12
 30400	101849557	Aitoliko		locality	10
-30500	101849519	Amfilochia		locality	1
+30400	1309843079	Kefalovryso		locality	4
+30500	101849519	Amfilochia		locality	2
 31080	1293031475	Lazarata		locality	11
 31080	1125810641	Agios Nikitas		locality	2
 31080	101849605	Lefkada		locality	1
+31080	1126013095	Karya		locality	1
 31080	1242907921	Pigadisanoi		locality	1
 31080	1209249609	Pinakochori		locality	1
 31080	1327164729	Platystoma		locality	1
 31080	1259910363	Fryni		locality	1
-31100	101849605	Lefkada		locality	6
+31082	101849605	Lefkada		locality	1
+31100	101849605	Lefkada		locality	11
+31100	1125794015	Katouna		locality	1
 32009	101849379	ΑΓΙΟΣ ΘΩΜΑΣ		locality	5
-32009	101849365	Schimatari		locality	1
-32011	101849375	Oinofyta		locality	1
-32100	1343697797	Livadeia		locality	1
-32131	1343697797	Livadeia		locality	1
+32009	1125859497	Schimatari		locality	3
+32011	101849375	Oinofyta		locality	2
+32100	1343697797	Livadeia		locality	2
+32100	101849347	Livadeia		locality	1
+32131	1343697797	Livadeia		locality	2
 32200	101849371	Thebes		locality	30
 33054	101849161	Delphi		locality	2
 33200	1125920147	Itéa		locality	3
 34001	101849741	Karystos		locality	4
-34002	101849731	Vasiliko		locality	1
-34003	101849743	Kymi		locality	2
-34004	1125900299	Mantoudi		locality	2
+34002	101849731	Vasiliko		locality	2
+34003	101849743	Kymi		locality	1
+34004	1125900299	Mantoudi		locality	1
+34005	1209946121	Kechries		locality	2
 34008	101849737	Eretria		locality	6
+34010	1126009963	Agia Anna		locality	4
+34010	1209451313	Kerasia		locality	1
 34012	101849767	Oreoi		locality	4
-34013	101849749	Marmari		locality	6
+34012	1209351095	Neos Pyrgos		locality	1
+34013	101849749	Marmari		locality	7
 34013	1360220579	Figias		locality	1
-34014	1293722889	Paralia Chiliadou		locality	2
+34014	1293722889	Paralia Chiliadou		locality	4
 34014	1209649569	Steni Dhirfios		locality	1
 34017	1276371235	Agioi Apostoloi		locality	3
-34100	101752347	Chalcis		locality	332
+34100	101752347	Chalcis		locality	463
+34100	1260320563	Anthidona		locality	1
 34100	1125857119	Eretria		locality	1
-34100	1125870077	Dokos		locality	1
+34100	1125972731	Chalcis		locality	1
 34100	101849095	Drosia		locality	1
 34100	101875757	Fylla		locality	1
-34132	101752347	Chalcis		locality	5
+34132	101752347	Chalcis		locality	70
+34133	101752347	Chalcis		locality	1
 34195	101848183	Ergasteria		locality	2
-34200	101849739	Istiaia		locality	3
+34200	101849739	Istiaia		locality	5
 34400	101875759	Psachna		locality	42
 34400	101849317	Stavros		locality	3
 34400	1125980355	Makrikapa		locality	1
 34500	101849727	Aliveri		locality	1
 34600	101849753	Nea Artaki		locality	8
 35002	101849303	Amfikleia		locality	1
-35011	101849279	Makrakomi		locality	4
+35006	1125999155	Agios Konstantinos		locality	1
+35009	1125857769	Kamena Vourla		locality	1
+35011	101849279	Makrakomi		locality	5
 35016	1125957351	Loutra Ypatis		locality	2
-35100	101849285	Lamia		locality	18
+35100	101849285	Lamia		locality	20
+35131	101849285	Lamia		locality	1
+35133	101849285	Lamia		locality	2
 35200	1126017997	Arkitsa		locality	1
 35300	101849311	Stilís		locality	1
 36100	1310238673	Mikro Chorio		locality	3
 36100	1126001315	Karpenisi		locality	1
-36222	101752325	Patras		locality	2
+36222	101752325	Patras		locality	3
 37002	1209142903	Platanias		locality	1
 37002	101849721	Skiathos		locality	1
+37003	101849465	Skopelos Town		locality	1
 37005	101849387	Patitiri		locality	1
 37005	1310435511	Steni Vala		locality	1
 37006	1125885991	Argalasti		locality	4
@@ -640,313 +677,362 @@ TK 49080	1125963763	Corfu		locality	1
 37100	101849129	Almyros		locality	1
 37300	1125773957	Kato Gatzea		locality	2
 38001	101752321	Volos		locality	1
-38221	101752321	Volos		locality	10
+38221	101752321	Volos		locality	11
 38222	101752321	Volos		locality	9
 38332	101752321	Volos		locality	1
-38333	101752321	Volos		locality	6
-38334	101752321	Volos		locality	1
+38333	101752321	Volos		locality	9
+38334	101752321	Volos		locality	2
 38445	101752321	Volos		locality	1
 38445	1209142811	Nea Ionia		locality	1
 38446	101752321	Volos		locality	1
 38500	101752321	Volos		locality	5
+38500	1125960141	Alli Meria		locality	1
 38500	1209142811	Nea Ionia		locality	1
 40005	101855011	Verdikousa		locality	1
 40006	1125972335	Stomio		locality	1
-40200	1125948191	Elassona		locality	13
+40100	101874221	Tyrnavos		locality	1
+40200	1125948191	Elassona		locality	12
+40200	101855015	Livadi		locality	1
 40300	101849237	Farsala		locality	2
 40300	101849227	ΒΑΜΒΑΚΟΥ		locality	1
+40400	1344090839	Ampelonas		locality	1
 41002	101752323	Larissa		locality	1
 41110	101752323	Larissa		locality	1
-41221	101752323	Larissa		locality	13
-41222	101752323	Larissa		locality	201
-41223	101752323	Larissa		locality	12
+41221	101752323	Larissa		locality	16
+41222	101752323	Larissa		locality	208
+41223	101752323	Larissa		locality	13
 41334	101752323	Larissa		locality	30
-41447	101752323	Larissa		locality	4
+41335	101752323	Larissa		locality	4
+41447	101752323	Larissa		locality	3
 41500	101849225	Giannouli		locality	7
 41500	101752323	Larissa		locality	3
 41500	101849231	Nikaia		locality	2
 42032	1125947339	Elati		locality	3
 42036	1126042581	Chalíkion		locality	1
-42100	101850179	Trikala		locality	6
+42100	101850179	Trikala		locality	8
 42130	101850179	Trikala		locality	1
+42131	1125886811	Trikala		locality	1
 42199	101855949	Kastoria		locality	1
-42200	101875559	Kalambaka		locality	2
+42200	101875559	Kalambaka		locality	16
 42200	101875557	Kastraki		locality	2
-42200	1125932545	Kastraki		locality	1
+42200	101850179	Trikala		locality	1
 42222	101752323	Larissa		locality	3
-43100	101875543	Karditsa		locality	27
-43131	101875543	Karditsa		locality	9
-43132	101875543	Karditsa		locality	4
-43300	101849197	ΣΟΦΑΔΕΣ		locality	19
+43100	101875543	Karditsa		locality	380
+43200	1125775091	Palamas Karditsa		locality	1
+43300	101849197	ΣΟΦΑΔΕΣ		locality	21
 44001	101849601	Pramanta		locality	1
 44010	1125959665	Tsepelovo		locality	1
 44018	1125780423	Fragkades		locality	1
 44100	101855197	Konitsa		locality	1
 44200	101855199	Metsovo		locality	1
-45110	101752333	Ioannina		locality	2
-45221	101752333	Ioannina		locality	4
-45332	101752333	Ioannina		locality	3
-45333	101752333	Ioannina		locality	1
+45110	101752333	Ioannina		locality	3
+45221	101752333	Ioannina		locality	10
+45221	101849593	Anatoli		locality	1
+45222	1243009139	Anatoli		locality	4
+45222	101849593	Anatoli		locality	3
+45332	101752333	Ioannina		locality	4
+45333	101752333	Ioannina		locality	2
+45444	101752333	Ioannina		locality	4
+45445	101752333	Ioannina		locality	1
 45500	101752333	Ioannina		locality	3
 45500	101849591	Stavraki		locality	3
 45500	1125994843	Kopani		locality	1
+45500	101849597	Pedini		locality	1
 46100	101875715	Igoumenitsa		locality	1
 46200	101849717	Paramythia		locality	2
-46300	101849709	ΦΙΛΙΑΤΕΣ		locality	1
+46300	101849709	Filiates Municipality		locality	1
 47040	1126004565	Theriakision		locality	2
 47040	1125835985	Chrysopigí		locality	1
-47100	1126009975	Arta		locality	35
+47041	101875553	Arta		locality	1
+47045	1126019407	Palaiokatouno		locality	5
+47100	1126009975	Arta		locality	36
 47100	101875553	Arta		locality	3
 47100	1125859227	Gavria		locality	1
+47132	1126009975	Arta		locality	1
 47150	1242907961	Trapezaki		locality	1
 47200	101875553	Arta		locality	1
 48060	101850213	Parga		locality	2
 48062	101850211	Preveza		locality	3
 48062	101850213	Parga		locality	1
 48100	101850211	Preveza		locality	9
-48100	1276365833	Nea Thesi		locality	3
+48100	1276365833	Nea Thesi		locality	4
 48200	101875667	Filippiada		locality	4
 48200	1126009975	Arta		locality	1
 48200	1125911605	Pantanassa		locality	1
-49080	1125963763	Corfu		locality	3
+49080	1125963763	Corfu		locality	4
 49080	1125810383	Kavos		locality	1
 49080	1125880835	Corfu		locality	1
 49080	1126009821	Lefkimmi		locality	1
 49081	1125880835	Corfu		locality	14
-49081	1125855951	Acharavi		locality	4
+49081	1125855951	Acharavi		locality	3
+49081	1243006955	Agios Stefanos Avlioton		locality	3
+49081	1327061379	Arillas Magouladon		locality	2
+49081	1125774229	Peroulades		locality	2
+49081	1125963763	Corfu		locality	2
 49081	1276160487	Arillas Kavvadadon		locality	1
-49081	1327061379	Arillas Magouladon		locality	1
+49081	1125768521	Astrakeri		locality	1
 49081	1125991401	Roda		locality	1
 49081	1125824461	Aríllas		locality	1
 49083	1125963763	Corfu		locality	3
-49083	1125793999	Dassia		locality	2
-49083	1125947409	Palaiokastritsa		locality	2
+49083	1125793999	Dassia		locality	3
+49083	1343591507	Palaiokastritsa		locality	2
 49083	1125957901	Kato Korakiana		locality	1
+49083	1125770801	Pagoi		locality	1
 49084	1125771455	Aghios Gordios		locality	3
 49084	1125963763	Corfu		locality	3
+49084	1125770969	Agios Mathaios		locality	1
 49084	1126036941	Benitses		locality	1
 49084	1125857353	Gastouri		locality	1
+49084	101849587	Perama		locality	1
 49084	1125770789	Pentati		locality	1
+49084	101849705	Sinarades		locality	1
+49100	1125963763	Corfu		locality	3
 49100	1125855951	Acharavi		locality	2
 49100	1125771455	Aghios Gordios		locality	1
 49100	1125860527	Kanali		locality	1
 49132	1125963763	Corfu		locality	1
-50100	101855071	Kozani		locality	8
+50004	101855093	Aiani		locality	1
+50010	101855087	Ano Komi		locality	3
+50100	101855071	Kozani		locality	9
+50100	1344190885	Neraida		locality	2
+50100	1260221195	Petrana		locality	2
 50100	1126046123	Avgi		locality	1
-50100	1344190885	Neraida		locality	1
+50100	1276588817	Karyditsa		locality	1
+50100	1209043199	Lefkovrysi		locality	1
 50100	1242712763	Ryaki		locality	1
+50132	101855071	Kozani		locality	2
 50200	101855047	Ptolemaida		locality	2
 50300	101855077	Siatista		locality	3
 50500	101855091	Servia		locality	1
 51100	101856023	Grevena		locality	1
 52000	101855047	Ptolemaida		locality	1
 52050	1226378473	Koromilia		locality	2
-52100	101855949	Kastoria		locality	475
+52057	1360220825	Dispilio		locality	1
+52100	101855949	Kastoria		locality	544
 52100	101855941	Maniakoi		locality	6
+52100	1310635871	Chloi		locality	2
 52200	101855935	Argos Orestiko		locality	10
 52200	1125837185	Lagka		locality	1
 53078	1125845195	Nymfaio		locality	1
-53100	101857451	Florina		locality	19
+53100	101857451	Florina		locality	28
 53200	1125984075	Sozopoli		locality	1
+53622	1125811423	Thessaloniki		locality	1
 54002	1125811423	Thessaloniki		locality	1
 54012	1125811423	Thessaloniki		locality	1
 54013	1125811423	Thessaloniki		locality	2
 54123	1125811423	Thessaloniki		locality	1
 54201	101856019	Pylaia		locality	1
-54248	1125811423	Thessaloniki		locality	9
-54249	1125811423	Thessaloniki		locality	18
-54351	1125811423	Thessaloniki		locality	20
-54352	1125811423	Thessaloniki		locality	3
-54453	1125811423	Thessaloniki		locality	27
-54454	1125811423	Thessaloniki		locality	3
+54248	1125811423	Thessaloniki		locality	29
+54249	1125811423	Thessaloniki		locality	78
+54250	1125811423	Thessaloniki		locality	48
+54351	1125811423	Thessaloniki		locality	22
+54352	1125811423	Thessaloniki		locality	8
+54453	1125811423	Thessaloniki		locality	49
+54453	1326566209	Toumpa		locality	12
+54454	1125811423	Thessaloniki		locality	8
 54500	1125811423	Thessaloniki		locality	1
-54621	1125811423	Thessaloniki		locality	94
+54621	1125811423	Thessaloniki		locality	103
 54621	101752331	Thessaloniki		locality	3
-54622	1125811423	Thessaloniki		locality	41
-54622	101752331	Thessaloniki		locality	1
-54623	1125811423	Thessaloniki		locality	14
+54622	1125811423	Thessaloniki		locality	43
+54622	101752331	Thessaloniki		locality	2
+54623	1125811423	Thessaloniki		locality	16
 54623	101752331	Thessaloniki		locality	1
-54624	1125811423	Thessaloniki		locality	22
-54625	1125811423	Thessaloniki		locality	14
+54624	1125811423	Thessaloniki		locality	24
+54625	1125811423	Thessaloniki		locality	19
 54626	1125811423	Thessaloniki		locality	5
-54627	1125811423	Thessaloniki		locality	25
-54628	101875645	Menemeni		locality	2
-54628	101752331	Thessaloniki		locality	1
-54629	101752331	Thessaloniki		locality	6
-54630	1125811423	Thessaloniki		locality	23
-54631	1125811423	Thessaloniki		locality	24
-54631	101752331	Thessaloniki		locality	21
-54632	1125811423	Thessaloniki		locality	3
+54627	1125811423	Thessaloniki		locality	27
+54628	101875645	Menemeni		locality	3
+54628	101752331	Thessaloniki		locality	2
+54629	101752331	Thessaloniki		locality	7
+54630	1125811423	Thessaloniki		locality	25
+54630	101752331	Thessaloniki		locality	1
+54631	1125811423	Thessaloniki		locality	27
+54631	101752331	Thessaloniki		locality	23
+54632	1125811423	Thessaloniki		locality	4
 54633	1125811423	Thessaloniki		locality	14
-54634	1125811423	Thessaloniki		locality	5
-54635	1125811423	Thessaloniki		locality	10
+54634	1125811423	Thessaloniki		locality	6
+54635	1125811423	Thessaloniki		locality	41
 54635	101752331	Thessaloniki		locality	4
-54636	1125811423	Thessaloniki		locality	16
+54636	1125811423	Thessaloniki		locality	15
 54638	1125811423	Thessaloniki		locality	1
-54639	1125811423	Thessaloniki		locality	7
-54640	1125811423	Thessaloniki		locality	68
-54641	1125811423	Thessaloniki		locality	16
-54642	1125811423	Thessaloniki		locality	6
-54643	1125811423	Thessaloniki		locality	1
-54644	1125811423	Thessaloniki		locality	2
-54645	1125811423	Thessaloniki		locality	29
+54639	1125811423	Thessaloniki		locality	19
+54640	1125811423	Thessaloniki		locality	73
+54641	1125811423	Thessaloniki		locality	38
+54642	1125811423	Thessaloniki		locality	12
+54643	1125811423	Thessaloniki		locality	4
+54644	1125811423	Thessaloniki		locality	11
+54645	1125811423	Thessaloniki		locality	36
 54645	1125857593	Kalamaria		locality	1
-54646	1125811423	Thessaloniki		locality	257
+54646	1125811423	Thessaloniki		locality	263
 54655	1125811423	Thessaloniki		locality	6
 54655	1125857593	Kalamaria		locality	2
 55102	101856019	Pylaia		locality	2
 55102	1125811423	Thessaloniki		locality	1
-55131	1125857593	Kalamaria		locality	2155
-55132	1125857593	Kalamaria		locality	4467
+55131	1125857593	Kalamaria		locality	2173
+55132	1125857593	Kalamaria		locality	4476
 55132	1293329173	Krini		locality	5
-55133	1125857593	Kalamaria		locality	2398
-55133	1125811423	Thessaloniki		locality	2
-55134	1125857593	Kalamaria		locality	1543
+55133	1125857593	Kalamaria		locality	2400
+55133	1125811423	Thessaloniki		locality	1
+55134	1125857593	Kalamaria		locality	1549
 55134	1125811423	Thessaloniki		locality	1
-55135	1125857593	Kalamaria		locality	2
-55236	101856013	Panorama		locality	6
+55135	1125857593	Kalamaria		locality	1
+55236	101856013	Panorama		locality	18
+55236	101855999	Thermi		locality	1
 55337	1125811423	Thessaloniki		locality	4
 55438	1125811423	Thessaloniki		locality	1
 55510	101856019	Pylaia		locality	1
-55535	101856019	Pylaia		locality	15
-55535	1125811423	Thessaloniki		locality	2
+55535	101856019	Pylaia		locality	24
+55535	1125811423	Thessaloniki		locality	4
+55535	1125857593	Kalamaria		locality	1
 55536	101856019	Pylaia		locality	1
-56121	1125989223	Ampelokipoi		locality	7
+56121	1125989223	Ampelokipoi		locality	6
 56121	101752331	Thessaloniki		locality	1
 56122	1125989223	Ampelokipoi		locality	1
-56123	1125989223	Ampelokipoi		locality	6
+56123	1125989223	Ampelokipoi		locality	9
 56210	1125903611	Evosmos		locality	1
-56224	1125903611	Evosmos		locality	33
-56224	101752331	Thessaloniki		locality	14
+56224	1125903611	Evosmos		locality	34
+56224	101752331	Thessaloniki		locality	13
 56224	1125903551	Stavroupoli		locality	1
 56225	1125903611	Evosmos		locality	4
 56334	101752331	Thessaloniki		locality	1
 56334	1125961167	Eleftherio-Kordelio		locality	1
 56403	101857487	Efkarpia		locality	3
+56429	1293036969	Efkarpia		locality	5
 56429	101752331	Thessaloniki		locality	2
-56429	101857487	Efkarpia		locality	1
-56430	1125903551	Stavroupoli		locality	28
-56430	101752331	Thessaloniki		locality	1
+56430	1125903551	Stavroupoli		locality	27
+56430	101752331	Thessaloniki		locality	13
 56430	101857457	Oraiokastro		locality	1
-56431	1125903551	Stavroupoli		locality	58
+56431	1125903551	Stavroupoli		locality	56
 56431	101752331	Thessaloniki		locality	4
-56431	1125860203	Stavroupoli		locality	2
 56431	1125903611	Evosmos		locality	1
 56436	1125903551	Stavroupoli		locality	2
 56510	101752331	Thessaloniki		locality	1
 56532	101752331	Thessaloniki		locality	2
 56533	101752331	Thessaloniki		locality	4
-56625	1125811423	Thessaloniki		locality	10
+56625	1125811423	Thessaloniki		locality	11
 56625	1125789167	Sykies		locality	1
 56625	101857457	Oraiokastro		locality	1
 56626	1125811423	Thessaloniki		locality	1
+56626	1125789167	Sykies		locality	1
 56727	101855067	Neapoli		locality	296
-56728	101855067	Neapoli		locality	9
-57001	101855999	Thermi		locality	44
-57001	101856019	Pylaia		locality	4
-57001	1125811423	Thessaloniki		locality	3
+56728	101855067	Neapoli		locality	10
+57001	101855999	Thermi		locality	83
+57001	101856019	Pylaia		locality	6
+57001	1226179343	Triadhion		locality	5
+57001	1125811423	Thessaloniki		locality	4
 57001	1343491043	Tagarades		locality	3
 57001	1125979145	Agia Paraskevi		locality	1
 57001	101856009	Nea Raidestos		locality	1
-57001	1226179343	Triadhion		locality	1
+57002	101857533	Sochos		locality	2
 57003	101857459	Agios Athanasios		locality	4
-57004	1126012111	Michaniona		locality	6
+57004	1126012111	Michaniona		locality	14
 57004	1125789839	Nea Kerasia		locality	1
 57006	1343698541	Agios Antonios		locality	2
+57006	1125776609	Souroti		locality	2
 57006	101855991	Vasilika		locality	1
 57006	1277110715	Galarinos		locality	1
 57006	1360021939	Lakkia		locality	1
 57006	1276473549	Monopigado		locality	1
-57006	1125776609	Souroti		locality	1
-57008	1125858475	Diavata		locality	38
+57007	1125826931	Adendro		locality	1
+57007	1125927231	Chalkidona		locality	1
+57008	1125858475	Diavata		locality	40
+57008	101752331	Thessaloniki		locality	1
 57009	1125856803	Kalochori		locality	23
+57010	101857485	Exochi		locality	9
+57010	1125923683	Chortiatis		locality	7
 57010	1126055915	Asvestochórion		locality	2
 57010	101857535	Filyro		locality	2
-57010	101857485	Exochi		locality	1
-57010	1125923683	Chortiatis		locality	1
-57011	101857483	Gefyra		locality	4
+57011	101857483	Gefyra		locality	8
 57011	1126005891	Anchialos		locality	2
 57011	1276690553	Kato Gefyra		locality	1
-57012	1125776795	Langadhíkia		locality	1
-57013	101857457	Oraiokastro		locality	8
+57012	1125776795	Langadhíkia		locality	10
+57012	1260323297	Petrokérasa		locality	3
+57013	101857457	Oraiokastro		locality	11
 57013	1226479155	Galini		locality	1
 57014	1125975343	Stavros		locality	1
-57019	1125859505	Peraia		locality	7
+57019	1125859505	Peraia		locality	22
+57019	1125857995	Neoi Epivates		locality	7
 57019	1209249151	Akti		locality	6
 57019	1125889023	Peraia		locality	2
-57019	1125857995	Neoi Epivates		locality	2
-57020	1125776795	Langadhíkia		locality	7
+57021	1125802743	Arethousa		locality	1
 57022	101857531	Sindos		locality	4
-57100	101857495	Koufalia		locality	1
+57100	101857495	Koufalia		locality	6
 57100	101856019	Pylaia		locality	1
-57200	1125858603	Langadas		locality	3
+57200	1125858603	Langadas		locality	5
+57200	1125925187	Agios Vasileios		locality	3
+57200	1343988457	Ossa		locality	1
 57200	1125865039	Liti		locality	1
 57300	101857537	Chalastra		locality	3
-57400	101857531	Sindos		locality	130
-57500	101855993	Epanomi		locality	10
+57400	101857531	Sindos		locality	138
+57500	101855993	Epanomi		locality	21
+57500	1126009273	Trilofos		locality	8
+57500	101875657	Plagiari		locality	5
 57500	1259719863	Kardia		locality	3
-57500	101875657	Plagiari		locality	2
+57500	1125811423	Thessaloniki		locality	2
 57500	101856003	Kato Scholari		locality	1
+57500	101856005	ΜΕΣΗΜΕΡΙΟΝ		locality	1
 57500	101875661	Trilofos		locality	1
 57500`	101855993	Epanomi		locality	1
 58002	1125890653	Ayios Athanasios		locality	1
+58002	1293919937	Agios Dimitrios		locality	1
 58002	101857647	Edessa		locality	1
 58005	101857661	ΝΕΑ ΠΕΛΛΑ		locality	1
-58100	1125864967	Giannitsa		locality	2
-58200	1125856821	Edessa		locality	17
-58200	101857647	Edessa		locality	1
+58100	1125864967	Giannitsa		locality	5
+58200	1125865059	Edessa		locality	26
 58300	1243292327	Krya Vrysi		locality	1
 58400	101857621	Aridea		locality	4
-58400	1125836507	Voreino		locality	1
-58500	101857657	Skydra		locality	26
+58400	1125836507	Voreino		locality	2
+58500	101857657	Skydra		locality	27
 59032	1226178749	Platy		locality	1
-59131	101855957	Veroia		locality	5
-59132	1125860443	Veroia		locality	8
-59200	101857429	ΝΑΟΥΣΑ		locality	4
+59100	101855957	Veroia		locality	1
+59131	101855957	Veroia		locality	32
+59132	1125860443	Veroia		locality	53
+59200	101857429	Naousa		locality	4
 59300	1276588347	Alexandreia		locality	10
 59300	101857421	Alexandreia		locality	1
 60005	1209248395	Platamonas		locality	2
-60065	1209248395	Platamonas		locality	3
-60100	1125884985	Olympiaki Akti		locality	20
-60100	101855175	Paralia Katerinis		locality	6
-60100	1209249151	Akti		locality	1
-60200	101855185	Litochoro		locality	2
+60063	1310630195	Leptokarya		locality	1
+60065	1209248395	Platamonas		locality	4
+60200	101855185	Litochoro		locality	3
 60300	101855193	Aeginio		locality	1
 61003	1126039427	Mouries		locality	1
-61100	101857573	Kilkis		locality	257
+61100	101857573	Kilkis		locality	258
 61200	101857541	Polykastro		locality	7
 61200	101857543	Axioupoli		locality	1
-61300	101857549	Goumenissa		locality	4
+61300	101857549	Goumenissa		locality	5
 62042	101857697	Nea Zichni		locality	1
 62043	101856937	Neo Petritsi		locality	1
 62049	1125776383	Mavrothalassa		locality	1
+62053	101857729	Rodopoli		locality	2
 62055	1126012251	Ano Poroia		locality	1
 62100	101752349	Serres		locality	5
 62100	1309741267	Lefkonas		locality	1
 62101	101752349	Serres		locality	2
 62121	101752349	Serres		locality	2
-62122	101752349	Serres		locality	11
-62123	101752349	Serres		locality	10
-62124	101752349	Serres		locality	5
-62125	101752349	Serres		locality	7
+62122	101752349	Serres		locality	13
+62123	101752349	Serres		locality	13
+62124	101752349	Serres		locality	8
+62125	101752349	Serres		locality	8
 62200	101857723	Nigrita		locality	3
-62300	101857731	Sidirokastro		locality	27
+62300	101857731	Sidirokastro		locality	29
 62400	101856945	Tzoumagia		locality	3
 63071	101855121	Ormylia		locality	4
 63071	1344087851	Vatopedio		locality	2
 63071	1293424547	Nea Sermyli		locality	1
-63071	1243299655	Psakoudia		locality	1
+63072	101855141	Sarti		locality	2
 63072	101855147	Sykia		locality	2
-63072	1327462491	Sykia		locality	1
-63072	1125933011	Toroni		locality	1
-63072	101855141	Sarti		locality	1
+63073	101855103	Galatista		locality	1
 63074	1125889033	Arnaia		locality	1
 63074	1360319233	Palaiochori		locality	1
+63075	101855107	Ierissos		locality	9
+63075	1310139807	Kryopigi		locality	5
+63075	1293918383	Ouranoupoli		locality	3
 63075	1293619813	Gomati		locality	1
-63075	101855107	Ierissos		locality	1
+63075	1126012083	Ouranoupoli		locality	1
 63076	101855105	Megali Panagia		locality	1
+63077	1125860773	Siviri		locality	11
 63077	1125828209	Kallithea		locality	4
-63077	1242813821	Fourka		locality	2
+63077	1125976819	Skala Fourkas		locality	2
 63077	101855031	Afytos		locality	1
 63077	1125876489	Kalandra		locality	1
 63077	101855033	Kassandreia		locality	1
@@ -955,48 +1041,48 @@ TK 49080	1125963763	Corfu		locality	1
 63077	1259614191	Nea Skioni		locality	1
 63077	101855933	Nea Fokaia		locality	1
 63078	1125898597	Vourvourou		locality	3
-63078	101855139	Agios Nikolaos		locality	1
+63078	101855139	Agios Nikolaos		locality	2
 63078	1292940491	Metagkitsi		locality	1
 63078	1126005883	Metamorfosi		locality	1
 63078	1209244235	Plana		locality	1
 63078	101855035	Polychrono		locality	1
 63078	1125872035	Pirgadikia		locality	1
 63079	101855119	ΝΕΑ ΤΡΙΓΛΙΑ		locality	1
-63080	1125898873	Nea Kallikratia		locality	25
-63080	1125892021	Agios Pavlos		locality	3
+63080	1125898873	Nea Kallikratia		locality	30
+63080	1343693231	Nea Irakleia		locality	4
 63080	1327060983	Nea Silata		locality	2
 63080	1125865011	Nea Kallikrateia		locality	1
 63080	1293327271	Elaiochoria		locality	1
 63080	1226373029	Nea Gonia		locality	1
-63080	1343693231	Nea Irakleia		locality	1
 63080	1292942681	Agioi Anargyroi		locality	1
 63080	1209549611	Ampelakia		locality	1
 63080	1343397965	Petralona		locality	1
-63081	1226476397	Neos Marmaras		locality	3
-63081	101855137	Neos Marmaras		locality	1
+63081	1226476397	Neos Marmaras		locality	4
+63081	101855137	Neos Marmaras		locality	2
 63084	1293726543	Vavdos		locality	1
+63085	1125978397	Chaniotis		locality	2
 63085	1209345999	Pefkochori		locality	2
-63085	101855033	Kassandreia		locality	1
 63085	1293919903	Agia Paraskevi		locality	1
 63085	1343497147	Loutra		locality	1
 63085	1259614191	Nea Skioni		locality	1
 63085	1126053141	Paliouri		locality	1
-63088	1259719765	Nikiti		locality	1
+63088	1259719765	Nikiti		locality	2
 63088	1293329173	Krini		locality	1
-63100	101855113	Polygyros		locality	31
+63100	101855113	Polygyros		locality	32
 63100	1126009283	Taksiarchis		locality	2
 63100	1126021137	Yerakini		locality	1
+63100	1125828197	Prinos		locality	1
 63100	1243587981	Vrastama		locality	1
 63100	1125826915	Kalyves Polygyrou		locality	1
 63100	1293326617	Kelli		locality	1
 63100	101855149	Taksiarchis		locality	1
 63200	1343692591	Nea Moudania		locality	8
 63200	101855153	Flogita		locality	2
+63200	1226173955	Dionysiou		locality	1
 63200	1126040019	Nea Plagia		locality	1
 63200	101855129	Agios Mamas		locality	1
 63200	1243101203	Agios Panteleimon		locality	1
 63200	1125837115	Olynthos		locality	1
-63200	1226173955	Dionysiou		locality	1
 63200	1126053219	Zografou		locality	1
 63200	101752331	Thessaloniki		locality	1
 63200	101855131	ΝΕΑ ΜΟΥΔΑΝΙΑ		locality	1
@@ -1008,17 +1094,20 @@ TK 49080	1125963763	Corfu		locality	1
 63200	101855125	Portaria		locality	1
 63200	1277113391	Simantra		locality	1
 64001	1343397575	Agios Christoforos		locality	1
-64002	1125779981	Limenaria		locality	4
+64002	1125779981	Limenaria		locality	5
 64002	101857413	Thassos		locality	1
 64003	1125810679	Krinides		locality	1
-64004	101857413	Thassos		locality	13
+64004	101857413	Thassos		locality	14
 64004	1125828959	Chrysi Akti		locality	4
 64004	1309834537	Thymonia		locality	1
+64004	1226785385	Panagia		locality	1
 64004	1260218355	Skala Sotiros		locality	1
+64006	1126030143	Nea Karvali		locality	10
 64007	1243585225	Nea Peramos		locality	5
 64007	101857585	Nea Peramos		locality	1
 64007	1125865019	Néa Irakleítsa		locality	1
 64008	1209040429	Podochori		locality	2
+64010	1125860235	Thasos		locality	2
 64010	1326564249	Skala Kallirachis		locality	2
 64010	101857413	Thassos		locality	1
 64010	1260218355	Skala Sotiros		locality	1
@@ -1026,55 +1115,62 @@ TK 49080	1125963763	Corfu		locality	1
 64100	1126009493	Eleftheroupoli		locality	4
 64100	1125859393	Kipia		locality	1
 64100	1125862327	Kokkinochoma		locality	1
-64200	1125858003	Chrysoupoli		locality	5
+64200	1125858003	Chrysoupoli		locality	6
 65110	1125972721	Kavala		locality	2
-65201	1125972721	Kavala		locality	18
-65302	1125972721	Kavala		locality	67
-65403	1125972721	Kavala		locality	254
+65201	1125972721	Kavala		locality	21
+65302	1125972721	Kavala		locality	69
+65403	1125972721	Kavala		locality	256
 65404	101752337	Kavala		locality	33
-65500	1327268959	Palaio Tsifliki		locality	10
+65500	1327268959	Palaio Tsifliki		locality	11
+66031	101857001	Kalampaki		locality	1
 66033	1310439013	Granitis		locality	1
-66100	101856985	Drama		locality	80
+66100	101856985	Drama		locality	84
 66100	1125776573	Sitagroi		locality	1
 66131	101856985	Drama		locality	1
 66132	101856985	Drama		locality	2
-66133	101856985	Drama		locality	7
+66133	101856985	Drama		locality	9
 66150	1226778411	Livadero		locality	2
 66200	101857759	Prosotsani		locality	2
 66300	101856999	ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ		locality	2
 67062	1226178917	Stavroupoli		locality	2
 67062	1209243163	Komnina		locality	1
-67100	101857691	Xanthi		locality	26
+67100	1125857093	Xanthi		locality	33
 67100	1243292349	Chrysa		locality	1
 67132	1125857093	Xanthi		locality	1
-67133	101857691	Xanthi		locality	1
+67133	101857691	Xanthi		locality	3
 67300	1276803481	Kottani		locality	1
 68006	1125927487	Komara		locality	3
 68007	1260322951	Pentalofos		locality	4
-68100	101857767	Alexandroupoli		locality	68
+68100	101857767	Alexandroupoli		locality	86
+68100	1276260115	Nea Chili		locality	3
 68100	1343697883	Amfitriti		locality	1
+68131	101857767	Alexandroupoli		locality	1
 68132	101857767	Alexandroupoli		locality	14
 68133	101857767	Alexandroupoli		locality	2
-68200	101857787	ΟΡΕΣΤΙΑΣ		locality	17
+68200	101857787	Orestiada		locality	17
 68300	101857769	Didymoteicho		locality	20
-68400	101857793	Soufli		locality	7
-68500	101857799	Feres		locality	6
-69100	1125858323	Komotini		locality	8
-69100	1125871543	Komotini		locality	1
-69132	1125858323	Komotini		locality	19
+68400	101857793	Soufli		locality	8
+68500	101857799	Feres		locality	9
+69100	1125858323	Komotini		locality	1
+69132	1125858323	Komotini		locality	20
+69133	1125858323	Komotini		locality	5
 69200	101856909	Iasmos		locality	1
 69300	101857681	Sapes		locality	1256
+69300	101856923	ΑΡΙΣΒΗ		locality	2
 69300	101857683	Fillyra		locality	1
 70002	1125999089	Zaros		locality	1
-70007	1125810589	Malia		locality	2
-70007	1125853297	Stalida		locality	1
+70006	1126009857	Kastelli		locality	1
+70007	1125810589	Malia		locality	4
+70007	1125853297	Stalida		locality	3
 70011	1293526139	Dafnes		locality	1
-70014	1126046359	Hersonissos		locality	4
+70014	1126046359	Hersonissos		locality	8
+70014	101848277	Limenas Hersonissou		locality	8
 70014	1310634511	Piskopiano		locality	2
 70014	1125928671	Anissaras		locality	1
+70014	1125988409	Kato Gouves		locality	1
 70014	1125781667	Koutouloufari		locality	1
-70014	101848277	Limenas Hersonissou		locality	1
 70100	1343592535	Kounavoi		locality	2
+70100	1344193201	Archanes		locality	2
 70100	1293725753	Choudetsi		locality	1
 70100	1243584759	Peza		locality	1
 70100	1226683169	Myrtia		locality	1
@@ -1085,16 +1181,16 @@ TK 49080	1125963763	Corfu		locality	1
 70400	1125999089	Zaros		locality	2
 71005	101848273	Gazi		locality	1
 71110	101752339	Heraklion		locality	1
-71201	101752339	Heraklion		locality	3
+71201	101752339	Heraklion		locality	4
 71202	101752339	Heraklion		locality	121
 71303	101752339	Heraklion		locality	1
-71304	101752339	Heraklion		locality	1
-71305	101752339	Heraklion		locality	2
+71304	101752339	Heraklion		locality	2
+71305	101752339	Heraklion		locality	3
 71306	101752339	Heraklion		locality	20
-71306	1126042217	Heraklion		locality	12
+71306	1126042217	Heraklion		locality	20
 71307	1126042217	Heraklion		locality	1
-71409	101752339	Heraklion		locality	2
-71409	1126042217	Heraklion		locality	2
+71409	101752339	Heraklion		locality	3
+71409	1126042217	Heraklion		locality	3
 71410	101752339	Heraklion		locality	2
 71414	1327268125	Ammoudara		locality	2
 71414	101752339	Heraklion		locality	1
@@ -1105,8 +1201,8 @@ TK 49080	1125963763	Corfu		locality	1
 71500	1125810653	Fodele		locality	1
 71500	101752339	Heraklion		locality	1
 71500	1126008167	Profitis Ilias		locality	1
+71601	1126042217	Heraklion		locality	4
 71601	1125970601	Nea Alikarnassos		locality	4
-71601	1126042217	Heraklion		locality	3
 71601	1242814121	Kallithea		locality	1
 72000	101848181	Yirapetra		locality	1
 72053	1125791923	Elounda		locality	5
@@ -1114,49 +1210,64 @@ TK 49080	1125963763	Corfu		locality	1
 72055	101848181	Yirapetra		locality	1
 72055	1126033057	Makrigialos		locality	1
 72057	101848177	Seteia		locality	1
-72100	101848179	Ayios Nikolaos		locality	11
-72200	101848181	Yirapetra		locality	11
+72100	101848179	Ayios Nikolaos		locality	136
+72100	1293815067	Vathy		locality	1
+72200	101848181	Yirapetra		locality	13
+72200	1125820335	Kavousi		locality	3
+72200	1343490191	Tholos		locality	1
 72200	1125773969	Koutsounari		locality	1
 72300	101848177	Seteia		locality	4
 72300	1360316215	Palekastro		locality	1
 72300	1293914513	Xerokampos		locality	1
+72400	101848175	Neapolis		locality	1
 72400	1360221193	Fourni		locality	1
 73001	1125778803	Paleochora		locality	3
+73001	1343295813	Palaiochora		locality	2
 73002	1343988763	Polemarchi		locality	5
 73002	1209651481	Anoskeli		locality	1
+73002	1276479617	Zounaki		locality	1
 73003	101848391	Vamou		locality	1
 73005	1125950633	Alikianos		locality	2
+73006	1125978405	Platanias		locality	6
 73007	1260220873	Tsikoliana		locality	1
 73007	1260323659	Vafes		locality	1
 73007	1343397053	Georgioupolis		locality	1
+73008	1310439703	Almyrida		locality	2
+73008	1343397053	Georgioupolis		locality	1
 73011	1125793973	Agia Roumeli		locality	3
+73011	1126005455	Hora Sfakion		locality	3
 73011	1243298005	Loutro		locality	2
 73011	101752343	Canea		locality	1
-73011	1125880211	Sfakia		locality	1
-73011	1126005455	Hora Sfakion		locality	1
+73012	1125915951	Elos		locality	1
+73014	101848375	Ayia Marina		locality	4
 73014	1126042755	Platanes		locality	4
 73014	101752343	Canea		locality	3
-73014	1125872895	Agia Marina		locality	1
-73014	1125810701	Maleme		locality	1
+73014	1125810701	Maleme		locality	2
 73014	1125978405	Platanias		locality	1
 73100	101752343	Canea		locality	12
-73100	101848375	Ayia Marina		locality	2
+73100	101848375	Ayia Marina		locality	3
+73100	101848377	Galatas		locality	1
 73100	1125876553	Yeranion		locality	1
-73131	101752343	Canea		locality	6
-73132	101752343	Canea		locality	3
+73100	101848371	Kounoupidhiana		locality	1
+73100	1125978405	Platanias		locality	1
+73131	101752343	Canea		locality	8
+73132	101752343	Canea		locality	4
 73133	101752343	Canea		locality	3
 73134	101752343	Canea		locality	2
+73135	101752343	Canea		locality	1
 73136	101752343	Canea		locality	4
-73400	101848379	Kissamos		locality	3
-73400	1125817739	Kalyviani		locality	2
+73400	101848379	Kissamos		locality	4
+73400	1125817739	Kalyviani		locality	3
+73500	1125897971	Khorafakia		locality	1
 74052	1243009603	Agios Ioannis		locality	1
 74052	101848303	Rethimnon		locality	1
+74052	1293625661	Sisai		locality	1
 74053	1193170757	Kissos		locality	2
 74054	1225875445	Episkopi		locality	2
-74055	1125990833	Argyroupoli		locality	1
-74056	101848305	Ayia Galini		locality	7
-74057	101848303	Rethimnon		locality	1
-74100	101848303	Rethimnon		locality	46
+74055	1125990833	Argyroupoli		locality	7
+74056	101848305	Ayia Galini		locality	5
+74057	101848303	Rethimnon		locality	2
+74100	101848303	Rethimnon		locality	37
 74100	1209750371	Pigi		locality	3
 74100	1125920989	Adele		locality	2
 74100	1126042755	Platanes		locality	1
@@ -1165,124 +1276,145 @@ TK 49080	1125963763	Corfu		locality	1
 74131	101848303	Rethimnon		locality	2
 74132	101848303	Rethimnon		locality	3
 74133	101848303	Rethimnon		locality	2
-80100	1125810389	Cythera		locality	1
+80100	1125810389	Cythera		locality	3
+80100	1310339983	Aroniadika		locality	1
 80200	1310339983	Aroniadika		locality	1
-81100	101849633	Mytilene		locality	60
+81100	101849633	Mytilene		locality	56
 81100	1125836717	Mytilene		locality	19
 81100	1125838247	Mytilene		locality	1
 81101	101849615	Agiasos		locality	1
 81104	1209349301	Skala Sykamineas		locality	1
+81106	1125791421	Pappados		locality	1
 81108	101849629	Molivo		locality	2
 81109	101849637	Petras		locality	4
-81131	101849633	Mytilene		locality	2
+81131	1125836717	Mytilene		locality	3
+81131	101849633	Mytilene		locality	1
 81132	1125838247	Mytilene		locality	1
 81300	101849641	Polichnitos		locality	1
-81400	1126027463	Limnos		locality	2
+81400	101856029	Myrina		locality	11
+81400	1126027463	Limnos		locality	3
+81401	1125991969	Moudros		locality	1
 82100	101850187	Scio		locality	5
 82100	1125899313	Karfas		locality	1
-82131	101850187	Scio		locality	2
+82131	101850187	Scio		locality	3
 82132	101850187	Scio		locality	5
+82150	1126042977	Avghonima		locality	1
 82200	101849327	Vrontados		locality	2
 83100	101875737	Samos		locality	10
-83100	1209550099	Vathy		locality	6
+83100	1209550099	Vathy		locality	7
 83101	1125879999	Mytilinioi		locality	1
 83102	1125835555	Kampos Marathokampou		locality	1
 83102	101848431	Marathokampos		locality	1
-83103	101848435	ΠΥΘΑΓΟΡΕΙΟΝ		locality	1
+83103	101848435	Pythagoreio		locality	1
 83103	1125834569	Chora		locality	1
 83200	101849723	Karlovasi		locality	5
-83200	1125969843	Karlovasi		locality	1
+83200	1125969843	Karlovasi		locality	2
+83200	1125796577	Ampelos		locality	1
 83300	101848157	Agios Kirykos		locality	1
-84001	1125857525	Ios		locality	1
+84001	1125857525	Ios		locality	2
 84003	1126016211	Kastro		locality	1
-84003	1125869653	Sifnos		locality	1
+84003	1125878885	Apollonia		locality	1
 84003	1293815081	Vathy		locality	1
 84005	1259814545	Livadi		locality	26
 84005	1125839771	Mykonos		locality	5
 84005	1225874939	Galani		locality	1
+84006	1210047287	Loutra		locality	1
+84007	1125860991	Antiparos		locality	1
 84008	1125947603	Tholaria		locality	1
 84011	1293817461	Schinoussa		locality	3
 84011	1125857293	Folegandros		locality	1
 84011	1243009335	Ano Meria		locality	1
-84100	1125857467	Ermoupolis		locality	210
+84100	1125857467	Ermoupolis		locality	215
 84100	101875723	Ano Syros		locality	3
 84100	1125961139	Ermoupolis		locality	1
 84100	1259614825	Kini		locality	1
 84100	1293920643	Azolimnos		locality	1
 84100	1243400353	Danakos		locality	1
 84100	1209446537	Pagos		locality	1
-84200	101848353	Tinos		locality	5
-84300	101848261	Naxos		locality	5
-84300	101848363	Mykonos		locality	1
+84100	1125898345	Poseidonia		locality	1
+84200	101848353	Tinos		locality	6
 84300	1125774303	Vivlos		locality	1
-84400	1326666245	Marpissa		locality	5
-84400	1175612731	Athens		locality	2
+84300	101848261	Naxos		locality	1
+84300	1293817461	Schinoussa		locality	1
+84400	1326666245	Marpissa		locality	6
 84400	1259814545	Livadi		locality	1
 84400	101848269	ΠΑΡΟΣ		locality	1
-84401	101848267	Naousa		locality	6
+84400	1125972313	Parikia		locality	1
+84401	101848267	Naousa		locality	7
+84401	101848269	ΠΑΡΟΣ		locality	1
+84500	101849725	Andros		locality	2
+84500	1126053177	Pitrofos		locality	1
 84501	1243584691	Gavrio		locality	1
-84600	101848363	Mykonos		locality	5
+84600	101848363	Mykonos		locality	6
+84600	1276586537	Agios Lazaros		locality	2
 84700	1125886723	Akrotiri		locality	6
-84700	101875741	Fira		locality	2
-84700	1125828259	Kamari		locality	2
+84700	101875741	Fira		locality	3
+84700	1125828259	Kamari		locality	3
+84700	1243208503	Firostefani		locality	2
 84700	1260320983	Imerovigli		locality	2
-84700	1243208503	Firostefani		locality	1
 84700	1125862507	Messaria		locality	1
 84700	1242611979	Exo Gonia		locality	1
+84700	1125860249	Thira		locality	1
+84700	1243009825	Pyrgos		locality	1
 84701	1125886723	Akrotiri		locality	1
-84702	1125995757	Oia		locality	2
+84702	1125995757	Oia		locality	3
 84702	1125886723	Akrotiri		locality	1
 84703	1125886723	Akrotiri		locality	2
 84703	101848443	Emporeion		locality	1
 84703	1125823913	Perissa		locality	1
 84800	1293518063	Provatas		locality	3
-84800	1125859043	Milos		locality	1
+84800	1125859043	Milos		locality	2
+84800	1327165081	Tripiti		locality	2
 84800	1209043685	Klima		locality	1
-84800	1327165081	Tripiti		locality	1
+84800	1125769213	Triovasalos		locality	1
 84801	101848159	Adhámas		locality	1
-85002	1209350821	Livadia		locality	1
+85002	1209350821	Livadia		locality	2
 85002	1243393747	Megalo Chorio		locality	1
-85100	101752345	Rhodes		locality	22
-85100	1125944133	Kallithea		locality	5
-85100	1125932431	Faliraki		locality	3
-85100	101848457	Koskinou		locality	1
-85101	101848451	Trianta		locality	3
-85101	101752345	Rhodes		locality	2
+85100	101752345	Rhodes		locality	26
+85100	1259419237	Kalithea		locality	7
+85100	1125932431	Faliraki		locality	4
+85100	101848457	Koskinou		locality	2
+85101	101848451	Trianta		locality	6
+85101	101752345	Rhodes		locality	3
 85101	1242812509	Kalavarda		locality	1
 85102	101848445	Archangelos		locality	1
 85102	1242612057	Kalathos		locality	1
 85102	1125902481	Stegna		locality	1
+85103	1125902921	Kolimbia		locality	2
 85103	101752345	Rhodes		locality	2
-85103	101848447	ΑΦΑΝΤΟΥ		locality	1
 85103	1125894219	Afantou		locality	1
-85103	1125902921	Kolimbia		locality	1
+85103	101848447	Afantou		locality	1
 85104	1125932591	Kremasti		locality	1
+85104	101752345	Rhodes		locality	1
 85105	1125932431	Faliraki		locality	2
-85105	101848447	ΑΦΑΝΤΟΥ		locality	1
-85106	101848465	Paradeisi		locality	1
+85105	101848447	Afantou		locality	1
+85105	101752345	Rhodes		locality	1
+85106	101848465	Paradeisi		locality	2
 85107	1125828425	Lindos		locality	20
 85107	1125945175	Pefkos		locality	1
 85107	101752345	Rhodes		locality	1
+85108	101848449	Embonas		locality	1
 85108	101752345	Rhodes		locality	1
-85109	1243101909	Gennadi		locality	3
-85109	1125858629	Lardos		locality	1
-85131	101752345	Rhodes		locality	2
+85109	1243101909	Gennadi		locality	4
+85109	1125858629	Lardos		locality	2
+85109	1293236929	Lachania		locality	1
+85131	101752345	Rhodes		locality	4
 85132	101752345	Rhodes		locality	1
-85133	101752345	Rhodes		locality	1
+85133	101752345	Rhodes		locality	2
 85200	101848161	Kalymnos		locality	5
-85300	101848223	Kos		locality	17
+85200	1343297995	Myrties		locality	1
+85300	101848223	Kos		locality	33
 85300	1226784385	Psalidi		locality	2
 85302	101848223	Kos		locality	2
 85302	1125845963	Kardamena		locality	1
 85302	1125781719	Mastihari		locality	1
+85302	101848217	Kardamena		locality	1
+85500	1125794057	Patmos		locality	1
 85600	101848155	Symi		locality	1
 85700	1126009873	Karpathos		locality	9
 85700	1226472935	Lefkos		locality	2
 85800	1125838781	Fri		locality	1
-85900	101848153	Astypalea		locality	1
-142321	1126000085	Nea Ionia		locality	1
+85900	101848153	Astypalea		locality	7
+85900	1209350821	Livadia		locality	1
 250002	1125890229	Alissos		locality	1
-454444	101752333	Ioannina		locality	1
-811323	101849633	Mytilene		locality	1
 930100	101848303	Rethimnon		locality	1
-2106604600	101875583	Gerakas		locality	1

@@ -1,32 +1,54 @@
+0000	421179109	La Libertad		locality	3
+CP 1101	421191785	San Salvador		locality	2
++503	421191785	San Salvador		locality	1
 00000	421173031	Ahuachapán		locality	1
-CP 1101	421191785	San Salvador		locality	1
 CP 1102	421191785	San Salvador		locality	1
 CP 2301	421169075	Sonsonate		locality	1
 CP 3101	421181039	La Unión		locality	1
-00503	421191785	San Salvador		locality	9
+0210	890422913	El Salvador		locality	1
+0210	1125839879	Santa Ana		locality	1
+00503	421191785	San Salvador		locality	11
 503	421191785	San Salvador		locality	6
-503	421194541	Santa Tecla		locality	4
 503	421193559	Apopa		locality	3
 503	421174749	San Vicente		locality	3
+503	421194541	Santa Tecla		locality	2
+00503	421179749	Panchimalco		locality	1
+0503	1125839879	Santa Ana		locality	1
 503	421190399	Armenia		locality	1
+503	1260374383	El Pepeto		locality	1
+503	421179125	Cuscatancingo		locality	1
 503	421200849	Mejicanos		locality	1
 503	421194781	Nuevo Cuscatlán		locality	1
+503	421169077	San Miguel		locality	1
 503	421174569	Usulután		locality	1
+0515	1125766687	Opico		locality	1
 0821	421169073	Zacatecoluca		locality	2
-01064	1276226437	Hacienda Nueva		locality	1
-1101	421191785	San Salvador		locality	6
-01101	421191785	San Salvador		locality	1
+1010	421200849	Mejicanos		locality	1
+01064	1276226437	Hacienda Nueva		locality	4
+01101	421191785	San Salvador		locality	9
+1101	421191785	San Salvador		locality	8
 1101	421200847	Antiguo Cuscatlán		locality	1
 1103	421191785	San Salvador		locality	2
 1106	421191785	San Salvador		locality	1
 1114	421200847	Antiguo Cuscatlán		locality	1
+1118	421166381	Delgado		locality	5
+01119	421179125	Cuscatancingo		locality	2
+01120	421200849	Mejicanos		locality	7
 1122	421182487	Aguilares		locality	1
+1129	421183605	San Martín		locality	2
+1204	421166383	Ilobasco		locality	11
 1217	421169077	San Miguel		locality	1
 1301	421194513	Chalatenango		locality	2
+1401	421166379	Cojutepeque		locality	3
 1501	421194541	Santa Tecla		locality	2
 1502	421200847	Antiguo Cuscatlán		locality	1
-2201	1125839879	Santa Ana		locality	2
-3401	421174569	Usulután		locality	3
+02003	421193851	Chalchuapa		locality	1
+02204	421182489	Coatepeque		locality	1
+3101	421176207	Santa Rosa de Lima		locality	7
+3301	421169077	San Miguel		locality	67
+3307	421169077	San Miguel		locality	2
+3321	421169077	San Miguel		locality	2
+3401	421174569	Usulután		locality	4
 9601	421169075	Sonsonate		locality	7
 10029	1209400477	El Paraiso		locality	1
 10201	1125839879	Santa Ana		locality	1

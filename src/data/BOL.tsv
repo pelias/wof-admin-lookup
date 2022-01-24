@@ -1,45 +1,39 @@
-CBA	890445163	Cochabamba		locality	118
-SCZ	890442173	Santa Cruz de la Sierra		locality	87
-LPZ	421176731	La Paz		locality	72
-CBA	1343961177	Tiquipaya		locality	40
+SCZ	890442173	Santa Cruz de la Sierra		locality	85
+CBA	890445163	Cochabamba		locality	68
+LPZ	421176731	La Paz		locality	60
 CBA	421192131	Villa Tunari		locality	36
-CBA	421201345	Quillacollo		locality	18
-CBA	1276989937	Independencia		locality	15
+CBA	1343961177	Tiquipaya		locality	35
 CBA	890434699	Totora		locality	14
-CBA	1326839029	Vinto		locality	12
-SCZ	890445173	Charagua		locality	12
 CBA	1343670441	Tapacari		locality	11
-SCZ	1310225095	El Torno		locality	11
+CBA	1326839029	Vinto		locality	11
+SCZ	890445173	Charagua		locality	11
+SCZ	890431117	Santiago del Torno		locality	11
 TJA	890451755	Tarija		locality	11
 BEN	421186665	La Santisima Trinidad		locality	10
+CBA	421201345	Quillacollo		locality	9
 LPZ	890445151	Quime		locality	9
 ORU	1276154767	Machacamarca		locality	9
 SCZ	421204591	Vallegrande		locality	9
-CBA	1226552839	Colcapirhua		locality	8
-CBA	1226351155	Pasorapa		locality	8
-CBA	1310307991	Confital		locality	7
 CHQ	1276882903	Maragua		locality	7
-LPZ	421204917	Achacachi		locality	7
-LPZ	421185583	Copacabana		locality	7
 LPZ	1293006723	Huancane		locality	7
 SCZ	421167813	Buena Vista		locality	7
 BEN	890451757	Riberalta		locality	6
 CBA	1343775005	Anzaldo		locality	6
+CBA	1310307991	Confital		locality	6
 LPZ	1226248869	Batallas		locality	6
 LPZ	1243460777	Palcoco		locality	6
 PSI	1276648229	Sacaca		locality	6
 SCZ	421198775	Roboré		locality	6
 SCZ	421202885	Samaipata		locality	6
-CBA	1293203747	Suticollo		locality	5
+LPZ	421185583	Copacabana		locality	5
+LPZ	421195729	Huarina		locality	5
 LPZ	421181573	Patamanta		locality	5
 LPZ	1327140303	Teoponte		locality	5
 CBA	1276456247	Omereque		locality	4
 CHQ	1226360235	Villar		locality	4
 CHQ	1243268065	Incahuasi		locality	4
-CHQ	421169177	Sucre		locality	4
 CHU	1292921459	Tomina		locality	4
 LPZ	1276986621	Guanay		locality	4
-LPZ	421195729	Huarina		locality	4
 LPZ	1293099245	Kerani		locality	4
 LPZ	1260207625	Papel Pampa		locality	4
 LPZ	1276898485	Penas		locality	4
@@ -47,16 +41,14 @@ TAR	890451755	Tarija		locality	4
 BEN	421173075	Rurrenabaque		locality	3
 BEN	1209226307	Sachojere		locality	3
 CBA	1226251445	Challa Grande		locality	3
-CBA	421197493	Irpa Irpa		locality	3
 CBA	1309918619	Icoya		locality	3
 CBA	1276556507	La Vina		locality	3
-CBA	1293013427	Sacaba		locality	3
-CBA	1360197685	Ucuchi		locality	3
-CHQ	1276571461	Pampa		locality	3
+CBA	1226351155	Pasorapa		locality	3
+CHQ	1276670821	Pampas		locality	3
 CHQ	421186859	Yotala		locality	3
 LPZ	1243454885	Ayamaya		locality	3
 LPZ	1309745135	Ayata		locality	3
-LPZ	1243171289	Belen		locality	3
+LPZ	1209319405	Belen		locality	3
 LPZ	1343359645	Caranavi		locality	3
 LPZ	421179997	Copancara		locality	3
 LPZ	1326854333	Corapata		locality	3
@@ -73,26 +65,27 @@ SCZ	890453989	San Julian		locality	3
 0000	890442173	Santa Cruz de la Sierra		locality	2
 0000	421173697	Tupiza		locality	2
 00000	421176731	La Paz		locality	2
+???	890442173	Santa Cruz de la Sierra		locality	2
 CBA	1309900325	Acacio		locality	2
 CBA	890442183	Aiquile		locality	2
-CBA	1327234569	Paso		locality	2
 CBA	1309720857	Espinal		locality	2
 CBA	1209618275	Huanacuni		locality	2
+CBA	421197493	Irpa Irpa		locality	2
 CBA	1293704617	Kasa		locality	2
 CBA	1225853705	Morochata		locality	2
 CBA	890422899	Moya Pampa		locality	2
 CBA	1209434829	Pampas		locality	2
-CBA	1242973925	Parotani		locality	2
 CBA	1293111767	Morochata		locality	2
 CBA	1343564141	Quinori		locality	2
 CBA	1209220627	Rodeo		locality	2
+CBA	1293013427	Sacaba		locality	2
 CBA	1293107747	Sauce Pila Pata		locality	2
 CBA	1209405521	Mataral		locality	2
-CBA	421186281	Sipe Sipe		locality	2
 CHQ	1125776975	Chijmuri		locality	2
 CHQ	1225948373	Huayllas		locality	2
 CHQ	1343776343	Iguembe		locality	2
 CHQ	1276766709	Supachuy		locality	2
+CHQ	421169177	Sucre		locality	2
 LPZ	1293133893	Cairoma		locality	2
 LPZ	1243270183	Calasaya		locality	2
 LPZ	1360208685	Canuma		locality	2
@@ -109,7 +102,6 @@ LPZ	1242880171	Tablachaca		locality	2
 LPZ	1259707773	Tauca		locality	2
 LPZ	1310702223	Pampa		locality	2
 LPZ	1193050993	Unduavi		locality	2
-LPZ	1343667963	Uni		locality	2
 LPZ	1243369475	Chacoma		locality	2
 LPZ	1242678171	Vilaque		locality	2
 ORU	1259984699	Leque Palca		locality	2
@@ -121,6 +113,7 @@ POT	1276357531	Paco Grande		locality	2
 POT	1327428539	Palaya		locality	2
 POT	1243062345	Puna		locality	2
 POT	1242674421	Tatuca		locality	2
+POT	1276670821	Pampas		locality	2
 POT	1209609587	Vilacaya		locality	2
 POT	1276759103	Yura		locality	2
 PSI	1360277195	Kilpani		locality	2
@@ -128,18 +121,18 @@ PSI	1293484487	San Antonio de Lipez		locality	2
 SCZ	1125870925	Camiri		locality	2
 SCZ	1309925699	Ipita		locality	2
 SCZ	1193037985	El Espino		locality	2
+SCZ	421181579	San José de Chiquitos		locality	2
 SCZ	1226339237	San Juan		locality	2
 SCZ	1344177163	Terevinto		locality	2
 +591	890451755	Tarija		locality	1
 0	1276868821	Kala Kala		locality	1
-0	890445163	Cochabamba		locality	1
 0000	890445163	Cochabamba		locality	1
 0000	421176731	La Paz		locality	1
 0000	421202885	Samaipata		locality	1
 00000	890445163	Cochabamba		locality	1
+00000000	421186661	Cobija		locality	1
 BEN	1243374969	Loreto		locality	1
 BEN	1210018521	San Andres		locality	1
-Beni	1209426647	Casarabe		locality	1
 CBA	1226146093	Aguirre		locality	1
 CBA	1343670649	Apillapampa		locality	1
 CBA	421199547	Arani		locality	1
@@ -153,7 +146,10 @@ CBA	1243185105	Chapisirca		locality	1
 CBA	1259690111	Chaqueri		locality	1
 CBA	1344065755	Charapaya		locality	1
 CBA	1259792273	Chinchiri		locality	1
+CBA	1226552839	Colcapirhua		locality	1
 CBA	1277077567	Duraznillo		locality	1
+CBA	1327234569	Paso		locality	1
+CBA	890420249	Ipajama		locality	1
 CBA	1210029091	Huasa		locality	1
 CBA	1327434703	Huayculi		locality	1
 CBA	1209105317	Huaylloma		locality	1
@@ -166,7 +162,7 @@ CBA	1293316563	Challani		locality	1
 CBA	1326839171	Habana		locality	1
 CBA	1293009329	Lagar Pampa		locality	1
 CBA	1259679255	Lagunillas		locality	1
-CBA	1276571461	Pampa		locality	1
+CBA	1276670821	Pampas		locality	1
 CBA	1242790627	Llavecita		locality	1
 CBA	421201763	Mizque		locality	1
 CBA	1327424621	Moro Moro		locality	1
@@ -175,7 +171,6 @@ CBA	1226146063	Pacay		locality	1
 CBA	1243463217	Palca		locality	1
 CBA	1276776015	Linde		locality	1
 CBA	1209818525	Pena Colorada		locality	1
-CBA	1293209423	Pojo		locality	1
 CBA	1310207897	Pucara		locality	1
 CBA	1209518563	Todos Santos		locality	1
 CBA	421204575	Punata		locality	1
@@ -188,15 +183,16 @@ CBA	1310314111	Palermo		locality	1
 CBA	1193140551	Sivingani		locality	1
 CBA	1193019299	Soico		locality	1
 CBA	1293213219	Corral		locality	1
+CBA	1293203747	Suticollo		locality	1
 CBA	1293490563	Tapasa		locality	1
 CBA	421181695	Tarata		locality	1
 CBA	1343471689	Tepas		locality	1
 CBA	1343982031	Titiri		locality	1
 CBA	1209917431	Tuiruni		locality	1
+CBA	1360197685	Ucuchi		locality	1
 CBA	1259692729	Villa Viscarra		locality	1
 CBA	1242578171	Pucara		locality	1
 CBA	1210018477	San Julian		locality	1
-CBZ	890445163	Cochabamba		locality	1
 CHQ	1209932119	Amancaya		locality	1
 CHQ	1343962209	Astillero		locality	1
 CHQ	1226046583	Bojorquez		locality	1
@@ -207,15 +203,17 @@ CHQ	1343746409	Villa Ingavi		locality	1
 CHQ	1242586347	Pucara		locality	1
 CHQ	1343565203	La Aguada		locality	1
 CHQ	1293704617	Kasa		locality	1
+CHQ	1276571461	Pampa		locality	1
 CHQ	1259997121	Marcani		locality	1
 CHQ	1226052289	Lupiara		locality	1
 CHQ	1226659847	Piocera		locality	1
 CHQ	1343676021	Yatina		locality	1
 CHQ	1310001833	Quemado		locality	1
 CHQ	1327235507	Seripona		locality	1
+CHQ	1326551617	Torre		locality	1
 CHU	1326544109	Arquillos		locality	1
 CHU	890445173	Charagua		locality	1
-CHU	1276571461	Pampa		locality	1
+LPZ	421204917	Achacachi		locality	1
 LPZ	1343982009	Ancoraimes		locality	1
 LPZ	1276657501	Antaquira		locality	1
 LPZ	421202729	Apolo		locality	1
@@ -227,6 +225,7 @@ LPZ	1243073741	Chua		locality	1
 LPZ	1193137755	Chuana		locality	1
 LPZ	1209010317	Chuchulaya		locality	1
 LPZ	1293522473	Chullina		locality	1
+LPZ	1326931017	Comunidad Coacollo		locality	1
 LPZ	1310311155	Collana		locality	1
 LPZ	1326530495	Checata		locality	1
 LPZ	1243577999	Alto de Comanche		locality	1
@@ -234,7 +233,7 @@ LPZ	1276547779	Corpa		locality	1
 LPZ	1260104243	Cutusuma		locality	1
 LPZ	1259589389	Escoma		locality	1
 LPZ	1293595049	Santa Trinidad		locality	1
-LPZ	890436761	Huatajata		locality	1
+LPZ	890436761	Achacachi Municipality		locality	1
 LPZ	1193022165	Huerta Grande		locality	1
 LPZ	1259489131	Huyu Huyu		locality	1
 LPZ	1310601405	Guachalla		locality	1
@@ -266,12 +265,12 @@ LPZ	1259583703	Tarisquia		locality	1
 LPZ	1344157259	Tirco		locality	1
 LPZ	1344080587	Totora		locality	1
 LPZ	1343662103	Uchambaya		locality	1
+LPZ	1343667963	Uni		locality	1
 LPZ	1141906791	Viacha		locality	1
 LPZ	1226143389	Villa Maca Maca		locality	1
 LPZ	421194479	Viloco		locality	1
 LPZ	1276681513	Copacabana		locality	1
 La Paz	1327134571	Puerto Perez		locality	1
-ORU	1327436395	Andamarca		locality	1
 ORU	1226247427	Huanuni		locality	1
 ORU	1209419697	Huayllamarca		locality	1
 ORU	421176575	Machacamarca		locality	1
@@ -279,13 +278,15 @@ ORU	1327425465	Jachuyo		locality	1
 ORU	1326853325	Machacamarca		locality	1
 ORU	1360189469	Penas		locality	1
 ORU	1276871543	San Jose de Kala		locality	1
+ORU	1327436395	Andamarca		locality	1
 ORU	1277108493	Toledo		locality	1
 ORU	1243268803	Vila Vila		locality	1
-ORU	1360108869	Villa Remedios		locality	1
 PAN	1259676141	Avaroa		locality	1
 PAN	1226534749	Nueva Vida		locality	1
 POT	1292992445	Palca		locality	1
+POT	1243087559	Rio Grande		locality	1
 POT	1276662219	Challapampa		locality	1
+POT	1344171073	Sauce		locality	1
 POT	1310301715	Colavi		locality	1
 POT	1259574987	Ingenio		locality	1
 POT	1259504873	Khasa		locality	1
@@ -296,6 +297,7 @@ POT	1327351315	Huayra		locality	1
 POT	1326727255	Ichurata		locality	1
 POT	421176575	Machacamarca		locality	1
 POT	1242769377	Julio Grande		locality	1
+POT	1293133893	Cairoma		locality	1
 POT	1310498231	Lagunillas		locality	1
 POT	1276143589	Luluna		locality	1
 POT	1259971283	Manzanal		locality	1
@@ -328,7 +330,6 @@ POT	1226237041	Villa Concepcion		locality	1
 POT	1242674589	Yurimata		locality	1
 PSI	1259807783	Chuegara		locality	1
 PSI	1209406669	Pampa		locality	1
-PSI	1309997809	Cieneguillas		locality	1
 PSI	1360007183	Condoriri		locality	1
 PSI	1327155591	Espicaya		locality	1
 PSI	1310397191	Mojotorillo		locality	1
@@ -338,7 +339,6 @@ PSI	1226741581	Tomatas		locality	1
 PSI	421173697	Tupiza		locality	1
 PSI	421201349	Uyuni		locality	1
 SCZ	1343558405	Abra Grande		locality	1
-SCZ	1343962209	Astillero		locality	1
 SCZ	1310697451	Ariruma		locality	1
 SCZ	1209600793	Bermejo		locality	1
 SCZ	890445175	Boyuibe		locality	1
@@ -371,7 +371,6 @@ SCZ	1210011923	Ramada		locality	1
 SCZ	1360070841	Rincon de Palometas		locality	1
 SCZ	1326615637	Saipina		locality	1
 SCZ	890445143	San Carlos		locality	1
-SCZ	421181579	San José de Chiquitos		locality	1
 SCZ	1360276087	Las Taperas		locality	1
 SCZ	1125870821	Yapacaní		locality	1
 SCZ	890445161	Los Negros		locality	1
@@ -385,7 +384,6 @@ SCZ	1327015367	Tamachindi		locality	1
 SCZ	421198777	Warnes		locality	1
 SCZ	1226765671	Zanja Honda		locality	1
 Santa Cruz	1259703719	Guabira		locality	1
-TJA	1226463909	Belen		locality	1
 TJA	1226327017	Campo Pajoso		locality	1
 TJA	1293379765	Padcaya		locality	1
 TJA	421181943	Villamontes		locality	1
@@ -394,68 +392,63 @@ scz	1293774625	Pozo Colorado		locality	1
 05-0301-0102-0001	1209306407	Huantapita		locality	1
 28	421172817	Montero		locality	2
 51	890451755	Tarija		locality	1
-132	890445163	Cochabamba		locality	1
+83	890445163	Cochabamba		locality	1
 282	421176731	La Paz		locality	1
-341	890445163	Cochabamba		locality	1
 401	421176731	La Paz		locality	1
 520	421176731	La Paz		locality	1
+591	421176731	La Paz		locality	6
 0591	421176731	La Paz		locality	4
-591	421176731	La Paz		locality	4
 0591	890442173	Santa Cruz de la Sierra		locality	2
 0591	1141906791	Viacha		locality	2
 591	421167813	Buena Vista		locality	2
 591	890451755	Tarija		locality	2
 0591	421186017	Oruro		locality	1
 0591	1293687355	Pucarani		locality	1
-591	890445163	Cochabamba		locality	1
 591	421186017	Oruro		locality	1
 0601	890451755	Tarija		locality	63
 662	890445163	Cochabamba		locality	1
 688	890445163	Cochabamba		locality	1
 709	890445163	Cochabamba		locality	1
-728	890445163	Cochabamba		locality	1
 741	421176731	La Paz		locality	1
 777	421176731	La Paz		locality	2
 895	890442173	Santa Cruz de la Sierra		locality	1
 925	421176731	La Paz		locality	3
 951	890442173	Santa Cruz de la Sierra		locality	1
 1088	1326839029	Vinto		locality	1
+1103	890445163	Cochabamba		locality	1
 1145	421204591	Vallegrande		locality	1
-1234	421176731	La Paz		locality	2
+1234	421176731	La Paz		locality	1
+1234	421169177	Sucre		locality	1
 1240	890445163	Cochabamba		locality	1
+1266	890445163	Cochabamba		locality	1
 1386	890445163	Cochabamba		locality	1
 1491	890445163	Cochabamba		locality	1
 1575	890445163	Cochabamba		locality	1
+1599	890445163	Cochabamba		locality	1
 1830	890445163	Cochabamba		locality	1
 1840	890445163	Cochabamba		locality	1
+2175	890445163	Cochabamba		locality	1
 2236	890442173	Santa Cruz de la Sierra		locality	1
-2419	890445163	Cochabamba		locality	1
 2500	890445163	Cochabamba		locality	1
-2515	890445163	Cochabamba		locality	1
-2831	890445163	Cochabamba		locality	1
 2927	890445163	Cochabamba		locality	2
 3077	421176731	La Paz		locality	1
 3164	421176731	La Paz		locality	1
 3278	421176731	La Paz		locality	1
-3427	890445163	Cochabamba		locality	1
 3503	1293013427	Sacaba		locality	1
 3816	421176731	La Paz		locality	1
 4049	890442173	Santa Cruz de la Sierra		locality	1
-4099	890445163	Cochabamba		locality	1
 4297	421176731	La Paz		locality	1
 4531	421198351	Aguas Blancas		locality	6
 4750	421176731	La Paz		locality	1
 4797	1293013427	Sacaba		locality	1
 5309	1343961177	Tiquipaya		locality	1
 5736	890442183	Aiquile		locality	1
-5824	890445163	Cochabamba		locality	1
 5912	421176731	La Paz		locality	2
 5946	421176731	La Paz		locality	1
-6129	421176731	La Paz		locality	1
 6369	421181695	Tarata		locality	1
 6759	890445163	Cochabamba		locality	1
-7000	890442173	Santa Cruz de la Sierra		locality	1
 9999	421169177	Sucre		locality	1
 10727	421176731	La Paz		locality	1
+12656	421176731	La Paz		locality	1
 14973	421176731	La Paz		locality	1
-59100	421176731	La Paz		locality	1
+59100	421176731	La Paz		locality	2

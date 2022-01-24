@@ -1,8 +1,10 @@
+--	421174401	Nairobi		locality	14
+Kilimani	421174401	Nairobi		locality	2
 P. O. Box 22015, Nairobi	421174401	Nairobi		locality	2
 P.O Box 165, Bungoma	421200071	Bungoma		locality	2
 P.O Box 33003 Ojijo Rd, Nairobi	421174401	Nairobi		locality	2
 P.o. Box 69671 - 00400, Nairobi	421174401	Nairobi		locality	2
-Kilimani	421174401	Nairobi		locality	1
+MRHP+RX	421174401	Nairobi		locality	1
 N/A	1209992885	Amagoro		locality	1
 P. O Box No. 11946, Nairobi City	421174401	Nairobi		locality	1
 P. O Box No. 57104, Nairobi	421174401	Nairobi		locality	1
@@ -11,10 +13,10 @@ P. O. Box 21533 Nairobi, Kenya	421174401	Nairobi		locality	1
 P. O. Box 30225, Nairobi	421174401	Nairobi		locality	1
 P. O. Box 30232 Loita St, Nairobi	421174401	Nairobi		locality	1
 P. O. Box 32 -90100 Muthini Estate Bomani, Machakos	890440097	Machakos		locality	1
-P. O. Box 40476	421174401	Nairobi		locality	1
 P. O. Box 40539, Nairobi	421174401	Nairobi		locality	1
 P. O. Box 41362	421174401	Nairobi		locality	1
 P. O. Box 4289 Lenana Rd, Nairobi City	421174401	Nairobi		locality	1
+P. O. Box 53104	421174401	Nairobi		locality	1
 P. O. Box 55381-00200, Nairobi	421174401	Nairobi		locality	1
 P. O. Box 63533, Nairobi, Kenya	421174401	Nairobi		locality	1
 P. O. Box 66831	421174401	Nairobi		locality	1
@@ -27,6 +29,7 @@ P.O Box 22, Webuye	421199697	Webuye		locality	1
 P.O Box 30313, Nairobi	421174401	Nairobi		locality	1
 P.O Box 30513-00100, Nairobi, Kenya	421174401	Nairobi		locality	1
 P.O Box 30551 – 00100 G.P.O. NAIROBI	421174401	Nairobi		locality	1
+P.O Box 35266-00200 Nairobi	421174401	Nairobi		locality	1
 P.O Box 40539 Nairobi, Nairobi City	421174401	Nairobi		locality	1
 P.O Box 41645, Nairobi, Kenya	421174401	Nairobi		locality	1
 P.O Box 43881, Nairobi City	421174401	Nairobi		locality	1
@@ -34,10 +37,16 @@ P.O Box 45396 Loita St, Nairobi	421174401	Nairobi		locality	1
 P.O Box 65071	421174401	Nairobi		locality	1
 P.O Box 76283, Nairobi, Kenya	421174401	Nairobi		locality	1
 P.O Box 95, Mombasa Rd, Mlolongo	1326466905	Mlolongo		locality	1
+P.O. BOX 106-20303	1276366669	Ol Kalou		locality	1
+P.O. BOX 215-20303	1276366669	Ol Kalou		locality	1
+P.O. BOX 223-20303	1276366669	Ol Kalou		locality	1
 P.O. Box 14194, Nairobi	421174401	Nairobi		locality	1
 P.O. Box 17249 Wangu Ave, Nairobi	421174401	Nairobi		locality	1
+P.O. Box 17663 Airport N Rd, Nairobi	421174401	Nairobi		locality	1
+P.O. Box 177-20303	1276366669	Ol Kalou		locality	1
 P.O. Box 25135	421174401	Nairobi		locality	1
 P.O. Box 30437, Nairobi	421174401	Nairobi		locality	1
+P.O. Box 408-20303	1276366669	Ol Kalou		locality	1
 P.O. Box 42726, Nairobi, Kenya	421174401	Nairobi		locality	1
 P.O. Box 43444, Nairobi	421174401	Nairobi		locality	1
 P.O. Box 43801, Nairobi	421174401	Nairobi		locality	1
@@ -46,6 +55,7 @@ P.O. Box 51981, Nairobi, Kenya	421174401	Nairobi		locality	1
 P.O. Box 58349, Nairobi	421174401	Nairobi		locality	1
 P.O. Box 60061, Nairobi	421174401	Nairobi		locality	1
 P.O. Box 61071	421174401	Nairobi		locality	1
+P.O. Box 680 – 20303	1276366669	Ol Kalou		locality	1
 P.O. Box 70331-00400, Nairobi City, Kenya	421174401	Nairobi		locality	1
 P.O.Box 18628-00500, Nairobi, Kenya,	421174401	Nairobi		locality	1
 P.O.Box 1920 00100	421174401	Nairobi		locality	1
@@ -61,83 +71,101 @@ PO Box 19031, Nairobi	421174401	Nairobi		locality	1
 PO Box 30074-00100 Nairobi	421174401	Nairobi		locality	1
 THIKA 00100,	421167035	Kiambu		locality	1
 066	421167035	Kiambu		locality	2
-00100	421174401	Nairobi		locality	22
+00100	421174401	Nairobi		locality	41
 00100	1293658185	Ruaka		locality	2
+00100	1310460523	Ruiru		locality	1
 00100 -21613	421174401	Nairobi		locality	1
 00101	421174401	Nairobi		locality	1
 174	421174401	Nairobi		locality	1
-00200	421174401	Nairobi		locality	7
+00200	421174401	Nairobi		locality	8
 200	421174401	Nairobi		locality	1
-00202	421174401	Nairobi		locality	1
 215-00502	1125861871	Nanyuki		locality	1
 00221	1243130691	Kimende		locality	2
 00221	1360048029	Matathia		locality	1
 254	421189991	Mombasa		locality	1
 254	421174401	Nairobi		locality	1
 00300	421174401	Nairobi		locality	1
+332	1209933123	Iten		locality	1
 00400	421174401	Nairobi		locality	1
 00500 Airport N Rd, Nairobi	421174401	Nairobi		locality	1
 00502	421174401	Nairobi		locality	1
+00505	421174401	Nairobi		locality	1
 00507	421174401	Nairobi		locality	3
 00509	421174401	Nairobi		locality	2
-00515	421174401	Nairobi		locality	2
+00511	1326529113	Ongata Rongai		locality	1
+00515	421174401	Nairobi		locality	1
 00517	421174401	Nairobi		locality	1
 00519	421174401	Nairobi		locality	1
 00520	421174401	Nairobi		locality	1
 00603	421174401	Nairobi		locality	1
-00606	421174401	Nairobi		locality	1
+00606	421174401	Nairobi		locality	2
 00611	421174401	Nairobi		locality	1
 00620	421174401	Nairobi		locality	1
 00800	421174401	Nairobi		locality	3
 861	1125861881	Narok		locality	1
-00900	421167035	Kiambu		locality	3
+00900	421167035	Kiambu		locality	4
 962-00100	421174401	Nairobi		locality	1
+01000	1125860651	Thika		locality	1
+01001	1243469395	Juja		locality	1
 01030	421167035	Kiambu		locality	1
+1234	421174401	Nairobi		locality	1
 1328-30100	890433257	Eldoret		locality	1
 1888-00100	421174401	Nairobi		locality	1
+2050 -20117	421179807	Naivasha		locality	1
 5430	421200077	Ukunda		locality	1
 6818	421174401	Nairobi		locality	1
-10100	421204229	Nyeri		locality	14
+9669	421189991	Mombasa		locality	1
+10100	421204229	Nyeri		locality	13
+10101	421204229	Nyeri		locality	1
 10200	421202573	Murang'a		locality	1
 10202	421167039	Kangema		locality	1
 10400	1125861871	Nanyuki		locality	2
 10552-00100	421174401	Nairobi		locality	1
 13628-00800	421174401	Nairobi		locality	1
-20100	421198615	Nakuru		locality	1
+20100	421198615	Nakuru		locality	2
 20102	1226079219	Elburgon		locality	27
 20106	421191845	Njoro		locality	1
-20117	421179807	Naivasha		locality	1
+20117	421179807	Naivasha		locality	2
 20200	890443515	Kericho		locality	1
 20205	1259648039	Sosiot		locality	1
 20301	1310532815	Miharati		locality	1
 20400	421191665	Bomet		locality	9
-30100	890433257	Eldoret		locality	35
+24722	421174401	Nairobi		locality	1
+30100	890433257	Eldoret		locality	32
 30200	890440161	Kitale		locality	4
 30400	421196847	Kabarnet		locality	1
 30600	421199459	Kapenguria		locality	1
 30601	1209752385	Kacheliba		locality	6
 39820-00623	421174401	Nairobi		locality	1
-40100	890431355	Kisumu		locality	7
-40200	890443511	Kisii		locality	1
+40100	890431355	Kisumu		locality	8
+40200	890443511	Kisii		locality	3
 40222	421167025	Oyugis		locality	1
 40301	1141907147	Kendu Bay		locality	1
 40305	1326894061	Luanda		locality	1
 40397	421200077	Ukunda		locality	1
 40404	1293041005	Rongo		locality	1
-40600	421177245	Siaya		locality	4
+40476	421174401	Nairobi		locality	1
+40600	421177245	Siaya		locality	5
 40601	1226479449	Ngiya		locality	2
 44847	421174401	Nairobi		locality	1
 46464	421174401	Nairobi		locality	1
 50100	421189971	Kakamega		locality	1
 50101	1125782185	Butere		locality	1
+50117	1243133959	Koyonzo		locality	1
 50200	1277063545	Bungoma		locality	4
 54102	421174401	Nairobi		locality	1
 55145	421174401	Nairobi		locality	1
 58911-00200	421174401	Nairobi		locality	3
-60100	421195209	Embu		locality	2
+60100	421195209	Embu		locality	6
+60402	890442923	Meru		locality	6
 60500	421203083	Marsabit		locality	1
-80100	421189991	Mombasa		locality	10
-80108	890443513	Kilifi		locality	2
+60600	421167029	Maua		locality	1
+74416	421174401	Nairobi		locality	1
+80100	421189991	Mombasa		locality	13
+80108	890443513	Kilifi		locality	1
+80202	421202035	Watamu		locality	2
 80300	1125860097	Voi		locality	1
 80403	421200077	Ukunda		locality	1
+88255-00200	1310460523	Ruiru		locality	1
+90101	1293914645	Masii		locality	1
 97104	421174401	Nairobi		locality	1
