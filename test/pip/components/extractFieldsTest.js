@@ -284,6 +284,48 @@ tape('extractFields tests', function(test) {
 
   });
 
+  test.test('dependency placetype should check additional fields for 3 character country code', function(t) {
+    var input = {
+      properties: {}
+    };
+    input.properties['wof:id'] = 20;
+    input.properties['wof:name'] = 'Dependency name';
+    input.properties['wof:country_alpha3'] = undefined; // this is not always available for dependencies
+    input.properties['qs:adm0_a3'] = 'GUM'; // Quattroshapes or Natural Earth generally do provide a 3 char code
+    input.properties['wof:placetype'] = 'dependency';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      }
+    ];
+
+    var expected = {
+      properties: {
+        Id: 20,
+        Name: 'Dependency name',
+        Abbrev: 'GUM',
+        Placetype: 'dependency',
+        Hierarchy: [
+          [ 12, 34 ]
+        ],
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
+      },
+      geometry: undefined
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+  });
+
   test.test('when available, wof:label should be used instead of wof:name', function(t) {
     var input = {
       properties: {}
