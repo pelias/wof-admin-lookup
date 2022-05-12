@@ -41,14 +41,7 @@ module.exports.create = function(enableLocalizedNames) {
       res.properties.Hierarchy = [ [ res.properties.Id ] ];
     }
 
-    // use different abbreviation field for country
-    if (res.properties.Placetype === 'country') {
-      res.properties.Abbrev = wofData.properties['wof:country_alpha3'];
-    } else if(wofData.properties['wof:shortcode']) {
-      res.properties.Abbrev = wofData.properties['wof:shortcode'];
-    } else {
-      res.properties.Abbrev = wofData.properties['wof:abbreviation'];
-    }
+    res.properties.Abbrev = getAbbreviation(wofData);
 
     return res;
   });
@@ -67,6 +60,30 @@ function getName(wofData, enableLocalizedNames) {
   }
   return getDefaultName(wofData);
 }
+
+/*
+ * Return an abbreviation based on the first defined value across several fields
+ */
+function getAbbreviation(wofData) {
+  const props = wofData.properties;
+  const placetype = props['wof:placetype'];
+
+  // countries have additional properties to check that
+  // may contain 3-character codes
+  if (['country', 'dependency'].includes(placetype)) {
+    return props['wof:country_alpha3'] ||
+      props['qs:adm0_a3'] ||
+      props['ne:adm0_a3'] ||
+      //the following properties generally contain a 2-character codes
+      //instead of 3 character and are therefore not preferred
+      props['wof:shortcode'] ||
+      props['wof:abbreviation'];
+   } else {
+    return props['wof:shortcode'] ||
+      props['wof:abbreviation'];
+   }
+}
+
 
 /**
  * Get the string value of the property or false if not found
