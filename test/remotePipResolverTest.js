@@ -6,7 +6,7 @@ const nock = require('nock');
 const remotePipResolver = require('../src/remotePipResolver');
 
 // helper var for enumberating all the layer parameters sent in all queries
-const layers = [ 'neighbourhood', 'borough', 'locality', 'localadmin', 'county',
+const layers = [ 'neighbourhood', 'postalcode', 'borough', 'locality', 'localadmin', 'county',
                         'macrocounty', 'region', 'macroregion', 'dependency', 'country' ];
 
 tape('tests', (test) => {

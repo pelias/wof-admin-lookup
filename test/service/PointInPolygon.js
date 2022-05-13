@@ -36,7 +36,7 @@ tape('PointInPolygon service configuration tests', (test) => {
     const pointInPolygon = new PointInPolygon(config);
 
     const expectedParams = {
-      layers: [ 'neighbourhood', 'borough', 'locality', 'localadmin', 'county',
+      layers: [ 'neighbourhood', 'postalcode', 'borough', 'locality', 'localadmin', 'county',
                 'macrocounty', 'region', 'macroregion', 'dependency', 'country' ]
     };
 
