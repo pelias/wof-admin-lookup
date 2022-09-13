@@ -9,7 +9,8 @@ module.exports = Joi.object().keys({
       enabled: Joi.boolean().default(true),
       missingMetafilesAreFatal: Joi.boolean().default(false),
       usePostalCities: Joi.boolean().default(false),
-      postalCitiesDataPath: Joi.string()
+      postalCitiesDataPath: Joi.string(),
+      useEndonyms: Joi.boolean().default(false)
     }).unknown(true),
     whosonfirst: Joi.object().keys({
       datapath: Joi.string().required(),

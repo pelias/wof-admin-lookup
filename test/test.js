@@ -2,6 +2,7 @@ require ('./schema.js');
 require ('./index.js');
 require ('./lookupStreamTest.js');
 require ('./lookupStreamPostalCityTest.js');
+require ('./lookupStreamEndonymsTest.js');
 require ('./localPipResolverTest.js');
 require ('./remotePipResolverTest.js');
 require ('./pip/index.js');

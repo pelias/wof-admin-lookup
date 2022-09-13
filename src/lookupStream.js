@@ -3,6 +3,7 @@ const parallelTransform = require('parallel-transform');
 const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
 const getAdminLayers = require( './getAdminLayers' );
 const usePostalCity = require( './usePostalCity' );
+const useEndonyms = require( './useEndonyms' );
 
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
@@ -72,6 +73,11 @@ function createPipResolverStream(pipResolver, config) {
       // optionally enable/disable this functionality using config variable.
       if( config && true === config.usePostalCities ){
         usePostalCity( result, doc );
+      }
+
+      // add endonyms as aliases for places defined in the dictionaries.
+      if( config && true === config.useEndonyms ){
+        useEndonyms( result, doc );
       }
 
       callback(null, doc);
