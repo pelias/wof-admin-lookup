@@ -1,0 +1,2602 @@
+{
+  "85632509": {
+    "id": 85632509,
+    "placetype": "country",
+    "name": "Philippines",
+    "spoken": [
+      "eng",
+      "fil",
+      "ceb",
+      "ilo",
+      "hil",
+      "war",
+      "pag",
+      "mdh",
+      "tsg"
+    ],
+    "official": [
+      "eng",
+      "fil"
+    ]
+  },
+  "85633051": {
+    "id": 85633051,
+    "placetype": "country",
+    "name": "Switzerland",
+    "spoken": [
+      "deu",
+      "fra",
+      "gsw",
+      "ita",
+      "roh"
+    ],
+    "official": [
+      "deu",
+      "fra",
+      "gsw",
+      "ita"
+    ]
+  },
+  "85633293": {
+    "id": 85633293,
+    "placetype": "country",
+    "name": "Mexico",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85633745": {
+    "id": 85633745,
+    "placetype": "country",
+    "name": "Romania",
+    "spoken": [
+      "ron"
+    ],
+    "official": [
+      "ron"
+    ]
+  },
+  "85632343": {
+    "id": 85632343,
+    "placetype": "country",
+    "name": "Andorra",
+    "spoken": [
+      "cat"
+    ],
+    "official": [
+      "cat"
+    ]
+  },
+  "85633143": {
+    "id": 85633143,
+    "placetype": "country",
+    "name": "Finland",
+    "spoken": [
+      "fin",
+      "swe"
+    ],
+    "official": [
+      "fin",
+      "swe"
+    ]
+  },
+  "85632757": {
+    "id": 85632757,
+    "placetype": "country",
+    "name": "Guinea Bissau",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85633105": {
+    "id": 85633105,
+    "placetype": "country",
+    "name": "Czech Republic",
+    "spoken": [
+      "ces"
+    ],
+    "official": [
+      "ces"
+    ]
+  },
+  "85632793": {
+    "id": 85632793,
+    "placetype": "country",
+    "name": "Australia",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632573": {
+    "id": 85632573,
+    "placetype": "country",
+    "name": "United Arab Emirates",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85633279": {
+    "id": 85633279,
+    "placetype": "country",
+    "name": "Latvia",
+    "spoken": [
+      "lav"
+    ],
+    "official": [
+      "lav"
+    ]
+  },
+  "85633341": {
+    "id": 85633341,
+    "placetype": "country",
+    "name": "Norway",
+    "spoken": [
+      "nor",
+      "nob",
+      "nno",
+      "sme"
+    ],
+    "official": [
+      "nor",
+      "nob",
+      "nno"
+    ]
+  },
+  "85632755": {
+    "id": 85632755,
+    "placetype": "country",
+    "name": "Fiji",
+    "spoken": [
+      "eng",
+      "hif",
+      "fij"
+    ],
+    "official": [
+      "eng",
+      "hif",
+      "fij"
+    ]
+  },
+  "85632191": {
+    "id": 85632191,
+    "placetype": "country",
+    "name": "Iraq",
+    "spoken": [
+      "ara",
+      "ckb"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632627": {
+    "id": 85632627,
+    "placetype": "country",
+    "name": "Libya",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85633763": {
+    "id": 85633763,
+    "placetype": "country",
+    "name": "San Marino",
+    "spoken": [
+      "ita"
+    ],
+    "official": [
+      "ita"
+    ]
+  },
+  "85632295": {
+    "id": 85632295,
+    "placetype": "country",
+    "name": "Aruba",
+    "spoken": [
+      "nld",
+      "pap",
+      "eng",
+      "spa"
+    ],
+    "official": [
+      "nld",
+      "pap"
+    ]
+  },
+  "85632679": {
+    "id": 85632679,
+    "placetype": "country",
+    "name": "Mauritania",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85633739": {
+    "id": 85633739,
+    "placetype": "country",
+    "name": "Palestine",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632293": {
+    "id": 85632293,
+    "placetype": "country",
+    "name": "Thailand",
+    "spoken": [],
+    "official": []
+  },
+  "85632513": {
+    "id": 85632513,
+    "placetype": "country",
+    "name": "Tajikistan",
+    "spoken": [
+      "tgk"
+    ],
+    "official": [
+      "tgk"
+    ]
+  },
+  "85632465": {
+    "id": 85632465,
+    "placetype": "country",
+    "name": "Nepal",
+    "spoken": [
+      "nep"
+    ],
+    "official": [
+      "nep"
+    ]
+  },
+  "85632431": {
+    "id": 85632431,
+    "placetype": "country",
+    "name": "Federated States of Micronesia",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632749": {
+    "id": 85632749,
+    "placetype": "country",
+    "name": "Brunei",
+    "spoken": [
+      "msa"
+    ],
+    "official": [
+      "msa"
+    ]
+  },
+  "85633285": {
+    "id": 85633285,
+    "placetype": "country",
+    "name": "Monaco",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "102312305": {
+    "id": 102312305,
+    "placetype": "country",
+    "name": "United Nations",
+    "spoken": [
+      "ara",
+      "chi",
+      "eng",
+      "fre",
+      "rus",
+      "spa",
+      "mul"
+    ],
+    "official": [
+      "ara",
+      "chi",
+      "eng",
+      "fre",
+      "rus",
+      "spa"
+    ]
+  },
+  "85633345": {
+    "id": 85633345,
+    "placetype": "country",
+    "name": "New Zealand",
+    "spoken": [
+      "eng",
+      "mri"
+    ],
+    "official": [
+      "eng",
+      "mri"
+    ]
+  },
+  "85632623": {
+    "id": 85632623,
+    "placetype": "country",
+    "name": "Bolivia",
+    "spoken": [
+      "spa",
+      "que",
+      "aym"
+    ],
+    "official": [
+      "spa",
+      "que",
+      "aym"
+    ]
+  },
+  "85632365": {
+    "id": 85632365,
+    "placetype": "country",
+    "name": "Senegal",
+    "spoken": [
+      "wol",
+      "fra"
+    ],
+    "official": [
+      "wol",
+      "fra"
+    ]
+  },
+  "85633331": {
+    "id": 85633331,
+    "placetype": "country",
+    "name": "Malta",
+    "spoken": [
+      "mlt",
+      "eng"
+    ],
+    "official": [
+      "mlt",
+      "eng"
+    ]
+  },
+  "85633249": {
+    "id": 85633249,
+    "placetype": "country",
+    "name": "Iceland",
+    "spoken": [
+      "isl"
+    ],
+    "official": [
+      "isl"
+    ]
+  },
+  "85632433": {
+    "id": 85632433,
+    "placetype": "country",
+    "name": "Haiti",
+    "spoken": [
+      "hat",
+      "fra"
+    ],
+    "official": [
+      "hat",
+      "fra"
+    ]
+  },
+  "85632235": {
+    "id": 85632235,
+    "placetype": "country",
+    "name": "Botswana",
+    "spoken": [
+      "eng",
+      "tsn"
+    ],
+    "official": [
+      "eng",
+      "tsn"
+    ]
+  },
+  "85632455": {
+    "id": 85632455,
+    "placetype": "country",
+    "name": "Tonga",
+    "spoken": [
+      "ton",
+      "eng"
+    ],
+    "official": [
+      "ton",
+      "eng"
+    ]
+  },
+  "85632241": {
+    "id": 85632241,
+    "placetype": "country",
+    "name": "Laos",
+    "spoken": [
+      "lao"
+    ],
+    "official": [
+      "lao"
+    ]
+  },
+  "85632405": {
+    "id": 85632405,
+    "placetype": "country",
+    "name": "Albania",
+    "spoken": [
+      "sqi"
+    ],
+    "official": [
+      "sqi"
+    ]
+  },
+  "85632661": {
+    "id": 85632661,
+    "placetype": "country",
+    "name": "Seychelles",
+    "spoken": [
+      "fra",
+      "eng"
+    ],
+    "official": [
+      "fra",
+      "eng"
+    ]
+  },
+  "85632703": {
+    "id": 85632703,
+    "placetype": "country",
+    "name": "Tunisia",
+    "spoken": [
+      "ara",
+      "fra"
+    ],
+    "official": [
+      "ara",
+      "fra"
+    ]
+  },
+  "85632591": {
+    "id": 85632591,
+    "placetype": "country",
+    "name": "Solomon Islands",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632765": {
+    "id": 85632765,
+    "placetype": "country",
+    "name": "Sao Tome and Principe",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85632179": {
+    "id": 85632179,
+    "placetype": "country",
+    "name": "Panama",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632215": {
+    "id": 85632215,
+    "placetype": "country",
+    "name": "Jamaica",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632339": {
+    "id": 85632339,
+    "placetype": "country",
+    "name": "The Bahamas",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632671": {
+    "id": 85632671,
+    "placetype": "country",
+    "name": "Turkmenistan",
+    "spoken": [
+      "tuk"
+    ],
+    "official": [
+      "tuk"
+    ]
+  },
+  "85632207": {
+    "id": 85632207,
+    "placetype": "country",
+    "name": "Oman",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632593": {
+    "id": 85632593,
+    "placetype": "country",
+    "name": "Jersey",
+    "spoken": [
+      "eng",
+      "fre"
+    ],
+    "official": [
+      "eng",
+      "fre"
+    ]
+  },
+  "85632609": {
+    "id": 85632609,
+    "placetype": "country",
+    "name": "Bosnia and Herzegovina",
+    "spoken": [
+      "bos",
+      "srp",
+      "hrv"
+    ],
+    "official": [
+      "bos",
+      "srp",
+      "hrv"
+    ]
+  },
+  "85632253": {
+    "id": 85632253,
+    "placetype": "country",
+    "name": "Saudi Arabia",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632529": {
+    "id": 85632529,
+    "placetype": "country",
+    "name": "Antigua and Barbuda",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632303": {
+    "id": 85632303,
+    "placetype": "country",
+    "name": "Rwanda",
+    "spoken": [
+      "kin",
+      "fra",
+      "eng"
+    ],
+    "official": [
+      "kin",
+      "fra",
+      "eng"
+    ]
+  },
+  "85632483": {
+    "id": 85632483,
+    "placetype": "country",
+    "name": "Hong Kong S.A.R.",
+    "spoken": [
+      "zho",
+      "eng"
+    ],
+    "official": [
+      "zho",
+      "eng"
+    ]
+  },
+  "85632229": {
+    "id": 85632229,
+    "placetype": "country",
+    "name": "Afghanistan",
+    "spoken": [
+      "fas",
+      "pus",
+      "uzb",
+      "tuk",
+      "bal"
+    ],
+    "official": [
+      "fas",
+      "pus"
+    ]
+  },
+  "85633253": {
+    "id": 85633253,
+    "placetype": "country",
+    "name": "Italy",
+    "spoken": [
+      "ita",
+      "fra"
+    ],
+    "official": [
+      "ita"
+    ]
+  },
+  "85632499": {
+    "id": 85632499,
+    "placetype": "country",
+    "name": "Yemen",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632383": {
+    "id": 85632383,
+    "placetype": "country",
+    "name": "Malawi",
+    "spoken": [
+      "nya",
+      "eng"
+    ],
+    "official": [
+      "nya",
+      "eng"
+    ]
+  },
+  "85632401": {
+    "id": 85632401,
+    "placetype": "country",
+    "name": "Kuwait",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632583": {
+    "id": 85632583,
+    "placetype": "country",
+    "name": "East Timor",
+    "spoken": [
+      "tet",
+      "por"
+    ],
+    "official": [
+      "tet",
+      "por"
+    ]
+  },
+  "85632305": {
+    "id": 85632305,
+    "placetype": "country",
+    "name": "Maldives",
+    "spoken": [
+      "div"
+    ],
+    "official": [
+      "div"
+    ]
+  },
+  "85633121": {
+    "id": 85633121,
+    "placetype": "country",
+    "name": "Denmark",
+    "spoken": [
+      "dan",
+      "deu",
+      "kal"
+    ],
+    "official": [
+      "dan"
+    ]
+  },
+  "85632379": {
+    "id": 85632379,
+    "placetype": "country",
+    "name": "Somalia",
+    "spoken": [
+      "som",
+      "ara"
+    ],
+    "official": [
+      "som",
+      "ara"
+    ]
+  },
+  "85632393": {
+    "id": 85632393,
+    "placetype": "country",
+    "name": "Turkey",
+    "spoken": [
+      "tur"
+    ],
+    "official": [
+      "tur"
+    ]
+  },
+  "85633789": {
+    "id": 85633789,
+    "placetype": "country",
+    "name": "Sweden",
+    "spoken": [
+      "swe",
+      "fin"
+    ],
+    "official": [
+      "swe"
+    ]
+  },
+  "85632245": {
+    "id": 85632245,
+    "placetype": "country",
+    "name": "Cameroon",
+    "spoken": [
+      "fra",
+      "eng"
+    ],
+    "official": [
+      "fra",
+      "eng"
+    ]
+  },
+  "85633111": {
+    "id": 85633111,
+    "placetype": "country",
+    "name": "Germany",
+    "spoken": [
+      "deu"
+    ],
+    "official": [
+      "deu"
+    ]
+  },
+  "85632511": {
+    "id": 85632511,
+    "placetype": "country",
+    "name": "Uruguay",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632521": {
+    "id": 85632521,
+    "placetype": "country",
+    "name": "Peru",
+    "spoken": [
+      "spa",
+      "que"
+    ],
+    "official": [
+      "spa",
+      "que"
+    ]
+  },
+  "85632271": {
+    "id": 85632271,
+    "placetype": "country",
+    "name": "Trinidad and Tobago",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85633267": {
+    "id": 85633267,
+    "placetype": "country",
+    "name": "Liechtenstein",
+    "spoken": [
+      "deu",
+      "gsw"
+    ],
+    "official": [
+      "deu",
+      "gsw"
+    ]
+  },
+  "85632347": {
+    "id": 85632347,
+    "placetype": "country",
+    "name": "Papua New Guinea",
+    "spoken": [
+      "tpi",
+      "eng",
+      "hmo"
+    ],
+    "official": [
+      "tpi",
+      "eng",
+      "hmo"
+    ]
+  },
+  "85632185": {
+    "id": 85632185,
+    "placetype": "country",
+    "name": "Sint Maarten",
+    "spoken": [
+      "eng",
+      "nld"
+    ],
+    "official": [
+      "eng",
+      "nld"
+    ]
+  },
+  "85632313": {
+    "id": 85632313,
+    "placetype": "country",
+    "name": "Sri Lanka",
+    "spoken": [
+      "sin",
+      "tam"
+    ],
+    "official": [
+      "sin",
+      "tam"
+    ]
+  },
+  "85632545": {
+    "id": 85632545,
+    "placetype": "country",
+    "name": "El Salvador",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632997": {
+    "id": 85632997,
+    "placetype": "country",
+    "name": "Belgium",
+    "spoken": [
+      "nld",
+      "fra",
+      "deu"
+    ],
+    "official": [
+      "nld",
+      "fra",
+      "deu"
+    ]
+  },
+  "85633237": {
+    "id": 85633237,
+    "placetype": "country",
+    "name": "Hungary",
+    "spoken": [
+      "hun"
+    ],
+    "official": [
+      "hun"
+    ]
+  },
+  "85632761": {
+    "id": 85632761,
+    "placetype": "country",
+    "name": "Kyrgyzstan",
+    "spoken": [
+      "kir",
+      "rus"
+    ],
+    "official": [
+      "kir",
+      "rus"
+    ]
+  },
+  "85632167": {
+    "id": 85632167,
+    "placetype": "country",
+    "name": "Bahrain",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632249": {
+    "id": 85632249,
+    "placetype": "country",
+    "name": "Liberia",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632285": {
+    "id": 85632285,
+    "placetype": "country",
+    "name": "Burundi",
+    "spoken": [
+      "run",
+      "fra"
+    ],
+    "official": [
+      "run",
+      "fra"
+    ]
+  },
+  "85632359": {
+    "id": 85632359,
+    "placetype": "country",
+    "name": "Cambodia",
+    "spoken": [
+      "khm"
+    ],
+    "official": [
+      "khm"
+    ]
+  },
+  "85632325": {
+    "id": 85632325,
+    "placetype": "country",
+    "name": "Chad",
+    "spoken": [
+      "fra",
+      "ara"
+    ],
+    "official": [
+      "fra",
+      "ara"
+    ]
+  },
+  "85632259": {
+    "id": 85632259,
+    "placetype": "country",
+    "name": "Comoros",
+    "spoken": [
+      "ara",
+      "fra",
+      "zdj"
+    ],
+    "official": [
+      "ara",
+      "fra",
+      "zdj"
+    ]
+  },
+  "85632551": {
+    "id": 85632551,
+    "placetype": "country",
+    "name": "Saint Kitts and Nevis",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632647": {
+    "id": 85632647,
+    "placetype": "country",
+    "name": "Togo",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632643": {
+    "id": 85632643,
+    "placetype": "country",
+    "name": "Democratic Republic of the Congo",
+    "spoken": [
+      "swa",
+      "lua",
+      "fra",
+      "lin",
+      "kon"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632173": {
+    "id": 85632173,
+    "placetype": "country",
+    "name": "Lesotho",
+    "spoken": [
+      "sot",
+      "eng"
+    ],
+    "official": [
+      "sot",
+      "eng"
+    ]
+  },
+  "85632227": {
+    "id": 85632227,
+    "placetype": "country",
+    "name": "Tanzania",
+    "spoken": [
+      "swa",
+      "eng"
+    ],
+    "official": [
+      "swa",
+      "eng"
+    ]
+  },
+  "85632391": {
+    "id": 85632391,
+    "placetype": "country",
+    "name": "Central African Republic",
+    "spoken": [
+      "fra",
+      "sag"
+    ],
+    "official": [
+      "fra",
+      "sag"
+    ]
+  },
+  "85632713": {
+    "id": 85632713,
+    "placetype": "country",
+    "name": "Dominican Republic",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632635": {
+    "id": 85632635,
+    "placetype": "country",
+    "name": "eSwatini",
+    "spoken": [
+      "eng",
+      "ssw"
+    ],
+    "official": [
+      "eng",
+      "ssw"
+    ]
+  },
+  "85632739": {
+    "id": 85632739,
+    "placetype": "country",
+    "name": "Malaysia",
+    "spoken": [],
+    "official": []
+  },
+  "85633813": {
+    "id": 85633813,
+    "placetype": "country",
+    "name": "South Africa",
+    "spoken": [
+      "eng",
+      "zul",
+      "xho",
+      "afr",
+      "nso",
+      "tsn",
+      "sot",
+      "tso",
+      "ssw",
+      "ven",
+      "nbl"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632451": {
+    "id": 85632451,
+    "placetype": "country",
+    "name": "Algeria",
+    "spoken": [
+      "ara",
+      "fra"
+    ],
+    "official": [
+      "ara",
+      "fra"
+    ]
+  },
+  "85632541": {
+    "id": 85632541,
+    "placetype": "country",
+    "name": "Republic of Congo",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632729": {
+    "id": 85632729,
+    "placetype": "country",
+    "name": "Mozambique",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85632625": {
+    "id": 85632625,
+    "placetype": "country",
+    "name": "Uganda",
+    "spoken": [
+      "swa",
+      "eng"
+    ],
+    "official": [
+      "swa",
+      "eng"
+    ]
+  },
+  "85632559": {
+    "id": 85632559,
+    "placetype": "country",
+    "name": "Zambia",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632261": {
+    "id": 85632261,
+    "placetype": "country",
+    "name": "Ecuador",
+    "spoken": [
+      "spa",
+      "que"
+    ],
+    "official": [
+      "spa",
+      "que"
+    ]
+  },
+  "85632535": {
+    "id": 85632535,
+    "placetype": "country",
+    "name": "Namibia",
+    "spoken": [
+      "afr",
+      "eng"
+    ],
+    "official": [
+      "afr",
+      "eng"
+    ]
+  },
+  "85632243": {
+    "id": 85632243,
+    "placetype": "country",
+    "name": "Zimbabwe",
+    "spoken": [
+      "eng",
+      "sna",
+      "nde"
+    ],
+    "official": [
+      "eng",
+      "sna",
+      "nde"
+    ]
+  },
+  "85632189": {
+    "id": 85632189,
+    "placetype": "country",
+    "name": "Ghana",
+    "spoken": [
+      "aka",
+      "eng",
+      "ewe",
+      "gaa"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85633135": {
+    "id": 85633135,
+    "placetype": "country",
+    "name": "Estonia",
+    "spoken": [
+      "est"
+    ],
+    "official": [
+      "est"
+    ]
+  },
+  "85632203": {
+    "id": 85632203,
+    "placetype": "country",
+    "name": "Indonesia",
+    "spoken": [
+      "ind",
+      "eng"
+    ],
+    "official": [
+      "ind"
+    ]
+  },
+  "85632605": {
+    "id": 85632605,
+    "placetype": "country",
+    "name": "Singapore",
+    "spoken": [
+      "eng",
+      "zho",
+      "msa",
+      "tam"
+    ],
+    "official": [
+      "eng",
+      "zho",
+      "msa",
+      "tam"
+    ]
+  },
+  "85632269": {
+    "id": 85632269,
+    "placetype": "country",
+    "name": "Niger",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632781": {
+    "id": 85632781,
+    "placetype": "country",
+    "name": "Eritrea",
+    "spoken": [
+      "tir",
+      "eng",
+      "ara"
+    ],
+    "official": [
+      "tir",
+      "eng",
+      "ara"
+    ]
+  },
+  "85632281": {
+    "id": 85632281,
+    "placetype": "country",
+    "name": "Angola",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85633723": {
+    "id": 85633723,
+    "placetype": "country",
+    "name": "Poland",
+    "spoken": [
+      "pol",
+      "csb",
+      "deu",
+      "lit"
+    ],
+    "official": [
+      "pol"
+    ]
+  },
+  "85632603": {
+    "id": 85632603,
+    "placetype": "country",
+    "name": "Gambia",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632691": {
+    "id": 85632691,
+    "placetype": "country",
+    "name": "Guinea",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632735": {
+    "id": 85632735,
+    "placetype": "country",
+    "name": "Nigeria",
+    "spoken": [
+      "eng",
+      "yor"
+    ],
+    "official": [
+      "eng",
+      "yor"
+    ]
+  },
+  "85632287": {
+    "id": 85632287,
+    "placetype": "country",
+    "name": "Equatorial Guinea",
+    "spoken": [
+      "spa",
+      "fra"
+    ],
+    "official": [
+      "spa",
+      "fra"
+    ]
+  },
+  "85632331": {
+    "id": 85632331,
+    "placetype": "country",
+    "name": "Palau",
+    "spoken": [
+      "pau",
+      "eng"
+    ],
+    "official": [
+      "pau",
+      "eng"
+    ]
+  },
+  "85632299": {
+    "id": 85632299,
+    "placetype": "country",
+    "name": "Qatar",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632355": {
+    "id": 85632355,
+    "placetype": "country",
+    "name": "Paraguay",
+    "spoken": [
+      "grn",
+      "spa"
+    ],
+    "official": [
+      "grn",
+      "spa"
+    ]
+  },
+  "85632257": {
+    "id": 85632257,
+    "placetype": "country",
+    "name": "Ethiopia",
+    "spoken": [
+      "amh"
+    ],
+    "official": [
+      "amh"
+    ]
+  },
+  "85632599": {
+    "id": 85632599,
+    "placetype": "country",
+    "name": "Nicaragua",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632645": {
+    "id": 85632645,
+    "placetype": "country",
+    "name": "Uzbekistan",
+    "spoken": [
+      "uzb"
+    ],
+    "official": [
+      "uzb"
+    ]
+  },
+  "85633337": {
+    "id": 85633337,
+    "placetype": "country",
+    "name": "Netherlands",
+    "spoken": [
+      "nld",
+      "fry"
+    ],
+    "official": [
+      "nld"
+    ]
+  },
+  "85632161": {
+    "id": 85632161,
+    "placetype": "country",
+    "name": "Macau S.A.R.",
+    "spoken": [
+      "zho",
+      "por"
+    ],
+    "official": [
+      "zho",
+      "por"
+    ]
+  },
+  "85632441": {
+    "id": 85632441,
+    "placetype": "country",
+    "name": "Curacao",
+    "spoken": [
+      "pap",
+      "nld"
+    ],
+    "official": [
+      "pap",
+      "nld"
+    ]
+  },
+  "85632681": {
+    "id": 85632681,
+    "placetype": "country",
+    "name": "Samoa",
+    "spoken": [
+      "smo",
+      "eng"
+    ],
+    "official": [
+      "smo",
+      "eng"
+    ]
+  },
+  "85632263": {
+    "id": 85632263,
+    "placetype": "country",
+    "name": "Vanuatu",
+    "spoken": [
+      "bis",
+      "eng",
+      "fra"
+    ],
+    "official": [
+      "bis",
+      "eng",
+      "fra"
+    ]
+  },
+  "85632439": {
+    "id": 85632439,
+    "placetype": "country",
+    "name": "Mongolia",
+    "spoken": [
+      "mon"
+    ],
+    "official": [
+      "mon"
+    ]
+  },
+  "85632675": {
+    "id": 85632675,
+    "placetype": "country",
+    "name": "Cuba",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632763": {
+    "id": 85632763,
+    "placetype": "country",
+    "name": "Vietnam",
+    "spoken": [
+      "vie"
+    ],
+    "official": [
+      "vie"
+    ]
+  },
+  "85632181": {
+    "id": 85632181,
+    "placetype": "country",
+    "name": "Myanmar",
+    "spoken": [
+      "mya"
+    ],
+    "official": [
+      "mya"
+    ]
+  },
+  "85632467": {
+    "id": 85632467,
+    "placetype": "country",
+    "name": "Sierra Leone",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632487": {
+    "id": 85632487,
+    "placetype": "country",
+    "name": "Costa Rica",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632785": {
+    "id": 85632785,
+    "placetype": "country",
+    "name": "Austria",
+    "spoken": [
+      "deu",
+      "hrv",
+      "slv",
+      "hun"
+    ],
+    "official": [
+      "deu"
+    ]
+  },
+  "85633769": {
+    "id": 85633769,
+    "placetype": "country",
+    "name": "Slovakia",
+    "spoken": [
+      "slk"
+    ],
+    "official": [
+      "slk"
+    ]
+  },
+  "85632223": {
+    "id": 85632223,
+    "placetype": "country",
+    "name": "Madagascar",
+    "spoken": [
+      "mlg",
+      "fra",
+      "eng"
+    ],
+    "official": [
+      "mlg",
+      "fra",
+      "eng"
+    ]
+  },
+  "85632569": {
+    "id": 85632569,
+    "placetype": "country",
+    "name": "Saint Vincent and the Grenadines",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632663": {
+    "id": 85632663,
+    "placetype": "country",
+    "name": "Marshall Islands",
+    "spoken": [
+      "eng",
+      "mah"
+    ],
+    "official": [
+      "eng",
+      "mah"
+    ]
+  },
+  "85633259": {
+    "id": 85633259,
+    "placetype": "country",
+    "name": "Kosovo",
+    "spoken": [
+      "sqi",
+      "srp",
+      "tur",
+      "bos",
+      "rom"
+    ],
+    "official": [
+      "sqi",
+      "srp"
+    ]
+  },
+  "85632429": {
+    "id": 85632429,
+    "placetype": "country",
+    "name": "Japan",
+    "spoken": [
+      "jpn"
+    ],
+    "official": [
+      "jpn"
+    ]
+  },
+  "85632213": {
+    "id": 85632213,
+    "placetype": "country",
+    "name": "Burkina Faso",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85633269": {
+    "id": 85633269,
+    "placetype": "country",
+    "name": "Lithuania",
+    "spoken": [
+      "lit"
+    ],
+    "official": [
+      "lit"
+    ]
+  },
+  "85632319": {
+    "id": 85632319,
+    "placetype": "country",
+    "name": "Djibouti",
+    "spoken": [
+      "ara",
+      "fra"
+    ],
+    "official": [
+      "ara",
+      "fra"
+    ]
+  },
+  "85632475": {
+    "id": 85632475,
+    "placetype": "country",
+    "name": "Bangladesh",
+    "spoken": [
+      "ben"
+    ],
+    "official": [
+      "ben"
+    ]
+  },
+  "85633041": {
+    "id": 85633041,
+    "placetype": "country",
+    "name": "Canada",
+    "spoken": [
+      "eng",
+      "fra",
+      "iku",
+      "ikt"
+    ],
+    "official": [
+      "eng",
+      "fra"
+    ]
+  },
+  "85633793": {
+    "id": 85633793,
+    "placetype": "country",
+    "name": "United States",
+    "spoken": [
+      "eng",
+      "spa",
+      "haw"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85633171": {
+    "id": 85633171,
+    "placetype": "country",
+    "name": "Greece",
+    "spoken": [
+      "ell"
+    ],
+    "official": [
+      "ell"
+    ]
+  },
+  "85633001": {
+    "id": 85633001,
+    "placetype": "country",
+    "name": "Bulgaria",
+    "spoken": [
+      "bul"
+    ],
+    "official": [
+      "bul"
+    ]
+  },
+  "85632667": {
+    "id": 85632667,
+    "placetype": "country",
+    "name": "Montenegro",
+    "spoken": [
+      "srp"
+    ],
+    "official": [
+      "srp"
+    ]
+  },
+  "85633159": {
+    "id": 85633159,
+    "placetype": "country",
+    "name": "United Kingdom",
+    "spoken": [
+      "eng",
+      "cym",
+      "gla",
+      "gle"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632397": {
+    "id": 85632397,
+    "placetype": "country",
+    "name": "Guyana",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632639": {
+    "id": 85632639,
+    "placetype": "country",
+    "name": "North Korea",
+    "spoken": [
+      "kor"
+    ],
+    "official": [
+      "kor"
+    ]
+  },
+  "85632693": {
+    "id": 85632693,
+    "placetype": "country",
+    "name": "Morocco",
+    "spoken": [
+      "ara",
+      "fra",
+      "tzm"
+    ],
+    "official": [
+      "ara",
+      "fra",
+      "tzm"
+    ]
+  },
+  "85633057": {
+    "id": 85633057,
+    "placetype": "country",
+    "name": "Chile",
+    "spoken": [],
+    "official": []
+  },
+  "85632361": {
+    "id": 85632361,
+    "placetype": "country",
+    "name": "Iran",
+    "spoken": [
+      "fas"
+    ],
+    "official": [
+      "fas"
+    ]
+  },
+  "85632425": {
+    "id": 85632425,
+    "placetype": "country",
+    "name": "Jordan",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632773": {
+    "id": 85632773,
+    "placetype": "country",
+    "name": "Armenia",
+    "spoken": [
+      "hye"
+    ],
+    "official": [
+      "hye"
+    ]
+  },
+  "85632751": {
+    "id": 85632751,
+    "placetype": "country",
+    "name": "Sudan",
+    "spoken": [
+      "ara",
+      "eng"
+    ],
+    "official": [
+      "ara",
+      "eng"
+    ]
+  },
+  "85632533": {
+    "id": 85632533,
+    "placetype": "country",
+    "name": "Lebanon",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632171": {
+    "id": 85632171,
+    "placetype": "country",
+    "name": "Bhutan",
+    "spoken": [
+      "dzo"
+    ],
+    "official": [
+      "dzo"
+    ]
+  },
+  "85632307": {
+    "id": 85632307,
+    "placetype": "country",
+    "name": "Kazakhstan",
+    "spoken": [
+      "rus",
+      "kaz"
+    ],
+    "official": [
+      "rus",
+      "kaz"
+    ]
+  },
+  "85632323": {
+    "id": 85632323,
+    "placetype": "country",
+    "name": "Honduras",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632657": {
+    "id": 85632657,
+    "placetype": "country",
+    "name": "South Sudan",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632407": {
+    "id": 85632407,
+    "placetype": "country",
+    "name": "Gabon",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85633009": {
+    "id": 85633009,
+    "placetype": "country",
+    "name": "Brazil",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85633147": {
+    "id": 85633147,
+    "placetype": "country",
+    "name": "France",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632685": {
+    "id": 85632685,
+    "placetype": "country",
+    "name": "Russia",
+    "spoken": [
+      "rus",
+      "tat",
+      "bak",
+      "che",
+      "ava",
+      "udm",
+      "sah",
+      "myv",
+      "kbd",
+      "mdf",
+      "kum",
+      "lez",
+      "kom",
+      "inh",
+      "krc",
+      "tyv",
+      "aze",
+      "ady",
+      "lbe",
+      "koi"
+    ],
+    "official": [
+      "rus"
+    ]
+  },
+  "85632231": {
+    "id": 85632231,
+    "placetype": "country",
+    "name": "South Korea",
+    "spoken": [
+      "kor"
+    ],
+    "official": [
+      "kor"
+    ]
+  },
+  "85632717": {
+    "id": 85632717,
+    "placetype": "country",
+    "name": "Azerbaijan",
+    "spoken": [
+      "aze"
+    ],
+    "official": [
+      "aze"
+    ]
+  },
+  "85633287": {
+    "id": 85633287,
+    "placetype": "country",
+    "name": "Moldova",
+    "spoken": [
+      "ron"
+    ],
+    "official": [
+      "ron"
+    ]
+  },
+  "85633163": {
+    "id": 85633163,
+    "placetype": "country",
+    "name": "Georgia",
+    "spoken": [
+      "kat",
+      "abk",
+      "oss"
+    ],
+    "official": [
+      "kat"
+    ]
+  },
+  "85632571": {
+    "id": 85632571,
+    "placetype": "country",
+    "name": "Belize",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632329": {
+    "id": 85632329,
+    "placetype": "country",
+    "name": "Kenya",
+    "spoken": [
+      "eng",
+      "swa"
+    ],
+    "official": [
+      "eng",
+      "swa"
+    ]
+  },
+  "85632413": {
+    "id": 85632413,
+    "placetype": "country",
+    "name": "Syria",
+    "spoken": [
+      "ara",
+      "fra"
+    ],
+    "official": [
+      "ara",
+      "fra"
+    ]
+  },
+  "85632247": {
+    "id": 85632247,
+    "placetype": "country",
+    "name": "Benin",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85633805": {
+    "id": 85633805,
+    "placetype": "country",
+    "name": "Ukraine",
+    "spoken": [
+      "ukr",
+      "rus"
+    ],
+    "official": [
+      "ukr",
+      "rus"
+    ]
+  },
+  "85632659": {
+    "id": 85632659,
+    "placetype": "country",
+    "name": "Pakistan",
+    "spoken": [
+      "urd",
+      "eng"
+    ],
+    "official": [
+      "urd",
+      "eng"
+    ]
+  },
+  "85632581": {
+    "id": 85632581,
+    "placetype": "country",
+    "name": "Egypt",
+    "spoken": [
+      "ara"
+    ],
+    "official": [
+      "ara"
+    ]
+  },
+  "85632315": {
+    "id": 85632315,
+    "placetype": "country",
+    "name": "Israel",
+    "spoken": [
+      "heb",
+      "ara",
+      "eng"
+    ],
+    "official": [
+      "heb",
+      "ara"
+    ]
+  },
+  "85633217": {
+    "id": 85633217,
+    "placetype": "country",
+    "name": "Greenland",
+    "spoken": [
+      "kal"
+    ],
+    "official": [
+      "kal"
+    ]
+  },
+  "85632505": {
+    "id": 85632505,
+    "placetype": "country",
+    "name": "Argentina",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632385": {
+    "id": 85632385,
+    "placetype": "country",
+    "name": "Guatemala",
+    "spoken": [
+      "spa",
+      "quc"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85633735": {
+    "id": 85633735,
+    "placetype": "country",
+    "name": "Portugal",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85633129": {
+    "id": 85633129,
+    "placetype": "country",
+    "name": "Spain",
+    "spoken": [
+      "spa",
+      "cat",
+      "glg",
+      "eus",
+      "ast"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632469": {
+    "id": 85632469,
+    "placetype": "country",
+    "name": "India",
+    "spoken": [
+      "hin",
+      "eng",
+      "ben",
+      "tel",
+      "mar",
+      "tam",
+      "urd",
+      "guj",
+      "kan",
+      "mal",
+      "ori",
+      "pan",
+      "asm",
+      "mai",
+      "nep",
+      "sat",
+      "kas",
+      "kok",
+      "snd",
+      "kha",
+      "san"
+    ],
+    "official": [
+      "hin",
+      "eng"
+    ]
+  },
+  "85632317": {
+    "id": 85632317,
+    "placetype": "country",
+    "name": "Venezuela",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632519": {
+    "id": 85632519,
+    "placetype": "country",
+    "name": "Colombia",
+    "spoken": [
+      "spa"
+    ],
+    "official": [
+      "spa"
+    ]
+  },
+  "85632373": {
+    "id": 85632373,
+    "placetype": "country",
+    "name": "North Macedonia",
+    "spoken": [
+      "mkd",
+      "sqi"
+    ],
+    "official": [
+      "mkd"
+    ]
+  },
+  "85632695": {
+    "id": 85632695,
+    "placetype": "country",
+    "name": "China",
+    "spoken": [],
+    "official": []
+  },
+  "85632449": {
+    "id": 85632449,
+    "placetype": "country",
+    "name": "Ivory Coast",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632437": {
+    "id": 85632437,
+    "placetype": "country",
+    "name": "Cyprus",
+    "spoken": [
+      "ell",
+      "tur"
+    ],
+    "official": [
+      "ell",
+      "tur"
+    ]
+  },
+  "85632747": {
+    "id": 85632747,
+    "placetype": "country",
+    "name": "Nauru",
+    "spoken": [
+      "eng",
+      "nau"
+    ],
+    "official": [
+      "eng",
+      "nau"
+    ]
+  },
+  "85632491": {
+    "id": 85632491,
+    "placetype": "country",
+    "name": "Barbados",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632443": {
+    "id": 85632443,
+    "placetype": "country",
+    "name": "Suriname",
+    "spoken": [
+      "nld"
+    ],
+    "official": [
+      "nld"
+    ]
+  },
+  "85632503": {
+    "id": 85632503,
+    "placetype": "country",
+    "name": "Dominica",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632357": {
+    "id": 85632357,
+    "placetype": "country",
+    "name": "Mauritius",
+    "spoken": [
+      "eng",
+      "fra"
+    ],
+    "official": [
+      "eng",
+      "fra"
+    ]
+  },
+  "1729945891": {
+    "id": 1729945891,
+    "placetype": "country",
+    "name": "Northern Cyprus",
+    "spoken": [],
+    "official": []
+  },
+  "1729989201": {
+    "id": 1729989201,
+    "placetype": "country",
+    "name": "Siachen Glacier",
+    "spoken": [],
+    "official": []
+  },
+  "1729945893": {
+    "id": 1729945893,
+    "placetype": "country",
+    "name": "Spratly Islands",
+    "spoken": [],
+    "official": []
+  },
+  "85632335": {
+    "id": 85632335,
+    "placetype": "country",
+    "name": "Grenada",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632369": {
+    "id": 85632369,
+    "placetype": "country",
+    "name": "Saint Lucia",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85632607": {
+    "id": 85632607,
+    "placetype": "country",
+    "name": "Tuvalu",
+    "spoken": [
+      "tvl",
+      "eng"
+    ],
+    "official": [
+      "tvl",
+      "eng"
+    ]
+  },
+  "85632709": {
+    "id": 85632709,
+    "placetype": "country",
+    "name": "Kiribati",
+    "spoken": [
+      "eng",
+      "gil"
+    ],
+    "official": [
+      "eng",
+      "gil"
+    ]
+  },
+  "85632547": {
+    "id": 85632547,
+    "placetype": "country",
+    "name": "Guernsey",
+    "spoken": [
+      "eng"
+    ],
+    "official": [
+      "eng"
+    ]
+  },
+  "85633275": {
+    "id": 85633275,
+    "placetype": "country",
+    "name": "Luxembourg",
+    "spoken": [
+      "fra",
+      "ltz",
+      "deu"
+    ],
+    "official": [
+      "fra",
+      "ltz",
+      "deu"
+    ]
+  },
+  "85632217": {
+    "id": 85632217,
+    "placetype": "country",
+    "name": "Western Sahara",
+    "spoken": [],
+    "official": []
+  },
+  "85632715": {
+    "id": 85632715,
+    "placetype": "country",
+    "name": "Antarctica",
+    "spoken": [],
+    "official": []
+  },
+  "85632461": {
+    "id": 85632461,
+    "placetype": "country",
+    "name": "Isle of Man",
+    "spoken": [
+      "eng",
+      "glv"
+    ],
+    "official": [
+      "eng",
+      "glv"
+    ]
+  },
+  "85632721": {
+    "id": 85632721,
+    "placetype": "country",
+    "name": "Cape Verde",
+    "spoken": [
+      "por"
+    ],
+    "official": [
+      "por"
+    ]
+  },
+  "85632553": {
+    "id": 85632553,
+    "placetype": "country",
+    "name": "Mali",
+    "spoken": [
+      "fra"
+    ],
+    "official": [
+      "fra"
+    ]
+  },
+  "85632187": {
+    "id": 85632187,
+    "placetype": "country",
+    "name": "Vatican",
+    "spoken": [
+      "ita"
+    ],
+    "official": []
+  },
+  "85633241": {
+    "id": 85633241,
+    "placetype": "country",
+    "name": "Ireland",
+    "spoken": [
+      "eng",
+      "gle"
+    ],
+    "official": [
+      "eng",
+      "gle"
+    ]
+  },
+  "85633755": {
+    "id": 85633755,
+    "placetype": "country",
+    "name": "Serbia",
+    "spoken": [
+      "srp",
+      "hun",
+      "ron",
+      "hrv",
+      "slk",
+      "ukr"
+    ],
+    "official": [
+      "srp"
+    ]
+  },
+  "85633229": {
+    "id": 85633229,
+    "placetype": "country",
+    "name": "Croatia",
+    "spoken": [
+      "hrv",
+      "ita"
+    ],
+    "official": [
+      "hrv"
+    ]
+  },
+  "85633779": {
+    "id": 85633779,
+    "placetype": "country",
+    "name": "Slovenia",
+    "spoken": [
+      "slv"
+    ],
+    "official": [
+      "slv"
+    ]
+  },
+  "85632395": {
+    "id": 85632395,
+    "placetype": "country",
+    "name": "Belarus",
+    "spoken": [
+      "bel",
+      "rus"
+    ],
+    "official": [
+      "bel",
+      "rus"
+    ]
+  },
+  "85632403": {
+    "id": 85632403,
+    "placetype": "country",
+    "name": "Taiwan",
+    "spoken": [
+      "zho"
+    ],
+    "official": [
+      "zho"
+    ]
+  }
+}
