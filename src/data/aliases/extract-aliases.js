@@ -38,7 +38,7 @@ stream.bsdtar.extract('-f', BUNDLE_FILE, '--include', '*.geojson', '--exclude', 
     const endonyms = _.pickBy(
       _.get(feature, 'properties'),
       (v, k) => {
-        // if (k === `name:eng_x_preferred`) { return true }
+        if (k === `name:eng_x_preferred`) { return true; }
         const matches = k.match(/name:([a-z]{3})_x_preferred/);
         if (!matches) { return false; }
         return _.get(languageMap, countryID, []).includes(matches[1]);
