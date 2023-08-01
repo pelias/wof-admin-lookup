@@ -5,7 +5,7 @@
   distributed by Geocode Earth, you can generate it manually from the bundle file:
 
   > aria2c https://data.geocode.earth/wof/dist/legacy/whosonfirst-data-country-latest.tar.bz2
-  > npm i @whosonfirst/wof
+  > npm i -g @whosonfirst/wof
   > wof bundle export whosonfirst-data-country-latest.tar.bz2 | wof sqlite import whosonfirst-data-country-latest.db
 */
 

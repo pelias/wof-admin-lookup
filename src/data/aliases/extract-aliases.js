@@ -7,6 +7,9 @@ const { stream, whosonfirst } = require('@whosonfirst/wof');
  *
  * note: I've not included the dependencies in package.json since
  * this script is seldom run: npm install @whosonfirst/wof
+ *
+ * note: in order to maintain clean diffs, pipe the output of this
+ * command to 'sort -n' before saving to disk.
  */
 
 // reduce the language map to a key/value dict where the key

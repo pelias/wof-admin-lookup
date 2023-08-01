@@ -105,7 +105,7 @@
 101752777|Warsaw|Warszawa
 101752799|Odesa|Одеса|Одесса
 101752845|Zaporozhye|Запорожье|Запоріжжя
-101752861|Dnipropetrovs'k|Днепр|Дніпро
+101752861|Dnipro|Днепр|Дніпро
 101752891|Donetsk|Донецк|Донецьк
 101752963|Kharkiv|Харків|Харьков
 101909779|Berlin
@@ -181,7 +181,7 @@
 102006827|Volgograd|Волгоград
 102007285|Rostov-on-Don|Ростов-на-Дону
 102008123|Saint Petersburg|Ленинград
-102008455|Molotov|Пермь
+102008455|Perm|Пермь
 102009145|Kazan’|Казань
 102009691|Ufa|Уфа
 102011123|Saratov|Саратов
@@ -346,16 +346,16 @@
 102027953|Baotou
 102027961|Anshan
 102027991|Xingyi
-102028261|Visakhapatnam|विशाखापट्नम
-102028271|Vijayawada|विजयवाड़ा
+102028261|Visakhapatnam|विशाखापत्तनम
+102028271|Vijayawada|विजयवाड़ा
 102028309|Varanasi|वाराणसी
 102028331|Vadodara|वड़ोदरा
 102028407|Thiruvananthapuram|तिरुवनंतपुरम
-102028441|Tiruchirappalli|तिरुचिरापल्ली
+102028441|Tiruchchirappalli|तिरुचिरापल्ली
 102028539|Surat|सूरत
 102028565|Srinagar|سری نگر
 102028657|Solapur|सोलापुर
-102028771|Salem|सेलेम
+102028771|Salem|सलेम
 102028861|Ranchi|रांची
 102028901|Rajkot|राजकोट
 102028919|Raipur|रायपुर
@@ -371,7 +371,7 @@
 102029537|Chennai|चेन्नई
 102029555|Ludhiana|लुधियाना
 102029557|Lucknow|लखनऊ
-102029641|Kozhikode|कोझिकोड
+102029641|Kozhikode|कोड़िकोड
 102029669|Kota|कोटा
 102029855|Kanpur|कानपुर
 102029941|Jalandhar|जालंधर
@@ -382,15 +382,15 @@
 102030029|Jabalpur|जबलपुर
 102030041|Indore|इंदौर
 102030059|Hyderabad|हैदराबाद
-102030067|Hubballi|हुबली
+102030067|Hubli|हुबली
 102030157|Gwalior|ग्वालियर
-102030233|Ghaziabad|गाज़ियाबाद
+102030233|Ghaziabad|गाज़ियाबाद
 102030289|Faridabad|फ़रीदाबाद
 102030401|Dhanbad|धनबाद
 102030425|Delhi|दिल्ली
-102030495|Coimbatore|कोयम्बटूर
-102030497|Kochi|कोच्ची
-102030563|Chandigarh|चंडीगढ़
+102030495|Coimbatore|कोयंबटूर
+102030497|Kochi|कोच्चि
+102030563|Chandigarh|चंडीगढ़
 102030585|Kolkata|कोलकाता
 102030609|Mumbai|मुंबई
 102030665|Bhubaneswar|भुवनेश्वर
@@ -398,12 +398,12 @@
 102030681|Bhiwandi|भिवंडी
 102030693|Bhilai|भिलाई
 102030781|Bareilly|बरेली
-102030819|Bangalore|बेंगलुरु
+102030819|Bangalore|बैंगलोर
 102030887|Aurangabad|औरंगाबाद
 102030901|Asansol|आसनसोल
 102030955|Amritsar|अमृतसर
-102030995|Prayagraj|प्रयागराज
-102030997|Aligarh|अलीगढ़
+102030995|Allahabad|इलाहाबाद
+102030997|Aligarh|अलीगढ़
 102031017|Ahmedabad|अहमदाबाद
 102031021|Agra|आगरा
 102031307|Tokyo|東京
@@ -599,7 +599,7 @@
 1141909257|Mbuji-Mayi
 1158857531|Saint Petersburg City|Санкт-Петербург
 1159397249|Manila
-1175610569|Brussel|Bruxelles|Brüssel
+1175610569|Brussel|Brussels|Bruxelles|Brüssel
 1175612707|Glasgow
 1175612731|Athens|Αθήνα
 1175613483|Nizhniy Novgorod|Нижний Новгород
