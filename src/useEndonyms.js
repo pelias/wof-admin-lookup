@@ -7,6 +7,7 @@ const logger = peliasLogger.get('wof-admin-lookup');
 // load dictionary files
 const endonyms = {
   country: loadEndonyms('country'),
+  region: loadEndonyms('region'),
   locality: loadEndonyms('locality-megacity')
 };
 
