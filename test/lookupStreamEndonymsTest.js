@@ -40,6 +40,35 @@ tape('tests', (test) => {
     });
   });
 
+  test.test('endonyms - region - North Rhine Westphalia/Nordrhein-Westfalen', (t) => {
+    const inputDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('region', 'North Rhine Westphalia', '85682513', 'NW');
+
+    const expectedDoc = new Document('whosonfirst', 'placetype', '1')
+      .setCentroid({ lat: 12.121212, lon: 21.212121 })
+      .addParent('region', 'North Rhine Westphalia', '85682513', 'NW')
+      .addParent('region', 'Nordrhein-Westfalen', '85682513', null) // endonym added
+      .addParent('region', 'North Rhine-Westphalia', '85682513', null); // endonym added
+
+    const resolver = {
+      lookup: (centroid, search_layers, callback) => {
+        const result = {
+          region: [{ id: 85682513, name: 'North Rhine Westphalia' }]
+        };
+        setTimeout(callback, 0, null, result);
+      }
+    };
+
+    const lookupStream = stream(resolver, { useEndonyms: true });
+    t.doesNotThrow(() => {
+      test_stream([inputDoc], lookupStream, (err, actual) => {
+        t.deepEqual(actual, [expectedDoc], 'country should have additional endonyms');
+        t.end();
+      });
+    });
+  });
+
   test.test('endonyms - locality - megacity - Rome/Roma', (t) => {
     const inputDoc = new Document('whosonfirst', 'placetype', '1')
       .setCentroid({ lat: 12.121212, lon: 21.212121 })
