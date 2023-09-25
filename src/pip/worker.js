@@ -15,7 +15,7 @@ const path = require('path');
 
 const layer = process.title = process.argv[2];
 const datapath = process.argv[3];
-const localizedAdminNames = process.argv[4];
+const localizedAdminNames = process.argv[4] == "true";
 const startTime = Date.now();
 
 const results = {

@@ -59,7 +59,8 @@ Who's On First Admin Lookup module recognizes the following top-level properties
 {
   "imports": {
     "adminLookup": {
-      "enabled": true
+      "enabled": true,
+      "localizedAdminNames": false
     },
     "whosonfirst": {
       "datapath": "/path/to/wof-data"
@@ -88,7 +89,7 @@ This is particularly helpful in places where the locality name returned by the p
 
 #### Contributing
 
-The mapping files are open-data, you can find more infomation about [how the data files are generated here](https://github.com/pelias/lastline).
+The mapping files are open-data, you can find more information about [how the data files are generated here](https://github.com/pelias/lastline).
 
 In the `src/data` directory of this repository you'll find the TSV (tab separated) files named after the corresponding 3-character country code (eg. `AUS.tsv`).
 
@@ -119,6 +120,8 @@ The `weight` field is used to determine which entry is the most important, this 
 #### Configuration
 
 To enable the postal cities functionality, set `imports.adminLookup.usePostalCities` to `true` in your `pelias.json` file.
+
+To enable localized administration names, set the `imports.adminLookup.localizedAdminNames` to `true` in your `pelias.json` file.
 
 #### Advanced Configuration
 
