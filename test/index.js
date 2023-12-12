@@ -237,3 +237,5 @@ tape('tests for main entry point', (test) => {
     t.end();
   });
 });
+
+module.exports = { test_stream };

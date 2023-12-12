@@ -1,16 +1,8 @@
 const tape = require('tape');
-const stream_mock = require('stream-mock');
+const test_stream = require('./index').test_stream;
 const Document = require('pelias-model').Document;
 
 const stream = require('../src/lookupStream');
-
-function test_stream(input, testedStream, callback) {
-  const reader = new stream_mock.ObjectReadableMock(input);
-  const writer = new stream_mock.ObjectWritableMock();
-  writer.on('error', (e) => callback(e));
-  writer.on('finish', () => callback(null, writer.data));
-  reader.pipe(testedStream).pipe(writer);
-}
 
 tape('tests', (test) => {
   test.test('postal cities - USA lookup - ZIP 18964', (t) => {

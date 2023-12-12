@@ -1,15 +1,6 @@
 var tape = require('tape');
-const stream_mock = require('stream-mock');
+const test_stream = require('../../index').test_stream;
 var extractFields = require('../../../src/pip/components/extractFields');
-
-
-function test_stream(input, testedStream, callback) {
-  const reader = new stream_mock.ObjectReadableMock(input);
-  const writer = new stream_mock.ObjectWritableMock();
-  writer.on('error', (e) => callback(e));
-  writer.on('finish', () => callback(null, writer.data));
-  reader.pipe(testedStream).pipe(writer);
-}
 
 tape('extractFields localized name tests', function(test) {
 

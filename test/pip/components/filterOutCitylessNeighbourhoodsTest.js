@@ -1,17 +1,9 @@
 const tape = require('tape');
-const stream_mock = require('stream-mock');
+const test_stream = require('../../index').test_stream;
 const async = require('async');
 const proxyquire = require('proxyquire').noCallThru();
 
 const filterOutCitylessNeighbourhoods = require('../../../src/pip/components/filterOutCitylessNeighbourhoods');
-
-function test_stream(input, testedStream, callback) {
-  const reader = new stream_mock.ObjectReadableMock(input);
-  const writer = new stream_mock.ObjectWritableMock();
-  writer.on('error', (e) => callback(e));
-  writer.on('finish', () => callback(null, writer.data));
-  reader.pipe(testedStream).pipe(writer);
-}
 
 tape('non-neighbourhoods tests', test => {
   const non_neighbourhoods = [
