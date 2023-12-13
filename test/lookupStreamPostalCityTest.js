@@ -1,15 +1,8 @@
 const tape = require('tape');
-const event_stream = require('event-stream');
+const test_stream = require('./index').test_stream;
 const Document = require('pelias-model').Document;
 
 const stream = require('../src/lookupStream');
-
-function test_stream(input, testedStream, callback) {
-    const input_stream = event_stream.readArray(input);
-    const destination_stream = event_stream.writeArray(callback);
-
-    input_stream.pipe(testedStream).pipe(destination_stream);
-}
 
 tape('tests', (test) => {
   test.test('postal cities - USA lookup - ZIP 18964', (t) => {

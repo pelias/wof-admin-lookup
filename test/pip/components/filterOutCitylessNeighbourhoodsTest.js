@@ -1,16 +1,9 @@
 const tape = require('tape');
-const event_stream = require('event-stream');
+const test_stream = require('../../index').test_stream;
 const async = require('async');
 const proxyquire = require('proxyquire').noCallThru();
 
 const filterOutCitylessNeighbourhoods = require('../../../src/pip/components/filterOutCitylessNeighbourhoods');
-
-function test_stream(input, testedStream, callback) {
-    const input_stream = event_stream.readArray(input);
-    const destination_stream = event_stream.writeArray(callback);
-
-    input_stream.pipe(testedStream).pipe(destination_stream);
-}
 
 tape('non-neighbourhoods tests', test => {
   const non_neighbourhoods = [

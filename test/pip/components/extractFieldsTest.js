@@ -1,12 +1,5 @@
 var tape = require('tape');
-var event_stream = require('event-stream');
-
-function test_stream(input, testedStream, callback) {
-  var input_stream = event_stream.readArray(input);
-  var destination_stream = event_stream.writeArray(callback);
-
-  input_stream.pipe(testedStream).pipe(destination_stream);
-}
+const test_stream = require('../../index').test_stream;
 
 tape('extractFields tests', function(test) {
   test.test('non-special case record', function(t) {

@@ -1,17 +1,18 @@
 'use strict';
 
 const tape = require('tape');
-const event_stream = require('event-stream');
+const stream_mock = require('stream-mock');
 const proxyquire = require('proxyquire').noCallThru();
 const through = require('through2');
 
 const stream = require('../src/lookupStream');
 
 function test_stream(input, testedStream, callback) {
-    const input_stream = event_stream.readArray(input);
-    const destination_stream = event_stream.writeArray(callback);
-
-    input_stream.pipe(testedStream).pipe(destination_stream);
+  const reader = new stream_mock.ObjectReadableMock(input);
+  const writer = new stream_mock.ObjectWritableMock();
+  writer.on('error', (e) => callback(e));
+  writer.on('finish', () => callback(null, writer.data));
+  reader.pipe(testedStream).pipe(writer);
 }
 
 tape('tests for main entry point', (test) => {
@@ -236,3 +237,5 @@ tape('tests for main entry point', (test) => {
     t.end();
   });
 });
+
+module.exports = { test_stream };
