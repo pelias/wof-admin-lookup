@@ -25,7 +25,8 @@ function resolver(layers) {
 
 function localResolver(layers) {
   const datapath = peliasConfig.imports.whosonfirst.datapath;
-  return require('./src/localPipResolver')(datapath, layers);
+  const localizedAdminNames = peliasConfig.imports.adminLookup.localizedAdminNames;
+  return require('./src/localPipResolver')(datapath, layers, localizedAdminNames);
 }
 
 module.exports = {
