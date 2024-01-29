@@ -5,6 +5,7 @@ var _ = require('lodash');
 
 const getDefaultName = require('./getDefaultName');
 const getLocalizedName = require('./getLocalizedName');
+const getLocalizedAbbreviation = require('./getLocalizedAbbreviation');
 
 
 /**
@@ -13,12 +14,12 @@ const getLocalizedName = require('./getLocalizedName');
  * @param {boolean} enableLocalizedNames
  * @returns {object}
  */
-module.exports.create = function(enableLocalizedNames) {
+module.exports.create = function (enableLocalizedNames) {
 
   enableLocalizedNames = enableLocalizedNames || false;
 
   // this function extracts the id, name, placetype, hierarchy, and geometry
-  return map.obj(function(wofData) {
+  return map.obj(function (wofData) {
     const res = {
       properties: {
         Id: wofData.properties['wof:id'],
@@ -38,7 +39,7 @@ module.exports.create = function(enableLocalizedNames) {
       res.properties.Hierarchy = _.map(wofData.properties['wof:hierarchy'], hierarchy => _.values(hierarchy));
     } else {
       // otherwise, synthesize a hierarchy from the records' id
-      res.properties.Hierarchy = [ [ res.properties.Id ] ];
+      res.properties.Hierarchy = [[res.properties.Id]];
     }
 
     res.properties.Abbrev = getAbbreviation(wofData);
@@ -61,10 +62,14 @@ function getName(wofData, enableLocalizedNames) {
   return getDefaultName(wofData);
 }
 
-/*
+/**
  * Return an abbreviation based on the first defined value across several fields
+ * 
+ * @param {object} wofData
+ * @param {boolean} enableLocalizedNames
+ * @returns {boolean|string}
  */
-function getAbbreviation(wofData) {
+function getAbbreviation(wofData, enableLocalizedNames) {
   const props = wofData.properties;
   const placetype = props['wof:placetype'];
 
@@ -78,10 +83,14 @@ function getAbbreviation(wofData) {
       //instead of 3 character and are therefore not preferred
       props['wof:shortcode'] ||
       props['wof:abbreviation'];
-   } else {
+  } else {
+    if (enableLocalizedNames) {
+      return getLocalizedAbbreviation(wofData);
+    }
+    //Shorth
     return props['wof:shortcode'] ||
       props['wof:abbreviation'];
-   }
+  }
 }
 
 

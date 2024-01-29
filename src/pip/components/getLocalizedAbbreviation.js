@@ -3,33 +3,19 @@
 const _ = require('lodash');
 const logger = require('pelias-logger').get('wof-pip-service');
 
-/**
- * Return the localized name or default name for the given record
- *
+
+/** Tries to resolve the local shortcode
  * @param {object} wofData
- * @returns {false|string}
- */
-function getName(wofData) {
+ * @returns {boolean|string}
+ * */
 
-  // if this is a US county, use the qs:a2_alt for county
-  // eg - wof:name = 'Lancaster' and qs:a2_alt = 'Lancaster County', use latter
-  if (isUsCounty(wofData)) {
-    return getPropertyValue(wofData, 'qs:a2_alt');
-  }
-
-  // attempt to use the following in order of priority and fallback to wof:name if all else fails
+function getAbbreviation(wofData) {
   return getLocalizedName(wofData, 'wof:lang_x_spoken') ||
-         getLocalizedName(wofData, 'wof:lang_x_official') ||
-         getLocalizedName(wofData, 'wof:lang') ||
-         getPropertyValue(wofData, 'wof:label') ||
-         getPropertyValue(wofData, 'wof:name');
-}
-
-// this function is used to verify that a US county QS altname is available
-function isUsCounty(wofData) {
-  return 'US' === wofData.properties['iso:country'] &&
-    'county' === wofData.properties['wof:placetype'] &&
-    !_.isUndefined(wofData.properties['qs:a2_alt']);
+    getLocalizedName(wofData, 'wof:lang_x_official') ||
+    getLocalizedName(wofData, 'wof:lang') ||
+    //Fallback
+    getPropertyValue(wofData, 'wof:shortcode') ||
+    getPropertyValue(wofData, 'wof:abbreviation');
 }
 
 /**
@@ -62,9 +48,22 @@ function getOfficialLangName(wofData, langProperty) {
   }
 
   // for now always just grab the first language in the array
-  return `name:${languages[0]}_x_preferred`;
+  return `name:${languages[0]}_x_preferred_shortcode`;
 }
+function getPropertyValue(wofData, property) {
 
+  if (wofData.properties.hasOwnProperty(property)) {
+
+    // if the value is an array, return the first item
+    if (wofData.properties[property] instanceof Array) {
+      return wofData.properties[property][0];
+    }
+
+    // otherwise just return the value as is
+    return wofData.properties[property];
+  }
+  return false;
+}
 /**
  * Given a language property name return the corresponding name:* property if one exists
  * and false if that can't be found for any reason
@@ -100,26 +99,4 @@ function getLocalizedName(wofData, langProperty) {
   return false;
 }
 
-/**
- * Get the string value of the property or false if not found
- *
- * @param {object} wofData
- * @param {string} property
- * @returns {boolean|string}
- */
-function getPropertyValue(wofData, property) {
-
-  if (wofData.properties.hasOwnProperty(property)) {
-
-    // if the value is an array, return the first item
-    if (wofData.properties[property] instanceof Array) {
-      return wofData.properties[property][0];
-    }
-
-    // otherwise just return the value as is
-    return wofData.properties[property];
-  }
-  return false;
-}
-
-module.exports = getName;
+module.exports = getAbbreviation;
