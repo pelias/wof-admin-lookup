@@ -36,7 +36,6 @@
     "polygon-lookup": "^2.1.0",
     "request": "^2.83.0",
     "simplify-js": "^1.2.1",
-    "stable": "^0.1.8",
     "through2": "^3.0.0",
     "through2-filter": "^3.0.0",
     "through2-map": "^3.0.0",
