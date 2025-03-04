@@ -20,6 +20,8 @@ const workers = {};
 const responseQueue = {};
 const wofData = {};
 
+// NB: order is important here
+// consult with https://github.com/whosonfirst/whosonfirst-placetypes when making changes
 const defaultLayers = [
   'neighbourhood',
   'borough',
@@ -27,8 +29,8 @@ const defaultLayers = [
   'localadmin',
   'county',
   'macrocounty',
-  'macroregion',
   'region',
+  'macroregion',
   'dependency',
   'country',
   'empire',
@@ -40,7 +42,10 @@ const defaultLayers = [
 module.exports.create = function createPIPService(datapath, layers, localizedAdminNames, callback) {
   // take the intersection to keep order in decreasing granularity
   // ie - _.intersection([1, 2, 3], [3, 1]) === [1, 3]
+
+
   layers = _.intersection(defaultLayers, _.isEmpty(layers) ? defaultLayers : layers);
+  console.log('CREATE PP', layers);
 
   const folder = path.join(datapath, 'sqlite');
   if (!fs.existsSync(folder)) {
