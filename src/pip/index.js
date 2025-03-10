@@ -20,6 +20,8 @@ const workers = {};
 const responseQueue = {};
 const wofData = {};
 
+// NB: order is important here
+// consult with https://github.com/whosonfirst/whosonfirst-placetypes when making changes
 const defaultLayers = [
   'neighbourhood',
   'borough',
@@ -27,8 +29,8 @@ const defaultLayers = [
   'localadmin',
   'county',
   'macrocounty',
-  'macroregion',
   'region',
+  'macroregion',
   'dependency',
   'country',
   'empire',
