@@ -2,7 +2,6 @@
 const _ = require('lodash');
 const fs = require('fs');
 const path = require('path');
-const stable = require('stable');
 const csv = require('csv-parse/lib/sync');
 const config = require('pelias-config').generate();
 const logger = require('pelias-logger').get('wof-admin-lookup');
@@ -111,7 +110,7 @@ function loadTable(cc){
     });
 
     // re-sort the records by weight DESC in case they were provided out-of-order
-    m[postalcode] = stable(m[postalcode], (a, b) => b.weight - a.weight);
+    m[postalcode].sort((a, b) => b.weight - a.weight);
 
     // remove duplicate WOFID entries (favour the higher weighted duplicate)
     m[postalcode] = _.uniqBy(m[postalcode], 'wofid');
