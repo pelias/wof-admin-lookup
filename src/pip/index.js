@@ -58,7 +58,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
       });
     },
     function end() {
-      logger.info('PIP Service Loading Completed!!!');
+      logger.info('all layers loaded');
 
       callback(null, {
         end: killAllWorkers,
