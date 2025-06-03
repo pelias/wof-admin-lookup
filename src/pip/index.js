@@ -6,8 +6,8 @@
  */
 
 const path = require('path');
-const childProcess = require( 'child_process' );
-const logger = require( 'pelias-logger' ).get( 'wof-pip-service:master' );
+const childProcess = require('child_process');
+const logger = require('pelias-logger').get('wof-pip-service:master');
 const async = require('async');
 const _ = require('lodash');
 const fs = require('fs');
@@ -46,17 +46,18 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
   const folder = path.join(datapath, 'sqlite');
   if (!fs.existsSync(folder)) {
-    return callback(`unable to locate sqlite folder`);
+    return callback(`unable to locate sqlite folder. Please ensure that the whosonfirst data follows the structure: 
+    whosonfirstPath/sqlite/whosonfirst-data-*.db`);
   }
 
   logger.info(`starting with layers ${layers}`);
 
   // load all workers
   async.forEach(layers, (layer, done) => {
-      startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
-        done();
-      });
-    },
+    startWorker(datapath, layer, localizedAdminNames, function (err, worker) {
+      done();
+    });
+  },
     function end() {
       logger.info('PIP Service Loading Completed!!!');
 
@@ -87,7 +88,7 @@ module.exports.create = function createPIPService(datapath, layers, localizedAdm
 
           // bookkeeping object that tracks the progress of the request
           responseQueue[id] = {
-            latLon: {latitude: latitude, longitude: longitude},
+            latLon: { latitude: latitude, longitude: longitude },
             hierarchy: [],
             // copy of layers to search
             search_layers: search_layers.slice(),
@@ -126,7 +127,7 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
 
   });
 
-  worker.on('exit', (code, signal)  => {
+  worker.on('exit', (code, signal) => {
     // the `.killed` property will be true if a kill signal was previously sent to this worker
     // in that case, the worker shutting down is not an error
     // if the worker _was not_ told to shut down, it's a big problem
@@ -142,7 +143,7 @@ function startWorker(datapath, layer, localizedAdminNames, callback) {
   });
 
   // a worker emitting the `error` event is always bad
-  worker.on('error', (err)  => {
+  worker.on('error', (err) => {
     killAllWorkers();
 
     // throw after a slight delay so that the exception message is the last thing on the screen
