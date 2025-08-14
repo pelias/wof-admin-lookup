@@ -59,7 +59,9 @@ Who's On First Admin Lookup module recognizes the following top-level properties
 {
   "imports": {
     "adminLookup": {
-      "enabled": true
+      "enabled": true,
+      "lookupPostalCodes": false,
+      "setPostalCodeInAddressParts": false
     },
     "whosonfirst": {
       "datapath": "/path/to/wof-data"
@@ -119,6 +121,10 @@ The `weight` field is used to determine which entry is the most important, this 
 #### Configuration
 
 To enable the postal cities functionality, set `imports.adminLookup.usePostalCities` to `true` in your `pelias.json` file.
+
+To enable the lookup of postalcodes, set `imports.adminLookup.lookupPostalCodes` to `true` in your `pelias.json` file. Because postal code data can amount to a significant size, this setting is disabled by default.
+
+To enable copying postal codes from admin hierarchy to address_parts.zip (making them searchable), set `imports.adminLookup.setPostalCodeInAddressParts` to `true` in your `pelias.json` file. This requires `lookupPostalCodes` to also be enabled. This setting is disabled by default to preserve authoritative postal codes from source data.
 
 #### Advanced Configuration
 

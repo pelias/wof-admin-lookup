@@ -11,7 +11,9 @@ const logger = require('pelias-logger').get('wof-pip-service:master');
 const async = require('async');
 const _ = require('lodash');
 const fs = require('fs');
-const missingMetafilesAreFatal = require('pelias-config').generate(require('../../schema')).imports.adminLookup.missingMetafilesAreFatal;
+const config = require('pelias-config').generate(require('../../schema')).imports.adminLookup;
+const missingMetafilesAreFatal = config.missingMetafilesAreFatal;
+const lookupPostalCodes = config.lookupPostalCodes;
 
 let requestCount = 0;
 // worker processes keyed on layer
@@ -24,6 +26,7 @@ const wofData = {};
 // consult with https://github.com/whosonfirst/whosonfirst-placetypes when making changes
 const defaultLayers = [
   'neighbourhood',
+  ...(lookupPostalCodes ? ['postalcode'] : []),
   'borough',
   'locality',
   'localadmin',
@@ -187,8 +190,8 @@ function handleResults(msg) {
     }
 
   } else {
-    // there was a hit, so find the hierachy and assemble all the pieces
-    const untrustedLayers = ['neighbourhood'];
+    // there was a hit, so find the hierarchy and assemble all the pieces
+    const untrustedLayers = ['neighbourhood', 'postalcode'];
 
     if (untrustedLayers.includes(msg.layer)) {
       // push _only_ the first layers results onto the hierarchy
