@@ -9,6 +9,8 @@ module.exports = Joi.object().keys({
       enabled: Joi.boolean().default(true),
       missingMetafilesAreFatal: Joi.boolean().default(false),
       usePostalCities: Joi.boolean().default(false),
+      lookupPostalCodes: Joi.boolean().default(false),
+      setPostalCodeInAddressParts: Joi.boolean().default(false),
       postalCitiesDataPath: Joi.string(),
       useEndonyms: Joi.boolean().default(false)
     }).unknown(true),

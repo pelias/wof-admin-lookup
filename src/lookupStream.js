@@ -4,6 +4,7 @@ const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
 const getAdminLayers = require( './getAdminLayers' );
 const usePostalCity = require( './usePostalCity' );
 const useEndonyms = require( './useEndonyms' );
+const setPostalCodeInAddressParts = require( './setPostalCodeInAddressParts' );
 
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
@@ -73,6 +74,12 @@ function createPipResolverStream(pipResolver, config) {
       // optionally enable/disable this functionality using config variable.
       if( config && true === config.usePostalCities ){
         usePostalCity( result, doc );
+      }
+
+      // optionally copy postal code from admin hierarchy to address_parts.zip
+      // this allows postal codes to be searchable and displayed in results
+      if( config && true === config.setPostalCodeInAddressParts ){
+        setPostalCodeInAddressParts( result, doc );
       }
 
       // add endonyms as aliases for places defined in the dictionaries.
