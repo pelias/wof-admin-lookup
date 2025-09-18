@@ -1,4 +1,5 @@
 const _ = require('lodash');
+const os = require('os');
 const parallelTransform = require('parallel-transform');
 const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
 const getAdminLayers = require( './getAdminLayers' );
@@ -102,10 +103,12 @@ module.exports = function(pipResolver, config) {
   // pelias 'imports.adminLookup' config section
   config = config || {};
 
+  console.error(pipResolver.constructor.name);
   const pipResolverStream = createPipResolverStream(pipResolver, config);
   const end = createPipResolverEnd(pipResolver);
 
-  const stream = parallelTransform(config.maxConcurrentReqs || 1, pipResolverStream);
+  const stream = parallelTransform((os.cpus().length -1)*2, pipResolverStream);
+  // const stream = parallelTransform(config.maxConcurrentReqs || 1, pipResolverStream);
   stream.on('end', end);
 
   return stream;

@@ -32,6 +32,7 @@
     "pelias-config": "^4.0.0",
     "pelias-logger": "^1.2.1",
     "pelias-microservice-wrapper": "^1.2.1",
+    "pelias-spatial": "github:pelias/spatial#pip-pelias-summary",
     "pelias-whosonfirst": "^8.1.0",
     "polygon-lookup": "^2.1.0",
     "request": "^2.83.0",

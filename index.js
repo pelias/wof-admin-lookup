@@ -25,6 +25,11 @@ function resolver(layers) {
 
 function localResolver(layers) {
   const datapath = peliasConfig.imports.whosonfirst.datapath;
+
+  // @todo: how best to enable spatial?
+  if (_.get(peliasConfig, 'imports.services.flag.spatial')) {
+    return require('./src/spatialPipResolver')(datapath, layers);
+  }
   return require('./src/localPipResolver')(datapath, layers);
 }
 
