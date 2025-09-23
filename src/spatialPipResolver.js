@@ -1,6 +1,7 @@
 const path = require('path');
 const cpus = require('os').cpus().length;
 const { Piscina, FixedQueue } = require('piscina');
+const { encodeRequest, decodeResponse } = require('./codec');
 
 class SpatialPipService {
   constructor (datapath) {
@@ -18,8 +19,11 @@ class SpatialPipService {
   }
 
   lookup(centroid, _search_layers, cb) {
-    this.pool.run({ centroid })
-      .then(result => cb(null, result))
+    const encodedRequest = encodeRequest({ centroid });
+    this.pool.run({ encodedRequest }, { transferList: [ encodedRequest ] })
+      .then(encodedResponse => {
+        cb(null, decodeResponse(encodedResponse));
+      })
       .catch(error => cb(error));
   }
 
