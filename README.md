@@ -38,7 +38,7 @@ There are two possible ways to retrieve admin hierarchy: using remote
 The remote PIP service is a good option only if memory is constrained and you'd
 like to share one instance of admin lookup data across multiple importers.
 
-The Remote PIP service is automatically enabled if the `imports.services.pip.url` property exists.
+The Remote PIP service is automatically enabled if the `services.spatial.url` or `services.pip.url` properties exists.
 
 #### Local admin lookup (default, fastest)
 
@@ -53,21 +53,57 @@ It's recommended for most uses.
 
 ### Configuration
 
-Who's On First Admin Lookup module recognizes the following top-level properties in your pelias.json config file:
+Who's On First Admin Lookup module recognizes the following properties in your `pelias.json` config file:
 
-```
+note: all properties may be omitted and will default to reasonable values, `enabled` is assumed to be true if unset.
+
+```js
 {
   "imports": {
     "adminLookup": {
-      "enabled": true
-    },
+      "enabled": true,
+      "usePostalCities": true,
+      "useEndonyms": true,
+      "maxConcurrentReqs": 80
+    }
+  }
+}
+```
+
+To use the [pelias/spatial](https://github.com/pelias/spatial) module for PIP operations set:
+
+```js
+{
+  "services": {
+    "spatial": {
+      "datapath": "/path/to/spatial/databases",
+      "files": ["database.spatial.db"]
+    }
+  }
+}
+```
+
+Or to use the legacy in-memory PIP resolver, unset/delete the `services.spatial` config block and ensure the `imports.whosonfirst` config block is correctly set:
+
+```js
+{
+  "imports": {
     "whosonfirst": {
       "datapath": "/path/to/wof-data"
-    },
-    "services": {
-      "pip": {
-        "url": "https://mypipservice.com"
-      }
+    }
+  }
+}
+```
+
+If the resolver is running as an external HTTP web server, you may use the `url` property to indicate that an HTTP client will be used to access the remote service. The key may be *either* `services.spatial.url` or `services.pip.url`.
+
+This block also accepts the `timeout` and `retry` properties as defined in [microservice-wrapper](https://github.com/pelias/microservice-wrapper/blob/master/ServiceConfiguration.js).
+
+```js
+{
+  "services": {
+    "spatial": {
+      "url": "https://mypipservice.com"
     }
   }
 }

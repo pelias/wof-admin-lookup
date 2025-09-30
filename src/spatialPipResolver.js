@@ -1,18 +1,16 @@
 const path = require('path');
-const cpus = require('os').cpus().length;
+const os = require('os');
 const { Piscina, FixedQueue } = require('piscina');
+const THREADS = os.availableParallelism() - 1;
 
 class SpatialPipService {
-  constructor (datapath) {
+  constructor () {
     this.pool = new Piscina({
       filename: path.resolve(__dirname, 'spatialWorker.js'),
-      workerData: {
-        dbpath: path.resolve(datapath, '..', 'spatial', 'whosonfirst-data-admin-us-latest.spatial.db')
-      },
-      minThreads: cpus -1,
-      maxThreads: cpus -1,
+      minThreads: THREADS,
+      maxThreads: THREADS,
       idleTimeout: Infinity,
-      maxQueue: cpus * 5,
+      maxQueue: THREADS * 20,
       taskQueue: new FixedQueue()
     });
   }

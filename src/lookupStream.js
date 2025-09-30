@@ -6,6 +6,10 @@ const getAdminLayers = require( './getAdminLayers' );
 const usePostalCity = require( './usePostalCity' );
 const useEndonyms = require( './useEndonyms' );
 
+// default parallelism for the parallelTransform stream
+// note: this is being overridden by 'schema.js' config validation
+const DEFAULT_PARALLELISM = os.availableParallelism() -1;
+
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
     return result[element].length > 1;
@@ -95,20 +99,18 @@ function createPipResolverEnd(pipResolver) {
   };
 }
 
-module.exports = function(pipResolver, config) {
+module.exports = function(pipResolver, config = {}) {
   if (!pipResolver) {
     throw new Error('valid pipResolver required to be passed in as the first parameter');
   }
 
-  // pelias 'imports.adminLookup' config section
-  config = config || {};
-
-  console.error(pipResolver.constructor.name);
+  logger.info('using resolver', pipResolver.constructor.name);
   const pipResolverStream = createPipResolverStream(pipResolver, config);
   const end = createPipResolverEnd(pipResolver);
 
-  const stream = parallelTransform((os.cpus().length -1)*2, pipResolverStream);
-  // const stream = parallelTransform(config.maxConcurrentReqs || 1, pipResolverStream);
+  const paralellism = _.get(config, 'maxConcurrentReqs', DEFAULT_PARALLELISM);
+  logger.info('using parallelism', paralellism);
+  const stream = parallelTransform(paralellism, pipResolverStream);
   stream.on('end', end);
 
   return stream;

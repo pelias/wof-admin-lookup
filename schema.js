@@ -1,11 +1,16 @@
 const Joi = require('@hapi/joi');
-const cpus = require('os').cpus;
+const os = require('os');
+
+// default parallelism for the parallelTransform stream
+// note: this value of 10x the number of cores is historical, and may be too high
+// in the future we may want to reduce it to something like 2x
+const DEFAULT_PARALLELISM = os.availableParallelism() *10;
 
 module.exports = Joi.object().keys({
   imports: Joi.object().required().keys({
     adminLookup: Joi.object().keys({
       // default maxConcurrentReqs to # of cpus/cores * 10
-      maxConcurrentReqs: Joi.number().integer().default(cpus().length*10),
+      maxConcurrentReqs: Joi.number().integer().default(DEFAULT_PARALLELISM),
       enabled: Joi.boolean().default(true),
       missingMetafilesAreFatal: Joi.boolean().default(false),
       usePostalCities: Joi.boolean().default(false),
