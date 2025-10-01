@@ -1,6 +1,7 @@
-const path = require('path');
 const os = require('os');
-const { Piscina, FixedQueue } = require('piscina');
+const path = require('path');
+const logger = require('pelias-logger').get('spatial-pip-resolver');
+const { Piscina } = require('piscina');
 const THREADS = os.availableParallelism() - 1;
 
 class SpatialPipService {
@@ -9,10 +10,9 @@ class SpatialPipService {
       filename: path.resolve(__dirname, 'spatialWorker.js'),
       minThreads: THREADS,
       maxThreads: THREADS,
-      idleTimeout: Infinity,
-      maxQueue: THREADS * 20,
-      taskQueue: new FixedQueue()
+      idleTimeout: Infinity
     });
+    logger.info(`using ${THREADS} worker threads`);
   }
 
   lookup(centroid, _search_layers, cb) {
