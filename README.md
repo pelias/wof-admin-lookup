@@ -141,7 +141,7 @@ This is particularly helpful in places where the locality name returned by the p
 
 #### Contributing
 
-The mapping files are open-data, you can find more infomation about [how the data files are generated here](https://github.com/pelias/lastline).
+The mapping files are open-data, you can find more information about [how the data files are generated here](https://github.com/pelias/lastline).
 
 In the `src/data` directory of this repository you'll find the TSV (tab separated) files named after the corresponding 3-character country code (eg. `AUS.tsv`).
 
