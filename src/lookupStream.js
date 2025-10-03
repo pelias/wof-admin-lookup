@@ -1,9 +1,14 @@
 const _ = require('lodash');
+const os = require('os');
 const parallelTransform = require('parallel-transform');
 const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
 const getAdminLayers = require( './getAdminLayers' );
 const usePostalCity = require( './usePostalCity' );
 const useEndonyms = require( './useEndonyms' );
+
+// default parallelism for the parallelTransform stream
+// note: this is being overridden by 'schema.js' config validation
+const DEFAULT_PARALLELISM = os.availableParallelism() -1;
 
 function hasAnyMultiples(result) {
   return Object.keys(result).some((element) => {
@@ -94,18 +99,18 @@ function createPipResolverEnd(pipResolver) {
   };
 }
 
-module.exports = function(pipResolver, config) {
+module.exports = function(pipResolver, config = {}) {
   if (!pipResolver) {
     throw new Error('valid pipResolver required to be passed in as the first parameter');
   }
 
-  // pelias 'imports.adminLookup' config section
-  config = config || {};
-
+  logger.info('using resolver', pipResolver.constructor.name);
   const pipResolverStream = createPipResolverStream(pipResolver, config);
   const end = createPipResolverEnd(pipResolver);
 
-  const stream = parallelTransform(config.maxConcurrentReqs || 1, pipResolverStream);
+  const paralellism = _.get(config, 'maxConcurrentReqs', DEFAULT_PARALLELISM);
+  logger.info('using parallelism', paralellism);
+  const stream = parallelTransform(paralellism, pipResolverStream);
   stream.on('end', end);
 
   return stream;
