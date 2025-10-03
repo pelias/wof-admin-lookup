@@ -15,8 +15,8 @@ class SpatialPipService {
     logger.info(`using ${THREADS} worker threads`);
   }
 
-  lookup(centroid, _search_layers, cb) {
-    this.pool.run({ centroid })
+  lookup(centroid, layers, cb) {
+    this.pool.run(layers ? { centroid, layers } : { centroid })
       .then(result => cb(null, result))
       .catch(error => cb(error));
   }
