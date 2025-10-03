@@ -6,7 +6,6 @@
 <p align="center">
 <a href="https://github.com/pelias/wof-admin-lookup/actions"><img src="https://github.com/pelias/wof-admin-lookup/workflows/Continuous%20Integration/badge.svg" /></a>
 <a href="https://en.wikipedia.org/wiki/MIT_License"><img src="https://img.shields.io/github/license/pelias/wof-admin-lookup?style=flat&color=orange" /></a>
-<a href="https://hub.docker.com/u/pelias"><img src="https://img.shields.io/docker/pulls/pelias/wof-admin-lookup?style=flat&color=informational" /></a>
 <a href="https://gitter.im/pelias/pelias"><img src="https://img.shields.io/gitter/room/pelias/pelias?style=flat&color=yellow" /></a>
 </p>
 <p align="center">
