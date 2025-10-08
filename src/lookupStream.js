@@ -1,10 +1,10 @@
 const _ = require('lodash');
 const os = require('os');
 const parallelTransform = require('parallel-transform');
-const logger = require( 'pelias-logger' ).get( 'wof-admin-lookup' );
-const getAdminLayers = require( './getAdminLayers' );
-const usePostalCity = require( './usePostalCity' );
-const useEndonyms = require( './useEndonyms' );
+const logger = require('pelias-logger').get('wof-admin-lookup');
+const getAdminLayers = require('./getAdminLayers');
+const usePostalCity = require('./usePostalCity');
+const useEndonyms = require('./useEndonyms');
 
 // default parallelism for the parallelTransform stream
 // note: this is being overridden by 'schema.js' config validation

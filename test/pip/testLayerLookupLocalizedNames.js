@@ -1,12 +1,8 @@
-'use strict';
-
 const config = require('pelias-config').generate();
-
 const fs = require('fs');
-const path = require( 'path' );
-
+const path = require('path');
 const async = require('async');
-const deep = require( 'deep-diff' );
+const deep = require('deep-diff');
 
 const createPIPService = require('../../src/pip/index').create;
 

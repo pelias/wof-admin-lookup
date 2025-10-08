@@ -1,11 +1,7 @@
-'use strict';
-
 const tape = require('tape');
 const stream_mock = require('stream-mock');
 const proxyquire = require('proxyquire').noCallThru();
 const through = require('through2');
-
-const stream = require('../src/lookupStream');
 
 function test_stream(input, testedStream, callback) {
   const reader = new stream_mock.ObjectReadableMock(input);

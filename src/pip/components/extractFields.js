@@ -1,5 +1,3 @@
-'use strict';
-
 var map = require('through2-map');
 var _ = require('lodash');
 

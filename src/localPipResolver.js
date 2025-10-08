@@ -1,5 +1,3 @@
-'use strict';
-
 const logger = require('pelias-logger').get('wof-admin-lookup');
 const createPipService = require('./pip/index').create;
 const killAllWorkers = require('./pip/index').killAllWorkers;

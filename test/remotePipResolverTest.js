@@ -1,5 +1,3 @@
-'use strict';
-
 const tape = require('tape');
 const nock = require('nock');
 

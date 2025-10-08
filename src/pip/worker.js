@@ -1,17 +1,12 @@
-'use strict';
-
 /**
  * A worker processes intended to be launched by the `./index.js` module.
  * Loads one polygon layer into memory, builds a `PolygonLookup` for it, and
  * then returns intersection results for `search` queries.
  */
 
-const logger = require( 'pelias-logger').get('admin-lookup:worker');
+const logger = require('pelias-logger').get('admin-lookup:worker');
 const PolygonLookup = require('polygon-lookup');
-
 const readStream = require('./readStream');
-const fs = require('fs');
-const path = require('path');
 
 const layer = process.title = process.argv[2];
 const datapath = process.argv[3];

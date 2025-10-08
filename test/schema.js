@@ -1,6 +1,5 @@
-const tape = require( 'tape' );
-const Joi = require('@hapi/joi');
-const schema = require( '../schema' );
+const tape = require('tape');
+const schema = require('../schema');
 const os = require('os');
 
 tape('test configuration scenarios', (test) =>  {
