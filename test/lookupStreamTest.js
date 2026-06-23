@@ -28,7 +28,7 @@ tape('tests', (test) => {
   });
 
   test.test('country, dependency, macroregion, region, macrocounty, county, locality, ' +
-    'localadmin, borough, macrohood, and neighborhood fields should be set into document', (t) => {
+    'localadmin, borough, postalcode, and neighborhood fields should be set into document', (t) => {
     const input = [
       new Document( 'whosonfirst', 'placetype', '1')
         .setCentroid({ lat: 12.121212, lon: 21.212121 })
@@ -46,7 +46,7 @@ tape('tests', (test) => {
         .addParent('locality', 'Locality 1', '13', 'Locality 1 Abbr')
         .addParent('localadmin', 'LocalAdmin 1', '15', 'LocalAdmin 1 Abbr')
         .addParent('borough', 'Borough 1', '17', 'Borough 1 Abbr')
-        .addParent('macrohood', 'Macrohood 1', '19', 'Macrohood 1 Abbr')
+        .addParent('postalcode', 'Postalcode 1', '19', 'Postalcode 1 Abbr')
         .addParent('neighbourhood', 'Neighbourhood 1', '21', 'Neighbourhood 1 Abbr')
     ];
 
@@ -89,9 +89,9 @@ tape('tests', (test) => {
             {id: 17, name: 'Borough 1', abbr: 'Borough 1 Abbr'},
             {id: 18, name: 'Borough 2', abbr: 'Borough 2 Abbr'},
           ],
-          macrohood: [
-            {id: 19, name: 'Macrohood 1', abbr: 'Macrohood 1 Abbr'},
-            {id: 20, name: 'Macrohood 2', abbr: 'Macrohood 2 Abbr'}
+          postalcode: [
+            {id: 19, name: 'Postalcode 1', abbr: 'Postalcode 1 Abbr'},
+            {id: 20, name: 'Postalcode 2', abbr: 'Postalcode 2 Abbr'}
           ],
           neighbourhood: [
             {id: 21, name: 'Neighbourhood 1', abbr: 'Neighbourhood 1 Abbr'},

@@ -1,7 +1,4 @@
-'use strict';
-
 const config = require('pelias-config').generate();
-
 const createPIPService = require('../../src/pip/index').create;
 const fs = require('fs');
 const async = require('async');

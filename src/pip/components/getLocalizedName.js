@@ -1,5 +1,3 @@
-'use strict';
-
 const _ = require('lodash');
 const logger = require('pelias-logger').get('wof-pip-service');
 

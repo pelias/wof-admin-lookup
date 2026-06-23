@@ -1,5 +1,3 @@
-'use strict';
-
 const _ = require('lodash');
 
 // this function is used to verify that a US county QS altname is available

@@ -1,5 +1,5 @@
 const tape = require('tape');
-const childProcess = require( 'child_process' );
+const childProcess = require('child_process');
 const path = require('path');
 const temp = require('temp').track();
 const fs = require('fs');
