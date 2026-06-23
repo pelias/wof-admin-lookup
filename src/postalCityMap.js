@@ -87,6 +87,18 @@ function loadTable(cc){
     }
   });
 
+  // when wofid and name columns contain a hyphen, this indicates that postal city mapping
+  // is disabled for this postalcode. This is useful for cases where the postal code is shared by
+  // multiple localities and we don't want to override the locality returned by the Point-in-Polygon query.
+  const disabled = new Set(
+    rows
+      .filter(row => row.wofid === '-' && row.name === '-')
+      .map(row => row.postalcode)
+  );
+
+  // filter out all rows with disabled postcodes
+  rows = rows.filter(row => !disabled.has(row.postalcode));
+
   // generate map
   rows.forEach(row => {
     const postalcode = normalizePostcode(row.postalcode);
