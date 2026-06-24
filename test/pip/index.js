@@ -812,7 +812,7 @@ tape('PiP tests', test => {
         t.ok(logger.isInfoMessage(/marinearea worker loaded 0 features in \d+\.\d+ seconds/));
         t.ok(logger.isInfoMessage(/ocean worker loaded 0 features in \d+\.\d+ seconds/));
 
-        t.equals(logger.getInfoMessages().pop(), 'PIP Service Loading Completed!!!');
+        t.equals(logger.getInfoMessages().pop(), 'all layers loaded');
 
         service.end();
         config.unset();
