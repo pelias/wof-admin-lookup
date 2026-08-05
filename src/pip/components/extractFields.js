@@ -1,7 +1,7 @@
 var map = require('through2-map');
 var _ = require('lodash');
 
-const getDefaultName = require('./getDefaultName');
+const getDefaultName = require('pelias-whosonfirst').getDefaultName;
 const getLocalizedName = require('./getLocalizedName');
 
 
@@ -56,7 +56,7 @@ function getName(wofData, enableLocalizedNames) {
   if (enableLocalizedNames === true) {
     return getLocalizedName(wofData);
   }
-  return getDefaultName(wofData);
+  return getDefaultName(wofData.properties);
 }
 
 /*

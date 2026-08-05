@@ -363,6 +363,230 @@ tape('extractFields tests', function(test) {
 
   });
 
+  test.test('US county with label:eng_x_preferred_longname should prefer it over qs:a2_alt', function(t) {
+    var input = {
+      properties: {}
+    };
+    input.properties['wof:id'] = 17;
+    input.properties['wof:name'] = 'Kings';
+    input.properties['iso:country'] = 'US';
+    input.properties['wof:placetype'] = 'county';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      }
+    ];
+    input.properties['label:eng_x_preferred_longname'] = ['Kings County'];
+    input.properties['qs:a2_alt'] = 'a different qs:a2_alt value';
+    input.properties['wof:country_alpha3'] = 'USA';
+
+    var expected = {
+      properties: {
+        Id: 17,
+        Name: 'Kings County',
+        Abbrev: undefined,
+        Placetype: 'county',
+        Hierarchy: [
+          [ 12, 34 ]
+        ],
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
+      },
+      geometry: undefined
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('CA county with label:eng_x_preferred_longname should use it (qualifier-preferred ' +
+    'allowlist is not US-only)', function(t) {
+    var input = {
+      properties: {}
+    };
+    input.properties['wof:id'] = 17;
+    input.properties['wof:name'] = 'Shelburne';
+    input.properties['iso:country'] = 'CA';
+    input.properties['wof:placetype'] = 'county';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      }
+    ];
+    input.properties['label:eng_x_preferred_longname'] = ['Shelburne County'];
+
+    var expected = {
+      properties: {
+        Id: 17,
+        Name: 'Shelburne County',
+        Abbrev: undefined,
+        Placetype: 'county',
+        Hierarchy: [
+          [ 12, 34 ]
+        ],
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
+      },
+      geometry: undefined
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('FR county with only label:eng_x_preferred_longname (no wof:lang_x_official) should ' +
+    'fall back to the English longname', function(t) {
+    var input = {
+      properties: {}
+    };
+    input.properties['wof:id'] = 17;
+    input.properties['wof:name'] = 'Montmarault';
+    input.properties['iso:country'] = 'FR';
+    input.properties['wof:placetype'] = 'county';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      }
+    ];
+    input.properties['label:eng_x_preferred_longname'] = ['Montmarault Canton'];
+
+    var expected = {
+      properties: {
+        Id: 17,
+        Name: 'Montmarault Canton',
+        Abbrev: undefined,
+        Placetype: 'county',
+        Hierarchy: [
+          [ 12, 34 ]
+        ],
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
+      },
+      geometry: undefined
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('FR region with wof:lang_x_official set should prefer the French longname over the ' +
+    'English one (qualifier-preferred allowlist includes FR region/macroregion/macrocounty too)', function(t) {
+    var input = {
+      properties: {}
+    };
+    input.properties['wof:id'] = 17;
+    input.properties['wof:name'] = 'Occitania';
+    input.properties['iso:country'] = 'FR';
+    input.properties['wof:placetype'] = 'region';
+    input.properties['wof:lang_x_official'] = ['fra'];
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      }
+    ];
+    input.properties['label:eng_x_preferred_longname'] = ['Occitania Region'];
+    input.properties['label:fra_x_preferred_longname'] = ['Occitanie'];
+
+    var expected = {
+      properties: {
+        Id: 17,
+        Name: 'Occitanie',
+        Abbrev: undefined,
+        Placetype: 'region',
+        Hierarchy: [
+          [ 12, 34 ]
+        ],
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
+      },
+      geometry: undefined
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
+  test.test('label:eng_x_preferred_longname should NOT be used outside the qualifier-preferred ' +
+    'allowlist, even for an otherwise-allowlisted country (eg. Greater London stays Greater London, ' +
+    'not the ceremonial-county longname)', function(t) {
+    var input = {
+      properties: {}
+    };
+    input.properties['wof:id'] = 17;
+    input.properties['wof:name'] = 'Greater London';
+    input.properties['iso:country'] = 'GB';
+    input.properties['wof:placetype'] = 'macrocounty';
+    input.properties['wof:hierarchy'] = [
+      {
+        placetype1: 12,
+        placetype2: 34
+      }
+    ];
+    input.properties['label:eng_x_preferred_longname'] = ['Greater London Ceremonial County'];
+
+    var expected = {
+      properties: {
+        Id: 17,
+        Name: 'Greater London',
+        Abbrev: undefined,
+        Placetype: 'macrocounty',
+        Hierarchy: [
+          [ 12, 34 ]
+        ],
+        Centroid: {
+          lat: undefined,
+          lon: undefined
+        },
+        BoundingBox: undefined
+      },
+      geometry: undefined
+    };
+
+    var extractFields = require('../../../src/pip/components/extractFields').create();
+
+    test_stream([input], extractFields, function(err, actual) {
+      t.deepEqual(actual, [expected], 'should be equal');
+      t.end();
+    });
+
+  });
+
   test.test('record without hierarchy should substitute single-element array of record id', t => {
     const input = {
       properties: {
