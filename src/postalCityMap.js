@@ -49,16 +49,12 @@ const USA_ISO_CODES = ['USA','ASM','GUM','MNP','PRI','VIR'];
   please open a Pull Request.
 **/
 
-// select which ISO country code files are loaded.
-const tables = {
-  'ASM': loadTable('ASM'), // American Samoa
-  'GUM': loadTable('GUM'), // Guam
-  'MNP': loadTable('MNP'), // Northern Mariana Islands
-  'PRI': loadTable('PRI'), // Puerto Rico
-  'USA': loadTable('USA'), // Unites States of America
-  'VIR': loadTable('VIR'), // United States Virgin Islands
-  'NLD': loadTable('NLD'), // The Netherlands
-};
+const configPostalCitiesCountries = _.get(config, 'imports.adminLookup.postalCitiesCountries', ['ASM','GUM','MNP','PRI','USA','VIR','NLD']);
+
+const tables = {};
+configPostalCitiesCountries.forEach(country => {
+  tables[country] = loadTable(country);
+});
 
 // load the file format in to memory
 function loadTable(cc){
