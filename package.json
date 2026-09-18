@@ -46,7 +46,7 @@
     "deep-diff": "^1.0.2",
     "jshint": "^2.13.6",
     "nock": "^14.0.10",
-    "pelias-mock-logger": "^1.7.0",
+    "pelias-mock-logger": "^2.0.0",
     "pelias-model": "^10.6.0",
     "precommit-hook": "^3.0.0",
     "proxyquire": "^2.1.3",
