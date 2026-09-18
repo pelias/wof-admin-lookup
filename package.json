@@ -30,7 +30,7 @@
     "lodash": "^4.17.21",
     "parallel-transform": "^1.2.0",
     "pelias-config": "^7.0.0",
-    "pelias-logger": "^1.6.0",
+    "pelias-logger": "^2.0.0",
     "pelias-microservice-wrapper": "^1.10.0",
     "pelias-spatial": "^1.3.4",
     "pelias-whosonfirst": "^9.0.0",
