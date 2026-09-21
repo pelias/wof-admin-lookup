@@ -1,18 +1,17 @@
-const os = require('os');
 const path = require('path');
 const logger = require('pelias-logger').get('spatial-pip-resolver');
 const { Piscina } = require('piscina');
-const THREADS = os.availableParallelism() - 1;
 
 class SpatialPipService {
-  constructor () {
+  constructor (config) {
+    const threads = config.workerThreads;
     this.pool = new Piscina({
       filename: path.resolve(__dirname, 'spatialWorker.js'),
-      minThreads: THREADS,
-      maxThreads: THREADS,
+      minThreads: threads,
+      maxThreads: threads,
       idleTimeout: Infinity
     });
-    logger.info(`using ${THREADS} worker threads`);
+    logger.info(`using ${threads} worker threads`);
   }
 
   lookup(centroid, layers, cb) {
@@ -26,6 +25,6 @@ class SpatialPipService {
   }
 }
 
-module.exports = (datapath, layers) => {
-  return new SpatialPipService(datapath, layers);
+module.exports = (config) => {
+  return new SpatialPipService(config);
 };

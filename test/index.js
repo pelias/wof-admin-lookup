@@ -196,6 +196,36 @@ tape('tests for main entry point', (test) => {
 
   });
 
+  test.test('localResolver should pass adminLookup config to spatial resolver when services.spatial is configured', (t) => {
+    const resolver = proxyquire('../index', {
+      './schema': 'this is the schema',
+      'pelias-config': {
+        generate: () => {
+          return {
+            imports: {
+              adminLookup: {
+                enabled: true,
+                workerThreads: 3
+              }
+            },
+            services: {
+              spatial: {
+                datapath: 'this is the spatial datapath',
+                files: ['spatial.db']
+              }
+            }
+          };
+        }
+      },
+      './src/spatialPipResolver': (config) => {
+        t.equals(config.workerThreads, 3, 'workerThreads should be from config');
+        return 'this is the resolver';
+      }
+    }).localResolver(['layer 1', 'layer 2']);
+    t.equal(resolver, 'this is the resolver');
+    t.end();
+  });
+
   test.test('localResolver function should return local resolver even if resolver would return a remote resolver', (t) => {
     const resolver = proxyquire('../index', {
       // verify the schema

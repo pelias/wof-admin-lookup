@@ -6,6 +6,7 @@ require ('./lookupStreamEndonymsTest.js');
 require ('./postalCityMapTest.js');
 require ('./localPipResolverTest.js');
 require ('./remotePipResolverTest.js');
+require ('./spatialPipResolverTest.js');
 require ('./pip/index.js');
 require ('./pip/worker.js');
 require ('./pip/components/extractFieldsTest.js');

@@ -156,6 +156,52 @@ tape('test configuration scenarios', (test) =>  {
 
   });
 
+  test.test('non-integer or less than 1 imports.adminLookup.workerThreads should throw error', (t) =>  {
+    [
+      [17.3, '"imports.adminLookup.workerThreads" must be an integer'],
+      [0, '"imports.adminLookup.workerThreads" must be greater than or equal to 1'],
+      ['string', '"imports.adminLookup.workerThreads" must be a number']
+    ].forEach(([value, message]) => {
+      const config = {
+        imports: {
+          adminLookup: {
+            workerThreads: value
+          },
+          whosonfirst: {
+            datapath: 'datapath value'
+          }
+        }
+      };
+
+      const result = schema.validate(config);
+
+      t.equals(result.error.details.length, 1);
+      t.equals(result.error.details[0].message, message);
+    });
+
+    t.end();
+
+  });
+
+  test.test('missing imports.adminLookup.workerThreads should default to number of cpus - 1, at most 16', (t) =>  {
+    const config = {
+      imports: {
+        adminLookup: {
+        },
+        whosonfirst: {
+          datapath: 'datapath value'
+        }
+      }
+    };
+
+    const result = schema.validate(config);
+
+    t.equals(result.value.imports.adminLookup.workerThreads, Math.min(Math.max(os.availableParallelism() - 1, 1), 16));
+    t.notOk(result.error);
+    t.end();
+
+  });
+
   test.test('non-boolean imports.adminLookup.enabled should throw error', (t) =>  {
     [null, 'string', {}, [], 17].forEach((value) => {
       const config = {
