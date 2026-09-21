@@ -6,11 +6,15 @@ const os = require('os');
 // in the future we may want to reduce it to something like 2x
 const DEFAULT_PARALLELISM = os.availableParallelism() *10;
 
+// default number of worker threads used for local 'services.spatial' lookups
+const DEFAULT_WORKER_THREADS = Math.max(os.availableParallelism() - 1, 1);
+
 module.exports = Joi.object().keys({
   imports: Joi.object().required().keys({
     adminLookup: Joi.object().keys({
       // default maxConcurrentReqs to # of cpus/cores * 10
       maxConcurrentReqs: Joi.number().integer().default(DEFAULT_PARALLELISM),
+      workerThreads: Joi.number().integer().min(1).default(DEFAULT_WORKER_THREADS),
       enabled: Joi.boolean().default(true),
       missingMetafilesAreFatal: Joi.boolean().default(false),
       usePostalCities: Joi.boolean().default(false),

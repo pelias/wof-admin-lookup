@@ -30,7 +30,7 @@ function localResolver(layers) {
 
   // use spatial service if configured
   if (_.has(peliasConfig, 'services.spatial')) {
-    return require('./src/spatialPipResolver')();
+    return require('./src/spatialPipResolver')(_.get(peliasConfig, 'imports.adminLookup', {}));
   }
 
   // otherwise use legacy local pip resolver
