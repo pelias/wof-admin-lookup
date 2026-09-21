@@ -1,11 +1,10 @@
-const os = require('os');
 const path = require('path');
 const logger = require('pelias-logger').get('spatial-pip-resolver');
 const { Piscina } = require('piscina');
 
 class SpatialPipService {
-  constructor (config = {}) {
-    const threads = config.workerThreads || Math.max(os.availableParallelism() - 1, 1);
+  constructor (config) {
+    const threads = config.workerThreads;
     this.pool = new Piscina({
       filename: path.resolve(__dirname, 'spatialWorker.js'),
       minThreads: threads,

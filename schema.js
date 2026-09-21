@@ -7,7 +7,8 @@ const os = require('os');
 const DEFAULT_PARALLELISM = os.availableParallelism() *10;
 
 // default number of worker threads used for local 'services.spatial' lookups
-const DEFAULT_WORKER_THREADS = Math.max(os.availableParallelism() - 1, 1);
+// capped since larger machines are unlikely to be limited by the lookup workers
+const DEFAULT_WORKER_THREADS = Math.min(Math.max(os.availableParallelism() - 1, 1), 16);
 
 module.exports = Joi.object().keys({
   imports: Joi.object().required().keys({

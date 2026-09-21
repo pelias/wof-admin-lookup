@@ -183,7 +183,7 @@ tape('test configuration scenarios', (test) =>  {
 
   });
 
-  test.test('missing imports.adminLookup.workerThreads should default to number of cpus - 1', (t) =>  {
+  test.test('missing imports.adminLookup.workerThreads should default to number of cpus - 1, at most 16', (t) =>  {
     const config = {
       imports: {
         adminLookup: {
@@ -196,7 +196,7 @@ tape('test configuration scenarios', (test) =>  {
 
     const result = schema.validate(config);
 
-    t.equals(result.value.imports.adminLookup.workerThreads, Math.max(os.availableParallelism() - 1, 1));
+    t.equals(result.value.imports.adminLookup.workerThreads, Math.min(Math.max(os.availableParallelism() - 1, 1), 16));
     t.notOk(result.error);
     t.end();
 
