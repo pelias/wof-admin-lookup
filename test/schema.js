@@ -202,6 +202,55 @@ tape('test configuration scenarios', (test) =>  {
 
   });
 
+  test.test('non-integer or less than 1 imports.adminLookup.maxBatchSize and batchesPerWorker should throw error', (t) =>  {
+    ['maxBatchSize', 'batchesPerWorker'].forEach((key) => {
+      [
+        [17.3, `"imports.adminLookup.${key}" must be an integer`],
+        [0, `"imports.adminLookup.${key}" must be greater than or equal to 1`],
+        ['string', `"imports.adminLookup.${key}" must be a number`]
+      ].forEach(([value, message]) => {
+        const config = {
+          imports: {
+            adminLookup: {
+              [key]: value
+            },
+            whosonfirst: {
+              datapath: 'datapath value'
+            }
+          }
+        };
+
+        const result = schema.validate(config);
+
+        t.equals(result.error.details.length, 1);
+        t.equals(result.error.details[0].message, message);
+      });
+    });
+
+    t.end();
+
+  });
+
+  test.test('missing imports.adminLookup.maxBatchSize and batchesPerWorker should default to 16 and 4', (t) =>  {
+    const config = {
+      imports: {
+        adminLookup: {
+        },
+        whosonfirst: {
+          datapath: 'datapath value'
+        }
+      }
+    };
+
+    const result = schema.validate(config);
+
+    t.equals(result.value.imports.adminLookup.maxBatchSize, 16);
+    t.equals(result.value.imports.adminLookup.batchesPerWorker, 4);
+    t.notOk(result.error);
+    t.end();
+
+  });
+
   test.test('non-boolean imports.adminLookup.enabled should throw error', (t) =>  {
     [null, 'string', {}, [], 17].forEach((value) => {
       const config = {

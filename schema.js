@@ -16,6 +16,8 @@ module.exports = Joi.object().keys({
       // default maxConcurrentReqs to # of cpus/cores * 10
       maxConcurrentReqs: Joi.number().integer().default(DEFAULT_PARALLELISM),
       workerThreads: Joi.number().integer().min(1).default(DEFAULT_WORKER_THREADS),
+      maxBatchSize: Joi.number().integer().min(1).default(16),
+      batchesPerWorker: Joi.number().integer().min(1).default(4),
       enabled: Joi.boolean().default(true),
       missingMetafilesAreFatal: Joi.boolean().default(false),
       usePostalCities: Joi.boolean().default(false),
