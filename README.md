@@ -82,7 +82,9 @@ note: all properties may be omitted and will default to reasonable values, `enab
       "usePostalCities": true,
       "useEndonyms": true,
       "maxConcurrentReqs": 80,
-      "workerThreads": 7
+      "workerThreads": 7,
+      "maxBatchSize": 16,
+      "batchesPerWorker": 4
     }
   }
 }
@@ -102,6 +104,7 @@ To use the [pelias/spatial](https://github.com/pelias/spatial) module for PIP op
 ```
 
 Lookups against the spatial databases run in a pool of worker threads, `imports.adminLookup.workerThreads` sets its size (default: number of CPUs - 1, at most 16).
+Lookups are sent to the workers in batches of up to `maxBatchSize` (default: 16), sized so that the `maxConcurrentReqs` in-flight lookups make about two batches per worker, and each worker may hold `batchesPerWorker` batches at once (default: 4).
 
 Or to use the legacy in-memory PIP resolver, unset/delete the `services.spatial` config block and ensure the `imports.whosonfirst` config block is correctly set:
 
